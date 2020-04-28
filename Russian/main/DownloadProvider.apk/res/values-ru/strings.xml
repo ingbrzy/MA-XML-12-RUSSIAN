@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_label">Загрузки</string>
+  <string name="button_cancel_download">Отмена</string>
+  <string name="button_download_now">Загрузить</string>
+  <string name="button_queue_for_wifi">Отложить</string>
+  <string name="button_start_now">Продолжить</string>
+  <string name="button_wait_for_wifi">Подождать Wi-Fi</string>
+  <string name="channel_active">Активные загрузки</string>
+  <string name="channel_complete">Завершенные загрузки</string>
+  <string name="channel_insufficient_space">Недостаточно места</string>
+  <string name="channel_waiting">Ожидание загрузки</string>  
+  <string name="dialog_button_cancel">Отмена</string>
+  <string name="dialog_button_ok">ОК</string>
+  <string name="dialog_content_limit_max">Без ограничений</string>
+  <string name="dialog_content_limit0">Только по Wi-Fi</string>
+  <string name="dialog_data_limit_button1">Подождать Wi-Fi</string>
+  <string name="dialog_data_limit_button2">Загрузить</string>
+  <string name="dialog_data_limit_msg1">%s мобильного интернета будет использовано для загрузки этого файла. Продолжить?</string>
+  <string name="dialog_data_limit_msg3">Изменить лимит</string>
+  <string name="dialog_data_limit_title">Использование мобильного интернета</string>
+  <string name="dialog_insufficient_space_on_cache">Недостаточно места во внутренней памяти</string>
+  <string name="dialog_insufficient_space_on_external">Недостаточно места на внешней памяти</string>
+  <string name="dialog_not_show_again">Больше не показывать</string>
+  <string name="dialog_tip_limit">Предупреждать при загрузке больше %s</string>
+  <string name="dialog_tip_limit0">Предупреждать каждый раз</string>
+  <string name="dialog_tip_no_limit">Не предупреждать</string>
+  <string name="download_apk_desktop_installing">Установка</string>
+  <string name="download_apk_desktop_pause">Приостановлено</string>
+  <string name="download_apk_desktop_pending">Ожидание</string>
+  <string name="download_apk_desktop_running">Загрузка</string> 
+  <string name="download_error">Ошибка</string>
+  <string name="download_filesize_unknown">Неизвестно</string>
+  <string name="download_no_application_title">Ошибка открытия файла</string>
+  <string name="download_queued">В очереди</string>
+  <string name="download_remaining">Осталось %s</string>
+  <string name="download_running">Загружается</string>
+  <string name="download_running_percent">Загружается, %d%%</string>
+  <string name="download_unknown_title">&lt;Без названия&gt;</string>
+  <string name="enter_garbage_clean">Очистка внутренней памяти</string>
+  <string name="insufficient_space">Недостаточно места во внутренней памяти устройства</string>
+  <string name="mobile_recommended_title">Мобильный интернет</string>
+  <string name="notif_text_engine_off">Ускорение Xunlei отключено</string>
+  <string name="notif_text_engine_on">Ускорение…</string>  
+  <string name="notif_title_file_size">Всего: %1$d</string>
+  <string name="notif_title_multiple_downloading">Загружается файлов: %1$d</string>
+  <string name="notif_title_single_downloading">Загрузка файла (%1$s)</string>
+  <string name="notification_dld_msg">Управление загружаемыми приложениями</string>
+  <string name="notification_download_complete">Загрузка завершена.</string>
+  <string name="notification_download_failed">Ошибка загрузки.</string>
+  <string name="notification_download_success_more">Загружено: %1$d</string>
+  <string name="notification_need_wifi_for_size">Для загрузки требуется Wi-Fi.</string>
+  <string name="notification_paused_in_background">Загрузка приостановлена.</string>
+  <string name="notify_disabled_net_by_app">Подключение к интернету ограничено приложением Безопасность</string>
+  <string name="notify_install_guide_forward_text">Открыть</string>
+  <string name="notify_install_guide_msg">Приложение успешно установлено</string>
+  <string name="notify_install_guide_title">Установка \"%s\"</string>  
+  <string name="notify_only_wifi_download">Одидание Wi-Fi</string>
+  <string name="paused_waiting_for_network">Ожидание сети</string>
+  <string name="permdesc_accessAllDownloads">Позволяет приложению просматривать и изменять все загрузки, инициированные любым приложением в системе.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">Позволяет приложению загружать файлы в кэш загрузок, который не может быть автоматически очищен диспетчером загрузок при нехватке места.</string>
+  <string name="permdesc_downloadCompletedIntent">Позволяет приложению отправлять уведомления о завершенных загрузках. Вредоносные приложения могут использовать это для обмана других приложений, загружающих файлы.</string>
+  <string name="permdesc_downloadManager">Позволяет приложению получать доступ к диспетчеру загрузок и использовать его для загрузки файлов. Вредоносные приложения могут использовать это для доступа к личной информации.</string>
+  <string name="permdesc_downloadManagerAdvanced">Позволяет приложению получать доступ к расширенным функциям диспетчера загрузок. Вредоносные приложения могут использовать это для доступа к личной информации.</string>
+  <string name="permdesc_downloadWithoutNotification">Позволяет приложению загружать файлы без уведомления пользователя.</string>
+  <string name="permdesc_seeAllExternal">Позволяет приложению просматривать все загрузки на внешнем накопителе вне зависимости от того, какое приложение их загрузило.</string>
+  <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам в системе</string>
+  <string name="permlab_downloadCacheNonPurgeable">Резервирование места в кэше загрузок</string>
+  <string name="permlab_downloadCompletedIntent">Отправка уведомлений о загрузке</string>
+  <string name="permlab_downloadManager">Доступ к Загрузкам</string>
+  <string name="permlab_downloadManagerAdvanced">Расширенные функции Загрузок</string>
+  <string name="permlab_downloadWithoutNotification">Загрузка файлов без уведомления</string>
+  <string name="permlab_seeAllExternal">Просмотр загрузок на SD карте</string>
+  <string name="privacy_notif_content">Нажмите для информации.</string>
+  <string name="privacy_notif_title">Ускорение Xunlei включено</string>  
+  <string name="privacy_tip_cancel">Отмена</string>
+  <string name="privacy_tip_content">Использовать ускорение Xunlei для увеличения скорости загрузки? URL-адрес загрузки будет загружен на серверы Xunlei. Также, будут загружены данные Mi Аккаунта для проверки активных подписок на эту услугу.</string>
+  <string name="privacy_tip_ok">ОК</string>
+  <string name="privacy_tip_title">Использовать ускорение Xunlei?</string>  
+  <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного интернета для загрузки этого файла?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
+  <string name="root_downloads">Загрузки</string>
+  <string name="task_already_exist">Задание уже существует</string>
+  <string name="warning_tip_cancel">Загрузка</string>
+  <string name="warning_tip_content">Соединение с Wi-Fi разорвано. Для продолжения загрузки будет использован мобильный интернет."</string>
+  <string name="warning_tip_ok">Пауза</string>
+  <string name="warning_tip_title">Использование мобильного интернета</string>
+  <string name="wifi_recommended_body" formatted="false">"Запуск этой загрузки (%s) может сократить время автономной работы и/или привести к чрезмерному потреблению мобильного трафика.
+
+Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
+  <string name="wifi_recommended_title">Файл слишком большой</string>
+  <string name="wifi_required_body" formatted="false">"Для завершения этой загрузки необходимо подключение к Wi-Fi (%s).
+
+Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
+  <string name="wifi_required_title">Файл слишком большой</string>
+  <string name="xl_speedup_experience_notify_context">Увеличение скорости загрузок при подписке на Xunlei</string>
+  <string name="xl_speedup_experience_notify_title">Подписка Xunlei</string>
+  <string name="xl_speedup_notify_button_experience">Попробовать бесплатно</string>
+  <string name="xl_speedup_notify_button_member">Оформить подписку</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="actionbar_button_up_description">Назад</string>
+  <string name="casting_tips">Отображение...</string>
+  <string name="console_guide_btn_got_it">Понятно</string>
+  <string name="console_guide_subtitle_hang_up">"Не прерывайте трансляцию при выключении экрана телефона. Это может привести к повышенному расходу заряда батареи."</string>
+  <string name="console_guide_subtitle_private">"Не транслируйте всплывающие уведомления, уведомления о входящих вызовах и другие элементы, которые могут содержать личную информацию."</string>
+  <string name="console_guide_subtitle_small_window">Минимизируйте  окно, чтобы иметь возможность пользоваться телефоном во время трансляции</string>
+  <string name="dialog_can_not_find_device">Не удалось найти устройства поблизости</string>
+  <string name="dialog_cancle">Отмена</string>
+  <string name="dialog_connect_fail">Не удалось подключиться</string>
+  <string name="dialog_connect_retry">Нажмите, чтобы повторить попытку</string>
+  <string name="dialog_connect_verify_perssion">Дайте разрешение на трансляцию на телевизоре.</string>
+  <string name="dialog_connect_verify_perssion_fail">Не удалось получить разрешение для трансляции на телевизоре. Повторите попытку позже.</string>
+  <string name="dialog_connected">Подключено</string>
+  <string name="dialog_connecting">Подключение…</string>
+  <string name="dialog_ok">ОК</string>
+  <string name="dialog_only_suport_content">Передача фотографий, видео или музыки</string>
+  <string name="dialog_open_wifi_bt">Включить</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Убедитесь, что на целевом устройстве включена функция трансляции.
+Обратитесь к \"Справке\", если есть проблемы с подключением."</string>
+  <string name="dialog_recent_connected">Недавние</string>
+  <string name="dialog_retry">Попробуйте еще раз</string>
+  <string name="dialog_scanning_device">Поиск устройств поблизости…</string>
+  <string name="dialog_scanning_precondition">Включите Wi-Fi и Bluetooth на телефоне для использования беспроводного дисплея.</string>
+  <string name="dialog_select_tv">Выберите устройство (%d)</string>
+  <string name="dialog_show_help">Справка</string>
+  <string name="disconnect">Остановить трансляцию</string>
+  <string name="hang_up">Трансляция при выключенном экране</string>
+  <string name="hang_up_alert_dialog_content">При выключении экрана трансляция будет продолжаться. Для включения экрана нажмите кнопку питания.</string>
+  <string name="hang_up_alert_dialog_neg">Отмена</string>
+  <string name="hang_up_alert_dialog_pos">ОК</string>
+  <string name="hang_up_alert_dialog_title">Трансляция при выключенном экране</string>
+  <string name="help_page_text_01">Справка</string>
+  <string name="help_page_text_02">Что такое трансляция?</string>
+  <string name="help_page_text_03">Трансляция - вывод содержимого экрана на внешний монитор. Можно делиться фото и видео, играть в игры. Расход заряда батареи при этом повышается незначительно.</string>
+  <string name="help_page_text_04">Как организовать трансляцию?</string>
+  <string name="help_page_text_05">Шаг 1</string>
+  <string name="help_page_text_06">"1. Используйте для подключения без использования сети, специальные передатчик и приемник для телефона и телевизора, если они имеются.
+2. Некоторые телевизоры Xiaomi или других брендов не поддерживают smart screening, в этом случае необходимо подключить телевизор к телефону в той же самой беспроводной сети."</string>
+  <string name="help_page_text_06_global">"1. Mi TV, Mi Box и Mi Projector:
+Для лучшего эффекта подключите телефон и внешний монитор к одной сети Wi-Fi. Если они подключены к разным сетям, может потребоваться больше времени, чтобы найти внешний монитор и подключиться.
+Примечание. Старые Mi TV могут не поддерживать трансляцию в разных сетях.
+2. Если вы используете телевизоры, телевизионные приставки или проекторы других брендов, подключите телефон и внешний монитор к одной сети Wi-Fi.
+Если два устройства не могут быть подключены к одной сети, включите Miracast на внешнем мониторе. Названия функции Miracast может отличаться."</string>
+  <string name="help_page_text_08">Шаг 2</string>
+  <string name="help_page_text_09">"Нажмите переключатель \"Трансляция\" в шторке уведомлений. Включите Wi-fi и Bluetooth."</string>
+  <string name="help_page_text_10">Если вы хотите транслировать из Галереи или Mi Видео, используйте встроенные функции трансляции в этих приложениях.</string>
+  <string name="help_page_text_11">Шаг 3</string>
+  <string name="help_page_text_12">Выберите устройство из списка доступных.</string>
+  <string name="help_page_text_13">"Не удалось подключиться к устройству?"</string>
+  <string name="help_page_text_14">"1. Если вы хотите использовать Xiaomi устройство, но не можете найти его в списке доступных устройств, попробуйте следующее:
+Подключите телефон и внешний монитор (например, телевизор) к одной сети Wi-Fi или подключите внешний монитор к точке доступа телефона. Если нет доступных сетей Wi-Fi или не удается подключить оба устройства к одной и той же сети, убедитесь в возможности приема трансляции на внешнем мониторе. Включите Bluetooth на телефоне, включите Bluetooth на внешнем мониторе или Miracast на телевизоре.
+2. Если вы транслируете на Xiaomi устройство впервые, необходимо пройти верификацию.
+3. Если вы хотите использовать устройство, отличное от Xiaomi, но не можете найти его в списке доступных устройств, попробуйте следующее:
+Подключите телефон и внешний монитор (например, телевизор) к одной сети Wi-Fi или подключите внешний монитор к точке доступа вашего телефона. Если это не помогает, установите приложение LeEco Casting на телевизор и следуйте инструкциям."</string>
+  <string name="help_page_text_14_global">"1. Если вы хотите использовать Xiaomi устройство, но не можете найти его в списке доступных устройств, попробуйте следующее:
+Подключите телефон и внешний монитор (например, телевизор) к одной сети Wi-Fi или подключите внешний монитор к точке доступа телефона. Если нет доступных сетей Wi-Fi или не удается подключить оба устройства к одной и той же сети, убедитесь в возможности приема трансляции на внешнем мониторе. Включите Bluetooth на телефоне, включите Bluetooth на внешнем мониторе или Miracast на телевизоре.
+2. Если вы транслируете на Xiaomi устройство впервые, необходимо пройти верификацию.
+3. Если вы хотите использовать устройство, отличное от Xiaomi, но не можете найти его в списке доступных устройств, попробуйте следующее:
+Подключите телефон и внешний монитор (например, телевизор) к одной сети Wi-Fi или подключите внешний монитор к точке доступа вашего телефона."</string>
+  <string name="help_page_text_15">Поддержка Miracast на других устройствах</string>
+  <string name="help_page_text_16">Mi TV/Mi проектор</string>
+  <string name="help_page_text_17">"Мобильный телефон Xiaomi может напрямую подключаться к большинству телевизоров Xiaomi по Bluetooth вместо ручного запуска функции Miracast.
+Если вам нужно вручную запустить функцию Miracast, вы можете нажать кнопку [Меню] на пульте дистанционного управления телевизора, перейти в Приложения &gt; Беспроводное отображение &gt; Millet / Android Miracast."</string>
+  <string name="help_page_text_17_1">Служба поддержки Xiaomi: 400-100-5678</string>
+  <string name="help_page_text_18">Samsung TV</string>
+  <string name="help_page_text_19">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно нажать кнопку [SOURCE] на пульте дистанционного управления, а затем выберите \"Screen Mirroring\". Эта функция включена по умолчанию на многих моделях.</string>
+  <string name="help_page_text_20">Служба поддержки Samsung: 400-810-5858</string>
+  <string name="help_page_text_21">LG TV</string>
+  <string name="help_page_text_22">Убедитесь, что функция Miracast поддерживается на устройстве. Эта функция включена по умолчанию на многих моделях.</string>
+  <string name="help_page_text_23">Служба поддержки LG: 400-819-9999</string>
+  <string name="help_page_text_24">Philips TV</string>
+  <string name="help_page_text_25">Убедитесь, что функция Miracast поддерживается на устройстве. Эта функция включена по умолчанию на многих моделях.</string>
+  <string name="help_page_text_26">Служба поддержки Philips: 400-880-0008</string>
+  <string name="help_page_text_27">TPV</string>
+  <string name="help_page_text_28">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_29">Служба поддержки TPV: 400-887-8007</string>
+  <string name="help_page_text_30">Hisense</string>
+  <string name="help_page_text_31">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_32">Служба поддержки Hisense: 400-611-1111</string>
+  <string name="help_page_text_33">Skyworth</string>
+  <string name="help_page_text_34">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Трансляция &gt; Устройства Android &gt; Miracast.</string>
+  <string name="help_page_text_35">Служба поддержки Skyworth: 95105555</string>
+  <string name="help_page_text_36">Sony</string>
+  <string name="help_page_text_37">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства. На некоторых моделях вы можете нажать кнопку [SOURCE] на пульте дистанционного управления, а затем выбрать \"Screen Mirroring\". На некоторых других моделях вы можете включить эту функцию в Cети &gt; Wi-Fi Direct. Эта функция включена по умолчанию на различных моделях.</string>
+  <string name="help_page_text_38">Служба поддержки Sony: 400-810-9000</string>
+  <string name="help_page_text_39">Panasonic</string>
+  <string name="help_page_text_40">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Screen Mirroring.</string>
+  <string name="help_page_text_41">Служба поддержки Panasonic: 400-881-1315</string>
+  <string name="help_page_text_42">Changhong</string>
+  <string name="help_page_text_43">Проверьте настройки вашего телевизора, чтобы убедиться, что поддерживаются функции Miracast.</string>
+  <string name="help_page_text_44">Служба поддержки Changhong: 400-811-1666</string>
+  <string name="help_page_text_45">TCL</string>
+  <string name="help_page_text_46">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Беспроводный дисплей.</string>
+  <string name="help_page_text_47">Служба поддержки TCL: 400-812-3456</string>
+  <string name="help_page_text_48">AODIN</string>
+  <string name="help_page_text_49">Убедитесь, что функция Miracast поддерживается на устройстве. Чтобы включить эту функцию, перейдите в Мои приложения &gt; Wi-Fi дисплей.</string>
+  <string name="help_page_text_50">Служба поддержки AODIN: 400-810-5858</string>
+  <string name="help_page_text_51">LeTV</string>
+  <string name="help_page_text_52">Убедитесь, что устройство поддерживает протокол Miracast. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_53">Телефон службы поддержки LeTV: 10109000</string>
+  <string name="help_page_text_55">"Если вы не можете подключиться к сети, убедитесь, что ваш внешний монитор поддерживает функцию Miracast и он включен. В некоторых моделях эта функция называется беспроводным дисплеем, зеркальным отображением экрана или несколькими экранами. Посмотрите информацию ниже, чтобы узнать, как включить Miracast.
+4. Если у вас возникнут какие-либо проблемы, вы можете сообщить о них, используя приложение \"Помощь и обратная связь\"."</string>
+  <string name="help_page_text_55_global">"Если вы не можете подключиться к сети, убедитесь, что ваш внешний монитор поддерживает функцию Miracast и он включен. В некоторых моделях эта функция называется беспроводным дисплеем, зеркальным отображением экрана или несколькими экранами.
+4. Если у вас возникнут какие-либо проблемы, вы можете сообщить о них, используя приложение \"Помощь и обратная связь\"."</string>
+  <string name="help_page_text_end">"Если марка устройства не указана здесь, обратитесь к производителю, чтобы узнать о поддержке функции Miracast."</string>
+  <string name="nfc_connect_failed_toast">Трансляция не удалась. Повторите попытку.</string>
+  <string name="notification_rc_title">Помощник XiaoMi TV</string>
+  <string name="notification_show_more">Дополнительные функции</string>
+  <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+  <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string> 
+  <string name="privacy_text_1">&lt;Data&gt;"Добро пожаловать в приложение Трансляция! Трансляция позволяет проецировать содержимое с телефона на внешний монитор.
+Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Перед использованием этой функции прочтите и примите &amp;lt;a href=%2$s&amp;gt;Юридическое заявление HappyCast&amp;lt;/a&amp;gt; и &amp;lt;a href=%1$s&amp;gt;Политику конфиденциальности HappyCast&amp;lt;/a&amp;gt;.
+Для нормальной работы приложению необходимы подключение к интернету и разрешения на сбор личной информации:"&lt;/Data&gt;</string>
+  <string name="privacy_text_2">&lt;Data&gt;"В случае отказа предоставить разрешения, вы не сможете использовать приложение. В таком случае, вы можете удалить это приложение, выйти или ограничить разрешения в настройках.
+Прочитайте и примите наши &amp;lt;a href=%1$s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; перед использованием"&lt;/Data&gt;</string>
+  <string name="privacy_text_pemission">"　　• Использование Wi-Fi для обнаружения и подключения устройств.
+　　• Использование Bluetooth для обнаружения и подключения устройств.
+　　• Чтение памяти телефона, трансляция содержимого.
+　　• Получение информации о телефоне: IMEI, версия Android, записи журнала.
+　　• Трансляция звука на устройство.
+　　• Получение разрешений для обнаружения и подключения устройств"</string>
+  <string name="private_protect">Защита конфиденциальности</string>
+  <string name="san_wait_msg_1">Включите беспроводную трансляцию на целевом устройстве</string>
+  <string name="san_wait_msg_2">Поиск устройств может занять некоторое время…</string>
+  <string name="san_wait_msg_3">Внешние устройства легче найти, если они подключены к той же сети, что и телефон</string>
+  <string name="san_wait_msg_4">"Обратитесь к \"Справке\", если не удалось найти устройства"</string>
+  <string name="small_window">Минимизировать окно</string>
+  <string name="small_window_not_supported">Не удалось минимизировать окно приложения, ведущего трансляцию</string>
+  <string name="status_bar_in_casting">Трансляция</string>
+  <string name="status_bar_in_casting_long">Нажмите для дополнительных функций</string>
+  <string name="tile_label">Трансляция</string>
+  <string name="toast_guide_show_more">Узнать больше</string>
+  <string name="toast_guide_title">Новые функции</string>
+  <string name="toast_msg_for_multi_window">Эта функция недоступна в режиме разделения экрана</string>
+  <string name="toast_msg_for_small_window">Минимизируйте окно во время трансляции, это позволит пользоваться другими функциями и приложениями на телефоне.</string>
+  <string name="toast_title_for_small_window">Минимизируйте окно во время трансляции.</string>
+</resources>

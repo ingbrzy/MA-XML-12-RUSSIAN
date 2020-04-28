@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Однократно</item>
+        <item>Каждый день</item>
+        <item>В рабочие дни</item>
+        <item>По будням</item>
+        <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Однократно</item>
+        <item>Каждый день</item>
+        <item>По будням</item>
+        <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Все записи</item>
+        <item>Автозапуск</item>
+        <item>Цепной запуск</item>
+        <item>Разрешения</item>
+        <item>Действия</item>
+    </string-array>	
+    <string-array name="applock_password_types">
+        <item>Графический ключ</item>
+        <item>PIN-код</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"За неделю "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"За прошлый месяц "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"За неделю: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Вчера: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За прошлый месяц: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Вчера (3G/4G) "</item>
+        <item>"Сегодня (3G/4G) "</item>
+        <item>"За прошлый месяц (3G/4G) "</item>
+        <item>"За месяц (3G/4G) "</item>
+        <item>"Вчера (Wi-Fi) "</item>
+        <item>"Сегодня (Wi-Fi) "</item>
+        <item>"За прошлый месяц (Wi-Fi) "</item>
+        <item>"За месяц (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Да</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>При блокировке экрана</item>
+        <item>При блокировке или сразу после выхода из приложения</item>
+        <item>При блокировке или через минуту после выхода из приложения</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Трафик 3G/4G "</item>
+        <item>"Трафик Wi-Fi "</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Уведомлять</item>
+        <item>Уведомлять и отключать интернет</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Режим по умолчанию</item>
+        <item>Приоритет производительности</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Режим контроля температуры по умолчанию</item>
+        <item>Приоритет производительности</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Всегда</item>
+        <item>Только для исключений</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Трафик</item>
+        <item>Баланс</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Сортировка по состоянию</item>
+        <item>Сортировка по имени приложения</item>
+        <item>Сортировка по частоте использования</item>
+        <item>Сортировка по занимаемому месту</item>
+        <item>Сортировка по времени установки</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Состояние</item>
+        <item>Имя приложения</item>
+        <item>Частота использования</item>
+        <item>Занимаемое место</item>
+        <item>Время установки</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Уведомлять и отключать точку</item>
+        <item>Уведомлять</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Источник установки</item>
+        <item>Время установки</item>
+        <item>Источник обновления</item>
+        <item>Время обновления</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Месячный тариф</item>
+        <item>Суточный тариф</item>
+        <item>Безлимитный тариф</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Трафик 3G/4G "</item>
+        <item>"Трафик Wi-Fi "</item>
+    </string-array>
+</resources>

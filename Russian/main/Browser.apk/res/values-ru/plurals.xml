@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d просмотров</item>
+        <item quantity="one">%d просмотр</item>
+        <item quantity="few">%d просмотра</item>
+        <item quantity="many">%d просмотров</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Найдено %d новых элементов</item>
+        <item quantity="one">Найден %d новый элемент</item>
+        <item quantity="few">Найдено %d новых элемента</item>
+        <item quantity="many">Найдено %d новых элементов</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Последние %d дней</item>
+        <item quantity="one">Последний %d день</item>
+        <item quantity="few">Последние %d дня</item>
+        <item quantity="many">Последние %d дней</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d совпадений из %2$d</item>
+        <item quantity="one">%d совпадение</item>
+        <item quantity="few">%1$d совпадения из %2$d</item>
+        <item quantity="many">%1$d совпадений из %2$d</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Через %d секунд будет автоматически создана новая страница</item>
+        <item quantity="one">Через %d секунду будет автоматически создана новая страница</item>
+        <item quantity="few">Через %d секунды будет автоматически создана новая страница</item>
+        <item quantity="many">Через %d секунд будет автоматически создана новая страница</item>
+    </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">Заблокировано: %d</item>
+        <item quantity="one">Заблокировано: %d</item>
+        <item quantity="few">Заблокировано: %d</item>
+        <item quantity="many">Заблокировано: %d</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+        <item quantity="many">%d треков</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">%d альбом</item>
+        <item quantity="few">%d альбома</item>
+        <item quantity="many">%d альбомов</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d популярных песен</item>
+        <item quantity="one">%d популярная песня</item>
+        <item quantity="few">%d популярных песни</item>
+        <item quantity="many">%d популярных песен</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Воспроизведение видео через %1$d секунд</item>
+        <item quantity="one">Воспроизведение видео через %1$d секунду</item>
+        <item quantity="few">Воспроизведение видео через %1$d секунды</item>
+        <item quantity="many">Воспроизведение видео через %1$d секунд</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано: %1$d</item>
+        <item quantity="many">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Удалено %1$d видео.</item>
+        <item quantity="one">Удалено %1$d видео.</item>
+        <item quantity="few">Удалено %1$d видео.</item>
+        <item quantity="many">Удалено %1$d видео.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Удалить %1$d видео?</item>
+        <item quantity="one">Удалить %1$d видео?</item>
+        <item quantity="few">Удалить %1$d видео?</item>
+        <item quantity="many">Удалить %1$d видео?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d объектов удалено из истории.</item>
+        <item quantity="one">%1$d объект удален из истории.</item>
+        <item quantity="few">%1$d объекта удалено из истории.</item>
+        <item quantity="many">%1$d объектов удалено из истории.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Удалить %1$d объектов из истории?</item>
+        <item quantity="one">Удалить %1$d объект из истории?</item>
+        <item quantity="few">Удалить %1$d объекта из истории?</item>
+        <item quantity="many">Удалить %1$d объектов из истории?</item>
+    </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Не удалось загрузить видео. 
+Будет воспроизведено следующее через %d секунд…"</item>
+        <item quantity="one">"Не удалось загрузить видео. 
+Будет воспроизведено следующее через %d секунду…"</item>
+        <item quantity="few">"Не удалось загрузить видео. 
+Будет воспроизведено следующее через %d секунды…"</item>
+    </plurals>
+    <plurals name="video_push_multi_message">
+        <item quantity="other">Доступно %1$d обновлений.</item>
+        <item quantity="one">Доступно %1$d обновление.</item>
+        <item quantity="few">Доступно %1$d обновления.</item>
+        <item quantity="many">Доступно %1$d обновлений.</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Осталось %d минут</item>
+        <item quantity="one">Осталась %d минута</item>
+        <item quantity="few">Осталось %d минуты</item>
+        <item quantity="many">Осталось %d минут</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">Проверьте %1$d новых видео</item>
+        <item quantity="one">Проверьте %1$d новое видео</item>
+        <item quantity="few">Проверьте %1$d новых видео</item>
+        <item quantity="many">Проверьте %1$d новых видео</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s комментариев</item>
+        <item quantity="one">%s комментарий</item>
+        <item quantity="few">%s комментария</item>
+        <item quantity="many">%s комментариев</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d изображений</item>
+        <item quantity="one">%d изображение</item>
+        <item quantity="few">%d изображения</item>
+        <item quantity="many">%d изображений</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s просмотров</item>
+        <item quantity="one">%s просмотр</item>
+        <item quantity="few">%s просмотра</item>
+        <item quantity="many">%s просмотров</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s комментариев</item>
+        <item quantity="one">%1$s | %2$s комментарий</item>
+        <item quantity="few">%1$s | %2$s комментария</item>
+        <item quantity="many">%1$s | %2$s комментариев</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d человек уже проголосовали</item>
+        <item quantity="one">%d человек уже проголосовал</item>
+        <item quantity="few">%d человека уже проголосовали</item>
+        <item quantity="many">%d человек уже проголосовали</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s часов назад</item>
+        <item quantity="one">· %s час назад</item>
+        <item quantity="few">· %s часа назад</item>
+        <item quantity="many">· %s часов назад</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s минут назад</item>
+        <item quantity="one">· %s минуту назад</item>
+        <item quantity="few">· %s минуты назад</item>
+        <item quantity="many">· %s минут назад</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d ответов на Zhihu</item>
+        <item quantity="one">%d ответ на Zhihu</item>
+        <item quantity="few">%d ответа на Zhihu</item>
+        <item quantity="many">%d ответов на Zhihu</item>
+    </plurals>
+</resources>

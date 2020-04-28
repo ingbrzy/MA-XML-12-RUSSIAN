@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>Разумно</item>
+        <item>Долго</item>
+        <item>Слишком долго</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Время двигаться!</item>
+        <item>Узнать больше</item>
+        <item>Выпейте немного воды и прогуляйтесь</item>
+        <item>Узнать больше</item>
+        <item>Поднимитесь по лестнице</item>
+        <item>Узнать больше</item>
+        <item>Не сидите слишком долго</item>
+        <item>Узнать больше</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 час</item>
+        <item>2 часа</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item> ккал</item>
+        <item> кДж</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item> см</item>
+        <item> м</item>
+        <item> км</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Без ограничений</item>
+        <item>Ограничить фоновую активность</item>
+        <item>Закрыть через 10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item> км/ч</item>
+        <item> м/с</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>Сидячий образ жизни вызывает множество проблем со здоровьем. Если общая продолжительность времени сидя не может быть уменьшена, периодические действия стоя могут улучшить ситуацию.</item>
+        <item>Помощник будет напоминать о необходимости стоять по крайней мере 1 минуту в час для достижения ежедневной цели, чтобы избежать проблем сидячей жизни.</item>
+        <item>Нажмите кнопку Продолжить для активации помощника.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Помощник будет записывать, когда вы стоите, определяя состояние использования мобильного телефона. Если в течение 1 часа не будет обнаружено никакой активности, будет отправлено уведомление о необходимости встать или вручную добавить запись.</item>
+        <item>Подтверждение активации включит обнаружение положения стоя и напоминания об этом.</item>
+    </string-array>	
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>воскресение</item>
+        <item>понедельник</item>
+        <item>вторник</item>
+        <item>среда</item>
+        <item>четверг</item>
+        <item>пятница</item>
+        <item>суббота</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>вс</item>
+        <item>пн</item>
+        <item>вт</item>
+        <item>ср</item>
+        <item>чт</item>
+        <item>пт</item>
+        <item>сб</item>
+    </string-array>
+    <integer-array name="weight_line_chart_default_y">
+        <item>42</item>
+        <item>45</item>
+        <item>48</item>
+    </integer-array>
+    <string-array name="weight_unit">
+        <item> г</item>
+        <item> кг</item>
+        <item> т</item>
+        <item> лян</item>
+        <item> цзинь</item>
+        <item> фунт</item>
+    </string-array>
+</resources>
