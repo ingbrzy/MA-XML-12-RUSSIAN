@@ -1924,7 +1924,7 @@
     <string name="device_name_input_overlength">Слишком длинное имя устройства</string>
     <string name="device_name_usage_point">Другие устройства поблизости увидят это имя</string>
     <string name="device_oaid">ID устройства</string>
-    <string name="device_oaid_desc">Вместо вашего реального идентификатора MIUI предоставит сторонним приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваше поведение и предпочтения, а также защищает вашу конфиденциальность.</string>
+    <string name="device_oaid_desc">Вместо вашего реального идентификатора MIUI предоставит сторонним приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваши действия и предпочтения, а также защищает вашу конфиденциальность.</string>
     <string name="device_oaid_title">Виртуальный ID</string>
     <string name="device_of_someone">%1$s  %2$s</string>
     <string name="device_picker">Выбрать устройство Bluetooth</string>
@@ -1953,7 +1953,7 @@
     <string name="dialog_restrict_negative">Ограничить</string>
     <string name="dialog_restrict_positive">Отмена</string>
     <string name="dialog_speaker_auto_clean_button">Понятно</string>
-    <string name="dialog_speaker_auto_clean_content">Очистка занимает 30 секунд. Не покидайте эту страницу. Увеличьте громкость звука для достижения наилучшего эффекта.</string>
+    <string name="dialog_speaker_auto_clean_content">Очистка занимает 30 секунд. Не покидайте эту страницу. Увеличьте громкость звука для лучшего эффекта.</string>
     <string name="dialog_speaker_auto_clean_title">Внимание</string>
     <string name="dialog_title_color_calibration">Коррекция цвета</string>
     <string name="dialog_title_hdmi_color_calibration">Коррекция цвета</string>
@@ -2589,16 +2589,16 @@
     <string name="free_wifi_user_agreement_title">Предупреждение</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">Подключиться к сети \"%1$s\"</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_summary">Нажмите и удерживайте панель плавающего окна, затем потяните вниз</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Нажмите и удерживайте панель действий плавающего окна, затем потяните вниз</string>
     <string name="freeform_guide_drop_down_to_fullscreen_title">Полноэкранный режим</string>
-    <string name="freeform_guide_move_summary">Нажмите и удерживайте панель плавающего окна для перетаскивания</string>
-    <string name="freeform_guide_move_title">Перемещение</string>
+    <string name="freeform_guide_move_summary">Нажмите и удерживайте панель действий плавающего окна для перетаскивания</string>
+    <string name="freeform_guide_move_title">Перетаскивание</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Перетащите плавающее окно в угол экрана</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание</string>
-    <string name="freeform_guide_notification_drop_down_summary">Нажмите и удерживайте уведомление, затем потяните вниз</string>
+    <string name="freeform_guide_notification_drop_down_summary">Нажмите и удерживайте панель действий уведомления, затем потяните вниз</string>
     <string name="freeform_guide_notification_drop_down_title">Открытие</string>
     <string name="freeform_guide_settings">Плавающие окна</string>
-    <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели плавающего окна</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
     <string name="freeform_vedio_description">"·Нажмите и удерживайте уведомление, затем потяните вниз, чтобы открыть его в плавающем окне.
 ·Нажмите \"Плавающие окна\" в Недавних для выбора приложений."</string>
@@ -6429,6 +6429,7 @@ UT-интерфейс: %5$s"</string>
 
 Сохраненные отпечатки пальцев будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Без блокировки экрана защита профиля работать не будет.
+	
 Сохраненные отпечатки пальцев будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_unknown_profile">Без блокировки экрана защита профиля работать не будет.</string>
     <string name="unlock_disable_frp_warning_ok">Да, отключить</string>
