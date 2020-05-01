@@ -53,6 +53,10 @@
   <string name="default_device_name">Неизвестное устройство</string>
   <string name="default_name">По умолчанию</string>
   <string name="description_title">Режим \"Без звука\"</string>
+  <string name="device_status_failed">Не удалось отправить</string>
+  <string name="device_status_sending">Отправка…</string>
+  <string name="device_status_success">Успешно отправлено</string>
+  <string name="device_status_waiting">Ожидание…</string>  
   <string name="device_type_pc">Компьютер</string>
   <string name="eighthours">8 часов</string>
   <string name="enable_livetalk_summary">Экономьте 70% на исходящих вызовах</string>
@@ -137,6 +141,8 @@
   <string name="miui_warning_button_ok">OK</string>
   <string name="miui_warning_tip_info">В приложении %1$s произошла ошибка. Закрыть его?</string>
   <string name="onehour">30 минут</string>
+  <string name="open_close_tip_action">Понятно</string>
+  <string name="open_close_tip_content">Чтобы закрыть плавающее окно, нажмите и удерживайте панель действий, затем проведите вверх</string>
   <string name="package_delete_confirm_step_1">Удалить %s?</string>
   <string name="package_delete_confirm_step_2">Удаление этого приложения может вызвать нестабильность системы.</string>
   <string name="package_delete_confirm_step_3">Вы не сможете открыть приложение после его удаления.</string>
@@ -204,6 +210,7 @@
   <string name="security_permission_validate_warning">Спасибо за то, что помогаете сделать MIUI лучше!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi и мобильный интернет включены</string>
   <string name="security_permission_xiaomi_account_missed_text">Введите ID вашего Mi аккаунта</string>
+  <string name="security_share_text">Защита конфиденциальности</string>
   <string name="select">Выбрать</string>
   <string name="select_all">Выбрать все</string>
   <string name="send_files_to">Отправка на</string>

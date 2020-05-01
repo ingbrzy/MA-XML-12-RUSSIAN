@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="ai_assistant">Помощник вызовов</string>
+  <string name="ai_assistant_not_installed">Помощник вызовов не установлен</string>
   <string name="antispam_local_marked">Отмечено локально</string>
   <string name="antispam_notification_title">Неизвестный номер</string>
   <string name="antispam_provider">Определено %s</string>
@@ -117,6 +119,8 @@
   <string name="dialpad_zero">0</string>
   <string name="do_not_support_video_calls_by_remote">Видеозвонки не поддерживаются на другом устройстве</string>
   <string name="emergency_call_dialog_number_for_display">Экстренный номер</string>
+  <string name="enter_ai_assistant">Разрешить</string>
+  <string name="enter_ai_assistant_tip">Помощник вызовов может принять этот вызов и сохранить речь абонента в текст. Разрешить?</string>
   <string name="incall_bubble_hangup_click_hint">Нажмите еще раз, чтобы вернуться к вызову</string>
   <string name="incall_call_type_label_sip">SIP вызов</string>
   <string name="incall_error_supp_service_conference">Не удалось создать конференц-вызов.</string>
@@ -192,6 +196,7 @@
   <string name="unlock_phone">Разблокировать</string>
   <string name="upgrade_vt_prompt">Перейти к видеовызову?</string>
   <string name="user_locked_prompt">Разблокируйте устройство для доступа к контактам.</string>
+  <string name="video_call_downgrade_insufficient_bandwidth">Недостаточная пропускная способность, переход на голосовой вызов</string>
   <string name="video_conference_caller_info_name">Видео-конференц-вызов пользователя %1$s</string>
   <string name="video_crbt_title">Видеосигнал обратного вызова другой стороны</string>
   <string name="voicemail">Голосовая почта</string>

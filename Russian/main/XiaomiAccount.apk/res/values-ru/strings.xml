@@ -71,9 +71,10 @@ ID вашего аккаунта: %s"</string>
   <string name="account_user_birthday">Дата рождения</string>
   <string name="account_user_details">Личная информация</string>
   <string name="account_user_education">Образование</string>
-  <string name="account_user_email">Email</string>
+  <string name="account_user_email">Электронная почта</string>
   <string name="account_user_gender">Пол</string>
   <string name="account_user_id">ID Mi Аккаунта</string>
+  <string name="account_user_id_show">Mi Аккаунт: %s</string>
   <string name="account_user_income">Доход</string>
   <string name="account_user_location">Местоположение</string>
   <string name="account_user_location_title">Выберите текущее местоположение</string>
@@ -88,6 +89,7 @@ ID вашего аккаунта: %s"</string>
   <string name="account_user_using_weibo_avatar">Использовать фото из Sina Weibo</string>
   <string name="account_xiaomi_service">Сервисы</string>
   <string name="action_add_phone">Добавить номер телефона</string>
+  <string name="action_retry">Повторить</string>
   <string name="action_update_phone">Изменить номер телефона</string>
   <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
   <string name="activity_not_found_notice">Приложение не найдено</string>
@@ -115,6 +117,8 @@ ID вашего аккаунта: %s"</string>
   <string name="change_phone_number">Изменить номер телефона</string>
   <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="cloud_description_closed">Занято | Синхронизация отключена</string>
+  <string name="cloud_description_normal">Занято</string>
   <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Создать журнал диагностики</string>
   <string name="completed">Настройка завершена</string>
@@ -128,6 +132,7 @@ ID вашего аккаунта: %s"</string>
   <string name="confirm_unbind">Отключить этот аккаунт?</string>
   <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с Mi Аккаунтом %2$s. Если вы продолжите, он больше не будет связан с Mi Аккаунтом %3$s. Продолжить?</string>
   <string name="continue_action">Продолжить</string>
+  <string name="copy">Копировать</string>
   <string name="current_location_title">Текущее местоположение</string>
   <string name="delete_action">Удалить</string>
   <string name="delete_app">Удалить приложение</string>
@@ -155,6 +160,7 @@ ID:%s
   <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
   <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi Аккаунтом.</string>
   <string name="exit">Выход</string>
+  <string name="expand_button_title">Дополнительно</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Mi Аккаунтом</string>
   <string name="find_device">Поиск устройства</string>
@@ -163,7 +169,7 @@ ID:%s
   <string name="find_device_activate_account">Активировать аккаунт</string>
   <string name="find_device_bad_response_error">Ошибка сервера, подождите немного и повторите попытку</string>
   <string name="find_device_clear_data">Стереть все данные</string>
-  <string name="find_device_close">Откл.</string>  
+  <string name="find_device_close">Откл.</string>
   <string name="find_device_error_password_not_confirmed">Не удалось отключить Поиск устройства. Повторите ввод пароля Mi Аккаунта.</string>
   <string name="find_device_error_password_recently_changed">Вы меняли пароль в течение последних 3 дней. Невозможно отключить Поиск устройства по соображениям безопасности.</string>
   <string name="find_device_interrupted">Действие было прервано. Подождите немного и повторите попытку.</string>
@@ -183,7 +189,7 @@ ID:%s
   <string name="find_device_request_error">Ошибка сервера, подождите немного и повторите попытку</string>
   <string name="find_device_request_prepare_error">Не удалось получить статус, повторите попытку позже</string>
   <string name="find_device_set_lost_model">Режим пропажи</string>
-  <string name="find_device_title">Поиск устройства</string> 
+  <string name="find_device_title">Поиск устройства</string>
   <string name="find_device_unknown_error">Не удалось получить статус устройства. Подождите немного и повторите попытку.</string>
   <string name="first_login_time">Первая попытка входа: %s</string>
   <string name="for_diagnosis_usage_only">Используется только для обнаружения проблем.</string>
@@ -192,6 +198,13 @@ ID:%s
   <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 аккаунтов. Невозможно добавить новый аккаунт.</string>
   <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
   <string name="guest_account_label">Гостевой Mi аккаунт</string>
+  <string name="health_action_activate">Активировать</string>
+  <string name="health_action_install">Установить</string>
+  <string name="health_action_update">Обновить</string>
+  <string name="health_description_normal">Шаги</string>
+  <string name="health_state_not_activated">Не активировано</string>
+  <string name="health_state_not_installed">Не установлено</string>
+  <string name="health_state_not_support">Не поддерживается в этой версии</string>
   <string name="i_agree">ОК</string>
   <string name="i_agree_continue">Продолжить</string>
   <string name="identity">Идентификация</string>
@@ -209,6 +222,7 @@ ID:%s
   <string name="logout_account">Выйти из аккаунта</string>
   <string name="logout_failed">Не удалось выйти из аккаунта</string>
   <string name="mi_account_identity_title">Подтвердите вашу личность</string>
+  <string name="mi_health">Xiaomi Health</string>
   <string name="mi_vip_info">Просмотреть привилегии</string>
   <string name="mipay">Оплата</string>
   <string name="mipay_balance">Баланс</string>
@@ -218,6 +232,14 @@ ID:%s
   <string name="mipay_indentity_done">Проверено</string>
   <string name="mipay_others">Прочее</string>
   <string name="mipay_transit_card">Транспортная карта</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">обновлено</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">нет данных</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">отменить</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ошибка обновления</string>
   <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">Похоже, вы используете Mi Аккаунт из первого пространства.</string>
   <string name="multi_user_not_show_sync_activity_message_2">В этом случае все данные будут синхронизированы со вторым пространством. Чтобы избежать этого, не включайте синхронизацию с Xiaomi Cloud.</string>
@@ -230,6 +252,7 @@ ID:%s
   <string name="no_response_retry">Нет ответа, повторите попытку.</string>
   <string name="no_sim_card_or_unactivated">SIM-карта не установлена или не активирована</string>
   <string name="nobind">Не подключено</string>
+  <string name="not_set">Не задано</string>
   <string name="notify_network_restricted_content_bg_network">Доступ Mi Аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
   <string name="notify_network_restricted_content_hidden_state">Фоновая активность Mi Аккаунта ограничена. Нажмите, чтобы разрешить.</string>
   <string name="notify_network_restricted_content_mobile_network">Доступ Mi Аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
@@ -318,6 +341,10 @@ ID:%s
   <string name="passport_get_verify_code">Получить код</string>
   <string name="passport_getting_activator_phone">Получение данных SIM-карты…</string>
   <string name="passport_getting_verify_code">Получение…</string>
+  <string name="passport_google_login">Войти с помощью ранее использованного аккаунта Google?</string>
+  <string name="passport_google_login_agree">Аккаунт Google</string>
+  <string name="passport_google_login_disagree">Mi Аккаунт</string>
+  <string name="passport_google_login_failed">Не удалось войти в систему с помощью аккаунта Google. Используйте для входа Mi Аккаунт.</string>
   <string name="passport_i_know">Понятно</string>
   <string name="passport_identification_expired">Код устарел, начните сначала</string>
   <string name="passport_imei_permission_denied_message">Требуется доступ к IMEI вашего устройства. Для обеспечения безопасности Mi Аккаунт использует для идентификации IMEI устройства, на котором вы регистрируетесь.</string>
@@ -470,6 +497,7 @@ ID:%s
   <string name="phone_activated">%s активирован</string>
   <string name="phone_num_use_for">Функции номера телефона:</string>
   <string name="photoPickerNotFoundText">Нет доступных фото.</string>
+  <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
   <string name="push_notification_content">Получить код</string>
   <string name="push_notification_title">Вы вошли в Mi Аккаунт с неизвестного устройства</string>
   <string name="push_notify_dialog_message">Произведен вход в ваш Mi Аккаунт с неизвестного устройства. Введите код подтверждения на этом устройстве. Если это были не вы, немедленно смените пароль от вашего Mi аккаунта. Не показывайте код подтверждения посторонним лицам.</string>
@@ -521,6 +549,8 @@ ID:%s
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Отправлено</string>
   <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
+  <string name="state_data_error">Не удалось получить данные</string>
+  <string name="state_loading">Подождите…</string>
   <string name="system_ad">Реклама в системных приложениях</string>
   <string name="system_ad_list">Посмотреть похожие приложения.</string>
   <string name="system_ad_summary">"Включите эту функцию для показа небольшого количества рекламы в системных приложениях. Эти объявления помогают нам развивать и улучшать наши продукты и услуги. Вы можете отключить эту функцию в любое время. Спасибо за поддержку! "</string>
@@ -553,6 +583,8 @@ ID:%s
   <string name="used_cloud_storage_info">Использовано %s</string>
   <string name="user_avatar_update_title">Изменение фото профиля</string>
   <string name="user_avatar_uploading">Секунду…</string>
+  <string name="v7_preference_off">ОТКЛ.</string>
+  <string name="v7_preference_on">ВКЛ.</string>
   <string name="verified_apps">Проверенные приложения</string>
   <string name="verified_devices">Проверенные устройства</string>
   <string name="verify_phone_prompt">Выберите номер телефона для проверки</string>
