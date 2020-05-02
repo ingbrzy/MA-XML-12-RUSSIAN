@@ -2,6 +2,7 @@
 <resources>
     <string name="add_alarm">Новый будильник</string>
     <string name="add_clock">Добавить</string>
+    <string name="add_timer">Добавить таймер</string>
     <string name="add_timezone_title">Добавить часовой пояс</string>
     <string name="agree">Согласен</string>
     <string name="alarm_alert_alert_silenced">Будильник звонил %1$s</string>
@@ -30,8 +31,10 @@
     <string name="alert_ringtone">Мелодия будильника</string>
     <string name="alert_volume">Громкость звонка</string>
     <string name="alert_volume_summary">Громкость звонка для будильников и таймеров</string>
+    <string name="already_exist">Такой таймер уже существует</string>
     <string name="analog_gadget">Часы со стрелками</string>
     <string name="app_label">Часы</string>
+    <string name="app_name">Часы</string>
     <string name="auto_silence_never">Никогда</string>
     <string name="auto_silence_summary">Время до автоматического отключения сигнала будильников и таймеров</string>
     <string name="auto_silence_title">Автоотключение сигнала</string>
@@ -66,14 +69,15 @@
     <string name="birthday_alarm_summary">Воспроизводить \"Happy Birthday\" вместо стандартной мелодии будильника в ваш день рождения</string>
     <string name="cancel">Отмена</string>
     <string name="channel_name_alarm">Будильник</string>
-   <string name="channel_name_sleep">Сон</string>
+    <string name="channel_name_sleep">Сон</string>
     <string name="channel_name_timer">Таймер</string>
     <string name="check_theme_app_install">Убедитесь, что приложение Темы установлено на вашем устройстве.</string>
     <string name="check_voice_assist_app_version">Обновите Mi AI до последней версии.</string>
+    <string name="city_time_contrast_desc">Нажмите, чтобы сравнить время в разных городах</string>
     <string name="clock_bg_button_setting_summary_common">Выбор цвета фона приложения Часы</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Черный будет использоваться в качестве цвета фона при каждом переходе в темный режим</string>
     <string name="clock_bg_button_setting_title">Цвет фона</string>
-   <string name="close">Закрыть</string>
+    <string name="close">Закрыть</string>
     <string name="close_alarm">Отключить</string>
     <string name="common_settings">Основные настройки</string>
     <string name="confirm">ОК</string>
@@ -83,6 +87,8 @@
     <string name="continue_step">Далее</string>
     <string name="control_set_alarm">Установить</string>
     <string name="control_set_alarm_with_existing">Будильник установлен: %s</string>
+    <string name="copy">Копировать</string>
+    <string name="current_stopwatch_time">Текущее время</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">По умолчанию</string>
     <string name="default_alarm_title">По умолчанию</string>
@@ -118,6 +124,7 @@
     <string name="edit_systemtime">Дата и время</string>
     <string name="edit_systemtime_setting_summary">Дата, время и двойные часы</string>
     <string name="every_day">Ежедневно</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="expired_timers_dismissed">Таймер отключен</string>
     <string name="force_touch_add_alarm">Будильник</string>
     <string name="force_touch_enter_stopwatch">Секундомер</string>
@@ -148,8 +155,8 @@
     <string name="legal_workday_invalidate_message">(Данные устарели. Обновите.)</string>
     <string name="legal_workday_message">" (пропускать выходные дни)"</string>
     <string name="life_post_setting">Утренняя сводка</string>
-    <string name="life_post_setting_FBE_remind">Из-за ограничений системы информация о погоде в утренней сводке после перезагрузки может отображаться неправильно.</string>
     <string name="life_post_setting_close_title">Не получать утреннюю сводку</string>
+    <string name="life_post_setting_FBE_remind">Из-за ограничений системы информация о погоде в утренней сводке после перезагрузки может отображаться неправильно.</string>
     <string name="life_post_setting_open_background_subtitle">Показывать фоновые изображения для соответствующих будильников</string>
     <string name="life_post_setting_open_background_title">Фоновые изображения</string>
     <string name="life_post_setting_open_desc">Отключить повтор будильника с 04:00 до 10:00 для прослушивания сводки погоды</string>
@@ -175,6 +182,14 @@
     <string name="menu_item_dock_settings">Настройки</string>
     <string name="menu_item_sort_by_gmt_offset">Сортировать по времени</string>
     <string name="menu_item_sort_by_name">Сортировать по имени</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">нет данных</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">отменить</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ошибка обновления</string>
     <string name="module_dialog_negative">Отмена</string>
     <string name="module_dialog_neutral">Понятно</string>
     <string name="module_dialog_positive">ОК</string>
@@ -228,7 +243,8 @@
     <string name="new_label">Добавить описание будильника</string>
     <string name="no_alarm_setting">Нет будильников</string>
     <string name="no_worldclock">Нет часов</string>
-    <string name="normal_settings">Общие настройки</string> 
+    <string name="normal_settings">Общие настройки</string>
+    <string name="not_set">Не задано</string>
     <string name="not_update">Не сейчас</string>
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включен постоянно</string>
@@ -238,8 +254,10 @@
     <string name="pause">Пауза</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Получать рекомендации</string>
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="reach_upper_limit">Не удалось добавить таймер. Достигнуто максимальное количество.</string>
     <string name="remind_ringtone">Мелодия</string>
     <string name="repeat_count">Количество</string>
     <string name="repeat_count_value_five">5</string>
@@ -264,7 +282,7 @@
     <string name="set_alarm">Выберите время</string>
     <string name="set_alarm_choose_ringtone">Выбор мелодии</string>
     <string name="set_alarm_done">Готово</string>
-    <string name="set_alarm_other">Другие</string>	
+    <string name="set_alarm_other">Другие</string>
     <string name="setting_alarm_arriving_subtitle">Показывать уведомления перед отключением будильников</string>
     <string name="setting_alarm_arriving_summary">Оповещать уведомлением перед звонком будильника</string>
     <string name="setting_alarm_arriving_title">Уведомление перед звонком</string>
@@ -318,6 +336,8 @@
     <string name="start_up">Пуск</string>
     <string name="stopwatch_lap_empty_text">Нет кругов</string>
     <string name="stopwatch_title">Секундомер</string>
+    <string name="system_permission_agree_desc">Разрешите приложению подключение к интернету для доступа ко всем его функциям.</string>
+    <string name="system_permission_main_purpose">Просмотр времени, установка будильников и таймеров, секундомер</string>
     <string name="system_permission_phone_desc">Для идентификации разных устройств</string>
     <string name="system_permission_purpose">Будильники, секундомер, таймеры, часы</string>
     <string name="system_time_setting">Настройки</string>
@@ -356,6 +376,7 @@
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_is_paused">Таймер остановлен</string>
+    <string name="timer_item_delete">Удалить</string>
     <string name="timer_item_duration_display">%1$d мин %2$d с</string>
     <string name="timer_item_label_hint">Описание</string>
     <string name="timer_item_picker_hour">Ч</string>
@@ -382,6 +403,8 @@
     <string name="update_notification_info">Обновление данных в фоновом режиме…</string>
     <string name="usage_start">Начать</string>
     <string name="user_agreement">Пользовательское соглашение</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="vibrate_pref_summary">Вибрировать при сигнале</string>
     <string name="vibrate_when_ringing">Вибрировать при сигнале</string>
     <string name="volume_button_setting_desc">Назначьте функции для кнопок питания и громкости +/-</string>
@@ -394,9 +417,11 @@
     <string name="workday_alarm_clock">По рабочим дням</string>
     <string name="worldclock_empty_text">Нет часовых поясов</string>
     <string name="worldclock_input_hint_text">Поиск страны или города</string>
+    <string name="worldclock_local_time">Местное время</string>
     <string name="worldclock_resident_city_text">%s</string>
     <string name="worldclock_resident_city_text_detail">Вторые часы:</string>
     <string name="worldclock_search_city">Выберите город</string>
+    <string name="worldclock_second_time">Время в %s</string>
     <string name="worldclock_title">Часы</string>
     <string name="worldclock_world_time">Часовые пояса</string>
     <string name="worldcolock_date_display_prefix">Текущая дата: </string>

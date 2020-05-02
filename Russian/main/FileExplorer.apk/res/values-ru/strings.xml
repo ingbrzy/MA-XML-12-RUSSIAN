@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -10,7 +8,17 @@
     <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
     <string name="abc_capital_off">ОТКЛ.</string>
     <string name="abc_capital_on">ВКЛ.</string>
-    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск…</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
     <string name="abc_searchview_description_search">Поиск</string>
@@ -24,6 +32,7 @@
     <string name="activity_tip_name">Лотерея</string>
     <string name="add_private">Скрыть файлы</string>
     <string name="add_private_files">Добавить файлы</string>
+    <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="app_function">Управление файлами на вашем устройстве</string>
     <string name="app_name">Проводник</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -63,8 +72,8 @@
     <string name="category_picture">Фото</string>
     <string name="category_recent">Недавние</string>
     <string name="category_source">Исходники</string>
-    <string name="category_time">Время</string>
     <string name="category_theme">Темы</string>
+    <string name="category_time">Время</string>
     <string name="category_type_document">Документы</string>
     <string name="category_type_meida">Медиа</string>
     <string name="category_type_other">Прочее</string>
@@ -101,6 +110,7 @@
     <string name="confirm_know">OK</string>
     <string name="connection_error">Не удалось подключиться</string>
     <string name="connection_lost">Отключено</string>
+    <string name="copy">Копировать</string>
     <string name="copy_failed">Не удалось скопировать</string>
     <string name="copy_to">Копировать в…</string>
     <string name="create_folder">Создать</string>
@@ -176,8 +186,10 @@
     <string name="exo_controls_rewind_description">Перемотать назад</string>
     <string name="exo_controls_shuffle_description">Перемешать</string>
     <string name="exo_controls_stop_description">Остановить</string>
+    <string name="expand_button_title">Допольнительно</string>
     <string name="extended_storage_file_can_not_open">Не удалось открыть файл. Скопируйте его во внутреннюю память.</string>
     <string name="extract">Извлечь</string>
+    <string name="fab_menu_sort">Сортировка</string>
     <string name="fail_to_create_folder_unknown">Не удалось создать папку из-за неизвестной ошибки</string>
     <string name="failed_not_access_sd_card">Сначала разрешите доступ к SD карте</string>
     <string name="failed_obtain_permissions">Не удалось получить разрешения</string>
@@ -210,7 +222,7 @@
     <string name="ftp_username_hint">Имя пользователя</string>
     <string name="function_file_operation">"Для доступа и открытия файлов; "</string>
     <string name="function_set_private">"Для просмотра и шифрования файлов; "</string>
-    <string name="function_use_imei">"Для доступа к IMEI и шифрования файлов; "</string>    
+    <string name="function_use_imei">"Для доступа к IMEI и шифрования файлов; "</string>
     <string name="gbk_summary">Упрощенная китайская кодировка Windows по умолчанию</string>
     <string name="gigabyteShort">" ГБ"</string>
     <string name="grid_mode">Таблица</string>
@@ -218,10 +230,12 @@
     <string name="group_title_extra_backup">Резервные копии</string>
     <string name="group_title_extra_expire">Истекает срок действия</string>
     <string name="group_title_extra_new">Новое</string>
-    <string name="hint_switch_to_grid_mode">Просмотр таблицей</string>
-    <string name="hint_switch_to_list_mode">Просмотр списком</string>
+    <string name="guide_newfunc_content">Теперь вы можете фильтровать файлы по типу, сортировать их и менять вид отображения с помощью ярлыков.</string>
+    <string name="guide_newfunc_title">Новая функция</string>
     <string name="handsome_boy">Мужчина</string>
     <string name="has_installed">Установлено</string>
+    <string name="hint_switch_to_grid_mode">Отображение таблицей</string>
+    <string name="hint_switch_to_list_mode">Отображение списком</string>
     <string name="home_action_up">Назад</string>
     <string name="home_title">Проводник</string>
     <string name="homepage_tab_category">Категории</string>
@@ -230,6 +244,7 @@
     <string name="hot_sticker">Стикеры</string>
     <string name="if_cancel">Отменить это действие?</string>
     <string name="image_loading_error">Не удалось загрузить фото</string>
+    <string name="imm_str_storage">Накопитель</string>
     <string name="info_app_package_name">Имя пакета:</string>
     <string name="info_app_version">Версия приложения:</string>
     <string name="info_language">Язык:</string>
@@ -270,6 +285,14 @@
     <string name="midrop_msg_1">Включите Mi Drop на другом устройстве</string>
     <string name="midrop_msg_2">После включения Mi Drop вы сможете искать устройства поблизости и отправлять файлы</string>
     <string name="midrop_send_files">Выберите файлы для отправки</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">нет данных</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">отменить</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ошибка обновления</string>
     <string name="month_day_format">d MMMM</string>
     <string name="more">Еще</string>
     <string name="move_failed">Ошибка перемещения</string>
@@ -293,6 +316,7 @@
     <string name="no_wifi">Сеть не обнаружена</string>
     <string name="no_wifi_hint">Нет соединения</string>
     <string name="not_installed_documentsui">Приложение DocumentsUI не установлено</string>
+    <string name="not_set">Не задано</string>
     <string name="not_support_documentui">Приложение DocumentUI не поддерживается на этом устройстве</string>
     <string name="notif_server_starting">Запуск FTP-сервера…</string>
     <string name="notif_title">FTP-сервер запущен</string>
@@ -336,6 +360,7 @@
     <string name="operation_show_privacy_policy">Политика конфиденциальности</string>
     <string name="operation_show_sys">Показывать скрытые файлы</string>
     <string name="operation_unfavorite">Удалить из избранных</string>
+    <string name="optional_change_wifi">Для удаленного управления файлами через Wi-Fi</string>
     <string name="overwrite_msg">\"%s\" уже существует. Нажмите для замены.</string>
     <string name="pad">Внутренняя память</string>
     <string name="partial_cancel_successful">Не удалось скрыть некоторые файлы. Остальные перемещены в %s.</string>
@@ -360,6 +385,7 @@
     <string name="phone_storage_zip_title">Архивы: </string>
     <string name="pick_file">Выберите файлы</string>
     <string name="pick_folder">Выберите папку</string>
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="private_files">Скрытые</string>
     <string name="private_folder">Скрытые папки</string>
@@ -367,6 +393,9 @@
     <string name="private_folder_update">Обновление скрытых файлов…</string>
     <string name="private_toast_hint2">Для скрытия файла удерживайте его, а затем добавьте в скрытую папку</string>
     <string name="promot_enctypt_password">Введите пароль разблокировки устройства</string>
+    <string name="pull_to_enter_private">Потяните вниз, чтобы открыть приватную папку</string>
+    <string name="refresh_success">Обновление завершено</string>
+    <string name="release_enter_private">Отпустите, чтобы открыть приватную папку</string>
     <string name="rename_alert">Если вы измените расширение файла, возможно, вам не удастся открыть его.</string>
     <string name="rename_alert2">После изменения расширения файла он будет скрыт.</string>
     <string name="rename_failed">Не удалось переименовать \"%1$s\"</string>
@@ -384,7 +413,7 @@
     <string name="rlv_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="rlv_refreshing">Обновление…</string>
     <string name="rlv_release_to_refresh">Отпустите для обновления</string>
-    <string name="save">Сохранить</string>    
+    <string name="save">Сохранить</string>
     <string name="search_app">Приложения и папки</string>
     <string name="search_app_more">Еще</string>
     <string name="search_description">Поиск среди всех файлов на устройстве</string>
@@ -414,6 +443,9 @@
     <string name="set_pattern_msg">Задайте пароль еще раз. Пароль защиты личных данных также защищает фотографии и сообщения.</string>
     <string name="skip_file">Пропустить</string>
     <string name="smb_loading">Подождите…</string>
+    <string name="sort_hint_name">Сортировка по имени</string>
+    <string name="sort_hint_time">Сортировка по времени</string>
+    <string name="sort_hint_type">Сортировка по расширению</string>
     <string name="sort_size_asc">От меньшего к большему</string>
     <string name="sort_size_desc">От большего к меньшему</string>
     <string name="start_doc">Документы</string>
@@ -461,6 +493,9 @@
     <string name="used">Занято</string>
     <string name="user_not_login">Сначала выполните вход</string>
     <string name="utf8_summary">Системная кодировка FTP по умолчанию</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="view_type">Просмотр</string>
     <string name="wechat_video">Видео из %s</string>
     <string name="wifi_state">Сеть Wi-Fi</string>
     <string name="yes">Да</string>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about">О приложении</string>
     <string name="action_settings">Настройки</string>
     <string name="ad_install">Установка</string>
@@ -9,6 +36,7 @@
     <string name="apk_filter">APK</string>
     <string name="app_downloads">%s загрузок</string>
     <string name="app_label">Загрузки</string>
+    <string name="app_name">Загрузки</string>
     <string name="auth_fail">Ошибка авторизации</string>
     <string name="bt_path_not_exit">Данный путь не существует</string>
     <string name="bt_restart_dialog_message">Начать все загрузки в папке BT снова?</string>
@@ -61,6 +89,7 @@
     <string name="dialog_confirm_delete_the_download_item_message">Выбранные загрузки будут удалены из списка завершенных</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
     <string name="dialog_content_limit0">Только по Wi-Fi</string>
+    <string name="dialog_delete_positive">Удалить</string>
     <string name="dialog_failed_body">Загрузить файл позже или удалить его из очереди загрузок?</string>
     <string name="dialog_file_already_exists">Такой файл уже существует.</string>
     <string name="dialog_file_missing_body">Файл не найден, возможно он перемещен или удален.</string>
@@ -122,6 +151,7 @@
     <string name="edit_hint"> Введите http или torrent адрес</string>
     <string name="editmode_menu_delete">Удалить</string>
     <string name="editmode_menu_share">Поделиться</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="extend">Еще</string>
     <string name="file_exist_hint">Такой файл уже существует</string>
     <string name="file_picker">Выбор каталога</string>
@@ -132,7 +162,9 @@
     <string name="gigabyteShort"> Гб</string>
     <string name="goto_global_search">Поиск в интернете \"%1$s\"</string>
     <string name="guess_like">Вам также может понравиться</string>
-    <string name="high_speed_channel">Ускорение Xunlei (платно):  </string>
+    <string name="h5_net_error" formatted="false">Не удалось загрузить %s (%s)</string>
+    <string name="h5_net_error_tip">Не удалось открыть URL</string>
+    <string name="high_speed_channel">Ускорение Xunlei (платно):    </string>
     <string name="high_speed_tryout">Скорость загрузки низкая, оформите подписку Xunlei</string>
     <string name="high_speed_tryout_percent">Скорость увеличена на %1$s, оформите подписку Xunlei</string>
     <string name="high_speed_tryout_percent_slow">Xunlei может увеличить скорость</string>
@@ -161,15 +193,25 @@
     <string name="menu_title_resume_all">Запустить все</string>
     <string name="menu_title_settings">Настройки</string>
     <string name="missing_title">&lt;Без названия&gt;</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">нет данных</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">отменить</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ошибка обновления</string>
     <string name="net_error">Подключитесь к сети и повторите попытку</string>
     <string name="new_add">Новая загрузка</string>
     <string name="no_downloads">Нет файлов</string>
     <string name="no_file_hint">Загрузка уже существует</string>
+    <string name="no_net">Не удалось подключиться к сети</string>
     <string name="no_result_for_keyword">Не удалось найти \"%1$s\"</string>
     <string name="no_share_file">Ошибка отправки файла</string>
     <string name="no_share_file_content">Выбранный файл уже удален</string>
     <string name="no_share_files">Нельзя отправить файлы, которые были удалены</string>
     <string name="no_share_files_content">Некоторые файлы, которыми вы хотели поделиться, уже удалены. Остальные были отправлены.</string>
+    <string name="not_set">Не задано</string>
     <string name="notify_disabled_net_by_app">Доступ в интернет ограничен</string>
     <string name="notify_only_wifi_download">Ожидание Wi-Fi</string>
     <string name="only_support_torrent">Поддерживаются только торрент-файлы</string>
@@ -196,6 +238,7 @@
     <string name="pref_summary_max_bytes_limit_format">Ожидать подключения к Wi-Fi, если размер файла более %s</string>
     <string name="pref_summary_no_limit_popup">Без ограничений</string>
     <string name="pref_title_enable_max_bytes_popup">Предупреждать о лимите трафика</string>
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="preferences_title">Настройки</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_tip_cancel">Отмена</string>
@@ -226,6 +269,7 @@
     <string name="s7">Тестовое объявление</string>
     <string name="save_path">"Сохранять загрузки в "</string>
     <string name="save_text">Экономия %1$s юань</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_operation_items">Выберите файлы</string>
     <string name="selected_count">Выбрано %1$d из %2$d</string>
@@ -249,6 +293,13 @@
     <string name="task_fail">Ошибка</string>
     <string name="toast_only_wifi_download">Для загрузки этого объекта подключитесь к Wi-Fi</string>
     <string name="total_speedup">Ускорение (всего)</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="version">Версия %s</string>
+    <string name="xl_vip_annual_price">%1$s Mi Coins в месяц (1 год)</string>
+    <string name="xl_vip_month_price">%1$s Mi Coins в месяц (1 месяц)</string>
+    <string name="xl_vip_quarter_price">%1$s Mi Coins в месяц (3 месяца)</string>
+    <string name="xl_vip_semiannual_price">%1$s Mi Coins в месяц (6 месяцев)</string>
+    <string name="xlunbind_sub_title">Удалите аккаунт Xunlei и добавьте Mi Аккаунт</string>
     <string name="xunlei_open_info">Использовать движок Xunlei для открытия таких ссылок?</string>
 </resources>

@@ -1401,11 +1401,11 @@
     <string name="clear_phone_data_category">Удалить отмеченные</string>
     <string name="clear_uri_btn_text">Закрыть доступ</string>
     <string name="clear_user_data_text">Стереть данные</string>
-    <string name="close_aod">Эта функция несовместима с режимом \"Экран всегда активен\". Сначала отключите его.</string>
+    <string name="close_aod">Эта функция несовместима с \"Активным экраном\". Сначала отключите его.</string>
     <string name="close_app">Закрытие приложения</string>
     <string name="close_demo_mode">Отмена</string>
     <string name="close_fod">Вы не сможете разблокировать устройство с помощью отпечатка пальца, когда экран выключен. Разблокировка отпечатком будет работать только при включенном экране.</string>
-    <string name="close_fod_aod">Вы не сможете разблокировать устройство с помощью отпечатка пальца, когда экран выключен. Режим \"Экран всегда активен\" также будет недоступен. Разблокировка отпечатком будет работать только при включенном экране.</string>
+    <string name="close_fod_aod">Вы не сможете разблокировать устройство с помощью отпечатка пальца, когда экран выключен. \"Активный экран\" также будет недоступен. Разблокировка отпечатком будет работать только при включенном экране.</string>
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_miui_optimization_title">Отключение оптимизации MIUI</string>
     <string name="close_optimization_message">Отключение этой функции может повлиять на разметку текста, аккаунты и другие компоненты MIUI.</string>
@@ -2114,10 +2114,10 @@
     <string name="dual_cdma_sim_warning_notification_channel_title">Комбинация SIM</string>
     <string name="dual_cdma_sim_warning_notification_summary">Использование %1$s может ограничить функциональность. Нажмите для подробностей.</string>
     <string name="dual_clock">Двойные часы</string>
-    <string name="dual_clock_aod_open_message">Двойные часы будут отображаться на экране блокировки, на рабочем столе и на выключенном экране.</string>
+    <string name="dual_clock_aod_open_message">Двойные часы будут отображаться на экране блокировки и рабочем столе, а также на выключенном экране.</string>
     <string name="dual_clock_hint">Для "\"Двойных часов\" необходимы системный виджет часов и тема по умолчанию</string>
     <string name="dual_clock_ok">Понятно</string>
-    <string name="dual_clock_open_message">Двойные часы будут отображаться на экране блокировки, на рабочем столе.</string>
+    <string name="dual_clock_open_message">Двойные часы будут отображаться на экране блокировки и рабочем столе.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dual_wifi">Двухдиапазонный Wi-Fi</string>
