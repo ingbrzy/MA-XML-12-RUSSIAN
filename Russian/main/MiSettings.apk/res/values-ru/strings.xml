@@ -61,6 +61,15 @@
     <string name="exit_easymode">Отключить</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="first_unlock_time">"Первая разблокировка: "</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd.MM</string>
+    <string name="fmt_date_numeric_year_month">MM.yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="focus_mode_timer_add_limit">Вы можете добавить до %d таймеров</string>
     <string name="focus_mode_timer_delete">Удалить</string>
     <string name="focus_mode_timer_exist">Эта сессия уже существует</string>
@@ -211,9 +220,9 @@
     <string name="srgb_color_region_summary">Отображение в цветовой гамме sRGB</string>
     <string name="start_easymode">Включить</string>
     <string name="steady_on_screen_notification_title">Сделайте перерыв</string>
-    <string name="steady_on_screen_notify">Уведомлять о непрерывном использовании</string>
-    <string name="steady_on_screen_setting">Ограничить время непрерывного использования</string>
-    <string name="steady_on_screen_summary">Ограничить время непрерывного использования</string>
+    <string name="steady_on_screen_notify">Уведомления</string>
+    <string name="steady_on_screen_setting">Время использования</string>
+    <string name="steady_on_screen_summary">Уведомлять о непрерывном использовании</string>
     <string name="stop_app_timer">Отключение функции</string>
     <string name="stop_app_timer_fail">Не удалось отключить</string>
     <string name="stop_app_timer_success">Успешно отключено</string>
@@ -335,39 +344,40 @@
     <string name="usage_home_permission_account_title">Доступ к учетной записи</string>
     <string name="usage_home_permission_phone_summary">Идентификация устройства с помощью VAID</string>
     <string name="usage_home_permission_phone_title">Доступ к информации об устройстве</string>
-    <string name="usage_home_premission_main_summary">Добро пожаловать в приложение Время экрана. Вы можете использовать это приложение для установки лимита времени экрана, просмотра статистики и переключения в Режим медитации. Для работы приложению требуется разрешение на сбор информации о времени экрана (например, сколько раз вы разблокировали телефон и включали экран, а также сколько времени используете приложения).</string>
-    <string name="usage_home_premission_main_summary_new">"Добро пожаловать в приложение Время экрана.
-Для работы приложению необходимо собирать статистику: количество разблокировок устройства, используемые приложения и продолжительность их использования. 
+    <string name="usage_home_premission_main_summary">"Добро пожаловать в приложение Время экрана! 
+Вы можете использовать это приложение для задания лимита времени экрана, просмотра статистики, переключения в Режим медитации. Для работы приложению требуется разрешение на сбор информации о времени экрана (сколько раз вы разблокировали устройство или включали экран, продолжительность использования приложений)."</string>
+    <string name="usage_home_premission_main_summary_new">"Добро пожаловать в приложение Время экрана!
+Для работы приложению необходимо собирать следующую статистику: сколько раз вы разблокировали устройство, продолжительность использования приложений. 
 Приложению также требуются подключение к интернету и следующие разрешения для сбора вашей личной информации:"</string>
-    <string name="usage_home_premission_main_summary_new_o">"Добро пожаловать в приложение Время экрана.
-Для работы приложению необходимо собирать статистику: количество разблокировок устройства, используемые приложения и продолжительность их использования. 
+    <string name="usage_home_premission_main_summary_new_o">"Добро пожаловать в приложение Время экрана!
+Для работы приложению необходимо собирать следующую статистику: сколько раз вы разблокировали устройство, продолжительность использования приложений. 
 Приложению также требуются подключение к интернету и следующие разрешения для сбора вашей личной информации:"</string>
-    <string name="usage_home_premission_second_summary">Для работы приложению требуется разрешение на сбор вашей личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
+    <string name="usage_home_premission_second_summary">Для работы приложению требуется разрешения для сбора вашей личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать приложение. Вы можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Перед использованием необходимо принять &amp;lt;a href=%1s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Нажав \"Согласен\", вы принимаете &amp;lt;a href=%1s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="usage_home_premission_second_summary_new">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить разрешения, вы не сможете использовать приложение. Вы всегда можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции. По дополнительным вопросам о конфиденциальности вы можете связаться по адресу privacy@xiaomi.com</string>
     <string name="usage_new_home_average">"Среднее "</string>
-    <string name="usage_new_home_category">Категория</string>
-    <string name="usage_new_home_compare_text1">На %.2f больше, чем вчера</string>
-    <string name="usage_new_home_compare_text2">На %.2f меньше, чем вчера</string>
-    <string name="usage_new_home_compare_text3">Как и вчера</string>
+    <string name="usage_new_home_category">Категории</string>
+    <string name="usage_new_home_compare_text1">на %.2f больше, чем днем раньше</string>
+    <string name="usage_new_home_compare_text2">на %.2f меньше, чем днем раньше</string>
+    <string name="usage_new_home_compare_text3">как и днем раньше</string>
     <string name="usage_new_home_current_week">Эта неделя</string>
-    <string name="usage_new_home_dashboard">Dashboard</string>
-    <string name="usage_new_home_date_day_title">%s | Продолжительность использования</string>
+    <string name="usage_new_home_dashboard">Сводка</string>
+    <string name="usage_new_home_date_day_title">%s | </string>
     <string name="usage_new_home_day_category_title">Категории приложений</string>
     <string name="usage_new_home_day_title">День</string>
     <string name="usage_new_home_day_usage_title">Приложения</string>
     <string name="usage_new_home_first_unlock">Первая разблокировка: %s</string>
     <string name="usage_new_home_name">Имя</string>
-    <string name="usage_new_home_show_more_data_summary">Вы также можете ограничить время экрана для отдельных приложений</string>
-    <string name="usage_new_home_show_more_data_title">Дополнительная статистика</string>
+    <string name="usage_new_home_show_more_data_summary">Также здесь можно ограничить время экрана для отдельных приложений</string>
+    <string name="usage_new_home_show_more_data_title">Расширенная статистика</string>
     <string name="usage_new_home_unlock_equals_text">Как и вчера</string>
-    <string name="usage_new_home_unused">Не использовались</string>
+    <string name="usage_new_home_unused">Не использовалось</string>
     <string name="usage_new_home_update">Изменить</string>
     <string name="usage_new_home_week_category_title">Категории приложений</string>
-    <string name="usage_new_home_week_compare_text1">На %.2f больше, чем неделю назад</string>
-    <string name="usage_new_home_week_compare_text2">%.2f меньше, чем неделю назад</string>
-    <string name="usage_new_home_week_equals_text">Как и неделю назад</string>
+    <string name="usage_new_home_week_compare_text1">на %.2f больше, чем неделю назад</string>
+    <string name="usage_new_home_week_compare_text2">на %.2f меньше, чем неделю назад</string>
+    <string name="usage_new_home_week_equals_text">как и неделю назад</string>
     <string name="usage_new_home_week_title">Неделя</string>
     <string name="usage_new_home_week_unlock_equals_text">Как и неделю назад</string>
     <string name="usage_new_home_week_usage_title">Приложения</string>
@@ -377,7 +387,7 @@
     <string name="usage_optional_title">Дополнительные разрешения</string>
     <string name="usage_permisison_agree_desc_o">Для предоставления статистики времени экрана приложение должно собирать следующие данные: сколько раз разблокировалось устройство, список приложений и продолжительность их использования.</string>
     <string name="usage_permisison_agree_desc_p">Для предоставления статистики времени экрана и режима медитации приложение должно собирать следующие данные: сколько раз разблокировалось устройство, список приложений и продолжительность их использования, сколько раз включался экран, настройки режима медитации.</string>
-    <string name="usage_permission_double_link" formatted="false">&lt;Data&gt;"Для нормальной работы приложению необходимо подключение к интернету и разрешение на сбор личных данных. Чтобы полностью понять ваши права как пользователя, а также способы использования ваших данных, прочитайте и примите &amp;lt;a href=%1s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="usage_permission_double_link">"Для нормальной работы приложению необходимо подключение к интернету и разрешение на сбор личных данных. Нажав \"Согласен\", вы принимаете &amp;lt;a href=%1s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;."</string>
     <string name="usage_permission_main_desc">"Добро пожаловать в приложение Время экрана!
 Для нормальной работы приложению необходимо подключение к интернету и следующие разрешения:"</string>
     <string name="usage_permission_title">Внимание</string>
@@ -385,7 +395,7 @@
     <string name="usage_reach_device_limit_warning_text">Достигнут лимит времени экрана на сегодня</string>
     <string name="usage_refresh">Попробуйте еще раз</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Произошла неизвестная ошибка</string>
     <string name="usage_request_timeout_summary">Истекло время ожидания запроса</string>
     <string name="usage_runtime_per_des_summary">Для сохранения статистики времени экрана</string>
@@ -402,7 +412,7 @@
     <string name="usage_state_app_timer">Время экрана</string>
     <string name="usage_state_app_usage_detail_title">Статистика использования</string>
     <string name="usage_state_app_usage_limit">Лимит для приложений</string>
-    <string name="usage_state_app_usage_limit_summary">Ежедневный лимит времени использования приложений</string>
+    <string name="usage_state_app_usage_limit_summary">Время использования приложений</string>
     <string name="usage_state_app_usage_list_title">Время экрана</string>
     <string name="usage_state_app_usage_list_week_title">Время экрана</string>
     <string name="usage_state_app_usage_tip_title">"Время экрана с %1$d:00 до %2$d:00"</string>
@@ -413,7 +423,7 @@
     <string name="usage_state_category">Категории</string>
     <string name="usage_state_channel_mouth">За месяц</string>
     <string name="usage_state_channel_week">За неделю</string>
-    <string name="usage_state_device_limit_summary">Ежедневный лимит времени использования устройства</string>
+    <string name="usage_state_device_limit_summary">Лимит времени использования устройства</string>
     <string name="usage_state_device_limit_title">Лимит для устройства</string>
     <string name="usage_state_device_noti_today_tip_title">Уведомлений с %1$d:00 до %2$d:00</string>
     <string name="usage_state_device_unlock_today_tip_title">Разблокирован с %1$d:00 до %2$d:00</string>
@@ -484,10 +494,10 @@
     <string name="usage_stats_device_limit">Ежедневный лимит</string>
     <string name="usage_stats_device_limit_summary">Установите ежедневный лимит времени экрана</string>
     <string name="usage_stats_experience_text">Нажмите, чтобы попробовать (1 мин)</string>
-    <string name="usage_stats_limit_time_accuracy_title">Точность оценки времени</string>
-    <string name="usage_stats_limit_time_high_accuracy_summary">Показывать оставшееся время с точностью до минуты. Это увеличивает энергопотребление.</string>
+    <string name="usage_stats_limit_time_accuracy_title">Оценка времени</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary">Точность до минуты (повышенный расход батареи)</string>
     <string name="usage_stats_limit_time_high_accuracy_title">Высокая точность</string>
-    <string name="usage_stats_limit_time_low_accuracy_summary">Показывать оставшееся время с точностью до минуты только последние 2 часа.</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary">Точность до минуты только последние 2 часа</string>
     <string name="usage_stats_limit_time_low_accuracy_title">Низкая точность</string>
     <string name="usage_stats_limit_time_warn">Предупреждать о лимите</string>
     <string name="usage_stats_limit_time_warn_summary">Показывать оставшееся время в шторке уведомлений</string>
@@ -521,7 +531,7 @@
     <string name="usagestats_device_notification_des_over">Вы достигли лимита времени экрана на сегодня.</string>
     <string name="usagestats_device_notification_des_reset">Лимит на сегодня: %1$s | %2$s осталось</string>
     <string name="usagestats_device_notification_title">Лимит времени экрана</string>
-    <string name="usagestats_device_timeout_des">"Вы сегодня использовали устройство %1$d ч. %2$d мин. Сделайте перерыв."</string>
+    <string name="usagestats_device_timeout_des">Вы сегодня использовали устройство %1$d ч. %2$d мин. Сделайте перерыв.</string>
     <string name="usagestats_device_timeout_negative">Напомнить через 1 час</string>
     <string name="usagestats_device_timeout_positive">Понятно</string>
     <string name="usagestats_device_timeout_title">Лимит времени экрана</string>

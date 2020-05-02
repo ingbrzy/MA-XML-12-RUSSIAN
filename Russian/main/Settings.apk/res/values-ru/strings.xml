@@ -1553,7 +1553,7 @@
     <string name="convert_to_file_encryption">Переход к шифрованию файлов</string>
     <string name="convert_to_file_encryption_done">Шифрование файлов уже включено</string>
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
-    <string name="cool_color">Холодный</string>
+    <string name="cool_color">Холодная</string>
     <string name="copyright_title">Авторские права</string>
     <string name="corner_assistant_gesture_summary">Проведите пальцем вверх от нижнего левого или правого угла, чтобы запустить Google Ассистент.</string>
     <string name="corner_assistant_gesture_title">Google Ассистент</string>	
@@ -1628,7 +1628,7 @@
     <string name="cryptkeeper_wrong_pin">Неверный PIN-код</string>
     <string name="current_backup_pw_prompt">Введите текущий пароль</string>
     <string name="current_input_method">Текущая клавиатура</string>
-    <string name="current_password">Текущий экран блокировки</string>
+    <string name="current_password">Текущий способ блокировки</string>
     <string name="current_screen_lock">Текущий способ блокировки</string>
     <string name="current_use_ese">Используется встроенный элемент безопасности</string>
     <string name="current_use_ese_wallet">Используется Mi Wallet. Это позволяет использовать Mi Pay и транспортную карту NFC.</string>
@@ -1637,7 +1637,7 @@
     <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
     <string name="custom_carrier_title">Оператор</string>
-    <string name="custom_color">Пользовательские</string>
+    <string name="custom_color">Пользовательская</string>
     <string name="custom_wifi_name_title">Wi-Fi сеть</string>
     <string name="customize_function">Доступные шаблоны</string>
     <string name="cutout_mode_always">Всегда показывать</string>
@@ -2198,7 +2198,7 @@
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_text">Включить</string>
     <string name="enable_wifi_display">Беспроводной дисплей</string>
-    <string name="enabled_authorised_apps_summary">Разрешение можно отозвать путем нажатия на переключатели отдельных приложений.</string>
+    <string name="enabled_authorised_apps_summary">Чтобы отозвать разрешение для приложения, отключите переключатель</string>
     <string name="enabled_authorised_apps_title">Разрешение предоставлено</string>
     <string name="enabled_by_admin">Включено администратором</string>
     <string name="enalbe_identify_iPhone">Идентификация устройства</string>
@@ -2339,7 +2339,7 @@
     <string name="face_data_introduction_title">Добавление данных лица</string>
     <string name="face_data_manage_delete">Удалить данные лица?</string>
     <string name="face_data_manage_delete_msg">Удаление данных лица</string>
-    <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать разблокировку устройства по лицу.</string>
+    <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете разблокировать устройство по лицу.</string>
     <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите пальцем вверх для разблокировки устройства по лицу.</string>
     <string name="face_data_manage_unlock_msg">Разблокировка устройства с использованием данных лица</string>
     <string name="face_data_manage_unlock_slide_msg">Замена действий слайдера на разблокировку по лицу</string>
@@ -2976,7 +2976,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="keywords_battery_saver_sticky">энергосбережение, экономия заряда, батарея</string>
     <string name="keywords_bluetooth">Bluetooth;bluetooth;блютус</string>
     <string name="keywords_color_mode">насыщенный, RGB, sRGB, цвет, естественный, стандартный</string>
-    <string name="keywords_color_temperature">цветовая температура D65 D73 белый желтый синий теплый холодный</string>
+    <string name="keywords_color_temperature">цветовая температура D65 D73 белый желтый синий теплая холодная</string>
     <string name="keywords_data">4G;3G;Данные;Мобильный интернет;Мобильный интернет;Трафик;Мобильный интернет</string>
     <string name="keywords_date_and_time">часы, формат</string>
     <string name="keywords_default_apps">приложения, по умолчанию</string>
@@ -3576,8 +3576,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="miui_allow_vibrate">Вибрация</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
-    <string name="miui_face_enroll_success">"Для разблокировки устройства вы можете использовать данные лица.
-Откройте дополнительные настройки."</string>
+    <string name="miui_face_enroll_success">Теперь вы можете использовать разблокировку по лицу</string>
     <string name="miui_input_method_settings">Настройки метода ввода</string>
     <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
     <string name="miui_lab_ai_preload_desc">Предзагрузка увеличивает скорость запуска приложений</string>
@@ -3822,7 +3821,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="my_device">Устройство</string>
     <string name="my_device_disclaimer">Примечание: информация об оборудовании, включая процессор, емкость аккумулятора, камеру, размер и разрешение экрана, предоставлена лабораториями, дизайнерами и поставщиками Xiaomi.</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
-    <string name="nature_color">Стандарт</string>
+    <string name="nature_color">Стандартная</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижней части экрана, затем влево или вправо</string>
     <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо от полосы навигации полноэкранного режима или нижней части экрана</string>
     <string name="navigation_guide_app_quick_switch_title">Переключение между приложениями</string>	
@@ -4566,7 +4565,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_authorize_cloud_msg">Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com, если вы хотите отозвать разрешения для сервисов Xiaomi Cloud (включая синхронизацию и резервное копирование)</string>
     <string name="privacy_authorize_dialog_agree">Согласен</string>
     <string name="privacy_authorize_dialog_exit">Выход</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Для использования основных функций этого сервиса вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем личные данные. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; и &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="privacy_authorize_dialog_message">Для использования основных функций этого сервиса вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем личные данные. Нажатие \"Согласен\" означает, что вы прочитали и принимаете Политику конфиденциальности и Пользовательское соглашение.</string>
     <string name="privacy_authorize_network_error">Подключитесь к сети и повторите попытку.</string>
     <string name="privacy_authorize_privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_authorize_revoke">Отозвать</string>
@@ -6654,7 +6653,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_use_photo_transfers_desc">Передача фотографий или файлов, если МТР не поддерживается (PTP)</string>
     <string name="usb_use_power_only">Подача питания</string>
     <string name="usb_use_tethering">USB модем</string>
-   <string name="use_control_panel">Панель управления</string>
+    <string name="use_control_panel">Центр управления</string>
     <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
     <string name="use_location_title">Учитывать при поиске</string>
     <string name="use_open_wifi_automatically_summary">Автоматически подключаться к общедоступным сетям с хорошим сигналом</string>
@@ -6979,7 +6978,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
     <string name="wapi_yes">да</string>
-    <string name="warm_color">Теплый</string>
+    <string name="warm_color">Теплая</string>
     <string name="web_action_enable_summary">Открывать ссылки в приложениях, даже если они не установлены на устройстве</string>
     <string name="web_action_enable_title">Приложения с мгновенным запуском</string>
     <string name="web_action_section_title">Приложения с мгновенным запуском</string>
