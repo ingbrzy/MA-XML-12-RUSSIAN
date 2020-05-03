@@ -119,6 +119,15 @@
     <string name="exceed_todo_text_limitation">Описание слишком длинное.</string>
     <string name="expand_button_title">Дополнительно</string>	
     <string name="first_enter_custom_folder_hint">Вы можете переименовать или удалить папки</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd.MM</string>
+    <string name="fmt_date_numeric_year_month">MM.yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="folder_exist">Папка с таким именем уже существует</string>
     <string name="folder_operation_delete">Удалить</string>
     <string name="folder_operation_rename">Переименовать</string>

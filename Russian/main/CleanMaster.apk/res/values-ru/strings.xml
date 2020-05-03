@@ -458,14 +458,14 @@
   <string name="menu_install">Установить приложение</string>
   <string name="menu_open">Открыть</string>
   <string name="menu_view">Просмотреть в папке</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">обновлено</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">обновление</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">нет данных</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">отменить</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновление</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ошибка обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
   <string name="month_day_format">d MMMM</string>
   <string name="msg_cleanup_db_update_checking">Проверка обновлений…</string>
   <string name="msg_cleanup_db_update_time_unknown">Последнее обновление: неизвестно</string>
@@ -567,15 +567,9 @@
   <string name="recommend_news">Получать рекомендации</string>
   <string name="recommend_the_following">Следующие действия помогут вам эффективнее использовать устройство</string>
   <string name="recommended">Рекомендуемые</string>
-  <string name="resutl_function_deep_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data>
-  </string>
-  <string name="resutl_function_qq_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data>
-  </string>
-  <string name="resutl_function_wechat_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data>
-  </string>
+  <string name="resutl_function_deep_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data></string>
+  <string name="resutl_function_qq_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data></string>
+  <string name="resutl_function_wechat_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data></string>
   <string name="sc_allow_network_dialog_button">Разрешить</string>
   <string name="sc_allow_network_dialog_message">Разрешить приложению подключаться к интернету для получения обновлений?</string>
   <string name="scanning">Проверка…</string>

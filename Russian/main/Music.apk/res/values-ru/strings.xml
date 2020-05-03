@@ -384,6 +384,15 @@
     <string name="floating_view_dialog_leave">Покинуть</string>
     <string name="floating_view_dialog_stay">Остаться</string>
     <string name="floating_view_dialog_title">Выход</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd.MM</string>
+    <string name="fmt_date_numeric_year_month">MM.yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="follow">Подписаться</string>
     <string name="followed">Подписан</string>
     <string name="format_not_support">Тип файла не поддерживается</string>
