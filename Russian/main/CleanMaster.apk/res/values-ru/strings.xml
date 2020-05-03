@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+  <string name="abc_action_bar_up_description">Перейти вверх</string>
+  <string name="abc_action_menu_overflow_description">Другие параметры</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Показать все</string>
+  <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+  <string name="abc_capital_off">ОТКЛ.</string>
+  <string name="abc_capital_on">ВКЛ.</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Ввод</string>
+  <string name="abc_menu_function_shortcut_label">Fn +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_space_shortcut_label">Пробел</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_search_hint">Поиск…</string>
+  <string name="abc_searchview_description_clear">Удалить запрос</string>
+  <string name="abc_searchview_description_query">Поисковый запрос</string>
+  <string name="abc_searchview_description_search">Поиск</string>
+  <string name="abc_searchview_description_submit">Отправить запрос</string>
+  <string name="abc_searchview_description_voice">Голосовой поиск</string>
+  <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+  <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+  <string name="abc_toolbar_collapse_description">Свернуть</string>
   <string name="activity_title_ad">Реклама</string>
   <string name="activity_title_apk">Пакеты</string>
   <string name="activity_title_brightness_image">Неверная экспозиция</string>
@@ -97,7 +124,7 @@
   <string name="btn_text_quick_scan">Проверить</string>
   <string name="btn_text_stop">Остановить</string>
   <string name="button_agree">Согласен</string>
-  <string name="button_deny">Отмена</string> 
+  <string name="button_deny">Отмена</string>
   <string name="button_optimizer">OK</string>
   <string name="button_text_add_to_white_list">Исключение</string>
   <string name="button_text_backup_uninstall">Резервировать</string>
@@ -147,6 +174,7 @@
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Сетевое подключение приложения \"Безопасность\"</string>
   <string name="connecting">Подключение…</string>
+  <string name="copy">Копировать</string>
   <string name="dc_activity_title">Глубокая очистка</string>
   <string name="dc_advise_delete">Очистить</string>
   <string name="dc_group_title_appclean">Приложения</string>
@@ -170,6 +198,8 @@
   <string name="deep_clean_uninstall_completed_tips">Удаление завершено</string>
   <string name="deepclean_1_k_clean">Очистка памяти</string>
   <string name="deepclean_apk_content">Удаление APK или ненужных приложений</string>
+  <string name="deepclean_apk_group_hint_checked">Выбрать все</string>
+  <string name="deepclean_apk_group_hint_unchecked">Отмена</string>
   <string name="deepclean_apk_summary_empty">Всё в порядке, удалять APK не нужно</string>
   <string name="deepclean_apk_version_error">Неизвестно</string>
   <string name="deepclean_app_content">Удаление приложений, не запускавшихся в течение 30 дней</string>
@@ -242,6 +272,7 @@
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">Инициализация…</string>
   <string name="engine_tm">Tencent</string>
+  <string name="expand_button_title">Дополнительно</string>
   <string name="facebook_clean_exit_confirm_cancel">Продолжить</string>
   <string name="facebook_clean_exit_confirm_msg">Проверка Facebook не завершена. Остановить проверку и выйти?</string>
   <string name="facebook_clean_exit_confirm_ok">Остановить</string>
@@ -261,6 +292,7 @@
   <string name="garbage_month">Очищено %s в этом месяце</string>
   <string name="gigabyteShort">" ГБ"</string>
   <string name="global_wa_audio">Аудио</string>
+  <string name="global_wa_audio_item_title">Голосовые сообщения</string>
   <string name="global_wa_backend_alert_dialog_content">Освободите место, удалив некоторые файлы WhatsApp</string>
   <string name="global_wa_backend_alert_dialog_title">Очистка WhatsApp</string>
   <string name="global_wa_clean_icon_text">Очистка WhatsApp</string>
@@ -426,6 +458,14 @@
   <string name="menu_install">Установить приложение</string>
   <string name="menu_open">Открыть</string>
   <string name="menu_view">Просмотреть в папке</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">обновлено</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">нет данных</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">отменить</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ошибка обновления</string>
   <string name="month_day_format">d MMMM</string>
   <string name="msg_cleanup_db_update_checking">Проверка обновлений…</string>
   <string name="msg_cleanup_db_update_time_unknown">Последнее обновление: неизвестно</string>
@@ -441,6 +481,7 @@
   <string name="news_change">Изменить</string>
   <string name="no_network">Не удалось подключиться к сети, повторите попытку позже</string>
   <string name="no_network_btn">Повторить</string>
+  <string name="not_set">Не задано</string>
   <string name="notification_garbage_cleanup_summary">Удаление мусора (%s) для ускорения работы устройства</string>
   <string name="notification_garbage_cleanup_title">Очистка</string>
   <string name="notification_low_memory_cache_summary">Доступно менее 1,5 ГБ дискового пространства</string>
@@ -496,6 +537,7 @@
   <string name="pref_title_manual_check_cleanup_db_update">Проверить обновления</string>
   <string name="pref_title_open_optimizer_cloud_scan">Загружать имена файлов</string>
   <string name="pref_title_open_optimizer_memory_scan">Проверять память</string>
+  <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
   <string name="privacy_app_desc">Аккаунт и пароль</string>
   <string name="privacy_app_desc_message">Аккаунт, пароли и сообщения</string>
   <string name="privacy_app_desc_search">Аккаунт, пароли и история поиска</string>
@@ -526,14 +568,18 @@
   <string name="recommend_the_following">Следующие действия помогут вам эффективнее использовать устройство</string>
   <string name="recommended">Рекомендуемые</string>
   <string name="resutl_function_deep_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data></string>
+    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data>
+  </string>
   <string name="resutl_function_qq_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data></string>
+    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data>
+  </string>
   <string name="resutl_function_wechat_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data></string>
+    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data>
+  </string>
   <string name="sc_allow_network_dialog_button">Разрешить</string>
   <string name="sc_allow_network_dialog_message">Разрешить приложению подключаться к интернету для получения обновлений?</string>
   <string name="scanning">Проверка…</string>
+  <string name="search_menu_title">Поиск</string>
   <string name="security_center_slogan">Безопасность. Всегда на защите.</string>
   <string name="see_more">Еще</string>
   <string name="set_immediately">Настроить</string>
@@ -546,6 +592,34 @@
   <string name="sponsored">Реклама</string>
   <string name="start_downloading_app">Начинается загрузка: %1$s</string>
   <string name="start_install">Установить</string>
+  <string name="storage_activity_title">Память</string>
+  <string name="storage_app_detail_activity_title">Занимаемое место</string>
+  <string name="storage_app_detail_cache">Кеш</string>
+  <string name="storage_app_detail_clear_all_data">Очистить все</string>
+  <string name="storage_app_detail_clear_cache">Очистить кеш</string>
+  <string name="storage_app_detail_manage_space">%s - Управление местом</string>
+  <string name="storage_app_detail_sdcard">Данные приложения</string>
+  <string name="storage_app_detail_system">Размер приложения</string>
+  <string name="storage_app_detail_third_clean_size">Освободить %s</string>
+  <string name="storage_app_detail_total">Всего занято</string>
+  <string name="storage_app_detail_uninstall_app">Удалить приложение</string>
+  <string name="storage_app_detail_wechat_cleaner">Очистка WeChat</string>
+  <string name="storage_app_detail_wechat_session">Очистить историю чата WeChat</string>
+  <string name="storage_app_list_activity_title">Сведения о приложениях</string>
+  <string name="storage_app_list_desc">Занято: %s</string>
+  <string name="storage_app_space_details_entry">Просмотр сведений</string>
+  <string name="storage_available_total_size">Доступно %1$s из %2$s</string>
+  <string name="storage_deepclean_entry">Глубокая очистка</string>
+  <string name="storage_item_apk_name">Пакеты установки</string>
+  <string name="storage_item_appdata_name">Приложения</string>
+  <string name="storage_item_audio_name">Музыка</string>
+  <string name="storage_item_clean_name">Очистить</string>
+  <string name="storage_item_doc_name">Документы</string>
+  <string name="storage_item_other_name">Другое</string>
+  <string name="storage_item_picture_name">Фото</string>
+  <string name="storage_item_system_name">Система</string>
+  <string name="storage_item_video_name">Видео</string>
+  <string name="storage_space_release_hint">Нужно больше места?</string>
   <string name="summary_auto_cleaner">Получать уведомления, когда размер мусора достигнет 100МБ?</string>
   <string name="summary_delete_apk">Удалить выбранные APK навсегда?</string>
   <string name="summary_delete_cache">Очистить кэш выбранных приложений?</string>
@@ -616,6 +690,8 @@
   <string name="total_clean_text">Очистить</string>
   <string name="unlike">Нет, спасибо</string>
   <string name="update_date_format">dd.MM.yyyy</string>
+  <string name="v7_preference_off">ОТКЛ.</string>
+  <string name="v7_preference_on">ВКЛ.</string>
   <string name="virus_scan">Антивирус</string>
   <string name="wechat_chat_data_type_cache">Кэш WeChat</string>
   <string name="wechat_chat_data_type_cache_desc">Вы сможете восстановить эти файлы после подключения к интернету.</string>

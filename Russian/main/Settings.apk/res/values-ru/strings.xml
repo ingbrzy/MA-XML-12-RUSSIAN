@@ -1884,7 +1884,7 @@
     <string name="device_admin_status">Администратор устройства для приложения \"%1$s\" включен и разрешает выполнять следующие операции:</string>
     <string name="device_admin_warning">Активация администратора устройства для приложения  \"%1$s\" разрешит выполнять следующие операции:</string>
     <string name="device_admin_warning_simplified">Приложение  \"%1$s\" будет управлять устройством и контролировать его.</string>
-    <string name="device_available_memory">Доступно памяти</string>
+    <string name="device_available_memory">"Доступно "</string>
     <string name="device_battery">Батарея</string>
     <string name="device_build_id">Номер сборки</string>
     <string name="device_camera">Камера</string>
@@ -1938,7 +1938,7 @@
     <string name="device_status_activity_title">Общая информация</string>
     <string name="device_status_summary">Номер телефона, уровень сигнала…</string>
     <string name="device_theme">Тема устройства</string>
-    <string name="device_total_memory">Всего памяти</string>
+    <string name="device_total_memory">"Всего "</string>
     <string name="device_usage_list_summary">Использование устройства с момента полной зарядки</string>
     <string name="dial_application_title">Вызов</string>
     <string name="dial_pad_tones_title">Звук набора номера</string>
@@ -5388,7 +5388,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_keyguard_category_name">Экран блокировки</string>
     <string name="security_password_category_name">Защита устройства</string>
     <string name="security_passwords_title">Конфиденциальность</string>
-    <string name="security_patch">Обновление системы безопасности Android</string>
+    <string name="security_patch">Обновление безопасности Android</string>
     <string name="security_privacy_settings_title">Конфиденциальность</string>
     <string name="security_relative">Разрешения безопасности</string>
     <string name="security_settings_face_enroll_dialog_ok">ОК</string>
@@ -5964,7 +5964,7 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_unmount_success">Устройство безопасно извлечено: %1$s</string>
     <string name="storage_usb">USB накопитель</string>
     <string name="storage_usb_settings">USB накопитель</string>
-    <string name="storage_use_title">Накопитель занят</string>
+    <string name="storage_use_title">Занято</string>
     <string name="storage_used">Использовано</string>
     <string name="storage_volume_summary">Использовано %1$s из %2$s</string>
     <string name="storage_volume_total">занято из %1$s</string>
