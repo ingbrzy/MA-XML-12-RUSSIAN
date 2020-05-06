@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+  <string name="abc_action_bar_up_description">Перейти вверх</string>
+  <string name="abc_action_menu_overflow_description">Другие параметры</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Показать все</string>
+  <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+  <string name="abc_capital_off">ОТКЛ.</string>
+  <string name="abc_capital_on">ВКЛ.</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Ввод</string>
+  <string name="abc_menu_function_shortcut_label">Fn +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_space_shortcut_label">Пробел</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_search_hint">Поиск…</string>
+  <string name="abc_searchview_description_clear">Удалить запрос</string>
+  <string name="abc_searchview_description_query">Поисковый запрос</string>
+  <string name="abc_searchview_description_search">Поиск</string>
+  <string name="abc_searchview_description_submit">Отправить запрос</string>
+  <string name="abc_searchview_description_voice">Голосовой поиск</string>
+  <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+  <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+  <string name="abc_toolbar_collapse_description">Свернуть</string>
   <string name="action_cancel">Отмена</string>
   <string name="action_submit">Отправить</string>
   <string name="announcement">Внимание</string>
@@ -49,6 +76,7 @@
   <string name="catch_full_log_start_dump_hprof">Создание журнала задержек</string>
   <string name="catch_full_log_submit_directly">Отправить</string>
   <string name="close_feedback_main">Скрыть</string>
+  <string name="copy">Копировать</string>
   <string name="cta_cancel">Отмена</string>
   <string name="cta_confirm">OK</string>
   <string name="cta_dialog_content">Для нормальной работы приложению требуется подключение к интернету.</string>
@@ -85,6 +113,15 @@
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_service">Обслуживание пользователей</string>
   <string name="error_no_connection">Не удалось подключиться к сети</string>
+  <string name="expand_button_title">Дополнительно</string>
+  <string name="feedback_answer_detail_feedback_resolved">Да</string>
+  <string name="feedback_answer_detail_feedback_result">Спасибо за обратную связь!</string>
+  <string name="feedback_answer_detail_feedback_title">Было ли это полезно?</string>
+  <string name="feedback_answer_detail_feedback_unresolved">Нет</string>
+  <string name="feedback_answer_detail_relative_question">Это может быть актуально</string>
+  <string name="feedback_answer_detail_submit_dialog_confirm">Отправить</string>
+  <string name="feedback_answer_detail_submit_dialog_content">Вы можете описать проблему, с которой столкнулись, и мы постараемся ее исправить. Отправить отзыв?</string>
+  <string name="feedback_answer_detail_submit_dialog_title">Отправить отзыв?</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s проблема \"%2$s\"</string>
   <string name="feedback_choose_module">Выбор категории</string>
   <string name="feedback_choose_module_hint">Обязательно</string>
@@ -116,6 +153,7 @@
   <string name="feedback_detail_upload_local_log">Отправка файла</string>
   <string name="feedback_detail_upload_log">Отправка отчетов</string>
   <string name="feedback_detail_waiting">Создание…</string>
+  <string name="feedback_edit_popup_window_related_title">Это может быть актуально</string>
   <string name="feedback_empty_report_list">Пока нет отчетов</string>
   <string name="feedback_guess">Наше предположение</string>
   <string name="feedback_hint_optional">Выбор</string>
@@ -282,6 +320,14 @@
   <string name="michat_wait_for_a_moment">Секундочку, помощь уже в пути!</string>
   <string name="michat_webview_title">Подробности</string>
   <string name="min_error">Ваш %1$s слишком короткий.</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
   <string name="mobile_data_note_dialog_cancel">Отложить</string>
   <string name="mobile_data_note_dialog_confirm">Отправить</string>
   <string name="mobile_data_note_dialog_content">Вы подключены к платной сети. Отправка журналов может вызвать дополнительные затраты.</string>
@@ -333,6 +379,7 @@
   <string name="plus_one_submit_dialog_content">Ваш отчет вместе с журналами ошибок будет отправлен на серверы MIUI.</string>
   <string name="plus_one_submit_dialog_not_show_again">Запомнить выбор</string>
   <string name="post_miui_bbs_failed">Не удалось разместить на форуме MIUI</string>
+  <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
   <string name="privacy_category_title">Конфиденциальность</string>
   <string name="privacy_policy_title">Политика конфиденциальности</string>
   <string name="pull_to_refresh_pull_label">Потяните вниз для обновления</string>
@@ -351,6 +398,7 @@
   <string name="save_pic_fail">Не удалось сохранить изображение, проверьте SD карту</string>
   <string name="save_pic_success">Изображение сохранено в %s</string>
   <string name="screen_lock">Блокировка экрана</string>
+  <string name="search_menu_title">Поиск</string>
   <string name="second_position">3#</string>
   <string name="section_description">Описание</string>
   <string name="section_err_type">Тип отчета</string>
@@ -405,6 +453,8 @@
   <string name="topic_author">1#</string>
   <string name="try_again">Повторить</string>
   <string name="upload_log_failed">Не удалось отправить журналы</string>
+  <string name="v7_preference_off">ОТКЛ.</string>
+  <string name="v7_preference_on">ВКЛ.</string>
   <string name="warning_field_empty">Введите %1$s</string>
   <string name="warning_field_invalid">Выберите действительный %1$s</string>
 </resources>

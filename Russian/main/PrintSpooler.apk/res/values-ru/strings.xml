@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="activity_convert_pdf_alert_message">Преобразование файлов обеспечивается WPS Office</string>
+  <string name="activity_convert_pdf_alert_title">Преобразование файла перед печатью…</string>
+  <string name="activity_jump_market_alert_install_message">Установите WPS Office, чтобы преобразовать этот файл и подготовить его к печати. Вам нужно будет снова начать печать после завершения установки. Установить сейчас?</string>
+  <string name="activity_jump_market_alert_install_positive_button">Установить</string>
+  <string name="activity_jump_market_alert_title">Внимание</string>
+  <string name="activity_jump_market_alert_update_message">Обновите WPS Office, чтобы преобразовать этот файл и подготовить его к печати. Вам нужно будет начать печать снова после установки новой версии. Обновить сейчас?</string>
+  <string name="activity_jump_market_alert_update_positive_button">Обновить</string>
   <string name="add_print_service_label">Добавить службу печати</string>
   <string name="all_printers">Все принтеры</string>
   <string name="all_printers_label">Все принтеры</string>
@@ -112,4 +119,6 @@
   <string name="template_all_pages">Все %1$s</string>
   <string name="template_page_range">Диапазон %1$s</string>
   <string name="wifi_direct">Wi-Fi Direct</string>
+  <string name="wps_convert_error_toast_text">Не удалось преобразовать файл из-за неверного формата</string>
+  <string name="wps_convert_too_large_and_wait_toast_text">Преобразование может занять больше времени из-за большего размера файла. Преобразование…</string>
 </resources>

@@ -19,33 +19,17 @@
         <item>Цепной запуск</item>
         <item>Разрешения</item>
         <item>Действия</item>
-    </string-array>	
+    </string-array>
     <string-array name="applock_password_types">
         <item>Графический ключ</item>
         <item>PIN-код</item>
         <item>Пароль</item>
     </string-array>
-    <string-array name="date_of_traffic_cmcc">
-        <item>"За неделю "</item>
-        <item>"Сегодня "</item>
-        <item>"За месяц "</item>
-    </string-array>
-    <string-array name="date_of_traffic">
-        <item>"Вчера "</item>
-        <item>"Сегодня "</item>
-        <item>"За прошлый месяц "</item>
-        <item>"За месяц "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"За неделю: "</item>
-        <item>"Сегодня: "</item>
-        <item>"За месяц: "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix">
-        <item>"Вчера: "</item>
-        <item>"Сегодня: "</item>
-        <item>"За прошлый месяц: "</item>
-        <item>"За месяц: "</item>
+    <string-array name="daily_brand">
+        <item>Выбор</item>
+        <item>Mi Fan карта</item>
+        <item>Xiao Tiansheng карта</item>
+        <item>Tencent King карта</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Вчера (3G/4G) "</item>
@@ -56,6 +40,34 @@
         <item>"Сегодня (Wi-Fi) "</item>
         <item>"За прошлый месяц (Wi-Fi) "</item>
         <item>"За месяц (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"За прошлый месяц "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"За неделю "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Вчера: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За прошлый месяц: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"За неделю: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Удаленно получать доступ к файлам на устройстве и редактировать их.</item>
+        <item>Устанавливать приложения на устройство без подтверждения.</item>
+        <item>Удаленно отслеживать и записывать содержимое экрана.</item>
+        <item>Получать доступ к подробной информации об устройстве.</item>
     </string-array>
     <string-array name="ew_emergency_blood_type_arrays">
         <item>A</item>
@@ -76,6 +88,10 @@
         <item>"Трафик 3G/4G "</item>
         <item>"Трафик Wi-Fi "</item>
     </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Важно: некоторые системные приложения могут работать неправильно.</item>
+        <item>Текстовые макеты, учетные записи и содержимое могут отображаться неправильно.</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Уведомлять</item>
         <item>Уведомлять и отключать интернет</item>
@@ -87,6 +103,24 @@
     <string-array name="pc_settings_thermal_summaries">
         <item>Режим контроля температуры по умолчанию</item>
         <item>Приоритет производительности</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Читать уведомления, текстовые сообщения и другие данные, содержащие личную информацию</item>
+        <item>Ограничивать разрешения уведомлений для некоторых приложений</item>
+        <item>Эмулировать нажатия на уведомления и открывать приложения</item>
+        <item>Включать и выключать режим "\Не беспокоить"\</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Собирать данные о ваших интересах и поведении, собирая статистику о том, какие приложения и как часто вы используете</item>
+        <item>Получать доступ к настройкам вашего оператора связи и языковым настройкам, а также к другим сведениям</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Сторонние приложения, не провереные в GetApps, могут вызвать проблемы и снизить стабильность системы.</item>
+        <item>Некоторые сторонние приложения могут содержать вредоносное ПО и подвергать риску ваши личные данные.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Внутренняя память</item>
+        <item>Внешняя память</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Всегда</item>

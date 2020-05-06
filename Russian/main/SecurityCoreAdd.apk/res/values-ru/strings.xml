@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+  <string name="abc_action_bar_up_description">Перейти вверх</string>
+  <string name="abc_action_menu_overflow_description">Другие параметры</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Показать все</string>
+  <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+  <string name="abc_capital_off">ОТКЛ.</string>
+  <string name="abc_capital_on">ВКЛ.</string>
+  <string name="abc_menu_alt_shortcut_label">Alt +</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+  <string name="abc_menu_delete_shortcut_label">Delete</string>
+  <string name="abc_menu_enter_shortcut_label">Ввод</string>
+  <string name="abc_menu_function_shortcut_label">Fn +</string>
+  <string name="abc_menu_meta_shortcut_label">Meta +</string>
+  <string name="abc_menu_shift_shortcut_label">Shift +</string>
+  <string name="abc_menu_space_shortcut_label">Пробел</string>
+  <string name="abc_menu_sym_shortcut_label">Sym +</string>
+  <string name="abc_prepend_shortcut_label">Меню +</string>
+  <string name="abc_search_hint">Поиск…</string>
+  <string name="abc_searchview_description_clear">Удалить запрос</string>
+  <string name="abc_searchview_description_query">Поисковый запрос</string>
+  <string name="abc_searchview_description_search">Поиск</string>
+  <string name="abc_searchview_description_submit">Отправить запрос</string>
+  <string name="abc_searchview_description_voice">Голосовой поиск</string>
+  <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+  <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+  <string name="abc_toolbar_collapse_description">Свернуть</string>
   <string name="about_ent_mode">О режиме предприятия</string>
   <string name="activate_ent_mode">Активация режима предприятия</string>
   <string name="Active">Активировать</string>
@@ -26,6 +53,7 @@
   <string name="chooseFile">Другие объекты</string>
   <string name="click_to_back_first_space">Нажмите для возврата в первое пространство</string>
   <string name="click_to_switch">Нажмите для просмотра</string>
+  <string name="close_kid_space_success">Пространство Детского режима удалено</string>
   <string name="close_second_space">Второе пространство удалено</string>
   <string name="close_second_space_success">Второе пространство удалено</string>
   <string name="closed">Откл</string>
@@ -34,7 +62,6 @@
   <string name="closeSecondSpace">Удаление второго пространства</string>
   <string name="closeSecondSpaceSummary">Удалить второе пространство вместе с данными</string>
   <string name="closeSuccess">Отключено</string>
-  <string name="close_kid_space_success">Пространство Детского режима удалено</string>
   <string name="complete_setting">Завершить</string>
   <string name="complete_setting_sub_title">Вы можете вернуться позже для изменения настроек</string>
   <string name="complete_setting_title">Настройка завершена!</string>
@@ -54,6 +81,7 @@
   <string name="contact_us">Свяжитесь с нами</string>
   <string name="contactData">Контакты</string>
   <string name="continueButton">Далее</string>
+  <string name="copy">Копировать</string>
   <string name="create_app_icon_failed">Не удалось создать значок</string>
   <string name="create_app_icon_success">Значок успешно создан</string>
   <string name="create_second_space">Пространство создано</string>
@@ -140,6 +168,7 @@
   <string name="err_unknown">Неизвестная ошибка</string>
   <string name="err_volume_not_enough">Недостаточно места</string>
   <string name="exit_private_space">Переход</string>
+  <string name="expand_button_title">Дополнительно</string>
   <string name="experience_more_features">Добавьте устройство для просмотра всех функций</string>
   <string name="facebook_login">Войти с помощью Facebook</string>
   <string name="facebook_send">Отправить в Facebook</string>
@@ -217,6 +246,14 @@
   <string name="master_clear_not_available_ep">Вы не можете выполнить сброс к заводским настройкам или отменить авторизацию. Свяжитесь с руководителем.</string>
   <string name="menu_item_about_privacy_title">Политика конфиденциальности</string>
   <string name="messageData">Сообщения</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
   <string name="more_settings">Еще</string>
   <string name="msg_switch_file">Удалить эти файлы из первого пространства после перемещения?</string>
   <string name="msg_switch_file_second">Удалить эти файлы из второго пространства после перемещения?</string>
@@ -232,6 +269,7 @@
   <string name="next_setp">Далее</string>
   <string name="no_match_repate_scanner">Отпечатки не найдены, повторите сканирование</string>
   <string name="normal_app">Первое пространство</string>
+  <string name="not_set">Не задано</string>
   <string name="not_support_air_space">Эта функция не поддерживается на вашем телефоне</string>
   <string name="not_support_multiple_users">Многопользовательский режим не поддерживается</string>
   <string name="notification_from_owner_user">Показывать уведомления от первого пространства</string>
@@ -255,6 +293,7 @@
   <string name="passwordProtect">Пароль</string>
   <string name="please_diff_finger_print">"Убедитесь, что отпечатки пальцев пространств отличаются.
 Иначе нельзя будет войти во второе пространство с экрана блокировки."</string>
+  <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
   <string name="privacy_password_fingerprint_dialog_message">Приложите палец к сканеру</string>
   <string name="privacy_password_fingerprint_dialog_title">Отсканируйте отпечаток</string>
   <string name="PrivacyContactDes1">"Контакты станут личными.
@@ -309,6 +348,7 @@
 Если вы не обновитесь, клоны приложений могут работать неправильно."</string>
   <string name="sdcradfs_dialog_in_sec_title">Важное обновление</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_menu_title">Поиск</string>
   <string name="search_result_text">Приложения не найдены</string>
   <string name="second_owner_finger_print">Отпечаток второго пространства</string>
   <string name="second_space_desktop_tips_dialog_message">После обновления значки для перемещения данных и управления вторым пространством больше не будут отображаться на рабочем столе. Вы сможете получить доступ к соответствующим функциям в Настройках.</string>
@@ -317,6 +357,8 @@
   <string name="second_space_finger_printf_desc">Добавьте отпечаток пальца для входа во второе пространство</string>
   <string name="second_space_finger_printf_title">Отпечаток второго пространства</string>
   <string name="secondSpace">Второе пространство</string>
+  <string name="secondspace_homepage">"Установите отдельную блокировку экрана для второго пространства.
+Разделяйте и защищайте свои данные."</string>
   <string name="select_existed_fingerprint">Выберите отпечаток пальца</string>
   <string name="serNameSummary">Второе пространство</string>
   <string name="set_space_finger">Добавьте отпечаток</string>
@@ -437,6 +479,8 @@
   <string name="undo_success">Разрешение отозвано</string>
   <string name="use_google_open">Активация с помощью Google Ассистент</string>
   <string name="use_xiaoai_open">Активация с помощью Mi AI</string>
+  <string name="v7_preference_off">ОТКЛ.</string>
+  <string name="v7_preference_on">ВКЛ.</string>
   <string name="wating">Подождите…</string>
   <string name="weibo_send">Отправить в Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="access_denied">Доступ запрещен</string>
     <string name="account_related">Устройство связано с существующим Mi аккаунтом (%s). Подключитесь к сети для проверки устройства.</string>
     <string name="activate_find_device_success">Поиск устройства активирован.</string>
@@ -14,7 +41,7 @@
     <string name="button_cancel">Отмена</string>
     <string name="calendar_sync">Календарь</string>
     <string name="check_contact">Добавить</string>
-    <string name="choose_contact_title">Контакты</string>	
+    <string name="choose_contact_title">Контакты</string>
     <string name="click_to_enabled">Нажмите для синхронизации.</string>
     <string name="close_shortcut">Закрыть</string>
     <string name="cloud_find_device">Поиск устройства</string>
@@ -24,6 +51,7 @@
     <string name="cloud_storage_already_full">Облачное хранилище заполнено: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Занято: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Облачное хранилище</string>
+    <string name="cloud_storage_info_type_family">Семья</string>
     <string name="cloud_storage_info_type_others">Другое</string>
     <string name="cloud_storage_info_type_pdc">Настройки системы</string>
     <string name="cloud_storage_loading_data">Подождите…</string>
@@ -34,6 +62,7 @@
     <string name="confirm_save">Оставить</string>
     <string name="connect_network">Подключитесь к Wi-Fi или вставьте SIM-карту</string>
     <string name="connect_wlan">Подключение к Wi-Fi</string>
+    <string name="copy">Копировать</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Эта учетная запись также используется на другом устройстве. Объединить данные (включая %1$s и %2$s) с данными на этом устройстве?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Эта учетная запись также используется на другом устройстве. Объединить данные из %s с данными на этом устройстве?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Эта учетная запись также используется на других устройствах. Объединить данные из %1$s и %2$s с данными на этом устройстве?</string>
@@ -43,7 +72,7 @@
     <string name="data_merge_dialog_alert_msg_one_pad">Данные из %s сохранены в Xiaomi Cloud. Синхронизировать и объединить их с данными на этом устройстве?</string>
     <string name="data_merge_dialog_alert_msg_two">Данные из %1$s и %2$s сохранены в Xiaomi Cloud. Синхронизировать и объединить их с данными на этом устройстве?</string>
     <string name="data_merge_dialog_alert_msg_two_pad">Данные из %1$s и %2$s сохранены в Xiaomi Cloud. Синхронизировать и объединить их с данными на этом устройстве?</string>
-    <string name="data_merge_dialog_loading">Проверка данных…</string>	
+    <string name="data_merge_dialog_loading">Проверка данных…</string>
     <string name="data_protection_title">Защита данных</string>
     <string name="detect_sim_card">Поиск SIM карты</string>
     <string name="disable_find_device_error">Не удалось отключить Поиск устройства. %1$s</string>
@@ -57,6 +86,8 @@
     <string name="error_network">Не удалось подключиться к сети</string>
     <string name="error_server">Ошибка сервера</string>
     <string name="error_unknown">Ошибка авторизации</string>
+    <string name="expand_button_title">Дополнительно</string>
+    <string name="feedback_custom_hint">Опишите проблемы, с которыми вы столкнулись. Если у вас есть предложения, мы будем признательны за более подробную информацию!</string>
     <string name="find_device">Поиск устройства</string>
     <string name="find_device_dspt_provision">При утере устройства вы можете перейти на  &lt;font color=#0097FF&gt;%s&lt;/font&gt; для его обнаружения, блокировки или очистки данных. Включить или отключить эту функцию можно в Настройках.</string>
     <string name="find_device_error_network">Проверьте подключение и повторите попытку</string>
@@ -66,7 +97,7 @@
     <string name="find_device_send_sms_alert">При замене SIM карты может быть автоматически отправлено SMS для повторной активации.</string>
     <string name="find_device_service_title">Поиск устройства</string>
     <string name="finddevice_miservice_notification_content">Удаленная блокировка устройства в случае его утери</string>
-    <string name="finddevice_miservice_notification_title">Включите Поиск устройства</string>	
+    <string name="finddevice_miservice_notification_title">Включите Поиск устройства</string>
     <string name="forget_password"><u>Забыли пароль?</u></string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Введите пароль</string>
@@ -114,6 +145,9 @@
     <string name="menu_add_feedback">Обратная связь</string>
     <string name="menu_add_short_cut">Добавить ярлык на рабочий стол</string>
     <string name="merge">Объединить</string>
+    <string name="mi_drive_not_publish_toast">Mi Drive скоро будет доступен</string>
+    <string name="mi_drive_summary">Доступ к документам из Xiaomi Cloud на нескольких устройствах</string>
+    <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">OK</string>
     <string name="micloud_all_sub_1_intl_sms">Для активации SIM карты будет отправлено международное SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="micloud_all_sub_1_sms">Для активации SIM карты будет отправлено обычное SMS. Оплата взимается согласно тарифу вашего оператора.</string>
@@ -342,6 +376,14 @@
     <string name="micloud_wipe_data_confirm_title">Удалить объекты, синхронизированные с Xiaomi Cloud, после выхода?</string>
     <string name="micloud_wipe_data_remove">Удалить</string>
     <string name="micloud_wipe_data_retain">Оставить</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="mx_dspt">Mi сообщения</string>
     <string name="mx_dspt_provision">"Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI при подключении к Wi-Fi.
 
@@ -361,16 +403,20 @@
     <string name="mx_sub_dspt_provision_with_voip">Интернет телефония</string>
     <string name="mx_voip_dspt">Mi Voice</string>
     <string name="no_sim">Нет SIM карты</string>
+    <string name="not_set">Не задано</string>
     <string name="pay_info_dialog_confirm_to_pay">Оплатить %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Использовать оставшиеся Mi Credits: %s</string>
     <string name="pay_info_dialog_title">Выберите метод оплаты</string>
     <string name="phone_number_required_dspt_provision">"Этому сервису требуется ваш номер телефона. "</string>
     <string name="picker_list_empty">Список пуст</string>
     <string name="picker_search_empty">Контакты не найдены</string>
-    <string name="picker_search_hint">Поиск</string>	
+    <string name="picker_search_hint">Поиск</string>
     <string name="pre_privacy_policy">Политика конфиденциальности</string>
     <string name="pre_user_agreement">Пользовательское соглашение</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизировать фото контактов только по Wi-Fi</string>
+    <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="priv_dialog_finddevice_all_purpose_pad">"Добро пожаловать в Поиск устройства! Вы можете использовать этот сервис, чтобы найти устройство, заблокировать его или стереть данные в случае утери."</string>
     <string name="priv_dialog_finddevice_all_purpose_phone">"Добро пожаловать в Поиск устройства! Вы можете использовать этот сервис, чтобы найти устройство, заблокировать его или стереть данные в случае утери."</string>
     <string name="priv_dialog_sync_all_purpose">Добро пожаловать в сервисы Xiaomi Cloud! Вы можете использовать Xiaomi Cloud для синхронизации сообщений, журнала звонков, контактов, заметок, событий календаря, звукозаписей, треков, фото и видео, настроек браузера, Wi-Fi, рабочего стола, приложений, черного списка и Ассистента на всех подключенных устройствах.</string>
@@ -451,8 +497,6 @@
     <string name="privacy_doc_finddevice_with_telephony_feature_phone">Добро пожаловать в Поиск устройства! Вы можете использовать этот сервис, чтобы найти устройство, заблокировать его или стереть данные в случае утери. Зайдите на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; для перечисленных действий.&lt;br /&gt;&lt;br /&gt;Для активации данной услуги может потребоваться отправка SMS. Ваш оператор может взимать плату за это сообщение. При переключении SIM-карты сообщение может быть отравлено автоматически для повторной активации.&lt;br /&gt;&lt;br /&gt;Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.&lt;br /&gt;Для нормальной работы Поиску устройства необходимы подключение к Интернету и следующие разрешения для сбора вашей личной информации:&lt;br /&gt;• Доступ к информации об устройстве:&lt;br /&gt;Для идентификации устройства&lt;br /&gt;• Доступ к данным о местоположении:&lt;br /&gt;Для поиска вашего устройства и переключения в соответствующий режим в случае утери&lt;br /&gt;В случае отказа предоставить разрешения, вы не сможете пользоваться сервисами. В таком случае, вы можете удалить приложение, выйти из аккаунта или ограничить разрешения в Настройках.&lt;br /&gt;Прочитайте и примите наши &lt;a href=%1$s&gt;&lt;u&gt;Пользовательское соглашение&lt;/u&gt;&lt;/a&gt; и &lt;a href=%2$s&gt;&lt;u&gt;Политику конфиденциальности&lt;/u&gt;&lt;/a&gt; перед использованием Поиск устройства.&lt;br /&gt;</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_policy_url">app://com.miui.cloudservice.gdpr.license</string>
-    <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
-    <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>
     <string name="provision_sync_items_loading">Подготовка к синхронизации</string>
     <string name="reading_status">Получение статуса…</string>
     <string name="reading_status_failure">Не удалось получить статус</string>
@@ -464,6 +508,7 @@
     <string name="search_finddevice_pref_desc">Включить/отключить поиск устройства</string>
     <string name="search_finddevice_pref_key_words">поиск устройства, поиск устройства</string>
     <string name="search_finddevice_pref_path">Mi аккаунт/Xiaomi Cloud/Поиск устройства</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Не удалось отправить</string>
     <string name="share_miliao_not_installed">Mi Talk не установлен.</string>
@@ -474,6 +519,7 @@
     <string name="soundrecorder_sync_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Диктофон не будет использовать мобильный интернет для загрузки и отправки записей</string>
     <string name="soundrecorder_sync_records">Синхронизация записей</string>
+    <string name="special_func_title">Специальные функции</string>
     <string name="starred_contact">Избранные</string>
     <string name="storage_manage_expansion">Больше</string>
     <string name="storage_manage_list_title">Облачные данные</string>
@@ -481,10 +527,15 @@
     <string name="storage_manage_renewal">Продлить</string>
     <string name="storage_manage_title">Обновить план Xiaomi Cloud</string>
     <string name="storage_manage_upgrade">Обновить</string>
+    <string name="storage_upgrade_card_summary">Получите больше места в облаке</string>
+    <string name="storage_upgrade_card_title">Обновите план</string>
     <string name="sub_alert_notif_content">Включите синхронизацию с Xiaomi Cloud для резервного копирования данных</string>
     <string name="sub_alert_notif_title">Синхронизация с Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Синхронизировать сообщения, содержащие фото, аудио и другие медиаданные, только по Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS только по Wi-Fi</string>
+    <string name="sync_detail_summary_master_sync_off">Синхронизация отключена</string>
+    <string name="sync_detail_summary_off">Откл.</string>
+    <string name="sync_detail_text">Сведения</string>
     <string name="sync_dspt">Включить синхронизацию</string>
     <string name="sync_dspt_entrance_provision">"Синхронизируйте фото, контакты, журналы вызовов и сообщения на всех устройствах. Просматривайте их в любом браузере на %s. "</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Не использовать</string>
@@ -496,9 +547,6 @@
     <string name="sync_dspt_provision">"Синхронизируйте фото, контакты, заметки и другие данные на всех устройствах и просматривайте их на "</string>
     <string name="sync_dspt_provision3">". Отключить эту функцию можно в настройках.
 "</string>
-    <string name="sync_detail_summary_master_sync_off">Синхронизация отключена</string>
-    <string name="sync_detail_summary_off">Откл.</string>
-    <string name="sync_detail_text">Сведения</string>
     <string name="sync_item_calllog_summary">Синхронизировать журнал входящих и исходящих вызовов</string>
     <string name="sync_item_calllog_title">Синхронизация вызовов</string>
     <string name="sync_item_sms_summary">Синхронизация SMS на этом телефоне</string>
@@ -525,6 +573,8 @@
     <string name="user_agreement_p5">""</string>
     <string name="user_agreement_title">Условия использования Xiaomi Cloud</string>
     <string name="user_storage_info_available_text_prefix">%s доступно</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="waiting_for_sync">Ожидание…</string>
     <string name="warning_bar_action_add_short_cut">Добавить</string>
     <string name="warning_bar_action_close">Закрыть</string>

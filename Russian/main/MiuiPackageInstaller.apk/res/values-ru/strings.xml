@@ -109,7 +109,7 @@
   <string name="grant_dialog_button_deny">Запретить</string>
   <string name="grant_dialog_button_deny_anyway">Все равно запретить</string>
   <string name="help_app_permissions" />
-  <string name="high_risk_perms">Потенциально опасные разрешения</string>
+  <string name="high_risk_perms">Небезопасные разрешения</string>
   <string name="increment_install_downloading">Загрузка %1$s</string>
   <string name="increment_install_network_error_cancel">Отмена</string>
   <string name="increment_install_network_error_msg">Ошибка сети. Вы все еще можете продолжить установку непроверенного приложения. Продолжить?</string>
@@ -173,10 +173,10 @@
   <string name="miui_app_permission_detail">Требуемые разрешения</string>
   <string name="miui_app_virus">Приложение содержит вирус, установка крайне не рекомендуется</string>
   <string name="miui_clean">Очистить</string>
-  <string name="miui_clear_apk_desc">Удаленный установочный пакет и остаточные данные (%s)</string>
+  <string name="miui_clear_apk_desc">Установочный пакет и остаточные данные удалены (%s)</string>
   <string name="miui_clear_apks">Удалить установочный пакет и остаточные данные (%s)</string>
-  <string name="miui_clear_apks_summary">Всего %s</string>
-  <string name="miui_clear_apks_title">Автоматически удалять установочные пакеты</string>
+  <string name="miui_clear_apks_summary">Итоговый размер: %s</string>
+  <string name="miui_clear_apks_title">Удалить установочный пакет</string>
   <string name="miui_compatibility_desc">Это приложение не оптимизировано для вашего устройства и может работать неправильно.</string>
   <string name="miui_delete">Удалить</string>
   <string name="miui_failed_already_exists">Приложение уже установлено</string>
@@ -212,7 +212,7 @@
   <string name="miui_install_source_unkown">Неизвестно</string>
   <string name="miui_install_success">Приложение установлено</string>
   <string name="miui_install_version">Версия: %s</string>
-  <string name="miui_install_version_3">Версия: %1$s -&gt; %2$s | Размер: %3$s</string>
+  <string name="miui_install_version_3">Версия: %1$s -&gt; %2$s (%3$s)</string>
   <string name="miui_installing">Установка…</string>
   <string name="miui_installing2">Установка…</string>
   <string name="miui_message_staging_0">Подготовка   </string>
@@ -306,7 +306,7 @@
   <string name="privacy_relative">Конфиденциальность</string>
   <string name="privacyPerms">Конфиденциальность</string>
   <string name="reboot_time">Подготовка к перезагрузке… (%1$s)</string>
-  <string name="replace_app_des_text">Заменить приложение этой версией?</string>
+  <string name="replace_app_des_text">Установить эту версию приложения?</string>
   <string name="review_button_cancel">Отмена</string>
   <string name="review_button_continue">Продолжить</string>
   <string name="risk_warning_bottom_button">Установить из GetApps</string>

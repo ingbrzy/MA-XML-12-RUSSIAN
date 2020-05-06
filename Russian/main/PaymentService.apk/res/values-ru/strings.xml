@@ -82,9 +82,10 @@ ID:%s
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">Не удалось добавить новый аккаунт. Вы можете привязать не более 3 аккаунтов к номеру телефона.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Подождите 24 часа и повторите попытку.</string>
-    <string name="google_application_id"/>
+    <string name="google_application_id" />
     <string name="goto_sign_up">Создать аккаунт</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>
+    <string name="i_know">OK</string>
     <string name="identity">Идентификация</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="input_email_address_notice">Этот адрес электронной почты будет использован для подтверждения вашей учетной записи</string>
@@ -93,11 +94,14 @@ ID:%s
     <string name="just_a_second">Подождите…</string>
     <string name="loading">Подождите…</string>
     <string name="logout_account">Выход</string>
+    <string name="mibi_permanently_denied_perm_camera">Разрешите доступ к камере в Настройках для использования этих функций.</string>
+    <string name="mibi_permanently_denied_perm_send_sms">Разрешить отправку SMS-сообщений в Настройках для использования этих функций.</string>
     <string name="nick_name">Имя пользователя</string>
     <string name="no_account">Вход не выполнен</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="no_phone">Номер телефона отсутствует</string>
-    <string name="ok">ОК</string>	
+    <string name="ok">ОК</string>
+    <string name="open_settings">Настройки</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_hint_text">Электронная почта, номер телефона или ID Mi Аккаунта</string>
     <string name="passport_account_identity_title">Подтвердить подлинность аккаунта</string>
@@ -292,4 +296,5 @@ ID:%s
     <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
     <string name="passport_wrong_vcode">Код введен неверно</string>
     <string name="passport_yes">Да</string>
+    <string name="request_camera_permission_message">Этому сервису необходимо ваше разрешение, мы будем строго соблюдать соответствующие законы для защиты вашей личной информации: &lt;br&gt;&lt;br&gt;&lt;b&gt; Доступ к камере: запись в режиме реального времени для установки аватара &lt;/b&gt;&lt;br&gt;&lt;br&gt;Если вы не предоставите необходимые разрешения, функция не будет работать должным образом, но это не повлияет на использование основных функций приложения. Вы можете отозвать разрешение в любое время.</string>
 </resources>

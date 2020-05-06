@@ -75,6 +75,8 @@
   <string name="locale_picker_title">Выберите ваш регион</string>
   <string name="location_introduction">Сервисы на основе местоположения находят продукты и услуги рядом с вами.</string>
   <string name="lockscreen_introduction">Карусель обоев позволяет регулярно получать новые обои на экран блокировки.</string>
+  <string name="mint_keyboard_oobe_checkbox">Я прочитал и согласен с политикой конфиденциальности Mint Keyboard</string>
+  <string name="mint_keyboard_oobe_terms">Политика конфиденциальности Mint Keyboard</string>
   <string name="miui_privacy_policy_no_network">Нет подключения к интернету. Ознакомьтесь с Политикой конфиденциальности на %s.</string>
   <string name="miui_terms_no_network">Нет подключения к интернету. Ознакомьтесь с Пользовательским соглашением на %s.</string>
   <string name="multisim_settings_category">Настройки SIM карт</string>
@@ -147,6 +149,8 @@
   <string name="permission_virusscan_introduction">Для проверки на вирусы и оптимизации устройства</string>
   <string name="permission_xunlei_introduction">Для входа в учетные записи и управления ими для предоставления услуг Xunlei</string>
   <string name="poco_agree_terms_other">(Включая Политику конфиденциальности и Условия использования POCO Launcher)</string>
+  <string name="poco_launcher_privacy_policy">Политика конфиденциальности POCO Launcher</string>
+  <string name="poco_launcher_user_agreement">Пользовательское соглашениеPOCO Launcher</string>
   <string name="pref_title_data_slot">SIM карта для интернета</string>
   <string name="pref_title_voice_slot">SIM карта для вызовов</string>
   <string name="privacy_policy">Политика конфиденциальности</string>
@@ -204,8 +208,8 @@
   <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Прочитайте наши Условия использования и Политику конфиденциальности, чтобы понять, какую информацию мы собираем, как мы ее используем и какие варианты доступны для Вас.
 
 Вы должны принять Условия использования и Политику конфиденциальности, прежде чем использовать MIUI. %s и компоненты Mi аккаунта подключатся к интернету и получат данные вашего местоположения."</string>
-  <string name="terms_of_use_label_Mistore">, системный плагин Mi Store</string>
   <string name="terms_of_use_label_mab">, MAB</string>
+  <string name="terms_of_use_label_Mistore">, системный плагин Mi Store</string>
   <string name="terms_of_use_label_package">, Установщик пакетов</string>
   <string name="terms_of_use_label_phrase">, Частые фразы</string>
   <string name="terms_of_use_label_systemhelper">, cаморегистрируемые сервисы</string>
@@ -216,6 +220,9 @@
   <string name="terms_of_use_lable_default_input_method_kika">"
 
 Перед использованием этой функции вы должны принять Политику конфиденциальности Kika."</string>
+  <string name="terms_of_use_lable_default_input_method_mint">"
+
+Вы должны согласиться с Политикой конфиденциальности Mint Keyboard перед использованием."</string>
   <string name="terms_of_use_lable_gms">, сервисы Google Play</string>
   <string name="terms_of_use_lable_smart_cards">, смарт-карты</string>
   <string name="terms_privacy_policy_input_method_facemoji">Политика конфиденциальности Facemoji</string>

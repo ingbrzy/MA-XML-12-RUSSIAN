@@ -43,8 +43,8 @@
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">через %d минут</item>
-        <item quantity="few">через %d минуты</item>
         <item quantity="one">через 1 минуту</item>
+        <item quantity="few">через %d минуты</item>
     </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d дней</item>
@@ -57,7 +57,7 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут назад</item>
         <item quantity="few">%d минуты назад</item>
-        <item quantity="one">1 минуты назад</item>
+        <item quantity="one">1 минуту назад</item>
     </plurals>
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">Вы пользовались устройством без перерыва %d минут</item>

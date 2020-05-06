@@ -331,45 +331,45 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="new_confirm_enable_encrypt_title">Зашифровать</string>
   <string name="new_local_button_backup">Создать резервную копию</string>
   <string name="new_local_button_restore">Восстановить</string>
-  <string name="new_local_click_to_jump">Нажмите для подробных инструкций</string>
+  <string name="new_local_click_to_jump">Инструкция</string>
   <string name="new_local_detail_description">"Внимание:
-%1$d. Скопируйте резервные копии на компьютер, чтобы избежать потери данных. %2$s.
-%3$d. Резервные копии будут сохранены в папке MIUI/Backup/AllBackup."</string>
-  <string name="new_local_tab_backup">Резервное копирование на устройство</string>
-  <string name="new_local_tab_restore">Восстановление с устройства</string>
+%1$d. Сохраните резервные копии на компьютере, чтобы избежать потери данных. %2$s.
+%3$d. Резервные копии будут сохранены в папке MIUI &gt; Backup &gt; AllBackup."</string>
+  <string name="new_local_tab_backup">Резервное копирование</string>
+  <string name="new_local_tab_restore">Восстановление</string>
   <string name="new_low_storage_title">Недостаточно места</string>
   <string name="new_more_settings_label">Дополнительные настройки</string>
-  <string name="new_pc_backup_content1">%1$d. Откройте \"%2$s\".</string>
-  <string name="new_pc_backup_content2">%d. Дождитесь завершения резервного копирования.</string>
-  <string name="new_pc_backup_content3">%d. Резервные копии будут находиться в папке MIUI/Backup/AllBackup.</string>
-  <string name="new_pc_backup_content4">%d. Скопируйте резервные копии на компьютер.</string>
+  <string name="new_pc_backup_content1">%1$d. Откройте %2$s.</string>
+  <string name="new_pc_backup_content2">%d. Дождитесь окончания резервного копирования.</string>
+  <string name="new_pc_backup_content3">%d. Резервные копии будут находиться в папке MIUI &gt; Backup &gt; AllBackup.</string>
+  <string name="new_pc_backup_content4">%d. Сохраните резервные копии на компьютере.</string>
   <string name="new_pc_backup_restore_link">Устройство</string>
-  <string name="new_pc_backup_summary1">Выберите элементы и нажмите \"Резервное копирование\".</string>
+  <string name="new_pc_backup_summary1">Выберите элементы и нажмите \"Создать резервную копию\".</string>
   <string name="new_pc_backup_summary2">Подключите устройство к компьютеру через USB-кабель.</string>
-  <string name="new_pc_backup_summary4">Примечание: вы также можете скопировать фото и видео из папки MIUI/DCIM.</string>
+  <string name="new_pc_backup_summary4">Примечание: вы также можете скопировать фото и видео из папки MIUI &gt; DCIM.</string>
   <string name="new_pc_restore_content1">%d. Подключите устройство к компьютеру через USB-кабель.</string>
-  <string name="new_pc_restore_content2">%d. Скопируйте резервные копии с копьютера в папку MIUI/Backup/AllBackup.</string>
-  <string name="new_pc_restore_content3">%1$d. Откройте \"%2$s\" и выберите элементы для восстановления.</string>
+  <string name="new_pc_restore_content2">%d. Скопируйте резервные копии с копьютера в папку MIUI &gt; Backup &gt; AllBackup.</string>
+  <string name="new_pc_restore_content3">%1$d. Откройте %2$s и выберите элементы для восстановления.</string>
   <string name="new_pc_title">Копирование резервных копий</string>
   <string name="new_select_file">Аудио, видео и файлы</string>
-  <string name="new_select_message">SMS, контакты  журнал вызовов</string>
+  <string name="new_select_message">SMS, контакты, журнал вызовов</string>
   <string name="new_select_pic">Изображения</string>
   <string name="new_select_system">Данные системных приложений</string>
   <string name="new_select_tencent">QQ и WeChat</string>
-  <string name="new_select_third">Сторонние приложения и данные приложений</string>
-  <string name="new_select_third_apk">Сторонние приложения</string>
-  <string name="new_select_third_data">Данные сторонних приложений</string>
-  <string name="new_tab_pc_backup">Резервное копирование на компьютер</string>
-  <string name="new_tab_pc_restore">Восстановление с компьютера</string>
+  <string name="new_select_third">Приложения и данные приложений</string>
+  <string name="new_select_third_apk">Приложения</string>
+  <string name="new_select_third_data">Данные приложений</string>
+  <string name="new_tab_pc_backup">Резервное копирование</string>
+  <string name="new_tab_pc_restore">Восстановление</string>
   <string name="new_task_finished">Готово</string>
   <string name="new_usb_detail_description">"Внимание:
-%1$d. Этот вариант позволяет создавать резервные копии сторонних приложений и данных приложений.
-%2$d. Убедитесь, что на вашем USB-накопителе достаточно места для резервных копий."</string>
+%1$d. Этот вариант позволяет создавать резервные копии приложений и данных приложений.
+%2$d. Убедитесь, что на USB-накопителе достаточно места."</string>
   <string name="new_usb_disconnect_dialog_message">Подключите USB-накопитель.</string>
   <string name="new_usb_disconnect_dialog_title">Не удалось найти USB-накопитель</string>
   <string name="new_usb_select_data_no_space">На USB-накопителе доступно всего %s памяти. Освободите место.</string>
-  <string name="new_usb_tab_backup">Резерное копирование на USB</string>
-  <string name="new_usb_tab_restore">Восстановление с USB</string>
+  <string name="new_usb_tab_backup">Резерное копирование</string>
+  <string name="new_usb_tab_restore">Восстановление</string>
   <string name="no_encrypt_password">Нет пароля шифрования</string>
   <string name="no_network">Не удалось подключиться к сети</string>
   <string name="not_set">Не задано</string>
@@ -405,7 +405,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="notif_trans_sending_failed">Не удалось отправить данные</string>
   <string name="notif_trans_wait_for_reconnecting">Соединение прервано. Подключитесь заново.</string>
   <string name="old_soft_name">Подключение через QR-код</string>
-  <string name="old_way">Вы также можете создать QR-код на новом устройстве и отсканировать его с помощью старого.</string>
+  <string name="old_way">Вы также можете создать QR-код на новом устройстве и отсканировать его на старом.</string>
   <string name="page_loading">Секунду…</string>
   <string name="password">Пароль</string>
   <string name="password_null">Пароль не может быть пустым</string>

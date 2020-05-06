@@ -100,14 +100,14 @@
   <string name="PERSOSUBSTATE_SIM_SIM_PUK_IN_PROGRESS">Запрос разблокировки PUK…</string>
   <string name="PERSOSUBSTATE_SIM_SIM_PUK_SUCCESS">Блокировка PUK успешно снята</string>
   <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">Блокировка SIM успешно снята</string>
-  <string name="PERSOSUBSTATE_SIM_SPN_ENTRY">PIN разблокировки SPN</string>
-  <string name="PERSOSUBSTATE_SIM_SPN_ERROR">Запрос разблокировки SPN не выполнен</string>
-  <string name="PERSOSUBSTATE_SIM_SPN_IN_PROGRESS">Запрос разблокировки SPN…</string>
-  <string name="PERSOSUBSTATE_SIM_SPN_SUCCESS">Блокировка SPN успешно снята</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ENTRY">PIN разблокировки SP EHPLMN</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">Запрос разблокировки SP EHPLMN не выполнен</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Запрос разблокировки SP EHPLMN…</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">Блокировка SP EHPLMN успешно снята</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_ENTRY">PIN разблокировки SPN</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_ERROR">Запрос разблокировки SPN не выполнен</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_IN_PROGRESS">Запрос разблокировки SPN…</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_SUCCESS">Блокировка SPN успешно снята</string>
   <string name="abc_action_bar_home_description">Перейти на главный экран</string>
   <string name="abc_action_bar_up_description">Перейти вверх</string>
   <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -157,6 +157,8 @@
   <string name="advanced_settings_show">▷ Нажмите, чтобы показать все</string>
   <string name="advertisements_disable">Реклама отключена</string>
   <string name="advertisements_enable">Реклама включена</string>
+  <string name="ai_assistant_not_installed">Сначала установите Помощник вызовов</string>
+  <string name="ai_assistant_setting_title">Помощник вызовов</string>
   <string name="alert_dialog_close">Закрытие профиля</string>
   <string name="alert_dialog_dismiss">Закрыть</string>
   <string name="alert_dialog_in_ecm_call">Выбранное действие недоступно при экстренном вызове.</string>
@@ -178,6 +180,7 @@
   <string name="antispam_setting">Антиспам</string>
   <string name="apn_settings">Точки доступа (APN)</string>
   <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
+  <string name="app_name">Настройка</string>
   <string name="app_process_limit_title">Лимит фоновых процессов</string>
   <string name="atr_disable">Информация о пробках отключена</string>
   <string name="atr_enable">Информация о пробках включена</string>
@@ -663,7 +666,6 @@
   <string name="dual_4g_switch_title">Режим Dual 4G</string>
   <string name="ecm_exit_dialog">Режим экстренного вызова</string>
   <string name="edit_fdn_contact">Изменение номера</string>
-  <string name="emergencyDialerIconLabel">Экстренный вызов</string>
   <string name="emergency_action_launch_hint">Нажмите еще раз для запуска</string>
   <string name="emergency_broadcast_disable">Экстренные оповещения отключены</string>
   <string name="emergency_broadcast_enable">Экстренные оповещения включены</string>
@@ -675,6 +677,7 @@
   <string name="emergency_information_confirm_hint">Нажмите еще раз для информации</string>
   <string name="emergency_information_hint">Экстренная информация</string>
   <string name="emergency_information_owner_hint">Владелец</string>
+  <string name="emergencyDialerIconLabel">Экстренный вызов</string>
   <string name="emm_cause_11">Текущий оператор не поддерживает данный сервис.</string>
   <string name="emm_cause_14">Текущий оператор не поддерживает мобильную передачу данных.</string>
   <string name="emm_cause_2">Не удалось зарегистрировать номер телефона. Выключите устройство, затем включите его и попробуйте снова.</string>
@@ -748,7 +751,6 @@
   <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки приложения \"%1$s\"</string>
   <string name="failedToImportSingleContactMsg">Не удалось импортировать контакт</string>
   <string name="fdn">Разрешенные номера</string>
-  <string name="fdnListLabel">Разрешенные номера</string>
   <string name="fdn_activation">Активация разрешенных номеров</string>
   <string name="fdn_check_failure">Включена функция набора разрешенных номеров. Некоторые функции вызовов недоступны.</string>
   <string name="fdn_contact_added">Разрешенный номер добавлен</string>
@@ -763,6 +765,7 @@
   <string name="fdn_list_with_label">Разрешенные номера (%s)</string>
   <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешенных номеров или определенными префиксами</string>
   <string name="fdn_with_label">Разрешенные номера (%s)</string>
+  <string name="fdnListLabel">Разрешенные номера</string>
   <string name="fire_type_description">Активность</string>
   <string name="fiveg_bearer_status1">Статус носителя 5G :</string>
   <string name="fiveg_endc_available1">Доступность NR ENDC :</string>
@@ -771,12 +774,13 @@
   <string name="fiveg_infos">Сведения о 5G</string>
   <string name="fiveg_network_config_type1">Тип конфигурации сети :</string>
   <string name="fiveg_plmn_info_list1">Информация PLMN :</string>
-  <string name="fiveg_power_secret_code_tip">управление через приложение Безопасность > Батарея > Энергосбережение для 5G</string>
+  <string name="fiveg_power_secret_code_tip">управление через приложение Безопасность &gt; Батарея &gt; Энергосбережение для 5G</string>
   <string name="fiveg_restrict_dcnr1">Ограничение DCNR :</string>
   <string name="fiveg_sa_switch_open_dialog_content">Соединение 5G может быть нестабильным в автономном режиме, что может повлиять на работу служб телефонии. Включить SA режим?</string>
   <string name="fiveg_sa_switch_open_dialog_title">Внимание</string>
   <string name="fiveg_sa_switch_summary">Разрешить подключение к сетям 5G в автономном режиме</string>
   <string name="fiveg_sa_switch_title">SA режим</string>
+  <string name="fiveg_sa_switch_warning_toast">Перезагрузите устройство, чтобы изменения вступили в силу.</string>
   <string name="fiveg_signal_strength1">Сила сигнала 5G :</string>
   <string name="fiveg_switch_status1">Состояние переключателя 5G :</string>
   <string name="fiveg_switch_title">5G сеть</string>
@@ -853,7 +857,7 @@
   <string name="international_enable">Международные новости включены</string>
   <string name="international_roaming_setting">Интернет в роуминге</string>
   <string name="international_roaming_setting_kr">Международный роуминг</string>
-  <string name="international_roaming_setting_kr_skt">T роуминг</string>  
+  <string name="international_roaming_setting_kr_skt">T роуминг</string>
   <string name="internet_phone">Интернет вызов</string>
   <string name="invalid_password">Введите пароль из %d символов</string>
   <string name="ivr_mo_area_code_settings">Текущий код региона</string>
@@ -994,6 +998,14 @@
   <string name="miui_network_selection_reset_text">Сброс</string>
   <string name="miui_notification_network_selection_title">SIM: Нет сети</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: Нет сети</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
   <string name="mmiCancelled">Запрос отменен</string>
   <string name="mmiStarted">Выполняется запрос</string>
   <string name="mobile_advanced_dns_server_title">Адрес DNS-сервера</string>
@@ -1056,9 +1068,18 @@
   <string name="msim_set_sub_not_supported_phone_in_call">Операция недоступна во время вызова</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Ошибка SIM-карты</string>
   <string name="msim_setting_categery_title">Настройки SIM-карт</string>
+  <string name="msim_setting_default_data">Данные</string>
+  <string name="msim_setting_default_voice">Вызовы</string>
+  <string name="msim_setting_install_virtual_sim_install">Установить</string>
+  <string name="msim_setting_install_virtual_sim_message">Установите Mi Carrier Services для покупки SIM-карты и управления тарифным планом.</string>
+  <string name="msim_setting_install_virtual_sim_tip">Mi Carrier Services</string>
   <string name="msim_setting_no_sim_indicator">Нет SIM-карты</string>
+  <string name="msim_setting_no_sim_number">Не задано</string>
+  <string name="msim_setting_no_sim_package_info">Нет информации о балансе</string>
   <string name="msim_setting_operator_network_title">Сеть оператора</string>
+  <string name="msim_setting_pop_text">Выберите SIM-карту для вызовов</string>
   <string name="msim_setting_screen_title">Мобильные сети</string>
+  <string name="msim_setting_set_package">Выберите план</string>
   <string name="msim_setting_sim_info_editor_title">Информация SIM-карты</string>
   <string name="msim_sim_lock">Заблокирована</string>
   <string name="msim_sim_radio_off">Отключена</string>
@@ -1072,7 +1093,7 @@
   <string name="netcheck_title">Диагностика сети</string>
   <string name="network_4G">4G (рекомендуется)</string>
   <string name="network_active">Активные сети</string>
-  <string name="network_available">Доступные сети</string>  
+  <string name="network_available">Доступные сети</string>
   <string name="network_error_message">Не удалось подключиться к сети</string>
   <string name="network_global">Глобальная</string>
   <string name="network_id">ID сети</string>
@@ -1097,7 +1118,7 @@
   <string name="network_settings_turn_off">Откл</string>
   <string name="network_settings_warn_message">Устройство будет подключаться только к сетям, выбранным вручную.</string>
   <string name="network_state_display">Показать статус сети</string>
-  <string name="network_state_display_title">Настройки</string>  
+  <string name="network_state_display_title">Настройки</string>
   <string name="network_type_3g_preferred_cmcc">3G/2G</string>
   <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
   <string name="network_unlock">Разблокировать</string>
@@ -1126,7 +1147,7 @@
   <string name="notification_network_selection_text">Выбранная сеть (%s) недоступна</string>
   <string name="notification_network_selection_title">Нет сети</string>
   <string name="notification_switch_auto_text">Переключение на локальные сети.</string>
-  <string name="notification_switch_auto_title">Мобильные сети</string>  
+  <string name="notification_switch_auto_title">Мобильные сети</string>
   <string name="notification_voicemail_no_vm_number">Номер голосовой почты неизвестен</string>
   <string name="notification_voicemail_text_format">Вызов %s</string>
   <string name="notification_voicemail_title">Новое голосовое сообщение</string>
@@ -1137,7 +1158,7 @@
   <string name="nr_usaged_network_rate">Наибольшая скорость</string>
   <string name="nr_usaged_network_usaged">Данные за сегодня</string>
   <string name="nr_usaged_operator">Оператор</string>
-  <string name="nr_usaged_used_time">Длительность использования</string>  
+  <string name="nr_usaged_used_time">Длительность использования</string>
   <string name="number">Номер</string>
   <string name="oem_unlock_enable">Заводская разблокировка</string>
   <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>
@@ -1237,8 +1258,6 @@
 "</string>
   <string name="pause_prompt_yes">Да</string>
   <string name="payphone">Таксофон</string>
-  <string name="phoneAppLabel">Телефон</string>
-  <string name="phoneIconLabel">Телефон</string>
   <string name="phone_account_settings">Аккаунты для вызовов</string>
   <string name="phone_accounts">Аккаунты для вызовов</string>
   <string name="phone_accounts_add_sip_account">Добавить SIP аккаунт</string>
@@ -1257,6 +1276,8 @@
   <string name="phone_in_ecm_notification_complete_time">Передача данных отключена до %s</string>
   <string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
   <string name="phone_report_title">Чтение информации о входящем вызове</string>
+  <string name="phoneAppLabel">Телефон</string>
+  <string name="phoneIconLabel">Телефон</string>
   <string name="picture_color_mode">Цветовой режим</string>
   <string name="picture_color_mode_desc">Использовать sRGB</string>
   <string name="pin_changed">PIN SIM-карты успешно изменен</string>
@@ -1339,7 +1360,7 @@
   <string name="preferred_network_type_pref_entries_only_3g">Только 3G</string>
   <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Только WCDMA</string>
   <string name="preferred_network_type_pref_entries_only_4g">Только LTE</string>
-  <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string> 
+  <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Предпочтительный тип сети</string>
   <string name="preferred_phone_account">Предпочтительный аккаунт</string>
   <string name="preferred_wificall_title">Режим сети</string>
@@ -1396,12 +1417,12 @@ SIM-карта будет заблокирована при неудачной �
   <string name="replace_4g_template">4G</string>
   <string name="report_method_entries_item1">Только когда наушники подключены</string>
   <string name="report_method_entries_item2">Всегда</string>
-  <string name="report_method_entries_item3">Отключить</string>  
+  <string name="report_method_entries_item3">Отключить</string>
   <string name="requesting_unlock">Запрос разблокировки сети...</string>
   <string name="reset_roaming_message">Устройство будет перезагружено для перезапуска роуминга.</string>
   <string name="reset_roaming_not_support">SIM-карта не может инициализировать роуминг.</string>
   <string name="reset_roaming_tip">Перезапуск роуминга…</string>
-  <string name="reset_roaming_title">Перезапуск роуминга</string>  
+  <string name="reset_roaming_title">Перезапуск роуминга</string>
   <string name="respond_via_sms_canned_response_1">Не могу говорить. Позвоните позже.</string>
   <string name="respond_via_sms_canned_response_2">Я перезвоню.</string>
   <string name="respond_via_sms_canned_response_3">Я перезвоню Вам позже.</string>
@@ -1437,7 +1458,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="roaming_notification_title">Активирован роуминг</string>
   <string name="roaming_reenable_message">Передача данных прекращена. Телефон находится за пределами домашней сети.</string>
   <string name="roaming_user_package_summary_kr">Приобретите, отмените и отредактируйте свой пакет роуминга. Использование этого меню во время роуминга бесплатное.</string>
-  <string name="roaming_user_package_title_kr">Использовать пакет роуминга</string>  
+  <string name="roaming_user_package_title_kr">Использовать пакет роуминга</string>
   <string name="roaming_warning">Вы можете понести значительные расходы.</string>
   <string name="running_process_item_user_label">Пользователь: %1$s</string>
   <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
@@ -1512,7 +1533,6 @@ SIM-карта будет заблокирована при неудачной �
   <string name="simFdnContacts_empty">Нет разрешенных номеров</string>
   <string name="simmelock_name">Блокировка SIM ME</string>
   <string name="simulate_color_space">Имитировать аномалию</string>
-  <string name="singleContactImportedMsg">Контакт импортирован</string>
   <string name="single_emergency_number_title">Экстренный номер</string>
   <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Отключить</string>
   <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Выберите SIM для отключения</string>
@@ -1526,6 +1546,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Внимание</string>
   <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Для сетей 5G можно активировать только одну SIM-карту. Нажатие \"Активировать\" ниже отключит другую SIM-карту.</string>
   <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Активировать</string>
+  <string name="singleContactImportedMsg">Контакт импортирован</string>
   <string name="sip_account_disable">Аккаунт неактивен. Прием вызовов невозможен.</string>
   <string name="sip_account_list">SIP-аккаунты</string>
   <string name="sip_accounts">SIP-аккаунты</string>
@@ -1807,7 +1828,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="vowifi_emergency_notification_channel">Экстренный вызов по Wi-Fi</string>
   <string name="vowifi_emergency_notification_content">Экстренные вызовы доступны только в зонах сотовой связи.</string>
   <string name="vowifi_emergency_notification_title">Vodafone Wifi вызовы</string>
-  <string name="vowifi_emergency_warning_check">"Не показывать снова."</string>
+  <string name="vowifi_emergency_warning_check">Больше не показывать.</string>
   <string name="vowifi_emergency_warning_message">"Экстренные вызовы невозможны через Wi-Fi вызовы.
 
 Устройство автоматически переключится на сотовую сеть (2G/3G) для экстренного вызова.
