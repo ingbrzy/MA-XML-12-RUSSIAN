@@ -186,6 +186,8 @@
   <string name="confirm_reset_manually_parameter_message">Сбросить все параметры до значений по умолчанию?</string>
   <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
   <string name="confirm_restore_title">Сброс настроек</string>
+  <string name="custom_tint_button_apply">Применить</string>
+  <string name="custom_tint_color_select">Изменить цвета</string>
   <string name="custom_watermark_contains_senstive_words">"Водяные знаки не могут использовать запрещенные термины (%1$s)"</string>
   <string name="custom_watermark_tips">Текст будет отображаться как вторая строка водяного знака. Он может содержать до 18 букв или 14 китайских символов.</string>
   <string name="custom_watermark_too_many_words">Введенный текст слишком длинный</string>
@@ -290,6 +292,7 @@
   <string name="lighting_pattern_leaf">Листья</string>
   <string name="lighting_pattern_movie">Фильм</string>
   <string name="lighting_pattern_nature">Натуральный</string>
+  <string name="lighting_pattern_null">Нет</string>
   <string name="lighting_pattern_rainbow">Радуга</string>
   <string name="lighting_pattern_shutter">Шторки</string>
   <string name="lighting_pattern_stage">Сцена</string>
@@ -406,13 +409,24 @@
   <string name="miservice_notification_title">Узнайте больше о новых функциях камеры</string>
   <string name="module_name_beauty">Улучшение</string>
   <string name="module_name_capture">Фото</string>
+  <string name="module_name_clone">Клон</string>
+  <string name="module_name_edit">Изменить</string>
+  <string name="module_name_edit_favorite_title">Стартовый экран</string>
+  <string name="module_name_edit_full_toast">Стартовый экран полон</string>
+  <string name="module_name_edit_sub_title">Нажмите и удерживайте палец на элементе для перестановки</string>
+  <string name="module_name_edit_title">Функции</string>
+  <string name="module_name_edit_unfavorite_title">Больше функций</string>
   <string name="module_name_fun">Видеоклип</string>
   <string name="module_name_manual">Ручной</string>
+  <string name="module_name_more">Ещё</string>
   <string name="module_name_new_slow_motion">Замедление</string>
   <string name="module_name_panorama">Панорама</string>
   <string name="module_name_portrait">Портрет</string>
+  <string name="module_name_professional">Про</string>
   <string name="module_name_square">Квадрат</string>
   <string name="module_name_video">Видео</string>
+  <string name="module_name_vlog">ВЛОГ</string>
+  
   <string name="moive_frame">Кадр</string>
   <string name="multi_window_mode_not_supported">Камера не может работать в многооконном режиме</string>
   <string name="network_access_user_notice_agree">Согласен</string>
@@ -728,8 +742,13 @@
   <string name="pref_camera_long_press_viewfinder_title">Настройки Viewfinder</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Серийная съемка</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокусировка</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_record">Запись видео</string>
+  <string name="pref_camera_long_pressing_shutter_title">Нажмите &amp; зажмите кнопку затвора для блокировки AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_shutter_title">Удерживайте кнопку съемки для блокировки AE/AF/AWB</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google объектив</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF блокировка</string>
+  <string name="pref_camera_lying_summary">Уведомлять о нынешней ориентации, когда телефон параллелен земле.</string>
+  <string name="pref_camera_lying_title">Уведомлять о ориентации</string>
   <string name="pref_camera_magic_mirror_title">Волшебное зеркало</string>
   <string name="pref_camera_manual_description_title">О функциях Pro</string>
   <string name="pref_camera_manual_mode_title">Ручной</string>
@@ -864,6 +883,10 @@
   <string name="pref_camera_zsl_entry_off">Откл</string>
   <string name="pref_camera_zsl_entry_on">Вкл</string>
   <string name="pref_capture_settings">Съемка фото</string>
+  <string name="pref_custom_feature_layout_title">Отображение режимов</string>
+  <string name="pref_custom_shutter_sound_title">Звук</string>
+  <string name="pref_custom_tint_title">Цвета</string>
+  <string name="pref_customization_title">Кастомизация</string>
   <string name="pref_document_mode">Документы</string>
   <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
   <string name="pref_face_beauty_title">Улучшение</string>
@@ -894,6 +917,7 @@
   <string name="pref_privacy_title">Политика конфиденциальности</string>
   <string name="pref_qc_focus_position_title">ФОКУС</string>
   <string name="pref_qc_focus_position_title_abbr">Ф</string>
+  <string name="pref_retain_camera_common_mode_summary">Открывать последний использованный режим камеры вместо \"Фото\"</string>
   <string name="pref_retain_camera_mode_summary">При запуске камеры переключаться в последний используемый режим</string>
   <string name="pref_retain_camera_mode_title">Сохранять предыдущий режим</string>
   <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
@@ -987,6 +1011,7 @@
   <string name="snap_confirmed">Заменить</string>
   <string name="spaceIsLow_content_external_storage_priority">SD карта заполнена</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB накопитель заполнен</string>
+  <string name="speech_shutter_tip">Голосовой затвор</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Милый</string>
   <string name="sticker_tab2">Забавный</string>
