@@ -2294,22 +2294,23 @@
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Расписание</string>
   <string name="power_save_ps_clean">Очистка кэша при блокировке устройства</string>
-  <string name="power_save_ps_close_setting">Отключить для энергосбережения службы и функции с высоким энергопотреблением (синхронизация, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
-  <string name="power_save_ps_close_setting_5g">Отключить для энергосбережения службы и функции с высоким энергопотреблением (синхронизация, 5G подключение, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
-  <string name="power_save_ps_close_setting_5g_q">Отключить службы и функции с высоким энергопотреблением (синхронизация, 5G подключение, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
-  <string name="power_save_ps_close_setting_q">Отключить службы и функции с высоким энергопотреблением (синхронизация, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
-  <string name="power_save_ps_close_setting_3">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s)</string>
-  <string name="power_save_ps_close_setting_4">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s)</string>
-  <string name="power_save_ps_close_setting_5">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_close_setting">Отключение служб и функций с высоким энергопотреблением (синхронизация, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
+  <string name="power_save_ps_close_setting_5g">Отключение служб и функций с высоким энергопотреблением (синхронизация, 5G подключение, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
+  <string name="power_save_ps_close_setting_5g_q">Отключение служб и функций с высоким энергопотреблением (синхронизация, 5G подключение, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
+  <string name="power_save_ps_close_setting_q">Отключение служб и функций с высоким энергопотреблением (синхронизация, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
+  <string name="power_save_ps_close_setting_3">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
   <string name="power_save_ps_close_setting_5gnet">5G подключение</string>
-  <string name="power_save_ps_close_setting_6">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
-  <string name="power_save_ps_close_setting_7">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+  <string name="power_save_ps_close_setting_6">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+  <string name="power_save_ps_close_setting_7">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
   <string name="power_save_ps_close_setting_dclickwakeup">\"Двойное касание\" для пробуждения или выключения экрана</string>
   <string name="power_save_ps_close_setting_fingeraod">\"Значок отпечатка на выключенном экране\"</string>
   <string name="power_save_ps_close_setting_gps">GPS</string>
   <string name="power_save_ps_close_setting_haptic">виброотклик</string>
   <string name="power_save_ps_close_setting_pickupwakeup">\"Пробуждать при взятии в руки\"</string>
   <string name="power_save_ps_close_setting_sync">синхронизация</string> 
+  <string name="power_save_ps_description_title">Энергосбережение подразумевает следующие действия:</string>
   <string name="power_save_ps_freeze">Заморозка приложений, работающих в фоновом режиме</string>
   <string name="power_save_ps_limit">Ограничение активности системных приложений</string>
   <string name="power_save_settings">Настройки оптимизации питания</string>
@@ -2853,7 +2854,8 @@
   <string name="superpower_progress_turndown_brightness">Уменьшение яркости экрана</string>
   <string name="superpower_progress_turnoff_items">Ограничение энергоемких функций</string>
   <string name="superpower_progress_turnoff_process">Ограничение фоновой активности</string>
-  <string name="superpower_savemode_limit1">Темный режим</string>
+  <string name="superpower_savemode_description_title">Ультра энергосбережение подразумевает следующие действия:</string>
+  <string name="superpower_savemode_limit1">Включение темного режима</string>
   <string name="superpower_savemode_limit2">Ограничение фоновой активности</string>
   <string name="superpower_savemode_limit3">Ограничение энергоемких функций (синхронизация, GPS, вибрация, Активный экран и др.)</string>
   <string name="superpower_savemode_limit4">Разрешение работать нормально только выбранным приложениям</string>
@@ -3385,8 +3387,7 @@
      <string name="power_off_warning_message">Батарея разряжена. Устройство выключится через %d сек. Подключите зарядное устройство.</string>
      <string name="power_off_warning_notification_title">Устройство скоро выключится</string>
      <string name="power_save_mode_close_aod_display_summary">Отключать Активный экран при энергосбережении</string>
-     <string name="power_save_mode_close_aod_display_title">Отключение Активного экрана</string>
-     <string name="power_save_ps_description_title">Энергосбережение активирует следующие ограничения:</string>
+     <string name="power_save_mode_close_aod_display_title">Отключать Активный экран</string>
      <string name="power_superpower_title_systemui_highpower">Оставшееся время</string>
      <string name="power_superpower_title_systemui_lowpower">Подключите зарядное устройство</string>
      <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
@@ -3575,7 +3576,6 @@
 Во избежание потери данных, сделайте резервную копию на другом носителе.</string>
      <string name="storage_wizard_format_confirm_v2_title">Форматирование</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-     <string name="superpower_savemode_description_title">Ультра энергосбережение активирует следующие ограничения:</string>
      <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
      <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
      <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
