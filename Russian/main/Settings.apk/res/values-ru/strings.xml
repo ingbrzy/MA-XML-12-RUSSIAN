@@ -2537,6 +2537,8 @@
     <string name="force_allow_on_external_summary">Разрешить приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
     <string name="force_desktop_mode">Принудительный режим рабочего стола</string>
     <string name="force_desktop_mode_summary">Принудительный экспериментальный режим рабочего стола на дополнительных дисплеях</string>	
+    <string name="force_hw_ui">GPU-ускорение</string>
+    <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерного рисования</string>
     <string name="force_immersive_compatibility_dont_hide">Не скрывать</string>
     <string name="force_immersive_compatibility_hide">Скрыть</string>
     <string name="force_immersive_compatibility_hint_message">При скрытии экранных кнопок некоторые приложения могут работать неправильно.</string>
