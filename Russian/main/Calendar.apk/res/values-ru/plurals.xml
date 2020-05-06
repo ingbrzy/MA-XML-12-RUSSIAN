@@ -149,11 +149,38 @@
         <item quantity="few">Поддерживается до %d напоминаний</item>
         <item quantity="many">Поддерживается до %d напоминаний</item>
     </plurals>
+        <plurals name="half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Через час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Через полчаса</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Немедленно</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d мин.</item>
+        <item quantity="one">через 1 минуту</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Прямо сейчас</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
         <item quantity="few">+%d</item>
         <item quantity="many">+%d</item>
+    </plurals>
+        <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">%d уведомлений</item>
+        <item quantity="one">%d уведомление</item>
     </plurals>
     <plurals name="other_all_day_events">
         <item quantity="other">Еще %d событий</item>
@@ -197,6 +224,7 @@
         <item quantity="few">%1$d дня</item>
         <item quantity="many">%1$d дней</item>
     </plurals>
+    
     <plurals name="repeat_interval_frequency_month_multiple">
         <item quantity="other">%1$d месяцев</item>
         <item quantity="one">%1$d месяц</item>
@@ -214,6 +242,14 @@
         <item quantity="one">%1$d год</item>
         <item quantity="few">%1$d года</item>
         <item quantity="many">%1$d лет</item>
+    </plurals>
+        <plurals name="travel_time_range_hours">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минута</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">Неделя %d</item>
