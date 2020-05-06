@@ -36,6 +36,35 @@
         <item quantity="few">За %d недели</item>
         <item quantity="many">За %d недель</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 час назад</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 час назад</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Через час</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через полчаса</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Сразу</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">через %d мин.</item>
+        <item quantity="one">через 1 минуту</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">1 минуту назад</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s дней</item>
         <item quantity="one">%1$s день</item>
