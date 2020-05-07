@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Час назад</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Час назад</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Полчаса назад</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Через час</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Через полчаса</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Сейчас</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">Через %d мин.</item>
+    <item quantity="one">Через 1 мин.</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Только что</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d мин. назад</item>
+    <item quantity="one">1 мин. назад</item>
+  </plurals>
   <plurals name="add_secret_ensure_message">
     <item quantity="other">Добавить эти элементы в приватный альбом?</item>
     <item quantity="one">Добавить этот элемент в приватный альбом?</item>
@@ -50,10 +79,15 @@
     <item quantity="few">(%d элемента)</item>
   </plurals>
   <plurals name="album_item_msg_format_new">
-     <item quantity="other">%d альбомов</item>
-     <item quantity="one">%d альбом</item>
-     <item quantity="few">%d альбома</item>
-  </plurals> 
+    <item quantity="other">%d альбомов</item>
+    <item quantity="one">%d альбом</item>
+    <item quantity="few">%d альбома</item>
+  </plurals>
+  <plurals name="album_member">
+    <item quantity="other">%s людей могут просматривать этот альбом</item>
+    <item quantity="one">%s человек может просматривать этот альбом</item>
+    <item quantity="few">%s человека могут просматривать этот альбом</item>
+  </plurals>
   <plurals name="album_photo_count_text">
     <item quantity="other">%1$d элементов</item>
     <item quantity="one">%1$d элемент</item>
@@ -106,7 +140,7 @@
   <plurals name="burst_save_confirm_dialog_title">
     <item quantity="other">Удалить %d фото</item>
     <item quantity="one">Удалить %d фото</item>
-  </plurals>  
+  </plurals>
   <plurals name="burst_save_selected">
     <item quantity="other">Сохранить %d выбранных фото</item>
     <item quantity="one">Сохранить %d выбранное фото</item>
@@ -221,9 +255,15 @@
     <item quantity="other">%1$d файлов</item>
     <item quantity="one">%1$d файл</item>
     <item quantity="few">%1$d файла</item>
-  </plurals> 
+  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Полчаса назад</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Полчаса назад</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Через час</item>
   </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">Через час</item>
@@ -231,8 +271,19 @@
   <plurals name="in_half_hour">
     <item quantity="other">Через полчаса</item>
   </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Через полчаса</item>
+  </plurals>
   <plurals name="in_less_than_one_minute">
     <item quantity="other">Сразу</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Сейчас</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">через %d минут</item>
+    <item quantity="one">через 1 минуту</item>
+    <item quantity="few">через %d минуты</item>
   </plurals>
   <plurals name="in_num_minutes">
     <item quantity="other">через %d минут</item>
@@ -242,9 +293,17 @@
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Прямо сейчас</item>
   </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Только что</item>
+  </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d минут назад</item>
     <item quantity="one">1 минуту назад</item>
+    <item quantity="few">%d минуты назад</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d минут назад</item>
+    <item quantity="one">1 минуты назад</item>
     <item quantity="few">%d минуты назад</item>
   </plurals>
   <plurals name="number_of_images_and_videos_to_upload">
@@ -291,9 +350,9 @@
     <item quantity="many">%d дней</item>
   </plurals>
   <plurals name="photo_remain_hours">
-     <item quantity="other">%d ч.</item>
-     <item quantity="one">%d ч.</item>
-  </plurals> 
+    <item quantity="other">%d ч.</item>
+    <item quantity="one">%d ч.</item>
+  </plurals>
   <plurals name="picker_all_image_need_download">
     <item quantity="other">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
     <item quantity="one">Выбранного фото нет на устройстве. Загрузить через мобильный интернет?</item>
@@ -314,7 +373,11 @@
   <plurals name="picker_file_will_download">
     <item quantity="other">Загрузка %d оставшихся файлов</item>
     <item quantity="one">Загрузка %d оставшегося файла</item>
-  </plurals>  
+  </plurals>
+  <plurals name="picker_file_will_download">
+    <item quantity="other">Загрузка %d оставшихся файлов</item>
+    <item quantity="one">Загрузка %d оставшегося файла</item>
+  </plurals>
   <plurals name="picker_no_network_retry_image_confirm_message">
     <item quantity="other">Не удалось загрузить %1$d фото, подключитесь к сети и повторите попытку</item>
     <item quantity="one">Не удалось загрузить %1$d фото, подключитесь к сети и повторите попытку</item>
@@ -328,7 +391,7 @@
     <item quantity="other">%1$d файлов (%2$dMB) еще не загружено. Использовать мобильный интернет?</item>
     <item quantity="one">%1$d файл (%2$dMB) еще не загружен. Использовать мобильный интернет?</item>
     <item quantity="few">%1$d файла (%2$dMB) еще не загружено. Использовать мобильный интернет?</item>
-  </plurals> 
+  </plurals>
   <plurals name="picker_retry_image_confirm_message">
     <item quantity="other">Не удалось загрузить %1$d фото, повторить?</item>
     <item quantity="one">Не удалось загрузить %1$d фото, повторить?</item>
@@ -405,25 +468,25 @@
     <item quantity="few">%d элемента</item>
   </plurals>
   <plurals name="trash_purge_dialog_message_image">
-	  <item quantity="other">Вы не сможете восстановить %d выбранных фото, если удалите их. Все равно удалить?</item>
-	  <item quantity="one">Вы не сможете восстановить %d выбранное фото, если удалите его. Все равно удалить?</item>
+    <item quantity="other">Вы не сможете восстановить %d выбранных фото, если удалите их. Все равно удалить?</item>
+    <item quantity="one">Вы не сможете восстановить %d выбранное фото, если удалите его. Все равно удалить?</item>
   </plurals>
   <plurals name="trash_purge_dialog_message_media">
-	  <item quantity="other">Вы не сможете восстановить %d выбранных элементов, если удалите их. Все равно удалить?</item>
-	  <item quantity="one">Вы не сможете восстановить %d выбранный элемент, если удалите его. Все равно удалить?</item>
-	  <item quantity="few">Вы не сможете восстановить %d выбранных элемента, если удалите их. Все равно удалить?</item>
+    <item quantity="other">Вы не сможете восстановить %d выбранных элементов, если удалите их. Все равно удалить?</item>
+    <item quantity="one">Вы не сможете восстановить %d выбранный элемент, если удалите его. Все равно удалить?</item>
+    <item quantity="few">Вы не сможете восстановить %d выбранных элемента, если удалите их. Все равно удалить?</item>
   </plurals>
   <plurals name="trash_purge_dialog_message_video">
-	  <item quantity="other">Вы не сможете восстановить %d выбранных видео, если удалите их. Все равно удалить?</item>
-	  <item quantity="one">Вы не сможете восстановить %d выбранное видео, если удалите его. Все равно удалить?</item>
+    <item quantity="other">Вы не сможете восстановить %d выбранных видео, если удалите их. Все равно удалить?</item>
+    <item quantity="one">Вы не сможете восстановить %d выбранное видео, если удалите его. Все равно удалить?</item>
   </plurals>
   <plurals name="trash_vip_info_text_login">
-	  <item quantity="other">Элементы могут храниться здесь до %1$d дней (%2$s)</item>
-	  <item quantity="one">Элементы могут храниться здесь до %1$d дня (%2$s)</item>
+    <item quantity="other">Элементы могут храниться здесь до %1$d дней (%2$s)</item>
+    <item quantity="one">Элементы могут храниться здесь до %1$d дня (%2$s)</item>
   </plurals>
   <plurals name="trash_vip_info_text_unlogin">
-	  <item quantity="other">Элементы могут храниться здесь до %1$d дней. Обновите план, чтобы продлить период.</item>
-	  <item quantity="one">Элементы могут храниться здесь до %1$d дня. Обновите план, чтобы продлить период.</item>
+    <item quantity="other">Элементы могут храниться здесь до %1$d дней. Обновите план, чтобы продлить период.</item>
+    <item quantity="one">Элементы могут храниться здесь до %1$d дня. Обновите план, чтобы продлить период.</item>
   </plurals>
   <plurals name="video_count_format">
     <item quantity="other">Всего %1$d файлов</item>
