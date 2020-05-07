@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="April">Апрель</string>
+    <string name="August">Август</string>
+    <string name="December">Декабрь</string>
+    <string name="February">Февраль</string>
+    <string name="January">Январь</string>
+    <string name="July">Июль</string>
+    <string name="June">Июнь</string>
+    <string name="March">Март</string>
+    <string name="May">Май</string>
+    <string name="November">Ноябрь</string>
+    <string name="October">Октябрь</string>
+    <string name="September">Сентябрь</string>
+    <string name="Updated_at">"Обновлено: "</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -79,6 +92,16 @@
     <string name="am">AM</string>
     <string name="app_label">Загрузки</string>
     <string name="app_name">Preference</string>
+    <string name="app_permission_confirm">Подтвердить</string>
+    <string name="app_permission_optional">необязательные разрешения</string>
+    <string name="app_permission_require">Обязательные разрешения</string>
+    <string name="app_permission_use_desc">Разрешения</string>
+    <string name="app_permission_use_group_account">Аккаунты</string>
+    <string name="app_permission_use_group_account_desc">Для получения информации о Mi аккаунте</string>
+    <string name="app_permission_use_group_phone">Телефон</string>
+    <string name="app_permission_use_group_phone_desc">Для Google Push сервисов</string>
+    <string name="app_permission_use_group_storage">Хранилище</string>
+    <string name="app_permission_use_group_storage_desc">Для поиска и воспроизведения треков, сохраненных на устройстве</string>
     <string name="artist">Исполнители</string>
     <string name="artist_area_all">Все</string>
     <string name="artist_area_china">Китай</string>
@@ -100,6 +123,7 @@
     <string name="available_playlist_name_format">Новый плейлист %d</string>
     <string name="avoid_to_use_traffic_summary">Загружать онлайн музыку только по сети Wi-Fi</string>
     <string name="avoid_to_use_traffic_title">Предупреждать при использовании мобильного интернета</string>
+    <string name="back">Выход</string>
     <string name="back_confirm">Нажмите еще раз для выхода</string>
     <string name="banner_op">Mi Музыка</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
