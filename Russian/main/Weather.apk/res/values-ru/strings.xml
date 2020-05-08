@@ -39,7 +39,7 @@
     <string name="act_find_city_hint">Введите местоположение</string>
     <string name="act_find_city_hot_attractions_title">Популярные места</string>
     <string name="act_find_city_hot_city_title">Популярные города</string>
-    <string name="act_location_error_to_find_city">"Couldn't get location info. You can add a city manually."</string>
+    <string name="act_location_error_to_find_city">Не удалось определить местоположение. Вы можете добавить город вручную.</string>
     <string name="act_set_city_find_side">Поиск местоположения…</string>
     <string name="act_set_city_find_side_error">Местоположение не определено</string>
     <string name="act_weather_find_city_added">Добавлено</string>
@@ -51,7 +51,7 @@
     <string name="activity_find_city_dialog_cancel">Отмена</string>
     <string name="activity_find_city_dialog_message">Разрешите Погоде доступ к вашему местоположению для получения точных данных.</string>
     <string name="activity_find_city_dialog_message_global">Разрешите Погоде доступ к вашему местоположению и переключение в режим высокой точности для получения актуальных данных.</string>
-    <string name="activity_find_city_dialog_message_location_service">Чтобы получить актуальную информацию о погоде, разрешите Weather узнать ваше местоположение.</string>
+    <string name="activity_find_city_dialog_message_location_service">Для актуальной информации о погоде, разрешите приложению определение вашего местоположения.</string>
     <string name="activity_find_city_dialog_set">Настройки</string>
     <string name="activity_find_city_dialog_title">Доступ к местоположению</string>
     <string name="activity_main_clickable">&gt;</string>
@@ -289,12 +289,12 @@
     <string name="particulate_matter_not_exceeded">Норма</string>
     <string name="particulate_matter_serious_exceeded">Сильное превышение</string>
     <string name="permission_device_info">Информация об устройстве</string>
-    <string name="permission_device_introduce">Для распознавания идентификатора устройства на основе модели устройства и IMEI и предоставления локализованных услуг на основе языковых предпочтений</string>
+    <string name="permission_device_introduce">Для распознавания ID устройства на основе модели устройства и IMEI и предоставления локализованных услуг на основе языковых предпочтений</string>
     <string name="permission_exit">Выход</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_select_all">Выбрать все</string>
-    <string name="permission_storage">Хранилище</string>
-    <string name="permission_storage_introduce">Для доступа к элементам на устройстве и сохранения файлов</string>
+    <string name="permission_storage">Память</string>
+    <string name="permission_storage_introduce">Для доступа к файлам на устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="policy_settings">Условия использования</string>
     <string name="precipitation_degree_five">Очень сильные</string>
