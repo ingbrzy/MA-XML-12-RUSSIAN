@@ -361,7 +361,7 @@
     <string name="ambient_display_pickup_title">Просмотр уведомлений</string>
     <string name="ambient_display_screen_summary_always_on">Всегда включен / Увеличение потребления батареи</string>
     <string name="ambient_display_screen_summary_notifications">Новые уведомления</string>
-    <string name="ambient_display_screen_title">Всегда включенный дисплей</string>
+    <string name="ambient_display_screen_title">Активный экран</string>
     <string name="ambient_display_summary">Чтобы увидеть время, уведомления или другую информацию, дважды коснитесь экрана устройства</string>
     <string name="ambient_display_tap_screen_summary">Чтобы увидеть время, уведомления или другую информацию, дважды коснитесь экрана устройства</string>
     <string name="ambient_display_tap_screen_title">Коснитесь для проверки</string>
@@ -654,7 +654,7 @@
     <string name="background_activity_summary_disabled">Приложению запрещено работать в фоновом режиме</string>
     <string name="background_activity_summary_whitelisted">Фоновая активность не может быть ограничена</string>
     <string name="background_activity_title">Работа в фоновом режиме</string>
-    <string name="background_activity_warning_dialog_text">Если вы ограничиваете фоновую активность для приложения, оно может плохо себя вести</string>
+    <string name="background_activity_warning_dialog_text">Если вы ограничиваете фоновую активность для приложения, оно может некорректно себя вести</string>
     <string name="background_check_pref">Фоновая проверка</string>
     <string name="background_check_title">Полный доступ в фоновом режиме</string>
     <string name="background_data">Фоновый режим</string>
@@ -725,8 +725,8 @@
     <string name="battery_action_stop">Остановить</string>
     <string name="battery_action_wifi">Настройки Wi-Fi</string>
     <string name="battery_active_for">Активно для ^1</string>
-    <string name="battery_auto_restriction_summary">Определите, когда приложения разряжают батарею</string>
-    <string name="battery_auto_restriction_title">Используйте Менеджер Батареи</string>
+    <string name="battery_auto_restriction_summary">Контроль разряда батареи приложениями</string>
+    <string name="battery_auto_restriction_title">Менеджер батареи</string>
     <string name="battery_desc_apps">Использование батареи приложением</string>
     <string name="battery_desc_bluetooth">Использование батареи модулем Bluetooth</string>
     <string name="battery_desc_camera">Заряд батареи, израсходованный камерой</string>
@@ -791,8 +791,8 @@
     <string name="battery_level_title">Уровень заряда батареи</string>
     <string name="battery_light_summary">Индикатор будет гореть во время зарядки устройства</string>
     <string name="battery_light_title">Включать при зарядке</string>
-    <string name="battery_manager_off">ВЫКЛ</string>
-    <string name="battery_manager_on">ВКЛ / Обнаруживает, когда приложения разряжают батарею</string>
+    <string name="battery_manager_off">ОТКЛ.</string>
+    <string name="battery_manager_on">ВКЛ. / Контроль разряда батареи</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_msg_unaccounted">Данные о расходе заряда батареи отдельными приложениями являются приблизительными и не включают всех возможных потребителей энергии. Этот показатель энергопотребления соответствует разнице между расчетным энергопотреблением и фактическим расходом заряда батареи.</string>
     <string name="battery_overall_usage">%1$s заряда батареи</string>
@@ -805,7 +805,7 @@
     <string name="battery_saver_auto_percentage_summary">Включать при уровне заряда %1$s</string>
     <string name="battery_saver_auto_routine">На основе истории подзарядок</string>
     <string name="battery_saver_auto_routine_summary">Включать энергосбережение, если заряда батареи может не хватит до времени подзарядки</string>
-    <string name="battery_saver_auto_title">Включать автоматически</string>
+    <string name="battery_saver_auto_title">Автовключение</string>
     <string name="battery_saver_button_turn_off">Выключить</string>
     <string name="battery_saver_button_turn_on">Включить</string>
     <string name="battery_saver_desc_turn_on_auto_never">Не включать автоматически</string>
@@ -846,7 +846,7 @@
     <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
     <string name="battery_sugg_wifi">Отключайте Wi-Fi, когда он не используется или сеть недоступна</string>
     <string name="battery_suggestion_summary" />
-    <string name="battery_suggestion_title">"Улучшить время автономной работы телефона"</string>
+    <string name="battery_suggestion_title">Улучшение времени автономной работы</string>
     <string name="battery_summary">Использовано с момента последней полной зарядки: %1$s</string>
     <string name="battery_tip_dialog_message">Устройство используется больше обычного. Батарея может разрядиться раньше.
 
@@ -886,7 +886,7 @@
     <string name="billing_cycle">Платежный цикл</string>
     <string name="billing_cycle_fragment_summary">Ежемесячно с %1$s-го числа</string>
     <string name="billing_cycle_less_than_one_day_left">Осталось меньше 1 дня</string>
-    <string name="billing_cycle_none_left">Не осталось времени</string>
+    <string name="billing_cycle_none_left">Время истекло</string>
     <string name="billing_cycle_summary">Платежный цикл начинается %1$s-го числа каждого месяца</string>
     <string name="bind_xiaomi_account_confirm">Привязать</string>
     <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса.</string>
@@ -1016,7 +1016,7 @@
     <string name="bluetooth_empty_list_user_restricted">У вас нет разрешения на смену настроек Bluetooth.</string>
     <string name="bluetooth_enable">Включить Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN-код содержит буквы или символы</string>
-    <string name="bluetooth_enter_passkey_msg">Введите код сопряжения, затем нажмите Return или Enter</string>
+    <string name="bluetooth_enter_passkey_msg">Введите код сопряжения</string>
     <string name="bluetooth_enable_inband_ringing">Рингтоны по Bluetooth</string>
     <string name="bluetooth_enter_passkey_other_device">Возможно, потребуется ввести ключ доступа на другом устройстве.</string>
     <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
@@ -1097,7 +1097,7 @@
     <string name="bluetooth_phonebook_request">Запрос на доступ к списку контактов</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Должно быть 16 цифр</string>
-    <string name="bluetooth_pref_summary">Разрешить вашему телефону общаться с близлежащими устройствами Bluetooth</string>
+    <string name="bluetooth_pref_summary">Разрешить устройству обмен с Bluetooth-устройствами поблизости</string>
     <string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
     <string name="bluetooth_preference_device_settings">Настройки устройства</string>
     <string name="bluetooth_preference_found_devices">Доступные устройства</string>
@@ -1136,9 +1136,9 @@
     <string name="bluetooth_sap_profile_summary_use_for">Использовать для доступа к SIM карте</string>
     <string name="bluetooth_sap_request">Запрос на доступ к SIM-карте</string>
     <string name="bluetooth_scan_for_devices">Поиск устройств</string>
-    <string name="bluetooth_scanning_on_info_message">""Когда Bluetooth включен, ваше устройство может связываться с другими соседними устройствами Bluetooth.
+    <string name="bluetooth_scanning_on_info_message">""Когда Bluetooth включен, ваше устройство может связываться с Bluetooth-устройствами поблизости.
 
-Чтобы улучшить работу устройства, приложения и службы могут сканировать близлежащие устройства в любое время, даже если Bluetooth выключен. Это может быть использовано, например, для улучшения основанных на местоположении функций и услуг. Вы можете изменить это в "&lt;annotation id="link"&gt;настройках сканирования&lt;/annotation&gt;."</string>
+Чтобы улучшить работу устройства, приложения и службы могут сканировать устройства поблизости в любое время, даже если Bluetooth выключен. Это может быть использовано, например, для улучшения основанных на местоположении функций и услуг. Вы можете изменить это в "&lt;annotation id="link"&gt;настройках сканирования&lt;/annotation&gt;."</string>
     <string name="bluetooth_search_for_devices">Обновить</string>
     <string name="bluetooth_searching_for_devices">Поиск…</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Режим кодека aptX Adaptive</string>
@@ -1182,7 +1182,7 @@
     <string name="bluetooth_tethering_off_subtext">Нет доступа к интернет-подключению телефона через Bluetooth</string>
     <string name="bluetooth_tethering_off_subtext_config">Доступ к интернет-подключению устройства \"%1$d\" через Bluetooth открыт</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
-    <string name="bluetooth_tethering_subtext">Поделитесь интернет-соединением телефона через Bluetooth</string>
+    <string name="bluetooth_tethering_subtext">Поделитесь интернет-соединением через Bluetooth</string>
     <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
     <string name="bluetooth_turning_on">Включение Bluetooth…</string>
     <string name="bluetooth_unlock_add_device">Добавить устройство</string>
