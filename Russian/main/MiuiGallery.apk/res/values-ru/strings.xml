@@ -793,12 +793,10 @@
   <string name="filter_sky_double_rainbow">Двойная радуга</string>
   <string name="filter_sky_download_failed">Ошибка загрузки плагина. Проверьте сетевые настройки и повторите попытку.</string>
   <string name="filter_sky_download_failed_msg">Не удалось загрузить. Проверьте сетевые настройки и повторите попытку.</string>
-  <string name="filter_sky_download_failed_msg">Не удалось загрузить. Проверьте настройки сети и повторите попытку</string>
   <string name="filter_sky_download_finish">Плагин загружен</string>
   <string name="filter_sky_download_sdk_without_wifi_msg">Если нет подключения к Wi-Fi, вы можете использовать мобильный интернет для загрузки плагина (%1$dМБ), который позволяет заменить небо на ваших фотографиях.</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Загрузка плагина</string>
   <string name="filter_sky_download_with_metered_network_msg">Использование мобильного интернета для загрузки файлов может привести к дополнительным расходам. Загрузить?</string>
-  <string name="filter_sky_download_with_metered_network_msg">Использование мобильного интернета для загрузки исходных файлов может повлесь дополнительные расходы. Загрузить файлы?</string>
   <string name="filter_sky_download_with_metered_network_title">Мобильный интернет</string>
   <string name="filter_sky_dusk">Закат</string>
   <string name="filter_sky_dynamic_duoyun">Облачность</string>
@@ -1165,7 +1163,6 @@
   <string name="operation_hide">Скрыть</string>
   <string name="operation_in_process">Обработка…</string>
   <string name="operation_move">Переместить</string>
-  <string name="operation_move">Перемещение</string>
   <string name="operation_move_to_other_albums">Переместить в Другие</string>
   <string name="operation_move_to_rubbish_albums">Переместить в корзину</string>
   <string name="operation_not_show_in_photos_tab">Не показывать в Фото</string>
@@ -1264,7 +1261,6 @@
   <string name="photo_editor_rotate">Поворот</string>
   <string name="photo_editor_saving">Сохранение…</string>
   <string name="photo_editor_sky">Небо</string>
-  <string name="photo_editor_sky">Небо</string>
   <string name="photo_editor_sticker">Стикеры</string>
   <string name="photo_editor_talkback_cancel">Отменить</string>
   <string name="photo_editor_talkback_confirm">Подтвердить</string>
@@ -1360,7 +1356,6 @@
   <string name="picker_continue_download">Продолжить загрузку</string>
   <string name="picker_continue_with_exists">Продолжить с фото на устройстве</string>
   <string name="picker_download">Загрузить</string>
-  <string name="picker_download_progress_file_message">Загрузка файлов… (%1$d/%2$d)</string>
   <string name="picker_download_progress_file_message">Загрузка файлов… (%1$d/%2$d)</string>
   <string name="picker_download_progress_message">Загрузка %1$d/%2$d</string>
   <string name="picker_full_format">Можно выбрать до %d фото</string>

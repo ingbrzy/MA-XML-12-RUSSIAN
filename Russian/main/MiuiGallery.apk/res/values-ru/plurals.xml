@@ -259,23 +259,11 @@
   <plurals name="half_hour_ago">
     <item quantity="other">Полчаса назад</item>
   </plurals>
-  <plurals name="half_hour_ago">
-    <item quantity="other">Полчаса назад</item>
-  </plurals>
-  <plurals name="in_a_hour">
-    <item quantity="other">Через час</item>
-  </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">Через час</item>
   </plurals>
   <plurals name="in_half_hour">
     <item quantity="other">Через полчаса</item>
-  </plurals>
-  <plurals name="in_half_hour">
-    <item quantity="other">Через полчаса</item>
-  </plurals>
-  <plurals name="in_less_than_one_minute">
-    <item quantity="other">Сразу</item>
   </plurals>
   <plurals name="in_less_than_one_minute">
     <item quantity="other">Сейчас</item>
@@ -285,25 +273,12 @@
     <item quantity="one">через 1 минуту</item>
     <item quantity="few">через %d минуты</item>
   </plurals>
-  <plurals name="in_num_minutes">
-    <item quantity="other">через %d минут</item>
-    <item quantity="one">через 1 минуту</item>
-    <item quantity="few">через %d минуты</item>
-  </plurals>
-  <plurals name="less_than_one_minute_ago">
-    <item quantity="other">Прямо сейчас</item>
-  </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Только что</item>
   </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d минут назад</item>
     <item quantity="one">1 минуту назад</item>
-    <item quantity="few">%d минуты назад</item>
-  </plurals>
-  <plurals name="num_minutes_ago">
-    <item quantity="other">%d минут назад</item>
-    <item quantity="one">1 минуты назад</item>
     <item quantity="few">%d минуты назад</item>
   </plurals>
   <plurals name="number_of_images_and_videos_to_upload">
@@ -369,10 +344,6 @@
     <item quantity="other">%d файлов еще не загружено. Отменить загрузку?</item>
     <item quantity="one">%d файл еще не загружен. Отменить загрузку?</item>
     <item quantity="few">%d файла еще не загружено. Отменить загрузку?</item>
-  </plurals>
-  <plurals name="picker_file_will_download">
-    <item quantity="other">Загрузка %d оставшихся файлов</item>
-    <item quantity="one">Загрузка %d оставшегося файла</item>
   </plurals>
   <plurals name="picker_file_will_download">
     <item quantity="other">Загрузка %d оставшихся файлов</item>
