@@ -16,8 +16,20 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
-    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с \"%s\"</string>
+    <string name="abc_slice_error">"Не удалось подключиться"</string>
+    <string name="abc_slice_more">Ещё</string>
+    <string name="abc_slice_more_content">+ %1$d</string>
+    <string name="abc_slice_permission_allow">Разрешить</string>
+    <string name="abc_slice_permission_checkbox">Разрешить %1$s показывать фрагменты из любого приложения</string>
+    <string name="abc_slice_permission_deny">Отказать</string>
+    <string name="abc_slice_permission_text_1">- Оно может читать информацию из %1$s</string>
+    <string name="abc_slice_permission_text_2">- Это может производить действия внутри %1$s</string>
+    <string name="abc_slice_permission_title">Разрешить %1$s показывать фрагменты %2$s?</string>
+    <string name="abc_slice_show_more">Показать больше</string>
+    <string name="abc_slice_updated">Обновлено %1$s</string>
+    <string name="abc_slices_permission_request">%1$s хочет показать фрагменты %2$s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_ad_service_instructions">О рекламных сервисах и конфиденциальности</string>
     <string name="about_phone_device_name_warning">Имя вашего устройства видно приложениям на телефоне. Также оно может быть видно другим людям при подключении к устройствам Bluetooth или включении точки доступа Wi-Fi.</string>
@@ -215,6 +227,7 @@
     <string name="account_sync_settings_title">Синхронизация</string>
     <string name="account_sync_summary_all_off">Синхронизация отключена для всех элементов</string>
     <string name="account_sync_summary_all_on">Синхронизация включена для всех элементов</string>
+    <string name="account_sync_summary_some_on">Синхронизация для элементов %1$d из %2$d</string>
     <string name="account_sync_title">Синхронизировать аккаунты</string>
     <string name="acount_data">Аккаунты</string>
     <string name="action_drag_label_move_bottom">Переместить в конец</string>
@@ -227,6 +240,7 @@
     <string name="active_input_method_subtypes">Активные способы ввода</string>
     <string name="activity_not_found">Приложение не установлено на телефоне.</string>
     <string name="activity_picker_label">Выбор действия</string>
+    <string name="activity_title_power_manager">Экономия батареи;Экономия батареи</string>
     <string name="ad_service">Рекламные сервисы</string>
     <string name="adaptive_sleep_description">Предотвращает отключение экрана, если вы смотрите на него.</string>
     <string name="adaptive_sleep_privacy">Когда функция Screen Attention включена, устройство через фронтальную камеру следит за глазами. Функция работает только на вашем устройстве. Изображения не сохраняются и не отправляются в Google.</string>
@@ -283,6 +297,7 @@
     <string name="admin_profile_owner_user_message">Администратор может контролировать настройки, приложения, разрешения и параметры доступа к корпоративным ресурсам для этого пользователя, а также связанные с ним данные, например сведения о местоположении или действиях в сети.</string>
     <string name="admin_support_more_info">Подробнее…</string>
     <string name="advanced_apps">Дополнительно</string>
+    <string name="advanced_battery_graph_subtext">Оценка оставшегося заряда батареи основана на использовании вашего устройства</string>
     <string name="advanced_battery_title">Сведения о расходе заряда</string>
     <string name="advanced_section_header">Дополнительно</string>
     <string name="advanced_security_title">Дополнительно</string>
@@ -299,6 +314,7 @@
     <string name="ai_key_double_click">Нажмите дважды</string>
     <string name="ai_key_long_press">Нажмите и удерживайте</string>
     <string name="ai_key_single_click">Нажмите</string>	
+    <string name="ai_settings_click_title">Нажмите</string>
     <string name="ai_settings_double_click_category">Нажмите дважды на AI кнопку</string>
     <string name="ai_settings_double_click_title">Двойное нажатие</string>
     <string name="ai_settings_long_click_category">Нажмите и удерживайте AI кнопку</string>
@@ -340,8 +356,12 @@
     <string name="always_style">Всегда</string>
     <string name="amber_alerts_summary">Получать уведомления о пропавших детях</string>
     <string name="amber_alerts_title">Оповещения AMBER</string>
+    <string name="ambient_display_category_triggers">Когда показывать</string>
     <string name="ambient_display_pickup_summary">Чтобы увидеть уведомления, возьмите телефон в руки</string>
     <string name="ambient_display_pickup_title">Просмотр уведомлений</string>
+    <string name="ambient_display_screen_summary_always_on">Всегда включен / Увеличение потребления батареи</string>
+    <string name="ambient_display_screen_summary_notifications">Новые уведомления</string>
+    <string name="ambient_display_screen_title">Всегда включенный дисплей</string>
     <string name="ambient_display_summary">Чтобы увидеть время, уведомления или другую информацию, дважды коснитесь экрана устройства</string>
     <string name="ambient_display_tap_screen_summary">Чтобы увидеть время, уведомления или другую информацию, дважды коснитесь экрана устройства</string>
     <string name="ambient_display_tap_screen_title">Коснитесь для проверки</string>
@@ -470,12 +490,15 @@
     <string name="app_permissions_summary">Приложения, которым разрешен доступ (%1$s)</string>
     <string name="app_permission_summary_allowed">Разрешено</string>
     <string name="app_permission_summary_not_allowed">Не разрешено</string>
+    <string name="app_permissions">Менеджер разрешений</string>
+    <string name="app_permissions_summary">Приложения, использующие %1$s</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="app_restrictions_custom_label">Настроить ограничения</string>
     <string name="app_sees_restricted_accounts">Этому приложению разрешен доступ к вашим аккаунтам</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Этому приложению разрешен доступ к вашим аккаунтам. Управляется приложением \"%1$s\".</string>
     <string name="app_settings_link">Настройки уведомлений в приложении</string>
     <string name="app_switch_key">Кнопка \"Меню\"</string>
+    <string name="app_usage_cycle">Цикл использования данных приложения</string>
     <string name="app_usage_preference">Настройки использования приложения</string>
     <string name="app_version">"Версия: "</string>
     <string name="app_wifi">Wi-Fi</string>
@@ -537,6 +560,7 @@
     <string name="audio_profile_settings_title">Профили аудио</string>
     <string name="audio_record_proc_title">Подавление шума</string>
     <string name="auto_brightness_default_title">По умолчанию</string>
+    <string name="auto_brightness_description">Яркость вашего экрана будет автоматически адаптироваться к вашей среде и деятельности. Вы можете перемещать ползунок вручную, чтобы адаптивная яркость выучила ваши предпочтения.</string>
     <string name="auto_brightness_disclaimer">Яркость регулируется с учетом уровня освещенности. При необходимости ее можно временно изменить.</string>
     <string name="auto_brightness_high_title">Высокий</string>
     <string name="auto_brightness_low_title">Низкий</string>
@@ -611,6 +635,7 @@
     <string name="automatic_system_heap_dump_summary">Автоматически создавать дамп системы Android, когда процесс занимает слишком много памяти</string>
     <string name="automatic_system_heap_dump_title">Автоматически создавать системные дампы</string>
     <string name="available_size">%s доступно</string>
+    <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
     <string name="available_virtual_keyboard_category">Доступная виртуальная клавиатура</string>
     <string name="average_memory_use">Средний объем исп. памяти</string>
@@ -622,10 +647,14 @@
     <string name="back_sensitivity_dialog_message">"
 Высокая чувствительность может конфликтовать с жестами приложений от края экрана"</string>
     <string name="back_sensitivity_dialog_title">Чувствительность края экрана</string>
+    <string name="background_activity_disabled_dialog_text">"Поскольку это приложение не настроено на оптимизацию батареи, вы не можете ограничить его.
+
+Чтобы ограничить приложение, сначала включите оптимизацию батареи."</string>
     <string name="background_activity_summary">Разрешить приложению работать в фоновом режиме</string>
     <string name="background_activity_summary_disabled">Приложению запрещено работать в фоновом режиме</string>
     <string name="background_activity_summary_whitelisted">Фоновая активность не может быть ограничена</string>
     <string name="background_activity_title">Работа в фоновом режиме</string>
+    <string name="background_activity_warning_dialog_text">Если вы ограничиваете фоновую активность для приложения, оно может плохо себя вести</string>
     <string name="background_check_pref">Фоновая проверка</string>
     <string name="background_check_title">Полный доступ в фоновом режиме</string>
     <string name="background_data">Фоновый режим</string>
@@ -695,6 +724,9 @@
     <string name="battery_action_display">Настройки экрана</string>
     <string name="battery_action_stop">Остановить</string>
     <string name="battery_action_wifi">Настройки Wi-Fi</string>
+    <string name="battery_active_for">Активно для ^1</string>
+    <string name="battery_auto_restriction_summary">Определите, когда приложения разряжают батарею</string>
+    <string name="battery_auto_restriction_title">Используйте Менеджер Батареи</string>
     <string name="battery_desc_apps">Использование батареи приложением</string>
     <string name="battery_desc_bluetooth">Использование батареи модулем Bluetooth</string>
     <string name="battery_desc_camera">Заряд батареи, израсходованный камерой</string>
@@ -759,6 +791,8 @@
     <string name="battery_level_title">Уровень заряда батареи</string>
     <string name="battery_light_summary">Индикатор будет гореть во время зарядки устройства</string>
     <string name="battery_light_title">Включать при зарядке</string>
+    <string name="battery_manager_off">ВЫКЛ</string>
+    <string name="battery_manager_on">ВКЛ / Обнаруживает, когда приложения разряжают батарею</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_msg_unaccounted">Данные о расходе заряда батареи отдельными приложениями являются приблизительными и не включают всех возможных потребителей энергии. Этот показатель энергопотребления соответствует разнице между расчетным энергопотреблением и фактическим расходом заряда батареи.</string>
     <string name="battery_overall_usage">%1$s заряда батареи</string>
@@ -771,6 +805,9 @@
     <string name="battery_saver_auto_percentage_summary">Включать при уровне заряда %1$s</string>
     <string name="battery_saver_auto_routine">На основе истории подзарядок</string>
     <string name="battery_saver_auto_routine_summary">Включать энергосбережение, если заряда батареи может не хватит до времени подзарядки</string>
+    <string name="battery_saver_auto_title">Включать автоматически</string>
+    <string name="battery_saver_button_turn_off">Выключить</string>
+    <string name="battery_saver_button_turn_on">Включить</string>
     <string name="battery_saver_desc_turn_on_auto_never">Не включать автоматически</string>
     <string name="battery_saver_desc_turn_on_auto_pct">Включать при уровне заряда %1$s</string>
     <string name="battery_saver_off_summary">Откл.</string>
@@ -808,6 +845,8 @@
     <string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
     <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
     <string name="battery_sugg_wifi">Отключайте Wi-Fi, когда он не используется или сеть недоступна</string>
+    <string name="battery_suggestion_summary" />
+    <string name="battery_suggestion_title">"Улучшить время автономной работы телефона"</string>
     <string name="battery_summary">Использовано с момента последней полной зарядки: %1$s</string>
     <string name="battery_tip_dialog_message">Устройство используется больше обычного. Батарея может разрядиться раньше.
 
@@ -846,6 +885,8 @@
     <string name="bearer">Канал</string>
     <string name="billing_cycle">Платежный цикл</string>
     <string name="billing_cycle_fragment_summary">Ежемесячно с %1$s-го числа</string>
+    <string name="billing_cycle_less_than_one_day_left">Осталось меньше 1 дня</string>
+    <string name="billing_cycle_none_left">Не осталось времени</string>
     <string name="billing_cycle_summary">Платежный цикл начинается %1$s-го числа каждого месяца</string>
     <string name="bind_xiaomi_account_confirm">Привязать</string>
     <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса.</string>
@@ -929,6 +970,7 @@
     <string name="bluetooth_device_context_pair_connect">Выполнить сопряжение и подключить</string>
     <string name="bluetooth_device_context_unpair">Отменить сопряжение</string>
     <string name="bluetooth_device_details">Настройки устройства</string>
+    <string name="bluetooth_device_mac_address">"Bluetooth-адрес устройства: %1$s"</string>
     <string name="bluetooth_device_misc_title">Редко используемые устройства</string>
     <string name="bluetooth_device_name">Имя устройства:</string>
     <string name="bluetooth_device_name_summary">Видимо для других устройств как “^1”</string>
@@ -949,8 +991,8 @@
     <string name="bluetooth_disable_profile_title">Отключить профиль?</string>
     <string name="bluetooth_disabled">Не виден другим устройствам</string>
     <string name="bluetooth_disconnect_a2dp_profile">Устройство %1$s будет отключено от источника звука.</string>
-    <string name="bluetooth_disconnect_all_profiles">"Произойдет разъединение с устройством 
-%1$s"</string>
+    <string name="bluetooth_disconnect_all_profiles">"Произойдет разъединение с устройством %1$s"</string>
+    <string name="bluetooth_disconnect_dialog_ok">Отключиться</string>
     <string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s отключается от устройства ввода.</string>
     <string name="bluetooth_disconnect_pan_nap_profile">Интернет-подключение телефона перестанет использоваться устройством %1$s.</string>
@@ -974,12 +1016,20 @@
     <string name="bluetooth_empty_list_user_restricted">У вас нет разрешения на смену настроек Bluetooth.</string>
     <string name="bluetooth_enable">Включить Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN-код содержит буквы или символы</string>
+    <string name="bluetooth_enter_passkey_msg">Введите код сопряжения, затем нажмите Return или Enter</string>
     <string name="bluetooth_enable_inband_ringing">Рингтоны по Bluetooth</string>
     <string name="bluetooth_enter_passkey_other_device">Возможно, потребуется ввести ключ доступа на другом устройстве.</string>
     <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
     <string name="bluetooth_error_title" />
+    <string name="bluetooth_footer_mac_message">"Bluetooth-адрес телефона: %1$s"</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
+    <string name="bluetooth_hearing_aid_profile_summary_connected">Подключен к слуховому аппарату</string>
+    <string name="bluetooth_hearing_aid_profile_summary_use_for">Используйте для слухового аппарата</string>
+    <string name="bluetooth_hearingaid_left_battery_level">Слева - %1$s батареи</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">Подключение левого слухового аппарата…</string>
+    <string name="bluetooth_hearingaid_right_battery_level">Справа - %1$s батареи</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">Подключение правого слухового аппарата…</string>
     <string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
     <string name="bluetooth_incoming_pairing_msg">"Запрос от: 
@@ -1015,11 +1065,13 @@
     <string name="bluetooth_notif_message">Нажмите, чтобы установить соединение с устройством \"%1$s\".</string>
     <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
     <string name="bluetooth_notif_title">Запрос на сопряжение</string>
+    <string name="bluetooth_off_footer">Включите Bluetooth для подключения к другим устройствам.</string>
     <string name="bluetooth_on_time">Время работы Wi-Fi</string>
     <string name="bluetooth_only_visible_to_paired_devices">Доступно только для подключенных устройств</string>
     <string name="bluetooth_opp_profile_summary_connected">Подключено к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Не подключено к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_use_for">Использовать для передачи файлов</string>
+    <string name="bluetooth_paired_device_title">Подключенные устройства</string>
     <string name="bluetooth_pairing">Подключение…</string>
     <string name="bluetooth_pairing_accept">Принять</string>
     <string name="bluetooth_pairing_accept_all_caps">ПРИНЯТЬ</string>
@@ -1032,6 +1084,7 @@
     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству %1$s.</string>
     <string name="bluetooth_pairing_key_msg">Код сопряжения Bluetooth</string>
     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству %1$s из-за неверного PIN или ключа доступа.</string>
+    <string name="bluetooth_pairing_pref_title">Подключить новое устройство</string>
     <string name="bluetooth_pairing_rejected_error_message">Устройство %1$s не разрешило подключение.</string>
     <string name="bluetooth_pairing_request">Добавить %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Открыть %1$s доступ к списку контактов и журналу вызовов</string>
@@ -1044,9 +1097,11 @@
     <string name="bluetooth_phonebook_request">Запрос на доступ к списку контактов</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Должно быть 16 цифр</string>
+    <string name="bluetooth_pref_summary">Разрешить вашему телефону общаться с близлежащими устройствами Bluetooth</string>
     <string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
     <string name="bluetooth_preference_device_settings">Настройки устройства</string>
     <string name="bluetooth_preference_found_devices">Доступные устройства</string>
+    <string name="bluetooth_preference_found_media_devices">Доступные устройства</string>
     <string name="bluetooth_preference_no_found_devices">Нет доступных устройств</string>
     <string name="bluetooth_preference_paired_devices">Сопряженные устройства</string>
     <string name="bluetooth_preference_paired_dialog_contacts_option">Контакты и журнал вызовов</string>
@@ -1061,6 +1116,7 @@
     <string name="bluetooth_profile_details">Настройки профиля</string>
     <string name="bluetooth_profile_dun">Коммутируемый доступ к сети</string>
     <string name="bluetooth_profile_headset">Аудиоустройство телефона</string>
+    <string name="bluetooth_profile_hearing_aid">Слуховой аппарат</string>
     <string name="bluetooth_profile_hid">Устройство ввода</string>
     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
     <string name="bluetooth_profile_opp">Передача файлов</string>
@@ -1080,6 +1136,9 @@
     <string name="bluetooth_sap_profile_summary_use_for">Использовать для доступа к SIM карте</string>
     <string name="bluetooth_sap_request">Запрос на доступ к SIM-карте</string>
     <string name="bluetooth_scan_for_devices">Поиск устройств</string>
+    <string name="bluetooth_scanning_on_info_message">""Когда Bluetooth включен, ваше устройство может связываться с другими соседними устройствами Bluetooth.
+
+Чтобы улучшить работу устройства, приложения и службы могут сканировать близлежащие устройства в любое время, даже если Bluetooth выключен. Это может быть использовано, например, для улучшения основанных на местоположении функций и услуг. Вы можете изменить это в "&lt;annotation id="link"&gt;настройках сканирования&lt;/annotation&gt;."</string>
     <string name="bluetooth_search_for_devices">Обновить</string>
     <string name="bluetooth_searching_for_devices">Поиск…</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Режим кодека aptX Adaptive</string>
@@ -1123,6 +1182,7 @@
     <string name="bluetooth_tethering_off_subtext">Нет доступа к интернет-подключению телефона через Bluetooth</string>
     <string name="bluetooth_tethering_off_subtext_config">Доступ к интернет-подключению устройства \"%1$d\" через Bluetooth открыт</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
+    <string name="bluetooth_tethering_subtext">Поделитесь интернет-соединением телефона через Bluetooth</string>
     <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
     <string name="bluetooth_turning_on">Включение Bluetooth…</string>
     <string name="bluetooth_unlock_add_device">Добавить устройство</string>
@@ -1312,6 +1372,7 @@
     <string name="camera_key_action_shortcut_wake">Блокировка</string>
     <string name="camera_key_action_title">Клавиша MI</string>
     <string name="camera_key_action_toggle_title">Переключатель</string>
+    <string name="camera_laser_sensor_switch">Лазерный сенсор камеры</string>
     <string name="camera_rear">Основная %s</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_action">Отмена</string>
@@ -1342,11 +1403,20 @@
     <string name="captioning_window_opacity">Прозрачность окна титров</string>
     <string name="capture_system_heap_dump_title">Создать системный дамп</string>
     <string name="capturing_system_heap_dump_message">Создание системного дампа…</string>
+    <string name="carrier">Оператор</string>
+    <string name="carrier_and_update_now_text">Обновлено ^1 только что</string>
+    <string name="carrier_and_update_text">Обновлено ^1 ^2 назад</string>
     <string name="carrier_enabled">Включить/выключить APN</string>
     <string name="carrier_enabled_summaryOff">APN выкл.</string>
     <string name="carrier_enabled_summaryOn">APN вкл.</string>
+    <string name="carrier_provisioning">Информация об операторе</string>
+    <string name="carrier_settings_euicc">Оператор</string>
+    <string name="carrier_settings_title">Настройки оператора</string>
+    <string name="carrier_settings_version">Версия настроек</string>
     <string name="category_personal">Личные данные</string>
     <string name="category_work">Работа</string>
+    <string name="cbrs_data_switch_string">Данные Cbrs</string>
+    <string name="cdma_lte_data_service">Настройка службы данных</string>
     <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="cdma_subscription_dialogtitle">подписка</string>
     <string name="cdma_subscription_summary">Переключение между RUIM/SIM и NV</string>
@@ -1355,6 +1425,7 @@
     <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
     <string name="cdma_system_select_title">Выбор системы</string>
     <string name="cell_broadcast_settings">Экстренные оповещения</string>
+    <string name="cell_data_limit">^1 лимит трафика</string>
     <string name="cell_data_template">^1 мобильного трафика</string>
     <string name="cell_warning_and_limit">Предупреждения при передаче данных: %1$s/Лимит передачи данных: %2$s</string>
     <string name="cell_warning_only">Предупреждение передачи данных: %1$s</string>
@@ -1366,7 +1437,13 @@
     <string name="change_password">Способ защиты</string>
     <string name="change_security_lock">Другие способы разблокировки</string>
     <string name="change_storage">Что использовать</string>
+    <string name="change_theme_reboot">Смена темы требует перезагрузки.</string>
+    <string name="change_wifi_state_app_detail_summary">Разрешить этому приложению включать или выключать WLAN, сканировать и подключаться к сетям WLAN, добавлять или удалять сети или запускать только локальную точку доступа</string>
+    <string name="change_wifi_state_app_detail_switch">Разрешить приложению управлять WLAN</string>
+    <string name="change_wifi_state_title">Управление WLAN</string>
+    <string name="channel_group_notifications_off_desc">По вашему запросу Android блокирует показ этой группы уведомлений на этом устройстве.</string>
     <string name="channel_notifications_off_desc">Android блокирует уведомления этой категории</string>
+    <string name="character_counter_overflowed_content_description">Превышен лимит символов %1$d из %2$d</string>
     <string name="charge_length_format">%1$s назад</string>
     <string name="charging_sounds_title">Сигналы состояния батареи</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
@@ -1375,10 +1452,12 @@
     <string name="checking_decryption">Проверка…</string>
     <string name="checking_find_device_status">Проверка статуса Поиска устройства…</string>
     <string name="checking_for_updates">Проверка обновлений…</string>
+    <string name="chip_text">Чиповый текст</string>
     <string name="choose_a_card_to_reset">Выберите SIM карту для сброса</string>
     <string name="choose_keyguard_clock_style">Стиль часов</string>
     <string name="choose_keyguard_clock_summary">Выбор стиля часов на экране блокировки. Работает только со стандартным экраном блокировки</string>
     <string name="choose_lock_pattern_header_text">Задайте графический ключ</string>
+    <string name="choose_network_title">Выберите сеть</string>
     <string name="choose_profile">Выберите профиль</string>
     <string name="choose_smartcover_type">Тип передней крышки</string>
     <string name="choose_spell_checker">Проверка правописания</string>
@@ -1399,6 +1478,7 @@
     <string name="clear_instant_app_confirmation">Удалить приложение с мгновенным запуском?</string>
     <string name="clear_instant_app_data">Удалить данные приложения</string>
     <string name="clear_phone_data_category">Удалить отмеченные</string>
+    <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clear_uri_btn_text">Закрыть доступ</string>
     <string name="clear_user_data_text">Стереть данные</string>
     <string name="close_aod">Эта функция несовместима с \"Активным экраном\". Сначала отключите его.</string>
@@ -1554,7 +1634,7 @@
     <string name="convert_to_file_encryption">Переход к шифрованию файлов</string>
     <string name="convert_to_file_encryption_done">Шифрование файлов уже включено</string>
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
-    <string name="cool_color">Холодная</string>
+    <string name="cool_color">Холод</string>
     <string name="copyright_title">Авторские права</string>
     <string name="corner_assistant_gesture_summary">Проведите пальцем вверх от нижнего левого или правого угла, чтобы запустить Google Ассистент.</string>
     <string name="corner_assistant_gesture_title">Google Ассистент</string>	
@@ -1638,7 +1718,7 @@
     <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
     <string name="custom_carrier_title">Оператор</string>
-    <string name="custom_color">Пользовательская</string>
+    <string name="custom_color">Пользовательский</string>
     <string name="custom_wifi_name_title">Wi-Fi сеть</string>
     <string name="customize_function">Доступные шаблоны</string>
     <string name="cutout_mode_always">Всегда показывать</string>
@@ -3825,7 +3905,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="my_device">Устройство</string>
     <string name="my_device_disclaimer">Примечание: информация об оборудовании, включая процессор, емкость аккумулятора, камеру, размер и разрешение экрана, предоставлена лабораториями, дизайнерами и поставщиками Xiaomi.</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
-    <string name="nature_color">Стандартная</string>
+    <string name="nature_color">Стандарт</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижней части экрана, затем влево или вправо</string>
     <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо от полосы навигации полноэкранного режима или нижней части экрана</string>
     <string name="navigation_guide_app_quick_switch_title">Переключение между приложениями</string>	
@@ -6983,7 +7063,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
     <string name="wapi_yes">да</string>
-    <string name="warm_color">Теплая</string>
+    <string name="warm_color">Тепло</string>
     <string name="web_action_enable_summary">Открывать ссылки в приложениях, даже если они не установлены на устройстве</string>
     <string name="web_action_enable_title">Приложения с мгновенным запуском</string>
     <string name="web_action_section_title">Приложения с мгновенным запуском</string>

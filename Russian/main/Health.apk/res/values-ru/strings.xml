@@ -131,6 +131,7 @@ Xiaomi Health поддерживает устройства, ранее доба
     <string name="character_counter_content_description">Введенные символы: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="chart_no_data">Нет данных</string>
+    <string name="chip_text">Чиповый текст</string>
     <string name="clear">Очистить</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
@@ -326,8 +327,9 @@ ID:%s
     <string name="exercise_walk_description">В соответствии с диетическими рекомендациями для жителей Китая, активная физическая активность должна длиться не менее 40 минут в день, что эквивалентно ходьбе 6000 шагов. Шаги, которые вы делаете каждый день, чтобы ходить, бегать и подниматься по лестнице, кратко изложены здесь.</string>
     <string name="expand_all">Показать все</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="fall_sleep_hard">Trouble falling asleep</string>
-    <string name="falling_duration">Falling asleep</string>
+    <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
+    <string name="fall_sleep_hard">Проблема засыпания</string>
+    <string name="falling_duration">Засыпание</string>
     <string name="falling_duration_hard_description">"Засыпание - это период от начала вашего сна до полного засыпания. Если вам требуется более 30 минут, чтобы заснуть, это может быть признаком бессонницы.
 Если вам все еще трудно уснуть после 30 минут в постели, уменьшите факторы, способствующие этому явлению. Пейте меньше кофе; не переусердствуйте со своей нервной системой визуально и эмоционально, просматривая видео или читая перед сном; держите свою спальню темной, тихой и удобной. Если эти меры не приносят облегчения, обратитесь к врачу
 ."</string>
@@ -497,8 +499,8 @@ ID:%s
     <string name="mi_health">Mi Здоровье</string>
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sports">Mi Fit</string>
-    <string name="min_altitude">Lowest altitude</string>
-    <string name="min_heart_rate">Lowest heart rate</string>
+    <string name="min_altitude">Самая низкая высота</string>
+    <string name="min_heart_rate">Самый низкий сердечный ритм</string>
     <string name="min_pace">Минимальный темп</string>
     <string name="minimum">Минимум</string>
     <string name="minute"> МИН</string>
@@ -580,9 +582,9 @@ ID:%s
     <string name="not_added">Не добавлено</string>
     <string name="not_open_auto_sync">Синхронизация отключена</string>
     <string name="not_set">Не задано</string>
-    <string name="not_standing">Not Stand</string>
+    <string name="not_standing">Не стойте</string>
     <string name="not_support_step">Устройство не поддерживает подсчет шагов</string>
-    <string name="not_up_to_standard">Below standard</string>
+    <string name="not_up_to_standard">Ниже стандарта</string>
     <string name="ok">OK</string>
     <string name="open">Включить</string>
     <string name="open_data_sync_description">Включите синхронизацию с облаком для синхронизации данных о состоянии здоровья из других источников.</string>
@@ -640,7 +642,7 @@ ID:%s
     <string name="rate_short">Not enough</string>
     <string name="rb_gender_female">Пол: Женский</string>
     <string name="rb_gender_male">Пол: Мужской</string>
-    <string name="reach_standard">Meets standard</string>
+    <string name="reach_standard">Соответствует стандарту</string>
     <string name="recommand_body_weight_msg">Рекомендуемый вес %1$.1f кг (ИМТ %2$.1f)</string>
     <string name="record_body_weight_button">Сохранить</string>
     <string name="record_detail_page_title">Сведения</string>
@@ -682,7 +684,7 @@ ID:%s
     <string name="sedentaty_hazard_description">Сидячий образ жизни вызывает множество проблем со здоровьем. Старайтесь стоять не менее 1 минуты в час для достижения ежедневной цели, чтобы избежать опасности сидячей жизни.</string>
     <string name="select_menstruation_end_date">Выберите дату окончания менструации</string>
     <string name="select_null">Не выбрано</string>
-    <string name="select_target">Select Target</string>
+    <string name="select_target">Выберите цель</string>
     <string name="send_diagnosis_log">Отправить журнал диагностики</string>
     <string name="sending">Отправка…</string>
     <string name="setting">Настройки</string>
@@ -690,10 +692,10 @@ ID:%s
     <string name="setting_sedentary_off">ОТКЛ</string>
     <string name="setting_sedentary_on">ВКЛ</string>
     <string name="setting_sedentary_title">Напоминания о разминке</string>
-    <string name="share">Share</string>
+    <string name="share">Поделиться</string>
     <string name="skip">Пропустить</string>
     <string name="sleep">Сон</string>
-    <string name="sleep_and_get_up_time">Bedtime schedule</string>
+    <string name="sleep_and_get_up_time">Расписание сна</string>
     <string name="sleep_auto_start_perm_grant">Разрешения предоставлены</string>
     <string name="sleep_chart_empty">Нет данных</string>
     <string name="sleep_chart_loading">Подождите…</string>
@@ -853,7 +855,7 @@ ID:%s
 и получить советы
 на основе введенных личных данных."</string>
     <string name="sport_type">Тип тренировки</string>
-    <string name="stand">Stand</string>
+    <string name="stand">Активность</string>
     <string name="stand_assistant">Помощник активности</string>
     <string name="stand_detection">Определение активности</string>
     <string name="stand_guide_page_title1">Выполняйте цель активности каждый день и держитесь подальше от сидячих опасностей</string>
@@ -869,7 +871,7 @@ ID:%s
     <string name="stand_notice_title6">Была ли активность в течение часа?</string>
     <string name="stand_setting">Настройки активности</string>
     <string name="standard_format">(стандартный: %1s)</string>
-    <string name="standing_already">Standing Already</string>
+    <string name="standing_already">Активность уже есть</string>
     <string name="state_agree">Согласен</string>
     <string name="state_auto_run_disenable">Откл</string>
     <string name="state_auto_run_enable">Вкл</string>
@@ -890,7 +892,7 @@ ID:%s
     <string name="suggestion_move_content">Пройдите сто шагов или несколько лестничных пролетов.</string>
     <string name="suggestion_move_title">Время размяться!</string>
     <string name="suggestion_title">Советы</string>
-    <string name="suitable">Suitable</string>
+    <string name="suitable">Подходящее</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
@@ -1107,7 +1109,7 @@ ID:%s
     <string name="today_no_data">На сегодня нет данных</string>
     <string name="today_single">Сегодня</string>
     <string name="tomorrow">Завтра</string>
-    <string name="too_little">Too little</string>
+    <string name="too_little">Слишком мало</string>
     <string name="total">Всего</string>
     <string name="total_consumption_label">Всего калорий</string>
     <string name="total_distance_label">Общее расстояние</string>
@@ -1158,6 +1160,15 @@ ID:%s
     <string name="weight_unit_kg"> КГ</string>
     <string name="well">Хорошо</string>
     <string name="write_strorage_perm_description">Запишите проблемы, с которыми вы столкнулись при использовании</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключить диспетчер загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Представляем версию %1$s
+Размер: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Представляем версию %1$s Размер промежуточного обновления: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Хранилище недоступно, пожалуйста, проверьте SD-карту.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="year">Год</string>
     <string name="yesterday">Вчера</string>
 </resources>
