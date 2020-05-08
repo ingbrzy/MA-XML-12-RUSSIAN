@@ -32,8 +32,8 @@
     <string name="achieve_stand_goals">Достигните цели дня</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activity_title_basic_info">Основная информация</string>
-    <string name="activity_title_exercise">Активность</string>
-    <string name="activity_title_exercise_goal">Цель активности</string>
+    <string name="activity_title_exercise"Тренировкаь</string>
+    <string name="activity_title_exercise_goal">Цель тренировки</string>
     <string name="activity_title_settings">Настройки</string>
     <string name="activity_title_sleep">Сон</string>
     <string name="activity_title_sleep_details">Информация о сне</string>
@@ -140,9 +140,9 @@ Xiaomi Health поддерживает устройства, ранее доба
     <string name="climbing">Альпинизм</string>
     <string name="close">Отключить</string>
     <string name="close_once">Отключить однократно</string>
-    <string name="close_stand_detection_tip">Напоминание об активности отключено, не забывайте двигаться и записывать активность</string>
-    <string name="close_stand_notice_and_detection_tip">Обнаружение активности и напоминания отключены</string>
-    <string name="close_stand_notice_tip">Обнаружение активности отключено, рекомендуем включить автоматическое обнаружение после запуска функции</string>
+    <string name="close_stand_detection_tip">Напоминание о подвижности отключено, не забывайте двигаться и записывать её</string>
+    <string name="close_stand_notice_and_detection_tip">Обнаружение подвижности и напоминания отключены</string>
+    <string name="close_stand_notice_tip">Обнаружение подвижности отключено, рекомендуем включить автоматическое обнаружение после запуска функции</string>
     <string name="collapse">Скрыть</string>
     <string name="collect_diagnosis_log">Собрать журнал диагностики</string>
     <string name="complete_preference_basic_info">Заполните свой профиль</string>
@@ -286,7 +286,7 @@ ID:%s
     <string name="enter_mi_health">Открыть Mi Здоровье</string>
     <string name="equivalent_exercise">≈%1$s км ходьбы (%2$s Кал)</string>
     <string name="excessive">Слишком много</string>
-    <string name="exercise">Активность</string>
+    <string name="exercise">Тренировка</string>
     <string name="exercise_consume">Сожжено %1$d Кал</string>
     <string name="exercise_consume_description">Согласно диетическим рекомендациям для жителей Китая, ежедневная физическая активность должна потреблять более 15% от общего объема энергозатрат. Энергия, потраченная на вашу ежедневную физическую активность, суммируется здесь, но не включает основные метаболические расходы. Если у вас есть проблемы с контролем веса, вам также необходимо сосредоточиться на потреблении энергии.</string>
     <string name="exercise_consume_exercise_description">Продолжительность упражнения - это время, затрачиваемое на упражнения средней и высокой интенсивности. По данным китайских органов здравоохранения, еженедельная продолжительность упражнений должна составлять не менее 150 минут. Время, затраченное на занятия с высокой интенсивностью, такие как быстрая ходьба (частота более 100 шагов в минуту), бег и подъем по лестнице, будет добавлено к продолжительности ваших упражнений..</string>
@@ -303,7 +303,7 @@ ID:%s
     <string name="exercise_goal_accomplished">Цель достигнута</string>
     <string name="exercise_goal_lack_exercise">Недостаточная активность</string>
     <string name="exercise_goal_not_accomplished">Цель не достигнута</string>
-    <string name="exercise_info_tool_bar_title">Активность</string>
+    <string name="exercise_info_tool_bar_title">Тренировка</string>
     <string name="exercise_information_label">Предоставьте свою данные, чтобы сделать статистику более точной</string>
     <string name="exercise_intensity">Интенсивность</string>
     <string name="exercise_motor_perception">Отслеживать тренировки автоматически</string>
@@ -371,7 +371,7 @@ ID:%s
     <string name="go_open_sleep_detector">Начать</string>
     <string name="go_setting">Настройки</string>
     <string name="go_to_open">Включить</string>
-    <string name="goal_daily_exercise">Активность</string>
+    <string name="goal_daily_exercise">Тренировка</string>
     <string name="goal_sleep_time">Продолжительность</string>
     <string name="goal_title">Будьте здоровыми</string>
     <string name="goto_setting_auto_start">Настройки</string>
@@ -861,7 +861,7 @@ ID:%s
     <string name="stand_guide_page_title1">Выполняйте цель активности каждый день и держитесь подальше от сидячих опасностей</string>
     <string name="stand_guide_page_title2">Автоматическое определение, запись и напоминания об активности</string>
     <string name="stand_notice">Уведомление об активности</string>
-    <string name="stand_notice_subtitle1">%1$s-%2$s активность не обнаружена, если она уже была, нажмите Готово</string>
+    <string name="stand_notice_subtitle1">%1$s-%2$s Подвижность не обнаружена, если она уже была, нажмите Готово</string>
     <string name="stand_notice_subtitle2">If you have already stood, please click to finish. You have not stood up and stretched out.</string>
     <string name="stand_notice_title1">Встаньте и сделайте разминку!</string>
     <string name="stand_notice_title2">Напоминание об активности</string>

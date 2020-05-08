@@ -39,6 +39,7 @@
     <string name="act_find_city_hint">Введите местоположение</string>
     <string name="act_find_city_hot_attractions_title">Популярные места</string>
     <string name="act_find_city_hot_city_title">Популярные города</string>
+    <string name="act_location_error_to_find_city">"Couldn't get location info. You can add a city manually."</string>
     <string name="act_set_city_find_side">Поиск местоположения…</string>
     <string name="act_set_city_find_side_error">Местоположение не определено</string>
     <string name="act_weather_find_city_added">Добавлено</string>
@@ -50,10 +51,12 @@
     <string name="activity_find_city_dialog_cancel">Отмена</string>
     <string name="activity_find_city_dialog_message">Разрешите Погоде доступ к вашему местоположению для получения точных данных.</string>
     <string name="activity_find_city_dialog_message_global">Разрешите Погоде доступ к вашему местоположению и переключение в режим высокой точности для получения актуальных данных.</string>
+    <string name="activity_find_city_dialog_message_location_service">Чтобы получить актуальную информацию о погоде, разрешите Weather узнать ваше местоположение.</string>
     <string name="activity_find_city_dialog_set">Настройки</string>
     <string name="activity_find_city_dialog_title">Доступ к местоположению</string>
     <string name="activity_main_clickable">&gt;</string>
     <string name="activity_main_one_alert" />
+    <string name="activity_main_pub_time">Опубликовано в %1$s</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Обновлено %1$s</string>
     <string name="activity_main_update_time_expire">Данные устарели</string>
@@ -91,8 +94,11 @@
     <string name="aqi_quality_pm10_desc">Грубые частицы</string>
     <string name="aqi_quality_pm25_desc">Мелкие частицы</string>
     <string name="aqi_quality_so2_desc">Диоксид серы</string>
+    <string name="aqi_settings_summary">Предупреждения о качестве воздуха</string>
+    <string name="aqi_settings_title">ИКВ</string>
     <string name="aqi_station_best_quality_station">Лучшая станция</string>
     <string name="aqi_station_min_distance_station">Ближайшая станция</string>
+    <string name="aqi_sub_desc">ИКВ</string>
     <string name="aqi_top_pollution">Загрязняющие агенты</string>
     <string name="button_abandon">Выход</string>
     <string name="button_add_city">Добавить местоположение</string>
@@ -199,6 +205,8 @@
     <string name="feedback_overcast">Пасмурно</string>
     <string name="feedback_report_privacy_msg">Отчет будет содержать ваше местоположение</string>
     <string name="feedback_result_fail_no_choice">Выберите текущие погодные условия</string>
+    <string name="feedback_result_fail_no_reason">Спасибо за ваш отзыв!</string>
+    <string name="feedback_result_fail_same_type">Похоже, ваш отчет не отличается от текущей погоды. Попробуйте еще раз.</string>
     <string name="feedback_result_success">Успешно отправлено, спасибо за ваш отчет</string>
     <string name="feedback_sandy">Пыль</string>
     <string name="feedback_sunny">Ясно</string>
@@ -280,6 +288,14 @@
     <string name="particulate_matter_exceeded">Превышение</string>
     <string name="particulate_matter_not_exceeded">Норма</string>
     <string name="particulate_matter_serious_exceeded">Сильное превышение</string>
+    <string name="permission_device_info">Информация об устройстве</string>
+    <string name="permission_device_introduce">Для распознавания идентификатора устройства на основе модели устройства и IMEI и предоставления локализованных услуг на основе языковых предпочтений</string>
+    <string name="permission_exit">Выход</string>
+    <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
+    <string name="permission_select_all">Выбрать все</string>
+    <string name="permission_storage">Хранилище</string>
+    <string name="permission_storage_introduce">Для доступа к элементам на устройстве и сохранения файлов</string>
+    <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="policy_settings">Условия использования</string>
     <string name="precipitation_degree_five">Очень сильные</string>
     <string name="precipitation_degree_four">Сильные</string>
@@ -413,6 +429,7 @@
     <string name="warning_weather_day_and_night_settings_summary">Получать ежедневные сводки о погоде в 7:00 и 19:00</string>
     <string name="warning_weather_day_and_night_settings_title">Ежедневные сводки</string>
     <string name="weather_alert_channel_name">Оповещения</string>
+    <string name="weather_introduce">Всегда с тобой, в дождь или в ясную погоду.</string>
     <string name="weather_service_channel_name">Фоновые сервисы</string>
     <string name="widget_cta_not_agree">Нажмите для получения информации о погоде</string>
     <string name="wind_direction_no_data">Ветер</string>
