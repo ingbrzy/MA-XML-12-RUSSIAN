@@ -4,10 +4,10 @@
     <string name="a11y_settings_label">Спец. возможности</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
-    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
-    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
     <string name="abc_capital_off">Откл.</string>
     <string name="abc_capital_on">Вкл.</string>
     <string name="abc_search_hint">Поиск</string>
@@ -17,17 +17,17 @@
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
-    <string name="abc_shareactionprovider_share_with_application">Поделиться с \"%s\"</string>
-    <string name="abc_slice_error">"Не удалось подключиться"</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="abc_slice_error">Не удалось подключиться</string>
     <string name="abc_slice_more">Ещё</string>
     <string name="abc_slice_more_content">+ %1$d</string>
     <string name="abc_slice_permission_allow">Разрешить</string>
     <string name="abc_slice_permission_checkbox">Разрешить %1$s показывать фрагменты из любого приложения</string>
     <string name="abc_slice_permission_deny">Отказать</string>
-    <string name="abc_slice_permission_text_1">- Оно может читать информацию из %1$s</string>
-    <string name="abc_slice_permission_text_2">- Это может производить действия внутри %1$s</string>
+    <string name="abc_slice_permission_text_1">- Может читать информацию из %1$s</string>
+    <string name="abc_slice_permission_text_2">- Может производить действия внутри %1$s</string>
     <string name="abc_slice_permission_title">Разрешить %1$s показывать фрагменты %2$s?</string>
-    <string name="abc_slice_show_more">Показать больше</string>
+    <string name="abc_slice_show_more">Показать ещё</string>
     <string name="abc_slice_updated">Обновлено %1$s</string>
     <string name="abc_slices_permission_request">%1$s хочет показать фрагменты %2$s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
@@ -227,7 +227,7 @@
     <string name="account_sync_settings_title">Синхронизация</string>
     <string name="account_sync_summary_all_off">Синхронизация отключена для всех элементов</string>
     <string name="account_sync_summary_all_on">Синхронизация включена для всех элементов</string>
-    <string name="account_sync_summary_some_on">Синхронизация для элементов %1$d из %2$d</string>
+    <string name="account_sync_summary_some_on">Синхронизация включена для %1$d элементов из %2$d</string>
     <string name="account_sync_title">Синхронизировать аккаунты</string>
     <string name="acount_data">Аккаунты</string>
     <string name="action_drag_label_move_bottom">Переместить в конец</string>
@@ -240,7 +240,7 @@
     <string name="active_input_method_subtypes">Активные способы ввода</string>
     <string name="activity_not_found">Приложение не установлено на телефоне.</string>
     <string name="activity_picker_label">Выбор действия</string>
-    <string name="activity_title_power_manager">Экономия батареи;Экономия батареи</string>
+    <string name="activity_title_power_manager">Энергосбережение;Экономия батареи</string>
     <string name="ad_service">Рекламные сервисы</string>
     <string name="adaptive_sleep_description">Предотвращает отключение экрана, если вы смотрите на него.</string>
     <string name="adaptive_sleep_privacy">Когда функция Screen Attention включена, устройство через фронтальную камеру следит за глазами. Функция работает только на вашем устройстве. Изображения не сохраняются и не отправляются в Google.</string>
@@ -558,7 +558,7 @@
     <string name="audio_profile_settings_title">Профили аудио</string>
     <string name="audio_record_proc_title">Подавление шума</string>
     <string name="auto_brightness_default_title">По умолчанию</string>
-    <string name="auto_brightness_description">Яркость вашего экрана будет автоматически адаптироваться к вашей среде и деятельности. Вы можете перемещать ползунок вручную, чтобы адаптивная яркость выучила ваши предпочтения.</string>
+    <string name="auto_brightness_description">Яркость экрана будет автоматически подстраиваться под окружающее освещение и использование. Вы можете перемещать ползунок вручную, чтобы адаптивная яркость выучила ваши предпочтения.</string>
     <string name="auto_brightness_disclaimer">Яркость регулируется с учетом уровня освещенности. При необходимости ее можно временно изменить.</string>
     <string name="auto_brightness_high_title">Высокий</string>
     <string name="auto_brightness_low_title">Низкий</string>
@@ -844,7 +844,7 @@
     <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
     <string name="battery_sugg_wifi">Отключайте Wi-Fi, когда он не используется или сеть недоступна</string>
     <string name="battery_suggestion_summary" />
-    <string name="battery_suggestion_title">Улучшение времени автономной работы</string>
+    <string name="battery_suggestion_title">Улучшение автономной работы</string>
     <string name="battery_summary">Использовано с момента последней полной зарядки: %1$s</string>
     <string name="battery_tip_dialog_message">Устройство используется больше обычного. Батарея может разрядиться раньше.
 
