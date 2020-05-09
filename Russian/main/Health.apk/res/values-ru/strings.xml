@@ -280,7 +280,7 @@ ID:%s
     <string name="empty" />
     <string name="enable">Включить</string>
     <string name="enable_go_now">Включить</string>
-    <string name="enable_not_now">Отключить</string>
+    <string name="enable_not_now">Не сейчас</string>
     <string name="enable_right_now">Отключить</string>
     <string name="enough">Достаточно</string>
     <string name="enter_mi_health">Открыть Mi Здоровье</string>
@@ -574,8 +574,8 @@ ID:%s
     <string name="no_body_weight_record">Нет записей</string>
     <string name="no_data">Нет данных</string>
     <string name="no_records">Нет записей</string>
-    <string name="no_snore">"Вы не храпели и не говорили во сне"</string>
-    <string name="no_snore_1">"Вы не храпели и не говорили во сне"</string>
+    <string name="no_snore">Вы не храпели и не говорили во сне</string>
+    <string name="no_snore_1">Пока ничего нет</string>
     <string name="noon">PM</string>
     <string name="normal">Нормально</string>
     <string name="not_achieve_stand_goals">Цель активности не достигнута</string>
@@ -703,6 +703,8 @@ ID:%s
     <string name="sleep_deep">Глубокий сон</string>
     <string name="sleep_deep_light_analysis">Легкий сон и глубокий сон</string>
     <string name="sleep_deep_light_close_tip">Анализ глубокого сна выключен</string>
+    <string name="sleep_deep_light_no_data">Пока нет данных</string>
+    <string name="sleep_deep_light_no_data_improvement">Не удалось обнаружить фазы сна. Мы работаем над улучшением алгоритмов. Оставайтесь с нами!</string>
     <string name="sleep_detection_enable">Проанализируйте цикл сна</string>
     <string name="sleep_detection_feedback">Обратная связь</string>
     <string name="sleep_detection_guide_four_description">Отслеживание сна будет потреблять около 1% вашей батареи в день.</string>
