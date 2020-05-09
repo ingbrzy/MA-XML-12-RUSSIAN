@@ -14,6 +14,7 @@
   <string name="dialog_connect_verify_perssion_fail">Не удалось получить разрешение для трансляции на телевизоре. Повторите попытку позже.</string>
   <string name="dialog_connected">Подключено</string>
   <string name="dialog_connecting">Подключение…</string>
+  <string name="dialog_nfc_cast_wifi_off"> Для трансляции с использованием NFC, необходимо включить Wi-Fi. Включить?</string>
   <string name="dialog_ok">ОК</string>
   <string name="dialog_only_suport_content">Передача фотографий, видео или музыки</string>
   <string name="dialog_open_wifi_bt">Включить</string>
@@ -135,5 +136,7 @@
   <string name="toast_guide_title">Новые функции</string>
   <string name="toast_msg_for_multi_window">Эта функция недоступна в режиме разделения экрана</string>
   <string name="toast_msg_for_small_window">Минимизируйте окно во время трансляции, это позволит пользоваться другими функциями и приложениями на телефоне.</string>
+  <string name="toast_nfc_dont_move">Не отодвигайте устройство</string>
   <string name="toast_title_for_small_window">Минимизируйте окно во время трансляции.</string>
+  <string name="toast_turn_off_hotspot_before_cast">Выключите точку доступа перед трансляцией</string>
 </resources>
