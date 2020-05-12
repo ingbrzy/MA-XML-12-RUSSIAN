@@ -2580,8 +2580,8 @@
     <string name="firmware_version">Версия Android</string>
     <string name="flash_drive_backup_disable">Подключите USB-накопитель</string>
     <string name="flash_drive_backup_enable">Используйте USB-накопитель для резервного копирования</string>
-    <string name="flash_drive_backup_restore">Резервное копирование на USB</string>
-    <string name="flash_drive_backup_restore_summary">Подключите USB накопитель</string>
+    <string name="flash_drive_backup_restore">USB-накопитель</string>
+    <string name="flash_drive_backup_restore_summary">Подключите USB-накопитель</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="floating_window_switch_label_disable">Скрыть всплывающие окна</string>
     <string name="fluency_mode">Системные анимации</string>
@@ -3850,7 +3850,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="msd_driver_download">Скачать драйвер</string>
     <string name="msd_driver_download_mac">OSX: Скачайте драйвера и установите AndroidFileTransfer.dmg.</string>
     <string name="msd_driver_download_mac_url">Скачать драйвера: http://www.android.com/filetransfer/</string>
-    <string name="msd_driver_download_xp">Windows: Скачайте Mi Phone Manager для использования вашего устройства в режиме USB накопителя.</string>
+    <string name="msd_driver_download_xp">Windows: Скачайте Mi Phone Manager для использования вашего устройства в режиме USB-накопителя.</string>
     <string name="msd_driver_download_xp_url">Скачать Mi Phone Manager: http://zhushou.mi.com/</string>
     <string name="msd_help_summary">"Сложности при доступе к файлам телефона с компьютера?
 Выберите операционную систему вашего компьютера:"</string>
@@ -3860,7 +3860,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Далее</string>
     <string name="msd_install_retry">Если ваш компьютер все еще не обнаруживает устройство, попробуйте сделать следующее:</string>
-    <string name="msd_install_retry_connect">Подключите USB кабель заново.</string>
+    <string name="msd_install_retry_connect">Подключите USB-кабель заново.</string>
     <string name="msd_install_retry_reinstall">Переустановите драйвера.</string>
     <string name="msd_install_retry_reinstall_mac">Предварительно установите Android File Transfer, затем запустите программу.</string>
     <string name="msd_install_status_done">Драйвер уже установлен</string>
@@ -4429,8 +4429,8 @@ OTG отключается автоматически через 10 минут �
     <string name="personal_data_section_title">Личные данные</string>
     <string name="personal_device_admin_title">Личный</string>
     <string name="personal_section_title">Персонализация</string>
-    <string name="phone_backup_summary">Резервное копирование и восстановление на устройстве</string>
-    <string name="phone_backup_title">Устройство</string>
+    <string name="phone_backup_summary">Резервное копирование и восстановление на этом устройстве</string>
+    <string name="phone_backup_title">Мобильное устройство</string>
     <string name="phone_call_noise_suppression">Подавление шумов во время разговора</string>
     <string name="phone_index_label">Телефонный код</string>
     <string name="phone_info_label">Информация о телефоне&#160;</string>
@@ -6045,8 +6045,8 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_type_internal">Внутр. накопитель</string>
     <string name="storage_unmount_failure">Не удалось безопасно извлечь устройство: %1$s</string>
     <string name="storage_unmount_success">Устройство безопасно извлечено: %1$s</string>
-    <string name="storage_usb">USB накопитель</string>
-    <string name="storage_usb_settings">USB накопитель</string>
+    <string name="storage_usb">USB-накопитель</string>
+    <string name="storage_usb_settings">USB-накопитель</string>
     <string name="storage_use_title">Занято</string>
     <string name="storage_used">Использовано</string>
     <string name="storage_volume_summary">Использовано %1$s из %2$s</string>
@@ -6270,7 +6270,7 @@ UT-интерфейс: %5$s"</string>
     <string name="system_app_settings">Системные приложения</string>
     <string name="system_apps_updater">Обновление компонентов</string>
     <string name="system_backup_section_title">Резервное копирование</string>
-    <string name="system_backup_section_title_new">Резервное копирование</string>
+    <string name="system_backup_section_title_new">Локально</string>
     <string name="system_dashboard_summary">Язык, жесты, время, резервное копирование</string>
     <string name="system_default_app">(по умолчанию)</string>
     <string name="system_haptic_feedback">Виброотклик</string>
@@ -6684,16 +6684,16 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_control_title">USB контролируется</string>
     <string name="usb_default_info">Эти настройки будут применены, когда подключено другое устройство и ваш телефон разблокирован. Подключайтесь только к доверенным устройствам.</string>
     <string name="usb_default_label">Конфигурация USB по умолчанию</string>
-    <string name="usb_eject">Извлечение USB накопителя</string>
-    <string name="usb_eject_summary">Извлечение USB накопителя для безопасного отсоединения</string>
-    <string name="usb_format">Форматирование USB накопителя</string>
-    <string name="usb_format_summary">Удаление всех данных на USB накопителе</string>
+    <string name="usb_eject">Извлечение USB-накопителя</string>
+    <string name="usb_eject_summary">Извлечение USB-накопителя для безопасного отсоединения</string>
+    <string name="usb_format">Форматирование USB-накопителя</string>
+    <string name="usb_format_summary">Удаление всех данных на USB-накопителе</string>
     <string name="usb_headset_not_support_cancel">Понятно</string>
     <string name="usb_headset_not_support_message">"Не удается воспроизвести аудио через адаптер. Используйте цифровые наушники
 или наушники с разъемом 3,5 мм"</string>
     <string name="usb_headset_not_support_tile">Ошибка воспроизведения</string>
     <string name="usb_host_mode_subtext">Использование игровых контроллеров и других периферийных устройств с USB портом может увеличить расход батареи</string>
-    <string name="usb_host_mode_text">Включить режим USB хост</string>
+    <string name="usb_host_mode_text">Включить режим USB-хост</string>
     <string name="usb_insert_summary">Подключите USB-накопитель</string>
     <string name="usb_install_app">Установка через USB</string>
     <string name="usb_install_app_desc">Разрешить установку приложений через USB</string>
@@ -6715,8 +6715,8 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_summary_file_transfers">Передача файлов</string>
     <string name="usb_summary_photo_transfers">Передача фото (PTP)</string>
     <string name="usb_summary_power_only">Подача питания на подключенное устройство</string>
-    <string name="usb_summary_tether">USB модем</string>
-    <string name="usb_summary_tether_power">USB модем и питание</string>
+    <string name="usb_summary_tether">USB-модем</string>
+    <string name="usb_summary_tether_power">USB-модем и питание</string>
     <string name="usb_tethering_active_subtext">Подключено</string>
     <string name="usb_tethering_available_subtext">Устройство USB подключено, включите передачу данных</string>
     <string name="usb_tethering_button_text">USB-модем</string>
