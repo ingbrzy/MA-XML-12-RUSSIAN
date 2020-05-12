@@ -132,6 +132,8 @@
   <string name="album_sort_type_custom">Пользовательский</string>
   <string name="album_sort_type_name_asc">От А до Я</string>
   <string name="album_sort_type_name_desc">От Я до А</string>
+  <string name="album_tab_page_switch_view_style_to_grid">Таблица</string>
+  <string name="album_tab_page_switch_view_style_to_linear">Список</string>
   <string name="album_type_baby">Детский альбом</string>
   <string name="album_type_share">Общие альбомы</string>
   <string name="album_type_system">Системные альбомы</string>
@@ -328,7 +330,7 @@
   <string name="chooser_fragment_mishare_title">Отправить в</string>
   <string name="cleaner_empty_value_description">Всё в порядке</string>
   <string name="cleaner_photo_pick_delete_selected">Удалить выбранные файлы</string>
-  <string name="cleaner_raw_action">Очистка</string>
+  <string name="cleaner_raw_action">Просмотр</string>
   <string name="cleaner_raw_description">Освободите место для хранения, удалив большие RAW-файлы</string>
   <string name="cleaner_raw_title">Удалить RAW-файлы</string>
   <string name="cleaner_scan_description">Поиск файлов для освобождения места</string>
@@ -339,10 +341,10 @@
   <string name="cleaner_scan_no_result">Не удалось освободить больше места</string>
   <string name="cleaner_scan_ok">Понятно</string>
   <string name="cleaner_scan_title">Проверка альбомов…</string>
-  <string name="cleaner_screen_shot_action">Удалить</string>
+  <string name="cleaner_screen_shot_action">Просмотр</string>
   <string name="cleaner_screen_shot_description">Удалите ненужные скриншоты</string>
   <string name="cleaner_screen_shot_title">Скриншоты</string>
-  <string name="cleaner_similar_action">Удалить</string>
+  <string name="cleaner_similar_action">Просмотр</string>
   <string name="cleaner_similar_description">Удаление дубликатов фото</string>
   <string name="cleaner_similar_title">Дубликаты фото</string>
   <string name="cleaner_slim_action">Начать оптимизацию</string>
@@ -353,7 +355,7 @@
   <string name="cleaner_space_detail_description">Удалите ненужные файлы для освобождения места</string>
   <string name="cleaner_stop_scan">Остановить</string>
   <string name="cleaner_title">Очистка места</string>
-  <string name="cleaner_video_action">Удалить</string>
+  <string name="cleaner_video_action">Просмотр</string>
   <string name="cleaner_video_description">Удалите ненужные видео</string>
   <string name="cleaner_video_pick_delete_selected">Удалить выбранные файлы</string>
   <string name="cleaner_video_title">Видео</string>
@@ -459,6 +461,7 @@
   <string name="context_menu_add_contact">Добавить в контакты</string>
   <string name="context_menu_copy">Копировать</string>
   <string name="context_menu_copy_notice">Скопировано в буфер обмена</string>
+  <string name="continue_feedback">Дополнительный отзыв</string>
   <string name="copy">Копировать</string>
   <string name="correct_photo_time">Коррекция даты и времени фото</string>
   <string name="correct_time_success">Коррекция завершена</string>
@@ -571,7 +574,7 @@
   <string name="empty_title_no_cards">Истории</string>
   <string name="empty_title_no_photos">Нет фото или видео</string>
   <string name="enable_auto_upload_tip">Включить синхронизацию с облаком для этого альбома?</string>
-  <string name="enable_auto_upload_title">Включение синхронизации</string>
+  <string name="enable_auto_upload_title">Синхронизация с облаком</string>
   <string name="enable_cloud_for_sharing">Для просмотра общих фото включите альбомы Xiaomi Cloud.</string>
   <string name="enable_face_album_summary">Автоматически сортировать фото по лицам изображенных на них людей</string>
   <string name="enable_face_album_title">Альбом \"Лица\"</string>
@@ -949,8 +952,13 @@
   <string name="macarons_download_dialog_title">Загрузка плагина</string>
   <string name="macarons_download_dialog_without_wifi_confirm">Загрузить</string>
   <string name="macarons_download_dialog_without_wifi_message">Не удалось подключиться к Wi-Fi. Вы можете использвать мобильный интернет для загрузки плагина Волшебная виньетка."</string>
-  <string name="macarons_download_fail">Не удалось загрузить плагин. Проверьте настройки сети и повторите попытку.</string>
+    <string name="macarons_download_later">Повторите попытку позже</string>
+  <string name="macarons_download_network_fail">Не удалось загрузить плагин. Проверьте настройки сети и повторите попытку.</string>
+  <string name="macarons_download_other_fail">Не удалось загрузить из-за ошибки</string>
+  <string name="macarons_download_sdscard_fail">Не удалось загрузить. SD-карта недоступна.</string>
+  <string name="macarons_download_storage_fail">Не удалось загрузить. Недостаточно места на накопителе.</string>
   <string name="macarons_download_success">Плагин успешно загружен</string>
+  <string name="macarons_downloading">Загрузка плагина…</string>
   <string name="macarons_select_image_range">Нельзя использовать несколько изображений для создания волшебной виньетки</string>
   <string name="macarons_select_video">Нельзя использовать видео для создания волшебной виньетки</string>
   <string name="main_discard_confirm_message">У вас есть несохраненные изменения</string>
@@ -1156,7 +1164,7 @@
   <string name="operation_download">Загрузить оригинал (%s)</string>
   <string name="operation_edit">Изменить</string>
   <string name="operation_edit_video">Изменить</string>
-  <string name="operation_enable_auto_upload">Включить синхронизацию с облаком</string>
+  <string name="operation_enable_auto_upload">Синхронизация с облаком</string>
   <string name="operation_failed">Не удалось завершить операцию</string>
   <string name="operation_favorites">Избранные</string>
   <string name="operation_force_top">Закрепить</string>
@@ -1384,6 +1392,7 @@
   <string name="privacy_permission_request_title">Требуются разрешения</string>
   <string name="private_entry_lock_state_activated_text">Отпустите для открытия приватной папки</string>
   <string name="private_entry_lock_state_enterd_text">Потяните вниз для открытия приватной папки</string>
+  <string name="problem_feedback">Обратная связь</string>
   <string name="projection_cancel">Отмена</string>
   <string name="projection_checkbox_text">Запомнить</string>
   <string name="projection_device_connection_failed">Не удалось подключить проектор</string>
@@ -1579,8 +1588,8 @@
   <string name="select_origin_tip">Оригинал (%s)</string>
   <string name="send_file_beautify_failed">Не удалось отправить</string>
   <string name="send_files_to">Отправить</string>
-  <string name="send_heif_summary">Преобразование изображений перед отправкой для совместимости</string>
-  <string name="send_heif_title">Преобразование HEIF в JPG</string>
+  <string name="send_heif_summary">Преобразование HEIF изображений в JPEG для совместимости</string>
+  <string name="send_heif_title">Преобразование HEIF в JPEG</string>
   <string name="send_multiple_files_hint_format">Отправить (%s)</string>
   <string name="send_public_url">Отправить ссылку на альбом</string>
   <string name="send_secret_file_failed">Не удалось отправить</string>
@@ -2051,6 +2060,7 @@
   <string name="vlog_clip_is_reversed">Обратное воспроизведение</string>
   <string name="vlog_clip_select_trans">Эффект перехода</string>
   <string name="vlog_clip_sort">Упорядочить видео</string>
+  <string name="vlog_clip_zoom">Разведите или сведите два пальца для увеличения или уменьшения числа фреймов в предпросмотре</string>
   <string name="vlog_cloud_file_download">Облачные файлы</string>
   <string name="vlog_download">Загрузка</string>
   <string name="vlog_download_btn">Загрузить</string>
@@ -2066,6 +2076,8 @@
   <string name="vlog_end_of_film">Закрытие</string>
   <string name="vlog_exit_ddit_message">Если вы выйдете сейчас, все изменения будут потеряны. Выйти?</string>
   <string name="vlog_exit_edit_title">Выход из редактора</string>
+  <string name="vlog_exit_message">Все несохраненные изменения будут потеряны. Вернуться?</string>
+  <string name="vlog_exit_title">Отмена изменений</string>  
   <string name="vlog_film_title">Открытие</string>
   <string name="vlog_filter_changfeng">Ветер</string>
   <string name="vlog_filter_chujing">Спокойствие</string>
@@ -2073,7 +2085,7 @@
   <string name="vlog_filter_huadeng">Фонарь</string>
   <string name="vlog_filter_lanmei">Черника</string>
   <string name="vlog_filter_liulan">Туман</string>
-  <string name="vlog_filter_no_support_nums">Пропущенные видео: %1$d (не поддерживают редактирование)</string>
+  <string name="vlog_filter_no_support_nums">Пропущенные видео: %1$d (редактирование недоступно)</string>
   <string name="vlog_filter_nuanyang">Солнечный свет</string>
   <string name="vlog_filter_origin">Нет</string>
   <string name="vlog_filter_qianyin">Нежность</string>
@@ -2081,7 +2093,9 @@
   <string name="vlog_filter_xiayang">Солнцестояние</string>
   <string name="vlog_filter_zhaomu">Рассвет</string>
   <string name="vlog_float_view_change_audio">Звуковая дорожка</string>
+  <string name="vlog_float_view_original_ratio">Исходное</string>
   <string name="vlog_float_view_ratio">Соотношение сторон</string>
+  <string name="vlog_improt_encode_video_error">Ошибка кодирования. Попробуйте еще раз.</string>  
   <string name="vlog_load_data_fail">Не удалось загрузить данные</string>
   <string name="vlog_mi_clip">Видеоредактор</string>
   <string name="vlog_mi_clip_cn">Видеоредактор</string>
@@ -2092,6 +2106,7 @@
   <string name="vlog_nav_title_ratio">Соотношение сторон</string>
   <string name="vlog_nav_title_template">Шаблоны</string>
   <string name="vlog_none">Нет</string>
+  <string name="vlog_photo_edit_not_support">Редактирование не поддерживается</string>
   <string name="vlog_photo_not_support">Редактирование не поддерживается</string>
   <string name="vlog_ratio_choose">Соотношение сторон</string>
   <string name="vlog_ratio_fullsize">Полноэкранное</string>
@@ -2137,6 +2152,7 @@
   <string name="vlog_video_importing">Импортирование видео…</string>
   <string name="vlog_video_saved_in_my_create">Видео сохранено</string>
   <string name="vlog_video_selected_not_support">Редактирование не поддерживается</string>
+  <string name="vlog_video_trans_code_cons">Обработка файла высокого разрешения…</string>
   <string name="voice_assistant">Голосовой ввод</string>
   <string name="wednesday">Среда</string>
   <string name="wednesday_short">Ср</string>
