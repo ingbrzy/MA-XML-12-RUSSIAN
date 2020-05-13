@@ -8,4 +8,13 @@
         <item quantity="other">Нажмите и удерживайте любую сенсорную область на наушниках в течение %1$d секунд</item>
         <item quantity="one">Нажмите и удерживайте любую сенсорную область на наушниках в течение %1$d секунды</item>
     </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Удерживайте верхнюю кнопку нажатой в течение %1$s секунд при выключении питания</item>
+        <item quantity="one">Удерживайте верхнюю кнопку нажатой в течение %1$s секунды при выключении питания</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Подключено %1$d устройств</item>
+        <item quantity="one">Подключено %1$d устройство</item>
+        <item quantity="few">Подключено %1$d устройства</item>
+    </plurals>	
 </resources>

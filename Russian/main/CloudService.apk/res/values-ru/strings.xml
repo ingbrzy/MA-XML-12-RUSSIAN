@@ -2,10 +2,10 @@
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
-    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
-    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
     <string name="abc_capital_off">ОТКЛ.</string>
     <string name="abc_capital_on">ВКЛ.</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -24,8 +24,8 @@
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
-    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="access_denied">Доступ запрещен</string>
     <string name="account_related">Устройство связано с существующим Mi аккаунтом (%s). Подключитесь к сети для проверки устройства.</string>
@@ -372,8 +372,8 @@
     <string name="micloud_warn_low_sum">Память Xiaomi Cloud заполнена на 90%</string>
     <string name="micloud_warn_low_title">Место заканчивается</string>
     <string name="micloud_web_discription_place_holder">Посетите %1$s для управления вашими данными</string>
-    <string name="micloud_wipe_data_confirm_label">Удаление данных из облака</string>
-    <string name="micloud_wipe_data_confirm_title">Удалить объекты, синхронизированные с Xiaomi Cloud, после выхода?</string>
+    <string name="micloud_wipe_data_confirm_label">Удалить синхронизированные объекты с устройства?</string>
+    <string name="micloud_wipe_data_confirm_title">Некоторые данные приложений синхронизируются с Xiaomi Cloud. Вы можете удалить их с устройства, сохранив в облаке.</string>
     <string name="micloud_wipe_data_remove">Удалить</string>
     <string name="micloud_wipe_data_retain">Оставить</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
