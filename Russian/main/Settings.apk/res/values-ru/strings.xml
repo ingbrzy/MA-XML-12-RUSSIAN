@@ -344,7 +344,7 @@
     <string name="allow_lights_title">Световой индикатор</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
-    <string name="allow_oaid_used">Разрешить использование ID устройства</string>
+    <string name="allow_oaid_used">Использовать виртуальный ID</string>
     <string name="allow_oaid_used_desc">Приложения не смогут получить доступ к любому идентификатору, если вы явно не разрешите им это сделать. Некоторые функции персональных рекомендаций могут работать неправильно, если эта функция включена.</string>
     <string name="allow_overlay_description">Элементы интерфейса будут отображаться поверх других окон. Это может мешать вашей работе с приложениями или искажать их интерфейс.</string>
     <string name="allow_sound_title">Звук</string>
@@ -1069,6 +1069,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Подключено к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Не подключено к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_use_for">Использовать для передачи файлов</string>
+    <string name="bluetooth_paired">Сохранено</string>
     <string name="bluetooth_paired_device_title">Подключенные устройства</string>
     <string name="bluetooth_pairing">Подключение…</string>
     <string name="bluetooth_pairing_accept">Принять</string>
@@ -2672,8 +2673,8 @@
     <string name="free_xiaomi_wifi_connect_summary">Подключиться к сети \"%1$s\"</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Нажмите и удерживайте панель действий плавающего окна, затем потяните вниз</string>
     <string name="freeform_guide_drop_down_to_fullscreen_title">Полноэкранный режим</string>
-    <string name="freeform_guide_move_summary">Нажмите и удерживайте панель действий плавающего окна, чтобы перетащить</string>
-    <string name="freeform_guide_move_title">Перетаскивание</string>
+    <string name="freeform_guide_move_summary">Нажмите и удерживайте панель действий плавающего окна для перемещения</string>
+    <string name="freeform_guide_move_title">Перемещение</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Перетащите плавающее окно в угол экрана</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание</string>
     <string name="freeform_guide_notification_drop_down_summary">Нажмите и удерживайте панель действий уведомления, затем потяните вниз</string>
@@ -2748,7 +2749,7 @@
     <string name="google_title">Google</string>
     <string name="got_it">Понятно</string>
     <string name="gps_description">Поддержка нескольких спутниковых систем навигации (GPS, BeiDou, ГЛОНАСС, Галилео)</string>
-    <string name="gps_description_global">Поддержка нескольких спутниковых систем навигации (%s)</string>
+    <string name="gps_description_global">Устройства Xiaomi поддерживают такие навигационные системы, как: GPS, NavIC, BeiDou, ГЛОНАСС и Galileo.</string>
     <string name="gsm_to_wifi_connect_type_title">GSM -> Wi-Fi</string>
     <string name="gxzw_add_fingerprint_area">Сканер отпечатков</string>
     <string name="gxzw_add_fingerprint_continue">Далее</string>
@@ -4920,6 +4921,7 @@ UT-интерфейс: %5$s"</string>
 
 Данные приложений удалены не будут."</string>
     <string name="reset_app_preferences_title">Сбросить настройки?</string>
+    <string name="reset_confirm_directory">"Внимание: перед восстановлением проверьте наличие папки \"MIUI > Backup > AllBackup\" на устройстве. В случае отстутствия, создайте ее."</string>
     <string name="reset_dashboard_title">Сброс</string>
     <string name="reset_default_apn_failed">Ошибка сброса APN по умолчанию</string>
     <string name="reset_esim_desc">Очистка данных eSIM-карт. Для загрузки данных eSIM-карт обратитесь к вашему оператору связи. Это действие не отменит ваш тарифный план.</string>
@@ -4945,6 +4947,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_network_final_desc_esim">Сбросить все настройки сети и очистить данные eSIM-карт? Вы не сможете отменить это действие.</string>
     <string name="reset_network_title">Сброс настроек сети</string>
     <string name="reset_network_wifi">Wi-Fi</string>
+    <string name="reset_remove_data_hint">Все вышеперечисленные элементы будут удалены навсегда. Прежде чем продолжить, сделайте резервную копию всех важных элементов на компьютере или в Xiaomi Cloud.</string>
     <string name="reset_second_space_passwd">Сброс пароля второго пространства</string>
     <string name="reset_second_space_passwd_cancel">Отмена</string>
     <string name="reset_second_space_passwd_confirm">Продолжить</string>
@@ -4962,7 +4965,8 @@ UT-интерфейс: %5$s"</string>
     <string name="restore_dialog_content">При сбросе ID устройства ваши персональные рекомендации будут сброшены.</string>
     <string name="restore_dialog_positive">Сбросить</string>
     <string name="restore_dialog_title">Внимание</string>
-    <string name="restore_oaid_content">Сброс текущего ID устройства создаст новый. Сбросить?</string>
+    <string name="restore_oaid_content">Сброс виртуального ID устройства создаст новый. Сбросить?</string>
+    <string name="restore_oaid_dialog_content">Некоторые приложения используют виртуальный ID. Если вы сбросите его, некоторые данные приложений могут быть потеряны или стать непригодными для использования. Сбросить виртуальный ID?</string>
     <string name="restore_oaid_positive">Сбросить</string>
     <string name="restore_oaid_positive_step">Сброс (%1$d)</string>
     <string name="restore_oaid_title">Сброс ID устройства</string>
@@ -6575,18 +6579,18 @@ UT-интерфейс: %5$s"</string>
     <string name="usage_access_description">Доступ к истории использования позволяет отслеживать, какие приложения вы используете и как часто, а также определять оператора сети, язык и другие параметры.</string>
     <string name="usage_access_title">Приложения с доступом к данным</string>
     <string name="usage_app_get_it">Понятно</string>
-    <string name="usage_app_limit_alter_summary">"Устанавливаемый лимит меньше времени использования приложения сегодня. Все равно установить лимит?"</string>
+    <string name="usage_app_limit_alter_summary">Устанавливаемый лимит меньше времени использования приложения сегодня. Все равно установить?</string>
     <string name="usage_app_limit_alter_title">Установка лимита</string>
     <string name="usage_app_limit_prelong">Продлить время</string>
     <string name="usage_app_limit_reach_summay">Осталось %s</string>
     <string name="usage_app_limit_reach_title">Достигнут лимит времени экрана для %s</string>
-    <string name="usage_app_limit_summary">"Выбранные приложения будут недоступны при достижении лимита"</string>
+    <string name="usage_app_limit_summary">Выбранные приложения будут недоступны при достижении лимита</string>
     <string name="usage_app_limit_title">Лимит времени экрана</string>
     <string name="usage_app_other_settings">Дополнительные настройки</string>
-    <string name="usage_app_over_content">"Вы уже использовали это приложение %s сегодня."</string>
-    <string name="usage_app_over_summary">"Вы достигли своего лимита. Время вышло!"</string>
+    <string name="usage_app_over_content">Вы уже использовали это приложение %s сегодня.</string>
+    <string name="usage_app_over_summary">Вы достигли своего лимита. Время вышло!</string>
     <string name="usage_app_set_limit_time">Установка лимита</string>
-    <string name="usage_app_system_app_summary">"Нельзя ограничить время экрана для системных приложений"</string>
+    <string name="usage_app_system_app_summary">Нельзя ограничить время экрана для системных приложений</string>
     <string name="usage_app_weekday_limit">Рабочие дни</string>
     <string name="usage_app_weekend_limit">Выходные дни</string>
     <string name="usage_log">Статистика приложения</string>

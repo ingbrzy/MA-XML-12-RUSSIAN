@@ -19,6 +19,7 @@
   <string name="application_package_introduction">Это приложение позволяет устанавливать сторонние приложения и проверяет их перед установкой.</string>
   <string name="application_permissions">Разрешения приложений</string>
   <string name="back">Назад</string>
+  <string name="backup_introduction">Вы можете использовать это приложение для сохранения резервных копий на устройстве и восстановления из них.</string>
   <string name="calculator_introduction">Вы можете использовать это приложение для расчетов, конвертации единиц и валют, оценки выплат по ипотеке.</string>
   <string name="camera_introduction">Вы можете использовать приложение Камера для съемки фотографий и видео.</string>
   <string name="carrier_introduction">"Для предоставления качественных услуг, устройство может периодически отправлять информацию о версии устройства, идентификационные данные устройства (включая IMEI/IMSI/MSISDN/MAC-адрес, MEID/ICCID) и приблизительную информацию о местоположении (включая идентификатор базовой станции) оператору через Wi-Fi, мобильную сеть передачи данных или бесплатное SMS. Оператор обязуется анализировать соответствующую информацию только для улучшения качества услуг или предоставления индивидуальных услуг или технологий, и не раскрывать соответствующую информацию третьим лицам в любой форме, которая идентифицирует вас лично. Конкретное заявление оператора имеет преимущественную силу. Проконсультируйтесь с вашим оператором относительно стоимости использования этой услуги."</string>
@@ -110,6 +111,8 @@
   <string name="permission_account">Доступ к учетным записям на устройстве:</string>
   <string name="permission_account_introduction">Для входа в Mi Аккаунт</string>
   <string name="permission_application_package_introduction">Для доступа к хранилищу для анализа и сканирования инсталляционных пакетов</string>
+  <string name="permission_backup">Доступ к памяти</string>
+  <string name="permission_backup_introduction">Для управления резервными копиями на устройстве</string>  
   <string name="permission_call_records">Доступ к журналу вызовов:</string>
   <string name="permission_call_records_introduction">Для доступа к журналу звонков для отображения заблокированных элементов</string>
   <string name="permission_call_state_introduction">Для доступа к состоянию телефона и управления записью вызовов</string>
@@ -167,6 +170,7 @@
   <string name="service_agreement">Я прочитал и принимаю условия и положения.</string>
   <string name="service_name_album">Галерея</string>
   <string name="service_name_application_package">Установщик пакетов</string>
+  <string name="service_name_backup">Резервное копирование</string>
   <string name="service_name_calculator">Калькулятор</string>
   <string name="service_name_camera">Камера</string>
   <string name="service_name_carrier">Заявление о сервисах оператора</string>

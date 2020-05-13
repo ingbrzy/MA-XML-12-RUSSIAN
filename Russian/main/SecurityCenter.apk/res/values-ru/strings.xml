@@ -316,7 +316,7 @@
   <string name="app_install_tips_install_success">Установка %1$s завершена</string>
   <string name="app_manager_advanced_setting">Расширенные настройки</string>
   <string name="app_manager_allow">Да</string>
-  <string name="app_manager_anomaly_analysis">Анализировать аномалии приложения</string>
+  <string name="app_manager_anomaly_analysis">Анализ проблем сторонних приложений</string>
   <string name="app_manager_app_ifno_version">Версия приложения</string>
   <string name="app_manager_app_info_label">О приложении</string>
   <string name="app_manager_app_info_name">Имя приложения</string>
@@ -1931,8 +1931,10 @@
   <string name="numeric_recording_intro_header">Введите не менее 4 цифр</string>
   <string name="numeric_retry_button_text">Отмена</string>
   <string name="numeric_settings_help_how_to_record">Как задать PIN-код</string>
-  <string name="ok">OK</string>
-  <string name="ok_button">OK</string>
+  <string name="oaid_reset_content_tip">Если вы отключите виртуальный ID, некоторые приложения могут перестать работать должным образом, некоторые данные приложений могут быть потеряны или стать непригодными для использования.</string>
+  <string name="oaid_reset_final_tip">Отключить виртуальный ID ?</string>  
+  <string name="ok">ОК</string>
+  <string name="ok_button">ОК</string>
   <string name="old_sdk_deny_warning">Это приложение было разработано для более ранней версии Android. Отзыв разрешения может вызвать неполадки в его работе.</string>
   <string name="om_lock_app_locked_app">Закрепленные</string>
   <string name="om_lock_app_unlocked_app">Не закрепленные</string>
