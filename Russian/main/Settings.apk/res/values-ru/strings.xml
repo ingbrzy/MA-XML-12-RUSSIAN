@@ -345,8 +345,8 @@
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="allow_oaid_used">Использовать виртуальный ID</string>
-    <string name="allow_oaid_used_desc">Приложения не смогут получить доступ к любому идентификатору, если вы явно не разрешите им это сделать. Некоторые функции персональных рекомендаций могут работать неправильно, если эта функция включена.</string>
-    <string name="allow_overlay_description">Элементы интерфейса будут отображаться поверх других окон. Это может мешать вашей работе с приложениями или искажать их интерфейс.</string>
+    <string name="allow_oaid_used_desc">MIUI не будет предоставлять виртуальный ID (OAID) установленным приложениям. Некоторые функции, связанные с персонализированными рекомендациями могут работать неправильно.</string>
+    <string name="allow_overlay_description">Элементы интерфейса будут отображаться поверх других окон. Это может мешать работе с приложениями или искажать их интерфейс.</string>
     <string name="allow_sound_title">Звук</string>
     <string name="allow_vibrate_title">Вибрация</string>
     <string name="alpha_build">Альфа</string>
@@ -2004,7 +2004,7 @@
     <string name="device_name_input_overlength">Слишком длинное имя устройства</string>
     <string name="device_name_usage_point">Другие устройства поблизости увидят это имя</string>
     <string name="device_oaid">ID устройства</string>
-    <string name="device_oaid_desc">Вместо вашего реального идентификатора MIUI предоставит сторонним приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваши действия и предпочтения, а также защищает вашу конфиденциальность.</string>
+    <string name="device_oaid_desc">Вместо уникального идентификатора MIUI предоставит установленным приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваши действия и предпочтения, а также защищает вашу конфиденциальность.</string>
     <string name="device_oaid_title">Виртуальный ID</string>
     <string name="device_of_someone">%1$s  %2$s</string>
     <string name="device_picker">Выбрать устройство Bluetooth</string>
