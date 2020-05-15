@@ -25,8 +25,11 @@
     <string name="agenda_assistant_payment_day">День платежа</string>
     <string name="agenda_assistant_repayment_day">День платежа</string>
     <string name="agenda_assistant_tail_num">Номер</string>
+    <string name="agenda_i_known">Понятно</string>
+    <string name="agenda_need_install_alipay">Установите Alipay перед использованием этой функции.</string>
     <string name="agenda_no_title">(Без имени)</string>
     <string name="agenda_open">Включите напоминания повестки дня</string>
+    <string name="agenda_pay_is_not_available">Alipay не доступен</string>
     <string name="agenda_setting_brief">Мероприятия, напоминания и прочее</string>
     <string name="agenda_setting_brief_detail">Просмотр запланированных мероприятий, получение напоминаний.</string>
     <string name="agenda_settings_account">Управление аккаунтами календаря</string>
@@ -45,6 +48,16 @@
     <string name="alipay_net_error">Нет соединения с сервером, повторить попытку?</string>
     <string name="alipay_processing">Загрузка</string>
     <string name="alipay_redo">Попробовать еще раз</string>
+    <string name="alipay_scan">Сканер</string>
+    <string name="alipay_sdk_minute_refresh">Обновлять каждую минуту</string>
+    <string name="alipay_sdk_open_alipay">Открыть Alipay</string>
+    <string name="alipay_sdk_open_extra_money">Получить бонус</string>
+    <string name="alipay_sdk_payed_desc">Изначальная цена: %1$s CNY | экономия %2$s CNY</string>
+    <string name="alipay_sdk_payed_finished">Платеж успешно завершен</string>
+    <string name="alipay_sdk_payed_rmb">CNY</string>
+    <string name="alipay_sdk_payed_show_paycode">Посмотреть код</string>
+    <string name="alipay_sdk_payed_success">Оплачено успешно</string>
+    <string name="alipay_sdk_tiemout">Сессия истекла. Войдите снова.</string>
     <string name="all_function_title">Все ярлыки</string>
     <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="already">Завершено:</string>
@@ -83,6 +96,7 @@
     <string name="app_suggest_setting_brief_detail">Получать рекомендации для приложений и функций, которыми вы можете воспользоваться</string>
     <string name="app_suggest_setting_title">Умные рекомендации</string>
     <string name="app_version_name">"Версия: "</string>
+    <string name="apps">Предложения приложений</string>
     <string name="apps_label">Приложения</string>
     <string name="arr_airport">Аэропорт назначения</string>
     <string name="arr_airport_example">Например Shanghai Pudong T2</string>
@@ -103,6 +117,8 @@
     <string name="ball_dialog_title">Сначала установите приложение.</string>
     <string name="ball_football_recent_ing">В процессе</string>
     <string name="battery_history">Батарея</string>
+    <string name="beijing">Пекин</string>
+    <string name="bicycle">Велосипед</string>
     <string name="bl_open_failed">Не удалось подключить Браслет, Вы можете кликнуть на другой Браслет и повторить попытку</string>
     <string name="bl_open_failed_exit">Не удалось подключить Браслет</string>
     <string name="bl_validate_failed_change_pwd">Не удалось проверить Браслет, используйте пароль для платежа</string>
@@ -149,6 +165,7 @@
     <string name="calc_parent">Калькулятор</string>
     <string name="calendar_name">Создать</string>
     <string name="calendar_parent">Календарь</string>
+    <string name="call">Вызов</string>
     <string name="card_agenda_settings">Настройки</string>
     <string name="card_already_fly">Снять</string>
     <string name="card_book_all">Все бронирования</string>
@@ -317,7 +334,10 @@
     <string name="disclaimer_content">Эта функция предоставлена %1$s. %1$s несет всю ответственность за предоставляемые услуги. Вы можете связаться с %1$s если есть какие-либо вопросы.</string>
     <string name="disclaimer_title">Отказ от ответственности</string>
     <string name="display_weather_default">Нажмите для получения информации о погоде</string>
+    <string name="drive">Управлять</string>
     <string name="dummy_tip">Поместите банковскую карту лицевой стороной к этому полю и попытайтесь не выходить за края.</string>
+    <string name="duokan_open">Добавить карту Duokan</string>
+    <string name="duokan_setting_brief">Продолжайте читать с места, где вы остановились.</string>
     <string name="edit_amount_hint">Введите сумму</string>
     <string name="edit_category_dialog_title">Выберите категорию платежа</string>
     <string name="edit_comment_hint">Заметка</string>
@@ -326,6 +346,12 @@
     <string name="empty_card_btn">Открыть приложение</string>
     <string name="empty_card_tip">"Похоже, вы еще не вошли в систему или не настроили эту карту."</string>
     <string name="empty_card_title">Нет данных</string>
+    <string name="empty_duokan_card_btn">Посмотреть книги</string>
+    <string name="empty_duokan_card_tip">Похоже, вы сейчас ничего не читаете</string>
+    <string name="empty_duokan_card_title">Нет данных</string>
+    <string name="empty_express_btn">Все пакеты</string>
+    <string name="empty_express_btn2">Добавить вручную</string>
+    <string name="empty_express_tip">Нет данных экспресс-доставки.</string>
     <string name="empty_fav_card_btn">Все избранное</string>
     <string name="empty_fav_card_tip">Ничего нет</string>
     <string name="empty_health_card_btn">Подключить Mi Band</string>
@@ -456,7 +482,8 @@
     <string name="express_select_addressee">В</string>
     <string name="express_select_city">Выберите город</string>
     <string name="express_select_sender">Из</string>
-    <string name="express_send">Грузиться</string>
+    <string name="express_send">Погрузить</string>
+    <string name="express_send_history">история доставки &gt;</string>
     <string name="express_send_mms">Отправить</string>
     <string name="express_send_mms_format">Посылка доставлена %1$s | Номер отслеживания: %2$s</string>
     <string name="express_send_notice">Запрещенные предметы</string>

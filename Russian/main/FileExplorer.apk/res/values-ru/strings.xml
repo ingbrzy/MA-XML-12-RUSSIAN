@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
-    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_bar_home_description">Перейти домой</string>
+    <string name="abc_action_bar_up_description">Перейти выше</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
@@ -33,6 +33,7 @@
     <string name="add_private">Скрыть файлы</string>
     <string name="add_private_files">Добавить файлы</string>
     <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
+    <string name="app_all_purpose">Добро пожаловать в файловый менеджер! Вы можете использовать это приложение для управления файлами, хранящимися на вашем устройстве.</string>
     <string name="app_function">Управление файлами на вашем устройстве</string>
     <string name="app_name">Проводник</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -46,6 +47,14 @@
     <string name="app_name_miuiringtone">Рингтоны</string>
     <string name="app_name_miuiwallpaper">Обои</string>
     <string name="app_name_screenshot">Скриншоты</string>
+    <string name="backup_cancel">Не создавать резервные копии</string>
+    <string name="backup_checkbox_msg">Создавать резервные копии автоматически</string>
+    <string name="backup_confirm">Создать резервную копию сейчас</string>
+    <string name="backup_success_cancel">OK</string>
+    <string name="backup_success_confirm">Просмотр</string>
+    <string name="backup_success_message">Резервное копирование на %1$s</string>
+    <string name="backup_success_title">Готово</string>
+    <string name="backup_title">Сделать резервную копию видео чата?</string>
     <string name="big5_summary">Традиционная китайская кодировка Windows по умолчанию</string>
     <string name="byteShort">Б</string>
     <string name="can_not_send_with_too_many">Слишком много объектов для отправки</string>
@@ -155,6 +164,8 @@
     <string name="dialog_type_video">Видео</string>
     <string name="disk_available">Свободно: </string>
     <string name="disk_total">Всего: </string>
+    <string name="doc_all">Все</string>
+    <string name="downloading">Загрузка</string>
     <string name="enable_documentsui">Для включения %s перейдите в Настройки &gt; Все приложения</string>
     <string name="enable_sd_card">SD карта повреждена или отключена</string>
     <string name="enable_usb">USB устройство повреждено или отключено</string>
@@ -205,6 +216,7 @@
     <string name="file_info_size">Размер: </string>
     <string name="file_loading">Подождите…</string>
     <string name="file_name_invalid">В имени файла не может быть следующих символов: /\\:*?&lt;&gt;</string>
+    <string name="file_not_exist">Файл не существует</string>
     <string name="folder_name_empty">Имя папки не может быть пустым</string>
     <string name="folder_name_illegal">Недопустимое имя папки</string>
     <string name="found_router">Обнаружен совместимый роутер</string>
@@ -273,6 +285,7 @@
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_midrop">Передача файлов</string>
     <string name="menu_item_router">Роутер</string>
+    <string name="menu_item_search">Поиск</string>
     <string name="menu_item_sort">Сортировка</string>
     <string name="menu_item_sort_add_time">"По дате добавления "</string>
     <string name="menu_item_sort_by_added_time">По дате добавления</string>
@@ -361,6 +374,8 @@
     <string name="operation_show_sys">Показывать скрытые файлы</string>
     <string name="operation_unfavorite">Удалить из избранных</string>
     <string name="optional_change_wifi">Для удаленного управления файлами через Wi-Fi</string>
+    <string name="otg_file_security_confirm">скопировать на телефон</string>
+    <string name="otg_file_security_details">Пожалуйста, скопируйте на телефон</string>
     <string name="overwrite_msg">\"%s\" уже существует. Нажмите для замены.</string>
     <string name="pad">Внутренняя память</string>
     <string name="partial_cancel_successful">Не удалось скрыть некоторые файлы. Остальные перемещены в %s.</string>
@@ -385,6 +400,7 @@
     <string name="phone_storage_zip_title">Архивы: </string>
     <string name="pick_file">Выберите файлы</string>
     <string name="pick_folder">Выберите папку</string>
+    <string name="port_range">Порт должен быть между 1024–65535</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="private_files">Скрытые</string>
@@ -424,7 +440,8 @@
     <string name="search_file_type_music">Музыка</string>
     <string name="search_file_type_picture">Фото</string>
     <string name="search_file_type_video">Видео</string>
-    <string name="search_hint">Введите часть или все имя файла</string>
+    <string name="search_guid_hint">Поиск файлов</string>
+    <string name="search_hint">Поиск</string>
     <string name="search_keyword">Метки</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_result">Результаты</string>
@@ -435,6 +452,7 @@
     <string name="select_image">Фото</string>
     <string name="select_music">Аудио</string>
     <string name="select_video">Видео</string>
+    <string name="select_volume">Выберите объем</string>
     <string name="server_control_advanced_settings">Настройки FTP</string>
     <string name="server_control_charset">ШИФРОВАНИЕ</string>
     <string name="server_control_settings">Настройки</string>
@@ -480,12 +498,14 @@
     <string name="title_recent">Недавние</string>
     <string name="title_select_volume">Выберите папку</string>
     <string name="toast_file_not_can_read">Нет приложения для открытия этого файла</string>
+    <string name="tools">ИНСТРУМЕНТЫ</string>
     <string name="transfer_done">Файлы перемещены.</string>
     <string name="transfer_private_data">Перемещение скрытых папок с SD карты…</string>
     <string name="type_not_support">Формат файла не поддерживается. Распакуйте и повторите попытку.</string>
     <string name="ui_main_toast_favorite_added">Добавлено в избранные</string>
     <string name="ui_main_toast_favorite_removed">Удалено из избранных</string>
     <string name="ui_main_toast_operation_failed">Ошибка удаления %1$s из избранных</string>
+    <string name="unknown_error">Произошла неизвестная ошибка. Подождите минуту или две и попробуйте снова.</string>
     <string name="unlock_pattern_msg">Пароль защиты личных данных также защищает фотографии и сообщения.</string>
     <string name="unlock_pattern_title">Новый пароль</string>
     <string name="upload_user_photo">Отправить</string>
