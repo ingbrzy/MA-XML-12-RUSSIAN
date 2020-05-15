@@ -112,6 +112,8 @@
     <string name="accessibility_left_lock_screen_magazine_button">Карусель обоев</string>
     <string name="accessibility_location_active">Есть активные запросы на определение местоположения</string>
     <string name="accessibility_managed_profile">Рабочий профиль</string>
+    <string name="accessibility_manual_zen_less_time">Меньше времени.</string>
+    <string name="accessibility_manual_zen_more_time">Больше времени.</string>
     <string name="accessibility_menu">Меню</string>
     <string name="accessibility_menu_item_split_disable">Приложение не поддерживает разделение экрана.</string>
     <string name="accessibility_menu_item_split_enable">Приложение поддерживает разделение экрана</string>
@@ -257,6 +259,8 @@
     <string name="accessibility_wifi_name">Подключено к %s.</string>
     <string name="accessibility_wifi_off">Wi-Fi выключен.</string>
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление.</string>
+    <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
+    <string name="accessibility_wifi_security_type_secured">Защищённая сеть</string>
     <string name="accessibility_wifi_signal_full">Надежный сигнал Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Сигнал Wi-Fi: три деления.</string>
     <string name="accessibility_wifi_two_bars">Сигнал Wi-Fi: два деления.</string>
@@ -302,6 +306,7 @@
     <string name="audio_effect_settings">Тип наушников</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навигации отключены, для включения дважды нажмите на любую из них</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навигации включены</string>
+    <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
     <string name="back">Назад</string>
     <string name="band_24G">" (2,4 ГГц)"</string>
@@ -345,6 +350,7 @@
     <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R: %2$</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
     <string name="bluetooth_battery_level">батарея %1$s</string>
+    <string name="bluetooth_battery_level_untethered">Л: %1$s батареи, П: %2$s батареи</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
@@ -365,6 +371,12 @@
     <string name="bluetooth_enable_inband_ringing_summary">Разрешить воспроизведение рингтонов с телефона через Bluetooth</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
+    <string name="bluetooth_hearing_aid_profile_summary_connected">Connected to hearing aid</string>
+    <string name="bluetooth_hearing_aid_profile_summary_use_for">Используется для слухового аппарата</string>
+    <string name="bluetooth_hearingaid_left_battery_level">Левый - %1$s батареи</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">Подключение левого слухового аппарата…</string>
+    <string name="bluetooth_hearingaid_right_battery_level">Правый - %1$s батареи</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">Подключение правого слухового аппарата…</string>
     <string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
     <string name="bluetooth_map_profile_summary_connected">Доступ к сообщениям</string>
@@ -390,6 +402,7 @@
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD Audio</string>
     <string name="bluetooth_profile_dun">Коммутируемый доступ к сети</string>
     <string name="bluetooth_profile_headset">Аудиоустройство телефона</string>
+    <string name="bluetooth_profile_hearing_aid">Слуховой аппарат</string>
     <string name="bluetooth_profile_hid">Устройство ввода</string>
     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
     <string name="bluetooth_profile_opp">Передача файлов</string>
@@ -417,6 +430,15 @@
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Аудиокодек для Bluetooth</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Выберите версию Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Версия Bluetooth AVRCP</string>
+    <string name="bluetooth_show_devices_without_names">Показывать устройства Bluetooth без имен</string>
+    <string name="bluetooth_show_devices_without_names_summary">Устройства Bluetooth без имен (только MAC-адреса) будут отображаться</string>
+    <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+    <string name="bluetooth_talkback_computer">Компьтер</string>
+    <string name="bluetooth_talkback_headphone">Наушники</string>
+    <string name="bluetooth_talkback_headset">Гарнитура</string>
+    <string name="bluetooth_talkback_imaging">Камера</string>
+    <string name="bluetooth_talkback_input_peripheral">Периферийное устройство ввода</string>
+    <string name="bluetooth_talkback_phone">Телефон</string>
     <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
     <string name="branded_monitoring_description_app_personal">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="branded_vpn_footer">Действия в сети могут отслеживаться</string>
@@ -464,6 +486,7 @@
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_length_format">%1$s назад</string>
     <string name="chip_text">Текст</string>
+    <string name="chooseUsbActivity">Выберите приложение для устройства USB</string>
     <string name="choose_clock_panel_title">Экран блокировки</string>
     <string name="choose_clock_third_theme_hint_text">Используется экран блокировки из текущей темы</string>
     <string name="choose_clock_title_left_top">Слева</string>
@@ -484,15 +507,18 @@
     <string name="clock_seconds_desc">Показывать в строке состояния время с точностью до секунды (заряд батареи может расходоваться быстрее)</string>
     <string name="compat_mode_off">Растянуть на весь экран</string>
     <string name="compat_mode_on">Подогнать по размерам экрана</string>
+    <string name="config_navBarLayout">налево,назад;домой;недавние,направо</string>
     <string name="confirm">Понятно</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
     <string name="confirm_pin_msg">Введите PIN-код повторно</string>
     <string name="connected_via_app">Подключено через %1$s</string>
+    <string name="connected_via_carrier">Подключено через %1$s</string>
     <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="content_description_menu_button">Меню</string>
+    <string name="control_quick_settings_tiles_super_save">gps,nfc,скриншот,вибрация</string>
     <string name="convert_to_fbe_warning">"Переход к шифрованию отдельных файлов.
 !!Внимание!! Все ваши данные будут удалены.
 Это пробная версия функции. Возможны ошибки.
@@ -540,6 +566,7 @@
     <string name="debug_networking_category">Сети</string>
     <string name="debug_view_attributes">Включить проверку атрибутов</string>
     <string name="default_lockscreen_unlock_hint_text">Проведите вверх для разблокировки</string>
+    <string name="default_theme">Стандартная</string>
     <string name="delete">Удалить</string>
     <string name="demo_mode">Деморежим</string>
     <string name="description_direction_left">Влево для %s</string>
@@ -606,11 +633,14 @@
     <string name="enable_demo_mode">Включить деморежим</string>
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить поддержку экспериментальных окон произвольной формы</string>
+    <string name="enable_gpu_debug_layers">Включить отладочные слои GPU</string>
+    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку слоев отладки графического процессора для приложений отладки</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enabled_by_admin">Включено администратором</string>
     <string name="ethernet_label">Ethernet</string>
+    <string name="expand_button_title">Ещё</string>
     <string name="expanded_header_battery_charged">Заряжена</string>
     <string name="expanded_header_battery_charging">Заряжается</string>
     <string name="expanded_header_battery_charging_with_time">%s до окончания</string>
@@ -766,8 +796,12 @@
     <string name="gxzw_quick_close">Закрыть</string>
     <string name="gxzw_quick_open_add_event">Добавить событие</string>
     <string name="gxzw_quick_open_add_event_sub">Календарь</string>
+    <string name="gxzw_quick_open_add_note">Добавить заметку</string>
+    <string name="gxzw_quick_open_add_note_sub">Заметки</string>
     <string name="gxzw_quick_open_alipay_pay">Код оплаты</string>
     <string name="gxzw_quick_open_alipay_scan">Сканер</string>
+    <string name="gxzw_quick_open_dialer">Dialer</string>
+    <string name="gxzw_quick_open_dialer_sub">Телефон</string>
     <string name="gxzw_quick_open_qr_code">QR-код</string>
     <string name="gxzw_quick_open_qr_code_sub">Сканер</string>
     <string name="gxzw_quick_open_search">Поиск</string>
@@ -813,6 +847,9 @@
     <string name="immediately_destroy_activities">Не хранить activities</string>
     <string name="immediately_destroy_activities_summary">Уничтожать activities после их завершения</string>
     <string name="important_desc">Все важные уведомления будут появляться в шторке уведомлений.</string>
+    <string name="ims_reg_status_not_registered">Не зарегистрирован</string>
+    <string name="ims_reg_status_registered">Зарегистрирован</string>
+    <string name="ims_reg_title">Состояние регистрации IMS</string>
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
@@ -1107,6 +1144,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
+    <string name="mland">Зефирная земля</string>
     <string name="mobile_data">Интернет</string>
     <string name="mobile_data_always_on">Не отключать мобильный интернет</string>
     <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi (для быстрого переключения между сетями)</string>
@@ -1220,6 +1258,7 @@
     <string name="no_bubbles">Запретить</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
+    <string name="no_tiles_add">Нет плитки для добавления</string>
     <string name="no_weather_description">Получить информацию о погоде &gt;</string>
     <string name="not_set">Не задано</string>
     <string name="not_support_multi_window">Приложение не поддерживает разделение экрана</string>
@@ -1386,6 +1425,11 @@
     <string name="power_suggestion_extend_battery">Продлите время работы батареи на %1$s</string>
     <string name="pref_show_lunar_calendar_title">Традиционный китайский календарь на экране блокировки</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
+    <string name="private_dns_mode_off">Выкл.</string>
+    <string name="private_dns_mode_opportunistic">Автоматически</string>
+    <string name="private_dns_mode_provider">Имя хоста частного DNS-провайдера</string>
+    <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
+    <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста провайдера DNS</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
     <string name="prompt_danger">Угроза</string>
     <string name="prompt_detecting">Обнаружение</string>
@@ -1406,6 +1450,10 @@
     <string name="qs_control_customize_title">Добавленные</string>
     <string name="qs_control_expand_detail_title">Мои данные</string>
     <string name="qs_control_header_tiles_title">Центр управления</string>
+    <string name="qs_customize">Разрешить долгое нажатие для настройки меню быстрых настроек</string>
+    <string name="qs_customize_info">Информация</string>
+    <string name="qs_customize_remove">Удалить</string>
+    <string name="qs_customize_title">Изменить</string>
     <string name="qs_customize_title">Сортировка</string>
     <string name="qs_dnd_keep">Оставить</string>
     <string name="qs_dnd_prompt_app">Режим \"Не беспокоить\" был включен приложением (%s).</string>
@@ -1415,6 +1463,7 @@
     <string name="qs_dnd_until">До %s</string>
     <string name="qs_edit">Сортировка</string>
     <string name="qs_open_night_mode_alert_summary">"Некоторые настройки дисплея не совместимы с Темным режимом. Тем не менее, они будут восстановлены после отключения Темного режима."</string>
+    <string name="qs_paging">Использовать новые быстрые настройки</string>
     <string name="qs_rearrange">Изменить порядок Быстрых настроек</string>
     <string name="quick_settings">Быстрые настройки</string>
     <string name="quick_settings_autobrightness_label">Автояркость</string>
@@ -1577,6 +1626,7 @@
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="remove_from_settings">Удалить из Настроек</string>
     <string name="remove_from_settings_prompt">Убрать функцию System UI Tuner из меню настроек и прекратить ее работу?</string>
+    <string name="report_rejected_touch">Сообщить об отклоненной связи</string>
     <string name="reset">Сбросить</string>
     <string name="retail_demo_reset_message">Для сброса настроек в деморежиме введите пароль.</string>
     <string name="retail_demo_reset_next">Далее</string>
@@ -1681,8 +1731,15 @@
     <string name="sos_status_bar_summary">Нажмите для выхода</string>
     <string name="sos_status_bar_title">SOS</string>
     <string name="speed_bump_explanation">Показать менее важные уведомления</string>
-    <string name="ssl_ca_cert_warning">"Действия в сети
-могут отслеживаться"</string>
+    <string name="speed_label_fast">Быстро</string>
+    <string name="speed_label_medium">Средне</string>
+    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_slow">Медленно</string>
+    <string name="speed_label_very_fast">Очень быстро</string>
+    <string name="speed_label_very_slow">Очень медленно</string>
+    <string name="ssl_ca_cert_warning">Действия в сети
+могут отслеживаться</string>
+    <string name="standby_bucket_summary">Приложение в режиме ожидания: %s</string>
     <string name="start_dreams">Заставка</string>
     <string name="status_bar">Строка состояния</string>
     <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
@@ -1736,6 +1793,7 @@ d MMMM"</string>
     <string name="status_bar_style_settings">Уведомления</string>
     <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
     <string name="status_bar_work">Рабочий профиль</string>
+    <string name="status_unavailable">Недоступен</string>
     <string name="stream_accessibility">Спец. возможности</string>
     <string name="stream_alarm">Будильник</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
@@ -1744,6 +1802,8 @@ d MMMM"</string>
     <string name="stream_notification">Уведомления</string>
     <string name="stream_ring">Звонок</string>
     <string name="stream_system">Система</string>
+    <string name="stream_system_enforced">Система защищена</string>
+    <string name="stream_tts">Передано через динамик</string>
     <string name="stream_voice_assist">Голосовой Помощник</string>
     <string name="stream_voice_call">Вызов</string>
     <string name="strict_mode">Строгий режим</string>
@@ -1813,6 +1873,8 @@ d MMMM"</string>
     <string name="tether_settings_title_usb">USB-модем</string>
     <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
     <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
+    <string name="tethering_hardware_offload">Модернизация аппаратного ускорения</string>
+    <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение при возможности</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
     <string name="thermal_shutdown_dialog_message">"Ваш телефон выключился из-за перегрева. Сейчас он работает нормально.
 
@@ -1862,6 +1924,8 @@ d MMMM"</string>
     <string name="tts_status_title">Язык по умолчанию</string>
     <string name="tuner_app">Приложение %1$s</string>
     <string name="tuner_circle">Круг</string>
+    <string name="tuner_doze">Активный экран</string>
+    <string name="tuner_doze_always_on">Всегда включен</string>
     <string name="tuner_full_importance_settings">Расширенное управление уведомлениями</string>
     <string name="tuner_full_importance_settings_off">Откл</string>
     <string name="tuner_full_importance_settings_on">Вкл</string>
@@ -1946,6 +2010,8 @@ d MMMM"</string>
     <string name="user_remove_user_message">Все приложения и данные этого пользователя будут удалены.</string>
     <string name="user_remove_user_remove">Удалить</string>
     <string name="user_remove_user_title">Удалить пользователя?</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_apps_over_usb_summary">Выполнять проверку безопасности приложений при установке через ADB/ADT</string>
     <string name="verify_apps_over_usb_title">Проверять приложения при установке</string>
     <string name="voice_assist_label">Открыть Голосовой помощник</string>
@@ -1959,6 +2025,12 @@ d MMMM"</string>
     <string name="volume_stream_content_description_unmute">%1$s. Нажмите, чтобы включить звук.</string>
     <string name="volume_stream_content_description_vibrate">%1$s. Нажмите, чтобы включить вибрацию. Специальные возможности могут прекратить работу.</string>
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Нажмите, чтобы включить вибрацию.</string>
+    <string name="volume_stream_limited_dnd">%s — Только приоритетные</string>
+    <string name="volume_stream_muted">%s бесшумный</string>
+    <string name="volume_stream_muted_dnd">%s бесшумный - полная тишина</string>
+    <string name="volume_stream_suppressed">%1$s бесшуный — %2$s</string>
+    <string name="volume_stream_vibrate">%s вибрация</string>
+    <string name="volume_stream_vibrate_dnd">%s вибрация — Только приоритетные</string>
     <string name="volume_up_silent">Отключать режим \"Не беспокоить\" при увеличении громкости</string>
     <string name="volume_zen_end_now">Отключить</string>
     <string name="vpn_footer">Действия в сети могут отслеживаться</string>
@@ -1970,6 +2042,31 @@ d MMMM"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
+    <string name="wapi_all_sel_mode">Выбрать</string>
+    <string name="wapi_auto_sel_cert">Выбрать автоматически</string>
+    <string name="wapi_auto_sel_cert_fail">Невозможно выбрать сертификаты автоматически. Выберите сертификат из списка, а затем попробуйте подключиться.</string>
+    <string name="wapi_cert_is_not_exist">Нет доступных сертификатов. Сначала добавьте один.</string>
+    <string name="wapi_cert_is_not_selected">Сначала выберите сертификат</string>
+    <string name="wapi_cert_manage_error">Не удалось установить сертификат WAPI.</string>
+    <string name="wapi_cert_manage_summary">Добавить или удалить сертификат WAPI</string>
+    <string name="wapi_cert_manage_title">Управление сертификатами WAPI</string>
+    <string name="wapi_cert_roaming">Подключение…</string>
+    <string name="wapi_cert_select">WAPI сертификат</string>
+    <string name="wapi_no">Нет</string>
+    <string name="wapi_no_vaild_cert">Похоже, необходимые сертификаты не установлены. Установить сейчас?</string>
+    <string name="wapi_password_empty">Введите пароль</string>
+    <string name="wapi_password_hex_format_add">Вы должны использовать четное число шестнадцатеричных символов</string>
+    <string name="wapi_password_hex_format_invalid">Неверный формат пароля</string>
+    <string name="wapi_password_hex_length_invalid">Количество шестнадцатеричных символов должно быть четным числом</string>
+    <string name="wapi_password_is_empty">Пароль не может быть пустым</string>
+    <string name="wapi_password_is_not_hex_format">Неверные шестнадцатеричные символы</string>
+    <string name="wapi_password_length_invalid">Пароль должен быть от 8 до 64 символов</string>
+    <string name="wapi_password_length_is_max">Пароль может быть длиной до 64 символов</string>
+    <string name="wapi_password_length_is_min">Пароль должен содержать не менее 8 символов</string>
+    <string name="wapi_password_length_is_min_to_max">Пароль должен содержать 8-64 символа</string>
+    <string name="wapi_psk_type">Тип пароля</string>
+    <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
+    <string name="wapi_yes">Да</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
@@ -1989,8 +2086,10 @@ d MMMM"</string>
     <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
+    <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
     <string name="wifi_is_off">Wi-Fi отключен</string>
     <string name="wifi_limited_connection">Подключение к сети ограничено</string>
+    <string name="wifi_metered_label">Измерено</string>
     <string name="wifi_no_internet">Нет подключения к интернету</string>
     <string name="wifi_no_internet_no_reconnect">Нет подключения к интернету</string>
     <string name="wifi_not_in_range">Недоступно</string>
@@ -2020,12 +2119,26 @@ d MMMM"</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+    <string name="wifi_security_wapi_psk_hexadecimal">Шестнадцатеричный</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA-Personal</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
     <string name="wifi_security_wpa2">WPA2-Personal</string>
+    <string name="wifi_ssid_is_empty">SSID не может быть пустым</string>
+    <string name="wifi_ssid_length_is_max">SSID может быть длиной до 32 символов</string>
+    <string name="wifi_status_mac_randomized">MAC случаен</string>
+    <string name="wifi_status_no_internet">Без интернета</string>
+    <string name="wifi_status_sign_in_required">Требуется войти</string>
+    <string name="wifi_unmetered_label">Неизмерен</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi‑Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi‑Fi указывать в журнале RSSI для каждого SSID</string>
+    <string name="wifi_wapi_as_certificate">AS сертификат</string>
+    <string name="wifi_wapi_cert_mode_hand_text">Выбрать вручную</string>
+    <string name="wifi_wapi_certification_dont_exist">Введенный вами сетевой пароль неверен.</string>
+    <string name="wifi_wapi_fail_to_auth">Не удалось завершить аутентификацию WAPI.Убедитесь, что ваши сертификаты действительны.</string>
+    <string name="wifi_wapi_fail_to_init">Не получается открыть сертификаты WAPI.  Похоже, хранилище учетных данных не включено.</string>
+    <string name="wifi_wapi_psk_type">Тип пароля</string>
+    <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
     <string name="window_animation_scale_title">Анимация окон</string>
     <string name="wireless_change_to_ac_charging">Переключено на зарядку от сети</string>
     <string name="wireless_charge_current">Зарядка</string>
@@ -2039,6 +2152,7 @@ d MMMM"</string>
     <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключен.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник %1$s. Чтобы услышать сигнал, включите звук.</string>
     <string name="zen_alarms_introduction">Вас не будут отвлекать звуки и вибрация, за исключением сигналов будильника. Вы по-прежнему будете слышать включенную вами музыку, видео и игры.</string>
+    <string name="zen_interruption_level_priority">Только приоритетные</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Всегда спрашивать</string>
     <string name="zen_mode_duration_settings_title">Длительность</string>
