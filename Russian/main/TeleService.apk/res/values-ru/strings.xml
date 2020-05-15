@@ -770,6 +770,8 @@
   <string name="fiveg_bearer_status1">Статус носителя 5G :</string>
   <string name="fiveg_endc_available1">Доступность NR ENDC :</string>
   <string name="fiveg_endc_status1">Статус ENDC :</string>
+  <string name="fiveg_hosted_mode_summary">Автопереключение на лучшие доступные сети при плохом 5G</string>
+  <string name="fiveg_hosted_mode_title">Умное переключение 5G</string>  
   <string name="fiveg_icon_type1">Тип значка NR :</string>
   <string name="fiveg_infos">Сведения о 5G</string>
   <string name="fiveg_network_config_type1">Тип конфигурации сети :</string>
@@ -1142,7 +1144,7 @@
   <string name="not_allowed">Ваша SIM-карта не поддерживает подключение к этой сети</string>
   <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
   <string name="notification_channel_demo">Демонстрационное устройство</string>
-  <string name="notification_demo_version_text">Вызовы или использование мобильных данных недоступны</string>
+  <string name="notification_demo_version_text">Вызовы и мобильный интернет недоступны</string>
   <string name="notification_demo_version_title">Это демонстрационное устройство</string>
   <string name="notification_network_selection_text">Выбранная сеть (%s) недоступна</string>
   <string name="notification_network_selection_title">Нет сети</string>
