@@ -2007,7 +2007,7 @@
     <string name="device_oaid_desc">Вместо уникального идентификатора MIUI предоставит установленным приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваши действия и предпочтения, а также защищает вашу конфиденциальность.</string>
     <string name="device_oaid_title">Виртуальный ID</string>
     <string name="device_of_someone">%1$s  %2$s</string>
-    <string name="device_picker">Выбрать устройство Bluetooth</string>
+    <string name="device_picker">Выберите устройство</string>
     <string name="device_rear_camera">Основная камера</string>
     <string name="device_screen_resolution">Разрешение экрана</string>
     <string name="device_screen_size">Экран</string>
@@ -2671,19 +2671,22 @@
     <string name="free_wifi_user_agreement_title">Предупреждение</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">Подключиться к сети \"%1$s\"</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_summary">Нажмите и удерживайте панель действий плавающего окна, затем потяните вниз</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Потяните панель действий плавающего окна вниз</string>
     <string name="freeform_guide_drop_down_to_fullscreen_title">Полноэкранный режим</string>
-    <string name="freeform_guide_move_summary">Нажмите и удерживайте панель действий плавающего окна для перемещения</string>
+    <string name="freeform_guide_move_summary">Используйте заголовок плавающего окна для перемещения</string>
     <string name="freeform_guide_move_title">Перемещение</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Перетащите плавающее окно в угол экрана</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание</string>
-    <string name="freeform_guide_notification_drop_down_summary">Нажмите и удерживайте панель действий уведомления, затем потяните вниз</string>
+    <string name="freeform_guide_notification_drop_down_summary">Потяните панель действий уведомления вниз</string>
     <string name="freeform_guide_notification_drop_down_title">Открытие</string>
     <string name="freeform_guide_settings">Плавающие окна</string>
-    <string name="freeform_guide_slide_up_to_close_summary">Нажмите и удерживайте панель действий плавающего окна, затем проведите вверх</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
-    <string name="freeform_vedio_description">"·Нажмите и удерживайте уведомление, затем потяните вниз, чтобы открыть его в плавающем окне.
-·Нажмите \"Плавающие окна\" в Недавних для выбора приложений."</string>
+    <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
+	
+• Потяните вниз панель действий всплывающего уведомления.
+• Нажмите кнопку \"Плавающие окна\" в Недавних приложениях для выбора приложения.
+• Зажмите миниатюру приложения в Недавних приложениях и нажмите значок \"Плавающего окна\"."</string>
     <string name="frequently_fragment_delete">Удалить</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
     <string name="fsg_mistake_touch_summary">В некоторых случаях, например, в полноэкранных играх и видео, жесты будет необходимо повторять дважды</string>
