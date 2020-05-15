@@ -34,6 +34,7 @@
   <string name="actionbar_button_up_description">Назад</string>  
   <string name="activity_not_found">Нет приложения для выполнения этого действия</string>
   <string name="activity_not_found_uri">Нет приложения для выполнения этого действия</string>
+  <string name="addBlackList">Заблокировать</string>
   <string name="add_attachment">Вложение</string>
   <string name="add_contact">vCard</string>
   <string name="add_miui_contact">Контакт</string>
@@ -56,6 +57,8 @@
   <string name="afternoon">После полудня</string>
   <string name="alert_dlg_cancel_button">Отмена</string>
   <string name="alert_dlg_ok_button">OK</string>
+  <string name="allow_network_hint">Включите \ "Обновить информацию автоматически \" или проверьте подключение к сети</string>
+  <string name="already_updated">Актуально</string>
   <string name="app_label">Сообщения</string>
   <string name="app_name">Устройства</string>
   <string name="application_list_title">Мини-приложения</string>
@@ -132,6 +135,7 @@
   <string name="cloud_state_disabled">Включите синхронизацию с облаком</string>
   <string name="cloud_state_sync_finished">Синхронизировано с Xiaomi Cloud</string>
   <string name="cloud_state_syncing">Синхронизация с Xiaomi Cloud…</string>
+  <string name="cm_privacy_dialog_allow">Согласен</string>
   <string name="cm_privacy_dialog_cancel">Отмена</string>
   <string name="cm_privacy_dialog_spannable_tips">Политика конфиденциальности</string>
   <string name="cm_privacy_dialog_tips">"Услуги Умные сообщения предоставляются вашим оператором. Для предоставления этих услуг приложению необходимы подключение к интернету и доступ к вашему местоположению. Вы должны согласиться на %1s вашего оператора, прежде чем начать пользоваться этими услугами. Вы согласны?"</string>
@@ -141,6 +145,7 @@
   <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
+  <string name="confirm_delete_SIM_message">Удалить это сообщение с SIM-карты?</string>
   <string name="confirm_delete_all_conversations">Удалить все диалоги?</string>
   <string name="confirm_delete_all_SIM_messages">Удалить все сообщения с SIM карты?</string>
   <string name="confirm_delete_group_message">Удалить сообщения?</string>
@@ -239,6 +244,7 @@
   <string name="duration_selector_title">"Длительность показа слайда "</string>
   <string name="duration_zero">Значение должно быть больше нуля</string>
   <string name="earlier">Более старые</string>
+  <string name="early_morning">Утро</string>
   <string name="edit">Изменить</string>
   <string name="edit_phrase">Изменить быстрые ответы</string>
   <string name="edit_slide_activity">Изменить слайд</string>
@@ -261,6 +267,7 @@
   <string name="exceed_message_size_limitation">Достигнут лимит размера сообщения</string>
   <string name="exceed_message_size_limitation_add_slide">Сообщение слишком велико для добавления слайда</string>
   <string name="exceed_message_text_limitation">Достигнут лимит длины сообщения.</string>
+  <string name="expand_button_title">Продвинутые</string>
   <string name="expire_on">Срок истекает: %s</string>
   <string name="exporting_progress_private_message">Экспорт…</string>
   <string name="fail_to_add_attachment">Не удалось добавить вложение</string>
@@ -609,6 +616,9 @@
   <string name="pick_too_many_recipients">Слишком много получателей</string>
   <string name="play">Смотреть</string>
   <string name="playing_failed">Не удалось воспроизвести</string>
+  <string name="prefDefault_vibrateWhen">никогда</string>
+  <string name="prefDefault_vibrate_false">никогда</string>
+  <string name="prefDefault_vibrate_true">всегда</string>
   <string name="pref_advanced_settings_title">Расширенные настройки</string>
   <string name="pref_allow_network_access_summary">Получать актуальную информацию о доставке и других услугах</string>
   <string name="pref_cell_broadcast">Аварийные оповещения</string>
@@ -987,6 +997,8 @@
   <string name="show_all_messages">Показать все сообщения</string>
   <string name="show_delivery_status">Показывать отчет о доставке</string>
   <string name="show_sender">Показать данные отправителя</string>
+  <string name="sim1">SIM 1</string>
+  <string name="sim2">SIM 2</string>
   <string name="sim_card_cloud">%s (Mi сообщения)</string>
   <string name="sim_card1">SIM карта 1</string>
   <string name="sim_card2">SIM карта 2</string>
@@ -1090,6 +1102,7 @@
   <string name="system_permission_declare_main_purpose" formatted="false">Добро пожаловать в %1s! %2s</string>
   <string name="system_permission_declare_no_say_no">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Если вы не согласны предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать это приложение.</string>
   <string name="system_permission_declare_privacy_declare">Для нормальной работы %1s необходим сбор ваших данных и следующие разрешения:</string>
+  <string name="system_permission_declare_privacy_declare_new">Это приложение должно подключаться к Интернету и требуются следующие разрешения для нормальной работы:</string>
   <string name="system_permission_declare_revoke_path">Вы можете отменить авторизацию и отключить сервисы в настройках Сообщений.</string>
   <string name="system_permission_declare_single_link">Прочитайте и примите  %1s перед использованием этого сервиса.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Прочитайте и примите  %1s, %2s, и %3s перед использованием этих сервисов.</string>
@@ -1178,7 +1191,8 @@
   <string name="try_to_send">Продолжить</string>
   <string name="tuesday">Вторник</string>
   <string name="tuesday_short">Вт</string>
-  <string name="tuesday_shortest">В</string>	  
+  <string name="tuesday_shortest">В</string>	
+  <string name="turn_on">Включить</string>
   <string name="type_attachment">вложение</string>
   <string name="type_audio">аудио</string>
   <string name="type_picture">изображение</string>
@@ -1227,8 +1241,10 @@
   <string name="wild_msg_title">Выберите номера телефонов для синхронизации</string>
   <string name="yes">ОК</string>
   <string name="yellowpage_recommend_msg">"Проверьте функции обмена сообщениями MIUI"</string>
+  <string name="yes">OK</string>
   <string name="yesterday">Вчера</string>
   <string name="you_have_new_message">У вас есть новые сообщения</string>
+  <string name="yulore_term">Политика Конфиденциальности</string>
   <string name="zero_sms_feedback_message">Отчеты загружаются на наши серверы вместе с номерами телефонов отправителей и используются только для улучшения работы черных списков.</string>
   <string name="zero_sms_feedback_success">Отчет отправлен</string>
   <string name="zero_sms_feedback_title">Отчет</string>
