@@ -56,7 +56,7 @@
   <string name="accessibility_camera_video_fps_120">120FPS</string>
   <string name="accessibility_camera_video_fps_30">30FPS</string>
   <string name="accessibility_closed">Отключено</string>
-  <string name="accessibility_effect_mode_button">Кнопка эффекта</string>
+  <string name="accessibility_effect_mode_button">Эффекты</string>
   <string name="accessibility_eis_normal">EIS включена</string>
   <string name="accessibility_eis_off">EIS выключена</string>
   <string name="accessibility_eis_pro">ПРО режим EIS включен</string>
@@ -118,7 +118,7 @@
   <string name="ambilight_intro_crowd_moving_part2">Вы также можете сфотографировать оживленное движение и движущиеся толпы. Длительная выдержка будет держать здания четкими, но все движущиеся объекты будут размытыми.</string>
   <string name="ambilight_intro_light_track">Используйте источник света, чтобы \"закрасить\" темную сцену, чтобы собрать все освещенные части в одном изображении.</string>
   <string name="ambilight_intro_magic_star">Используйте этот режим в местах с низким уровнем освещения. Экспозиция будет установлена на %d секунд, поэтому использование штатива - отличная идея.</string>
-  <string name="ambilight_intro_silky_water_part1">Используйте этот режим при съемке движущихся облаков. Это придаст небу эффект \ "масляной живописи \".</string>
+  <string name="ambilight_intro_silky_water_part1">Используйте этот режим при съемке движущихся облаков. Это придаст небу эффект \"масляной живописи\".</string>
   <string name="ambilight_intro_silky_water_part2">Этот режим делает движущуюся воду (реки, водопады и озера) похожей на атлас.</string>
   <string name="ambilight_intro_star_track">Съемка звездного неба в течение длительного времени может захватывать траектории звезд. Не забудьте использовать штатив и снимать непрерывно не менее %d минут.</string>
   <string name="ambilight_intro_traffic_light">Ночью вы можете запечатлеть траекторию ярких движущихся огней (например, на автомобилях и кораблях). Этот режим позволяет просматривать конечный результат на экране в режиме реального времени.</string>
@@ -128,7 +128,7 @@
   <string name="ambilight_scene_silky_water">Шелковистая вода</string>
   <string name="ambilight_scene_star_track">Звездные тропы</string>
   <string name="ambilight_scene_traffic_light">Неоновые тропы</string>
-  <string name="ambilight_tips_for_using_tripod">Использовать штатив</string>
+  <string name="ambilight_tips_for_using_tripod">Используйте штатив</string>
   <string name="app_name">Менеджер эффектов</string>
   <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
   <string name="autozoom_click_hint">Нажмите на объект, чтобы держать его в фокусе, пока он движется. Для лучшего эффекта расстояние должно быть не менее 3 метров.</string>
@@ -141,10 +141,6 @@
   <string name="back_bokeh_use_hint">Держитесь от объекта съемки в пределах 1.5 метров</string>
   <string name="background">Фон</string>
   <string name="beauty_body">Фигура</string>
-  <string name="beauty_clear">Удалить</string>
-  <string name="beauty_clear_toast">Эффекты улучшения успешно удалены</string>
-  <string name="background">Фон</string>
-  <string name="beauty_body">Фигура</string>
   <string name="beauty_body_body">Стройный</string>
   <string name="beauty_body_head">Голова</string>
   <string name="beauty_body_legged">Ноги</string>
@@ -152,14 +148,14 @@
   <string name="beauty_body_shoulder">Плечи</string>
   <string name="beauty_body_slim_count_tip">Эффекты фигуры работают только для одного человека в кадре</string>
   <string name="beauty_body_whole">Туловище</string>
-  <string name="beauty_clear">Очистить</string>
-  <string name="beauty_clear_toast">Снятие эффектов красоты успешно</string>
+  <string name="beauty_clear">Удалить</string>
+  <string name="beauty_clear_toast">Эффекты улучшения успешно удалены</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Улучшение</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Макияж</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Коррекция</string>
   <string name="beauty_fragment_tab_name_beauty">Улучшение</string>
   <string name="beauty_fragment_tab_name_makeup">Макияж</string>
-  <string name="beauty_mode_reset_toast">Эффекты перемоделированипя успешно удалены</string>
+  <string name="beauty_mode_reset_toast">Эффекты перемоделирования успешно удалены</string>
   <string name="beauty_reset">Сброс</string>
   <string name="beauty_reset_toast">Эффекты фигуры успешно удалены</string>
   <string name="beauty_tab_name_live_beauty">Улучшение</string>
