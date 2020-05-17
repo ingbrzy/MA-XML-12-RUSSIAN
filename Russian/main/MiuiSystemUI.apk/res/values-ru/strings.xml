@@ -691,7 +691,7 @@
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
     <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем использование PIN-кода, пароля или графического ключа. Устройство может быть разблокировано вашей фотографией, а также людьми с похожей внешностью.</string>
-    <string name="face_data_suggesstion_second">Убедитесь, что все части лица ничем не закрыты и хорошо видны. Ваше лицо должно быть хорошо освещено.</string>
+    <string name="face_data_suggesstion_second">Убедитесь, что лицо хорошо видно и освещено.</string>
     <string name="face_dialog_looking_for_face">Поиск лица…</string>
     <string name="face_unlock_adjust_distance">Убедитесь, что расстояние между лицом и устройством оптимально</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
@@ -1832,7 +1832,7 @@ d MMMM"</string>
     <string name="structure_face_data_manage_delete_msg">Удаление 3D данных лица</string>
     <string name="structure_face_data_open_cameraing">Запуск камеры…</string>
     <string name="structure_face_data_rgb_input_face">Разместите лицо внутри рамки</string>
-    <string name="structure_face_data_suggestion_text">Убедитесь, что все части лица хорошо видны. Не надевайте шляпы, солнцезащитные очки или другие аксессуары, которые могут закрывать лицо во время записи данных. Ваше лицо должно быть хорошо освещено.</string>
+    <string name="structure_face_data_suggestion_text">Убедитесь, что лицо хорошо видно и освещено. Не надевайте шляпы, солнцезащитные очки или другие аксессуары, которые могут закрывать лицо во время записи данных.</string>
     <string name="structure_face_data_suggestion_warning_text">Внимание: 3D распознавание лиц чуть менее безопасно, чем использование кода, пароля или графического ключа. Устройство может быть разблокировано людьми с похожей внешностью.</string>
     <string name="structure_face_delete_data_dialog_msg">Не удалось запустить камеру и получить миниатюру. Повторите попытку.</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Повторить</string>
