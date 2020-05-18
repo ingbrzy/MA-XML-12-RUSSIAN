@@ -994,7 +994,7 @@
     <string name="kg_failed_attempts_almost_at_erase_user">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, аккаунт этого пользователя и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_login">"Количество неудачных попыток ввода графического ключа: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью email.
 
-Повторите попытку через %3$d с."</string>
+Повторите попытку через %3$d сек."</string>
     <string name="kg_failed_attempts_almost_at_wipe">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Рабочий профиль и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_now_erasing_user">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Аккаунт этого пользователя и все его данные будут удалены.</string>
@@ -1030,16 +1030,16 @@
     <string name="kg_sim_pin_instructions">Введите PIN SIM-карты</string>
     <string name="kg_sim_pin_instructions_multi">Введите PIN SIM-карты \"%1$s\"</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
+    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d сек.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Количество неудачных попыток ввода пароля: %1$d.
 
-Повторите попытку через %2$d с."</string>
+Повторите попытку через %2$d сек."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Количество неудачных попыток ввода графического ключа: %1$d.
 
-Повторите попытку через %2$d с."</string>
+Повторите попытку через %2$d сек."</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message">"Количество неудачных попыток ввода PIN-кода: %1$d.
 
-Повторите попытку через %2$d с."</string>
+Повторите попытку через %2$d сек."</string>
     <string name="kg_wrong_password">Неверный пароль</string>
     <string name="kg_wrong_pattern">Неверный графический ключ</string>
     <string name="kg_wrong_pin">Неверный PIN-код</string>
@@ -1086,7 +1086,7 @@ d MMMM"</string>    <string name="lock_screen_magazine_default_content">Ежед
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Количество неудачных попыток разблокировать телефон: %d. Осталось попыток: %d. Если они также будут неудачными, настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Количество неудачных попыток ввода пароля: %d. Осталось попыток: %d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью Mi аккаунта.
 
-Повторите попытку через %d с."</string>
+Повторите попытку через %d сек."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="lockscreen_none">Нет</string>
     <string name="lockscreen_shortcut_left">Левый ярлык</string>
@@ -1327,6 +1327,7 @@ d MMMM"</string>    <string name="lock_screen_magazine_default_content">Ежед
     <string name="notification_otg_trackball_out">Трекбол отключен</string>
     <string name="notification_otg_unknow_in">Устройство OTG подключено</string>
     <string name="notification_otg_unknow_out">Устройство OTG отключено</string>
+    <string name="notification_storage_float">Внешняя память</string>
     <string name="notification_summary_message_format">%1$s: %2$s</string>
     <string name="notification_tap_again">Нажмите еще раз для открытия</string>
     <string name="notification_template_text">" отправил уведомление. Нажмите для просмотра."</string>
@@ -1800,6 +1801,7 @@ d MMMM"</string>
     <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
     <string name="status_bar_work">Рабочий профиль</string>
     <string name="status_unavailable">Недоступен</string>
+    <string name="storage_is_connecting">Устройство \"%1$s\" подключено</string>
     <string name="stream_accessibility">Спец. возможности</string>
     <string name="stream_alarm">Будильник</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>

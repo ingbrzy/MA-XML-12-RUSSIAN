@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="HIPS_Perm_add_voicemail_Desc">Добавление системных голосовых сообщений</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Включение/выключение Bluetooth</string>
-  <string name="HIPS_Perm_CallLog_Desc">Создание и удаление записей в журнале вызовов</string>
   <string name="HIPS_Perm_Call_Desc">Непосредственное осуществление вызовов</string>
+  <string name="HIPS_Perm_CallLog_Desc">Создание и удаление записей в журнале вызовов</string>
   <string name="HIPS_Perm_Contact_Desc">Изменение и удаление контактов</string>
+  <string name="HIPS_Perm_get_accounts_Desc">Доступ ко всем аккаунтам на устройстве</string>
   <string name="HIPS_Perm_PhoneID_Desc">Доступ к номеру телефона, IMEI и IMSI</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и состоянию устройства</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Использование NFC</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">Чтение журнала вызовов</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Чтение контактов</string>
   <string name="HIPS_Perm_Read_SMS_Desc">Чтение SMS сообщений</string>
   <string name="HIPS_Perm_SendSMS_Desc">Непосредственная отправка SMS</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение/выключение Wi-Fi</string>
-  <string name="HIPS_Perm_add_voicemail_Desc">Добавление системных голосовых сообщений</string>
-  <string name="HIPS_Perm_get_accounts_Desc">Доступ ко всем аккаунтам на устройстве</string>
-  <string name="HIPS_Perm_process_nfc_Desc">Использование NFC</string>
   <string name="HIPS_Perm_use_sip_Desc">Использование протокола SIP для потокового видео</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение/выключение Wi-Fi</string>
   <string name="abc_action_bar_home_description">Перейти на главный экран</string>
   <string name="abc_action_bar_up_description">Перейти вверх</string>
   <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -42,15 +42,6 @@
   <string name="abc_shareactionprovider_share_with">Поделиться с</string>
   <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
   <string name="abc_toolbar_collapse_description">Свернуть</string>
-  <string name="Phonepass">Разрешить вызовы</string>
-  <string name="SMS_and_MMS">SMS и MMS</string>
-  <string name="SMSpass">Разрешить SMS</string>
-  <string name="Setting_lock">Настройки</string>
-  <string name="Settings_title_anti_spam">Настройки антиспама</string>
-  <string name="Settings_title_anti_virus">Настройки антивируса</string>
-  <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
-  <string name="Settings_title_network_assistants">Настройки трафика</string>
-  <string name="Settings_title_power_center">Настройки батареи</string>
   <string name="about_autostart">Об автозапуске</string>
   <string name="ac_enter_applock">Войдите в Защиту приложений</string>
   <string name="ac_firstUseApplock_subTitle">Используйте лучшие средства безопасности</string>
@@ -120,7 +111,9 @@
   <string name="add_whitelist">Исключения</string>
   <string name="address">Адрес</string>
   <string name="address_choose_hint">%1$s, %2$s и %3$d других</string>
-  <string name="adjust_sms_cmd"><u>Изменить шаблон калибровки</u></string>
+  <string name="adjust_sms_cmd">
+    <u>Изменить шаблон калибровки</u>
+  </string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Обновлено более месяца назад</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Обновлено более недели назад</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Обновлено неделю назад</string>
@@ -219,19 +212,21 @@
   <string name="app_behavior_contacts">%1s - доступ к контактам</string>
   <string name="app_behavior_contacts_bg">%1s - доступ к контактам в фоновом режиме</string>
   <string name="app_behavior_contacts_bg_single">Доступ к контактам в фоновом режиме</string>
-  <string name="app_behavior_contacts_single">Доступ к контактам</string>  
+  <string name="app_behavior_contacts_single">Доступ к контактам</string>
   <string name="app_behavior_denied">Отклонить</string>
   <string name="app_behavior_desc_allow_once">Разрешено в %1$s</string>
   <string name="app_behavior_desc_deny_once">Отклонено в %1$s</string>
   <string name="app_behavior_desc_virtual_once">Отправлена пустая информация в %1$s</string>
   <string name="app_behavior_door">Действия</string>
+  <string name="app_behavior_get_install">%1s - доступ к списку приложений</string>
+  <string name="app_behavior_get_install_single">Доступ к списку приложений</string>
   <string name="app_behavior_header_time">MMMM dd</string>
   <string name="app_behavior_key_audio">Доступ к микрофону</string>
   <string name="app_behavior_key_camera">Доступ к камере</string>
   <string name="app_behavior_key_location">Доступ к местоположению</string>
-  <string name="app_behavior_key_protect">Включить уведомления</string>  
+  <string name="app_behavior_key_protect">Включить уведомления</string>
   <string name="app_behavior_list_load_more">Загрузка…</string>
-   <string name="app_behavior_location">%1s - доступ к местоположению</string>
+  <string name="app_behavior_location">%1s - доступ к местоположению</string>
   <string name="app_behavior_location_bg">%1s - доступ к местоположению в фоновом режиме</string>
   <string name="app_behavior_location_bg_single">Доступ к местоположению в фоновом режиме</string>
   <string name="app_behavior_location_single">Доступ к местоположению</string>
@@ -249,7 +244,7 @@
   <string name="app_behavior_notification_camera_one">%1s - используется камера</string>
   <string name="app_behavior_notification_camera_two" formatted="false">%1s и %2s используют камеру</string>
   <string name="app_behavior_notification_location_one">%1s - используется доступ к местоположению</string>
-  <string name="app_behavior_notification_location_two" formatted="false">%1s и %2s используют доступ к местоположению</string>  
+  <string name="app_behavior_notification_location_two" formatted="false">%1s и %2s используют доступ к местоположению</string>
   <string name="app_behavior_notification_title_calllog_read">%1s - чтение журнала вызовов в фоновом режиме</string>
   <string name="app_behavior_notification_title_calllog_write">%1s - изменение журнала вызовов в фоновом режиме</string>
   <string name="app_behavior_notification_title_clipboard_read">%1s - чтение буфера обмена в фоновом режиме</string>
@@ -263,6 +258,7 @@
   <string name="app_behavior_notification_title_now_location">%1s - используется доступ к местоположению в фоновом режиме</string>
   <string name="app_behavior_notification_title_single_group">%1s - выполнено несколько действий</string>
   <string name="app_behavior_notification_title_storage">%1s - изменены файлы в фоновом режиме</string>
+  <string name="app_behavior_now_running">Запущено</string>
   <string name="app_behavior_perm_allow_always_danger_tip">Приложения могут выполнять конфиденциальные действия, если им предоставлены разрешения</string>
   <string name="app_behavior_perm_change_dialog_desc_title">О разрешении:</string>
   <string name="app_behavior_perm_change_tip_allow">Действие (%1s) разрешено</string>
@@ -288,19 +284,21 @@
   <string name="app_behavior_sms_read_single">Чтение SMS</string>
   <string name="app_behavior_sms_send">%1s - отправка SMS</string>
   <string name="app_behavior_sms_send_single">Отправка SMS</string>
+  <string name="app_behavior_start_from_app" formatted="false">%2s - запуск приложения %1s</string>
   <string name="app_behavior_start_from_app_single">%1s - запуск из приложения</string>
-  <string name="app_behavior_start_from_launcher">%1s - запуск с рабочего стола</string>  
+  <string name="app_behavior_start_from_launcher">%1s - запуск с рабочего стола</string>
   <string name="app_behavior_start_from_launcher_single">Запуск с рабочего стола</string>
   <string name="app_behavior_start_from_notification">%1s - запуск из уведомления</string>
   <string name="app_behavior_start_from_notification_single">Запуск из уведомления</string>
   <string name="app_behavior_start_from_recent">%1s - запуск из Недавних задач</string>
-  <string name="app_behavior_start_from_recent_single">Запуск из Недавних задач</string>  
+  <string name="app_behavior_start_from_recent_single">Запуск из Недавних задач</string>
   <string name="app_behavior_storage">%1s - доступ к файлам</string>
   <string name="app_behavior_storage_bg">%1s - доступ к файлам в фоновом режиме</string>
   <string name="app_behavior_storage_bg_single">Доступ к файлам в фоновом режиме</string>
   <string name="app_behavior_storage_single">Доступ к файлам</string>
+  <string name="app_behavior_this_run">Недавно</string>
   <string name="app_behavior_time_today">Сегодня</string>
-  <string name="app_behavior_time_yesterday">Вчера</string>  
+  <string name="app_behavior_time_yesterday">Вчера</string>
   <string name="app_behavior_wakepath" formatted="false">%1s - запуск приложения %2s</string>
   <string name="app_behavior_wakepath_single">Запуск приложения %2s</string>
   <string name="app_behavior_warning_audio_title">%1s - используется микрофон в фоновом режиме</string>
@@ -463,7 +461,7 @@
   <string name="app_running_tip_uninstall">Удалить приложение</string>
   <string name="app_statusbar_audio_now">Доступ к микрофону</string>
   <string name="app_statusbar_camera_now">Доступ к камере</string>
-  <string name="app_statusbar_location_now">Доступ к местоположению</string>  
+  <string name="app_statusbar_location_now">Доступ к местоположению</string>
   <string name="app_usage_never">Работало давно</string>
   <string name="app_usage_recently">Работало недавно</string>
   <string name="app_version">"Версия: "</string>
@@ -485,7 +483,7 @@
   <string name="applock_function_base_settings">Защита приложений</string>
   <string name="applock_function_pwd_settings">Пароль</string>
   <string name="applock_go_to">Настройки</string>
-   <string name="applock_guide_open_applock">Включить</string>
+  <string name="applock_guide_open_applock">Включить</string>
   <string name="applock_guide_tip1">Доступны несколько типов пароля. Можно разблокировать приложения с помощью отпечатка, распознавания по лицу или ввода пароля.</string>
   <string name="applock_guide_tip1_global">Можно разблокировать приложения с помощью отпечатка, распознавания по лицу или ввода пароля.</string>
   <string name="applock_guide_tip1_global_without_face">Можно разблокировать приложения с помощью отпечатка или ввода пароля.</string>
@@ -499,9 +497,11 @@
   <string name="applock_guide_tip3_global">Скрыть содержание уведомления.</string>
   <string name="applock_guide_title">Защитите свои личные данные с помощью блокировки приложений</string>
   <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
-  <string name="applock_lock_all">Выбрать все</string> 
+  <string name="applock_lock_all">Выбрать все</string>
   <string name="applock_login_and_add_account">Войти и привязать</string>
-  <string name="applock_not_add_account"><u>Не сейчас</u></string>
+  <string name="applock_not_add_account">
+    <u>Не сейчас</u>
+  </string>
   <string name="applock_not_login_account">Вход не выполнен</string>
   <string name="applock_set_password_title">Изменение типа пароля</string>
   <string name="applock_settings_unlock_all_toast">Все приложения разблокированы</string>
@@ -658,6 +658,8 @@
   <string name="begin_date">Дата начала учета</string>
   <string name="best_booster_status">Ускорение игр включено</string>
   <string name="bg_network_exception_title">Фоновые подключения</string>
+  <string name="bill_limit_notification_text_format">Карта: %1$s | Баланс: %2$s CNY</string>
+  <string name="bill_limit_notification_title">Недостаточно средств</string>
   <string name="bind_xiaomi_account_cancel">Отмена</string>
   <string name="bind_xiaomi_account_confirm">Привязать</string>
   <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса. Аккаунт будет автоматически отвязан после выхода из него.</string>
@@ -778,6 +780,7 @@
   <string name="card_main_xspace_summary">Создание независимых копий приложений</string>
   <string name="card_main_xspace_title">Клонирование</string>
   <string name="card_tc_failed">Ошибка калибровки</string>
+  <string name="cd_back">Назад</string>
   <string name="charging_text_battery_full_time">"Время последней зарядки "</string>
   <string name="charging_text_battery_nearly_full">Почти 100%</string>
   <string name="charging_text_battery_perfect">Полностью заряжена</string>
@@ -805,12 +808,14 @@
   <string name="continue_install">Установить</string>
   <string name="convenient_mode">Групповая разблокировка</string>
   <string name="convenient_summary">Введенный пароль разблокирует все защищенные приложения</string>
+  <string name="copy">Копировать</string>
   <string name="correction_attention_dialog_message">Идет корректировка настроек. Дождитесь завершения и повторите попытку.</string>
   <string name="cpu_usage_android_system">Система Android</string>
   <string name="cpu_usage_process_run_time_little_time">Менее 1 минуты</string>
   <string name="cpu_usage_view_action_btn_text">Просмотреть</string>
   <string name="create_gamebooster_destop">Ярлык на рабочем столе успешно создан</string>
   <string name="create_shortcut">Создать на рабочем столе ярлык для Ускорения игр</string>
+  <string name="cta_agree_desc">Чтобы использовать наши сервисы, разрешите приложению подключение к интернету и предоставьте вышеперечисленные разрешения.</string>
   <string name="cta_close_dialog_cancel">Отмена</string>
   <string name="cta_close_dialog_content">Если вы ограничите Безопасности доступ к интернету и информации о местоположении, вы не сможете получать предупреждения о землетрясениях, обновлять описания вирусов и черные списки. Устройство станет менее безопасным. Ограничить доступ?</string>
   <string name="cta_close_dialog_ok">Ограничить</string>
@@ -859,6 +864,8 @@
   <string name="data_usage_warning_title_notify">Лимит трафика превышен</string>
   <string name="databooster_tips_message">Включите эту функцию для ограничения всех SIM карт, кроме карты данных. Отключите эту функцию, если в играх наблюдаются ошибки.</string>
   <string name="databooster_tips_title">Внимание</string>
+  <string name="debug_open_final_tip">Включить отладку по USB?</string>
+  <string name="debug_open_title">Эта функция предназначена для разработчиков. Включение отладки через USB может привести к:</string>
   <string name="declaration_dialog_msg">Это приложение помогает отслеживать расход трафика, но не гарантирует отсутствие дополнительных расходов. Для достижения наилучших результатов задайте жесткие лимиты.</string>
   <string name="deep_clean_disconnect_data_title">Отключение интернета</string>
   <string name="deep_clean_memory_clean_title">Очистка памяти</string>
@@ -977,6 +984,7 @@
   <string name="empty_app">Нет приложений</string>
   <string name="empty_title_auto_start_list">Нет приложений с автозапуском</string>
   <string name="empty_title_garbage_virus_white_list">Удерживайте объект для добавления его в исключения</string>
+  <string name="empty_title_installed_apps">Ничего нет</string>
   <string name="empty_title_manual_item_white_list">Список пуст</string>
   <string name="empty_title_perm_apps">Нет приложений с разрешениями</string>
   <string name="empty_title_permission_apps_list">Нет приложений</string>
@@ -993,7 +1001,7 @@
   <string name="ew_alert_earthquake_feel_max">Серьезное сотрясение</string>
   <string name="ew_alert_earthquake_feel_middle">Сильное сотрясение</string>
   <string name="ew_alert_earthquake_feel_none">Не ощущается</string>
-  <string name="ew_alert_earthquake_feel_normal">Умеренное сотрясение</string>  
+  <string name="ew_alert_earthquake_feel_normal">Умеренное сотрясение</string>
   <string name="ew_alert_earthquake_feel_title">Расчетная интенсивность</string>
   <string name="ew_alert_earthquake_level_title">Расчетная величина</string>
   <string name="ew_alert_emergency_text">"Показать
@@ -1060,7 +1068,7 @@
   <string name="ew_list_receive_distance">Эпицентр в %s км от вас</string>
   <string name="ew_list_receive_time">Время начала: %s</string>
   <string name="ew_list_receive_time_title">Время начала</string>
-  <string name="ew_list_title">Предупреждения</string>  
+  <string name="ew_list_title">Предупреждения</string>
   <string name="ew_main_close_text">"Вы не сможете получать актуальную информацию об землетрясении, если отключите оповещение. Все равно выключить?"</string>
   <string name="ew_main_close_title">Внимание</string>
   <string name="ew_main_contact_change">Изменить</string>
@@ -1143,6 +1151,7 @@
   <string name="exo_track_surround_5_point_1">Система объемного звука 5.1</string>
   <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
   <string name="exo_track_unknown">Неизвестный трек</string>
+  <string name="expand_button_title">Дополнительно</string>
   <string name="extreme_power_save_mode_card_summary">Включение экстремального энергосбережения при низком заряде батареи</string>
   <string name="extreme_power_save_mode_title">Экстремальное энергосбережение</string>
   <string name="face_unlock_be_on_the_screen">Держите девайс перед лицом</string>
@@ -1248,9 +1257,13 @@
   <string name="forbid_autobright_summary">Автояркость будет отключена во время игры и снова включена после ее окончания</string>
   <string name="forbid_autobright_title">Отключить автояркость</string>
   <string name="foreground_traffic">Активный: %s</string>
-  <string name="forget_password_button_text"><u>Забыли пароль?</u></string>
+  <string name="forget_password_button_text">
+    <u>Забыли пароль?</u>
+  </string>
   <string name="forget_password_button_text_normal">Забыли пароль?</string>
-  <string name="forget_pattern"><u>Забыли ключ?</u></string>
+  <string name="forget_pattern">
+    <u>Забыли ключ?</u>
+  </string>
   <string name="forground_network_optimization_summary">Повышенный приоритет процессора для запущенных игр</string>
   <string name="forground_network_optimization_title">Приоритет производительности</string>
   <string name="free_send_net_booster">Бесплатное ускорение сети</string>
@@ -1264,10 +1277,9 @@
   <string name="free_traffic_settings">Контроль льготного трафика</string>
   <string name="function_close">Откл</string>
   <string name="function_gwsd_detail">"О функции:
- 1. Входящие звонки на SIM-карту не прервут соединение мобильной передачи данных. Соединение будет прервано только при ответе на звонок.
- 2. Когда эта функция включена, вызывающий абонент не будет слышать рингтон ожидания вызова. Входящий вызов будут завершен, если вы не ответите в течение 6 секунд.
- 3. Эта функция работает только для SIM-карт для интернета. Звонки на основную SIM-карту прервут соединение мобильной передачи данных.
- 4. Эта функция поддерживается только China Mobile и China Unicom."</string>
+ 1. Когда вы используете мобильный интернет на SIM-карте для интернета или на обычной SIM-карте, подключенной к сети VoLTE, соединение не будет прерываться входящими вызовами до тех пор, пока вы не ответите.
+ 2. Когда эта функция включена, вызывающий абонент не будет слышать рингтон ожидания вызова, если вы не используете обычную SIM-карту. Входящий вызов будет автоматически завершен, если вы не ответите в течение 7-10 секунд.
+ 3. Поддерживаются SIM-карты для интернета China Mobile и China Unicom, и обычные SIM-карты China Mobile, China Unicom и China Telecom.</string>
   <string name="function_gwsd_title">Запрет прерывания соединения</string>
   <string name="function_shield_auto_bright">Выключить автояркость</string>
   <string name="function_shield_eye_shield">Выключить режим чтения</string>
@@ -1293,7 +1305,7 @@
   <string name="game_bootser_tab_settings">Настройки</string>
   <string name="game_else_function">Прочее</string>
   <string name="game_manual_record_setting_setting">О функции</string>
-  <string name="game_manual_record_setting_title">Ключевые моменты</string>  
+  <string name="game_manual_record_setting_title">Ключевые моменты</string>
   <string name="game_more_improve">Ограничить фоновые процессы и скорость загрузки, чтобы сэкономить заряд батареи и трафик для игр</string>
   <string name="game_setting">Игровые настройки</string>
   <string name="game_video_net_data">Мобильный интернет</string>
@@ -1368,6 +1380,7 @@
   <string name="gb_advance_settings_touch">Сенсорное управление</string>
   <string name="gb_advance_settings_vibration_4d">4D вибрация</string>
   <string name="gb_advance_settings_vibration_4d_summary">Отображение действий в игре с помощью вибрации</string>
+  <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать в игре в момент убийства</string>
   <string name="gb_audition_instruction">Нажмите и удерживайте для записи (%1$s-%2$ss)</string>
   <string name="gb_audition_play_instruction">Используйте наушники для лучшего эффекта</string>
   <string name="gb_create_icon_summary">Создать ярлык на рабочем столе</string>
@@ -1379,7 +1392,7 @@
   <string name="gb_dialog_record_way_finish">Готово</string>
   <string name="gb_dialog_record_way_manual">Запись видео длительностью до 30 секунд вручную</string>
   <string name="gb_dialog_record_way_setting_tips">Примечание: запись игровых сессий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
-  <string name="gb_dialog_record_way_title">Выберите метод записи</string>  
+  <string name="gb_dialog_record_way_title">Выберите метод записи</string>
   <string name="gb_dialog_wlan_wifi_weak">460 мс</string>
   <string name="gb_first_guide_function_shiled_title">Отключить системные функции, когда включено Ускорение игр</string>
   <string name="gb_first_guide_gamebox_des">Используйте ярлыки во время игр</string>
@@ -1404,7 +1417,7 @@
   <string name="gb_game_video_record_finish_tips">Успешно сохранено</string>
   <string name="gb_game_video_save">Сохранить</string>
   <string name="gb_game_video_type_ai">AI</string>
-  <string name="gb_game_video_type_manual">Вручную</string>  
+  <string name="gb_game_video_type_manual">Вручную</string>
   <string name="gb_get_gift_right_now">Отметиться</string>
   <string name="gb_global_settings">Общие настройки</string>
   <string name="gb_have_signed">Отметились сегодня</string>
@@ -1439,13 +1452,13 @@
   <string name="gb_voice_changer_normal">Оригинал</string>
   <string name="gb_voice_changer_permission_dlg_msg">Синтезатору для нормальной работы требуется разрешение на запись звука.</string>
   <string name="gb_voice_changer_permission_dlg_title">Требуется разрешение</string>
-  <string name="gb_voice_changer_robot">Робот</string> 
+  <string name="gb_voice_changer_robot">Робот</string>
   <string name="gb_wonderful_video_cancel">Отмена</string>
   <string name="gb_wonderful_video_checkall">Выбрать все</string>
   <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
   <string name="gb_wonderful_video_delete">Удалить</string>
   <string name="gb_wonderful_video_header_title">Сегодня</string>
-  <string name="gb_wonderful_video_save_suc">Успешно сохранено</string>  
+  <string name="gb_wonderful_video_save_suc">Успешно сохранено</string>
   <string name="gb_xunyou_gift_type_one">Ускорение Xunyou на 1 день</string>
   <string name="gb_xunyou_gift_type_three">Ускорение Xunyou на 3 дня</string>
   <string name="gb_xunyou_gift_type_two">Ускорение Xunyou на 2 дня</string>
@@ -1455,7 +1468,7 @@
   <string name="get_sys_info">Получение данных…</string>
   <string name="gigabyteShort"> ГБ</string>
   <string name="global_wa_setting_alert_dialog_content">Можно освободить %s</string>
-  <string name="global_wa_setting_alert_dialog_title">Очистка WhatsApp</string> 
+  <string name="global_wa_setting_alert_dialog_title">Очистка WhatsApp</string>
   <string name="gmscore_support_remind">Включите эту функцию, если у вас возникли проблемы с использованием Gmail, Карт Google и других приложений Google. Это немного повысит расход заряда батареи.</string>
   <string name="gmscore_support_service">Основные сервисы Google</string>
   <string name="go_to">Перейти</string>
@@ -1572,6 +1585,9 @@
   <string name="installing">Установка</string>
   <string name="international_Ad">Ad</string>
   <string name="international_roaming_setting">Интернет в роуминге</string>
+  <string name="intl_perm_intro_message">Нажмите для настройки разрешений, чтобы избежать утечки данных</string>
+  <string name="intl_perm_notification_content">Настройка разрешений</string>
+  <string name="intl_perm_notification_title">Защита конфиденциальности</string>
   <string name="invalid_charger">Не удается зарядить через USB. Используйте зарядное устройство, которое поставляется с вашим устройством.</string>
   <string name="ip_address_exception_summary">Ошибка получения IP адреса. Если ситуация повторится, попробуйте использовать статический IP адрес.</string>
   <string name="item_app_permission">Разрешения приложений</string>
@@ -1729,6 +1745,7 @@
   <string name="memory_clean_memory_size_tip">Память</string>
   <string name="memory_clean_no_need_clean">Всё в порядке</string>
   <string name="memory_clear_unused">Память очищена (%s)</string>
+  <string name="memory_title">Доступно: %1$s  Всего: %2$s</string>
   <string name="menu_add">Добавить</string>
   <string name="menu_bl_call_log">Заблокированные вызовы</string>
   <string name="menu_bl_remove">Разблокировать</string>
@@ -1797,6 +1814,19 @@
   <string name="mian_page_primary_txt">Зарубежный роуминг</string>
   <string name="midrop_post_notification_contentText">Воспользуйтесь Mi Drop со скоростью до 50 Мбит/с.</string>
   <string name="midrop_post_notification_contentTitle">Нужно передать файлы?</string>
+  <string name="miui_optimization_close_final_tip">Отключить оптимизацию MIUI?</string>
+  <string name="miui_optimization_close_title">Эта функция предназначена для разработчиков. Отключение оптимизации MIUI может привести к:</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
+  <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
   <string name="mixed_need_to_confirm">Введите пароль повторно</string>
   <string name="mixed_password_confirmed_header_confirm">Пароль задан. Нажмите для подтверждения.</string>
   <string name="mixed_password_confirmed_header_continue">Пароль задан. Нажмите \"Далее\".</string>
@@ -1804,7 +1834,9 @@
   <string name="mixed_recording_intro_header">Введите %1$s-%2$s символов</string>
   <string name="mixed_retry_button_text">Отмена</string>
   <string name="mixed_settings_help_how_to_record">Как задать пароль</string>
-  <string name="modify_password_mode"><u>Способ защиты</u></string>
+  <string name="modify_password_mode">
+    <u>Способ защиты</u>
+  </string>
   <string name="modifypassword">Способ защиты</string>
   <string name="monitor_app_add">Добавить</string>
   <string name="monitor_app_more">Еще</string>
@@ -1812,12 +1844,18 @@
   <string name="more_game">Еще игры</string>
   <string name="more_lock">Еще</string>
   <string name="more_settings">Еще</string>
+  <string name="mtp_ptp_mode_summary">MTP или PTP активен</string>
+  <string name="na_main_card_ad_subtitle">Много трафика, бесплатные звонки, низкие тарифы</string>
+  <string name="na_main_card_ad_text">Найдите подходящий вам план</string>
+  <string name="na_main_card_ad_title">Продвижение карты Mi Fan</string>
+  <string name="na_main_card_title_sim">"Карта "</string>
+  <string name="na_text_checking">"Тестирование: "</string>
   <string name="name">Имя</string>
   <string name="nd_result_button_optimize">Оптимизировать</string>
   <string name="nd_result_summary_optimize">Оптимизация сетевого соединения, если оно нестабильно</string>
   <string name="nd_result_title_auxiliary">Конфигурация сети</string>
   <string name="nd_result_title_network">Подключение к сети</string>
-  <string name="nd_result_title_optimize">Оптимизация сети</string>  
+  <string name="nd_result_title_optimize">Оптимизация сети</string>
   <string name="net_booster">Ускорение сети</string>
   <string name="net_booster_expire_notification">Сеанс ускорения сети скоро завершится</string>
   <string name="net_booster_overdue_notification">Сеанс ускорения сети скоро завершится</string>
@@ -1885,6 +1923,7 @@
   <string name="nickname">Псевдоним</string>
   <string name="no_game">Не удалось найти игры</string>
   <string name="not_limited_brand">Без ограничений</string>
+  <string name="not_set">Не задано</string>
   <string name="note">Заметка</string>
   <string name="note_call_none">Нет вызовов</string>
   <string name="note_list_none">Список пуст</string>
@@ -1897,7 +1936,7 @@
   <string name="notification_exit_power_save_mode">Энергосбережение отключено</string>
   <string name="notification_exit_power_save_mode_subtitle">Заряд батареи %s</string>
   <string name="notification_garbage_cleanup_summary">Удаление мусора (%s) для ускорения работы устройства</string>
-  <string name="notification_garbage_cleanup_title">Удаление мусора</string>  
+  <string name="notification_garbage_cleanup_title">Удаление мусора</string>
   <string name="notification_low_battery_action_btn">Включить</string>
   <string name="notification_low_battery_need_charge">Зарядите устройство</string>
   <string name="notification_low_battery_open_save_mode">Включите энергосбережение</string>
@@ -1932,7 +1971,7 @@
   <string name="numeric_retry_button_text">Отмена</string>
   <string name="numeric_settings_help_how_to_record">Как задать PIN-код</string>
   <string name="oaid_reset_content_tip">Если вы отключите виртуальный ID, некоторые приложения могут перестать работать должным образом, некоторые данные приложений могут быть потеряны или стать непригодными для использования.</string>
-  <string name="oaid_reset_final_tip">Отключить виртуальный ID ?</string>  
+  <string name="oaid_reset_final_tip">Отключить виртуальный ID ?</string>
   <string name="ok">ОК</string>
   <string name="ok_button">ОК</string>
   <string name="old_sdk_deny_warning">Это приложение было разработано для более ранней версии Android. Отзыв разрешения может вызвать неполадки в его работе.</string>
@@ -1964,6 +2003,7 @@
   <string name="open_now">Разрешить приложению использовать мобильный интернет</string>
   <string name="operator_diagnostic">Диагностика оператора</string>
   <string name="operator_name_cmcc">China Mobile</string>
+  <string name="operator_name_mi_mobile">Mi Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
   <string name="operator_number_cmcc">10086</string>
@@ -1994,6 +2034,8 @@
   <string name="optimize_result_title_uninstall_apps">Удаление приложений</string>
   <string name="optimize_result_toast_system_default_settings">Настройки по умолчанию восстановлены</string>
   <string name="optimize_result_toast_system_no_item_selected">Ничего не выбрано</string>
+  <string name="optional_permissions">Дополнительные разрешения</string>
+  <string name="optional_permissions_desc">Эти разрешения необходимы для дополнительных функций.</string>
   <string name="optmizingbar_optimize_done">Оптимизировано</string>
   <string name="optmizingbar_ready">Оптимизация…</string>
   <string name="optmizingbar_stop_optmize">Остановить</string>
@@ -2020,7 +2062,9 @@
   <string name="password_promotion_postbutton_text">Привязать</string>
   <string name="password_promotion_title">Привяжите Mi Аккаунт</string>
   <string name="password_type">Способ защиты</string>
-  <string name="password_type_underline"><u>Способ защиты</u></string>
+  <string name="password_type_underline">
+    <u>Способ защиты</u>
+  </string>
   <string name="password_xspace_forget_pattern_message">Для изменения пароля второго пространства вам необходимо удалить текущее пространство и создать новое.</string>
   <string name="passwordIncorrect">Неверное имя пользователя или пароль</string>
   <string name="pc_abnormal_scan_button_text">Закрыть приложения</string>
@@ -2035,9 +2079,15 @@
   <string name="pc_battery_detail_device_item_title">Использование батареи</string>
   <string name="pc_battery_history_battery_detail_menu_item">Сведения</string>
   <string name="pc_battery_history_consume_rank_menu_item">Рейтинг</string>
+  <string name="pc_battery_history_consumption_percent_title">Процент</string>
+  <string name="pc_battery_history_idletime_title">Режим ожидания</string>
+  <string name="pc_battery_history_item_chart">График расхода</string>
+  <string name="pc_battery_history_item_histogram">Детализация</string>
   <string name="pc_battery_history_rank_mha_menu_item">Миллиампер час</string>
   <string name="pc_battery_history_rank_percent_menu_item">Проценты</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
+  <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
+  <string name="pc_battery_history_usetime_title">Активный режим</string>
   <string name="pc_install_manager">Установка через USB</string>
   <string name="pc_main_activity_back">Назад</string>
   <string name="pc_main_battery_text_day">Добавлено: %1$s мин. Заряда хватит на %2$s д.</string>
@@ -2066,6 +2116,11 @@
   <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">Предупреждение перегрева и аппаратных проблем</string>
   <string name="perfermance_optimization_title">Оптимизация производительности</string>
+  <string name="perm_intercept_content">Предоставить приложению следующее разрешение: %1s?</string>
+  <string name="perm_intercept_notification_title">Предоставление приложению %1s разрешения использовать уведомления, позволит приложению:</string>
+  <string name="perm_intercept_privacy_content">Это разрешение может привести к раскрытию ваших личных данных. Предоставить разрешение в любом случае (%1s)?</string>
+  <string name="perm_intercept_title">Предоставление приложению %1s разрешения на доступ к данным об использовании, позволит приложению:</string>
+  <string name="perm_intercept_unknown_title">Предоставление приложению %1s разрешения устанавливать приложения из неизвестных источников может привести к:</string>
   <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
   <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
   <string name="permgroupdesc_calendar">Доступ к календарю</string>
@@ -2082,16 +2137,21 @@
   <string name="permission_action_accept">Разрешить</string>
   <string name="permission_action_always">Разрешать всегда</string>
   <string name="permission_action_desc">Разрешить, но отправить пустую информацию для защиты конфиденциальности</string>
+  <string name="permission_action_desc_always">Разрешение предоставляется всегда</string>
+  <string name="permission_action_desc_foreground">Разрешение предоставляется только на время использования приложения</string>
+  <string name="permission_action_desc_prompt">Разрешение предоставляется после подтверждения</string>
+  <string name="permission_action_desc_reject">Разрешение не предоставляется</string>
   <string name="permission_action_foreground">На время использования</string>
   <string name="permission_action_prompt">Спрашивать</string>
   <string name="permission_action_reject">Запретить</string>
   <string name="permission_action_tag">Защита конфиденциальности</string>
-  <string name="permission_action_virtual">Отправить пустую информацию</string>  
+  <string name="permission_action_virtual">Отправить пустую информацию</string>
   <string name="permission_close_permission_control_dialog_msg">Приложения не будут запрашивать разрешение на доступ к камере или микрофону, контактам, журналу вызовов или на изменение настроек системы. Отключить управление разрешениями?</string>
   <string name="permission_close_permission_control_dialog_title">Управление разрешениями</string>
   <string name="permission_exception_title">Трафик приложений</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Приложения не будут запрашивать разрешение на доступ к камере или микрофону, контактам, журналу вызовов или на изменение настроек системы. Вы можете включить эту функцию в настройках разрешений.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Управление разрешениями</string>
+  <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="permission_upgrade_more">Дополнительные функции защиты конфиденциальности</string>
   <string name="permission_upgrade_privacy_title">Запрос разрешения доступа к микрофону или контактам теперь имеет опцию, которая позволяет предоставлять приложениям доступ только в активном режиме. Для защиты личной информации, приложения не смогут получать доступ в фоновом режиме.</string>
   <string name="permission_upgrade_runtime">Запрос разрешения доступа к местоположению или камере теперь имеет опцию, которая позволяет предоставлять приложениям только однократный доступ. Для защиты личной информации, при следующем запуске приложения будет повторный запрос разрешения.</string>
@@ -2113,12 +2173,14 @@
   <string name="phone_manage_special_title">Специальные функции</string>
   <string name="phone_manage_system_tool_summary">Полезные системные инструменты</string>
   <string name="phone_manage_system_tool_title">Инструменты</string>
+  <string name="Phonepass">Разрешить вызовы</string>
   <string name="pkg_traffic">Лимит трафика</string>
   <string name="pm_auto_start_by_other">Взаимный запуск</string>
   <string name="pm_auto_start_by_other_app">Разрешить приложениям запускать другие приложения</string>
   <string name="pm_auto_start_by_system">Автозапуск приложений</string>
   <string name="pm_auto_start_by_system_event">Разрешить приложениям запускаться автоматически</string>
   <string name="pm_auto_start_proc_is_running">Запущено</string>
+  <string name="pm_newfeature_sub_text">НОВОЕ</string>
   <string name="pm_remember_choice">Запомнить выбор</string>
   <string name="pm_root_success_notification_infomation">Убедитесь, что вы понимаете риски, связанные с ROOT доступом</string>
   <string name="pm_root_success_notification_title">ROOT доступ разрешен</string>
@@ -2236,6 +2298,9 @@
   <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_new_choose_mode">Выбор режима</string>
   <string name="power_notify_lowbattery">заряд менее %1$d%%</string>
+  <string name="power_off_warning_button_ok">Понятно</string>
+  <string name="power_off_warning_message">Батарея разряжена. Устройство выключится через %d сек. Подключите зарядное устройство.</string>
+  <string name="power_off_warning_notification_title">Устройство скоро выключится</string>
   <string name="power_optimize_auto_catagory_title">Объекты для оптимизации</string>
   <string name="power_optimize_battery_save_idea">Оптимизация питания</string>
   <string name="power_optimize_battery_save_more">Еще</string>
@@ -2270,6 +2335,8 @@
   <string name="power_save_mode">Энергосбережение</string>
   <string name="power_save_mode_auto_exit_summary">Автоматически отключать энергосбережение при заряде 60% и более</string>
   <string name="power_save_mode_auto_exit_title">Автоматическое отключение</string>
+  <string name="power_save_mode_close_aod_display_summary">Отключать Активный экран при энергосбережении</string>
+  <string name="power_save_mode_close_aod_display_title">Отключать Активный экран</string>
   <string name="power_save_mode_close_notification_screenon_summary">Функция активна при включенном энергосбережении</string>
   <string name="power_save_mode_close_notification_screenon_title">Не пробуждать для уведомлений</string>
   <string name="power_save_mode_close_warn_text">Энергосбережение ограничивает фоновую активность и синхронизацию. Если вы решите использовать ее при заряженной батарее, некоторые функции могут работать неправильно. Оставить энергосбережение включенным?</string>
@@ -2297,12 +2364,11 @@
   <string name="power_save_on_time_title">Расписание</string>
   <string name="power_save_ps_clean">Очистка кэша при блокировке устройства</string>
   <string name="power_save_ps_close_setting">Отключение служб и функций с высоким энергопотреблением (синхронизация, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
-  <string name="power_save_ps_close_setting_5g">Отключение служб и функций с высоким энергопотреблением (синхронизация, 5G подключение, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
-  <string name="power_save_ps_close_setting_5g_q">Отключение служб и функций с высоким энергопотреблением (синхронизация, 5G подключение, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
-  <string name="power_save_ps_close_setting_q">Отключение служб и функций с высоким энергопотреблением (синхронизация, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
   <string name="power_save_ps_close_setting_3">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s)</string>
   <string name="power_save_ps_close_setting_4">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s)</string>
   <string name="power_save_ps_close_setting_5">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_close_setting_5g">Отключение служб и функций с высоким энергопотреблением (синхронизация, 5G подключение, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
+  <string name="power_save_ps_close_setting_5g_q">Отключение служб и функций с высоким энергопотреблением (синхронизация, 5G подключение, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
   <string name="power_save_ps_close_setting_5gnet">5G подключение</string>
   <string name="power_save_ps_close_setting_6">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
   <string name="power_save_ps_close_setting_7">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
@@ -2311,7 +2377,8 @@
   <string name="power_save_ps_close_setting_gps">GPS</string>
   <string name="power_save_ps_close_setting_haptic">виброотклик</string>
   <string name="power_save_ps_close_setting_pickupwakeup">\"Пробуждать при взятии в руки\"</string>
-  <string name="power_save_ps_close_setting_sync">синхронизация</string> 
+  <string name="power_save_ps_close_setting_q">Отключение служб и функций с высоким энергопотреблением (синхронизация, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
+  <string name="power_save_ps_close_setting_sync">синхронизация</string>
   <string name="power_save_ps_description_title">Энергосбережение подразумевает следующие действия:</string>
   <string name="power_save_ps_freeze">Заморозка приложений, работающих в фоновом режиме</string>
   <string name="power_save_ps_limit">Ограничение активности системных приложений</string>
@@ -2342,6 +2409,8 @@
   <string name="power_settings_top">Полоска вверху экрана</string>
   <string name="power_subtitle_lowbattery">Энергосбережение при разряженной батарее</string>
   <string name="power_subtitle_ontime">Энергосбережение по расписанию</string>
+  <string name="power_superpower_title_systemui_highpower">Оставшееся время</string>
+  <string name="power_superpower_title_systemui_lowpower">Подключите зарядное устройство</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_about_traffic_title">Общие настройки</string>
   <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
@@ -2412,6 +2481,7 @@
   <string name="pref_traffic_unlimited_package">Безлимитный тариф</string>
   <string name="pref_warning_values">Порог предупреждения</string>
   <string name="pref_whitelist_setting">Исключения</string>
+  <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
   <string name="preferred_app_entries_browser">Браузер</string>
   <string name="preferred_app_entries_camera">Камера</string>
   <string name="preferred_app_entries_dial">Вызов</string>
@@ -2420,6 +2490,15 @@
   <string name="preferred_app_entries_launcher">Рабочий стол</string>
   <string name="preferred_app_entries_messaging">SMS</string>
   <string name="preferred_app_entries_music">Музыка</string>
+  <string name="pricacy_permission_use_total">Конфиденциальные действия</string>
+  <string name="priority_storage_app_settings">Данные приложения %1$s</string>
+  <string name="priority_storage_settings_summary">При отсутствии SD-карты данные будут автоматически сохраняться во внутреннюю память</string>
+  <string name="priority_storage_summary">Выберите местро для сохранения данных</string>
+  <string name="priority_storage_title">Данные приложений</string>
+  <string name="privacy_app_behavior_summary">Автозапуск, разрешения и другое</string>
+  <string name="privacy_app_behavior_title">История действий</string>
+  <string name="privacy_app_permission_manage_summary">Управление разрешениями установленных приложений</string>
+  <string name="privacy_app_permission_manage_title">Управление разрешениями</string>
   <string name="privacy_apps">Скрытие приложений</string>
   <string name="privacy_apps_begin_use">Начать</string>
   <string name="privacy_apps_button_know">Понятно</string>
@@ -2439,20 +2518,104 @@
   <string name="privacy_apps_tutorial_prompt_pageone">"Эта функция позволяет скрыть значки приложений на рабочем столе."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">После ввода пароля появится папка со скрытыми приложениями.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Разведите два пальца на экране. Появится сообщение с просьбой ввести пароль защиты приложений.</string>
+  <string name="privacy_danger_permission_status_summary">Управление приложениями, использующими разрешения для конфиденциальных действий</string>
+  <string name="privacy_danger_permission_status_title">Конфиденциальные действия</string>
+  <string name="privacy_danger_permission_summary">Отслеживание использования разрешений приложениями</string>
+  <string name="privacy_danger_permission_title">Уведомления об использовании</string>
+  <string name="privacy_danger_permission_warning">Небезопасные разрешения</string>
   <string name="privacy_declare_dialog_title">Условия использования</string>
   <string name="privacy_description_camera">%1s использует камеру в фоновом режиме. Вы можете переключить переключатель ниже, чтобы ограничить деятельность.</string>
   <string name="privacy_description_camera_mic">%1s использует камеру и микрофон в фоновом режиме. Вы можете переключить переключатель ниже, чтобы ограничить деятельность.</string>
   <string name="privacy_description_mic">%1s использует микрофон в фоновом режиме. Вы можете переключить переключатель ниже, чтобы ограничить деятельность.</string>
+  <string name="privacy_dialog_call_item_1">Доступ к информации об устройстве</string>
+  <string name="privacy_dialog_call_item_2">Осуществление вызовов</string>
+  <string name="privacy_dialog_call_item_3">Доступ к состоянию устройства</string>
+  <string name="privacy_dialog_call_message">По умолчанию MIUI не позволяет сторонним приложениям выполнять следующие действия:</string>
+  <string name="privacy_dialog_call_result">Вы по-прежнему сможете нормально использовать сторонние приложения и службы. Если у вас возникнут какие-либо проблемы, вы можете связаться с нами.</string>
+  <string name="privacy_dialog_call_title">Защита вызовов</string>
+  <string name="privacy_dialog_camera_message">Чтобы защитить вашу конфиденциальность, MIUI не позволяет приложениям использовать камеру в фоновом режиме.</string>
+  <string name="privacy_dialog_camera_title">Ограничение фонового использования камеры</string>
+  <string name="privacy_dialog_danger_mission_message">В Android имеются небезопасные разрешения (например, разрешение на отправку вам push-уведомлений). Для защиты вашей конфиденциальности MIUI будет запрашивать подтверждение разрешений с вариантами их ограничения.</string>
+  <string name="privacy_dialog_danger_mission_title">Небезопасные разрешения</string>
+  <string name="privacy_dialog_feedback">Обратная связь</string>
   <string name="privacy_dialog_message">При подключении к интернету это сообщение вместе с данными оператора будет зашифровано и загружено на серверы Mi для улучшения мониторинга трафика.</string>
+  <string name="privacy_dialog_ok">Понятно</string>
+  <string name="privacy_dialog_ok_with_num">Понятно (%ss)</string>
+  <string name="privacy_dialog_open">Включить</string>
+  <string name="privacy_empty_call">Доступа к журналу вызовов сегодня не было</string>
+  <string name="privacy_empty_contact">Доступа к контактам сегодня не было</string>
+  <string name="privacy_empty_location">Доступа к местоположению сегодня не было</string>
+  <string name="privacy_empty_record">Доступа к микрофону сегодня не было</string>
+  <string name="privacy_empty_storage">Доступа к памяти сегодня не было</string>
+  <string name="privacy_guide_permission_guide_text">Показывать уведомления в строке состояния, когда приложения используют доступ к местоположению, микрофону или камере в фоновом режиме.</string>
+  <string name="privacy_guide_permission_use_text">MIUI будет собирать статистику использования приложениями конфиденциальных разрешений, включая доступ к местоположению, контактам, журналу вызовов, микрофону и памяти устройства. Данная статистика может быть использована для более тонкой настройки разрешений.</string>
+  <string name="privacy_informed_title">Статистика</string>
+  <string name="privacy_location_info_summary">Управление доступом к местоположению</string>
+  <string name="privacy_location_info_title">Доступ к местоположению</string>
+  <string name="privacy_look_all_permission_status">Все разрешения</string>
+  <string name="privacy_look_all_permission_times">Все действия</string>
+  <string name="privacy_manage_title">Управление</string>
+  <string name="privacy_mask_summary">Вместо вашего реального идентификатора MIUI предоставит сторонним приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваши действия и предпочтения, а также защищает вашу конфиденциальность.</string>
+  <string name="privacy_mask_title">Виртуальный ID включен</string>
+  <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
+  <string name="privacy_more_info_title">Узнайте больше о функциях защиты конфиденциальности</string>
   <string name="privacy_notification_subtitle">Нажмите для управления разрешениями</string>
   <string name="privacy_notification_title_camera">%1s использует камеру в фоновом режиме</string>
   <string name="privacy_notification_title_camera_mic">%1s использует камеру и микрофон в фоновом режиме</string>
   <string name="privacy_notification_title_mic">%1s использует микрофон в фоновом режиме</string>
+  <string name="privacy_other_permission_manage_summary">Управление другими разрешениями приложений</string>
+  <string name="privacy_other_permission_manage_title">Другие разрешения</string>
+  <string name="privacy_permission_call">Доступ к журналу вызовов</string>
+  <string name="privacy_permission_call_title">Защита вызовов</string>
+  <string name="privacy_permission_camera_title">Ограничение фонового использования камеры</string>
+  <string name="privacy_permission_contacts">Доступ к контактам</string>
+  <string name="privacy_permission_location">Доступ к местоположению</string>
+  <string name="privacy_permission_management">Управление разрешениями</string>
+  <string name="privacy_permission_management_summary">Приложения, использующие разрешения, которые позволяют осуществлять вызовы, отправлять SMS и получать доступ к контактам</string>
+  <string name="privacy_permission_record">Доступ к микрофону</string>
+  <string name="privacy_permission_right">Конфиденциальность</string>
+  <string name="privacy_permission_status">Используется разрешение</string>
+  <string name="privacy_permission_storage">Доступ к памяти устройства</string>
+  <string name="privacy_permission_summary_none">Нет приложений с постоянным доступом</string>
+  <string name="privacy_permission_use_times">Статистика приложений, использующих разрешения для конфиденциальных действий</string>
+  <string name="privacy_permission_use_warning">Уведомления об использовании</string>
+  <string name="privacy_pop_call">Доступ к журналу вызовов сегодня</string>
+  <string name="privacy_pop_contact">Доступ к контактам сегодня</string>
+  <string name="privacy_pop_location">Доступ к местоположению сегодня</string>
+  <string name="privacy_pop_record">Использование микрофона сегодня</string>
+  <string name="privacy_pop_storage">Доступ к памяти устройства сегодня</string>
   <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для обновления статистики трафика.</string>
   <string name="privacy_prompt_traffic_adjust_message">"После начала калибровки MIUI подключится к сети, зашифрует данные об операторе, номере телефона, IMEI и Mi Аккаунте, и загрузит их на серверы Xiaomi. Это нужно для получения от оператора шаблона калибровки и определения возможности покупки данных в вашем расположении.
 
 Во время калибровки MIUI отправит оператору SMS для получения шаблона калибровки."</string>
   <string name="privacy_prompt_upload">Отправить</string>
+  <string name="privacy_protect_summary">Защита ваших личных данных</string>
+  <string name="privacy_protect_title">Конфиденциальность</string>
+  <string name="privacy_provision_back">Назад</string>
+  <string name="privacy_provision_more">Узнайте больше о защите конфиденциальности</string>
+  <string name="privacy_provision_next">Далее</string>
+  <string name="privacy_provision_summary">Защита конфиденциальности - это обязательство, стоящее за дизайном наших продуктов</string>
+  <string name="privacy_provision_text">Мы уважаем вашу конфиденциальность и стремимся защищать ее. Отдавая приоритет исследованиям и разработкам в области информационной безопасности, Xiaomi постоянно работает над улучшением методов, практик и технических решений, обеспечивающих защиту ваших данных. Мы также делимся нашими последними достижениями с нашими партнерами, чтобы обеспечить вашу конфиденциальность по всем направлениям.</string>
+  <string name="privacy_provision_title">Конфиденциальность</string>
+  <string name="privacy_search_key_1">Конфиденциальность</string>
+  <string name="privacy_search_key_10">ID устройства</string>
+  <string name="privacy_search_key_2">Использование сети</string>
+  <string name="privacy_search_key_3">Разрешения</string>
+  <string name="privacy_search_key_4">Действия</string>
+  <string name="privacy_search_key_5">Специальный доступ</string>
+  <string name="privacy_search_key_6">Уведомления об использовании</string>
+  <string name="privacy_search_key_7">Местоположение</string>
+  <string name="privacy_search_key_8">Конфиденциальные зоны</string>
+  <string name="privacy_search_key_9">Виртуальный ID</string>
+  <string name="privacy_show_password">Показывать пароли</string>
+  <string name="privacy_show_password_summary">Ненадолго показывать символы при вводе</string>
+  <string name="privacy_special_permission_summary">Управление специальным доступом</string>
+  <string name="privacy_special_permission_title">Специальный доступ</string>
+  <string name="privacy_summary">Узнайте о защите конфиденциальности в MIUI 12</string>
+  <string name="privacy_type_open">Вкл.</string>
+  <string name="privacy_using_camera">Доступ к камере</string>
+  <string name="privacy_using_location">Доступ к местоположению</string>
+  <string name="privacy_using_record">Доступ к микрофону</string>
   <string name="privacyapp_number_masked_text">Содержимое уведомления скрыто</string>
   <string name="privacyapp_number_unmasked_text">Содержимое уведомления может быть скрыто</string>
   <string name="process_mediaserver_label">Медиа-сервер</string>
@@ -2503,6 +2666,8 @@
   <string name="report_success">Отчет отправлен</string>
   <string name="report_warning">Отправить %1$s SMS в Xiaomi? Эти сообщения и телефонные номера, с которых они были отправлены, будут загружены на серверы Xiaomi для рассмотрения. Любая личная информация, связанная с этими сообщениями, останется анонимной.</string>
   <string name="report_warning_title">Внимание</string>
+  <string name="required_permissions">Обязательные разрешения</string>
+  <string name="required_permissions_desc">Эти разрешения необходимы для основных функций и служб приложения.</string>
   <string name="reset_data_dialog_message">Это устройство не связано с вашим Mi Аккаунтом. Не удается восстановить или сбросить пароль. Создайте резервную копию всех важных данных и выполните сброс настроек. При этом все данные будут удалены навсегда, а ваша SD-карта будет отформатирована.</string>
   <string name="reset_data_dialog_ok">Сброс настроек</string>
   <string name="reset_data_title">Невозможно восстановить пароль</string>
@@ -2556,7 +2721,15 @@
   <string name="scan_status_safe">Система защищена</string>
   <string name="scanning_bar_number">%d%%</string>
   <string name="screenrecord_not_find">Установите последнюю версию Записи экрана и повторите попытку.</string>
+  <string name="sd_eject">Извлечь SD-карту</string>
+  <string name="sd_eject_summary">Безопасное извлечение SD-карты</string>
+  <string name="sd_format">Форматировать SD-карту</string>
+  <string name="sd_format_summary">Стереть все данные на SD-карте</string>
+  <string name="sd_insert_summary">Вставьте SD-карту для подключения</string>
+  <string name="sd_mount">Подключить SD-карту</string>
+  <string name="sd_mount_summary" />
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_menu_title">Поиск</string>
   <string name="search_result_text">Приложения не найдены</string>
   <string name="section_clear_acc_item_title">%s. Если памяти все же не хватает, попробуйте использовать Очистку.</string>
   <string name="section_security_defend_item_title">Обезопасьте ваши данные с Защитой приложений</string>
@@ -2579,6 +2752,7 @@
   <string name="set_numeric_password_name">Задайте PIN-код</string>
   <string name="set_pattern_password_name">Задайте графический ключ</string>
   <string name="setting">Настройки</string>
+  <string name="Setting_lock">Настройки</string>
   <string name="setting_privacy_password">Задайте графический ключ</string>
   <string name="settings">Настройки трафика</string>
   <string name="settings_battery_consume_abnormal_summary">Получать уведомления о быстром разряде батареи</string>
@@ -2587,6 +2761,11 @@
   <string name="settings_category_overheat">Уведомления</string>
   <string name="settings_choice_no_notification">Отключено</string>
   <string name="settings_power_save_ontime_title">Расписание</string>
+  <string name="Settings_title_anti_spam">Настройки антиспама</string>
+  <string name="Settings_title_anti_virus">Настройки антивируса</string>
+  <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
+  <string name="Settings_title_network_assistants">Настройки трафика</string>
+  <string name="Settings_title_power_center">Настройки батареи</string>
   <string name="shield_keyboard_detail">Включить кнопки можно двойным нажатием на них</string>
   <string name="shield_keyboard_summary">Отключение кнопок и полноэкранных жестов во время игр</string>
   <string name="shield_keyboard_title">Отключение кнопок и жестов</string>
@@ -2614,8 +2793,15 @@
   <string name="sim_not_ready_toast">SIM карта не готова</string>
   <string name="sim_state_exception_summary">Статус SIM карты свидетельствует о возможных проблемах SIM карты.</string>
   <string name="sip_phone">SIP телефон</string>
+  <string name="size_byte">Б</string>
+  <string name="size_giga_byte">ГБ</string>
+  <string name="size_kilo_byte">КБ</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">ПБ</string>
+  <string name="size_tera_byte">ТБ</string>
   <string name="skin_change_close_toast">Изменения вступят в силу при следующем запуске Безопасности</string>
   <string name="sms_address">Регионы</string>
+  <string name="SMS_and_MMS">SMS и MMS</string>
   <string name="sms_blacklist">Сообщения</string>
   <string name="sms_cloud_block">Облачная блокировка</string>
   <string name="sms_contact_block">Блокировать SMS от контактов</string>
@@ -2633,6 +2819,7 @@
   <string name="sms_smart_engine_update">Автообновление базы SMS</string>
   <string name="sms_smart_engine_update_now">Обновить</string>
   <string name="sms_stranger_block">Заблокированные</string>
+  <string name="SMSpass">Разрешить SMS</string>
   <string name="sorted_dialog_title">Тип трафика</string>
   <string name="sp_background_risk_dialog_summary">, проверьте и исправьте проблемы с оплатой.</string>
   <string name="sp_background_risk_dialog_summary_new">Текущая платежная среда может представлять угрозу безопасности. Найдите время для решения существующих проблем.</string>
@@ -2791,6 +2978,81 @@
   <string name="status_bar_network_flow_setup_data_plan">"     Настроить тариф &gt;"</string>
   <string name="still_retain_btn">Оставить</string>
   <string name="stop_milink_connect">Трансляция прекращена</string>
+  <string name="storage_activity_title">Память</string>
+  <string name="storage_app_detail_activity_title">Занятое место</string>
+  <string name="storage_app_detail_cache">Кеш</string>
+  <string name="storage_app_detail_clear_all_data">Очистить все</string>
+  <string name="storage_app_detail_clear_all_dialog_message">Все данные приложения, включая файлы, настройки, учетные записи и кеш, будут удалены без возможности восстановления.</string>
+  <string name="storage_app_detail_clear_all_dialog_title">Очистить все?</string>
+  <string name="storage_app_detail_clear_cache">Очистить кеш</string>
+  <string name="storage_app_detail_clear_cache_title">Очистить кеш?</string>
+  <string name="storage_app_detail_dialog_cancel">Отмена</string>
+  <string name="storage_app_detail_dialog_ok">ОК</string>
+  <string name="storage_app_detail_manage_space">%s - Управление местом</string>
+  <string name="storage_app_detail_manager_enabled">On</string>
+  <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
+  <string name="storage_app_detail_sdcard">Данные приложения</string>
+  <string name="storage_app_detail_system">Размер приложения</string>
+  <string name="storage_app_detail_third_clean_size">Освободить %s</string>
+  <string name="storage_app_detail_total">Всего занято</string>
+  <string name="storage_app_detail_uninstall_app">Удалить приложение</string>
+  <string name="storage_app_detail_uninstall_dialog_message">Удаление приложения очистит все его данные.</string>
+  <string name="storage_app_detail_uninstall_dialog_title">Удалить приложение?</string>
+  <string name="storage_app_detail_uninstall_done">Успешно удалено</string>
+  <string name="storage_app_detail_wechat_cleaner">Очистка WeChat</string>
+  <string name="storage_app_detail_wechat_session">Очистить историю чата WeChat</string>
+  <string name="storage_app_list_activity_title">Просмотр сведений</string>
+  <string name="storage_app_list_desc">Занято: %s</string>
+  <string name="storage_app_manager_clear_dlg_title">Очистка данных</string>
+  <string name="storage_app_manager_clear_failed_dlg_message">Не удалось очистить данные приложения</string>
+  <string name="storage_app_manager_disable_dlg_text">Отключение приложения может привести к некорректной работе некоторых функций.</string>
+  <string name="storage_app_manager_disable_dlg_title">Отключить приложение?</string>
+  <string name="storage_app_manager_disable_text">Отключить</string>
+  <string name="storage_app_manager_factory_reset_dlg_msg">Все обновления этого системного приложения будут удалены.</string>
+  <string name="storage_app_manager_factory_reset_dlg_title">Удалить обновления?</string>
+  <string name="storage_app_manager_uninstall_application">Удалить</string>
+  <string name="storage_app_manager_uninstall_protected_dlg_msg">Удаление системных плагинов может привести к некорректной работе некоторых функций. Все равно удалить?</string>
+  <string name="storage_app_manager_uninstall_protected_dlg_title">Внимание</string>
+  <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Все клоны приложения будут удалены.</string>
+  <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Удаление клона приложения очистит все его данные.</string>
+  <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Удалить клон приложения?</string>
+  <string name="storage_app_space_details_entry">Просмотр сведений</string>
+  <string name="storage_app_uninstall_app_dialog_msg">Удаление приложения очистит все его данные.</string>
+  <string name="storage_app_uninstall_app_dialog_title">Удаление приложения</string>
+  <string name="storage_available_total_size">Доступно %1$s из %2$s</string>
+  <string name="storage_available_total_size1">Занято: %1$s | Всего: %2$s</string>
+  <string name="storage_deepclean_entry">Глубокая очистка</string>
+  <string name="storage_dialog_unmountable">"^1 не работает. 
+
+Для использования необходимо сначала настроить."</string>
+  <string name="storage_dialog_unmounted">"Устройство \"^1\" отключено, но к нему все ещё есть доступ. 
+
+Для использования подключите снова."</string>
+  <string name="storage_dialog_unsupported">"^1 не поддерживается. 
+
+Для использования необходимо сначала настроить."</string>
+  <string name="storage_format_failure">Ошибка форматирования: %1$s</string>
+  <string name="storage_format_success">Успешно  отформатировано: %1$s</string>
+  <string name="storage_item_apk_name">Пакеты установки</string>
+  <string name="storage_item_appdata_name">Приложения</string>
+  <string name="storage_item_audio_name">Музыка</string>
+  <string name="storage_item_clean_name">Очистить</string>
+  <string name="storage_item_doc_name">Документы</string>
+  <string name="storage_item_other_name">Другое</string>
+  <string name="storage_item_picture_name">Фото</string>
+  <string name="storage_item_system_name">Система</string>
+  <string name="storage_item_video_name">Видео</string>
+  <string name="storage_menu_mount">Подключить</string>
+  <string name="storage_mount_failure">Ошибка подключения: %1$s</string>
+  <string name="storage_mount_success">Успешно подключено: %1$s</string>
+  <string name="storage_space_release_hint">Нужно больше места?</string>
+  <string name="storage_unmount_failure">Ошибка извлечения: %1$s</string>
+  <string name="storage_unmount_success">Успешно извлечено: %1$s</string>
+  <string name="storage_wizard_format_confirm_v2_action">Форматировать</string>
+  <string name="storage_wizard_format_confirm_v2_body">Внимание! Форматирование сотрет все данные на носителе. 
+
+Во избежание потери данных, сделайте резервную копию на другом носителе.</string>
+  <string name="storage_wizard_format_confirm_v2_title">Форматирование</string>
   <string name="suggest_app_tolock">Предложения</string>
   <string name="suggest_app_tolock_masked">Содержимое скрыто</string>
   <string name="suggest_app_tolock_unmasked">Содержимое отображается</string>
@@ -2806,6 +3068,7 @@
   <string name="summary_cloud_space_almost_full">Добавьте место</string>
   <string name="summary_cloud_space_full">Получите больше места в облачном хранилище, а также доступ к новым функциям</string>
   <string name="summary_cmcc_app_check">Не удалось проверить некоторые приложения</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_consume_power">Найдены проблемы, влияющие на энергосбережение</string>
   <string name="summary_dark_mode">Некоторые страницы отображаются чёрным из-за сторонних сервисов</string>
   <string name="summary_data_flow">Контроль мобильного трафика для уменьшения дополнительных затрат</string>
@@ -2885,15 +3148,20 @@
 %2s 
 
 "</string>
+  <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_no_say_no">"Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Если вы не хотите предоставлять эти разрешения, вы можете отменить их в Настройки &gt; Пароли и безопасность &gt; Конфиденциальность &gt; Программа улучшения качества."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения или не разрешите сбор и использование данных.</string>
   <string name="system_permission_declare_privacy_declare">"Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. 
 Обратите внимание, что приложению требуются подключение к Интернету и следующие разрешения для сбора личной информации:"</string>
+  <string name="system_permission_declare_privacy_no_network">Для нормальной работы приложению необходимы следующие разрешения:</string>
   <string name="system_permission_declare_privacy_no_permission">Обратите внимание, что приложению требуются подключение к Интернету и разрешения для сбора личной информации для предоставления услуг. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Вы можете выйти из этого приложения.</string>
   <string name="system_permission_declare_revoke_uninstallable">Вы можете выйти, удалить это приложение или отозвать авторизацию в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
+  <string name="system_permission_declare_title">Внимание</string>
   <string name="system_permission_declare_use_network">Подключение к сети</string>
   <string name="system_permission_declare_use_network_no_permission">Подключение к сети</string>
   <string name="system_permission_declare_user_agreement">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt;.&lt;/Data&gt;</string>
@@ -2910,6 +3178,7 @@
   <string name="tab_gift">Подарки</string>
   <string name="tab_guide">Руководство</string>
   <string name="tab_sms">SMS</string>
+  <string name="tab_sort_all">Все</string>
   <string name="tab_title">Антиспам</string>
   <string name="tc_cmd_invalid">Недопустимый шаблон</string>
   <string name="tc_diagnostic_all_error_notification_summary">Нажмите для отправки отчета.</string>
@@ -3140,6 +3409,7 @@
   <string name="traffic_limit_error_alert_title">Напоминание о трафике %s</string>
   <string name="traffic_none">Нет</string>
   <string name="traffic_over_purchase_link">"Вы достигли лимита трафика.&lt;br/&gt;Если вы превысите лимит, ваш оператор связи может взимать дополнительную плату.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Нажмите для пополнения баланса.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_provider_no_sim">SIM-карта отсутствует</string>
   <string name="traffic_purchase_body">Нажмите для пополнения баланса.</string>
   <string name="traffic_setting_fragment_area">Местоположение</string>
   <string name="traffic_setting_fragment_brand">Бренд</string>
@@ -3181,7 +3451,9 @@
   <string name="uninstall_danagerous_msg">\"%s\" может нанести вред устройству, снизить его производительность или вызвать перезагрузки.</string>
   <string name="uninstall_danagerous_title">Вредоносное приложение</string>
   <string name="unlike">Нет, спасибо</string>
-  <string name="unlock_pattern"><u>Графический ключ</u></string>
+  <string name="unlock_pattern">
+    <u>Графический ключ</u>
+  </string>
   <string name="unlock_pattern_to_bind_fingerprint">Введите пароль для активации отпечатка</string>
   <string name="unlock_set_unlock_password_summary">Комбинируйте разные символы</string>
   <string name="unlock_set_unlock_password_title">Пароль</string>
@@ -3207,7 +3479,14 @@
   <string name="usb_adb_input_apply_step_1">Это может привести к утечке и потере личной информации. Мы не рекомендуем делать это, если вы не разработчик.</string>
   <string name="usb_adb_input_apply_step_2">Разработчики могут использовать специальное программное обеспечение для имитации жестов, изменения настроек и предоставления разрешений через USB.</string>
   <string name="usb_adb_input_apply_step_3">Разрешить отладку?</string>
+  <string name="usb_eject">Извлечь USB-накопитель</string>
+  <string name="usb_eject_summary">Безопасное извлечение USB-накопителя</string>
+  <string name="usb_format">Форматировать USB-накопитель</string>
+  <string name="usb_format_summary">Стереть все данные на USB-накопителе</string>
+  <string name="usb_insert_summary">Подключите USB-накопитель</string>
   <string name="usb_install_desc">Установить это приложение через USB?</string>
+  <string name="usb_mount">Подключить USB-накопитель</string>
+  <string name="usb_mount_summary" />
   <string name="usbsharenet_exception_summary">Невозможно подключиться к интернету по USB. Проверьте USB соединение и перезапустите Mi PC Suite.</string>
   <string name="usbsharenet_exception_title">Диагностика интернета по USB</string>
   <string name="usbsharenet_pc_exception_summary">Невозможно подключиться к интернету по USB. Проверьте интернет-подключение вашего компьютера.</string>
@@ -3215,6 +3494,8 @@
   <string name="user_define_title">Новый профиль</string>
   <string name="user_guide">Сделайте свайп вверх, чтобы узнать о новых играх</string>
   <string name="user_guide_title">Выбор джойстика</string>
+  <string name="v7_preference_off">ОТКЛ.</string>
+  <string name="v7_preference_on">ВКЛ.</string>
   <string name="vb_advanced_settings">Картинка</string>
   <string name="vb_advanced_settings_after_open">После</string>
   <string name="vb_advanced_settings_before_open">До</string>
@@ -3263,9 +3544,9 @@
   <string name="vtb_func_frc_desc4">С HDR видео</string>
   <string name="vtb_func_frc_title">Сглаживание движения</string>
   <string name="vtb_func_vpp_desc4">Функция не будет работать, если разрешение видео выше 4K.</string>
-  <string name="vtb_func_vpp_title">Улучшенные контуры</string> 
+  <string name="vtb_func_vpp_title">Улучшенные контуры</string>
   <string name="vtb_other_milink_connect">Не удалось начать трансляцию. Идет другая трансляция…</string>
-  <string name="vtb_stop_milink_connect">Остановка трансляции</string>  
+  <string name="vtb_stop_milink_connect">Остановка трансляции</string>
   <string name="wakepath_confirm_start_activity">Разрешить %1$s запуск %2$s?</string>
   <string name="warningcenter_action_check">Посмотреть</string>
   <string name="warningcenter_alert_home">Расположение</string>
@@ -3300,7 +3581,7 @@
   <string name="whitelist_prefix_add_hint">Все номера с этим префиксом будут добавлены в белый список</string>
   <string name="wifi_danger_dialog_messgae">Текущая сеть Wi-Fi может представлять угрозу безопасности. Используйте с осторожностью.</string>
   <string name="wifi_danger_dialog_tips">Вы можете управлять безопасностью Wi-Fi в Безопасность &gt; Антивирус &gt; Настройки &gt; Wi-Fi.</string>
-  <string name="wifi_danger_dialog_title">Сеть Wi-Fi не защищена</string>  
+  <string name="wifi_danger_dialog_title">Сеть Wi-Fi не защищена</string>
   <string name="wifi_exception_summary">Диагностика доступных сетей Wi-Fi</string>
   <string name="wifi_exception_title">Диагностика сети Wi-Fi</string>
   <string name="wifi_item_status_connection_no">Не подключено</string>
@@ -3325,272 +3606,4 @@
   <string name="xunyou_pay_webview">Сервисы Xunyou</string>
   <string name="xunyou_server_expired">Сессия устарела.</string>
   <string name="yuan">CNY</string>
-  
-     <string name="app_behavior_get_install">%1s - доступ к списку приложений</string>
-     <string name="app_behavior_get_install_single">Доступ к списку приложений</string>
-     <string name="app_behavior_now_running">Запущено</string>
-     <string name="app_behavior_start_from_app" formatted="false">%2s - запуск приложения %1s</string>
-     <string name="app_behavior_this_run">Недавно</string>
-     <string name="bill_limit_notification_text_format">Карта: %1$s | Баланс: %2$s CNY</string>
-     <string name="bill_limit_notification_title">Недостаточно средств</string>
-     <string name="cd_back">Назад</string>
-     <string name="copy">Копировать</string>
-     <string name="cta_agree_desc">Чтобы использовать наши сервисы, разрешите приложению подключение к интернету и предоставьте вышеперечисленные разрешения.</string>
-     <string name="debug_open_final_tip">Включить отладку по USB?</string>
-     <string name="debug_open_title">Эта функция предназначена для разработчиков. Включение отладки через USB может привести к:</string>
-     <string name="empty_title_installed_apps">Ничего нет</string>
-     <string name="expand_button_title">Дополнительно</string>
-     <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать в игре в момент убийства</string>
-     <string name="intl_perm_intro_message">Нажмите для настройки разрешений, чтобы избежать утечки данных</string>
-     <string name="intl_perm_notification_content">Настройка разрешений</string>
-     <string name="intl_perm_notification_title">Защита конфиденциальности</string>
-     <string name="memory_title">Доступно: %1$s\u0009\Всего: %2$s</string>
-     <string name="miui_optimization_close_final_tip">Отключить оптимизацию MIUI?</string>
-     <string name="miui_optimization_close_title">Эта функция предназначена для разработчиков. Отключение оптимизации MIUI может привести к:</string>
-     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
-     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
-     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
-     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
-     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
-     <string name="mtp_ptp_mode_summary">MTP или PTP активен</string>
-     <string name="na_main_card_ad_subtitle">Много трафика, бесплатные звонки, низкие тарифы</string>
-     <string name="na_main_card_ad_text">Найдите подходящий вам план</string>
-     <string name="na_main_card_ad_title">Продвижение карты Mi Fan</string>
-     <string name="na_main_card_title_sim">"Карта "</string>
-     <string name="na_text_checking">"Тестирование: "</string>
-     <string name="not_set">Не задано</string>
-     <string name="operator_name_mi_mobile">Mi Mobile</string>
-     <string name="optional_permissions">Дополнительные разрешения</string>
-     <string name="optional_permissions_desc">Эти разрешения необходимы для дополнительных функций.</string>
-     <string name="pc_battery_history_consumption_percent_title">Процент</string>
-     <string name="pc_battery_history_idletime_title">Режим ожидания</string>
-     <string name="pc_battery_history_item_chart">График расхода</string>
-     <string name="pc_battery_history_item_histogram">Детализация</string>
-     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
-     <string name="pc_battery_history_usetime_title">Активный режим</string>
-     <string name="perm_intercept_content">Предоставить приложению следующее разрешение: %1s?</string>
-     <string name="perm_intercept_notification_title">Предоставление приложению %1s разрешения использовать уведомления, позволит приложению:</string>
-     <string name="perm_intercept_privacy_content">Это разрешение может привести к раскрытию ваших личных данных. Предоставить разрешение в любом случае (%1s)?</string>
-     <string name="perm_intercept_title">Предоставление приложению %1s разрешения на доступ к данным об использовании, позволит приложению:</string>
-     <string name="perm_intercept_unknown_title">Предоставление приложению %1s разрешения устанавливать приложения из неизвестных источников может привести к:</string>
-     <string name="permission_action_desc_always">Разрешение предоставляется всегда</string>
-     <string name="permission_action_desc_foreground">Разрешение предоставляется только на время использования приложения</string>
-     <string name="permission_action_desc_prompt">Разрешение предоставляется после подтверждения</string>
-     <string name="permission_action_desc_reject">Разрешение не предоставляется</string>
-     <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
-     <string name="power_off_warning_button_ok">Понятно</string>
-     <string name="power_off_warning_message">Батарея разряжена. Устройство выключится через %d сек. Подключите зарядное устройство.</string>
-     <string name="power_off_warning_notification_title">Устройство скоро выключится</string>
-     <string name="power_save_mode_close_aod_display_summary">Отключать Активный экран при энергосбережении</string>
-     <string name="power_save_mode_close_aod_display_title">Отключать Активный экран</string>
-     <string name="power_superpower_title_systemui_highpower">Оставшееся время</string>
-     <string name="power_superpower_title_systemui_lowpower">Подключите зарядное устройство</string>
-     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
-     <string name="pricacy_permission_use_total">Конфиденциальные действия</string>
-     <string name="priority_storage_app_settings">Данные приложения %1$s</string>
-     <string name="priority_storage_settings_summary">При отсутствии SD-карты данные будут автоматически сохраняться во внутреннюю память</string>
-     <string name="priority_storage_summary">Выберите местро для сохранения данных</string>
-     <string name="priority_storage_title">Данные приложений</string>
-     <string name="privacy_app_behavior_summary">Автозапуск, разрешения и другое</string>
-     <string name="privacy_app_behavior_title">История действий</string>
-     <string name="privacy_app_permission_manage_summary">Управление разрешениями установленных приложений</string>
-     <string name="privacy_app_permission_manage_title">Управление разрешениями</string>
-     <string name="privacy_danger_permission_status_summary">Управление приложениями, использующими разрешения для конфиденциальных действий</string>
-     <string name="privacy_danger_permission_status_title">Конфиденциальные действия</string>
-     <string name="privacy_danger_permission_summary">Отслеживание использования разрешений приложениями</string>
-     <string name="privacy_danger_permission_title">Уведомления об использовании</string>
-     <string name="privacy_danger_permission_warning">Небезопасные разрешения</string>
-     <string name="privacy_dialog_call_item_1">Доступ к информации об устройстве</string>
-     <string name="privacy_dialog_call_item_2">Осуществление вызовов</string>
-     <string name="privacy_dialog_call_item_3">Доступ к состоянию устройства</string>
-     <string name="privacy_dialog_call_message">По умолчанию MIUI не позволяет сторонним приложениям выполнять следующие действия:</string>
-     <string name="privacy_dialog_call_result">Вы по-прежнему сможете нормально использовать сторонние приложения и службы. Если у вас возникнут какие-либо проблемы, вы можете связаться с нами.</string>
-     <string name="privacy_dialog_call_title">Защита вызовов</string>
-     <string name="privacy_dialog_camera_message">Чтобы защитить вашу конфиденциальность, MIUI не позволяет приложениям использовать камеру в фоновом режиме.</string>
-     <string name="privacy_dialog_camera_title">Ограничение фонового использования камеры</string>
-     <string name="privacy_dialog_danger_mission_message">В Android имеются небезопасные разрешения (например, разрешение на отправку вам push-уведомлений). Для защиты вашей конфиденциальности MIUI будет запрашивать подтверждение разрешений с вариантами их ограничения.</string>
-     <string name="privacy_dialog_danger_mission_title">Небезопасные разрешения</string>
-     <string name="privacy_dialog_feedback">Обратная связь</string>
-     <string name="privacy_dialog_ok">Понятно</string>
-     <string name="privacy_dialog_ok_with_num">Понятно (%ss)</string>
-     <string name="privacy_dialog_open">Включить</string>
-     <string name="privacy_empty_call">Доступа к журналу вызовов сегодня не было</string>
-     <string name="privacy_empty_contact">Доступа к контактам сегодня не было</string>
-     <string name="privacy_empty_location">Доступа к местоположению сегодня не было</string>
-     <string name="privacy_empty_record">Доступа к микрофону сегодня не было</string>
-     <string name="privacy_empty_storage">Доступа к памяти сегодня не было</string>
-     <string name="privacy_guide_permission_guide_text">Показывать уведомления в строке состояния, когда приложения используют доступ к местоположению, микрофону или камере в фоновом режиме.</string>
-     <string name="privacy_guide_permission_use_text">MIUI будет собирать статистику использования приложениями конфиденциальных разрешений, включая доступ к местоположению, контактам, журналу вызовов, микрофону и памяти устройства. Данная статистика может быть использована для более тонкой настройки разрешений.</string>
-     <string name="privacy_informed_title">Статистика</string>
-     <string name="privacy_location_info_summary">Управление доступом к местоположению</string>
-     <string name="privacy_location_info_title">Доступ к местоположению</string>
-     <string name="privacy_look_all_permission_status">Все разрешения</string>
-     <string name="privacy_look_all_permission_times">Все действия</string>
-     <string name="privacy_manage_title">Управление</string>
-     <string name="privacy_mask_summary">Вместо вашего реального идентификатора MIUI предоставит сторонним приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваши действия и предпочтения, а также защищает вашу конфиденциальность.</string>
-     <string name="privacy_mask_title">Виртуальный ID включен</string>
-     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
-     <string name="privacy_more_info_title">Узнайте больше о функциях защиты конфиденциальности</string>
-     <string name="privacy_other_permission_manage_summary">Управление другими разрешениями приложений</string>
-     <string name="privacy_other_permission_manage_title">Другие разрешения</string>
-     <string name="privacy_permission_call">Доступ к журналу вызовов</string>
-     <string name="privacy_permission_call_title">Защита вызовов</string>
-     <string name="privacy_permission_camera_title">Ограничение фонового использования камеры</string>
-     <string name="privacy_permission_contacts">Доступ к контактам</string>
-     <string name="privacy_permission_location">Доступ к местоположению</string>
-     <string name="privacy_permission_management">Управление разрешениями</string>
-     <string name="privacy_permission_management_summary">Приложения, использующие разрешения, которые позволяют осуществлять вызовы, отправлять SMS и получать доступ к контактам</string>
-     <string name="privacy_permission_record">Доступ к микрофону</string>
-     <string name="privacy_permission_right">Конфиденциальность</string>
-     <string name="privacy_permission_status">Используется разрешение</string>
-     <string name="privacy_permission_storage">Доступ к памяти устройства</string>
-     <string name="privacy_permission_summary_none">Нет приложений с постоянным доступом</string>
-     <string name="privacy_permission_use_times">Статистика приложений, использующих разрешения для конфиденциальных действий</string>
-     <string name="privacy_permission_use_warning">Уведомления об использовании</string>
-     <string name="privacy_pop_call">Доступ к журналу вызовов сегодня</string>
-     <string name="privacy_pop_contact">Доступ к контактам сегодня</string>
-     <string name="privacy_pop_location">Доступ к местоположению сегодня</string>
-     <string name="privacy_pop_record">Использование микрофона сегодня</string>
-     <string name="privacy_pop_storage">Доступ к памяти устройства сегодня</string>
-     <string name="privacy_protect_summary">Защита ваших личных данных</string>
-     <string name="privacy_protect_title">Конфиденциальность</string>
-     <string name="privacy_provision_back">Назад</string>
-     <string name="privacy_provision_more">Узнайте больше о защите конфиденциальности</string>
-     <string name="privacy_provision_next">Далее</string>
-     <string name="privacy_provision_summary">Защита конфиденциальности - это обязательство, стоящее за дизайном наших продуктов</string>
-     <string name="privacy_provision_text">Мы уважаем вашу конфиденциальность и стремимся защищать ее. Отдавая приоритет исследованиям и разработкам в области информационной безопасности, Xiaomi постоянно работает над улучшением методов, практик и технических решений, обеспечивающих защиту ваших данных. Мы также делимся нашими последними достижениями с нашими партнерами, чтобы обеспечить вашу конфиденциальность по всем направлениям.</string>
-     <string name="privacy_provision_title">Конфиденциальность</string>
-     <string name="privacy_search_key_1">Конфиденциальность</string>
-     <string name="privacy_search_key_10">ID устройства</string>
-     <string name="privacy_search_key_2">Использование сети</string>
-     <string name="privacy_search_key_3">Разрешения</string>
-     <string name="privacy_search_key_4">Действия</string>
-     <string name="privacy_search_key_5">Специальный доступ</string>
-     <string name="privacy_search_key_6">Уведомления об использовании</string>
-     <string name="privacy_search_key_7">Местоположение</string>
-     <string name="privacy_search_key_8">Конфиденциальные зоны</string>
-     <string name="privacy_search_key_9">Виртуальный ID</string>
-     <string name="privacy_show_password">Показывать пароли</string>
-     <string name="privacy_show_password_summary">Ненадолго показывать символы при вводе</string>
-     <string name="privacy_special_permission_summary">Управление специальным доступом</string>
-     <string name="privacy_special_permission_title">Специальный доступ</string>
-     <string name="privacy_summary">Узнайте о защите конфиденциальности в MIUI 12</string>
-     <string name="privacy_type_open">Вкл.</string>
-     <string name="privacy_using_camera">Доступ к камере</string>
-     <string name="privacy_using_location">Доступ к местоположению</string>
-     <string name="privacy_using_record">Доступ к микрофону</string>
-     <string name="required_permissions">Обязательные разрешения</string>
-     <string name="required_permissions_desc">Эти разрешения необходимы для основных функций и служб приложения.</string>
-     <string name="sd_eject">Извлечь SD-карту</string>
-     <string name="sd_eject_summary">Безопасное извлечение SD-карты</string>
-     <string name="sd_format">Форматировать SD-карту</string>
-     <string name="sd_format_summary">Стереть все данные на SD-карте</string>
-     <string name="sd_insert_summary">Вставьте SD-карту для подключения</string>
-     <string name="sd_mount">Подключить SD-карту</string>
-     <string name="sd_mount_summary" />
-     <string name="search_menu_title">Поиск</string>
-     <string name="size_byte">Б</string>
-     <string name="size_giga_byte">ГБ</string>
-     <string name="size_kilo_byte">КБ</string>
-     <string name="size_mega_byte">MB</string>
-     <string name="size_peta_byte">ПБ</string>
-     <string name="size_tera_byte">ТБ</string>
-     <string name="storage_activity_title">Память</string>
-     <string name="storage_app_detail_activity_title">Занятое место</string>
-     <string name="storage_app_detail_cache">Кеш</string>
-     <string name="storage_app_detail_clear_all_data">Очистить все</string>
-     <string name="storage_app_detail_clear_all_dialog_message">Все данные приложения, включая файлы, настройки, учетные записи и кеш, будут удалены без возможности восстановления.</string>
-     <string name="storage_app_detail_clear_all_dialog_title">Очистить все?</string>
-     <string name="storage_app_detail_clear_cache">Очистить кеш</string>
-     <string name="storage_app_detail_clear_cache_title">Очистить кеш?</string>
-     <string name="storage_app_detail_dialog_cancel">Отмена</string>
-     <string name="storage_app_detail_dialog_ok">ОК</string>
-     <string name="storage_app_detail_manage_space">%s - Управление местом</string>
-     <string name="storage_app_detail_manager_enabled">On</string>
-     <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
-     <string name="storage_app_detail_sdcard">Данные приложения</string>
-     <string name="storage_app_detail_system">Размер приложения</string>
-     <string name="storage_app_detail_third_clean_size">Освободить %s</string>
-     <string name="storage_app_detail_total">Всего занято</string>
-     <string name="storage_app_detail_uninstall_app">Удалить приложение</string>
-     <string name="storage_app_detail_uninstall_dialog_message">Удаление приложения очистит все его данные.</string>
-     <string name="storage_app_detail_uninstall_dialog_title">Удалить приложение?</string>
-     <string name="storage_app_detail_uninstall_done">Успешно удалено</string>
-     <string name="storage_app_detail_wechat_cleaner">Очистка WeChat</string>
-     <string name="storage_app_detail_wechat_session">Очистить историю чата WeChat</string>
-     <string name="storage_app_list_activity_title">Просмотр сведений</string>
-     <string name="storage_app_list_desc">Занято: %s</string>
-     <string name="storage_app_manager_clear_dlg_title">Очистка данных</string>
-     <string name="storage_app_manager_clear_failed_dlg_message">Не удалось очистить данные приложения</string>
-     <string name="storage_app_manager_disable_dlg_text">Отключение приложения может привести к некорректной работе некоторых функций.</string>
-     <string name="storage_app_manager_disable_dlg_title">Отключить приложение?</string>
-     <string name="storage_app_manager_disable_text">Отключить</string>
-     <string name="storage_app_manager_factory_reset_dlg_msg">Все обновления этого системного приложения будут удалены.</string>
-     <string name="storage_app_manager_factory_reset_dlg_title">Удалить обновления?</string>
-     <string name="storage_app_manager_uninstall_application">Удалить</string>
-     <string name="storage_app_manager_uninstall_protected_dlg_msg">Удаление системных плагинов может привести к некорректной работе некоторых функций. Все равно удалить?</string>
-     <string name="storage_app_manager_uninstall_protected_dlg_title">Внимание</string>
-     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Все клоны приложения будут удалены.</string>
-     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Удаление клона приложения очистит все его данные.</string>
-     <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Удалить клон приложения?</string>
-     <string name="storage_app_space_details_entry">Просмотр сведений</string>
-     <string name="storage_app_uninstall_app_dialog_msg">Удаление приложения очистит все его данные.</string>
-     <string name="storage_app_uninstall_app_dialog_title">Удаление приложения</string>
-     <string name="storage_available_total_size">Доступно %1$s из %2$s</string>
-     <string name="storage_available_total_size1">Занято: %1$s | Всего: %2$s</string>
-     <string name="storage_deepclean_entry">Глубокая очистка</string>
-     <string name="storage_dialog_unmountable">"^1 не работает. 
-
-Для использования необходимо сначала настроить."</string>
-     <string name="storage_dialog_unmounted">"Устройство \"^1\" отключено, но к нему все ещё есть доступ. 
-
-Для использования подключите снова."</string>
-     <string name="storage_dialog_unsupported">"^1 не поддерживается. 
-
-Для использования необходимо сначала настроить."</string>
-     <string name="storage_format_failure">Ошибка форматирования: %1$s</string>
-     <string name="storage_format_success">Успешно  отформатировано: %1$s</string>
-     <string name="storage_item_apk_name">Пакеты установки</string>
-     <string name="storage_item_appdata_name">Приложения</string>
-     <string name="storage_item_audio_name">Музыка</string>
-     <string name="storage_item_clean_name">Очистить</string>
-     <string name="storage_item_doc_name">Документы</string>
-     <string name="storage_item_other_name">Другое</string>
-     <string name="storage_item_picture_name">Фото</string>
-     <string name="storage_item_system_name">Система</string>
-     <string name="storage_item_video_name">Видео</string>
-     <string name="storage_menu_mount">Подключить</string>
-     <string name="storage_mount_failure">Ошибка подключения: %1$s</string>
-     <string name="storage_mount_success">Успешно подключено: %1$s</string>
-     <string name="storage_space_release_hint">Нужно больше места?</string>
-     <string name="storage_unmount_failure">Ошибка извлечения: %1$s</string>
-     <string name="storage_unmount_success">Успешно извлечено: %1$s</string>
-     <string name="storage_wizard_format_confirm_v2_action">Форматировать</string>
-     <string name="storage_wizard_format_confirm_v2_body">Внимание! Форматирование сотрет все данные на носителе. 
-
-Во избежание потери данных, сделайте резервную копию на другом носителе.</string>
-     <string name="storage_wizard_format_confirm_v2_title">Форматирование</string>
-     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-     <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-     <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-     <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-     <string name="system_permission_declare_privacy_no_network">Для нормальной работы приложению необходимы следующие разрешения:</string>
-     <string name="system_permission_declare_title">Внимание</string>
-     <string name="tab_sort_all">Все</string>
-     <string name="traffic_provider_no_sim">SIM-карта отсутствует</string>
-     <string name="usb_eject">Извлечь USB-накопитель</string>
-     <string name="usb_eject_summary">Безопасное извлечение USB-накопителя</string>
-     <string name="usb_format">Форматировать USB-накопитель</string>
-     <string name="usb_format_summary">Стереть все данные на USB-накопителе</string>
-     <string name="usb_insert_summary">Подключите USB-накопитель</string>
-     <string name="usb_mount">Подключить USB-накопитель</string>
-     <string name="usb_mount_summary" />
-    <string name="v7_preference_off">ОТКЛ.</string>
-    <string name="v7_preference_on">ВКЛ.</string>
 </resources>
