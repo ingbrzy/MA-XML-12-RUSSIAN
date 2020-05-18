@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти домой</string>
-    <string name="abc_action_bar_up_description">Перейти выше</string>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
@@ -33,8 +33,8 @@
     <string name="add_private">Скрыть файлы</string>
     <string name="add_private_files">Добавить файлы</string>
     <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
-    <string name="app_all_purpose">Добро пожаловать в файловый менеджер! Вы можете использовать это приложение для управления файлами, хранящимися на вашем устройстве.</string>
-    <string name="app_function">Управление файлами на вашем устройстве</string>
+    <string name="app_all_purpose">Добро пожаловать в Проводник! Вы можете использовать это приложение для управления файлами на устройстве.</string>
+    <string name="app_function">Управление файлами на устройстве</string>
     <string name="app_name">Проводник</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Камера</string>
@@ -49,7 +49,7 @@
     <string name="app_name_screenshot">Скриншоты</string>
     <string name="backup_cancel">Не создавать резервные копии</string>
     <string name="backup_checkbox_msg">Создавать резервные копии автоматически</string>
-    <string name="backup_confirm">Создать резервную копию сейчас</string>
+    <string name="backup_confirm">Создать резервную копию</string>
     <string name="backup_success_cancel">OK</string>
     <string name="backup_success_confirm">Просмотр</string>
     <string name="backup_success_message">Резервное копирование на %1$s</string>
@@ -316,8 +316,8 @@
     <string name="mtp_device">Медиаустройство (MTP)</string>
     <string name="mtp_label">MTP</string>
     <string name="name_empty">Введите имя</string>
-    <string name="need_read_storage_permission">"Проводнику для нормальной работы необходимо разрешение на доступ к хранилищу устройства."</string>
-    <string name="network_not_available">"Ошибка подключения к сети"</string>
+    <string name="need_read_storage_permission">Проводнику для нормальной работы необходимо разрешение на доступ к хранилищу устройства.</string>
+    <string name="network_not_available">Ошибка подключения к сети</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="no">Нет</string>
     <string name="no_apk">Нет приложений</string>
@@ -374,6 +374,8 @@
     <string name="operation_show_sys">Показывать скрытые файлы</string>
     <string name="operation_unfavorite">Удалить из избранных</string>
     <string name="optional_change_wifi">Для удаленного управления файлами через Wi-Fi</string>
+    <string name="otg_data_transfer_success">Успешная передача</string>
+    <string name="otg_data_transferring">Передача файлов… Не отключайте внешнюю память.</string>	
     <string name="otg_file_security_confirm">скопировать на телефон</string>
     <string name="otg_file_security_details">Пожалуйста, скопируйте на телефон</string>
     <string name="overwrite_msg">\"%s\" уже существует. Нажмите для замены.</string>
@@ -400,7 +402,7 @@
     <string name="phone_storage_zip_title">Архивы: </string>
     <string name="pick_file">Выберите файлы</string>
     <string name="pick_folder">Выберите папку</string>
-    <string name="port_range">Порт должен быть между 1024–65535</string>
+    <string name="port_range">Номер порта должен быть между 1024 и 65535</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="private_files">Скрытые</string>
@@ -452,7 +454,7 @@
     <string name="select_image">Фото</string>
     <string name="select_music">Аудио</string>
     <string name="select_video">Видео</string>
-    <string name="select_volume">Выберите объем</string>
+    <string name="select_volume">Выберите том</string>
     <string name="server_control_advanced_settings">Настройки FTP</string>
     <string name="server_control_charset">ШИФРОВАНИЕ</string>
     <string name="server_control_settings">Настройки</string>
@@ -505,7 +507,7 @@
     <string name="ui_main_toast_favorite_added">Добавлено в избранные</string>
     <string name="ui_main_toast_favorite_removed">Удалено из избранных</string>
     <string name="ui_main_toast_operation_failed">Ошибка удаления %1$s из избранных</string>
-    <string name="unknown_error">Произошла неизвестная ошибка. Подождите минуту или две и попробуйте снова.</string>
+    <string name="unknown_error">Произошла неизвестная ошибка. Подождите немного и повторите попытку.</string>
     <string name="unlock_pattern_msg">Пароль защиты личных данных также защищает фотографии и сообщения.</string>
     <string name="unlock_pattern_title">Новый пароль</string>
     <string name="upload_user_photo">Отправить</string>

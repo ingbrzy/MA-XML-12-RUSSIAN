@@ -377,7 +377,7 @@
     <string name="usage_new_home_compare_text1">на %.2f больше, чем днем раньше</string>
     <string name="usage_new_home_compare_text2">на %.2f меньше, чем днем раньше</string>
     <string name="usage_new_home_compare_text3">как и днем раньше</string>
-    <string name="usage_new_home_current_week">Эта неделя</string>
+    <string name="usage_new_home_current_week">эта неделя</string>
     <string name="usage_new_home_dashboard">Сводка</string>
     <string name="usage_new_home_date_day_title">%s | </string>
     <string name="usage_new_home_day_category_title">Категории приложений</string>
@@ -399,7 +399,7 @@
     <string name="usage_new_home_week_title">Неделя</string>
     <string name="usage_new_home_week_unlock_equals_text">Как и неделю назад</string>
     <string name="usage_new_home_week_usage_title">Приложения</string>
-    <string name="usage_new_home_which_week">Неделя %d</string>
+    <string name="usage_new_home_which_week">%d неделя</string>
     <string name="usage_no_net_summary">Проверьте настройки сети и повторите попытку</string>
     <string name="usage_optional_summary">Эти разрешения необходимы для дополнительных функций.</string>
     <string name="usage_optional_title">Дополнительные разрешения</string>
@@ -421,6 +421,7 @@
     <string name="usage_runtime_summary">Эти разрешения необходимы для основных функций и служб приложения.</string>
     <string name="usage_runtime_title">Обязательные разрешения</string>
     <string name="usage_special_feature">Специальные функции</string>
+    <string name="usage_state_accurate_date">dd MMMM yyyy</string>
     <string name="usage_state_add_up_count">Сессии</string>
     <string name="usage_state_add_up_days">Дни</string>
     <string name="usage_state_add_up_time">Общее время</string>
@@ -441,6 +442,7 @@
     <string name="usage_state_category">Категории</string>
     <string name="usage_state_channel_mouth">За месяц</string>
     <string name="usage_state_channel_week">За неделю</string>
+    <string name="usage_state_date">d MMM</string>
     <string name="usage_state_device_limit_summary">Лимит времени использования устройства</string>
     <string name="usage_state_device_limit_title">Лимит для устройства</string>
     <string name="usage_state_device_noti_today_tip_title">Уведомлений с %1$d:00 до %2$d:00</string>
