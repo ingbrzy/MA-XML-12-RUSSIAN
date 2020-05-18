@@ -65,15 +65,15 @@
     <string name="exit_easymode">Отключить</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="first_unlock_time">"Первая разблокировка: "</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year_month">MM.yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">dd MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="focus_mode_custom_time">Задать длительность</string>
     <string name="focus_mode_timer_add_limit">Вы можете добавить до %d таймеров</string>
     <string name="focus_mode_timer_delete">Удалить</string>
@@ -84,7 +84,7 @@
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
-    <string name="friday_shortest">П</string>
+    <string name="friday_shortest">Пт</string>
     <string name="gamma">Гамма</string>
     <string name="healthy_use_phone">Управление временем экрана</string>
     <string name="high_fps_description">Высокая частота обновления экрана. Повышенное энергопотребление.</string>
@@ -112,7 +112,7 @@
     <string name="mms">Сообщения</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
-    <string name="monday_shortest">П</string>
+    <string name="monday_shortest">Пн</string>
     <string name="month_april">Апрель</string>
     <string name="month_april_short">Апр</string>
     <string name="month_april_shortest">А</string>
@@ -182,7 +182,7 @@
     <string name="ringtone_title">Рингтоны</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
-    <string name="saturday_shortest">С</string>
+    <string name="saturday_shortest">Сб</string>
     <string name="screen_cancel">Отмена</string>
     <string name="screen_confirm">Включить</string>
     <string name="screen_fps_summary_power_save">Фиксированная частота обновления экономит заряд</string>
@@ -243,7 +243,7 @@
     <string name="suggestion">Обратная связь</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
-    <string name="sunday_shortest">В</string>
+    <string name="sunday_shortest">Вс</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День посадки деревьев</string>
@@ -287,7 +287,7 @@
     <string name="thememanager_not_found">Не удалось открыть приложение Темы. Убедитесь, что приложение установлено.</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
-    <string name="thursday_shortest">Ч</string>
+    <string name="thursday_shortest">Чт</string>
     <string name="time_picker_dialog_title">Установите время</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
@@ -306,7 +306,7 @@
     <string name="trend_from_yesterday_more_simple">&gt; чем вчера на %1$s</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
-    <string name="tuesday_shortest">В</string>
+    <string name="tuesday_shortest">Вт</string>
     <string name="unlock_times_per_day">"В среднем за день: "</string>
     <string name="unlock_times_per_hour">"В среднем в час: "</string>
     <string name="usage_agree">Согласен</string>
@@ -421,7 +421,7 @@
     <string name="usage_runtime_summary">Эти разрешения необходимы для основных функций и служб приложения.</string>
     <string name="usage_runtime_title">Обязательные разрешения</string>
     <string name="usage_special_feature">Специальные функции</string>
-    <string name="usage_state_accurate_date">dd MMMM yyyy</string>
+    <string name="usage_state_accurate_date">d MMMM yyyy</string>
     <string name="usage_state_add_up_count">Сессии</string>
     <string name="usage_state_add_up_days">Дни</string>
     <string name="usage_state_add_up_time">Общее время</string>
@@ -560,6 +560,6 @@
     <string name="wait_tip">Подождите…</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
-    <string name="wednesday_shortest">С</string>
+    <string name="wednesday_shortest">Ср</string>
     <string name="yesterday">Вчера</string>
 </resources>
