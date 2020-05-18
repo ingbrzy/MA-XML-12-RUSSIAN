@@ -2,6 +2,7 @@
 <resources>
     <string name="add_alarm">Новый будильник</string>
     <string name="add_clock">Добавить</string>
+    <string name="add_common_timer">Добавить таймер</string>
     <string name="add_timer">Добавить таймер</string>
     <string name="add_timezone_title">Добавить часовой пояс</string>
     <string name="agree">Согласен</string>
@@ -80,6 +81,7 @@
     <string name="close">Закрыть</string>
     <string name="close_alarm">Отключить</string>
     <string name="common_settings">Основные настройки</string>
+    <string name="common_timer_selector">Выберите таймер</string>
     <string name="confirm">ОК</string>
     <string name="confirm_abort">Выход</string>
     <string name="content_desc_keep_screen">Кнопка \"Не выключать экран\"</string>
@@ -336,6 +338,8 @@
     <string name="start">Пуск</string>
     <string name="start_up">Пуск</string>
     <string name="stopwatch_lap_empty_text">Нет кругов</string>
+    <string name="stopwatch_reset_notification">Секундомер сброшен</string>
+    <string name="stopwatch_running_notification">Секундомер</string>	
     <string name="stopwatch_title">Секундомер</string>
     <string name="system_permission_agree_desc">Разрешите приложению подключение к интернету для доступа ко всем его функциям.</string>
     <string name="system_permission_main_purpose">Просмотр времени, установка будильников и таймеров, секундомер</string>
@@ -415,6 +419,7 @@
     <string name="wake_up_alert_desc">Включить будильник в установленное время</string>
     <string name="wake_up_ringtone">Рингтон будильника</string>
     <string name="wake_up_time">Пробуждение</string>
+    <string name="white_noise_selector">Выберите аудио</string>
     <string name="workday_alarm_clock">По рабочим дням</string>
     <string name="worldclock_empty_text">Нет часовых поясов</string>
     <string name="worldclock_input_hint_text">Поиск страны или города</string>

@@ -89,6 +89,16 @@
         <item quantity="one">Будильник сработает %2$s раз (%1$s мин.)</item>
         <item quantity="few">>Будильник сработает %2$s раза (каждые %1$s мин.)</item>
     </plurals>    
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Секундомер работает %s дней. Нажмите для просмотра.</item>
+        <item quantity="one">Секундомер работает %s день. Нажмите для просмотра.</item>
+        <item quantity="few">Секундомер работает %s дня. Нажмите для просмотра.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Секундомер работает %s часов. Нажмите для просмотра.</item>
+        <item quantity="one">Секундомер работает %s час. Нажмите для просмотра.</item>
+        <item quantity="few">Секундомер работает %s часа. Нажмите для просмотра.</item>
+    </plurals>	
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d часов "</item>
         <item quantity="one">"%1$d час "</item>
