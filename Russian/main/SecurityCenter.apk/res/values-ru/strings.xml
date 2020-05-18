@@ -15,6 +15,15 @@
   <string name="HIPS_Perm_SendSMS_Desc">Непосредственная отправка SMS</string>
   <string name="HIPS_Perm_use_sip_Desc">Использование протокола SIP для потокового видео</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение/выключение Wi-Fi</string>
+  <string name="Phonepass">Разрешить вызовы</string>
+  <string name="SMS_and_MMS">SMS и MMS</string>
+  <string name="SMSpass">Разрешить SMS</string>
+  <string name="Setting_lock">Настройки</string>
+  <string name="Settings_title_anti_spam">Настройки антиспама</string>
+  <string name="Settings_title_anti_virus">Настройки антивируса</string>
+  <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
+  <string name="Settings_title_network_assistants">Настройки трафика</string>
+  <string name="Settings_title_power_center">Настройки батареи</string>
   <string name="abc_action_bar_home_description">Перейти на главный экран</string>
   <string name="abc_action_bar_up_description">Перейти вверх</string>
   <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -2173,7 +2182,6 @@
   <string name="phone_manage_special_title">Специальные функции</string>
   <string name="phone_manage_system_tool_summary">Полезные системные инструменты</string>
   <string name="phone_manage_system_tool_title">Инструменты</string>
-  <string name="Phonepass">Разрешить вызовы</string>
   <string name="pkg_traffic">Лимит трафика</string>
   <string name="pm_auto_start_by_other">Взаимный запуск</string>
   <string name="pm_auto_start_by_other_app">Разрешить приложениям запускать другие приложения</string>
@@ -2752,7 +2760,6 @@
   <string name="set_numeric_password_name">Задайте PIN-код</string>
   <string name="set_pattern_password_name">Задайте графический ключ</string>
   <string name="setting">Настройки</string>
-  <string name="Setting_lock">Настройки</string>
   <string name="setting_privacy_password">Задайте графический ключ</string>
   <string name="settings">Настройки трафика</string>
   <string name="settings_battery_consume_abnormal_summary">Получать уведомления о быстром разряде батареи</string>
@@ -2761,11 +2768,6 @@
   <string name="settings_category_overheat">Уведомления</string>
   <string name="settings_choice_no_notification">Отключено</string>
   <string name="settings_power_save_ontime_title">Расписание</string>
-  <string name="Settings_title_anti_spam">Настройки антиспама</string>
-  <string name="Settings_title_anti_virus">Настройки антивируса</string>
-  <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
-  <string name="Settings_title_network_assistants">Настройки трафика</string>
-  <string name="Settings_title_power_center">Настройки батареи</string>
   <string name="shield_keyboard_detail">Включить кнопки можно двойным нажатием на них</string>
   <string name="shield_keyboard_summary">Отключение кнопок и полноэкранных жестов во время игр</string>
   <string name="shield_keyboard_title">Отключение кнопок и жестов</string>
@@ -2801,7 +2803,6 @@
   <string name="size_tera_byte">ТБ</string>
   <string name="skin_change_close_toast">Изменения вступят в силу при следующем запуске Безопасности</string>
   <string name="sms_address">Регионы</string>
-  <string name="SMS_and_MMS">SMS и MMS</string>
   <string name="sms_blacklist">Сообщения</string>
   <string name="sms_cloud_block">Облачная блокировка</string>
   <string name="sms_contact_block">Блокировать SMS от контактов</string>
@@ -2819,7 +2820,6 @@
   <string name="sms_smart_engine_update">Автообновление базы SMS</string>
   <string name="sms_smart_engine_update_now">Обновить</string>
   <string name="sms_stranger_block">Заблокированные</string>
-  <string name="SMSpass">Разрешить SMS</string>
   <string name="sorted_dialog_title">Тип трафика</string>
   <string name="sp_background_risk_dialog_summary">, проверьте и исправьте проблемы с оплатой.</string>
   <string name="sp_background_risk_dialog_summary_new">Текущая платежная среда может представлять угрозу безопасности. Найдите время для решения существующих проблем.</string>
