@@ -4,6 +4,8 @@
     <string name="China_Mobile_HD">China Mobile (HD)</string>
     <string name="China_Telecom">China Telecom</string>
     <string name="China_Unicom">China Unicom</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEdMMMM</string>
+    <string name="abbrev_wday_month_day_no_year_alarm">EEEdMMM</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -1059,7 +1061,10 @@
     <string name="lock_screen_carrier_airplane_mode_on">Режим полета</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
-    <string name="lock_screen_magazine_default_content">Ежедневно обновляемые обои</string>
+    <string name="lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>    <string name="lock_screen_magazine_default_content">Ежедневно обновляемые обои</string>
     <string name="lock_screen_magazine_default_title">Карусель обоев</string>
     <string name="lock_screen_magazine_global_button_text">Больше</string>
     <string name="lock_screen_magazine_label">Открыть Карусель обоев</string>
@@ -1231,6 +1236,7 @@
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="mtrl_picker_cancel">Отмена</string>
     <string name="mtrl_picker_confirm">Сохранить</string>
+    <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Выберите дату</string>
     <string name="mtrl_picker_range_header_prompt">Выберите диапазон дат</string>
     <string name="multi_face_delete_message">Внимание</string>
@@ -1744,10 +1750,12 @@
     <string name="status_bar_airplane">Режим полета</string>
     <string name="status_bar_alarm">Будильник</string>
     <string name="status_bar_clear_all_button">Очистить</string>
-    <string name="status_bar_clock_date_format">E, d MMMM</string>
+    <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
     <string name="status_bar_clock_date_format_12">E, d MMMM</string>
     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm aa, d MMMM</string>
+    <string name="status_bar_clock_date_weekday_format">EEE dd.MM</string>
+    <string name="status_bar_clock_date_weekday_format_12">EEE dd.MM</string>
     <string name="status_bar_date_format">"E
 d MMMM"</string>
     <string name="status_bar_date_format_12">"E

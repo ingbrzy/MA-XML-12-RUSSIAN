@@ -314,7 +314,7 @@
     <string name="repeat_mode_set_item_week_detail">Каждую неделю (%s)</string>
     <string name="repeat_mode_set_item_year">Каждый год (%s)</string>
     <string name="repeat_mode_set_item_year_detail">Каждый год (%s)</string>
-    <string name="repeat_mode_set_item_year_detail_day">MM/dd</string>
+    <string name="repeat_mode_set_item_year_detail_day">dd.MM</string>
     <string name="repeat_mode_set_title">Повторение</string>
     <string name="repeat_mode_week">Каждую неделю</string>
     <string name="repeat_mode_year">Каждый год</string>
@@ -476,6 +476,8 @@
     <string name="today">Сегодня</string>
     <string name="todo_alert_title_delete">Удалить завершенные задачи</string>
     <string name="todo_audio_default_content">"[Голосовые задачи] "</string>
+    <string name="todo_custom_remind_tag_pattern_with_md">dd.MM HH:mm</string>
+    <string name="todo_custom_remind_tag_pattern_with_ymd">dd.MM.yyyy HH:mm</string>
     <string name="todo_edit_audio_hint">Произнесите вашу задачу</string>
     <string name="todo_edit_btn_cancel_remind">Отмена</string>
     <string name="todo_edit_btn_custom">Создать</string>
@@ -507,6 +509,8 @@
     <string name="todo_module_name">Задачи</string>
     <string name="todo_notify_alarm_title">Напоминание о задаче</string>
     <string name="todo_schedule_time_expired">" (Истекло)"</string>
+    <string name="todo_schedule_time_md">dd.MM</string>
+    <string name="todo_schedule_time_mdhm">dd.MM HH:mm</string>
     <string name="todo_schedule_time_repeat_day">, каждый день</string>
     <string name="todo_schedule_time_repeat_month">, каждый месяц</string>
     <string name="todo_schedule_time_repeat_normal_workday">, с понедельника по пятницу</string>
@@ -515,6 +519,7 @@
     <string name="todo_schedule_time_today">Сегодня</string>
     <string name="todo_schedule_time_tomorrow">Завтра</string>
     <string name="todo_schedule_time_yesterday">Вчера</string>
+    <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
     <string name="todo_search_hint">Поиск задач</string>
     <string name="todo_time_picker_title">Напоминание</string>
     <string name="todo_user_guide_fw_pop">Добавить ярлык на рабочий стол</string>

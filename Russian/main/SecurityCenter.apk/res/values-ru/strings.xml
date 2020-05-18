@@ -374,8 +374,8 @@
   <string name="app_manager_globel_other_perm_title">Другие разрешения</string>
   <string name="app_manager_globel_perm_summary">Управление разрешениями, связанными с местоположением, памятью, вызовами, сообщениями и контактами</string>
   <string name="app_manager_globel_perm_title">Разрешения приложений</string>
-  <string name="app_manager_has_not_data">—</string>
-  <string name="app_manager_have_not_consume">—</string>
+  <string name="app_manager_has_not_data">Данных нет</string>
+  <string name="app_manager_have_not_consume">Данных нет</string>
   <string name="app_manager_hide_system_server">Скрыть системные приложения</string>
   <string name="app_manager_install_other_app">Установка из неизвестных источников</string>
   <string name="app_manager_manage_space">Очистить</string>
@@ -1666,7 +1666,7 @@
   <string name="main_leisure_remained">Льготный трафик</string>
   <string name="main_month_total_used">Расход за месяц</string>
   <string name="main_month_used">Месячный лимит</string>
-  <string name="main_no_info">Нет данных</string>
+  <string name="main_no_info">‒‒</string>
   <string name="main_normal_data_usage">Использованный трафик</string>
   <string name="main_open_traffic_ctrl_button">Включить</string>
   <string name="main_primary_message_leisure_alert">Приближение к лимиту льготного трафика</string>

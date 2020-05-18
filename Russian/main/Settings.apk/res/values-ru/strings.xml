@@ -1086,7 +1086,7 @@
     <string name="bluetooth_pairing_pref_title">Подключить новое устройство</string>
     <string name="bluetooth_pairing_rejected_error_message">Устройство %1$s не разрешило подключение.</string>
     <string name="bluetooth_pairing_request">Добавить %1$s?</string>
-    <string name="bluetooth_pairing_shares_phonebook">Открыть %1$s доступ к списку контактов и журналу вызовов</string>
+    <string name="bluetooth_pairing_shares_phonebook">Разрешить доступ к контактам и журналу вызовов</string>
     <string name="bluetooth_pairing_will_share_phonebook">Подключение обеспечивает доступ к вашим контактам и журналу вызовов.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
     <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа в интернет</string>
@@ -3886,6 +3886,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="mtrl_picker_cancel">Отмена</string>
     <string name="mtrl_picker_confirm">Сохранить</string>
+    <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Выберите дату</string>
     <string name="mtrl_picker_range_header_prompt">Выберите диапазон дат</string>
     <string name="multi_face_delete_message">Внимание</string>
