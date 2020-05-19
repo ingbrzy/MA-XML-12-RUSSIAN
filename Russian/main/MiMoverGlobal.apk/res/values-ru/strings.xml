@@ -110,18 +110,18 @@
   <string name="failed_description">Неуспешно</string>
   <string name="faq">FAQ</string>
   <string name="finished">Завершено</string>
-  <string name="fmt_date_long_month_day">dd MMMM</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
-  <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
   <string name="fmt_date_numeric_month_day">dd.MM</string>
   <string name="fmt_date_numeric_year_month">MM.yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-  <string name="fmt_date_short_month_day">dd MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="friday">Пятница</string>
   <string name="friday_short">Пт</string>
-  <string name="friday_shortest">П</string>
+  <string name="friday_shortest">Пт</string>
   <string name="get_known_tip">Попробуйте еще раз</string>
   <string name="group_info_scanning">Подсчёт…</string>
   <string name="guest_hint_connect_new_device">Выберите новое устройство для подключения.</string>
@@ -226,7 +226,7 @@
   <string name="mms_contacts_calllog">Сообщения, контакты и журнал вызовов</string>
   <string name="monday">Понедельник</string>
   <string name="monday_short">Пн</string>
-  <string name="monday_shortest">П</string>
+  <string name="monday_shortest">Пн</string>
   <string name="month_april">Апрель</string>
   <string name="month_april_short">Апр</string>
   <string name="month_april_shortest">А</string>
@@ -359,7 +359,7 @@
   <string name="sar">Информация о воздействии RF</string>
   <string name="saturday">Суббота</string>
   <string name="saturday_short">Сб</string>
-  <string name="saturday_shortest">С</string>
+  <string name="saturday_shortest">Сб</string>
   <string name="save_finish_with_failing_items">Передача была прервана.
 Повторите импорт данных, которые не были импортированы.</string>
   <string name="saving_data">Импорт данных из iCloud…</string>
@@ -443,7 +443,7 @@
   <string name="succ_description">Готово</string>
   <string name="sunday">Воскресенье</string>
   <string name="sunday_short">Вс</string>
-  <string name="sunday_shortest">В</string>
+  <string name="sunday_shortest">Вс</string>
   <string name="switching_to_5g">Переключение на сеть 5 ГГц…</string>
   <string name="sync_one_time_sync">Нажмите, чтобы синхронизировать ( %1$s )</string>
   <string name="task_backup_cancel_progress">Отмена…</string>
@@ -492,7 +492,7 @@
   <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
   <string name="thursday">Четверг</string>
   <string name="thursday_short">Чт</string>
-  <string name="thursday_shortest">Ч</string>
+  <string name="thursday_shortest">Чт</string>
   <string name="time_picker_dialog_title">Установить время</string>
   <string name="time_picker_label_hour">Ч</string>
   <string name="time_picker_label_minute">М</string>
@@ -555,7 +555,7 @@
   <string name="try_again">Попробовать еще раз</string>
   <string name="tuesday">Вторник</string>
   <string name="tuesday_short">Вт</string>
-  <string name="tuesday_shortest">В</string>
+  <string name="tuesday_shortest">Вт</string>
   <string name="unselected">Не выбрано</string>
   <string name="update_now">Обновить сейчас</string>
   <string name="user_agreement">Условия использования</string>
@@ -574,7 +574,7 @@
   <string name="wechat_qq_data">Данные WeChat и QQ (включая историю чата)</string>
   <string name="wednesday">Среда</string>
   <string name="wednesday_short">Ср</string>
-  <string name="wednesday_shortest">С</string>
+  <string name="wednesday_shortest">Ср</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчер загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
   <string name="xiaomi_update_sdk_dialog_message">"Представляем версию %1$s
 Размер: %2$s "</string>
