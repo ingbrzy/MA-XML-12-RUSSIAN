@@ -412,6 +412,12 @@
   <string name="sim_locked">SIM-карта заблокирована.</string>
   <string name="sim_not_ready">SIM-карта используется. Попробуйте позже.</string>
   <string name="sim_unavailable">SIM-карта недоступна.</string>
+  <string name="size_byte">" Б"</string>
+  <string name="size_giga_byte">" ГБ"</string>
+  <string name="size_kilo_byte">" КБ"</string>
+  <string name="size_mega_byte">" МБ"</string>
+  <string name="size_peta_byte">" ПБ"</string>
+  <string name="size_tera_byte">" ТБ"</string>
   <string name="sip_phone">SIP-телефон</string>
   <string name="skip_underline">Пропустить этот шаг</string>
   <string name="soft_ap_create_failed">Не удалось создать точку доступа</string>
@@ -576,11 +582,13 @@
   <string name="wednesday_short">Ср</string>
   <string name="wednesday_shortest">Ср</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчер загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
-  <string name="xiaomi_update_sdk_dialog_message">"Представляем версию %1$s
+  <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
 Размер: %2$s "</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Представляем версию %1$s
-Размер дельта-обновления: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Доступна версия %1$s
+Размер инкрементного обновления: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s КБ</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Хранение недоступно, пожалуйста, проверьте SD-карту.</string>
   <string name="yesterday">Вчера</string>
 </resources>
