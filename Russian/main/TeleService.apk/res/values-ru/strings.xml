@@ -839,6 +839,7 @@
   <string name="incall_error_missing_voicemail_number">Неизвестный номер голосовой почты.</string>
   <string name="incall_error_no_phone_number_supplied">Введен неверный номер телефона.</string>
   <string name="incall_error_out_of_service">Мобильная сеть недоступна.</string>
+  <string name="incall_error_out_of_service_kr">Доступны только экстренные вызовы.</string>
   <string name="incall_error_out_of_service_wfc">Мобильная сеть недоступна. Для совершения вызова подключитесь к сети Wi-Fi.</string>
   <string name="incall_error_outgoing_call_failed">Не удалось осуществить вызов</string>
   <string name="incall_error_power_off">Для совершения вызова отключите режим полета.</string>
@@ -853,6 +854,7 @@
   <string name="incall_error_supp_service_transfer">Не удалось перенести вызов.</string>
   <string name="incall_error_supp_service_unknown">Услуга не поддерживается</string>
   <string name="incall_error_wfc_only_no_wireless_network">Для совершения вызова подключитесь к сети Wi-Fi.</string>
+  <string name="incall_number_anonymous">Неизвестный номер</string>
   <string name="incall_status_dialed_mmi">Запуск последовательности MMI…</string>
   <string name="install_other_apps">Установка неизвестных приложений</string>
   <string name="international_disable">Международные новости отключены</string>
@@ -1071,9 +1073,11 @@
   <string name="msim_set_sub_not_supported_slot_id_error">Ошибка SIM-карты</string>
   <string name="msim_setting_categery_title">Настройки SIM-карт</string>
   <string name="msim_setting_default_data">Интернет</string>
+  <string name="msim_setting_default_data_description">Интернет SIM-карта %d</string>
   <string name="msim_setting_default_voice">Вызовы</string>
+  <string name="msim_setting_default_voice_description">SIM-карта %d</string>
   <string name="msim_setting_install_virtual_sim_install">Установить</string>
-  <string name="msim_setting_install_virtual_sim_message">Установите Mi Carrier Services для покупки SIM-карты и управления тарифным планом.</string>
+  <string name="msim_setting_install_virtual_sim_message">Установите Mi Carrier Services для покупки SIM-карт и управления тарифным планом.</string>
   <string name="msim_setting_install_virtual_sim_tip">Mi Carrier Services</string>
   <string name="msim_setting_no_sim_indicator">Нет SIM-карты</string>
   <string name="msim_setting_no_sim_number">Не задано</string>
@@ -1368,6 +1372,7 @@
   <string name="preferred_wificall_title">Режим сети</string>
   <string name="privacy_policy_title">Политика конфиденциальности</string>
   <string name="private_num">Скрытый номер</string>
+  <string name="private_num_kr">ID абонента скрыт</string>
   <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
   <string name="prompt_to_suggest_no_call_service_notification_content">Вызовы не поддерживаются. Услуга VoLTE отключена для вашей SIM (China Telecom).</string>
   <string name="prompt_to_suggest_no_call_service_notification_content2">Вызовы не поддерживаются. Услуга VoLTE отключена для вашей SIM %d (China Telecom).</string>

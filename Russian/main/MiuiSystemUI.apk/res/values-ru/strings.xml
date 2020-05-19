@@ -300,12 +300,14 @@
     <string name="as_unimportant">Неважное</string>
     <string name="ask_me_later_bubbles">Спросить позже</string>
     <string name="aspect_cancel">Отмена</string>
-    <string name="aspect_message">Это приложение будет снова запущено в полноэкранном режиме. Если возникнут какие-либо проблемы, вы можете отключить полноэкранный режим для этого приложения в Настройки &gt; Дисплей &gt; Полноэкранный режим.</string>
+    <string name="aspect_message">Это приложение будет снова запущено в полноэкранном режиме. Если возникнут какие-либо проблемы, вы можете отключить полноэкранный режим для этого приложения в Настройки &gt; Экран &gt; Полноэкранный режим.</string>
     <string name="aspect_ok">ОК</string>
     <string name="aspect_title">Полноэкранный режим</string>
     <string name="audio_effect_custom">Настроить</string>
     <string name="audio_effect_info">Улучшение звука</string>
     <string name="audio_effect_settings">Тип наушников</string>
+    <string name="auto_brightness_off">Автояркость отключена</string>
+    <string name="auto_brightness_on">Автояркость включена</string>	
     <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навигации отключены, для включения дважды нажмите на любую из них</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навигации включены</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
@@ -765,7 +767,7 @@
     <string name="fs_gesture_back_ready_title">Возврат</string>
     <string name="fs_gesture_final_over">Закончить</string>
     <string name="fs_gesture_final_restart">Повторить</string>
-    <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в меню Настройки &gt;  Дополнительно &gt;  Полноэкранный режим</string>
+    <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в меню Настройки &gt;  Дополнительно &gt;  Полноэкранная навигация</string>
     <string name="fs_gesture_final_title">Всё готово!</string>
     <string name="fs_gesture_finish">Отлично!</string>
     <string name="fs_gesture_left_back_ready_summary">Проведите вправо от кромки</string>
