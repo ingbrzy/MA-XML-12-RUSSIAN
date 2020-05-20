@@ -34,7 +34,7 @@
     <string name="action">Войти</string>
     <string name="action_imme_open">Открыть сразу</string>
     <string name="action_menu_account_not_login">Вход не выполнен</string>
-    <string name="action_menu_bookshelf">Полка</string>
+    <string name="action_menu_bookshelf">Книжная полка</string>
     <string name="action_menu_download">Загрузить</string>
     <string name="action_menu_request_desktop_site">Полная версия</string>
     <string name="action_menu_text_add_shortcut">Добавить ярлык</string>
@@ -182,14 +182,13 @@
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_security_tip_privacy_policy">Политика конфиденциальности</string>
     <string name="check_security_tip_user_agreement">Пользовательское соглашение</string>
-    <string name="clear_clipboard">Jчистить буфер обмена</string>
+    <string name="clear_clipboard">Очистить буфер обмена</string>
     <string name="clear_clipboard_confirm">Вы уверены, что хотите полностью очистить буфер обмена?</string>
     <string name="clear_history">Очистить историю</string>
     <string name="clear_input_history_confirm_bt_text">Подтвердить</string>
     <string name="clipboard">Буфер обмена</string>
     <string name="close_ads_choice_no">Разрешить</string>
     <string name="close_ads_choice_yes">Блокировать</string>
-    <string name="close_ads_choice_yes">Заблокировать</string>
     <string name="close_ads_message">Блокировать контент с этого сайта? Вы можете просмотреть сайты, которые вы заблокировали в настройках &gt; Дополнительно &gt; Заблокированные сайты.</string>
     <string name="close_ads_title">Заблокировать контент?</string>
     <string name="close_all_tab_alert_message">Закрыть все вкладки, открытые в Браузере?</string>
@@ -436,7 +435,7 @@
     <string name="geolocation_permissions_prompt_message">%s хочет получить доступ к вашему местоположению</string>
     <string name="geolocation_permissions_prompt_remember">Запомнить</string>
     <string name="geolocation_permissions_prompt_share">Разрешить</string>
-    <string name="go_back_descirption">Go back</string>
+    <string name="go_back_descirption">Назад</string>
     <string name="gold_medals">Золотые медали</string>
     <string name="green_kid_block_request">Доступ к этому сайту ограничен.</string>
     <string name="guide_chosen_type_main_title">Расскажите нам, что вам нравится</string>
@@ -454,8 +453,8 @@
     <string name="guide_motor_text">двигатель</string>
     <string name="guide_politics_text">политика</string>
     <string name="guide_skip">Пропустить</string>
-    <string name="guide_slide_down">Пожалуйста пролистните вниз</string>
-    <string name="guide_slide_up">Пожалуйста пролистните вверх</string>
+    <string name="guide_slide_down">Пожалуйста пролистайте вниз</string>
+    <string name="guide_slide_up">Пожалуйста пролистайте вверх</string>
     <string name="guide_sports_text">спорт</string>
     <string name="guide_start_experience">Старт</string>
     <string name="guide_tech_text">технологии</string>
@@ -463,7 +462,7 @@
     <string name="history">История</string>
     <string name="home_description">Домой</string>
     <string name="hot_word_item_mark_ads_text">РЕКЛАМА</string>
-    <string name="hot_word_item_mark_burst_text">СЪЕМКА</string>
+    <string name="hot_word_item_mark_burst_text">СЕРИЯ</string>
     <string name="hot_word_item_mark_hot_text">ГОРЯЧЕЕ</string>
     <string name="hot_word_item_mark_new_text">НОВОЕ</string>
     <string name="hot_word_item_mark_recommend_text">РЕКОМЕНДУЕМ</string>
@@ -481,9 +480,9 @@
     <string name="load_more_footer_status_msg_loading">Подождите…</string>
     <string name="loading_dialog_title">Перемещение…</string>
     <string name="login_failed_toast">Не удалось войти, обновите и повторите попытку</string>
-    <string name="maximum_input_alert">Нельзя вводить более 2048 символов</string>
+    <string name="maximum_input_alert">Нельзя ввести более 2048 символов</string>
     <string name="media_error_action_refresh">Обновить</string>
-    <string name="media_error_failure">Не получается воспроизвести видео</string>
+    <string name="media_error_failure">Не удалось воспроизвести видео</string>
     <string name="media_error_format">Формат видео не поддерживается</string>
     <string name="media_error_network_unreachable">Не удалось подключиться к сети</string>
     <string name="media_error_timeout">Тайм-аут подключения к сети</string>
@@ -493,7 +492,7 @@
     <string name="menu_title_open_file_management">Открыть Проводник</string>
     <string name="menu_title_pause_all">Остановить все</string>
     <string name="menu_title_resume_all">Запустить все</string>
-    <string name="message_notice_push">Опыт моей личной информации</string>
+    <string name="message_notice_push">Личный опыт</string>
     <string name="miui_autologin_bar_error">Не удается войти</string>
     <string name="miui_autologin_bar_title">Войти в Mi аккаунт</string>
     <string name="miui_bookmark_action_bar_new_group_title">Новая папка</string>
@@ -554,9 +553,9 @@
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
     <string name="mw_current_detected_ui_locale_name">ru-RU</string>
-    <string name="mw_data_traffic_prompt_change">Использование вашего мобильного подключения для передачи данных для просмотра видео увеличит использование ваших данных. Если вы превысите лимит использования данных вашего плана, ваш оператор сможет взимать с вас дополнительную плату.</string>
-    <string name="mw_data_traffic_prompt_message">Использование вашего мобильного подключения для передачи данных для просмотра видео увеличит использование ваших данных. Если вы превысите лимит использования данных вашего плана, ваш оператор сможет взимать с вас дополнительную плату.</string>
-    <string name="mw_data_traffic_prompt_message_short">Использование мобильных данных для потоковой передачи видео может привести к превышению лимита использования данных вашего плана.</string>
+    <string name="mw_data_traffic_prompt_change">Использование мобильного интернета для просмотра видео может привести к дополнительным расходам. Если вы превысите лимит использования данных вашего плана, ваш оператор сможет взимать с вас дополнительную плату.</string>
+    <string name="mw_data_traffic_prompt_message">Использование мобильного интернета для просмотра видео может привести к дополнительным расходам. Если вы превысите лимит использования данных вашего плана, ваш оператор сможет взимать с вас дополнительную плату.</string>
+    <string name="mw_data_traffic_prompt_message_short">Использование мобильного интернета для для потоковой передачи видео может привести к превышению лимита использования данных вашего плана.</string>
     <string name="mw_data_traffic_prompt_title">Предупреждение об использовании данных</string>
     <string name="mw_date_picker_dialog_clear">Очистить</string>
     <string name="mw_date_picker_dialog_other_button_label">Другое</string>
@@ -627,7 +626,7 @@
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Соединение было прервано из-за смены сети.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Не удалось найти файл. Возможно, он был перемещен или удален.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Не удалось прочитать файл. Права доступа к файлам могут препятствовать доступу.</string>
-    <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%S0 слишком долго отвечал.</string>
+    <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 слишком долго отвечал.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">Доступ к сети ограничен.</string>
     <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Не удалось подключиться к Интернету. Что-то не так с прокси-сервером, или адрес прокси неверен.</string>
     <string name="mw_miuichromium_error_page_problem_page_moved">Эта страница на %s0 могла быть перемещена или удалена.</string>
@@ -646,9 +645,9 @@
     <string name="mw_miuichromium_error_page_server_error">Слишком много устройств пытаются подключиться</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Проверьте настройки прокси-приложений, установленных на вашем устройстве.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">Проверьте ваше интернет-соединение.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Мобильные данные) Сбросьте ваши %s1Настройки APN%s2.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Мобильные данные) Сбросьте ваши %s1 настройки APN %s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">Проверьте введенный вами URL.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Проверьте ваши %s1настройки прокси%s2.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Проверьте ваши %s1 настройки прокси %s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Очистить кэш.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Очистить кеш и куки (информация вашего аккаунта может быть потеряна).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Перезагрузить после подключения к интернету</string>
@@ -690,10 +689,6 @@
     <string name="mw_webview_find_on_page">Найти на странице</string>
     <string name="mw_webviewchromium_private_browsing_warning">Эта функциональность не поддерживается в этой версии Android.</string>
     <string name="mw_week_picker_dialog_title">Установить неделю</string>
-    <string name="mw_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
-    <string name="mw_save_password_never">Никогда</string>
-    <string name="mw_save_password_notnow">Не сейчас</string>
-    <string name="mw_save_password_remember">Запомнить</string>
     <string name="nav_bottom_bar_back">Назад</string>
     <string name="nav_bottom_bar_close_all">Закрыть все</string>
     <string name="nav_bottom_bar_close_description">Закрыть</string>
@@ -1014,10 +1009,10 @@
     <string name="srl_header_finish">Успешно обновлено</string>
     <string name="srl_header_loading">Ожидание загрузки…</string>
     <string name="srl_header_pulling">Потяните вниз, чтобы обновить</string>
-    <string name="srl_header_refreshing">Обновите…</string>
+    <string name="srl_header_refreshing">Обновление…</string>
     <string name="srl_header_release">Отпустите, чтобы обновить</string>
     <string name="srl_header_secondary">Выпуск на второй этаж</string>
-    <string name="srl_header_update">'Последнее обновление' d-M HH:mm</string>
+    <string name="srl_header_update">"'Последнее обновление' d-M HH:mm"</string>
     <string name="ssl_bad_clock_date_settings">Установить дату</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Не удается установить безопасное соединение с %s1, так как дата или время на устройстве (%s2) некорректные."</string>
     <string name="ssl_certificate">Сертификат безопасности</string>
@@ -1071,38 +1066,25 @@
     <string name="suggestion_lottery_period">ОКОЛО %s</string>
     <string name="suggestion_more_news">ЕЩЕ НОВОСТИ</string>
     <string name="suggestion_more_news_start_title_text">Новости по теме</string>
-    <string name="suggestion_sliding_item_more_text">УВИДЕТЬ ЕЩЕ</string>
+    <string name="suggestion_sliding_item_more_text">ПОСМОТРЕТЬ ЕЩЕ</string>
     <string name="suggestion_topic_subtitle_hyphen">ФОКУС</string>
     <string name="suggestion_translation_more">ПОСМОТРЕТЬ ЕЩЕ</string>
     <string name="sync_and_backup_bookmark">Синхронизация и резервное копирование закладок</string>
     <string name="sync_and_backup_history">Синхронизация и резервное копирование истории</string>
     <string name="sync_cloud_tabs">Синхронизировать</string>
     <string name="tabs_description">Вкладки</string>
-    <string name="temp_refuse">Нет спасибо</string>
+    <string name="temp_refuse">Нет, спасибо</string>
     <string name="title_bar_loading">Загрузка…</string>
-    <string name="title_notice_push">Включить пуш</string>
-    <string name="toast_feedback">Вы увидите меньшеэлементов такого рода.</string>
+    <string name="title_notice_push">Включить push</string>
+    <string name="toast_feedback">Вы увидите меньше содержимого такого рода.</string>
     <string name="topic_content_default">тема</string>
     <string name="transfer_prompt_0">Воспроизвести видео</string>
     <string name="transfer_restart">Перезапуск</string>
-    <string name="translation_copy">Скопировать</string>
+    <string name="translation_copy">Копировать</string>
     <string name="translation_more">Посмотреть еще</string>
     <string name="translation_query_error">Не удалось перевести</string>
     <string name="translation_query_error_network">Не удалось получить информацию. Подключитесь к сети и попробуйте снова.</string>
     <string name="translation_result_copy">Скопировано в буфер обмена</string>
-    <string name="sync_and_backup_bookmark">Синхронизация и резервное копирование закладок</string>
-    <string name="sync_and_backup_history">Синхронизация и резервное копирование истории</string>
-    <string name="sync_cloud_tabs">Синхронизация</string>
-    <string name="tabs_description">Вкладки</string>
-    <string name="temp_refuse">Нет, спасибо</string>
-    <string name="translation_copy">Копировать</string>
-    <string name="translation_more">Посмотреть больше</string>
-    <string name="translation_query_error">Ошибка перевода</string>
-    <string name="translation_query_error_network">Ошибка получения информации. Подключитесь к сети и попробуйте снова.</string>
-    <string name="translation_result_copy">Скопировано в буфер обмена</string>
-    <string name="title_bar_loading">Загрузка…</string>
-    <string name="title_notice_push">Включить push</string>
-    <string name="toast_feedback">Содержимое этого типа буде показывать реже</string>
     <string name="undo">Отмена</string>
     <string name="unknown_title">Неизвестный</string>
     <string name="unsecurity_url_toast">Этот сайт не является безопасным</string>
@@ -1110,7 +1092,7 @@
     <string name="uploads_disabled">Загрузка файлов отключена</string>
     <string name="url_copy_done">URL скопирован в буфер обмена</string>
     <string name="url_hint">Введите URL или поисковый запрос</string>
-    <string name="url_hint_from_search">Enter the keyword</string>
+    <string name="url_hint_from_search">Введите ключевое слово</string>
     <string name="url_opened_in_background">Открыть в фоновой вкладке</string>
     <string name="url_suggest_indicator_hoturl">Популярные</string>
     <string name="url_suggest_indicator_mostvisited">Часто посещаемые</string>

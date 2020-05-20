@@ -32,7 +32,7 @@
   <string name="activity_title_brightness_image">Неверная экспозиция</string>
   <string name="activity_title_cache">Кэш</string>
   <string name="activity_title_cache_data">Данные приложений</string>
-  <string name="activity_title_deep_apk">Пакеты установки</string>
+  <string name="activity_title_deep_apk">Установочные APK</string>
   <string name="activity_title_deep_clean">Глубокая очистка</string>
   <string name="activity_title_garbage_cleanup">Очистка</string>
   <string name="activity_title_ignored_image">Пропущенные фото</string>
@@ -182,7 +182,7 @@
   <string name="dc_header_can_not_clean">Занято</string>
   <string name="dc_header_used_space_text">всей памяти использовано</string>
   <string name="dc_item_summary_wechat_chat">Очистка истории чатов для освобождения места</string>
-  <string name="dc_item_title_apk">Пакеты установки</string>
+  <string name="dc_item_title_apk">Установочные APK</string>
   <string name="dc_item_title_app_data">Данные приложений</string>
   <string name="dc_item_title_image">Фото</string>
   <string name="dc_item_title_large_file">Большие файлы</string>
@@ -261,7 +261,7 @@
   <string name="empty_content_no_privacy">Пусто</string>
   <string name="empty_content_no_similar_image">Нет фото</string>
   <string name="empty_title_ad">Бесполезные файлы не найдены</string>
-  <string name="empty_title_apk">Пакеты установки не найдены</string>
+  <string name="empty_title_apk">Установочные APK не найдены</string>
   <string name="empty_title_garbage_cache">Очистка не требуется</string>
   <string name="empty_title_garbage_white_list">Список пуст</string>
   <string name="empty_title_installed_apps">Приложения не найдены</string>
@@ -604,7 +604,7 @@
   <string name="storage_app_space_details_entry">Просмотр сведений</string>
   <string name="storage_available_total_size">Доступно %1$s из %2$s</string>
   <string name="storage_deepclean_entry">Глубокая очистка</string>
-  <string name="storage_item_apk_name">Пакеты установки</string>
+  <string name="storage_item_apk_name">Установочные APK</string>
   <string name="storage_item_appdata_name">Приложения</string>
   <string name="storage_item_audio_name">Музыка</string>
   <string name="storage_item_clean_name">Очистить</string>
@@ -745,7 +745,7 @@
   <string name="whatsapp_group_wallpaper">Обои</string>
   <string name="whatsapp_title">Очистка WhatsApp</string>
   <string name="white_list_ad_header">Бесполезные файлы: %d</string>
-  <string name="white_list_apk_header">Пакеты установки: %d</string>
+  <string name="white_list_apk_header">Установочные APK: %d</string>
   <string name="white_list_cache_header">Файлы данных: %d</string>
   <string name="white_list_large_file_header">Большие файлы и видео: %d</string>
   <string name="white_list_residual_header">Остатки данных: %d</string>
