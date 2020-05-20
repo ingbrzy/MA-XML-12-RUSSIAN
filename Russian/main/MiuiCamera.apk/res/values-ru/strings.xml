@@ -685,7 +685,6 @@
   <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенный</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Средний кадр</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Точечный замер</string>
-  <string name="pref_camera_autoexposure_default">1</string>
   <string name="pref_camera_autoexposure_title">Настройки автоэкспозиции</string>
   <string name="pref_camera_auxiliary_close">Откл.</string>
   <string name="pref_camera_auxiliary_exposure_feedback">Проверка экспозиции</string>
@@ -698,7 +697,6 @@
   <string name="pref_camera_beauty">Улучшение</string>
   <string name="pref_camera_beauty_deep">Улучшение Pro</string>
   <string name="pref_camera_bokeh_title">Портрет</string>
-  <string name="pref_camera_coloreffect_default">Нет</string>
   <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
   <string name="pref_camera_coloreffect_entry_big_face">Растянуть</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Ч/Б</string>
@@ -737,7 +735,6 @@
   <string name="pref_camera_eis_entry_off">Выкл.</string>
   <string name="pref_camera_eis_entry_pro">EIS PRO</string>
   <string name="pref_camera_eis_title">EIS</string>
-  <string name="pref_camera_exposuretime_default">0</string>
   <string name="pref_camera_exposuretime_entry_0_3">0.3</string>
   <string name="pref_camera_exposuretime_entry_0_4">0.4</string>
   <string name="pref_camera_exposuretime_entry_0_5">0.5</string>
@@ -819,7 +816,6 @@
   <string name="pref_camera_focusmode_entry_manual">Ручной</string>
   <string name="pref_camera_focusmode_entry_normal">Нормальный</string>
   <string name="pref_camera_focusmode_title">Режим фокусировки</string>
-  <string name="pref_camera_focusmode_value_default">непрерывное фото</string>
   <string name="pref_camera_front_ai_scene_entry_off">AI камера отключена</string>
   <string name="pref_camera_front_ai_scene_entry_on">AI камера</string>
   <string name="pref_camera_front_bokeh_entry_off">Откл</string>
@@ -870,22 +866,11 @@
   <string name="pref_camera_iso_entry_iso8000">8000</string>
   <string name="pref_camera_iso_title">ISO</string>  
   <string name="pref_camera_iso_title_abbr">ISO</string>
-  <string name="pref_camera_iso_value_auto">0</string>
-  <string name="pref_camera_iso_value_iso100">100</string>
-  <string name="pref_camera_iso_value_iso1600">1600</string>
-  <string name="pref_camera_iso_value_iso200">200</string>
-  <string name="pref_camera_iso_value_iso3200">3200</string>
-  <string name="pref_camera_iso_value_iso400">400</string>
-  <string name="pref_camera_iso_value_iso800">800</string>
   <string name="pref_camera_jpegquality_entry_high">Высокое</string>
   <string name="pref_camera_jpegquality_entry_low">Низкое</string>
   <string name="pref_camera_jpegquality_entry_normal">Среднее</string>
   <string name="pref_camera_jpegquality_title">Качество фото</string>
-  <string name="pref_camera_jpegquality_value_high">высокое</string>
-  <string name="pref_camera_jpegquality_value_low">низкое</string>
-  <string name="pref_camera_jpegquality_value_normal">среднее</string>
   <string name="pref_camera_live_sticker_internal_title">Внутренние магические инструменты</string>
-  <string name="pref_camera_long_press_shutter_feature_default">запись</string>
   <string name="pref_camera_long_press_shutter_feature_title">Долгое нажатие кнопки съемки</string>
   <string name="pref_camera_long_press_viewfinder_google_lens">Google Объектив</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF блокировка</string>
@@ -937,7 +922,6 @@
   <string name="pref_camera_quick_settings">Быстрые настройки</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Анимация быстрого снимка</string>
   <string name="pref_camera_quick_shot_enable_title">Быстрый снимок</string>
-  <string name="pref_camera_recordlocation_default">Нет</string>
   <string name="pref_camera_recordlocation_entry_off">Откл</string>
   <string name="pref_camera_recordlocation_entry_on">Вкл</string>
   <string name="pref_camera_recordlocation_title">Сохранять место съемки</string>
@@ -1006,15 +990,10 @@
   <string name="pref_camera_video_show_faceview_title">Показывать рамку лица в режиме видео</string>
   <string name="pref_camera_video_tag">Добавление тегов</string>
   <string name="pref_camera_video_tag_description">Нажмите кнопку \"Тег\" во время съемки видео для возможности возврата к отмеченным моментам при воспроизведении</string>
-  <string name="pref_camera_volumekey_function_default">таймер</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Снимок</string>
   <string name="pref_camera_volumekey_function_entry_timer">Таймер</string>
   <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Приближение</string>
-  <string name="pref_camera_volumekey_function_entryvalue_shutter">затвор</string>
-  <string name="pref_camera_volumekey_function_entryvalue_timer">таймер</string>
-  <string name="pref_camera_volumekey_function_entryvalue_volume">громкость</string>
-  <string name="pref_camera_volumekey_function_entryvalue_zoom">зум</string>
   <string name="pref_camera_volumekey_function_title">Функция кнопок громкости</string>
   <string name="pref_camera_watermark_title">Дата и время на фото</string>
   <string name="pref_camera_whitebalance_entry_auto">АВТО</string>
@@ -1058,12 +1037,9 @@
   <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
   <string name="pref_face_beauty_title">Улучшение</string>
   <string name="pref_fingerprint_capture_title">Съемка отпечатком пальца</string>
-  <string name="pref_front_mirror_default">вкл</string>
   <string name="pref_front_mirror_entry_auto">Когда распознано лицо</string>
   <string name="pref_front_mirror_entry_off">Отключен</string>
   <string name="pref_front_mirror_entry_on">Включен</string>
-  <string name="pref_front_mirror_entryvalue_off">выкл</string>
-  <string name="pref_front_mirror_entryvalue_on">вкл</string>
   <string name="pref_front_mirror_label_auto">Авто</string>
   <string name="pref_front_mirror_title">Зеркальный режим</string>
   <string name="pref_google_lens">Google Lens</string>
@@ -1073,7 +1049,6 @@
   <string name="pref_hdr_value_default">откл.</string>
   <string name="pref_lens_dirty_detect_summary">Разрешить уведомления о загрязнении объектива</string>
   <string name="pref_lens_dirty_detect_title">Уведомлять о загрязнении объектива</string>
-  <string name="pref_live_volumekey_function_default">громкость</string>
   <string name="pref_manual_exposure_title">ВЫДЕРЖКА</string>
   <string name="pref_manual_exposure_title_abbr">ВЫДЕРЖКА</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ультра HD</string>
@@ -1112,8 +1087,6 @@
   <string name="pref_video_encoder_title">Видеокодер</string>
   <string name="pref_video_focusmode_entry_auto">Нажатие</string>
   <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
-  <string name="pref_video_focusmode_entryvalue_auto">авто</string>
-  <string name="pref_video_focusmode_entryvalue_continuous">непрерывное видео</string>
   <string name="pref_video_focusmode_title">Режим фокусировки</string>
   <string name="pref_video_hfr_title">HFR видео</string>
   <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
@@ -1146,7 +1119,6 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">90X (3 секунды)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">900X (30 секунд)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Интервал в режиме \"Ускорение\"</string>
-  <string name="pref_video_volumekey_function_default">затвор</string>
   <string name="pref_watermark_off">Откл.</string>
   <string name="pref_watermark_on">Вкл.</string>
   <string name="pref_watermark_title">Водяной знак</string>  

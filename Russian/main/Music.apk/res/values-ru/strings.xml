@@ -91,7 +91,6 @@
     <string name="always_use_metered">Всегда использовать мобильный интернет</string>
     <string name="am">AM</string>
     <string name="app_label">Загрузки</string>
-    <string name="app_name">Preference</string>
     <string name="app_permission_confirm">Подтвердить</string>
     <string name="app_permission_optional">Необязательные разрешения</string>
     <string name="app_permission_require">Обязательные разрешения</string>
@@ -1047,7 +1046,6 @@
     <string name="wifi_required_body" formatted="false">"Подключитесь к Wi-Fi для завершения этой загрузки (%s).
 Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
     <string name="wifi_required_title">Файл слишком большой</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s б</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключить Диспетчер загрузки, проверьте его состояние.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
 Размер: %2$s"</string>
@@ -1055,8 +1053,6 @@
 Размер инкрементного обновления: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s КБ</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
     <string name="yesterday">Вчера</string>
     <string name="you_can_switch_mode_in_settings">Вы можете переключить режим в настройках</string>
     <string name="you_may_like">Вам также может понравиться</string>
