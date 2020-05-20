@@ -73,6 +73,8 @@
     <string name="app_debug_settings_online_title">В сети</string>
     <string name="app_debug_settings_preview_title">Предварительный просмотр</string>
     <string name="app_debug_settings_staging_title">Проверка</string>
+    <string name="app_debug_settings_staging2_title">Этап 2</string>
+    <string name="app_debug_settings_staging3_title">Этап 3</string>
     <string name="app_debug_settings_toast_switch_error">Ошибка переключения env</string>
     <string name="app_debug_settings_vaid">VAID</string>
     <string name="app_debug_settings_vaid_summary">(Нажмите, чтобы скопировать VAID)</string>
@@ -818,6 +820,14 @@
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_wechat_title">WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  	
     <string name="month_day_format">dd.MM</string>
     <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
     <string name="month_format_en">dd.MM</string>
@@ -829,6 +839,9 @@
     <string name="monthly_report_entry_text">Ежемесячный отчет</string>
     <string name="monthly_report_lable">Ежемесячный отчет</string>
     <string name="more_express_numbers">Дополнительные номера курьеров</string>
+    <string name="mru_setting_brief">Быстрые приложения и ярлыки, которые появляются после свайпа вниз</string>
+    <string name="mru_setting_brief_detail">Часто используемые Быстрые приложения и ярлыки.</string>
+    <string name="mru_title">Часто используемые</string>	
     <string name="msp_btn_ok">Подтвердить</string>
     <string name="msp_memo_app_cancel">Система перегружена, попробуйте позже</string>
     <string name="msp_memo_repeat_pay">Запрещено многократно оплачивать один и тот же заказ</string>
