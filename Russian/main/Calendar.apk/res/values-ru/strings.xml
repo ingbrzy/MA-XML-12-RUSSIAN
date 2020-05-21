@@ -36,6 +36,7 @@
     <string name="accessibility_month_page_selected_prefix">Просмотр месяца для %2$d из %1$d. Выбранная дата: %4$d/%5$d/%3$d.</string>
     <string name="accessibility_pick_start_date">Дата начала</string>
     <string name="accessibility_pick_time_zone">Часовой пояс</string>
+    <string name="accessibility_remove_attendee">Удалить участника</string>
     <string name="accessibility_repeats">Повтор</string>
     <string name="accessibility_sync_cal">Синхронизировать календарь</string>
     <string name="accessibility_year_item_selected">Выбранный месяц: %d. Нажмите для просмотра.</string>
@@ -66,6 +67,7 @@
     <string name="anniversary_event_title">Годовщина: %1$s</string>
     <string name="anniversary_secondary_tag">Годовщина</string>
     <string name="app_label">Календарь</string>
+    <string name="app_name">Тактильный</string>
     <string name="attendees">Участники</string>	
     <string name="birthday_born">дата рождения</string>
     <string name="birthday_calendar_display_name">Напоминания о днях рождения</string>
@@ -90,6 +92,7 @@
     <string name="can_not_modify_allday_event">Нельзя изменить однодневное мероприятие</string>
     <string name="can_not_modify_event">Нельзя изменить мероприятие</string>
     <string name="can_not_modify_repeating_acrossing_days_event">Нельзя изменить многодневное мероприятие</string>
+    <string name="cancel_reminder_later">Отменить напоминание</string>
     <string name="card_detail_dialog_message">%1$s будет обновляться ежедневно. Подпишитесь для получения обновлений.</string>
     <string name="card_detail_dialog_negative">Позже</string>
     <string name="card_detail_dialog_positive">Подписаться</string>
@@ -198,6 +201,7 @@
     <string name="error_icon_content_description">Ошибка</string>
     <string name="evening">После полудня</string>	
     <string name="event_account">Аккаунт</string>
+    <string name="event_action_arrive_station">Место назначения</string>
     <string name="event_action_delete">Удалить</string>
     <string name="event_action_edit">Изменить</string>
     <string name="event_all_day_label">Весь день</string>
@@ -287,12 +291,14 @@
     <string name="loading">Подождите…</string>
     <string name="local_calendar_display_name">Локальный календарь</string>
     <string name="local_owner_account_name">Локальный аккаунт</string>
+    <string name="login_failed_toast">Не удалось войти, обновите и повторить попытку</string>
     <string name="lunar_date">Лунная дата</string>
     <string name="lunar_date_content_desc">Дата по традиционному китайскому календарю</string>
     <string name="lunar_to_solar_chinese_calendar">Китайский в григорианский</string>
     <string name="match_select_activity_label">Лиги</string>
     <string name="menu_general_preferences">Основные настройки</string>
     <string name="menu_preferences">Настройки</string>
+    <string name="menu_general_preferences">Общее</string>
     <string name="menu_reminder_preferences">Напоминания</string>
     <string name="midnight">Ночь</string>
     <string name="missing_name">(Без имени)</string>
@@ -456,6 +462,9 @@
     <string name="permission_storage">Для сохранения напоминаний и рингтонов</string>
     <string name="phone_num">Номер телефона</string>
     <string name="portrait_week_view">Портретная ориентация</string>
+    <string name="prefDefault_alerts_vibrateWhen">никогда</string>
+    <string name="prefDefault_alerts_vibrate_false">никогда</string>
+    <string name="prefDefault_alerts_vibrate_true">всегда</string>
     <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
     <string name="pref_default_popup_alert_value">умные</string>
     <string name="pref_reminder_time">Время напоминания</string>
@@ -503,6 +512,7 @@
     <string name="pull_refresh_progress_loading">Подождите…</string>
     <string name="pull_refresh_progress_release_to_load">Отпустите для загрузки</string>
     <string name="pull_to_refresh_hint">Потяните для загрузки данных %1$d года</string>
+    <string name="receive_net_mock_success">Net mock receive success</string>
     <string name="refresh">Обновить</string>
     <string name="refreshing_hint">Подождите…</string>
     <string name="reminder_overdue">Истекло</string>

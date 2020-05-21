@@ -73,6 +73,7 @@
     <string name="data_merge_dialog_alert_msg_two">Данные из %1$s и %2$s сохранены в Xiaomi Cloud. Синхронизировать и объединить их с данными на этом устройстве?</string>
     <string name="data_merge_dialog_alert_msg_two_pad">Данные из %1$s и %2$s сохранены в Xiaomi Cloud. Синхронизировать и объединить их с данными на этом устройстве?</string>
     <string name="data_merge_dialog_loading">Проверка данных…</string>
+    <string name="data_merge_dialog_title">Перенос элементов</string>
     <string name="data_protection_title">Защита данных</string>
     <string name="detect_sim_card">Поиск SIM карты</string>
     <string name="disable_find_device_error">Не удалось отключить Поиск устройства. %1$s</string>
@@ -244,6 +245,7 @@
     <string name="micloud_main_head_menu_state_close">Отключено</string>
     <string name="micloud_main_head_menu_state_open">Включено</string>
     <string name="micloud_main_head_menu_state_unavailable">Не поддерживается</string>
+    <string name="micloud_main_manual_sync">Синхронизировать вручную</string>
     <string name="micloud_main_master_sync_on">Включить</string>
     <string name="micloud_main_memory_low_title">Память телефона почти заполнена</string>
     <string name="micloud_main_network_error">Не удалось подключиться к сети</string>
@@ -519,6 +521,12 @@
     <string name="share_weibo_not_installed">Weibo не установлен.</string>
     <string name="share_weixin_not_installed">WeChat не установлен.</string>
     <string name="short_cut_desc">Добавить значок Xiaomi Cloud на рабочий стол?</string>
+    <string name="sina_share_fail">Не удалось отправить</string>
+    <string name="sina_share_fail_content_repeat">Вы уже поделились этим.</string>
+    <string name="sina_share_pendding">Отправка…</string>
+    <string name="sina_share_success">Отправлено</string>
+    <string name="sina_token_expired_warning">Срок действия учетной записи Weibo истек, добавьте учетную запись еще раз.</string>
+    <string name="sina_token_invalid_warning">Учетная запись Weibo недействительна, добавьте учетную запись еще раз.</string>
     <string name="soundrecorder_sync_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Диктофон не будет использовать мобильный интернет для загрузки и отправки записей</string>
     <string name="soundrecorder_sync_records">Синхронизация записей</string>
