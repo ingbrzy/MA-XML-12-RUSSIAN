@@ -87,7 +87,7 @@
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="complete_time">Завершено:</string>
     <string name="confirm">OK</string>
-    <string name="confirm_delete_downloads_message">%d загрузок будут удалены.</string>
+    <string name="confirm_delete_downloads_message">Будут удалены загрузки: %d</string>
     <string name="confirm_delete_the_download_item_message">Удалить эти загрузки?</string>
     <string name="continue_download">Продолжить</string>
     <string name="copy">Копировать</string>
@@ -108,7 +108,6 @@
     <string name="dialog_confirm_delete_the_download_item_message">Выбранные загрузки будут удалены из списка завершенных</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
     <string name="dialog_content_limit0">Только по Wi-Fi</string>
-    <string name="dialog_content_limit_max">Безлимит</string>
     <string name="dialog_delete_positive">Удалить</string>
     <string name="dialog_failed_body">Загрузить файл позже или удалить его из очереди загрузок?</string>
     <string name="dialog_file_already_exists">Такой файл уже существует.</string>
@@ -128,7 +127,7 @@
     <string name="dialog_title_not_available">Ошибка загрузки</string>
     <string name="dialog_title_queued_body">Файл еще не доступен</string>
     <string name="dialog_title_recommend">Отключить рекомендации?</string>
-    <string name="disable">Выкл.</string>
+    <string name="disable">Откл.</string>
     <string name="display_expire_netiv1">Этот месяц</string>
     <string name="do_not_support_url">Этот тип URL не поддерживается</string>
     <string name="doc_filter">Документы</string>
@@ -149,7 +148,7 @@
     <string name="download_list_get_hightspeed_flow_sucess_head">Создана пробная сессия Xunlei</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Наслаждайтесь более быстрой скоростью загрузки на базе Xunlei</string>
     <string name="download_list_intoAuth">Подтвердите свой аккаунт</string>
-    <string name="download_list_intoAuthAlert">Секунду…</string>
+    <string name="download_list_intoAuthAlert">Подождите…</string>
     <string name="download_list_open_xl_cancel">Отмена</string>
     <string name="download_list_open_xl_message">Ускоритель Xunlei поможет ускорить загрузку.</string>
     <string name="download_list_open_xl_ok">ОК</string>
