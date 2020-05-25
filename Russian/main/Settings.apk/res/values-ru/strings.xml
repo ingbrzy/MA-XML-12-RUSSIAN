@@ -3127,8 +3127,8 @@
     <string name="imei_information_summary">Сведения, касающиеся IMEI-кода</string>
     <string name="imei_information_title">Данные IMEI-кода</string>
     <string name="imei_multi_sim">IMEI (слот %1$d)</string>
-    <string name="immediately_destroy_activities">Не хранить activities</string>
-    <string name="immediately_destroy_activities_summary">Уничтожать activities после их завершения</string>
+    <string name="immediately_destroy_activities">Не хранить активити</string>
+    <string name="immediately_destroy_activities_summary">Уничтожать активити приложения после их завершения</string>
     <string name="importance_default">По умолчанию</string>
     <string name="importance_high">Высокая</string>
     <string name="importance_low">Средняя</string>
@@ -7084,10 +7084,10 @@ UT-интерфейс: %5$s"</string>
     <string name="usagestats_device_timeout_negative">Напомнить через 1 час</string>
     <string name="usagestats_device_timeout_positive">Понятно</string>
     <string name="usagestats_device_timeout_title">"Лимит времени экрана"</string>
-    <string name="usb_adb_input">Отладка по USB (Настройки безопасности)</string>
-    <string name="usb_adb_input_desc">Разрешить предоставление разрешений и имитацию ввода с помощью отладки через USB</string>
-    <string name="usb_audio_disable_routing">Отключить передачу звука по USB</string>
-    <string name="usb_audio_disable_routing_summary">Отключить автоматическую передачу звука на внешние USB-устройства</string>
+    <string name="usb_adb_input">Отладка по USB</string>
+    <string name="usb_adb_input_desc">Разрешить выдачу разрешений и имитацию ввода при отладке по USB</string>
+    <string name="usb_audio_disable_routing">Отключить передачу аудио по USB</string>
+    <string name="usb_audio_disable_routing_summary">Отключить автоматическую передачу аудио на внешние USB-устройства</string>
     <string name="usb_charging_summary">Отключить все прочие функции USB для ускорения зарядки</string>
     <string name="usb_charging_title">Быстрая зарядка</string>
     <string name="usb_connection_category">Подключить как</string>
