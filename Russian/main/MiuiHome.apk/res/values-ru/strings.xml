@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_menu_item_split_disable">Приложение не поддерживает разделение экрана.</string>
     <string name="accessibility_menu_item_split_enable">Приложение поддерживает разделение экрана</string>
-    <string name="accessibility_recent_task_enter">Недавние открыты</string>	
+    <string name="accessibility_recent_task_enter">Недавние открыты</string>
     <string name="accessibility_recent_task_exit">Недавние закрыты</string>
     <string name="accessibility_recent_task_locked">Закреплено, сдвиньте вниз для открепления.</string>
     <string name="accessibility_recent_task_locked_state">Закреплено</string>
@@ -106,6 +106,7 @@
     <string name="announce_for_show_uninstall_dialog">Появился диалог удаления. Отмените или подтвердите.</string>
     <string name="announce_for_unchecked">%1$s, выбор отменен</string>
     <string name="announce_for_widget_span">Ширина %1$d, высота %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Приложение уже существует</string>
     <string name="app_being_backup_message">Приложение резервируется</string>
     <string name="app_being_restored_message">Приложение восстанавливается</string>
@@ -142,7 +143,7 @@
     <string name="aqi_quality_index_unhealthy">Нездоровый</string>
     <string name="auto_add_app_shortcut">Размещать новые приложения на рабочем столе</string>
     <string name="auto_delete_category_dialog_content">Категория и связанные с ней приложения будут удалены. Удалить?</string>
-    <string name="auto_delete_category_dialog_title">Удаление категорий</string>	
+    <string name="auto_delete_category_dialog_title">Удаление категорий</string>
     <string name="backup_fail">Сбой резервного копирования</string>
     <string name="bad_wallpaper_source_prompt">Не удалось загрузить обои</string>
     <string name="buffering">Буферизация…</string>
@@ -159,7 +160,7 @@
     <string name="category_drawer_name_hint">Введите название категории</string>
     <string name="category_edit_back_confirm_dialog_content">Сохранить изменения?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">Отмена</string>
-    <string name="category_edit_back_confirm_dialog_positive_button">Сохранить</string>	
+    <string name="category_edit_back_confirm_dialog_positive_button">Сохранить</string>
     <string name="category_group">Включить категории</string>
     <string name="category_group_summary">Группировка приложений в меню по категориям</string>
     <string name="category_not_selected">Доступные приложения</string>
@@ -174,7 +175,7 @@
     <string name="confirm_uninstall_dialog_title">Клоны приложений будут удалены</string>
     <string name="content_description_button_add">Нажмите для добавления</string>
     <string name="content_description_button_disable">Больше нет места</string>
-    <string name="content_description_button_remove">Нажмите для удаления</string>	 	
+    <string name="content_description_button_remove">Нажмите для удаления</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, выбрано</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, выбор отменен</string>
     <string name="content_description_workspace_thumbnail_item">Миниатюра экрана, страница %1$s</string>
@@ -202,6 +203,7 @@
     <string name="delete_wallpaper_message">Удалить обои (%1$d)?</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="disable_wallpaper_scroll">Отключить прокрутку обоев</string>
+    <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="download_action">Загрузить</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
@@ -315,7 +317,7 @@
     <string name="launcher_pull_down_title">Свайп вниз</string>
     <string name="launcher_search_bar_title">Панель поиска</string>
     <string name="launcher_search_bar_value_disable">Откл.</string>
-    <string name="launcher_search_bar_value_enable">Вкл.</string>	
+    <string name="launcher_search_bar_value_enable">Вкл.</string>
     <string name="launcher_slide_up_title">Свайп вверх</string>
     <string name="launcher_sliding_up_gesture">Поиск свайпом вверх</string>
     <string name="launcher_title">Рабочий стол</string>
@@ -334,7 +336,7 @@
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">Очищено %1$s Б</string>
     <string name="memory_clear_result_giga">Очищено %1$s ГБ</string>
-    <string name="memory_clear_result_mega">Очищено %1$s МБ</string>	
+    <string name="memory_clear_result_mega">Очищено %1$s МБ</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_auto_fill_of_uninstall">Заполнять пустые ячейки</string>
     <string name="menu_back_desktop">Домой</string>
@@ -366,7 +368,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
     <string name="multi_selecting_tips">Нажмите и удерживайте значок для его перемещения</string>
     <string name="no_detail_page">Нет страницы с подробной информацией</string>
@@ -421,13 +423,14 @@
     <string name="preferred_app_settings_not_selected">Не выбрано</string>
     <string name="privacy_thumbnail_blur_summary">Размывать миниатюры приложений в Недавних</string>
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
+    <string name="process" />
     <string name="quick_app">Быстрые приложения</string>
     <string name="recent_apps">Недавние</string>
     <string name="recent_menu_item_info">Сведения</string>
     <string name="recent_menu_item_lock">Закрепить</string>
     <string name="recent_menu_item_multi_window">Разделить</string>
     <string name="recent_menu_item_unlock">Открепить</string>
-    <string name="recents_app_info_button_label">О приложении</string>	
+    <string name="recents_app_info_button_label">О приложении</string>
     <string name="recents_config_title">Недавние</string>
     <string name="recents_dimiss_task">Очистить</string>
     <string name="recents_empty_message">Недавних приложений нет</string>
@@ -436,6 +439,7 @@
     <string name="recents_exit_multi_window_mode">Выход</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Разделение экрана недоступно во время трансляции</string>
     <string name="recents_incompatible_app_message">Приложение не поддерживает разделение экрана</string>
+    <string name="recents_smallwindow_text">Отпустите для добавления</string>
     <string name="recents_task_screening">Трансляция</string>
     <string name="recents_title_app_manager">Приложения</string>
     <string name="recents_title_game">Игры</string>
@@ -465,7 +469,7 @@
     <string name="reset_scene_prompt">Расположение значков на рабочем столе будет сброшено</string>
     <string name="reset_title">Восстановить</string>
     <string name="resource_canary_leak_tip">есть утечка!</string>
-    <string name="resource_canary_wait_for_heapdump_message">Формирование дампа...</string>	
+    <string name="resource_canary_wait_for_heapdump_message">Формирование дампа...</string>
     <string name="screen_cells_config_title">Сетка рабочего стола</string>
     <string name="screen_locked_toast">Рабочий стол защищен от изменений</string>
     <string name="screen_number">Экран %d</string>
@@ -482,6 +486,7 @@
     <string name="shake_to_align_icons_summary">Встряхните устройство для автоматического заполнения пустых ячеек в режиме редактирования рабочего стола.</string>
     <string name="shake_to_align_icons_title">Заполнять пустые ячейки встряхиванием</string>
     <string name="share">Отправить</string>
+    <string name="sharedUserId" />
     <string name="shortcut_share_dialog_content">Файлы, которые вы отправляете со своего телефона, а также их получатели, выбираются и определяются вами. Будьте внимательны при выборе файлов для обмена и при выборе получателей. Вы не должны использовать свой телефон для передачи вирусов и вредоносного программного обеспечения другим людям. Не используйте свой телефон для передачи программного обеспечения, которое может повлиять на пользование устройством получателем, а также повредить, помешать, перехватить или уничтожить любые данные или личную информацию на мобильных устройствах. Вы будете нести ответственность за любой ущерб, причиненный другим пользователям или мобильным устройствам. Xiaomi сделает все возможное, чтобы функциональность обмена, а также используемые технологии и информация были безопасными, эффективными, точными и надежными. Тем не менее, из-за текущих технологических ограничений, Xiaomi не гарантирует, что функциональность совместного использования будет безупречной и удовлетворит все ваши потребности.</string>
     <string name="shortcut_share_dialog_positive_button">Понятно</string>
     <string name="shortcut_share_dialog_title">Отказ от ответственности</string>
@@ -496,14 +501,14 @@
     <string name="small_window_empty">Выберите из доступных приложений</string>
     <string name="small_window_select_title">Доступные</string>
     <string name="small_window_title_text">Открыть плавающее окно</string>
-    <string name="small_window_toast">Можно добавить до %d приложений</string>	
+    <string name="small_window_toast">Можно добавить до %d приложений</string>
     <string name="sort_by_abc">По имени</string>
     <string name="sort_by_frequency">По популярности</string>
     <string name="sort_by_not_defined">По порядку</string>
     <string name="start_activity_failed">Не удалось запустить рабочий стол</string>
     <string name="starting_preset_app">Запуск…</string>
     <string name="status_bar_recent_memory_info1">Доступно %1$sB из %2$sB</string>
-    <string name="status_bar_recent_memory_info2"/>	
+    <string name="status_bar_recent_memory_info2"/>
     <string name="status_downloaded">Загруженные</string>
     <string name="status_downloading">Загрузка</string>
     <string name="status_installing">Установка</string>
@@ -511,7 +516,7 @@
     <string name="status_pending">Ожидание</string>
     <string name="switch_personal_assistant_app_vault">Ассистент</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
-    <string name="switch_personal_assistant_none">Нет</string>	
+    <string name="switch_personal_assistant_none">Нет</string>
     <string name="system_shortcuts_more_operation">Сведения</string>
     <string name="system_shortcuts_remove">Удалить</string>
     <string name="system_text">По умолчанию</string>
@@ -540,7 +545,6 @@
     <string name="uninstall_xspace_dialog_title_format">Удалить клон \"%s\"?</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unnamed_folder_name">Папка</string>
-    <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="use_theme_screen_cells_title">Разрешить теме изменять сетку экрана</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
