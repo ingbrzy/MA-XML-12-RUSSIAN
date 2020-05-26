@@ -94,8 +94,6 @@
     <string name="pref_category_quick_settings">Быстрые настройки</string>
     <string name="pref_category_system">Системные настройки</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
-<!-- ### FROM SOURCE -->
-    <string name="process_name">:float</string>
     <string name="restore_default">Сброс настроек</string>
     <string name="restore_intro">Восстановление настроек по умолчанию, включая ярлыки и их порядок. Данные приложения удалены не будут.</string>
     <string name="search_menu_title">Поиск</string>
@@ -104,12 +102,4 @@
     <string name="three_seconds_auto_hide">Скрывать после 3 секунд бездействия</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-<!-- ### FROM SOURCE -->
-    <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
-<!-- ### FROM SOURCE -->
-    <string name="vector_large_crossA">M160,160 L240,240</string>
-<!-- ### FROM SOURCE -->
-    <string name="vector_large_crossB">M240,160 L160,240</string>
-<!-- ### FROM SOURCE -->
-    <string name="wechat_package">com.tencent.mm</string>
 </resources>
