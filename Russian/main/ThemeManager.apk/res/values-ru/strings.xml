@@ -218,9 +218,7 @@
     <string name="exo_download_notification_channel_name">Скачивания</string>
     <string name="exo_download_removing">Удаление скачанных файлов…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Мбит/с</string>
     <string name="exo_track_mono">Моно</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -334,7 +332,6 @@
     <string name="incompatible_dialog_ok">Понятно</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будильник</string>
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
@@ -627,7 +624,6 @@
     <string name="resource_detail_recommend_desiner_other_themes">Другие темы автора %1$s</string>
     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
     <string name="resource_detail_update_log_title">Обновления</string>
-    <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_window_title">%1$s: подробности</string>
     <string name="resource_download">Загрузить</string>
     <string name="resource_download_notification_title_many">Загружено тем: %1$s</string>
