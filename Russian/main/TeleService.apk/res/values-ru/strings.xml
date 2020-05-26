@@ -155,7 +155,6 @@
   <string name="advanced_mobile_settings">Расширенные настройки</string>
   <string name="advanced_options_title">Расширенные настройки</string>
   <string name="advanced_settings">Расширенные настройки</string>
-  <string name="advanced_settings_container">Дополнительные параметры</string>
   <string name="advanced_settings_hide">▽ Нажмите, чтобы скрыть все</string>
   <string name="advanced_settings_show">▷ Нажмите, чтобы показать все</string>
   <string name="advertisements_disable">Реклама отключена</string>
@@ -192,7 +191,6 @@
   <string name="audio_mode_earpiece">Разговорный динамик</string>
   <string name="audio_mode_speaker">Динамик</string>
   <string name="audio_mode_wired_headset">Проводная гарнитура</string>
-  <string name="auth_username">Имя пользователя</string>
   <string name="auth_username_summary">Имя пользователя для аутентификации</string>
   <string name="auth_username_title">Имя пользователя</string>
   <string name="auto_answer_delay_entries_delay_10s">%d секунд</string>
@@ -755,7 +753,6 @@
   <string name="default_preference_summary_domain_address">&lt;Не задано&gt;</string>
   <string name="default_preference_summary_password">&lt;Не задано&gt;</string>
   <string name="default_preference_summary_username">&lt;Не задано&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Удалить</string>
   <string name="delete_fdn_contact">Удаление номера</string>
   <string name="deleting_fdn_contact">Удаление разрешенного номера…</string>
@@ -843,11 +840,9 @@
   <string name="disabled">Отключено</string>
   <string name="disabled_by_admin">Отключено администратором</string>
   <string name="disabled_by_admin_summary_text">Контролируется администратором</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Совпадает с именем пользователя&gt;</string>
   <string name="display_name_title">Отображаемое имя</string>
   <string name="do_not_show_again">Больше не показывать</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Сервер</string>
   <string name="doneButton">Готово</string>
   <string name="dtmf_tone_entries_long">Длинный</string>
@@ -1470,7 +1465,6 @@
   <string name="other_settings_category">Прочие настройки</string>
   <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
   <string name="overseas_roaming_setting">Интернет в роуминге</string>
-  <string name="password">Пароль</string>
   <string name="password_changed">Пароль изменен</string>
   <string name="password_title">Пароль</string>
   <string name="path_answer_state_setting_title">Системные приложения/Телефон/Входящие вызовы</string>
@@ -1556,7 +1550,6 @@
   <string name="pin_progress_unlock_icc">Разблокировка SIM-карты…</string>
   <string name="pointer_location">Отображать касания</string>
   <string name="pointer_location_summary">Визуализировать на экране нажатия и жесты</string>
-  <string name="port">Номер порта</string>
   <string name="port_title">Номер порта</string>
   <string name="power_charging_duration">^1 - ^2 до полной зарядки</string>
   <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
@@ -1782,9 +1775,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="select_webview_provider_title">Сервис WebView</string>
   <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
   <string name="send_button">Отправить</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Отправлять keep-alive</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Используется для исходящих вызовов</string>
   <string name="set_primary_title">Основной аккаунт</string>
   <string name="set_smsc_address_error">Не удалось установить номер</string>
@@ -2023,7 +2014,6 @@ SIM-карта будет заблокирована при неудачной �
   <string name="title_convert_fbe">Переход к шифрованию отдельных файлов</string>
   <string name="track_frame_time">Профилировать GPU-отрисовку</string>
   <string name="transition_animation_scale_title">Анимация переходов</string>
-  <string name="transport">Протокол</string>
   <string name="transport_title">Протокол</string>
   <string name="tts_default_lang_summary">Выбор языка для чтения текста</string>
   <string name="tts_default_lang_title">Язык</string>
@@ -2079,7 +2069,6 @@ SIM-карта будет заблокирована при неудачной �
   <string name="usb_audio_disable_routing_summary">Откл. автом. маршрутизацию на внеш. USB-устройства</string>
   <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
   <string name="user_guest">Гость</string>
-  <string name="username">Имя пользователя</string>
   <string name="username_title">Имя пользователя</string>
   <string name="ussdRunning">Выполняется USSD запрос…</string>
   <string name="ut_not_support">UT не поддерживается</string>
