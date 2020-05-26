@@ -312,7 +312,7 @@ ID:%s
   <string name="passport_error_empty_pwd">Введите пароль</string>
   <string name="passport_error_empty_username">Введите ID своего аккаунта</string>
   <string name="passport_error_empty_vcode">Введите код подтверждения</string>
-  <string name="passport_error_empty_voice_code">Введите защитный код</string>
+  <string name="passport_error_empty_voice_code">Введите код с картинки</string>
   <string name="passport_error_illegal_pwd">Неверный пароль</string>
   <string name="passport_error_invalid_dev_id">ID устройства неверен.</string>
   <string name="passport_error_invalid_phone_num">Неверный номер телефона</string>
@@ -514,7 +514,7 @@ ID:%s
   <string name="replace_binded_phone">Заменить телефон</string>
   <string name="resend_active_email">Отправить снова</string>
   <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
-  <string name="resend_email_reach_limit_title">Не удалось отправить письмо</string>
+  <string name="resend_email_reach_limit_title">Слишком много попыток</string>
   <string name="resend_email_success">Письмо отправлено снова</string>
   <string name="restart_action">Начать сначала</string>
   <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>

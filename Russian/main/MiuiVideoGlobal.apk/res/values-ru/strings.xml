@@ -145,7 +145,7 @@
   <string name="check_nothing">Ничего не выбрано</string>
   <string name="choose">Выбрать</string>
   <string name="choose_to_signin">Да</string>
-  <string name="choose_to_signup">Нет, создать новый</string>
+  <string name="choose_to_signup">Создать новый</string>
   <string name="click_to_reload_more">Нажмите для загрузки</string>
   <string name="click_to_retry">Повторить</string>
   <string name="cloud_online_switch">Персонализированные рекомендации</string>
@@ -724,7 +724,7 @@ ID:%s
   <string name="passport_input_vcode_hint">Введите проверочный код</string>
   <string name="passport_input_voice_captcha_hint">Введите голосовой код подтверждения</string>
   <string name="passport_input_voice_hint">Введите голосовой код</string>
-  <string name="passport_international_phone_password_login_tip">(Пользователям, находящимся за пределами территории Китая, необходимо вводить номер телефона в следующем формате: +[Код страны][Номер телефона], например +91 817282982)</string>
+  <string name="passport_international_phone_password_login_tip">(Пользователям за пределами Китая необходимо вводить номер мобильного телефона в формате: +[Код страны][Номер телефона], например +7 1234567890)</string>
   <string name="passport_log_detail">Показать сведения</string>
   <string name="passport_login_failed">Ошибка входа в систему</string>
   <string name="passport_next">Далее</string>
@@ -919,7 +919,7 @@ ID:%s
   <string name="plus_tab_gallery">Папки</string>
   <string name="plus_tab_time">Временная шкала</string>
   <string name="psw_hint">Пароль</string>
-  <string name="psw_sign_in">Войти по паролю</string>
+  <string name="psw_sign_in">Войти с паролем</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Потяните вверх для обновления…</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">Секунду…</string>
   <string name="pull_to_refresh_from_bottom_release_label">Отпустите для обновления…</string>
@@ -1070,7 +1070,7 @@ ID:%s
   <string name="temporary_not_available">Эта функция пока недоступна</string>
   <string name="thursday">Четверг</string>
   <string name="ticket_hint">Код подтверждения</string>
-  <string name="ticket_invalid">Код введен неверно</string>
+  <string name="ticket_invalid">Введен неверный код</string>
   <string name="ticket_sign_in">Войти через SMS</string>
   <string name="title_publisher">Создатели</string>
   <string name="title_subscribe">Подписки</string>
@@ -1089,7 +1089,7 @@ ID:%s
   <string name="update_email_address_dialog_title">Обновить адрес электронной почты для восстановления</string>
   <string name="update_find_new_version">Доступно обновление</string>
   <string name="update_phone_notice">Измените настройки безопасности</string>
-  <string name="upload_error_log">Загрузить журнал</string>
+  <string name="upload_error_log">Отправить журнал</string>
   <string name="user_avatar_update_title">Изменить фото профиля</string>
   <string name="user_avatar_uploading">Секунду…</string>
   <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
@@ -1132,7 +1132,7 @@ ID:%s
   <string name="vp_upcoming_title">Далее</string>
   <string name="wednesday">Среда</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте состояние диспетчера загрузки в разделе Управление приложениями.</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
   <string name="xiaomi_update_sdk_dialog_message">Доступна версия %1$s
 Размер: %2$s</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">Доступна версия %1$s

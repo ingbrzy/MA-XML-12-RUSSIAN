@@ -35,6 +35,11 @@
     <string name="close_panel">Выключить сенсорный помощник</string>
     <string name="copy">Копировать</string>
     <string name="customize_entries">Функции ярлыков</string>
+    <string name="edge_distance_pref_summary">Коснитесь области пробуждения у края экрана для запуска сенсорного помощника</string>
+    <string name="edge_distance_pref_title">Область пробуждения</string>
+    <string name="edge_mode_custom_summary">Регулировка размера области пробуждения у края экрана</string>
+    <string name="edge_mode_custom_title">По умолчанию</string>
+    <string name="edge_mode_default_title">Пользовательская</string>
     <string name="enable_touch_assistant">Включить сенсорный помощник</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="function_settings">Настройки ярлыков</string>
@@ -89,6 +94,8 @@
     <string name="pref_category_quick_settings">Быстрые настройки</string>
     <string name="pref_category_system">Системные настройки</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
+<!-- ### FROM SOURCE -->
+    <string name="process_name">:float</string>
     <string name="restore_default">Сброс настроек</string>
     <string name="restore_intro">Восстановление настроек по умолчанию, включая ярлыки и их порядок. Данные приложения удалены не будут.</string>
     <string name="search_menu_title">Поиск</string>
@@ -97,4 +104,12 @@
     <string name="three_seconds_auto_hide">Скрывать после 3 секунд бездействия</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+<!-- ### FROM SOURCE -->
+    <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
+<!-- ### FROM SOURCE -->
+    <string name="vector_large_crossA">M160,160 L240,240</string>
+<!-- ### FROM SOURCE -->
+    <string name="vector_large_crossB">M240,160 L160,240</string>
+<!-- ### FROM SOURCE -->
+    <string name="wechat_package">com.tencent.mm</string>
 </resources>
