@@ -212,9 +212,7 @@
     <string name="other_device_main_space">Первое пространство</string>
     <string name="other_device_second_space">Второе пространство</string>
 <!-- ### FROM SOURCE -->
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
 <!-- ### FROM SOURCE -->
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
     <string name="provision_background_restore_more_data">Восстанавливать объекты в фоновом режиме</string>
@@ -295,5 +293,4 @@
     <string name="v7_preference_on">Вкл.</string>
     <string name="wait_icon_download">Загрузка значков приложений</string>
 <!-- ### FROM SOURCE -->
-    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
