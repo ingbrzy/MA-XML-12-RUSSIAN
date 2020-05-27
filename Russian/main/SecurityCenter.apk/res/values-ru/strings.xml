@@ -1447,6 +1447,7 @@
   <string name="gb_first_window_summary">Повышение производительности на системном уровне</string>
   <string name="gb_first_window_title">Ускорение игр</string>
   <string name="gb_game_end_toast">Вернитесь к ключевым моментам ваших игр</string>
+  <string name="gb_game_video_ai_record_finish_tips">AI записи при ускорении игр: %d</string>
   <string name="gb_game_video_bottom_tips">Просматривайте записи игровых сессий в gamebox. По умолчанию видео хранятся 7 дней.</string>
   <string name="gb_game_video_item_tag">Ключевые моменты</string>
   <string name="gb_game_video_page_delete_success">Успешно удалено</string>
@@ -1454,7 +1455,9 @@
   <string name="gb_game_video_record_finish_tips">Успешно сохранено</string>
   <string name="gb_game_video_save">Сохранить</string>
   <string name="gb_game_video_type_ai">AI</string>
+  <string name="gb_game_video_type_ai_record">AI запись</string>
   <string name="gb_game_video_type_manual">Вручную</string>
+  <string name="gb_game_video_type_manual_record">Запись вручную</string>
   <string name="gb_get_gift_right_now">Отметиться</string>
   <string name="gb_global_settings">Общие настройки</string>
   <string name="gb_have_signed">Отметились сегодня</string>
@@ -1490,10 +1493,12 @@
   <string name="gb_voice_changer_permission_dlg_msg">Синтезатору для нормальной работы требуется разрешение на запись звука.</string>
   <string name="gb_voice_changer_permission_dlg_title">Требуется разрешение</string>
   <string name="gb_voice_changer_robot">Робот</string>
+  <string name="gb_wonderful_moment_toast_window_new_pop">Включите AI запись или запись вручную, чтобы сохранить замечательные моменты</string>
   <string name="gb_wonderful_video_cancel">Отмена</string>
   <string name="gb_wonderful_video_checkall">Выбрать все</string>
   <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
   <string name="gb_wonderful_video_delete">Удалить</string>
+  <string name="gb_wonderful_video_goto_box">Перейти к просмотру ускорения игр</string>
   <string name="gb_wonderful_video_header_title">Сегодня</string>
   <string name="gb_wonderful_video_save_suc">Успешно сохранено</string>
   <string name="gb_xunyou_gift_type_one">Ускорение Xunyou на 1 день</string>

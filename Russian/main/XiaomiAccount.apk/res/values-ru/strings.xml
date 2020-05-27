@@ -194,7 +194,8 @@ ID:%s
   <string name="first_login_time">Первая попытка входа: %s</string>
   <string name="for_diagnosis_usage_only">Используется только для обнаружения проблем.</string>
   <string name="get_back_pwd">Сброс пароля</string>
-  <string name="get_device_list_failed">Не удалось получить список</string>
+  <string name="get_device_list_failed">Не удалось получить список устройств</string>
+  <string name="get_identity_auth_url_failed">Не удалось проверить ID</string>
   <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 аккаунтов. Невозможно добавить новый аккаунт.</string>
   <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
   <string name="guest_account_label">Гостевой Mi аккаунт</string>
