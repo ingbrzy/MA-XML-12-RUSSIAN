@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_label">Загрузки</string>
+  <string name="auto_restart_under_wifi">При подключении к Wi-Fi файл будет загружен автоматически</string>
   <string name="button_cancel_download">Отмена</string>
   <string name="button_download_now">Загрузить</string>
   <string name="button_queue_for_wifi">Отложить</string>
@@ -9,11 +10,11 @@
   <string name="channel_active">Активные загрузки</string>
   <string name="channel_complete">Завершенные загрузки</string>
   <string name="channel_insufficient_space">Недостаточно места</string>
-  <string name="channel_waiting">Ожидание загрузки</string>  
+  <string name="channel_waiting">Ожидание загрузки</string>
   <string name="dialog_button_cancel">Отмена</string>
   <string name="dialog_button_ok">ОК</string>
-  <string name="dialog_content_limit_max">Без ограничений</string>
   <string name="dialog_content_limit0">Только по Wi-Fi</string>
+  <string name="dialog_content_limit_max">Без ограничений</string>
   <string name="dialog_data_limit_button1">Подождать Wi-Fi</string>
   <string name="dialog_data_limit_button2">Загрузить</string>
   <string name="dialog_data_limit_msg1">%s мобильного интернета будет использовано для загрузки этого файла. Продолжить?</string>
@@ -28,19 +29,20 @@
   <string name="download_apk_desktop_installing">Установка</string>
   <string name="download_apk_desktop_pause">Приостановлено</string>
   <string name="download_apk_desktop_pending">Ожидание</string>
-  <string name="download_apk_desktop_running">Загрузка</string> 
+  <string name="download_apk_desktop_running">Загрузка</string>
   <string name="download_error">Ошибка</string>
   <string name="download_filesize_unknown">Неизвестно</string>
   <string name="download_no_application_title">Ошибка открытия файла</string>
   <string name="download_queued">В очереди</string>
   <string name="download_remaining">Осталось %s</string>
   <string name="download_running">Загружается</string>
+  <string name="download_running_percent">Идет загрузка, %d%%</string>
   <string name="download_unknown_title">&lt;Без названия&gt;</string>
   <string name="enter_garbage_clean">Очистка внутренней памяти</string>
   <string name="insufficient_space">Недостаточно места во внутренней памяти устройства</string>
   <string name="mobile_recommended_title">Мобильный интернет</string>
   <string name="notif_text_engine_off">Ускорение Xunlei отключено</string>
-  <string name="notif_text_engine_on">Ускорение…</string>  
+  <string name="notif_text_engine_on">Ускорение…</string>
   <string name="notif_title_file_size">Всего: %1$d</string>
   <string name="notif_title_multiple_downloading">Загружается файлов: %1$d</string>
   <string name="notif_title_single_downloading">Загрузка файла (%1$s)</string>
@@ -53,7 +55,7 @@
   <string name="notify_disabled_net_by_app">Подключение к интернету ограничено приложением Безопасность</string>
   <string name="notify_install_guide_forward_text">Открыть</string>
   <string name="notify_install_guide_msg">Приложение успешно установлено</string>
-  <string name="notify_install_guide_title">Установка \"%s\"</string>  
+  <string name="notify_install_guide_title">Установка \"%s\"</string>
   <string name="notify_only_wifi_download">Одидание Wi-Fi</string>
   <string name="paused_waiting_for_network">Ожидание сети</string>
   <string name="permdesc_accessAllDownloads">Позволяет приложению просматривать и изменять все загрузки, инициированные любым приложением в системе.</string>
@@ -71,11 +73,11 @@
   <string name="permlab_downloadWithoutNotification">Загрузка файлов без уведомления</string>
   <string name="permlab_seeAllExternal">Просмотр загрузок на SD карте</string>
   <string name="privacy_notif_content">Нажмите для информации.</string>
-  <string name="privacy_notif_title">Ускорение Xunlei включено</string>  
+  <string name="privacy_notif_title">Ускорение Xunlei включено</string>
   <string name="privacy_tip_cancel">Отмена</string>
   <string name="privacy_tip_content">Использовать ускорение Xunlei для увеличения скорости загрузки? URL-адрес загрузки будет загружен на серверы Xunlei. Также, будут загружены данные Mi Аккаунта для проверки активных подписок на эту услугу.</string>
   <string name="privacy_tip_ok">ОК</string>
-  <string name="privacy_tip_title">Использовать ускорение Xunlei?</string>  
+  <string name="privacy_tip_title">Использовать ускорение Xunlei?</string>
   <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного интернета для загрузки этого файла?</string>
   <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
   <string name="root_downloads">Загрузки</string>
