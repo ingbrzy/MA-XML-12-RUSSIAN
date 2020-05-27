@@ -13,7 +13,7 @@
     <string name="avrcp_cover_art_default_mimetype">JPEG</string>
     <string name="avrcp_notification_name">BT ADVANCE FEATURE AVRCP</string>
     <string name="bluetooth_a2dp_sink_queue_name">Сейчас играет</string>
-    <string name="bluetooth_advanced_feat_description">Расширенная функция просмотра Bluetooth</string>	
+    <string name="bluetooth_advanced_feat_description">Расширенная функция просмотра Bluetooth</string>
     <string name="bluetooth_connected">Звук через Bluetooth включен</string>
     <string name="bluetooth_disconnected">Звук через Bluetooth отключен</string>
     <string name="bluetooth_map_remote_advance_feature_support">Доступны расширенные функции доступа к сообщениям</string>
@@ -30,7 +30,7 @@
     <string name="bluetooth_opp_file_limit_exceeded">Передача файлов размером более 4 ГБ не поддерживается</string>
     <string name="bluetooth_rc_feat_content">Сопряжение поддерживает расширенные функции</string>
     <string name="bluetooth_rc_feat_subtext">Повторное сопряжение для включения</string>
-    <string name="bluetooth_rc_feat_title">Bluetooth медиа-просмотр</string>	
+    <string name="bluetooth_rc_feat_title">Bluetooth медиа-просмотр</string>
     <string name="bluetooth_sap_notif_disconnect_button">Отключить</string>
     <string name="bluetooth_sap_notif_disconnecting">Подождите…</string>
     <string name="bluetooth_sap_notif_force_disconnect_button">Отключить принудительно</string>
@@ -128,14 +128,15 @@
     <string name="remote_phonebook_feature_downgrade">Понижение функции внешней телефонной книги</string>
     <string name="repair_for_adv_phonebook_feature">Повторное сопряжение для улучшенной функции телефонной книги</string>
     <string name="repair_for_phonebook_access_version_comp">Повторное сопряжение для совместимости версий телефонной книги</string>
+    <string name="sharedUserId"/>
     <string name="start_server">Запустить TCP-сервер</string>
     <string name="status_canceled">Передача отменена.</string>
     <string name="status_connection_error">Не удалось установить соединение.</string>
     <string name="status_file_error">Ошибка хранилища.</string>
     <string name="status_forbidden">Передача запрещена на принимающем устройстве.</string>
+    <string name="status_no_sd_card">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
     <string name="status_no_sd_card_default">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
     <string name="status_no_sd_card_nosdcard">Отсутствует USB-накопитель.</string>
-    <string name="status_no_sd_card">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
     <string name="status_not_accept">Контент не поддерживается.</string>
     <string name="status_pending">Передача файла еще не началась.</string>
     <string name="status_protocol_error">Невозможно правильно обработать запрос.</string>
@@ -145,7 +146,7 @@
     <string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_phone">Это устройство</string>
     <string name="switch_audio_notification_content">Текущее устройство вывода звука:</string>
-    <string name="switch_audio_notification_title">Подключения</string>	
+    <string name="switch_audio_notification_title">Подключения</string>
     <string name="transfer_clear_dlg_msg">Все элементы будут удалены из списка.</string>
     <string name="transfer_clear_dlg_title">Очистить</string>
     <string name="transfer_menu_clear">Удалить из списка</string>
