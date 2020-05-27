@@ -48,8 +48,10 @@
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add_resource_detail_fail">Не удалось добавить ресурс</string>
+    <string name="afternoon">PM</string>
     <string name="all_resources">Все</string>
     <string name="already_latest_version">Обновлений нет</string>
+    <string name="am">AM</string>
     <string name="app_ad_title">Ежедневные рекомендации</string>
     <string name="app_disable_transparent_wallpaper">Не использовать прозрачные обои</string>
     <string name="app_enable_transparent_wallpaper">Включить прозрачные обои</string>
@@ -105,7 +107,7 @@
     <string name="community_cta_dialog_cancel">Отмена</string>
     <string name="community_cta_dialog_des">Эта тема содержит ярлык часов, который отображает идентификатор вашего Mi Аккаунта и статус Mi Сообщества. Вы можете отключить эту функцию, переключившись на другую тему или удалив виджет часов.</string>
     <string name="community_cta_dialog_ok">Понятно</string>
-    <string name="community_cta_dialog_title">Ярлык часов</string>	
+    <string name="community_cta_dialog_title">Ярлык часов</string>
     <string name="component_backup_preference_title">Сохранить тему</string>
     <string name="component_category_finest_title">Основные</string>
     <string name="component_category_more_title">Дополнительные</string>
@@ -122,6 +124,9 @@
     <string name="current_using_lockscreen_wallpaper_text">Экран блокировки</string>
     <string name="current_version">Текущая версия: %1$s</string>
     <string name="current_version_incompatible">Несовместимо</string>
+    <string name="date_picker_label_day"/>
+    <string name="date_picker_label_month"/>
+    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Лунный календарь</string>
     <string name="de_apply_icons">Значки</string>
     <string name="de_apply_icons_and_wallpaper">Значки и обои</string>
@@ -180,11 +185,16 @@
     <string name="download_preview_failed">Не удалось загрузить эскиз</string>
     <string name="download_success">Загрузка завершена</string>
     <string name="dynamic_video_wallpaper">24-часовые обои</string>
+    <string name="early_morning">AM</string>
+    <string name="empty"/>
     <string name="enable_all_free_mode">Загрузить</string>
     <string name="enable_aod_list">Включить Активный экран</string>
     <string name="enable_transparent_wallpaper">Использовать прозрачные обои</string>
     <string name="enabling_all_free_mode">Загрузка…</string>
+    <string name="eras_ad">AD</string>
+    <string name="eras_bc">BC</string>
     <string name="error_icon_content_description">Ошибка</string>
+    <string name="evening">PM</string>
     <string name="exchange_alert">Вы можете получить купоны во время наших рекламных акций и обменять их на темы.</string>
     <string name="exit_extreme_mode_dialog_agree">Согласен</string>
     <string name="exit_extreme_mode_dialog_cancel">Отмена</string>
@@ -288,7 +298,7 @@
     <string name="hide_free_aod">Не показывать бесплатные темы</string>
     <string name="hide_free_font">Скрыть бесплатные шрифты</string>
     <string name="hide_free_icons">Не показывать бесплатные значки</string>
-    <string name="hide_free_miwallpaper">Не показывать бесплатные эффеуты рабочего стола</string>	
+    <string name="hide_free_miwallpaper">Не показывать бесплатные эффеуты рабочего стола</string>
     <string name="hide_free_theme">Скрыть бесплатные темы</string>
     <string name="hide_free_wallpaper">Скрыть бесплатные обои</string>
     <string name="hide_incompatible">Скрыть несовместимые %1$s</string>
@@ -297,10 +307,10 @@
     <string name="hide_mamual_hide_icons">Не показывать скрытые вручную значки</string>
     <string name="hide_mamual_hide_miwallpaper">Не показывать скрытые эффекты рабочего стола</string>
     <string name="hide_mamual_hide_theme">Не показывать скрытые темы</string>
-    <string name="hide_mamual_hide_wallpaper">Не показывать скрытые обои</string>	
+    <string name="hide_mamual_hide_wallpaper">Не показывать скрытые обои</string>
     <string name="hide_pull_down_message">Скрыть?</string>
     <string name="hide_pull_down_negative">Отмена</string>
-    <string name="hide_pull_down_positive">Скрыть</string>	
+    <string name="hide_pull_down_positive">Скрыть</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
     <string name="home_apply_success">Обои рабочего стола установлены</string>
     <string name="icon_content_description">Значок диалога</string>
@@ -352,6 +362,7 @@
     <string name="long_click_can_hide_resource">Нажмите и удерживайте для скрытия элементов</string>
     <string name="loop_wallpaper_is_here">Новые функции</string>
     <string name="mi_wallpaper">Mi обои</string>
+    <string name="midnight">AM</string>
     <string name="mine_tab_not_login">"Войдите для просмотра.
 Нажмите здесь, чтобы войти."</string>
     <string name="mine_tab_title_favorite">Избранные</string>
@@ -437,7 +448,9 @@
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">С</string>
     <string name="more">Еще</string>
+    <string name="more_sub_comment">Посмотреть все ответы (%1$d)&gt;</string>
     <string name="more_system_wallpaper">Больше системных обоев</string>
+    <string name="morning">AM</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
@@ -473,12 +486,18 @@
     <string name="my_gifts">Подарки</string>
     <string name="my_gifts_purchased">Приобретено: </string>
     <string name="my_gifts_received">Получено: </string>
+    <string name="network_exception">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="new_resource_price_unit"> Mi</string>
+    <string name="night">PM</string>
     <string name="no_data">Не удалось подключиться к сети</string>
+    <string name="no_net_work_connection">Проверьте настройки сети и повторите попытку.</string>
     <string name="no_network_desc">Не удалось подключиться к сети</string>
     <string name="no_network_please_retry">Проверьте настройки сети и повторите попытку</string>
     <string name="no_wallpaper">Ничего нет</string>
+    <string name="noon">PM</string>
     <string name="not_set">Не задано</string>
     <string name="not_support_incall_show">Эти обои не работают с видео профиля</string>
+    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">Не удалось подключиться к сети</string>
     <string name="online_precust_abstract">Абстракция</string>
     <string name="online_precust_animal">Животные</string>
@@ -498,6 +517,7 @@
     <string name="ota_recovery_theme_notity_title">Восстановление темы</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="playing_ringtone">Воспроизведение</string>
+    <string name="pm">PM</string>
     <string name="pref_privacy_policy">Политика конфиденциальности</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="present_local_fonts">Мои шрифты</string>
@@ -509,6 +529,9 @@
     <string name="provision_loading_tips">Подождите…</string>
     <string name="provision_second_title">Выберите одну из различных тем по умолчанию</string>
     <string name="provision_title">Выбор темы</string>
+    <string name="pull_down_view_error_message">Упс! Интернет-подключение отсутствует. Проверьте подключение и повторите попытку.</string>
+    <string name="pull_down_view_refresh">Обновить</string>
+    <string name="pull_down_view_title">Что нового</string>
     <string name="purchased_list">Купленные</string>
     <string name="purchased_list_current">Оптимизированные</string>
     <string name="purchased_list_legacy">Устаревшие</string>
@@ -523,6 +546,7 @@
     <string name="refresh_footer_release">Отпустите для загрузки</string>
     <string name="region_not_support">Темы не поддерживаются в вашем регионе.</string>
     <string name="reload">Повторить</string>
+    <string name="request_time_out">Время запроса истекло. Повторите попытку.</string>
     <string name="resource_account_abnormal_state">Ошибка аккаунта. Подождите немного и повторите попытку.</string>
     <string name="resource_account_fail_to_add">Не удалось добавить аккаунт</string>
     <string name="resource_account_login">Войти</string>
@@ -548,6 +572,7 @@
     <string name="resource_comment_average_score">Оценки</string>
     <string name="resource_comment_bad_comments">Плохие</string>
     <string name="resource_comment_current_version">Текущая версия</string>
+    <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_detainment_fail">Отменить</string>
     <string name="resource_comment_detainment_msg">Вы еще не отправили отзыв. Отменить изменения?</string>
     <string name="resource_comment_detainment_success">Остаться</string>
@@ -764,6 +789,9 @@
     <string name="search_sort_synthesize">Основные</string>
     <string name="search_sort_top">Популярные</string>
     <string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
+    <string name="server_internal_error">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="service_btn_text_know">Ознакомиться</string>
+    <string name="service_btn_text_try">Попробовать</string>
     <string name="set_color_ring_back_tone">Сигнал вызова</string>
     <string name="set_home_wallpaper_failed">"%s. Не удалось применить обои."</string>
     <string name="setting_font_online">Онлайн шрифты</string>
@@ -776,14 +804,14 @@
     <string name="show_free_aod">Показать бесплатные темы</string>
     <string name="show_free_font">Показать бесплатные шрифты</string>
     <string name="show_free_icons">Показать бесплатные значки</string>
-    <string name="show_free_miwallpaper">Показать бесплатные эффекты рабочего стола</string>	
+    <string name="show_free_miwallpaper">Показать бесплатные эффекты рабочего стола</string>
     <string name="show_free_theme">Показать бесплатные темы</string>
     <string name="show_free_wallpaper">Показать бесплатные обои</string>
     <string name="show_incompatible">Показать несовместимые %1$s</string>
     <string name="show_mamual_hide_aod">Показать скрытые вручную элементы</string>
     <string name="show_mamual_hide_font">Показать скрытые шрифты</string>
     <string name="show_mamual_hide_icons">Показать скрытые вручную значки</string>
-    <string name="show_mamual_hide_miwallpaper">Показать скрытые эффекты рабочего стола</string>	
+    <string name="show_mamual_hide_miwallpaper">Показать скрытые эффекты рабочего стола</string>
     <string name="show_mamual_hide_theme">Показать скрытые темы</string>
     <string name="show_mamual_hide_wallpaper">Показать скрытые обои</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
@@ -829,6 +857,8 @@
     <string name="system_cta_runtime_perm_desc_read_phone_state">Доступ к ID устройства для идентификации</string>
     <string name="system_cta_runtime_perm_desc_storage">Доступ к памяти устройства для сохранения тем и других файлов</string>
     <string name="system_precust">Предустановленные</string>
+    <string name="tag_ad">Ad</string>
+    <string name="ten_thousand_unit">10 тыс.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День посадки деревьев</string>
@@ -939,7 +969,7 @@
     <string name="theme_immediately_apply_tip">Применить обновление темы?</string>
     <string name="theme_import_from_sdcard">Импорт</string>
     <string name="theme_is_external_priority_storage">Сохранять на SD карту</string>
-    <string name="theme_is_external_priority_storage_summary">Приложение \"Темы\" будет перезапущено для применения изменений</string>
+    <string name="theme_is_external_priority_storage_summary">Для применения изменений потребуется перезапуск приложения</string>
     <string name="theme_multiple_button_title_customize">Компоненты тем</string>
     <string name="theme_no">Отмена</string>
     <string name="theme_not_include_module_desc">Тема не содержит следующие элементы: %s</string>
@@ -1016,6 +1046,9 @@
     <string name="trial_get_success_tip">"У вас есть 3-дневная бесплатная пробная версия."</string>
     <string name="trial_now">Пробная версия</string>
     <string name="try_5_min">Попробовать на 5 минут</string>
+    <string name="tuesday">Вторник</string>
+    <string name="tuesday_short">Вт</string>
+    <string name="tuesday_shortest">Вт</string>	
     <string name="uid_change_dialog_message">Вы удалили обновления. Для использования тем перезагрузите устройство.</string>
     <string name="uid_change_dialog_ok">Понятно</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
@@ -1024,6 +1057,7 @@
     <string name="update_btn">ОБНОВИТЬ</string>
     <string name="update_check">Проверить обновления</string>
     <string name="update_checking">Проверка обновлений…</string>
+    <string name="update_community_tip">Обновите Mi Community чтобы использовать эту функцию</string>
     <string name="update_downloading">Загрузка обновлений…</string>
     <string name="update_fail">Не удалось получить данные. Повторите попытку.</string>
     <string name="update_flag">Обновить</string>
@@ -1032,7 +1066,7 @@
     <string name="update_no_net">Произошла ошибка сети. Повторите попытку.</string>
     <string name="update_title">ДОСТУПНО ОБНОВЛЕНИЕ</string>
     <string name="using_theme_has_update_tips">Доступно обновление для этой темы</string>
-    <string name="using_theme_next_automatic_update">Обновлять автоматически</string>
+    <string name="using_theme_next_automatic_update">Автообновление тем</string>
     <string name="using_theme_next_automatic_update_summary">Автоматически обновлять загруженные темы через Wi-Fi</string>
     <string name="using_theme_show_ad">Получать рекомендации</string>
     <string name="using_wallpaper_personal">Персонализированные обои</string>
@@ -1049,6 +1083,8 @@
     <string name="video_data_tips_title">Предупреждение о трафике</string>
     <string name="video_silence_apply_success">Видео без звука установлено</string>
     <string name="video_wallpaper_import">Нажмите чтобы добавить</string>
+    <string name="vip_level_dialog_positive">Я знаю</string>
+    <string name="vip_level_dialog_title">Совет</string>
     <string name="wallpaper_24h">24 часа</string>
     <string name="wallpaper_apply">Установить как обои</string>
     <string name="wallpaper_crop">Обрезать</string>
@@ -1103,6 +1139,7 @@
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Отмена</string>
     <string name="wifi_check_confirm">OK</string>
     <string name="wifi_check_message">Использовать мобильный интернет для загрузки обновлений?</string>
@@ -1110,7 +1147,7 @@
     <string name="xiaoai_speech_not_installed_download">Загрузить</string>
     <string name="xiaoai_speech_not_installed_message">Для продолжения загрузите и установите голосовой помощник Mi AI.</string>
     <string name="xiaoai_speech_not_installed_title">Голосовой помощник Mi AI не установлен</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Ошибка подключения диспетчера загрузки, проверьте состояние диспетчера загрузки в разделе управления приложениями.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
     <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
 Размер: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Доступна версия %1$s

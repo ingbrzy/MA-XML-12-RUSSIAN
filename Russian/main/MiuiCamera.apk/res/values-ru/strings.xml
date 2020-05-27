@@ -28,6 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
   <string name="abc_toolbar_collapse_description">Свернуть</string>
   <string name="access_sd_fail">Нет доступа к SD карте</string>
+  <string name="accessibility_8k_off">AI 8K отключено</string>
+  <string name="accessibility_8k_on">AI 8K включено</string>
   <string name="accessibility_ai_scene_off">AI камера отключена</string>
   <string name="accessibility_ai_scene_on">AI камера включена</string>
   <string name="accessibility_back_preview_status">Предпросмотр основной камеры</string>
@@ -111,6 +113,7 @@
   <string name="ai_scene_top_moon_off">Режим слабого освещения</string>
   <string name="ai_scene_top_tip">Ночной режим</string>
   <string name="ai_watermark_title">Водяной знак AI</string>
+  <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
   <string name="ai_watermark_toast_off">Водяной знак AI отключен</string>
   <string name="ai_watermark_toast_on">Водяной знак AI включен</string>
   <string name="ambilight_description_title">О длительной выдержке</string>
@@ -128,6 +131,8 @@
   <string name="ambilight_scene_silky_water">Шелковистая вода</string>
   <string name="ambilight_scene_star_track">Звездные тропы</string>
   <string name="ambilight_scene_traffic_light">Неоновые тропы</string>
+  <string name="ambilight_tips_for_longtime_using_tripod">Для длительной съемки используйте штатив</string>
+  <string name="ambilight_tips_for_suggest_using_tripod">Для съемки рекомендуется использовать штатив</string>
   <string name="ambilight_tips_for_using_tripod">Используйте штатив</string>
   <string name="app_name">Менеджер эффектов</string>
   <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
@@ -829,6 +834,7 @@
   <string name="pref_camera_hdr_entry_off">Откл</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_heic_image_format_description">Сохранение снимков в высокоэффективном формате HEIF</string>
+  <string name="pref_camera_heic_image_format_description2">Высокоэффективный формат файла изображения экономит место для хранения, но не поддерживается некоторыми сторонними приложениями. Вы не можете делать живые фотографии и удалять водяные знаки в HEIF</string>
   <string name="pref_camera_heic_image_format_title">HEIC формат</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>

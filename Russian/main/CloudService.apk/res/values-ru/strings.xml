@@ -51,6 +51,8 @@
     <string name="cloud_storage_already_full">Облачное хранилище заполнено: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Занято: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Облачное хранилище</string>
+    <string name="cloud_storage_info_type_drive">Mi Drive</string>
+    <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Семья</string>
     <string name="cloud_storage_info_type_others">Другое</string>
     <string name="cloud_storage_info_type_pdc">Настройки системы</string>
@@ -113,6 +115,7 @@
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_soter">Soter</string>
+    <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">Доступно</string>
     <string name="ks_status_unavailable">Недоступно</string>
     <string name="ks_update_certificate">Обновить сертификат</string>
@@ -198,7 +201,9 @@
     <string name="micloud_dspt">"Синхронизация контактов, сообщений, журнала вызовов и других элементов на всех устройствах.
 Поиск и блокировка устройства в случае потери."</string>
     <string name="micloud_dspt_provision">Используйте Xiaomi Cloud для синхронизации данных, поиска устройства и обмена информацией с друзьями.</string>
+    <string name="micloud_dspt_provision_china">Используйте Xiaomi Cloud для синхронизации данных, поиска устройства и обмена информацией с друзьями.</string>
     <string name="micloud_dspt_provision_xms">Используйте Xiaomi Cloud для синхронизации данных.</string>
+    <string name="micloud_dspt_provision_xms_china">Используйте Xiaomi Cloud для синхронизации данных.</string>
     <string name="micloud_find_device_close_alert_content">При отключении функции \"Поиск устройства\" вы не сможете найти устройство в случае его утери. Если ваш телефон поддерживает функцию NFC, все ваши банковские карты и карты-ключи будут удалены из Mi Pay.</string>
     <string name="micloud_find_device_close_alert_negtive">Отключить</string>
     <string name="micloud_find_device_close_alert_positive">Не отключать</string>
@@ -213,7 +218,7 @@
     <string name="micloud_find_device_guide_alert_title">Запомните свой пароль</string>
     <string name="micloud_find_device_guide_button">Включить Поиск устройства</string>
     <string name="micloud_find_device_guide_desc_pad">Войдите на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; чтобы найти, заблокировать или стереть данные на устройстве. Это может помочь вам найти свое устройство в случае его утери.</string>
-    <string name="micloud_find_device_guide_desc_phone">Войдите на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; чтобы найти, заблокировать или стереть данные на устройстве. Это может помочь вам найти свое устройство в случае его утери.</string>	
+    <string name="micloud_find_device_guide_desc_phone">Войдите на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; чтобы найти, заблокировать или стереть данные на устройстве. Это может помочь вам найти свое устройство в случае его утери.</string>
     <string name="micloud_find_device_guide_fail_reopen">Вы можете включить Поиск устройства в Mi аккаунт - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Проверьте подключение и повторите попытку.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Синхронизируйте контакты, фото и многое другое с помощью Xiaomi Cloud</string>
@@ -294,6 +299,7 @@
     <string name="micloud_member_pay_order_error_toast">Ошибка данных</string>
     <string name="micloud_notif_content_battery_low">Батарея разряжена.</string>
     <string name="micloud_notif_content_depend_wifi">Подключитесь к Wi-Fi.</string>
+    <string name="micloud_notif_content_depend_wifi_china">Подключитесь к Wi-Fi.</string>
     <string name="micloud_notif_content_dirty_data">Подробности</string>
     <string name="micloud_notif_content_master_depend_wifi">Подключитесь к Wi-Fi или измените настройки синхронизации. Нажмите, чтобы изменить.</string>
     <string name="micloud_notif_content_memory_low">Недостаточно места.</string>
@@ -337,6 +343,7 @@
     <string name="micloud_setting_sms_summary">SMS и MMS сообщения</string>
     <string name="micloud_setting_sms_summary_for_google_csp">Текстовые сообщения</string>
     <string name="micloud_setting_wifi_summary">Настройки Wi-Fi</string>
+    <string name="micloud_setting_wifi_summary_china">Настройки Wi-Fi</string>
     <string name="micloud_space_applist_detail">Управляйте приложениями на рабочем столе</string>
     <string name="micloud_space_applist_title">Приложения</string>
     <string name="micloud_space_duokan_detail">Загружайте и читайте книги с помощью приложения Duokan.</string>
@@ -370,6 +377,7 @@
     <string name="micloud_sync_result_secure_space_limit">"Нельзя синхронизировать объекты из второго пространства"</string>
     <string name="micloud_sync_result_sim_activated_error">"Не удалось активировать SIM-карту"</string>
     <string name="micloud_sync_result_wifi_only">Этот объект слишком большой. Синхронизируйте его при подключении к Wi-Fi.</string>
+    <string name="micloud_sync_result_wifi_only_china">Этот объект слишком большой. Синхронизируйте его при подключении к Wi-Fi.</string>
     <string name="micloud_upgrade_member">Добавить место</string>
     <string name="micloud_user_space_title">Информация о памяти</string>
     <string name="micloud_warn_full_sum">Память Xiaomi Cloud заполнена на 100%</string>
@@ -421,6 +429,7 @@
     <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизировать фото контактов только по Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only_china">Фото только по Wi-Fi</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="priv_dialog_finddevice_all_purpose_pad">"Добро пожаловать в Поиск устройства! Вы можете использовать этот сервис, чтобы найти устройство, заблокировать его или стереть данные в случае утери."</string>
     <string name="priv_dialog_finddevice_all_purpose_phone">"Добро пожаловать в Поиск устройства! Вы можете использовать этот сервис, чтобы найти устройство, заблокировать его или стереть данные в случае утери."</string>
@@ -528,7 +537,9 @@
     <string name="sina_token_expired_warning">Срок действия учетной записи Weibo истек, добавьте учетную запись еще раз.</string>
     <string name="sina_token_invalid_warning">Учетная запись Weibo недействительна, добавьте учетную запись еще раз.</string>
     <string name="soundrecorder_sync_only_in_wifi">Синхронизация только по Wi-Fi</string>
+    <string name="soundrecorder_sync_only_in_wifi_china">Синхронизация только по Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Диктофон не будет использовать мобильный интернет для загрузки и отправки записей</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary_china">Диктофон не будет использовать мобильный интернет для загрузки и отправки записей</string>
     <string name="soundrecorder_sync_records">Синхронизация записей</string>
     <string name="special_func_title">Специальные функции</string>
     <string name="starred_contact">Избранные</string>
@@ -544,6 +555,7 @@
     <string name="sub_alert_notif_title">Синхронизация с Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Синхронизировать сообщения, содержащие фото, аудио и другие медиаданные, только по Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS только по Wi-Fi</string>
+    <string name="sub_sync_item_sms_title_wifi_only_china">MMS только по Wi-Fi</string>
     <string name="sync_detail_summary_master_sync_off">Синхронизация отключена</string>
     <string name="sync_detail_summary_off">Откл.</string>
     <string name="sync_detail_text">Сведения</string>
@@ -554,6 +566,7 @@
     <string name="sync_dspt_entrance_provision_confirm_open">Использовать</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Не использовать Xiaomi Cloud?</string>
     <string name="sync_dspt_entrance_provision_network">Для нормальной работы приложению требуется подключение к интернету. Синхронизация возможна через мобильную сеть и Wi-Fi.</string>
+    <string name="sync_dspt_entrance_provision_network_china">TДля нормальной работы приложению требуется подключение к интернету. Синхронизация возможна через мобильную сеть и Wi-Fi.</string>
     <string name="sync_dspt_entrance_provision_skip">Пропустить</string>
     <string name="sync_dspt_provision">"Синхронизируйте фото, контакты, заметки и другие данные на всех устройствах и просматривайте их на "</string>
     <string name="sync_dspt_provision3">". Отключить эту функцию можно в настройках.
@@ -608,4 +621,5 @@
     <string name="wipe_secret_photo_dialog_title">Скрытые фото не синхронизированы</string>
     <string name="xiaomi_cloud_service">Облачный сервис</string>
     <string name="xiaomi_cloud_service_subtitle">Всё важное в одном месте</string>
+    <string name="xmpp_server_addr"/>
 </resources>
