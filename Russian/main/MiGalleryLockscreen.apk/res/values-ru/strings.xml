@@ -28,6 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
   <string name="abc_toolbar_collapse_description">Свернуть</string>
   <string name="about_download_fail">"Ошибка загрузки"</string>
+<!-- ### FROM SOURCE -->
+  <string name="about_downloading">Downloading %s</string>
   <string name="about_item_function">Новые возможности</string>
   <string name="about_net_error">Проверьте настройки сети и повторите попытку.</string>
   <string name="about_newest">Карусель обоев устарела.</string>
@@ -89,7 +91,7 @@
   <string name="add_online_picture">Онлайн</string>
   <string name="add_to_cw">Добавить в слайд-шоу</string>
   <string name="add_to_trust_device">Это проверенное устройство</string>
-  <string name="add_wallpaper">Добавить обои</string>  
+  <string name="add_wallpaper">Добавить обои</string>
   <string name="addcw_apply_btn_txt">Добавить обои</string>
   <string name="and"> и </string>
   <string name="app_name">Mi Карусель обоев</string>
@@ -103,7 +105,7 @@
   <string name="apply_to_above_all">Установить везде</string>
   <string name="apply_to_screenlock">Установить на экран блокировки</string>
   <string name="apply_to_wallpaper">Установить на рабочий стол</string>
-  <string name="article_item_hot">Посмотрите новые популярные статьи: %s+ </string>	
+  <string name="article_item_hot">Посмотрите новые популярные статьи: %s+ </string>
   <string name="at_least_one">Выберите хотя бы одну категорию</string>
   <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
   <string name="auto_interval">При разблокировке</string>
@@ -124,7 +126,7 @@
   <string name="carousel_suggest">Внимание</string>
   <string name="carousel_suggest1">Получайте ежедневно новые обои на экран блокировки.</string>
   <string name="carousel_suggest2">Карусель обоев включена?</string>
-  <string name="category_subscribe_failed">Не удалось добавить в подписки</string>	
+  <string name="category_subscribe_failed">Не удалось добавить в подписки</string>
   <string name="change_activate_email">Изменить адрес электронной почты</string>
   <string name="change_password">Изменить пароль</string>
   <string name="change_time">Обновление обоев</string>
@@ -136,7 +138,7 @@
   <string name="clear_history">Очистить историю поиска</string>
   <string name="clear_search_edittext">Очистить</string>
   <string name="clear_text_end_icon_content_description">Очистить текст</string>
-  <string name="close_gallery">Отключить</string>	
+  <string name="close_gallery">Отключить</string>
   <string name="collect_diagnosis_log">Создать журнал диагностики</string>
   <string name="comment_pop_cancel">Не сейчас</string>
   <string name="comment_pop_content">Оставьте отзыв, если вам нравится Карусель обоев</string>
@@ -147,7 +149,7 @@
   <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
   <string name="confirm_new_pwd">Подтвердите новый пароль</string>
   <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с Mi Аккаунтом %2$s. Если вы продолжите, он больше не будет связан с Mi Аккаунтом %3$s. Продолжить?</string>
- <string name="create_shortcut">Создать ярлык на рабочем столе</string>
+  <string name="create_shortcut">Создать ярлык на рабочем столе</string>
   <string name="create_shortcut_btn">Создать</string>
   <string name="create_shortcut_title">Ярлык на рабочем столе</string>
   <string name="current_connection_invalid">Подождите, пока устройство подключится к сети</string>
@@ -216,6 +218,14 @@
   <string name="detail_recomm_fail">Не удалось загрузить истории</string>
   <string name="detail_recomm_load_tip">Загрузка историй…</string>
   <string name="detail_share_moment">Моменты</string>
+<!-- ### FROM SOURCE -->
+  <string name="detail_share_qq">QQ</string>
+<!-- ### FROM SOURCE -->
+  <string name="detail_share_qzone">Qzone</string>
+<!-- ### FROM SOURCE -->
+  <string name="detail_share_wechat">WeChat</string>
+<!-- ### FROM SOURCE -->
+  <string name="detail_share_weibo">Weibo</string>
   <string name="detail_toast_deny_apply">Не удалось применить</string>
   <string name="detail_toast_deny_dislike">Не удалось удалить</string>
   <string name="detail_toast_deny_favor">Не удалось добавить в избранные</string>
@@ -251,6 +261,8 @@ ID:%s
   <string name="favor_success">Добавлено в избранные</string>
   <string name="feed_article_entrance_about">О \"%s\"</string>
   <string name="find_psw">Забыли пароль?</string>
+<!-- ### FROM SOURCE -->
+  <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
   <string name="for_diagnosis_usage_only">Используется только для обнаружения проблем.</string>
   <string name="from_migallerylockscreen">Из Mi Карусель обоев</string>
   <string name="get_account_no_permission">Разрешите приложению доступ к учетным записям на устройстве перед входом в систему.</string>
@@ -261,8 +273,12 @@ ID:%s
   <string name="google_application_id"/>
   <string name="goto_sign_up">Создать аккаунт</string>
   <string name="history_list_no_data">Ничего нет</string>
+<!-- ### FROM SOURCE -->
+  <string name="homepaperchanged">@string/theme_apply_success</string>
   <string name="hour_1">Каждый час</string>
   <string name="hour_3">Каждые 3 часа</string>
+<!-- ### FROM SOURCE -->
+  <string name="icon_content_description">Dialog Icon</string>
   <string name="idbct_desc">Выбор качества обоев</string>
   <string name="idbct_opt_auto_select_desc_text">Загрузка в обычном качестве по мобильному 
  интернету и загрузка в HD качестве по Wi-Fi</string>
@@ -308,14 +324,24 @@ ID:%s
   <string name="llks_subscribe">Подписаться</string>
   <string name="llks_subscribe_sucess">В подписках</string>
   <string name="llks_tools_gallery_name">Карусель обоев</string>
+<!-- ### FROM SOURCE -->
+  <string name="llks_tools_mipay_wallet_name">Mi Wallet</string>
+<!-- ### FROM SOURCE -->
+  <string name="llks_tools_nfc_data">%s CNY</string>
+<!-- ### FROM SOURCE -->
+  <string name="llks_tools_nfc_name">NFC</string>
+<!-- ### FROM SOURCE -->
+  <string name="llks_tools_remote_control_name">Mi Remote</string>
+<!-- ### FROM SOURCE -->
+  <string name="llks_tools_smart_devices_name">Mi Home</string>
   <string name="llks_try_it">Попробовать</string>
   <string name="llks_whole_cate">Все категории</string>
   <string name="load_hdpicture_complete">Исходное изображение загружено</string>
-  <string name="local_default_category">По умолчанию</string>
-  <string name="lock_show_permission_exception">Произошла ошибка. Разрешите приложению отображение на экране блокировки.</string>
   <string name="loading">Подождите…</string>
+  <string name="local_default_category">По умолчанию</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
+  <string name="lock_show_permission_exception">Произошла ошибка. Разрешите приложению отображение на экране блокировки.</string>
   <string name="lockscreen_h5_back_tv">Назад</string>
   <string name="lockscreen_h5_close_tv">Откл.</string>
   <string name="lockscreen_h5_refresh_btn_tv">Обновить</string>
@@ -323,6 +349,8 @@ ID:%s
   <string name="lockscreen_magazine_summary">Выберите категорию</string>
   <string name="lockscreen_magazine_system_title">По умолчанию</string>
   <string name="lockscreen_magazine_title">Карусель обоев</string>
+<!-- ### FROM SOURCE -->
+  <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
   <string name="logout_account">Выйти из аккаунта</string>
   <string name="look_str">Популярные</string>
   <string name="main_fragment_title_discover">Тематические</string>
@@ -334,6 +362,10 @@ ID:%s
   <string name="minutes_5">Каждые 5 минут</string>
   <string name="miui_clock_city_name_local">Местное время</string>
   <string name="miui_clock_city_name_second">Вторые часы</string>
+<!-- ### FROM SOURCE -->
+  <string name="miui_clock_fancy_colon"></string>
+<!-- ### FROM SOURCE -->
+  <string name="miui_digital_clock_dot">:</string>
   <string name="miui_lock_screen_date">EEEE, d MMMM</string>
   <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
@@ -355,7 +387,7 @@ mm"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
   <string name="mode_auto_desc">Включите Карусель обоев для автозагрузки новых изображений</string>
   <string name="mode_auto_desc_open">Автозагрузка новых изображений</string>
   <string name="mode_auto_desc_selected">Автозагрузка новых изображений</string>
@@ -521,7 +553,7 @@ mm"</string>
   <string name="password_toggle_content_description">Показать пароль</string>
   <string name="permission_account_tip">Доступ к информации учетной записи</string>
   <string name="permission_storage_read_tip">Доступ к фотографиям на устройстве</string>
-  <string name="permission_storage_tip">Сохранение файлов на устройстве</string>  
+  <string name="permission_storage_tip">Сохранение файлов на устройстве</string>
   <string name="phone_bind_too_many">Этот телефон был связан с несколькими учетными записями Mi Аккаунт за короткий период времени. Попробуйте использовать другой номер телефона.</string>
   <string name="phone_hint">Номер телефона</string>
   <string name="phone_num_use_for">Функции номера телефона:</string>
@@ -702,7 +734,7 @@ mm"</string>
   <string name="subscribe_success_content_per_quarter">Обновлять каждые 15 минут</string>
   <string name="subscribe_success_content_per_three_hour">Обновлять каждые 3 часа</string>
   <string name="subscribe_success_content_per_unlock">Обновлять при разблокировке</string>
-  <string name="subscribe_update_time_setting">Установить другой интервал</string>	
+  <string name="subscribe_update_time_setting">Установить другой интервал</string>
   <string name="summary">"Для просмотра онлайн контента необходимо принять нашу &lt;a href='%s'&gt;Политику конфиденциальности&lt;/a&gt; В случае отказа будут доступны только локальные обои."</string>
   <string name="summary2">"Используя эту функцию, вы соглашаетесь с нашими &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Пользовательским соглашением&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Политикой конфиденциальности&lt;/font&gt;&lt;/a&gt;. Для нормальной работы функции необходимо подключение к интернету.​"</string>
   <string name="summary_international">"Используя эту функцию, вы соглашаетесь с нашими &lt;a href ='%1$s'&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href='%2$s'&gt;Политикой конфиденциальности&lt;/a&gt;. Для нормальной работы функции необходимо подключение к интернету.​"</string>
@@ -734,7 +766,7 @@ mm"</string>
   <string name="toast_ad_down_tip2">Загрузка %s…</string>
   <string name="toast_connect_failed_tip">Не удалось подключиться. Повторите попытку позже.</string>
   <string name="toast_has_close_gallery">Карусель обоев отключена</string>
-  <string name="toast_has_open_gallery">Карусель обоев включена</string>  
+  <string name="toast_has_open_gallery">Карусель обоев включена</string>
   <string name="toast_load_failed_tip">Не удалось загрузить</string>
   <string name="toast_load_hd_fail">Не удалось загрузить исходное изображение</string>
   <string name="toast_neterror_tip">Ошибка сети</string>
