@@ -261,6 +261,7 @@
     <string name="dialpad_0_letters">+</string>
     <string name="digit_percent">%</string>
     <string name="digital_clock_dot">:</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">DisplayName</string>
     <string name="dndm_auto_time_setting_summary">с %1$s до %2$s</string>
     <string name="domain_address">SipDomain</string>
@@ -302,6 +303,7 @@
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -740,6 +742,11 @@
     <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
     <string name="search_reject_via_sms">@string/reject_via_sms</string>
     <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_statistic_appname">source</string>
+    <string name="search_statistic_keyword">keyin</string>
+    <string name="search_statistic_match_invalid">0</string>
+    <string name="search_statistic_match_valid">1</string>
+    <string name="search_statistic_tag">tag</string>
     <string name="search_stopwatch">@string/stopwatch_title</string>
     <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
     <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
@@ -791,11 +798,13 @@
     <string name="shift_type_noon">中班</string>
     <string name="shift_type_rest">休息</string>
     <string name="shoop_again_float">咻一咻</string>
+    <string name="sign_percent">%</string>
     <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
     <string name="sip_always">SIP_ALWAYS</string>
     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="size_suffix">%1$s %2$s</string>
+    <string name="sk">3qy6ngTb0P+etx</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="slider_game_page_code">00008</string>
     <string name="slight_cold">小寒</string>

@@ -30,6 +30,7 @@
     <string name="action_mode_deselect_all">Снять выбор</string>
     <string name="action_mode_select_all">Выбрать все</string>
     <string name="activity_tip_name">Лотерея</string>
+    <string name="ad_download">Загрузить</string>
     <string name="add_private">Скрыть файлы</string>
     <string name="add_private_files">Добавить файлы</string>
     <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
@@ -56,6 +57,7 @@
     <string name="backup_success_title">Готово</string>
     <string name="backup_title">Сделать резервную копию видео чата?</string>
     <string name="big5_summary">Традиционная китайская кодировка Windows по умолчанию</string>
+    <string name="big5_title">BIG5</string>
     <string name="byteShort">Б</string>
     <string name="can_not_send_with_too_many">Слишком много объектов для отправки</string>
     <string name="cancel">Отмена</string>
@@ -92,6 +94,7 @@
     <string name="clean_marquee_text">Находите больше нежелательных файлов</string>
     <string name="click_to_switch_volume">Переключение между внутренней памятью и SD картой</string>
     <string name="click_to_switch_volume_pad">Переключение между внутренней памятью и SD картой</string>
+    <string name="clock_in">Регистрация…</string>
     <string name="close">Закрыть</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
@@ -153,6 +156,8 @@
     <string name="delete_files">Удалить выбранные файлы?</string>
     <string name="delete_folder">Удалить выбранную папку?</string>
     <string name="delete_folders">Удалить выбранные папки?</string>
+    <string name="des_hide_pwd">Скрыть пароль</string>
+    <string name="des_show_pwd">Показать пароль</string>
     <string name="dialog_msg_score_explorer">Насколько вам нравится Проводник?</string>
     <string name="dialog_msg_score_not_good">Вы могли бы отправить нам отчет?</string>
     <string name="dialog_msg_score_perfect">Отлично! Оценить Проводник в Play Store?</string>
@@ -165,6 +170,13 @@
     <string name="disk_available">Свободно: </string>
     <string name="disk_total">Всего: </string>
     <string name="doc_all">Все</string>
+    <string name="doc_epub">EPUB</string>
+    <string name="doc_pdf">PDF</string>
+    <string name="doc_ppt">PPT</string>
+    <string name="doc_txt">TXT</string>
+    <string name="doc_word">DOC</string>
+    <string name="doc_wps">WPS</string>
+    <string name="doc_xls">XLS</string>
     <string name="downloading">Загрузка</string>
     <string name="enable_documentsui">Для включения %s перейдите в Настройки &gt; Все приложения</string>
     <string name="enable_sd_card">SD карта повреждена или отключена</string>
@@ -200,6 +212,7 @@
     <string name="expand_button_title">Допольнительно</string>
     <string name="extended_storage_file_can_not_open">Не удалось открыть файл. Скопируйте его во внутреннюю память.</string>
     <string name="extract">Извлечь</string>
+    <string name="fab_menu_ball">Ярлык</string>
     <string name="fab_menu_sort">Сортировка</string>
     <string name="fail_to_create_folder_unknown">Не удалось создать папку из-за неизвестной ошибки</string>
     <string name="failed_not_access_sd_card">Сначала разрешите доступ к SD карте</string>
@@ -236,6 +249,7 @@
     <string name="function_set_private">"Для просмотра и шифрования файлов; "</string>
     <string name="function_use_imei">"Для доступа к IMEI и шифрования файлов; "</string>
     <string name="gbk_summary">Упрощенная китайская кодировка Windows по умолчанию</string>
+    <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">" ГБ"</string>
     <string name="grid_mode">Таблица</string>
     <string name="group_title">%2$s из %1$s</string>
@@ -271,6 +285,7 @@
     <string name="kilobyteShort">" КБ"</string>
     <string name="list_mode">Список</string>
     <string name="load_more">Показать еще</string>
+    <string name="load_more_fail">Ошибка загрузки</string>
     <string name="loading">Подождите…</string>
     <string name="local_image">Фото</string>
     <string name="local_music">Аудио</string>
@@ -295,6 +310,7 @@
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">Установить как обои</string>
     <string name="mi_router_label">Роутер</string>
+    <string name="mi_share">MiShare</string>
     <string name="midrop_msg_1">Включите Mi Drop на другом устройстве</string>
     <string name="midrop_msg_2">После включения Mi Drop вы сможете искать устройства поблизости и отправлять файлы</string>
     <string name="midrop_send_files">Выберите файлы для отправки</string>
@@ -305,7 +321,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="month_day_format">d MMMM</string>
     <string name="more">Еще</string>
     <string name="move_failed">Ошибка перемещения</string>
@@ -375,14 +391,16 @@
     <string name="operation_unfavorite">Удалить из избранных</string>
     <string name="optional_change_wifi">Для удаленного управления файлами через Wi-Fi</string>
     <string name="otg_data_transfer_success">Успешная передача</string>
-    <string name="otg_data_transferring">Передача файлов… Не отключайте внешнюю память.</string>	
+    <string name="otg_data_transferring">Передача файлов… Не отключайте внешнюю память.</string>
     <string name="otg_file_security_confirm">скопировать на телефон</string>
     <string name="otg_file_security_details">Пожалуйста, скопируйте на телефон</string>
+    <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" уже существует. Нажмите для замены.</string>
     <string name="pad">Внутренняя память</string>
     <string name="partial_cancel_successful">Не удалось скрыть некоторые файлы. Остальные перемещены в %s.</string>
     <string name="partial_delete_failure">Ошибка удаления некоторых файлов, повторите попытку</string>
     <string name="partial_encrypt_success">Не удалось скрыть некоторые файлы, повторите попытку</string>
+    <string name="path_name_email">Email</string>
     <string name="permission_denial">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.</string>
     <string name="permission_required">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.​</string>
     <string name="petabyteShort">ПБ</string>
@@ -412,8 +430,12 @@
     <string name="private_toast_hint2">Для скрытия файла удерживайте его, а затем добавьте в скрытую папку</string>
     <string name="promot_enctypt_password">Введите пароль разблокировки устройства</string>
     <string name="pull_to_enter_private">Потяните вниз, чтобы открыть приватную папку</string>
+    <string name="pull_to_refresh">Потяните для обновления</string>
+    <string name="refresh_fail">Ошибка обновления</string>
     <string name="refresh_success">Обновление завершено</string>
+    <string name="refreshing">Обновление</string>
     <string name="release_enter_private">Отпустите, чтобы открыть приватную папку</string>
+    <string name="release_refresh">Отпустите для обновления</string>
     <string name="rename_alert">Если вы измените расширение файла, возможно, вам не удастся открыть его.</string>
     <string name="rename_alert2">После изменения расширения файла он будет скрыт.</string>
     <string name="rename_failed">Не удалось переименовать \"%1$s\"</string>
@@ -513,13 +535,16 @@
     <string name="upload_user_photo">Отправить</string>
     <string name="usb_label">USB</string>
     <string name="used">Занято</string>
+    <string name="user_guide_continue_use">OК</string>
     <string name="user_not_login">Сначала выполните вход</string>
     <string name="utf8_summary">Системная кодировка FTP по умолчанию</string>
+    <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_type">Просмотр</string>
     <string name="wechat_video">Видео из %s</string>
     <string name="wifi_state">Сеть Wi-Fi</string>
+    <string name="year_month_day_format">d MMM yyyy</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
 </resources>
