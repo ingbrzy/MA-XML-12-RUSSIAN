@@ -1425,6 +1425,12 @@
   <string name="gb_description_image_button_answer">Ответить</string>
   <string name="gb_description_image_button_reject">Отклонить</string>
   <string name="gb_description_image_button_video_answer">Видеовызов</string>
+  <string name="gb_dialog_game_uninstall_deleting">Удаление</string>
+  <string name="gb_dialog_game_uninstall_loading">Загрузка игр</string>
+  <string name="gb_dialog_game_uninstall_multi_tips_title">Удалите игры: %2$d. Например %1$s</string>
+  <string name="gb_dialog_game_uninstall_tips_message">После удаления приложения, все его данные также будут удалены</string>
+  <string name="gb_dialog_game_uninstall_tips_message_xspace">Клоны приложения и все его данные также будут удалены</string>
+  <string name="gb_dialog_game_uninstall_tips_title">Удаление %s</string>
   <string name="gb_dialog_record_way_ai">AI записи сохраняются в gamebox хранятся 7 дней.</string>
   <string name="gb_dialog_record_way_finish">Готово</string>
   <string name="gb_dialog_record_way_manual">Запись видео длительностью до 30 секунд вручную</string>
@@ -1481,6 +1487,9 @@
   <string name="gb_signed_gift_loading_summary">Подождите…</string>
   <string name="gb_signed_title">Отметились в этом месяце</string>
   <string name="gb_sound_audition">Попробовать</string>
+  <string name="gb_storage_game_uninstall">Удаление игр</string>
+  <string name="gb_storage_summary">Игры будут размещены в отдельной папке, ярлыки игр больше не будут отображаться на рабочем столе</string>
+  <string name="gb_storage_title">Ярлыки игр</string>
   <string name="gb_voice_change_settinged">Синтезатор включен</string>
   <string name="gb_voice_changer_cartoon">Мультик</string>
   <string name="gb_voice_changer_dlg_button_agree">Разрешить</string>
@@ -2044,8 +2053,8 @@
   <string name="open_dnd_mode">Режим \"Не беспокоить\"</string>
   <string name="open_extreme_power_save_mode_title">Включение экстремального энергосбережения</string>
   <string name="open_game">Открыть</string>
-  <string name="open_now">Разрешить приложению использовать мобильный интернет</string>
   <string name="open_lucky">Открыть помощник красных конвертов</string>
+  <string name="open_now">Разрешить приложению использовать мобильный интернет</string>
   <string name="open_right_now">Получить красный конверт</string>
   <string name="open_right_now_short">ОК</string>
   <string name="operator_diagnostic">Диагностика оператора</string>
