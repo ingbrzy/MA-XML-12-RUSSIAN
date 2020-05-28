@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+  <string name="abc_action_bar_up_description">Перейти вверх</string>
+  <string name="abc_action_menu_overflow_description">Ещё</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Показать все</string>
+  <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+  <string name="abc_capital_off">ОТКЛ.</string>
+  <string name="abc_capital_on">ВКЛ.</string>
+  <string name="abc_search_hint">Поиск…</string>
+  <string name="abc_searchview_description_clear">Удалить запрос</string>
+  <string name="abc_searchview_description_query">Поисковый запрос</string>
+  <string name="abc_searchview_description_search">Поиск</string>
+  <string name="abc_searchview_description_submit">Отправить запрос</string>
+  <string name="abc_searchview_description_voice">Голосовой поиск</string>
+  <string name="abc_shareactionprovider_share_with">Поделиться с</string>
+  <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+  <string name="abc_toolbar_collapse_description">Свернуть</string>
   <string name="accept_and_continue">Принять и продолжить</string>
   <string name="access_links">Перейти к ссылкам</string>
   <string name="access_list_of_links">Перейти к списку ссылок</string>
@@ -10,10 +27,11 @@
   <string name="admin_has_ability_to_monitor_profile">"Системный администратор может контролировать настройки, приложения, разрешения и параметры доступа к корпоративным ресурсам, а также данные, связанные с этим профилем, например сведения о действиях в Интернете, местоположении устройства, вызовах и поиске контактов.
   
   Чтобы получить подробную информацию и ознакомиться с политикой конфиденциальности компании, обратитесь к своему системному администратору."</string>
+  <string name="alpha_jump_placeholder_text">A</string>
   <string name="app_label">Настройка рабочего профиля</string>
   <string name="back">Назад</string>
   <string name="brand_screen_header">Это устройство принадлежит организации</string>
-  <string name="brand_screen_subheader">Следующее приложение будет использоваться для мониторинга и управлением устройством</string>  
+  <string name="brand_screen_subheader">Следующее приложение будет использоваться для мониторинга и управлением устройством</string>
   <string name="cancel_delete_profile">Отмена</string>
   <string name="cancel_provisioning">Отмена</string>
   <string name="cancel_setup">Отмена</string>
@@ -55,6 +73,7 @@
   <string name="device_has_reset_protection_contact_admin">На устройстве включена защита от возврата к заводским настройкам. Обратитесь за помощью к своему системному администратору.</string>
   <string name="device_owner_cancel_cancel">Отмена</string>
   <string name="device_owner_cancel_message">Прервать настройку и удалить все данные с устройства?</string>
+  <string name="device_owner_description">Это устройство будет защищено и управляться вашей организацией</string>
   <string name="device_owner_error_ok">ОК</string>
   <string name="device_owner_info">%1$s будет управлять этим устройством и обеспечивать его безопасность. Будут действовать условия использования. %2$s</string>
   <string name="device_owner_info_with_terms_headers">%1$s будет управлять этим устройством и обеспечивать его безопасность. Будут действовать условия использования %2$s. %3$s</string>
@@ -62,7 +81,7 @@
   <string name="dismiss">Закрыть</string>
   <string name="done">Готово</string>
   <string name="downloading_administrator_header">Подготовка к настройке рабочего профиля…</string>
-  <string name="ellipsis">…</string>  
+  <string name="ellipsis">…</string>
   <string name="encrypt">Зашифровать</string>
   <string name="encrypt_device_text_for_device_owner_setup">Чтобы настроить устройство, необходимо зашифровать данные на нем. Это займет некоторое время.</string>
   <string name="encrypt_device_text_for_profile_owner_setup">Чтобы настроить рабочий профиль, необходимо зашифровать данные на устройстве. Это займет некоторое время.</string>
@@ -71,7 +90,7 @@
   <string name="error_hash_mismatch">Неверная контрольная сумма приложения. Обратитесь за помощью к своему системному администратору.</string>
   <string name="error_installation_failed">Ошибка установки</string>
   <string name="error_package_invalid">Необходимые компоненты отсутствуют или повреждены . Обратитесь за помощью к своему системному администратору</string>
-  <string name="error_wifi">Не удалось подключиться к Wi-Fi</string>  
+  <string name="error_wifi">Не удалось подключиться к Wi-Fi</string>
   <string name="expand">Развернуть</string>
   <string name="expand_button_title">Дополнительно</string>
   <string name="for_help_contact_admin">Обратитесь за помощью к своему системному администратору</string>
@@ -126,6 +145,7 @@
   <string name="profile_owner_info_comp">Для рабочих приложений будет создан профиль. Контролировать его, а также все устройство будет ваша организация. Будут действовать условия использования.</string>
   <string name="profile_owner_info_with_terms_headers">Вы собираетесь создать рабочий профиль, который будет контролировать ваша организация. Будут действовать условия использования %1$s.</string>
   <string name="profile_owner_info_with_terms_headers_comp">Для рабочих приложений будет создан профиль. Контролировать его, а также все устройство будет ваша организация. Будут действовать условия использования %1$s.</string>
+  <string name="progress_connect_to_mobile_network">Подключение к мобильной сети…</string>
   <string name="progress_connect_to_wifi">Подключение к Wi-Fi…</string>
   <string name="progress_data_process">Обработка данных…</string>
   <string name="progress_delete_non_required_apps">Удаление необязательных системных приложений…</string>
@@ -140,7 +160,7 @@
   <string name="read_terms">Прочесть условия</string>
   <string name="reset">Сбросить</string>
   <string name="scroll_bar_page_down_button">Прокрутить вниз</string>
-  <string name="scroll_bar_page_up_button">Прокрутить вверх</string>  
+  <string name="scroll_bar_page_up_button">Прокрутить вверх</string>
   <string name="section_content">В разделе \"%1$s\" находится контент \"%2$s\"</string>
   <string name="section_heading">Раздел \"%1$s\".</string>
   <string name="set_up_everything_else">Настроить остальное</string>
@@ -154,7 +174,7 @@
   <string name="setup_profile_encryption">Настройка профиля. Шифрование.</string>
   <string name="setup_profile_progress">Настройка профиля. Индикатор выполнения.</string>
   <string name="setup_provisioning_header">Подготовка к настройке устройства…</string>
-  <string name="setup_provisioning_header_description">Настройка приложения администратора</string>  
+  <string name="setup_provisioning_header_description">Настройка приложения администратора</string>
   <string name="setup_work_device">Настройка рабочего устройства…</string>
   <string name="setup_work_profile">Настройка рабочего профиля</string>
   <string name="speed_bump_lockout_message">Сосредоточьтесь на дороге</string>
@@ -174,9 +194,10 @@
   <string name="user_consent_msg">Разрешить</string>
   <string name="user_setup_incomplete">Не удалось настроить аккаунт пользователя</string>
   <string name="v7_preference_off">ОТКЛ.</string>
-  <string name="v7_preference_on">ВКЛ.</string>  
+  <string name="v7_preference_on">ВКЛ.</string>
   <string name="view_terms">Условия использования</string>
   <string name="work_profile_cant_be_added_contact_admin">Добавить рабочий профиль на это устройство нельзя. Если у вас есть вопросы, обратитесь к вашему системному администратору.</string>
+  <string name="work_profile_description">Ваши рабочие приложения будут храниться в этом профиле и управляться вашей организацией</string>
   <string name="work_profile_info">Информация о рабочем профиле</string>
   <string name="work_profile_provisioning_accept_header">Во-первых, давайте настроим ваш рабочий профиль</string>
   <string name="work_profile_provisioning_accept_header_post_suw">Давайте настроим ваш рабочий профиль</string>
