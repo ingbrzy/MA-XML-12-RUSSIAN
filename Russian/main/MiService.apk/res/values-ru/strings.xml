@@ -29,9 +29,16 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="am">AM</string>
+    <string name="app_name">app_main</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="date_picker_label_day"/>
+    <string name="date_picker_label_month"/>
+    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="early_morning">Утро</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="evening">После полудня</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -51,6 +58,8 @@
     <string name="miservice_channel_guide_name">Руководство</string>
     <string name="miservice_channel_update_notification_info">Приложение \"Сервисы и обратная связь\" запрашивает данные из интернета…</string>
     <string name="miservice_notification_boot_content">Узнайте больше о возможностях MIUI</string>
+    <string name="miservice_notification_boot_sub_title">Познакомьтесь с уникальными возможностями этой машины и играйте с MIUI</string>
+    <string name="miservice_notification_boot_title">Быстрый взгляд на новую машину</string>
     <string name="miservice_notification_huanji_content">Передайте их с помощью Mi Mover</string>
     <string name="miservice_notification_huanji_title">Есть важные данные на вашем старом телефоне?</string>
     <string name="miservice_notification_open_feedback_content">Все функции приложения \"Отзыв\" перенесены в новое приложение</string>
@@ -132,6 +141,7 @@
     <string name="miui_feedback_main_menu_catch_full_log">Создать журналы</string>
     <string name="miui_feedback_main_menu_feedback_list">История отчетов</string>
     <string name="miui_feedback_main_search_footer">Это не те вопросы, которые вы хотите задать?</string>
+    <string name="miui_feedback_main_search_footer_submit">Задать вопрос</string>
     <string name="miui_feedback_main_search_issue">Введите ключевые слова</string>
     <string name="miui_feedback_main_start_submit">Отправить отчет</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Отправить</string>
@@ -158,6 +168,17 @@
     <string name="miui_main_update_success_sub_title">Встречайте новую версию MIUI</string>
     <string name="miui_main_update_success_title">Жизнь становится проще</string>
     <string name="miui_main_update_success_title_12">Только ваш</string>
+    <string name="miui_mine_address_choose_province_gpscity">Найти провинцию или город</string>
+    <string name="miui_mine_address_choose_province_hotcity">Популярные провинции и города</string>
+    <string name="miui_mine_address_info_">Популярные провинции и города</string>
+    <string name="miui_mine_lbs_title_nostore_text">Город не найден %s</string>
+    <string name="miui_mine_loading_text">Загрузка</string>
+    <string name="miui_mine_net_error_retry">Повтор</string>
+    <string name="miui_mine_net_error_sub_title">Проверьте подключение к сети и повторите попытку</string>
+    <string name="miui_mine_net_error_title">Ошибка подключения к сети</string>
+    <string name="miui_mine_select_city">Выберите город</string>
+    <string name="miui_mine_top_bar_title">Мои сервисы</string>
+    <string name="miui_mine_unlogin">Войти</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
@@ -168,7 +189,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -220,7 +241,11 @@
     <string name="permission_device_info">Доступ к информации об устройстве</string>
     <string name="permission_device_introduce">Для определения срока ограниченной гарантии</string>
     <string name="permission_exit">Отмена</string>
+    <string name="permission_external_storage_introduce">Сохранение и загрузка отзывов</string>
     <string name="permission_first_start_network_title">Условия использования</string>
+    <string name="permission_imei_disable_desc">Доступ к сети</string>
+    <string name="permission_imei_enable_desc">Предоставьте приложению доступ к интернету и вышеперечисленные разрешения</string>
+    <string name="permission_location_introduce">Поиск ближайших пунктов обслуживания</string>
     <string name="permission_main_purpose">Демонстрация функций MIUI, отправка отзывов и подача заявок на послепродажное обслуживание.</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_region_version_msg">&lt;Data&gt;Нажав \"Согласен\", вы принимаете &lt;a href=%1$s&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=%2$s&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
@@ -228,10 +253,13 @@
     <string name="permission_storage">Память</string>
     <string name="permission_storage_introduce">Для сохранения файлов на вашем устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
+    <string name="pm">PM</string>
     <string name="public_loading_text">Подождите…</string>
     <string name="public_net_error_retry">Повторить</string>
     <string name="public_net_error_sub_title">Проверьте настройки сети и повторите попытку</string>
     <string name="public_net_error_title">Не удалось подключиться к сети</string>
+    <string name="rationale_ask">Приложение может работать некорректно без запрошенных разрешений.</string>
+    <string name="rationale_ask_again">Приложение может работать некорректно без запрошенных разрешений. Откройте настройки, чтобы изменить разрешения.</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -243,6 +271,9 @@
     <string name="share_not_install_weibo">Установите сначала Weibo</string>
     <string name="share_success">Успешно отправлено</string>
     <string name="share_title">Поделиться</string>
+    <string name="share_wechat_timeline_title">Моменты WeChat</string>
+    <string name="share_wechat_title">WeChat</string>
+    <string name="share_weibo_title">Weibo</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -316,6 +347,7 @@
     <string name="time_picker_dialog_title">Установите время</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
+    <string name="title_settings_dialog">Требуются разрешения</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="tuesday">Вторник</string>

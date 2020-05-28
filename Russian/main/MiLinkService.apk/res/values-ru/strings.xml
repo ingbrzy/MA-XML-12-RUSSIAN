@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="actionbar_button_up_description">Назад</string>
+  <string name="app_name">MiCloudSync</string>
   <string name="casting_tips">Отображение...</string>
   <string name="console_guide_btn_got_it">Понятно</string>
   <string name="console_guide_subtitle_hang_up">"Не прерывайте трансляцию при выключении экрана телефона. Это может привести к повышенному расходу заряда батареи."</string>
@@ -27,6 +28,11 @@
   <string name="dialog_select_tv">Выберите устройство (%d)</string>
   <string name="dialog_show_help">Справка</string>
   <string name="disconnect">Остановить трансляцию</string>
+  <string name="error_data_in_transfer">Синхронизация завершится через %s ч.</string>
+  <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi аккаунтом.</string>
+  <string name="error_not_acceptable">Синхронизация отключена.</string>
+  <string name="error_title">Ошибка синхронизации</string>
+  <string name="error_unauthorized">Синхронизация отключена из-за слишком большого количества попыток входа.</string>
   <string name="hang_up">Трансляция при выключенном экране</string>
   <string name="hang_up_alert_dialog_content">При выключении экрана трансляция будет продолжаться. Для включения экрана нажмите кнопку питания.</string>
   <string name="hang_up_alert_dialog_neg">Отмена</string>
@@ -106,11 +112,13 @@
   <string name="help_page_text_55_global">"Если вы не можете подключиться к сети, убедитесь, что ваш внешний монитор поддерживает функцию Miracast и он включен. В некоторых моделях эта функция называется беспроводным дисплеем, зеркальным отображением экрана или несколькими экранами.
 4. Если у вас возникнут какие-либо проблемы, вы можете сообщить о них в приложении \"Сервисы и обратная связь\"."</string>
   <string name="help_page_text_end">"Если марка устройства не указана здесь, обратитесь к производителю, чтобы узнать о поддержке функции Miracast."</string>
+  <string name="micloud_downloading_clipboard_message_from_web">Буфер обмена: получено сообщение с компьютера</string>
+  <string name="micloud_send_message_desc">Отправка Mi Сообщения</string>
   <string name="nfc_connect_failed_toast">Трансляция не удалась. Повторите попытку.</string>
   <string name="notification_rc_title">Помощник XiaoMi TV</string>
   <string name="notification_show_more">Дополнительные функции</string>
   <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
-  <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string> 
+  <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
   <string name="privacy_text_1">&lt;Data&gt;"Добро пожаловать в приложение Трансляция! Трансляция позволяет проецировать содержимое с телефона на внешний монитор.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Перед использованием этой функции прочтите и примите &amp;lt;a href=%2$s&amp;gt;Юридическое заявление HappyCast&amp;lt;/a&amp;gt; и &amp;lt;a href=%1$s&amp;gt;Политику конфиденциальности HappyCast&amp;lt;/a&amp;gt;.
 Для нормальной работы приложению необходимы подключение к интернету и разрешения на сбор личной информации:"&lt;/Data&gt;</string>
