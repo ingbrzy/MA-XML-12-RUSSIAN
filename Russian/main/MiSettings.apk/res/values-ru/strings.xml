@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="advanced_mode">Расширенные настройки</string>
     <string name="afternoon">После полудня</string>
+    <string name="am">AM</string>
     <string name="anti_flicker_mode">Анти-мерцание</string>
     <string name="anti_flicker_mode_categroy">Режимы</string>
     <string name="anti_flicker_mode_summary">Уменьшение мерцания при низкой освещенности для снижения нагрузки на глаза. Некоторые элементы могут отображаться неправильно.</string>
@@ -61,6 +62,8 @@
     <string name="display_description">Большие значки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
     <string name="early_morning">Утро</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="evening">После полудня</string>
     <string name="exit_easymode">Отключить</string>
     <string name="expand_button_title">Дополнительно</string>
@@ -108,7 +111,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="mms">Сообщения</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
@@ -165,6 +168,7 @@
     <string name="other_parameter">Другие</string>
     <string name="p3_color_region">P3</string>
     <string name="p3_color_region_summary">Отображение в цветовой гамме P3</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="preview">Предварительный просмотр</string>
     <string name="primary_color_region">Оригинальная</string>
@@ -450,8 +454,8 @@
     <string name="usage_state_download">Сохранить в галерею</string>
     <string name="usage_state_duration_title">Текущая сессия</string>
     <string name="usage_state_focus_call">Экстренный вызов</string>
-    <string name="usage_state_focus_level_summary">Текущий уровень: %s</string>
     <string name="usage_state_focus_level1">Восходящая звезда</string>
+    <string name="usage_state_focus_level_summary">Текущий уровень: %s</string>
     <string name="usage_state_focus_mode_experience_warning_message">Режим медитации позволяет использовать только камеру и делать экстренные вызовы. Вы не сможете выйти из режима до истечения установленного времени.</string>
     <string name="usage_state_focus_mode_summary">Ограничение всех функций, кроме экстренных вызовов и камеры</string>
     <string name="usage_state_focus_mode_summary1">Хорошее начало - половина дела</string>
