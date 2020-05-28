@@ -110,7 +110,7 @@
     <string name="arr_time">Время прибытия</string>
     <string name="arrive">Приземление</string>
     <string name="assistant_day_deadline">Последний день</string>
-    <string name="assistant_format_MMdd">dd/MM</string>
+    <string name="assistant_format_MMdd">dd.MM</string>
     <string name="assistant_place">Распознать частые места</string>
     <string name="assistant_summary">Получайте полезные рекомендации именно тогда, когда они вам нужны</string>
     <string name="authorize_button">Разрешить</string>
@@ -617,7 +617,7 @@
     <string name="flight_num">Номер борта</string>
     <string name="flight_num_example">Например CA1102</string>
     <string name="flow_open">Показать карту для мобильных данных</string>
-    <string name="flow_setting_brief">View data usage info (Add your data plan in Security &gt; Data usage).</string>
+    <string name="flow_setting_brief">Посмотреть информацию о трафике (Добавьте тарифный план в приложении Безопасность &gt; Трафик).</string>
     <string name="flybird_auto_switch_channel">Совет системы</string>
     <string name="flybird_baoxian_close_text">Страховка аккаунта 1 млн</string>
     <string name="flybird_baoxian_open_text">Аккаунт застрах.</string>
@@ -798,7 +798,7 @@
     <string name="map_office_didi">На работу</string>
     <string name="map_office_way">Путь в офис</string>
     <string name="map_subway_card">Транспортная карта</string>
-    <string name="map_suggestion_desc">Добавьте ваши частые направления, чтобы получить предложения трафика перед вашими поездками.</string>
+    <string name="map_suggestion_desc">Добавьте ваши частые направления, чтобы получать информацию о пробках перед вашими поездками.</string>
     <string name="map_suggestion_negative">Не сейчас</string>
     <string name="map_suggestion_positive">Добавить</string>
     <string name="map_suggestion_title">Предложения карты</string>
@@ -806,8 +806,8 @@
     <string name="map_title_around">Рядом</string>
     <string name="map_title_home">Дом</string>
     <string name="map_title_office">Работа</string>
-    <string name="map_title_time_hours">%1$sh %2$sm необходимо</string>
-    <string name="map_title_time_minutes">%1$sm необходимо</string>
+    <string name="map_title_time_hours">Время: %1$s ч. %2$s мин.</string>
+    <string name="map_title_time_minutes">Время: %1$s мин.</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">%1$sБ очищено</string>
     <string name="menu_new">Добавить</string>
@@ -820,15 +820,15 @@
     <string name="mi_football">Футбол</string>
     <string name="mi_function">Ярлыки</string>
     <string name="mi_payment">Мои платежи</string>
-    <string name="mi_payment_setting_brief">Собирать информацию о ваших платежах здесь.</string>
-    <string name="mi_payment_setting_brief_detail">Сбор информации о ваших платежах из обмена сообщениями и других приложений.</string>
+    <string name="mi_payment_setting_brief">Сбор информации о платежах</string>
+    <string name="mi_payment_setting_brief_detail">Сбор информации о платежах из Сообщений и других приложений.</string>
     <string name="mi_sport">Счетчик шагов</string>
     <string name="mi_sport_go_install">Загрузить</string>
     <string name="mi_wallet">Mi Кошелек</string>
     <string name="midrop_parent">Mi Drop</string>
     <string name="midrop_send">Отправить</string>
     <string name="mifare_card">Эмулятор карты</string>
-    <string name="migu_game">Мини игры</string>
+    <string name="migu_game">Мини-игры</string>
     <string name="migu_video">Видео</string>
     <string name="mini_add_fp">Сначала перейдите в систему телефона и добавьте отпечатки пальцев, чтобы активировать пароль Touch ID Alipay</string>
     <string name="mini_agree">Принять</string>
@@ -1028,15 +1028,15 @@
     <string name="notification_channel_shopping_description">Уведомления о товарах, добавленных в избранное или в вашу корзину</string>
     <string name="notification_content_fail_not_support">Не удалось получить информацию об оплате, добавьте запись вручную.</string>
     <string name="notification_content_fail_stay_longer">Оставайтесь на странице оплаты не менее 1 секунды</string>
-    <string name="notification_content_success">%2$s CNY платеж в %1$s</string>
+    <string name="notification_content_success">Платеж %2$s CNY в %1$s</string>
     <string name="notification_express_app_open">Включить</string>
-    <string name="notification_express_title">Включите карты из магазинов приложений</string>
+    <string name="notification_express_title">Включите карты из магазина приложений</string>
     <string name="notification_title">Добавлено в избранное</string>
     <string name="notification_title_fail">Не удалось добавить платеж</string>
     <string name="notification_title_success">Платеж успешно добавлен</string>
     <string name="open_bluetooth">Активировать</string>
     <string name="open_bluetooth_now">Активация Bluetooth…</string>
-    <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить раслету\"доступ к аксессуарам</string>
+    <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить браслету доступ</string>
     <string name="opened">Вкл.</string>
     <string name="park_assistant">Парковка</string>
     <string name="passenger_name">Имя пассажира</string>
@@ -1054,8 +1054,8 @@
     <string name="payment_dialog_notice_message_inside">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в хранилище приложений вручную.</string>
     <string name="payment_dialog_notice_ok">Понятно</string>
     <string name="payment_dialog_notice_title">Платежная информация</string>
-    <string name="payment_guide_hint">Сбор информации об оплате из Messaging и других приложений.</string>
-    <string name="payment_guide_hint_link">\"Политика конфиденциальности хранилища приложений\"</string>
+    <string name="payment_guide_hint">Сбор информации об оплате из Сообщений и других приложений.</string>
+    <string name="payment_guide_hint_link">\"Политика конфиденциальности\" хранилища приложений</string>
     <string name="payment_method_bank">Дебетовая карточка</string>
     <string name="payment_method_cash">Наличные</string>
     <string name="payment_method_credit">Кредитная карта</string>
@@ -1087,7 +1087,7 @@
     <string name="payment_record_menu_select">Выбрать</string>
     <string name="payment_report_failed_record_dialog_cancel">Отмена</string>
     <string name="payment_report_failed_record_dialog_message">Сообщайте о необработанных счетах, чтобы помочь нам сделать расчет платежей более точным.
-"&lt;b&gt;Элементы, которыми вы делитесь, будут использоваться только для улучшения хранилища приложений.&lt;/b&gt;</string>
+"&lt;b&gt;Данные, которыми вы делитесь, будут использоваться только для улучшения хранилища приложений.&lt;/b&gt;</string>
     <string name="payment_report_failed_record_dialog_ok">Отчёт</string>
     <string name="payment_setting">настройка</string>
     <string name="payment_total_month_desc">Этот месяц</string>
@@ -1095,7 +1095,7 @@
     <string name="payment_upload_data_fail">Загрузка данных не удалась</string>
     <string name="payment_upload_data_no_data">Нет данных для загрузки</string>
     <string name="payment_upload_data_success">Данные загружены успешно</string>
-    <string name="payment_user_notice_bar_text">О \"Авто платежи\"</string>
+    <string name="payment_user_notice_bar_text">Об \"Авто платежи\"</string>
     <string name="peccancy_acquire">Нарушения правил дорожного движения</string>
     <string name="personalAssistant_mainpage">Домашняя страница</string>
     <string name="phone_check">Оптимизация</string>
@@ -1191,7 +1191,7 @@
     <string name="setting_cards_all_added">Все функции добавлены</string>
     <string name="setting_cards_more">Доступно</string>
     <string name="setting_common_private">Безопасность и конфиденциальность</string>
-    <string name="setting_commute_brief">Отрегулируйте ежедневные поездки в соответствии с текущим трафиком</string>
+    <string name="setting_commute_brief">Спланируйте ежедневные поездки в соответствии с текущим трафиком</string>
     <string name="setting_commute_label">Ежедневные поездки</string>
     <string name="setting_dialog_cancel">Отмена</string>
     <string name="setting_dialog_quit">Выход</string>
@@ -1208,7 +1208,7 @@
     <string name="setting_fav_remove_toast_disable">Доступ к избранному включен</string>
     <string name="setting_fav_remove_toast_enable">Доступ к избранному выключен</string>
     <string name="setting_football_brief">Вся информация о ваших любимых командах</string>
-    <string name="setting_football_brief_detail">Просматриивайте информацию, изучайте результаты и следите за 4 футбольными командами</string>
+    <string name="setting_football_brief_detail">Просматриивайте информацию, изучайте результаты и следите за футбольными командами</string>
     <string name="setting_football_data">Данные предоставлены</string>
     <string name="setting_football_edit">Изменить</string>
     <string name="setting_football_fav">Команды</string>
@@ -1343,8 +1343,8 @@
     <string name="tb_setting_xiaoai">Mi AI</string>
     <string name="temp_support_xiaomi">Временно поддерживаются только браслеты Xiaomi</string>
     <string name="time_just_now">Только что</string>
-    <string name="time_month">dd/MM</string>
-    <string name="time_year">dd/MM/yyyy</string>
+    <string name="time_month">dd.MM</string>
+    <string name="time_year">dd.MM.yyyy</string>
     <string name="timeline_headline">Предстоящие</string>
     <string name="toast_function_add_limit">Можно добавить не более %d ярлыков</string>
     <string name="toast_function_remove_not_allowed">Необходимо добавить хотя бы 1 ярлык</string>
@@ -1413,7 +1413,7 @@
     <string name="wx_timeline">Моменты</string>
     <string name="xiaomi_search_label">Поиск</string>
     <string name="xspace_resolver_activity_title">Выбор приложения</string>
-    <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
-    <string name="year_month_day_format">dd/MM/yyyy</string>
+    <string name="year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
+    <string name="year_month_day_format">dd.MM.yyyy</string>
     <string name="yesterday">Вчера</string>
 </resources>
