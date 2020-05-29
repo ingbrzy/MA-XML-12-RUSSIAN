@@ -58,6 +58,10 @@
     <string name="ad_download_click_install">点击安装</string>
     <string name="ad_download_fail">下载失败</string>
     <string name="ad_download_succeed">下载成功</string>
+    <string name="ad_feedback_ad_too_much">出现过于频繁</string>
+    <string name="ad_feedback_bad_content">质量差</string>
+    <string name="ad_feedback_no_interest">不感兴趣</string>
+    <string name="ad_feedback_toast">感谢您的反馈</string>
     <string name="ad_install_fail">安装失败</string>
     <string name="ad_install_success">安装成功</string>
     <string name="ad_lunch_app">packageName开始调起</string>
@@ -292,6 +296,8 @@
     <string name="anti_aggression_day">反侵略日</string>
     <string name="anti_aggression_day_tradition">反侵略日</string>
     <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
+    <string name="appIndex2_authority">com.android.quicksearchbox.appIndex2</string>
+    <string name="appIndex_authority">com.android.quicksearchbox.appIndex</string>
     <string name="app__shared__build_name">DkReader</string>
     <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
     <string name="app_manager_power_consume">%.1f%%</string>
@@ -344,6 +350,8 @@
     触摸“%2$s ”可在下次连接到 WLAN 网络时开始下载此内容。"</string>
     <string name="appdownloader_wifi_required_title">文件太大，不适于通过运营商网络下载</string>
     <string name="application_mime_type">application/email-ls</string>
+    <string name="applications_authority">com.android.quicksearchbox.applications</string>
+    <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\", \"com.miui.milivetalk\", \"com.android.phone\", \"com.miui.cloudservice\", \"com.miui.yellowpage\", \"com.miui.securitycore\", \"com.duokan.reader\", \"com.xiaomi.vip\", \"com.miui.calculator\", \"com.android.providers.downloads.ui\", \"com.mi.misupport\" )</string>
     <string name="aqi_excellent">优</string>
     <string name="aqi_good">良</string>
     <string name="aqi_light_pollution">轻度</string>
@@ -378,6 +386,12 @@
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="back_ad">铺底广告%s</string>
     <string name="back_to_mi_video">返回小米视频观看</string>
+    <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word={searchTerms}&amp;tn=ins</string>
+    <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
+    <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
     <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="battery_meter_bg_path"> </string>
     <string name="battery_meter_charging_mask_path"> </string>
@@ -425,6 +439,7 @@
     <string name="bookcity_store__shared__reverify_order_confirm">重试</string>
     <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
     <string name="call_manager_summary">%1$s</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="call_type_and_date">%1$s %2$s</string>
@@ -434,6 +449,7 @@
     <string name="celcius_symbol">℃</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chengelog">%1$s</string>
     <string name="childrens_day">儿童节</string>
     <string name="childrens_day_tradition">兒童節</string>
     <string name="chinese_character_cross_check">互查</string>
@@ -589,6 +605,7 @@
     <string name="create_table_vaid"> </string>
     <string name="create_talbe_fwlog"> </string>
     <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
@@ -614,6 +631,7 @@
     <string name="default_pop3">POP3</string>
     <string name="default_port">5060</string>
     <string name="default_preference_summary">@string/default_preference_summary_username></string>
+    <string name="default_search_domain">.google.com</string>
     <string name="default_separator_text">的</string>
     <string name="default_transport">UDP</string>
     <string name="delete_select_book_ask">同时删除本机上的文件</string>
@@ -868,7 +886,11 @@
     <string name="gift_count_format">%1$s+</string>
     <string name="give_lucky_money"> </string>
     <string name="global_default_language">@string/language_value_english</string>
+    <string name="google_authority">com.android.quicksearchbox.google</string>
     <string name="google_parent">Google</string>
+    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
     <string name="gradient_vectorpath">gradient_vector_path</string>
     <string name="grain_buds">小满</string>
     <string name="grain_buds_tradition">小滿</string>
@@ -903,6 +925,7 @@
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="hints_header_left">%d</string>
+    <string name="history_item_sub">%s…</string>
     <string name="hksar_establishment_day">香港特别行政区成立纪念日</string>
     <string name="hksar_establishment_day_tradition">香港特別行政區成立紀念日</string>
     <string name="hoar_frost_falls">霜降</string>
@@ -1068,6 +1091,12 @@
     <string name="map_title_smooth">整体畅通</string>
     <string name="map_title_smooth">整体畅通</string>
     <string name="media_size_l">L</string>
+    <string name="mediasize_default">ISO_A4</string>
+    <string name="mediasize_standard">@string/mediasize_standard_iso</string>
+    <string name="mediasize_standard_china">3</string>
+    <string name="mediasize_standard_iso">0</string>
+    <string name="mediasize_standard_japan">2</string>
+    <string name="mediasize_standard_north_america">1</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_networkassistants_data">%1$s %2$s</string>
@@ -1159,7 +1188,9 @@
     <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
+    <string name="miui_privacy_policy_url" formatted="false">https://www.miui.com/res/doc/privacy.html?region=%s&amp;lang=%s</string>
     <string name="miui_ringer_count_down_time">%s</string>
+    <string name="miui_user_agreement_url">https://www.miui.com/res/doc/eula/%s.html</string>
     <string name="mobile_network_settings_class">com.android.phone.MobileNetworkSettings</string>
     <string name="mobile_network_settings_package">com.android.phone</string>
     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
@@ -1326,6 +1357,7 @@
     <string name="open_fast_open_mode_summary">Быстрое получение красного конверта</string>
     <string name="open_xiangkan_view_all">打开想看APP阅读全文</string>
     <string name="owner_info_settings_status">%1$d / %2$d</string>
+    <string name="page_search_result" formatted="false">%d/%d</string>
     <string name="pairing_ui_package">com.android.settings</string>
     <string name="partys_day">建党节</string>
     <string name="partys_day_tradition">建黨節</string>
@@ -1459,6 +1491,7 @@
     <string name="preferences_default_reminder_default_value">0</string>
     <string name="preferences_default_reminder_later_time_default_value">300000</string>
     <string name="printer_description">%1$s – %2$s</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
     <string name="process_format">%1$s (%2$d)</string>
     <string name="process_kernel_label">ОС Android</string>
@@ -1473,6 +1506,7 @@
     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qq_lucky_warning">QQ红包</string>
+    <string name="qsb_feedback_email">misearch-feedback@xiaomi.com</string>
     <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
     <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
     <string name="qtifeedback_package">com.qti.smq.Feedback</string>
@@ -1541,6 +1575,7 @@
     <string name="screen_shot">截屏</string>
     <string name="search_alarm_clock">@string/alarm_list_title</string>
     <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
+    <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
     <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
     <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
     <string name="search_baidu">Baidu</string>
@@ -1569,6 +1604,7 @@
     <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
     <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
     <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_result_skip_timer_text">(%d)</string>
     <string name="search_s139">139</string>
     <string name="search_sip_settings">@string/sip_settings</string>
     <string name="search_sm">SM</string>
@@ -1586,7 +1622,10 @@
     <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
     <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
     <string name="search_timer">@string/timer_title</string>
+    <string name="search_title_quicksearchbox">@string/app_name</string>
     <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_uri_back_from_webview">qsb://query?words={searchTerms}&amp;web_search=true&amp;ref=web_url_back_</string>
+    <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
     <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="search_worldclock">@string/worldclock_title</string>
     <string name="search_yahoo">Yahoo!</string>
@@ -1614,6 +1653,7 @@
     <string name="setting_world_cup_g">G组</string>
     <string name="setting_world_cup_h">H组</string>
     <string name="settings">@string/server_control_settings</string>
+    <string name="settings_authority">com.android.quicksearchbox.settings</string>
     <string name="settings_package">com.android.settings</string>
     <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
     <string name="share_by_yidianzixun">【一点资讯】</string>
@@ -2094,6 +2134,7 @@
     <string name="sudFontSecondaryMedium">google-sans-medium</string>
     <string name="suffix_sancharnet">sancharnet.in</string>
     <string name="suffix_vsnl">vsnl.com</string>
+    <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
     <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -2148,6 +2189,7 @@
     <string name="template_retry_button">重试</string>
     <string name="template_update_error">模板更新失败</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="text_alarm_after"> </string>
     <string name="text_alarm_before"> </string>
     <string name="text_alarm_close"> </string>
@@ -2179,6 +2221,7 @@
     <string name="time_line_format_12_hours_smaller_than_10">@string/time_format_12_hours_smaller_than_10</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="today_hot_search">今日热搜</string>
+    <string name="translation_authority">com.android.quicksearchbox.translation</string>
     <string name="transport">Протокол</string>
     <string name="travel_over_days">+%d</string>
     <string name="travel_time_range_hours_mins">%1$s %2$s</string>
@@ -2237,6 +2280,7 @@
     <string name="ui_default_package">com.android.dialer</string>
     <string name="united_nations_day">联合国日</string>
     <string name="united_nations_day_tradition">聯合國日</string>
+    <string name="uri_package_details">market://details?id=%1$s</string>
     <string name="user_agreement_url">app://com.miui.cloudservice.user_agreement.license</string>
     <string name="username">Имя пользователя</string>
     <string name="ussd_dialog_sep">----------</string>
@@ -2294,6 +2338,8 @@ feedsContentId:
     <string name="vo_icon_text_topping">置顶</string>
     <string name="vo_icon_text_video">视频</string>
     <string name="vo_zhi_hu">Zhihu</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
+    <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_notifications_key">voicemail_notification_key</string>
     <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
@@ -2329,13 +2375,21 @@ feedsContentId:
     <string name="winter_begins_tradition">立冬</string>
     <string name="winter_solstice">冬至</string>
     <string name="winter_solstice_tradition">冬至</string>
+    <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
     <string name="wps_title">WPS Mail</string>
     <string name="wuxing">五行</string>
     <string name="wx_parent">WeChat</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+    <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
+    <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
     <string name="xiaomi_kilobytes_unit">%1$s КБ</string>
     <string name="xiaomi_megabytes_unit">%1$s МБ</string>
+    <string name="xiaomi_source_url">https://search.browser.miui.com/</string>
+    <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
+    <string name="xiaomi_source_url_file_cdn_prefix">file://ssl-cdn.static.browser.mi-img.com/</string>
+    <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
