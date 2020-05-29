@@ -2376,7 +2376,7 @@
     <string name="enable_freeform_support_summary">Включить поддержку экспериментальных окон произвольной формы</string>
     <string name="enable_gnss_raw_meas_full_tracking">Принудительные полные измерения GNSS</string>
     <string name="enable_gnss_raw_meas_full_tracking_summary">Отслеживать все GNSS группировки и частоты вне дежурного цикла</string>
-    <string name="enable_gpu_debug_layers">Включить отладочный слой GPU</string>
+    <string name="enable_gpu_debug_layers">Отладочный слой GPU</string>
     <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
     <string name="enable_mms_notification_channel_title">MMS-сообщение</string>
     <string name="enable_mms_notification_summary">Нажмите, чтобы разрешить MMS-сообщения на %1$s при отключенном мобильном интернете</string>
@@ -4616,7 +4616,7 @@
     <string name="osu_opening_provider">Открытие %1$s…</string>
     <string name="osu_sign_up_complete">Регистрация завершена. Подключение…</string>
     <string name="osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
-    <string name="ota_disable_automatic_update">Автоматическое обновление системы</string>
+    <string name="ota_disable_automatic_update">Автообновление системы</string>
     <string name="ota_disable_automatic_update_summary">Применить обновления при перезагрузке устройства</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">Откл.</string>
@@ -6045,7 +6045,7 @@ UT-интерфейс: %5$s"</string>
     <string name="show_menu">Вызов меню</string>
     <string name="show_network_speed_title">Скорость сети</string>
     <string name="show_non_rect_clip">Отладка операций усечения</string>
-    <string name="show_notification_channel_warnings">Показывать предупреждения канала передачи уведомлений</string>
+    <string name="show_notification_channel_warnings">Предупреждения канала передачи уведомлений</string>
     <string name="show_notification_channel_warnings_summary">Показывать предупреждение о новых уведомлениях приложения вне допустимого канала</string>
     <string name="show_notification_icon_title">Значки уведомлений</string>
     <string name="show_operator_name_summary">Название сети в строке состояния</string>
@@ -6742,7 +6742,7 @@ UT-интерфейс: %5$s"</string>
     <string name="theme_settings_title">Темы</string>
     <string name="thememanager_not_found">Не удалось открыть Темы. Убедитесь, что приложение установлено.</string>
     <string name="three_gesture_down">Жест вниз тремя пальцами</string>
-    <string name="three_gesture_long_press">Нажмите и удерживайте %d пальцами</string>
+    <string name="three_gesture_long_press">Нажмите %d пальцами и удерживайте</string>
     <string name="time_format_category_title">Формат времени</string>
     <string name="time_picker_title">Время</string>
     <string name="time_spent_in_app_pref_title">Время экрана</string>
@@ -7642,7 +7642,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
     <string name="wifi_context_menu_connect">Подключиться</string>
     <string name="wifi_context_menu_forget">Удалить</string>
-    <string name="wifi_coverage_extend">Включить расширение покрытия Wi-Fi</string>
+    <string name="wifi_coverage_extend">Расширение покрытия Wi-Fi</string>
     <string name="wifi_coverage_extend_summary">Расширение покрытия Wi-Fi с помощью точки доступа</string>
     <string name="wifi_data_template">^1 (Wi-Fi)</string>
     <string name="wifi_data_usage">Трафик Wi-Fi</string>
