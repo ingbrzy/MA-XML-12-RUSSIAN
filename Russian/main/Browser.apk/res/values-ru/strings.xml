@@ -83,9 +83,9 @@
     <string name="ad_download_error">Ошибка</string>
     <string name="ad_download_immediately">Загрузить</string>
     <string name="ad_download_installing">Установка</string>
-    <string name="ad_download_open">Открыть</string>   
+    <string name="ad_download_open">Открыть</string>
     <string name="ad_download_pausing">Приостановлено</string>
-    <string name="ad_download_success">Загружено</string>	
+    <string name="ad_download_success">Загружено</string>
     <string name="ad_exit_dialog_exit_btn_name">Выйти</string>
     <string name="ad_exit_dialog_message">Установка завершена. Открыть приложение?</string>
     <string name="ad_exit_dialog_open_btn_name">Открыть</string>
@@ -97,7 +97,7 @@
     <string name="adblock_notification">%d баннеров заблокировано</string>
     <string name="adblock_rules_not_updated_toast">Не удалось обновить</string>
     <string name="adblock_rules_updated_toast">Успешно обновлено</string>
-    <string name="add_bookmark_group">Добавить папку</string> 
+    <string name="add_bookmark_group">Добавить папку</string>
     <string name="add_favorites_to">Добавить в избранное</string>
     <string name="add_new_bookmark">Новая закладка</string>
     <string name="add_new_quicklink">Добавить на стартовую страницу</string>
@@ -128,7 +128,7 @@
     <string name="app_update_install">Обновление готово к установке</string>
     <string name="application_name">Браузер</string>
     <string name="autologin_bar_hide_text">Скрыть</string>
-    <string name="autologin_bar_login_text">Вход</string>	
+    <string name="autologin_bar_login_text">Вход</string>
     <string name="back_button_label">Назад</string>
     <string name="back_description">Назад</string>
     <string name="block">Блокировать</string>
@@ -142,7 +142,7 @@
     <string name="bookmark_error_page_title">Произошла ошибка</string>
     <string name="bookmark_folder_needs_title">Введите имя папки</string>
     <string name="bookmark_group_lable">Папка</string>
-    <string name="bookmark_move_to">Переместить</string>    
+    <string name="bookmark_move_to">Переместить</string>
     <string name="bookmark_needs_title">Укажите имя закладки</string>
     <string name="bookmark_needs_url">Закладка должна содержать URL</string>
     <string name="bookmark_not_deleted">Ошибка добавления закладки</string>
@@ -167,9 +167,10 @@
     <string name="bubble_guide_bottom_message_text">Непрочитанные сообщения: %d</string>
     <string name="bubble_guide_logined_text">Войдите для участия в розыгрыше</string>
     <string name="bubble_guide_portrait_message_text">Нажмите для просмотра</string>
-    <string name="bubble_guide_unlogined_text">Войдите, чтобы пользоваться привилегиями</string>	
+    <string name="bubble_guide_unlogined_text">Войдите, чтобы пользоваться привилегиями</string>
     <string name="cancel">Отмена</string>
     <string name="cancle_sync_cloud_tabs">Отменить</string>
+    <string name="cannot_download">Загрузить можно только \"http\" или \"https\" ссылки</string>
     <string name="cast_video">Трансляция видео</string>
     <string name="channel_complete">Готово</string>
     <string name="channel_edit">Редактировать</string>
@@ -178,7 +179,7 @@
     <string name="channel_more_description">Нажмите, чтобы добавить канал</string>
     <string name="channel_more_title">Еще</string>
     <string name="channel_network_error">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
-    <string name="channel_no_data">На данный момент это все</string>	
+    <string name="channel_no_data">На данный момент это все</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_security_tip_privacy_policy">Политика конфиденциальности</string>
@@ -186,6 +187,7 @@
     <string name="clear_clipboard">Очистить буфер обмена</string>
     <string name="clear_clipboard_confirm">Вы уверены, что хотите полностью очистить буфер обмена?</string>
     <string name="clear_history">Очистить историю</string>
+    <string name="clear_input_history_confirm">Вы уверены, что хотите полностью очистить свою историю?</string>
     <string name="clear_input_history_confirm_bt_text">Подтвердить</string>
     <string name="clipboard">Буфер обмена</string>
     <string name="close_ads_choice_no">Разрешить</string>
@@ -235,8 +237,7 @@
     <string name="comment_report_pornographic_violence">Содержание откровенного сексуального или насильственного характера</string>
     <string name="comment_report_reactionary_politics">Политический экстремизм</string>
     <string name="comment_report_send">Успешно отправлен</string>
-    <string name="comment_select_report_reason">Причина</string>	
-	
+    <string name="comment_select_report_reason">Причина</string>
     <string name="comment_success">Комментарий добавлен</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -274,7 +275,7 @@
     <string name="dark_mode_setting_dark">Ночной режим (темный)</string>
     <string name="dark_mode_setting_follow">Системные установки</string>
     <string name="dark_mode_setting_light">Дневной режим (светлый)</string>
-    <string name="dark_mode_setting_title">Ночной режим</string>	
+    <string name="dark_mode_setting_title">Ночной режим</string>
     <string name="data_monitor">Напоминать о трафике</string>
     <string name="data_monitor_dialog_message">Повышенный расход мобильных данных. Перейдите на стартовую страницу, чтобы остановить расход.</string>
     <string name="data_traffic_continue">Продолжить</string>
@@ -324,6 +325,7 @@
     <string name="document_download_recommending">Безопасная загрузка(рекомендуется)</string>
     <string name="document_download_title">Загрузка</string>
     <string name="document_open_file">Открыть %s</string>
+    <string name="document_open_message">Чтобы улучшить качество чтения и обеспечить безопасность, используйте настроенную версию WPS</string>
     <string name="document_open_other">Другие приложения</string>
     <string name="document_open_title">Открыть с помощью</string>
     <string name="document_open_txt_message">Чтобы повысить удобство и безопасность чтения, используйте Книжную полку</string>
@@ -364,13 +366,13 @@
     <string name="edit">Редактировать</string>
     <string name="edit_bookmark">Изменить закладку</string>
     <string name="empty_app_name">Другое приложение</string>
-    <string name="empty_bookmark">Ничего нет</string>    
+    <string name="empty_bookmark">Ничего нет</string>
     <string name="empty_cloud_tab_login_hint">Облачные вкладки отсутстуют</string>
     <string name="empty_cloud_tab_logout_hint">"Войдите в Mi Account, 
 чтобы просмотреть открытые вкладки 
-с других устройств"</string>    
+с других устройств"</string>
     <string name="empty_history_hint">Ничего нет</string>
-    <string name="empty_snapshot_hint">Ничего нет</string>  
+    <string name="empty_snapshot_hint">Ничего нет</string>
     <string name="enable_geolocation_confirm_message">Отключение служб определения местоположения повлияет на получаемые рекомендации.</string>
     <string name="enter_developer_mode">Вход в режим разработчика</string>
     <string name="enter_infoflow_guide">Слайд вверх для просмотра новостей</string>
@@ -694,6 +696,7 @@
     <string name="nav_bottom_bar_close_all">Закрыть все</string>
     <string name="nav_bottom_bar_close_description">Закрыть</string>
     <string name="nav_bottom_bar_new_tab">Новая вкладка</string>
+    <string name="nav_close_index_tab">Удалить элемент %d</string>
     <string name="nav_launch_title">Попробуйте использовать следующие приложения</string>
     <string name="nav_lunch_duokan">Открытие Duokan…</string>
     <string name="nav_screen_container_tab_incognito">Инкогнито</string>
@@ -718,7 +721,7 @@
     <string name="network_show_wifi_setting_tip_dialog_description">Найдена точка доступа Wi-Fi поблизости. Подключиться?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
     <string name="next_button_label">Далее</string>
-    <string name="no_app_open_document">Не найдено приложение для обработки этого действия</string>	
+    <string name="no_app_open_document">Не найдено приложение для обработки этого действия</string>
     <string name="no_content">Контент ещё не появился</string>
     <string name="no_memory_space">недостаточно памяти</string>
     <string name="no_space_alert_cancel">Позже</string>
@@ -766,7 +769,7 @@
     <string name="positive_confirm_message">Отключить</string>
     <string name="pref_accept_quicklink_push">Новостная лента</string>
     <string name="pref_accessibility_recommending_search_title">Рекомендовать поиск</string>
-    <string name="pref_accessibility_title">Спец. возможности</string> 
+    <string name="pref_accessibility_title">Спец. возможности</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Общие комбинации букв можно ввести нажатием в адресной строке</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод URL</string>
     <string name="pref_adblock_counts">%d заблокировано</string>
@@ -1059,6 +1062,7 @@
     <string name="suggestion_express_input_hint_inside">Введите номер отслеживания</string>
     <string name="suggestion_express_input_hint_out">Номер отслеживания:</string>
     <string name="suggestion_express_title">Отслеживание отправления</string>
+    <string name="suggestion_hotwords_title_change_button_text">ИЗМЕНИТЬ ЕЩЁ</string>
     <string name="suggestion_input_history_title_text">ИСТОРИЯ ВВОДА</string>
     <string name="suggestion_input_hitory_clear_text">ОЧИСТИТЬ</string>
     <string name="suggestion_lottery_detail_pour">%s ЗАПИСЬ</string>
@@ -1213,7 +1217,7 @@
     <string name="voice_title_distinguish">Обработка…</string>
     <string name="voice_title_listening">Слушаю…</string>
     <string name="voice_title_please">Говорите…</string>
-    <string name="voice_title_speech_again">Не удалось распознать</string>  
+    <string name="voice_title_speech_again">Не удалось распознать</string>
     <string name="webpage_title">Закладки</string>
     <string name="wechat_not_installed">Wechat не установлен</string>
 </resources>
