@@ -11,6 +11,7 @@
     <string name="APN_NAME_CUNET">China Unicom NET</string>
     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
+    <string name="_00_00">00:00</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
@@ -586,7 +587,9 @@
     <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="feedback_cancel">取消</string>
     <string name="feedback_ok">反馈</string>
     <string name="feedback_tip_msg">亲，您是否遇到了支付问题？您可以选择告诉我们。</string>
@@ -765,7 +768,6 @@
     <string name="hoar_frost_falls">霜降</string>
     <string name="hoar_frost_falls_tradition">霜降</string>
     <string name="homepaperchanged">@string/theme_apply_success</string>
-    <string name="homepaperchanged">@string/theme_apply_success</string>
     <string name="hongbao_cancel"> </string>
     <string name="hongbao_message_slogon"> </string>
     <string name="hongbao_name"> </string>
@@ -929,6 +931,12 @@
     <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="migu_parent">Migu</string>
     <string name="miliao_lucky_warning"> </string>
+    <string name="min_10">10</string>
+    <string name="min_20">20</string>
+    <string name="min_30">30</string>
+    <string name="min_40">40</string>
+    <string name="min_50">50</string>
+    <string name="min_60">60</string>
     <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
     <string name="mini_agree">同意</string>
     <string name="mini_already_download">已下载</string>
@@ -1154,6 +1162,11 @@
     <string name="pairing_ui_package">com.android.settings</string>
     <string name="partys_day">建党节</string>
     <string name="partys_day_tradition">建黨節</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
+    <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
+    <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
+    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
     <string name="password">Пароль</string>
     <string name="path_password_eye"> </string>
     <string name="path_password_eye_mask_strike_through"> </string>
@@ -1513,6 +1526,8 @@
     <string name="summer_begins_tradition">立夏</string>
     <string name="summer_solstice">夏至</string>
     <string name="summer_solstice_tradition">夏至</string>
+    <string name="superpower_time">h:mm</string>
+    <string name="superpower_time_24">H:mm</string>
     <string name="suwFontSecondary">google-sans</string>
     <string name="suwFontSecondaryMedium">google-sans-medium</string>
     <string name="symbol_colon">:</string>
@@ -1560,6 +1575,7 @@
     <string name="the_rains">雨水</string>
     <string name="the_rains_tradition">雨水</string>
     <string name="the_spring_festival_tradition">春節</string>
+    <string name="theme_id">com_7idear.framework.theme</string>
     <string name="theme_name">%1$s</string>
     <string name="tian_gan">天干</string>
     <string name="ticket_activity_card_date_day">" "</string>
@@ -1606,6 +1622,7 @@
     <string name="velocity_tracker_impl">platform</string>
     <string name="vernal_equinox">春分</string>
     <string name="vernal_equinox_tradition">春分</string>
+    <string name="vertical_text_divider">|</string>
     <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_notifications_key">voicemail_notification_key</string>
     <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
