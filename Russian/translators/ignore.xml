@@ -942,6 +942,7 @@
     <string name="huangli_good_type">宜</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
     <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
+    <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
     <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_always_show_value">1</string>
@@ -1090,6 +1091,16 @@
     <string name="map_title_congestion_last">公里拥堵</string>
     <string name="map_title_smooth">整体畅通</string>
     <string name="map_title_smooth">整体畅通</string>
+    <string name="mars_coordinate_latitude_0">73.287°E</string>
+    <string name="mars_coordinate_latitude_1">323.483°E</string>
+    <string name="mars_coordinate_latitude_2">340.780°E</string>
+    <string name="mars_coordinate_longitude_0">29.290°N</string>
+    <string name="mars_coordinate_longitude_1">35.667°S</string>
+    <string name="mars_coordinate_longitude_2">22.884°N</string>
+    <string name="mars_id">mars</string>
+    <string name="mars_view_height_0">287.3 km</string>
+    <string name="mars_view_height_1">256.7 km</string>
+    <string name="mars_view_height_2">286.2 km</string>
     <string name="media_size_l">L</string>
     <string name="mediasize_default">ISO_A4</string>
     <string name="mediasize_standard">@string/mediasize_standard_iso</string>
@@ -1107,6 +1118,7 @@
     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="migu_parent">Migu</string>
     <string name="miliao_lucky_warning"> </string>
     <string name="min_10">10</string>
@@ -1341,11 +1353,13 @@
     <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_lucky_money"> </string>
     <string name="not_available"> </string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_group_divider_symbol">%1$s • %2$s</string>
     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_importance_divider">%1$s: %2$s</string>
     <string name="np_mcc">429</string>
     <string name="number_of_lucky_money"> </string>
+    <string name="number_tag_divider">" ｜ "</string>
     <string name="numbers">0123456789</string>
     <string name="olympic_vs">VS</string>
     <string name="online_reminder_header_text">提醒</string>
@@ -1622,6 +1636,7 @@
     <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
     <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
     <string name="search_timer">@string/timer_title</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_title_quicksearchbox">@string/app_name</string>
     <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
     <string name="search_uri_back_from_webview">qsb://query?words={searchTerms}&amp;web_search=true&amp;ref=web_url_back_</string>
@@ -2279,6 +2294,7 @@
     <string name="txv_dnd_type_title"> </string>
     <string name="txv_lucky_money_group_text"> </string>
     <string name="ui_default_package">com.android.dialer</string>
+    <string name="ui_default_package_dialer">com.android.contacts</string>
     <string name="united_nations_day">联合国日</string>
     <string name="united_nations_day_tradition">聯合國日</string>
     <string name="uri_package_details">market://details?id=%1$s</string>
