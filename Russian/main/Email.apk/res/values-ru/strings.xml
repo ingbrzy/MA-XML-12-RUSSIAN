@@ -4,6 +4,7 @@
     <string name="SMTP_password_text">Пароль</string>
     <string name="SMTP_username_text">Имя пользователя</string>
     <string name="account_add_title">Выберите почтовый сервис</string>
+    <string name="account_cache_provider">Поставщик кэша аккаунта</string>
     <string name="account_duplicate_dlg_message_fmt">Это имя пользователя уже используется в аккаунте \"%s\".</string>
     <string name="account_duplicate_dlg_title">Дубликат аккаунта</string>
     <string name="account_failure">Время сессии истекло</string>
@@ -162,7 +163,7 @@
     <string name="account_smime_cert_title">Сертификаты</string>
     <string name="account_smime_encrypt">S/MIME шифрование</string>
     <string name="account_smime_install_cert">Установка сертификата</string>
-    <string name="account_smime_sign">S/MIME подпись</string>	
+    <string name="account_smime_sign">S/MIME подпись</string>
     <string name="account_sync_off">Синхронизация аккаунта выключена.</string>
     <string name="account_sync_settings_settings">Синхронизировать контакты и календарь</string>
     <string name="account_sync_settingstip_description">Синхронизация</string>
@@ -231,6 +232,10 @@
     <string name="auto_advance_summary">Выбрать действие после удаления сообщения</string>
     <string name="auto_login_fail">Не удалось войти</string>
     <string name="auto_login_fail_to_retry">Не удалось войти, попробуйте еще раз.</string>
+    <string name="auto_mail_enable_txt">Начать настройки</string>
+    <string name="auto_mail_title_note">Найдите опцию \"139 Автоматическая настройка почтового ящика\", нажмите, чтобы начать.</string>
+    <string name="auto_mail_window_description">139 Служба автоматической настройки электронной почты</string>
+    <string name="auto_mail_window_label">139 Автоматическая настройка электронной почты</string>
     <string name="auto_remind_bind">Добавить</string>
     <string name="auto_remind_discribe_text">Включите для автоматического получения напоминаний</string>
     <string name="auto_remind_text">Автоматические напоминания</string>
@@ -262,19 +267,22 @@
     <string name="cancel_pop3_attchemt_downloading">Не удается отменить текущие загрузки для вложений в аккаунтах POP3</string>
     <string name="cant_move_or_change_labels">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
     <string name="cc">Копия</string>
+    <string name="cc_attribution">Копия: %1$s&lt;br&gt;</string>
     <string name="cc_bcc">Копия</string>
     <string name="cc_heading">"Копия: "</string>
-    <string name="certificate_add_failed">Сертификат \"%s\" не может быть установлен.</string> 
+    <string name="certificate_add_failed">Сертификат \"%s\" не может быть установлен.</string>
     <string name="certificate_added">Сертификат \"%s\" добавлен.</string>
     <string name="certificate_alias_prompt_certificate_name">Имя сертификата</string>
+    <string name="certificate_alias_prompt_hit">пожалуйста, введите псевдоним сертификата</string>
     <string name="certificate_alias_prompt_title">Имя сертификата</string>
     <string name="certificate_alias_prompt_w">Имя сертификата совпадает. Введите другое имя сертификата.</string>
     <string name="certificate_password_hit">введите пароль</string>
     <string name="certificate_password_prompt_title">Извлечение сертификата</string>
     <string name="certificate_password_tips">Введите пароль для извлечения сертификата</string>
-    <string name="certificate_password_tips_w">Введите корректный пароль</string>	
+    <string name="certificate_password_tips_w">Введите корректный пароль</string>
     <string name="change_folders_selection_dialog_title">Изменить папки</string>
     <string name="change_sync_settings">Настройки синхронизации</string>
+    <string name="changepw_dialog_auth_tips">Повторно введите код авторизации для %s</string>
     <string name="changepw_dialog_tips">Введите пароль %s повторно</string>
     <string name="changepw_dialog_tips_please_clikc_btn">Просмотрите код авторизации на %s и войдите повторно.</string>
     <string name="chat_item_msg_people_unit">Участники</string>
@@ -294,6 +302,7 @@
     <string name="compose_picturesexceedlimits">Не более 5 изображений в тексте сообщения</string>
     <string name="compose_send">Отправить</string>
     <string name="compose_sent">Письмо отправлено</string>
+    <string name="config">139 Номер телефона почтового ящика настроен</string>
     <string name="config_cancel">Отмена</string>
     <string name="config_retry">Повтор</string>
     <string name="confirm">ОК</string>
@@ -350,7 +359,8 @@
     <string name="conversation_cert_distrust">Отозвать доверие</string>
     <string name="conversation_cert_info_tips">Отправитель подписал это сообщение доверенным сертификатом</string>
     <string name="conversation_cert_info_title">Подписано</string>
-    <string name="conversation_cert_trust">Доверять подписи</string>	
+    <string name="conversation_cert_trust">Доверять подписи</string>
+    <string name="conversation_content_provider">Поставщик материалов для разговоров</string>
     <string name="conversation_detail_hide">Скрыть</string>
     <string name="conversation_detail_show">Подробности</string>
     <string name="conversation_folder_moved">Перемещено в %1$s</string>
@@ -372,12 +382,15 @@
     <string name="credit_limit_text">Кредитный лимит</string>
     <string name="cur_debt">Баланс счета</string>
     <string name="custom_from_account_label">Отправить сообщение как:</string>
+    <string name="database_exception">Данные устарели, войдите еще раз</string>
     <string name="date_heading">"Дата: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Сегодня, %1$s</string>
+    <string name="db_error">В данных электронной почты есть исключение. Пожалуйста, войдите снова. Данные электронной почты могут быть восстановлены после входа в систему.</string>
     <string name="debug_mode_preferencecategory">Настройка вывода журнала</string>
     <string name="debug_mode_settings">Настройки режима отладки</string>
     <string name="default_">ПО УМОЛЧАНИЮ</string>
+    <string name="default_exchange">ОБМЕН</string>
     <string name="default_opening_attchemnt_mode">Открывать вложения с помощью приложений по умолчанию</string>
     <string name="default_setup">ПАРАМЕТРЫ ПО УМОЛЧАНИЮ</string>
     <string name="default_signature">Отправлено с Mi Phone</string>
@@ -515,6 +528,23 @@
     <string name="folder_trash_name_en1">Удаленные</string>
     <string name="folder_trash_name_en2">Удаленные</string>
     <string name="folder_trash_name_en3">[Gmail]/Корзина</string>
+    <string name="font_bold_add">Жирный шрифт</string>
+    <string name="font_bold_remove">Отмена полужирного шрифта</string>
+    <string name="font_color">Текущий цвет шрифта: %s</string>
+    <string name="font_color_black">Чёрный</string>
+    <string name="font_color_blue">Голубой</string>
+    <string name="font_color_cyan_blue">Светло-голубой</string>
+    <string name="font_color_gray">Серый</string>
+    <string name="font_color_green">Зеленый</string>
+    <string name="font_color_orange">Оранжевый</string>
+    <string name="font_color_purple">Фиолетовый</string>
+    <string name="font_color_red">Красный</string>
+    <string name="font_color_white">Белый</string>
+    <string name="font_italic_add">Курсивный шрифт</string>
+    <string name="font_italic_remove">Отмена FontSlant</string>
+    <string name="font_size">Текущий размер шрифта: %s</string>
+    <string name="font_underline">Подчеркивание</string>
+    <string name="font_underline_remove">Удалить подчеркивание</string>
     <string name="forever">Всегда</string>
     <string name="forward">Переслать</string>
     <string name="forward_attachment">Переслать</string>
@@ -522,6 +552,7 @@
     <string name="forward_attribution_no_headers">---------- Перенаправленное сообщение ----------</string>
     <string name="forward_download_failed_ticker">Не удалось переслать вложения.</string>
     <string name="forward_download_failed_title">Не удалось переслать вложение</string>
+    <string name="forward_subject_label">Кому:</string>
     <string name="free_period_text">Беспроцентный период</string>
     <string name="from_heading">"От: "</string>
     <string name="general_preference_confirm_delete_label">Подтверждение перед удалением</string>
@@ -544,15 +575,18 @@
     <string name="gmail_server_authorization_deleted">Не удалось проверить подлинность аккаунта. Добавьте аккаунт повторно.</string>
     <string name="gmail_web_login_go">ОК</string>
     <string name="gmail_web_login_required_message">Войти в Gmail</string>
-    <string name="go_to_mail_content">Просмотреть почту</string>	
+    <string name="go_to_mail_content">Просмотреть почту</string>
     <string name="have_auth_code">Авторизация по коду</string>
     <string name="header_category_account">Аккаунты</string>
     <string name="header_category_other">Отзывы</string>
     <string name="header_label_general_preferences">Основные настройки</string>
     <string name="help_and_info">Помощь</string>
+    <string name="help_email_title">MI Почта</string>
     <string name="help_me_get_qq_auth">Получить код авторизации</string>
+    <string name="help_weixin_title">Если у вас есть какие-либо вопросы, напишите нам на наш официальный аккаунт WeChat:</string>
     <string name="hide_elided">▼ Скрыть цитирование</string>
     <string name="hide_password">Скрыть пароль</string>
+    <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="hint_quick_reply_all">Ответить всем</string>
     <string name="imap_name">Почта (IMAP)</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
@@ -582,7 +616,7 @@
     <string name="login_err_message">Используйте авторизованный код доступа для входа в %1$s, если этот параметр был выбран ранее. Перейдите на https://email.163.com/ для сброса пароля или кода доступа.</string>
     <string name="login_err_sina_message">Используйте авторизованный код доступа для входа в %1$s, если этот параметр был выбран ранее. Перейдите на https://mail.sina.com.cn/ для сброса пароля или кода доступа.</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
-    <string name="login_failed_tip">"Свяжитесь нами в WeChat для получения помощи: "</string>	
+    <string name="login_failed_tip">"Свяжитесь нами в WeChat для получения помощи: "</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
     <string name="login_mail">Вход</string>
     <string name="login_qq_psw">Вход с помощью кода авторизации</string>
@@ -613,6 +647,14 @@
     <string name="mailbox_name_display_starred">Отмеченные</string>
     <string name="mailbox_name_display_trash">Корзина</string>
     <string name="mailbox_name_display_unread">Непрочитанные</string>
+    <string name="mailbox_name_server_all_unread">Непрочитанные</string>
+    <string name="mailbox_name_server_drafts">Черновики</string>
+    <string name="mailbox_name_server_inbox">Входящие</string>
+    <string name="mailbox_name_server_junk">Нежелательные</string>
+    <string name="mailbox_name_server_outbox">Исходящие</string>
+    <string name="mailbox_name_server_sent">Отправленные</string>
+    <string name="mailbox_name_server_starred">Помеченные</string>
+    <string name="mailbox_name_server_trash">Мусор</string>
     <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Источник синхронизации</string>
@@ -649,7 +691,7 @@
     <string name="meeting_canceled">"
         Отменено:
         %s
-    "</string>    
+    "</string>
     <string name="meeting_declined">"
         Отклонено:
         %s
@@ -724,6 +766,7 @@
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Без звука</string>
     <string name="navigation_menu">Меню навигации</string>
+    <string name="need_get_qq_mail">Необходимо QQ Mail</string>
     <string name="network_error">Нет соединения</string>
     <string name="network_invaild">Не удается подключиться к сети</string>
     <string name="network_not_available">Не удается подключиться к сети</string>
@@ -751,6 +794,8 @@
     <string name="no_search_results">Искать на сервере</string>
     <string name="not_subject">(Без темы)</string>
     <string name="not_synced_title">Аккаунт не синхронизирован</string>
+    <string name="note_text">Через сеть China Mobile и SMS-проверки, он будет генерировать только дополнительный трафик, не генерируя SMS-сборы.</string>
+    <string name="note_title">139 Автоматическая настройка электронной почты</string>
     <string name="notification_action_archive">Архивировать</string>
     <string name="notification_action_delete">Удалить</string>
     <string name="notification_action_remove_label">Удалить метку</string>
@@ -780,6 +825,7 @@
     <string name="open_external_storage_and_calendar_permission">Разрешить приложению Почта доступ к хранилищу и информации календаря в Настройках</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Разрешить приложению Почта доступ к хранилищу, контактам и информации календаря в Настройках</string>
     <string name="open_external_storage_and_contacts_permission">Разрешить приложению Почта доступ к хранилищу и контактам в Настройках</string>
+    <string name="open_notification_kingagent">Включить уведомления о месте захоронения</string>
     <string name="optimization_suggestion">Предложения по оптимизации</string>
     <string name="others_mail">Другое</string>
     <string name="others_mail_des">Личные или корпоративные почтовые сервисы</string>
@@ -811,7 +857,12 @@
     <string name="output_to_disk">Сохранить журналы в файл</string>
     <string name="over_16_content">Подтвердите, что вам уже исполнилось 16</string>
     <string name="over_due">Просрочено</string>
-    <string name="over_sixteen">Мне 16 или больше</string>	
+    <string name="over_sixteen">Мне 16 или больше</string>
+    <string name="overlays_fail_tip">Очень жаль, что ваш почтовый ящик не настроен успешно, откройте всплывающие разрешения Windows и попробуйте снова.</string>
+    <string name="overlays_ok">Открыть разрешения</string>
+    <string name="overlays_tip">Настройки телефона - Приложение - Детали приложения - откройте всплывающие разрешения Windows в диспетчере разрешений и сразу же получите 139 почтовых ящиков для автоматической настройки экстремальных ситуаций.</string>
+    <string name="overlays_tip_23">Откройте всплывающие разрешения Windows и сразу получите 139 почтовых ящиков, чтобы автоматически настроить экстремальный опыт.</string>
+    <string name="overlays_title">Откройте всплывающие разрешения Windows</string>
     <string name="parase_setup_data">Получение данных…</string>
     <string name="parse_bill_discribe">Обработка счетов кредитных карт…</string>
     <string name="parse_recognize_describe">Анализ почты…</string>
@@ -885,6 +936,7 @@
     <string name="policy_screen_timeout">Требовать блокировку экрана</string>
     <string name="policy_text_truncation">Ограничить размер сообщения</string>
     <string name="pop3_name">Почта (POP3)</string>
+    <string name="prefDefault_autoAdvance">список</string>
     <string name="preference_eas_tips">Нажмите \"Активировать\" для настройки почтового сервера.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">При использовании POP3 вложения будут загружаться автоматически. Это может повысить расход трафика.</string>
@@ -899,6 +951,7 @@
     <string name="print_scheduler_title">Распечатать все планировщики</string>
     <string name="privacy_des">"Журналы содержат отладочную информацию почтового клиента и информацию об устройстве. Эта информация используется для более быстрой локализации проблем. Нажав \"%1$s\" ниже, вы соглашаетесь с \"%2$s\"."</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_setting_agree">Согласен</string>
     <string name="prompt_title">Запрос</string>
     <string name="protocol_setting_toast">Нажмите на правый верхний угол для перехода к настройкам</string>
     <string name="pull_load_more">Потяните вниз, чтобы загрузить еще</string>
@@ -913,6 +966,9 @@
     <string name="push_wps_confirm_message">Не удалось найти приложение для этого вложения. Попробуйте WPS Office.</string>
     <string name="push_wps_confirm_title">Попробовать WPS Office</string>
     <string name="push_wps_no_response_app">Нет приложения для выполнения этого действия</string>
+    <string name="qq_authorization_help_get">Получить код</string>
+    <string name="qq_authorization_know">О коде</string>
+    <string name="qq_authorization_tips">Не показывать снова</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Код скопирован. Вернитесь на страницу входа и вставьте код в форму пароля.</string>
     <string name="qq_auto_login_failed_dialog_message">Скопируйте код авторизации, нажмите \"Ввести имя пользователя и пароль\" на странице входа и вставьте код в форму пароля.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Скопировать код</string>
@@ -926,7 +982,6 @@
     <string name="qq_login_help_details2">2. Независимый пароль можно использовать, если для протоколов  IMAP/Exchange не был установлен код авторизации.</string>
     <string name="qq_login_help_details3">"3. Коды авторизации сторонних почтовых клиентов, также можно использовать для входа в систему. Если вы забыли свой код, перейдите по этой ссылке: "</string>
     <string name="qq_login_help_title">QQ/Независимый пароль/Код авторизации:</string>
-  
     <string name="qq_login_notice">"Примечание: если вы уже установили пароль, необходимо подтвердить его при входе в систему."</string>
     <string name="qq_login_open_imap">Нажмите \"Помощь\", чтобы включить IMAP/SMTP</string>
     <string name="qq_login_origin_setting">Введите имя пользователя и пароль для входа в ></string>
@@ -935,6 +990,7 @@
     <string name="qq_next_generation_auth_toast">Включите защиту паролем в вашем браузере</string>
     <string name="qq_pwd_or_qq_auth_code">Введите код авторизации</string>
     <string name="qq_uthentication_failed">Не удалось проверить аккаунт, авторизуйтесь заново</string>
+    <string name="qq_verify_code">(Требуется код подтверждения от QQ)</string>
     <string name="qq_webview_loading">Подождите…</string>
     <string name="questionnair_body_invisibility">Сообщения не отображаются</string>
     <string name="questionnair_confirm_delete">Удалить аккаунт?</string>
@@ -1006,6 +1062,10 @@
     <string name="reply_all">Ответить всем</string>
     <string name="reply_attribution">%2$s | ответ на %1$s:</string>
     <string name="report_phishing">Сообщить о фишинге</string>
+    <string name="report_rendering_improvement">Выглядит хорошо</string>
+    <string name="report_rendering_improvement_desc">Это сообщение выглядит хорошо.</string>
+    <string name="report_rendering_problem">Выглядит плохо</string>
+    <string name="report_rendering_problem_desc">Это сообщение выглядит плохо.</string>
     <string name="report_spam">Сообщить о спаме</string>
     <string name="request_copy_db_to_disk">Приложение Почта запрашивает разрешение на копирование базы данных в файл</string>
     <string name="request_entity_large">Файл слишком большой</string>
@@ -1029,6 +1089,7 @@
     <string name="search_tabs_name_recipient">Получатель</string>
     <string name="search_tabs_name_sender">Отправитель</string>
     <string name="search_tabs_name_subject">Тема</string>
+    <string name="search_title">Единая электронная почта</string>
     <string name="search_txt_size_limit_prompt">Поисковой запрос должен содержать более 3 символов</string>
     <string name="security_changed_ticker_fmt">Аккаунт \"%s\" изменил настройки безопасности;никаких действий от пользователя не требуется.</string>
     <string name="security_needed_ticker_fmt">Аккаунт \"%s\" требует обновление настроек безопасности.</string>
@@ -1042,7 +1103,7 @@
     <string name="select_path">Выберите путь</string>
     <string name="send">Отправить</string>
     <string name="send_encrypt_dialog_fail_content">Это электронное письмо не может быть зашифровано, потому что у получателя нет доверенного сертификата подписи. Отправить в незашифрованном виде?</string>
-    <string name="send_encrypt_dialog_fail_title">Ошибка отправки</string>	
+    <string name="send_encrypt_dialog_fail_title">Ошибка отправки</string>
     <string name="send_failed">Сообщение не отправлено</string>
     <string name="send_feed_back">Отправить отчет</string>
     <string name="send_feed_back_keywords">отправить отчет</string>
@@ -1064,12 +1125,13 @@
     <string name="ser_resp_err_map_or">%1$s или %2$s</string>
     <string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль</string>
     <string name="ser_resp_err_map_serclosed">%s сервер закрыт.</string>
+    <string name="ser_resp_err_map_serclosed_info">%s сервер закрыт.</string>
     <string name="ser_resp_err_map_ssl">Попробуйте выбрать пункт \"SSL/TLS (принимать все сертификаты)\" в параметрах безопасности</string>
     <string name="service_protocol_discribe"><u>Я прочитал и принимаю Соглашение об обслуживании WPS Mail</u></string>
     <string name="service_protocol_title">Соглашение об обслуживании</string>
     <string name="set_network">Настройка сети</string>
     <string name="setting_kids_subtitle">Возраст подтвержден</string>
-    <string name="setting_kids_title">Старше 16 лет</string>	
+    <string name="setting_kids_title">Старше 16 лет</string>
     <string name="settings_activity_title">Настройки</string>
     <string name="share_choose">Выберите файл для отправки</string>
     <string name="sharing">Отправить</string>
@@ -1083,15 +1145,16 @@
 
 
 %s"</string>
+    <string name="signature_black_shark">Отправлено с моего телефона Blackshark</string>
     <string name="silent_ringtone">Без звука</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="sms_tip">Сбой аутентификации, проверьте, перехватывает ли антивирусное ПО СМС</string>
     <string name="smtp_password_error">Неверный пароль сервера исходящих сообщений</string>
     <string name="sort_attachment">Сортировка</string>
     <string name="storage">Память</string>
     <string name="str_select_all">Выбрать все</string>
     <string name="str_select_none">Снять выбор</string>
-    <string name="subject_and_snippet">%1$s - %2$s</string>
     <string name="subject_hint">Тема</string>
     <string name="sync_calendra_fail_per_content">Нажмите, чтобы разрешить</string>
     <string name="sync_calendra_fail_per_title">"Ошибка синхронизации"</string>
@@ -1120,6 +1183,7 @@
     <string name="tap_to_configure">Нажмите для настройки</string>
     <string name="tap_to_enable_sync">Нажмите для включения</string>
     <string name="three_day">3 дня</string>
+    <string name="title_activity_about">Об</string>
     <string name="to">Кому</string>
     <string name="to_heading">"Кому: "</string>
     <string name="toast_bar_fail_synchronization">Не удается подключиться к серверу. Повторите попытку позже.</string>
@@ -1128,7 +1192,6 @@
     <string name="toast_bar_no_connection_network">Отсутствует подключение к интернету</string>
     <string name="toast_bar_open_gmail_synchronization">Не удалось подключиться к Gmail. Проверьте настройки сети и повторите попытку.</string>
     <string name="toast_bar_send_fail_remind">Не удалось отправить письмо. Сохранено в папке «Исходящие».</string>
-	
     <string name="toast_bar_sync_failed_client_cert">Не удалось синхронизировать из-за отсутствия сертификата. Нажмите, чтобы снова добавить сертификат.</string>
     <string name="toast_bar_sync_failed_mi_authority">Войдите в аккаунт для авторизации устройства</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Чтобы синхронизировать данные календаря и контакты, предоставьте приложению Почта необходимые разрешения в Настройках</string>
@@ -1141,6 +1204,9 @@
     <string name="too_large_to_attach_additional">Размер файла не может превышать %1$s.</string>
     <string name="too_large_to_attach_multiple">Некоторые файлы не прикреплены. Размер вложений не может превышать: %1$s.</string>
     <string name="too_large_to_attach_single">Невозможно прикрепить файлы больше %1$s.</string>
+    <string name="toolbar_add_image">добавить картинки</string>
+    <string name="toolbar_part_num">номер абзаца</string>
+    <string name="toolbar_part_symbol">символ абзаца</string>
     <string name="topic_merge">Группировать сообщения</string>
     <string name="topic_merge_summary">Группировать сообщения по теме</string>
     <string name="translation_loading">Подождите…</string>
@@ -1179,15 +1245,18 @@
     <string name="upload_logs_keywords">загрузить журналы</string>
     <string name="uploading_logs">Подождите…</string>
     <string name="user_new_auth_code">Войдите с новым кодом авторизации</string>
+    <string name="user_privacy_settings">Настройки конфиденциальности</string>
+    <string name="user_privacy_settings_agreement_authorization">(Нажав \"Согласен\", вы даете приложению Почта все необходимые разрешения)</string>
     <string name="user_privacy_settings_path">Совет: Вы можете отозвать свое согласие в Настройки > Настройки конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_summary">Мы будем использовать ваш Android ID (зашифрованный как ваш уникальный идентификатор пользователя с помощью MI Mail) и журнал операций. Вы можете в любое время отозвать свое согласие в настройках конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_title">Напоминание о конфиденциальности MI Mail</string>
-    <string name="user_privacy_settings_agreement_authorization">(Нажав \"Согласен\", вы даете приложению Почта все необходимые разрешения)</string>
     <string name="validation_failed_prompt">Невозможно подтвердить аккаунт, проверьте настройки сервера %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
+    <string name="verify_code">Код подтверждения</string>
+    <string name="version_string">Версия: %s</string>
     <string name="via_domain">через %1$s</string>
     <string name="view_more_conversations">Показать другие диалоги</string>
     <string name="wait_for_manual_sync_body">"Этот аккаунт не настроен для автоматической синхронизации.
@@ -1210,7 +1279,7 @@
     <string name="wrong_password">Неверный пароль</string>
     <string name="xiaomi_auth_toastbar">Войдите в аккаунт для авторизации устройства</string>
     <string name="xiaomi_email">Почта</string>
-    <string name="xiaomi_under_certification">Авторизация…</string>	
+    <string name="xiaomi_under_certification">Авторизация…</string>
     <string name="yes">Да</string>
     <string name="you_are_in_mobile_network">Использовать мобильный интернет для отправки отчетов?</string>
     <string name="youfuli">Акция</string>
