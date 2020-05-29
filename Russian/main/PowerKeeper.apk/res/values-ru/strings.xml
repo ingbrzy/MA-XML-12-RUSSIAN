@@ -69,10 +69,14 @@
   <string name="enable_sleep_mode">Включите режим сна для энергосбережения ночью</string>
   <string name="error_filename_too_long">Имя файла слишком длинное.</string>
   <string name="expand_button_title">Дополнительно</string>
+  <string name="extreme_add_white_list_summary">Можно добавить до 4 приложений</string>
+  <string name="extreme_add_white_list_title">Исключения</string>
   <string name="extreme_mode_max_item_alert">Можно выбрать до 4 приложений для работы в фоновом режиме</string>
-  <string name="extreme_power_config_mode_category">Максимальное энегосбережение</string>
-  <string name="extreme_power_config_mode_desc">Максимальное энегосбережение отключает синхронизацию, Bluetooth, GPS, NFC, двойные нажатия, подсветку кнопок и световую индикацию. Экран при получении уведомлений не включается.</string>
-  <string name="extreme_power_config_mode_title">Максимальное энегосбережение</string>
+  <string name="extreme_power_config_mode_category">Экстремальное энергосбережение</string>
+  <string name="extreme_power_config_mode_desc">Экстремальное энергосбережение отключает синхронизацию, Bluetooth, GPS, NFC, двойные нажатия, подсветку кнопок и световую индикацию. Экран при получении уведомлений не включается.</string>
+  <string name="extreme_power_config_mode_summary">Экстремальное энергосбережение ограничивает фоновую активность и останавливает синхронизацию.</string>
+  <string name="extreme_power_config_mode_title">Экстремальное энергосбережение</string>
+  <string name="extreme_power_settings_title">Настройки</string>
   <string name="failure">Ошибка</string>
   <string name="hide_mode_desc"><font color="#000000">Когда приложение работает в фоновом режиме, его активность контролируется для энергосбережения. Эта функция будет получать и использовать личные данные в соответствии с %s.</font></string>
   <string name="hide_system_app">Скрыть системные приложения</string>
@@ -94,6 +98,9 @@
   <string name="nonui_mode_config_description">Когда MIUI определяет, что устройство не используется, световой индикатор, сканер отпечатков и сенсорное управление отключаются для энергосбережения. Экран при получении уведомлений не включается.</string>
   <string name="nonui_mode_config_title">Неинтерактивный режим</string>
   <string name="not_set">Не задано</string>
+  <string name="notification_exit_extreme_mode_text">Батарея заряжена более чем на %s</string>
+  <string name="notification_exit_extreme_mode_title">Экстремальное энергосбережение отключено</string>
+  <string name="notification_open_extreme_mode_text">Экстремальное энергосбережение включено</string>
   <string name="open_dark_mode">Переключиться в Темный режим</string>
   <string name="open_dark_mode_tip">Качество отображения некоторых функций в Темном режиме может ухудшиться. При выходе из режима оно вернется к нормальному состоянию. Переключиться?</string>
   <string name="performance_category">Производительность</string>
