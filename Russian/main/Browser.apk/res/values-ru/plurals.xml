@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Час назад</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Час назад</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Через час</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через полчаса</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Через %d мин.</item>
+        <item quantity="one">Через 1 мин.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">1 мин. назад</item>
+    </plurals>	
+    <plurals name="half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Через час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Через полчаса</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d минут</item>
+        <item quantity="one">через 1 минуту</item>
+        <item quantity="few">через %d минуты</item>
+    </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d просмотров</item>
         <item quantity="one">%d просмотр</item>
@@ -11,6 +57,9 @@
         <item quantity="one">Найден %d новый элемент</item>
         <item quantity="few">Найдено %d новых элемента</item>
         <item quantity="many">Найдено %d новых элементов</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Последние %d дней</item>
@@ -53,6 +102,11 @@
         <item quantity="one">%d популярная песня</item>
         <item quantity="few">%d популярных песни</item>
         <item quantity="many">%d популярных песен</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">1 минуты назад</item>
+        <item quantity="few">%d минуты назад</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Воспроизведение видео через %1$d секунд</item>

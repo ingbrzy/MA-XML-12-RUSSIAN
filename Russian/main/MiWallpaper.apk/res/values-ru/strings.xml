@@ -29,16 +29,22 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="am">AM</string>
     <string name="app_name">Обои</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="copy">Копировать</string>
+    <string name="date_picker_label_day"/>
+    <string name="date_picker_label_month"/>
+    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="early_morning">Утро</string>
     <string name="earth_id">earth</string>
     <string name="earth_summary">Земля - колыбель человеческой цивилизации</string>
     <string name="earth_super_wallpaper_label">земля</string>
     <string name="earth_title">Дом</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -54,7 +60,6 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="game_view_content_description">Просмотр игры</string>
-    <string name="mars_id">mars</string>
     <string name="mars_position_content_0">"Этот регион содержит отвесные скалы, скалистые мезы и широкие плоские долины, которые, как полагают, были вызваны покрытыми мусором ледниками. Здесь также были обнаружены глинистые минералы, которые представляют большой интерес для поиска доказательств жизни на древнем Марсе.
 
 NASA/JPL/Университет Аризоны"</string>
@@ -76,6 +81,20 @@ NASA/JPL/Университет Аризоны"</string>
     <string name="mi_wallpaper_title">Mi Обои</string>
     <string name="midnight">Ночь</string>
     <string name="miui_clock_city_name_local">Местное время</string>
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd.M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd.M"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
@@ -86,7 +105,7 @@ NASA/JPL/Университет Аризоны"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -127,11 +146,13 @@ NASA/JPL/Университет Аризоны"</string>
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">С</string>
     <string name="more">Еще</string>
+    <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="night">Вечер</string>
-    <string name="noon">Полдень</string>	
+    <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
     <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>

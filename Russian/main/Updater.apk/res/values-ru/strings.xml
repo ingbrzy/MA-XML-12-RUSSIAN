@@ -25,6 +25,7 @@
     <string name="dialog_btn_wifi">Переключиться на Wi-Fi</string>
     <string name="dialog_stop_desc">Вы можете приостановить или остановить загрузку, сделайте выбор сейчас.</string>
     <string name="dialog_stop_title">Остановить загрузку?</string>
+    <string name="dialog_twrp">Внутреннее хранилище зашифровано. После перезагрузки устройства в Recovery, введите пароль разблокировки устройства.</string>
     <string name="download_chlog">%1$s</string>
     <string name="download_done">Успешно загружено!</string>
     <string name="download_fail">Ошибка во время загрузки!</string>
@@ -74,5 +75,5 @@
     <string name="version">Текущая версия:</string>
     <string name="version_type">MIUI %3$s | %1$s | (%2$s)</string>
     <string name="weekly">еженедельная</string>
-    <string name="wifi_recommended">Отсутствует Wi-Fi соединение</string>  
+    <string name="wifi_recommended">Отсутствует Wi-Fi соединение</string>
 </resources>
