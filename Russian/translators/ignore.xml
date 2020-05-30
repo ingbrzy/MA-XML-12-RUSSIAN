@@ -300,6 +300,7 @@
     <string name="appIndex_authority">com.android.quicksearchbox.appIndex</string>
     <string name="app__shared__build_name">DkReader</string>
     <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
+    <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_manager_power_consume">%.1f%%</string>
     <string name="app_name">miot-device-lib</string>
     <string name="app_name_danfa">@string/app_name</string>
@@ -449,6 +450,9 @@
     <string name="celcius_symbol">℃</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chart_first_song">1.%s</string>
+    <string name="chart_second_song">2.%s</string>
+    <string name="chart_third_song">3.%s</string>
     <string name="chengelog">%1$s</string>
     <string name="childrens_day">儿童节</string>
     <string name="childrens_day_tradition">兒童節</string>
@@ -557,6 +561,7 @@
     <string name="cold_dews_tradition">寒露</string>
     <string name="colon">:</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
+    <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
     <string name="commute_banner_congestion_text">路况拥堵</string>
     <string name="commute_banner_warning_text">预警信息</string>
     <string name="commute_card_drving_button_text">推荐路线导航</string>
@@ -593,6 +598,8 @@
     <string name="control_quick_settings_tiles_default"> </string>
     <string name="control_quick_settings_tiles_stock"> </string>
     <string name="conversation_content_provider">Поставщик материалов для разговоров</string>
+    <string name="count_format">%2$1.1fK</string>
+    <string name="count_million_format">%2$1.2fM</string>
     <string name="create_table_aaid"> </string>
     <string name="create_table_keyword"> </string>
     <string name="create_table_mode"> </string>
@@ -637,6 +644,7 @@
     <string name="default_search_domain">.google.com</string>
     <string name="default_separator_text">的</string>
     <string name="default_transport">UDP</string>
+    <string name="default_web_client_id">442074018142-eri5e8fk5h1pv23iej2aup5r7a4knsnj.apps.googleusercontent.com</string>
     <string name="delete_select_book_ask">同时删除本机上的文件</string>
     <string name="demo_number">241</string>
     <string name="density_pixel_summary">%1$s dp</string>
@@ -659,9 +667,12 @@
     <string name="double_seventh_day_tradition">七夕</string>
     <string name="download_num_size">%1$s | %2$s</string>
     <string name="download_percent">%d%%</string>
+    <string name="download_progress">%d%%</string>
+    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
     <string name="download_running_percent">Идет загрузка, %d%%</string>
     <string name="dummy_tip">请将银行卡片正面置于此区域尝试对齐边缘。</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
@@ -739,8 +750,10 @@
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_custom">%s</string>
+    <string name="firebase_database_url">https://global-sms-ab3bc.firebaseio.com</string>
     <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="flybird_auto_switch_channel">系统推荐</string>
     <string name="flybird_baoxian_close_text">开启账户安全险，享100万保险</string>
     <string name="flybird_baoxian_open_text">账户安全险保障中</string>
@@ -866,6 +879,7 @@
     <string name="function_zhihu_title">Zhihu</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
+    <string name="gcm_defaultSenderId">442074018142</string>
     <string name="ge"> </string>
     <string name="general__shared__audio_chapter">集</string>
     <string name="general__shared__cash_unit">书币</string>
@@ -889,10 +903,14 @@
     <string name="gift_count_format">%1$s+</string>
     <string name="give_lucky_money"> </string>
     <string name="global_default_language">@string/language_value_english</string>
+    <string name="google_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
+    <string name="google_app_id">1:442074018142:android:1dd1f9d142d1661a12dfcf</string>
     <string name="google_authority">com.android.quicksearchbox.google</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
     <string name="google_parent">Google</string>
     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="google_storage_bucket">global-sms-ab3bc.appspot.com</string>
     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
     <string name="gradient_vectorpath">gradient_vector_path</string>
     <string name="grain_buds">小满</string>
@@ -943,9 +961,11 @@
     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="huangli_bad_type">忌</string>
     <string name="huangli_good_type">宜</string>
+    <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
     <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
+    <string name="include_sensitive_extra">false</string>
     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
     <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_always_show_value">1</string>
@@ -1104,6 +1124,7 @@
     <string name="mars_view_height_0">287.3 km</string>
     <string name="mars_view_height_1">256.7 km</string>
     <string name="mars_view_height_2">286.2 km</string>
+    <string name="max_sleep_time">%d</string>
     <string name="media_size_l">L</string>
     <string name="mediasize_default">ISO_A4</string>
     <string name="mediasize_standard">@string/mediasize_standard_iso</string>
@@ -1130,6 +1151,7 @@
     <string name="min_40">40</string>
     <string name="min_50">50</string>
     <string name="min_60">60</string>
+    <string name="min_sleep_time">%d</string>
     <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
     <string name="mini_agree">同意</string>
     <string name="mini_already_download">已下载</string>
@@ -1376,6 +1398,7 @@
     <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="page_search_result" formatted="false">%d/%d</string>
     <string name="pairing_ui_package">com.android.settings</string>
+    <string name="partner_id">3041</string>
     <string name="partys_day">建党节</string>
     <string name="partys_day_tradition">建黨節</string>
     <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
@@ -1428,6 +1451,9 @@
     <string name="prefDefault_alerts_vibrate_false">never</string>
     <string name="prefDefault_alerts_vibrate_true">always</string>
     <string name="prefDefault_autoAdvance">список</string>
+    <string name="prefDefault_vibrateWhen">never</string>
+    <string name="prefDefault_vibrate_false">never</string>
+    <string name="prefDefault_vibrate_true">always</string>
     <string name="pref_operator_setting">%1$s %2$s</string>
     <string name="pref_search_result_rs_title">搜索页相关搜索</string>
     <string name="preference_category_information_setting">category_information_setting</string>
@@ -1513,6 +1539,8 @@
     <string name="process_format">%1$s (%2$d)</string>
     <string name="process_kernel_label">ОС Android</string>
     <string name="process_name">:float</string>
+    <string name="project_id">global-sms-ab3bc</string>
+    <string name="prompt_area_code">+86</string>
     <string name="protocol_eas">eas</string>
     <string name="protocol_imap">imap</string>
     <string name="protocol_legacy_imap">imap</string>
@@ -1653,6 +1681,7 @@
     <string name="select_team_close">关闭</string>
     <string name="select_team_confirm">提交</string>
     <string name="send_keepalive">SendKeepAlive</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="senders_elided">..</string>
     <string name="service_client_name">%1$s</string>
     <string name="service_process_name">%1$s</string>
@@ -2377,6 +2406,7 @@ feedsContentId:
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
+    <string name="widget_small_text_separator">-</string>
     <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
     <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
@@ -2407,6 +2437,7 @@ feedsContentId:
     <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
     <string name="xiaomi_kilobytes_unit">%1$s КБ</string>
     <string name="xiaomi_megabytes_unit">%1$s МБ</string>
+    <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
     <string name="xiaomi_source_url">https://search.browser.miui.com/</string>
     <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
     <string name="xiaomi_source_url_file_cdn_prefix">file://ssl-cdn.static.browser.mi-img.com/</string>
