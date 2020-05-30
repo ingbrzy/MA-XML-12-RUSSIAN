@@ -31,9 +31,10 @@
   <string name="action_get_otp">Получить код</string>
   <string name="action_sign_in">Войти</string>
   <string name="action_sign_in_short">Войти</string>
-  <string name="actionbar_button_up_description">Назад</string>  
+  <string name="actionbar_button_up_description">Назад</string>
   <string name="activity_not_found">Нет приложения для выполнения этого действия</string>
   <string name="activity_not_found_uri">Нет приложения для выполнения этого действия</string>
+  <string name="addBlackList">Блокировать</string>
   <string name="add_attachment">Вложение</string>
   <string name="add_contact">vCard</string>
   <string name="add_miui_contact">Контакт</string>
@@ -49,7 +50,6 @@
   <string name="add_to_browser_favorite_failed">Не удалось добавить</string>
   <string name="add_to_browser_favorite_success">Успешно добавлено</string>
   <string name="add_video">Добавить видео</string>
-  <string name="addBlackList">Блокировать</string>
   <string name="adding_attachments">Подождите, пока вложения добавляются в слайд-шоу.</string>
   <string name="adding_attachments_title">Добавление вложений</string>
   <string name="adding_recipients">Добавление получателей…</string>
@@ -58,6 +58,7 @@
   <string name="alert_dlg_ok_button">OK</string>
   <string name="allow_network_hint">Включите \"Обновить информацию автоматически\" или проверьте подключение к сети</string>
   <string name="already_updated">Актуально</string>
+  <string name="am">AM</string>
   <string name="app_label">Сообщения</string>
   <string name="app_name">Устройства</string>
   <string name="application_list_title">Мини-приложения</string>
@@ -122,7 +123,7 @@
   <string name="card_insert_to_contact">Импортировать контакты</string>
   <string name="change_duration_activity">Изменить длительность</string>
   <string name="chatbox_list_title">Мои мини-приложения</string>
-  <string name="chatbox_main_title">Мини-приложения</string>  
+  <string name="chatbox_main_title">Мини-приложения</string>
   <string name="check_all">Выбрать все</string>
   <string name="class_0_message_activity">Сообщение класса 0</string>
   <string name="classifing">Группировка сообщений…</string>
@@ -145,8 +146,8 @@
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
   <string name="confirm_delete_SIM_message">Удалить это сообщение с SIM-карты?</string>
-  <string name="confirm_delete_all_conversations">Удалить все диалоги?</string>
   <string name="confirm_delete_all_SIM_messages">Удалить все сообщения с SIM карты?</string>
+  <string name="confirm_delete_all_conversations">Удалить все диалоги?</string>
   <string name="confirm_delete_group_message">Удалить сообщения?</string>
   <string name="confirm_delete_locked_message">Удалить это закрепленное сообщение?</string>
   <string name="confirm_delete_message">Удалить это сообщение?</string>
@@ -193,6 +194,9 @@
   <string name="copy_to_sdcard_fail">Не удалось сохранить вложение</string>
   <string name="copy_to_sdcard_success">Вложение сохранено как \"%s\"</string>
   <string name="current_data_version">Версия приложения</string>
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Китайский традиционный календарь</string>
   <string name="delete">Удалить</string>
   <string name="delete_block_conversation">Удалить диалог</string>
@@ -250,6 +254,8 @@
   <string name="enabled">Вкл</string>
   <string name="english_subject_limit">40 символов</string>
   <string name="enter_edit_mode">Пакетное удаление</string>
+  <string name="eras_ad">CE</string>
+  <string name="eras_bc">BCE</string>
   <string name="error_code_label">"Код ошибки: "</string>
   <string name="error_field_required">Необходимо заполнить</string>
   <string name="error_incorrect_otp">Некорректный код</string>
@@ -298,7 +304,7 @@
   <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>  
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="force_touch_new_message_title">Новое сообщение</string>
   <string name="forward_from">От:</string>
   <string name="forward_message_select_title">Переслать сообщение</string>
@@ -311,7 +317,7 @@
   <string name="found_wild_messages_title">Синхронизация с Xiaomi Cloud</string>
   <string name="friday">Пятница</string>
   <string name="friday_short">Пт</string>
-  <string name="friday_shortest">Пт</string>	  
+  <string name="friday_shortest">Пт</string>
   <string name="from_label">"От: "</string>
   <string name="from_pkg_name">От приложения:</string>
   <string name="ft_cfs_dialog_content">"Файлы не могут быть доставлены с использованием RCS. Отправить ссылку в текстовом сообщении вместо этого?"</string>
@@ -333,6 +339,7 @@
   <string name="guild_add_recipients">Нажмите для добавления получателей из списка контактов</string>
   <string name="guild_msim_switcher">Нажмите для смены SIM карты</string>
   <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s&gt;</string>
+  <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Скрытый адрес отправителя</string>
   <string name="hold_to_talk">Продолжайте разговор</string>
   <string name="home_tab_ad">Рекламные</string>
@@ -419,7 +426,7 @@
   <string name="millionbyte">МБ</string>
   <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
   <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>  
+  <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
@@ -427,7 +434,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Все MMS, кроме сообщений, отправленных авторизованными отправителями, будут заблокированы. Авторизованными отправителями являются сетевые операторы, национальные системы бронирования железнодорожных билетов и т. д.</string>
   <string name="mms_block_alert_ok">Заблокировать</string>
@@ -494,6 +501,7 @@
   <string name="msglist_release_to_more">Отпустите для загрузки сообщений</string>
   <string name="multimedia_message">Мультимедийное сообщение</string>
   <string name="multimedia_notification">Уведомление о MMS</string>
+  <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_allow_notice">Для активации бесплатных текстовых и голосовых услуг может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, когда эта функция включена, ей требуется небольшое количество мобильного трафика для проверки статуса адресата. Вы согласны?</string>
   <string name="mx_activate_dlg_title">Активация Mi сообщений</string>
   <string name="mx_activate_dlg_title_ex">Активация Mi сообщений и телефонии</string>
@@ -549,7 +557,6 @@
   <string name="mx_recommend_msg">Нажмите для включения Mi сообщений</string>
   <string name="mx_stranger_recommend_msg">Нажмите для блокировки Mi сообщений с неизвестных номеров</string>
   <string name="mx_type_guide">Бесплатно отправляйте сообщения другим пользователям MIUI</string>
-  <string name="mx2_type_description">[%s]</string>
   <string name="need_download">Синхронизация…</string>
   <string name="net_sms_subscribed">Успешная подписка</string>
   <string name="net_sms_unsubscribe">Подписка отменена</string>
@@ -578,7 +585,7 @@
   <string name="not_set">Не задано</string>
   <string name="notification_ad_content">Вы получили рекламное сообщение от %s</string>
   <string name="notification_add_todo">Напомнить</string>
-  <string name="notification_add_todo_content">Получить код: %s</string>  
+  <string name="notification_add_todo_content">Получить код: %s</string>
   <string name="notification_channel_msg_description">Уведомления о сообщениях</string>
   <string name="notification_channel_msg_name">Сообщения</string>
   <string name="notification_channel_other_description">Прочие уведомления</string>
@@ -614,6 +621,7 @@
   <string name="pick_too_many_recipients">Слишком много получателей</string>
   <string name="play">Смотреть</string>
   <string name="playing_failed">Не удалось воспроизвести</string>
+  <string name="pm">PM</string>
   <string name="pref_advanced_settings_title">Расширенные настройки</string>
   <string name="pref_allow_network_access_summary">Получать актуальную информацию о доставке и других услугах</string>
   <string name="pref_cell_broadcast">Аварийные оповещения</string>
@@ -800,14 +808,14 @@
   <string name="rcs_group_notification_invitation">Приглашение в групповой чат</string>
   <string name="rcs_hello_from_pc">Войдите в Fetion на компьютере для передачи файлов.</string>
   <string name="rcs_list_bottom_loading">Подождите…</string>
-  <string name="rcs_list_bottom_search">Поиск…</string>  
+  <string name="rcs_list_bottom_search">Поиск…</string>
   <string name="rcs_main_purpose">Эта функция позволяет отправлять и получать RCS сообщения. Сервис предоставляется China Mobile.</string>
   <string name="rcs_message">RCS-сообщения</string>
   <string name="rcs_message_disable">Нельзя просмотреть это сообщение во втором пространстве</string>
   <string name="rcs_message_title">RCS сообщения</string>
   <string name="rcs_more_bar_title">Дополнительная информация</string>
   <string name="rcs_msg">Сообщения China Mobile</string>
-  <string name="rcs_my_black_chatbot_title">Черный список</string>  
+  <string name="rcs_my_black_chatbot_title">Черный список</string>
   <string name="rcs_not_online">Невозможно использовать сообщения China Mobile. Проверьте настройки сети и повторите попытку.</string>
   <string name="rcs_offline">Не удалось войти в UC. Повторите попытку позже..</string>
   <string name="rcs_offline_hint">Сообщения China Mobile не в сети. Пересылка невозможна.</string>
@@ -840,7 +848,7 @@
   <string name="rcs_search_group_server">Онлайн</string>
   <string name="rcs_search_result_empty">Не удалось найти мини-приложения</string>
   <string name="rcs_search_result_server_data_empty">Не удалось найти мини-приложения</string>
-  <string name="rcs_send_hello">Hi!</string>  
+  <string name="rcs_send_hello">Hi!</string>
   <string name="rcs_send_rms_remind_change">Настройки</string>
   <string name="rcs_send_rms_remind_desp">Сообщения China Mobile - это служба обмена мгновенными сообщениями, предоставленная China Mobile. Вы можете отключить эту функцию в настройках.</string>
   <string name="rcs_send_rms_remind_title">Отправляйте сообщения через China Mobile</string>
@@ -920,7 +928,7 @@
   <string name="rms_video_body">[Видео]</string>
   <string name="saturday">Суббота</string>
   <string name="saturday_short">Сб</string>
-  <string name="saturday_shortest">Сб</string>	  
+  <string name="saturday_shortest">Сб</string>
   <string name="save">Сохранить</string>
   <string name="save_ringtone">Сохранить как мелодию звонка</string>
   <string name="save_to_sim">Сохранить на SIM карту</string>
@@ -955,9 +963,9 @@
   <string name="select_copy_text">Выделите и скопируйте текст</string>
   <string name="select_different_attachment">Выберите другое вложение.</string>
   <string name="select_different_audio">Выберите другой звук.</string>
+  <string name="select_different_media">Выберите другое %1$s.</string>
   <string name="select_different_picture">Выберите другое изображение.</string>
   <string name="select_different_video">Выберите другое видео.</string>
-  <string name="select_different_media">Выберите другое %1$s.</string>
   <string name="select_link_title">Выберите действие</string>
   <string name="select_local_audio">Выбрать аудио</string>
   <string name="select_local_video">Выбрать видео</string>
@@ -994,9 +1002,9 @@
   <string name="show_sender">Показать данные отправителя</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
-  <string name="sim_card_cloud">%s (Mi сообщения)</string>
   <string name="sim_card1">SIM карта 1</string>
   <string name="sim_card2">SIM карта 2</string>
+  <string name="sim_card_cloud">%s (Mi сообщения)</string>
   <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
   <string name="sim_delete">Удалить</string>
   <string name="sim_empty">На SIM карте нет сообщений</string>
@@ -1081,6 +1089,9 @@
   <string name="storage_limits_setting">Ограничить</string>
   <string name="storage_limits_setting_dismiss">Не ограничивать</string>
   <string name="storage_unavailable">Память заполнена</string>
+  <string name="sub_sim_card">Sub</string>
+  <string name="sub_sim_card_indicator">Sub%d</string>
+  <string name="sub_sim_not_support_mms">Не удалось отправить MMS с использованием дополнительной SIM-карты</string>
   <string name="subject_hint">Тема</string>
   <string name="subject_label">"Тема: "</string>
   <string name="subscribe">Подписка</string>
@@ -1088,7 +1099,7 @@
   <string name="summary_pref_cm_smart_sms">Шаблоны карточек, сервисные номера SMS и многое другое.</string>
   <string name="sunday">Воскресенье</string>
   <string name="sunday_short">Вс</string>
-  <string name="sunday_shortest">Вс</string>    
+  <string name="sunday_shortest">Вс</string>
   <string name="switch_to_editor">Режим редактирования</string>
   <string name="switch_to_menu">Режим меню</string>
   <string name="system_permission_declare_agree">Согласен</string>
@@ -1153,10 +1164,10 @@
   <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
   <string name="thursday">Четверг</string>
   <string name="thursday_short">Чт</string>
-  <string name="thursday_shortest">Чт</string>    
+  <string name="thursday_shortest">Чт</string>
   <string name="time_picker_dialog_title">Установите время</string>
   <string name="time_picker_label_hour">Ч</string>
-  <string name="time_picker_label_minute">М</string>  
+  <string name="time_picker_label_minute">М</string>
   <string name="timed_message_expired_title_2">Отправить их сейчас?</string>
   <string name="timed_message_to">для</string>
   <string name="title_activity_rcs_login">Вход</string>
@@ -1186,7 +1197,7 @@
   <string name="try_to_send">Продолжить</string>
   <string name="tuesday">Вторник</string>
   <string name="tuesday_short">Вт</string>
-  <string name="tuesday_shortest">Вт</string>	
+  <string name="tuesday_shortest">Вт</string>
   <string name="turn_on">Включить</string>
   <string name="type_attachment">вложение</string>
   <string name="type_audio">аудио</string>
@@ -1231,7 +1242,7 @@
   <string name="warning_show">Отправка через %d сек.</string>
   <string name="wednesday">Среда</string>
   <string name="wednesday_short">Ср</string>
-  <string name="wednesday_shortest">Ср</string>  
+  <string name="wednesday_shortest">Ср</string>
   <string name="wild_msg_processing">Обработка…</string>
   <string name="wild_msg_title">Выберите номера телефонов для синхронизации</string>
   <string name="yellowpage_recommend_msg">"Проверьте функции обмена сообщениями MIUI"</string>

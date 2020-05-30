@@ -557,6 +557,7 @@
     <string name="cold_dews_tradition">寒露</string>
     <string name="colon">:</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
+    <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
     <string name="commute_banner_congestion_text">路况拥堵</string>
     <string name="commute_banner_warning_text">预警信息</string>
     <string name="commute_card_drving_button_text">推荐路线导航</string>
@@ -634,6 +635,7 @@
     <string name="default_search_domain">.google.com</string>
     <string name="default_separator_text">的</string>
     <string name="default_transport">UDP</string>
+    <string name="default_web_client_id">442074018142-eri5e8fk5h1pv23iej2aup5r7a4knsnj.apps.googleusercontent.com</string>
     <string name="delete_select_book_ask">同时删除本机上的文件</string>
     <string name="demo_number">241</string>
     <string name="density_pixel_summary">%1$s dp</string>
@@ -736,8 +738,10 @@
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_custom">%s</string>
+    <string name="firebase_database_url">https://global-sms-ab3bc.firebaseio.com</string>
     <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="flybird_auto_switch_channel">系统推荐</string>
     <string name="flybird_baoxian_close_text">开启账户安全险，享100万保险</string>
     <string name="flybird_baoxian_open_text">账户安全险保障中</string>
@@ -863,6 +867,7 @@
     <string name="function_zhihu_title">Zhihu</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
+    <string name="gcm_defaultSenderId">442074018142</string>
     <string name="ge"> </string>
     <string name="general__shared__audio_chapter">集</string>
     <string name="general__shared__cash_unit">书币</string>
@@ -886,10 +891,14 @@
     <string name="gift_count_format">%1$s+</string>
     <string name="give_lucky_money"> </string>
     <string name="global_default_language">@string/language_value_english</string>
+    <string name="google_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
+    <string name="google_app_id">1:442074018142:android:1dd1f9d142d1661a12dfcf</string>
     <string name="google_authority">com.android.quicksearchbox.google</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
     <string name="google_parent">Google</string>
     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="google_storage_bucket">global-sms-ab3bc.appspot.com</string>
     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
     <string name="gradient_vectorpath">gradient_vector_path</string>
     <string name="grain_buds">小满</string>
@@ -1425,6 +1434,9 @@
     <string name="prefDefault_alerts_vibrate_false">never</string>
     <string name="prefDefault_alerts_vibrate_true">always</string>
     <string name="prefDefault_autoAdvance">список</string>
+    <string name="prefDefault_vibrateWhen">never</string>
+    <string name="prefDefault_vibrate_false">never</string>
+    <string name="prefDefault_vibrate_true">always</string>
     <string name="pref_operator_setting">%1$s %2$s</string>
     <string name="pref_search_result_rs_title">搜索页相关搜索</string>
     <string name="preference_category_information_setting">category_information_setting</string>
@@ -1510,6 +1522,8 @@
     <string name="process_format">%1$s (%2$d)</string>
     <string name="process_kernel_label">ОС Android</string>
     <string name="process_name">:float</string>
+    <string name="project_id">global-sms-ab3bc</string>
+    <string name="prompt_area_code">+86</string>
     <string name="protocol_eas">eas</string>
     <string name="protocol_imap">imap</string>
     <string name="protocol_legacy_imap">imap</string>
@@ -1650,6 +1664,7 @@
     <string name="select_team_close">关闭</string>
     <string name="select_team_confirm">提交</string>
     <string name="send_keepalive">SendKeepAlive</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="senders_elided">..</string>
     <string name="service_client_name">%1$s</string>
     <string name="service_process_name">%1$s</string>
