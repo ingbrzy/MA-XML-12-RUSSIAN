@@ -54,7 +54,6 @@
     <string name="action_item_hifi">Звуковые эффекты</string>
     <string name="action_item_play_all">Перемешать все</string>
     <string name="action_item_play_next">Воспроизвести позже</string>
-    <string name="play_setting">Воспроизведение</string>
     <string name="action_item_play_video">Воспроизвести</string>
     <string name="action_item_remove">Убрать</string>
     <string name="action_item_remove_from_favorite">Удалить из избранных</string>
@@ -143,6 +142,7 @@
     <string name="choose_music_lang_pref">Предпочтительные языки для песен</string>
     <string name="choose_stream_quality">Выберите качество музыки</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="click_and_watch_video_tip">Нажмите, чтобы воспроизвести музыкальное видео</string>
     <string name="click_to_add_album_cover_and_lyric">Нажмите, чтобы добавить обложку и текст</string>
     <string name="click_to_shuffle">Перемешать</string>
     <string name="close_music_time">"Оставшееся время: "</string>
@@ -180,8 +180,11 @@
     <string name="dark_mode">Темный режим</string>
     <string name="data_usage_warning">Предупреждение о трафике</string>
     <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
-    <string name="data_use_desc">Правовая документация</string>	
+    <string name="data_use_desc">Правовая документация</string>
     <string name="date_format_str">dd.MM.yyyy</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Лунный календарь</string>
     <string name="delete">Удалить</string>
     <string name="delete_download">Удалить</string>
@@ -315,6 +318,7 @@
     <string name="downloading_empty">Пусто</string>
     <string name="downloading_pause_apk">Пауза. Возобновите загрузку в шторке уведомлений.</string>
     <string name="due_date">Срок оплаты: %s</string>
+    <string name="early_morning">Утро</string>
     <string name="edit_playlist_info">Редактирование плейлиста</string>
     <string name="empty_page_no_album">Нет альбомов</string>
     <string name="empty_page_no_artist">Нет исполнителей</string>
@@ -342,7 +346,7 @@
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
     <string name="error_not_support">Не поддерживается</string>
-    <string name="evening">PM</string>	
+    <string name="evening">PM</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
     <string name="exo_controls_next_description">Следующий трек</string>
@@ -373,6 +377,7 @@
     <string name="exo_track_surround_5_point_1">Система объемного звука 5.1</string>
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="expired">Просрочено</string>
     <string name="facebook_not_installed">Сначала установите Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">Не удалось получить данные платежа</string>
@@ -418,12 +423,13 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="follow">Подписаться</string>
     <string name="followed">Подписан</string>
+    <string name="font_family">miui</string>
     <string name="format_not_support">Тип файла не поддерживается</string>
     <string name="format_unsupported_or_corrupted">Тип файла не поддерживается или файл поврежден</string>
     <string name="fragment_title_artist_album">Альбомы</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
-    <string name="friday_shortest">Пт</string>	
+    <string name="friday_shortest">Пт</string>
     <string name="gcm_fallback_notification_channel_label">Разное</string>
     <string name="get_more_favorite_content_after_login">Войдите для поиска песен и видео</string>
     <string name="google_account_login">Вход с помощью Google</string>
@@ -440,13 +446,15 @@
     <string name="higher_quality_music">Звук высокого качества</string>
     <string name="higher_quality_music_summary">Загрузка музыки в высоком качестве</string>
     <string name="home_tab_home">Домашняя страница</string>
+    <string name="home_tab_joox">JOOX музыка</string>
     <string name="home_tab_local">Моя музыка</string>
     <string name="home_tab_more_music">Еще</string>
     <string name="home_tab_online">Онлайн музыка</string>
     <string name="home_tab_recommend">Онлайн</string>
     <string name="home_tab_search">Поиск</string>
-    <string name="home_tab_yandex">Яндекс Музыка</string>    
+    <string name="home_tab_yandex">Яндекс Музыка</string>
     <string name="hot_icon_in_fast_indexer">H</string>
+    <string name="hungama">Hungama</string>
     <string name="hungama_batch_download_alert_summary">Загрузить все треки могут только владельцы PRO подписки. Купить её?</string>
     <string name="hungama_batch_download_alert_summary_toast">Оформите подписку для скачивания всего плейлиста.</string>
     <string name="hungama_category_chart">Чарты</string>
@@ -460,10 +468,12 @@
     <string name="hungama_privacy_desc">Политика конфиденциальности Hungama (необязательное)</string>
     <string name="hungama_privacy_tips_content">Для получения доступа к онлайн-контенту, вы должны принять &lt;a href="/link/click"&gt;Политику конфиденциальности Hungama&lt;/a&gt;.</string>
     <string name="hungama_privacy_tips_title">Политика конфиденциальности Hungama</string>
+    <string name="hungama_pro">Hungama PRO</string>
     <string name="hungama_subscribe_message">Купите PRO подписку для загрузки музыки в высоком качестве.</string>
     <string name="hungama_subscribe_positive_button">Купить PRO подписку</string>
     <string name="hungama_subscribe_title">PRO подписка</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">ОК</string>
+    <string name="id_namespace">hungama</string>
     <string name="impunity_declaration_content">Нажав \"Согласен\", вы принимаете Политику конфиденциальности и Пользовательское соглашение.</string>
     <string name="impunity_declaration_ignore">Больше не показывать</string>
     <string name="impunity_declaration_negative_text">Отмена</string>
@@ -535,7 +545,7 @@
     <string name="metered_serious_alert_msg_with_data">Осталось %s трафика. Использовать мобильный интернет для воспроизведения?</string>
     <string name="metered_serious_allow">Воспроизвести</string>
     <string name="middle_sound_quality">Среднее</string>
-    <string name="midnight">AM</string>	
+    <string name="midnight">AM</string>
     <string name="milink_unavaliable_please_update">Mi Link недоступен. Обновите MIUI.</string>
     <string name="missing_title">&lt;Без названия></string>
     <string name="miuishare_account_login_ok">Войти</string>
@@ -666,7 +676,7 @@
     <string name="online_apk_downloading">Загрузка…%d%%</string>
     <string name="online_apk_install_alert_confirm">Загрузить</string>
     <string name="online_apk_install_alert_continue">Возобновить</string>
-    <string name="online_apk_install_alert_failed_text">Не удалось загрузить. Повторите попытку.</string>	
+    <string name="online_apk_install_alert_failed_text">Не удалось загрузить. Повторите попытку.</string>
     <string name="online_apk_install_alert_message">Необходимо загрузить плагин Яндекс.Музыка. Загрузить его?</string>
     <string name="online_apk_install_alert_mobile_net_text">Используется мобильный интернет. Это может привести к дополнительным расходам.</string>
     <string name="online_apk_install_alert_note">Услуга предоставлена сервисом Яндекс.Музыка</string>
@@ -674,7 +684,7 @@
     <string name="online_apk_install_alert_pause">Приостановить</string>
     <string name="online_apk_install_alert_retry">Повторить попытку</string>
     <string name="online_apk_install_alert_start">Начать</string>
-    <string name="online_apk_install_completed">Онлайн-контент успешно загружен. Нажмите %s для просмотра.</string>	
+    <string name="online_apk_install_completed">Онлайн-контент успешно загружен. Нажмите %s для просмотра.</string>
     <string name="online_apk_install_error_no_enough_space">Не удалось установить из-за нехватки свободного места.</string>
     <string name="online_apk_install_error_with_reason">Не удалось установить (Ошибка %d)</string>
     <string name="online_apk_install_failed_with_reason" formatted="false">Не удалось загрузить онлайн-контент. Нажмите %s для повтора. Код ошибки: %d.</string>
@@ -683,6 +693,8 @@
     <string name="online_apk_install_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="online_apk_install_tips">Необходимо скачать плагин этого поставщика контента, чтобы получить доступ к песням</string>
     <string name="online_list_delete_message">Все загруженные треки в этом списке будут удалены из внутренней памяти.</string>
+    <string name="online_music_joox">JOOX</string>
+    <string name="online_music_yandex">Яндекс</string>
     <string name="online_playlist_category">Плейлисты</string>
     <string name="online_recommend">Плейлист</string>
     <string name="online_service_open_tip">Онлайн-сервисы музыки включены</string>
@@ -708,6 +720,7 @@
     <string name="payment_success_message">Спасибо! Ваш платеж был обработан успешно. Наслаждайтесь услугами PRO.</string>
     <string name="payment_success_title">Поздравляем!</string>
     <string name="pending_apk">Ожидание…</string>
+    <string name="periodic_dump_memory_profile">Запись дампа памяти в журнал</string>
     <string name="permission_declaration_message">Разрешите доступ к памяти, перейдя в Безопасность > Приложения > Разрешения > Разрешения приложений > Память > Музыка.</string>
     <string name="permission_declaration_negative_text">Позже</string>
     <string name="permission_declaration_positive_text">Безопасность</string>
@@ -725,6 +738,7 @@
     <string name="play_mode_play_all">Воспроизвести все</string>
     <string name="play_mode_shuffle_all">Перемешать</string>
     <string name="play_next">Воспроизвести далее</string>
+    <string name="play_setting">Воспроизведение</string>
     <string name="play_video_with_traffic">ПРОДОЛЖИТЬ</string>
     <string name="play_video_with_traffic_toast">Используется мобильный интернет.</string>
     <string name="playlist_empty">Плейлисты не найдены</string>
@@ -742,7 +756,7 @@
     <string name="please_select_song">Сначала выберите трек</string>
     <string name="pm">PM</string>
     <string name="power_save_mode_dialog_msg">Включена экономия заряда батареи. Начать загрузку?</string>
-    <string name="preference_copied">\"%1$s\" в  буфере обмена.</string>	
+    <string name="preference_copied">\"%1$s\" в  буфере обмена.</string>
     <string name="preset_music_playlist">Mi плейлист</string>
     <string name="priority_storage">Использовать накопитель</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен</string>
@@ -763,6 +777,8 @@
     <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
     <string name="remove">Убрать</string>
     <string name="remove_download">Удалить</string>
+    <string name="renew_dialog_title">"Оформите PRO
+Будьте счастливы"</string>
     <string name="repeat_all_notif">Повтор всех треков.</string>
     <string name="repeat_current_notif">Повтор текущего трека.</string>
     <string name="request_overlay_permission_desc">Разрешить приложению отображать плавающие окна.</string>
@@ -792,7 +808,9 @@
     <string name="save_changes">Сохранить изменения</string>
     <string name="save_image">Сохранить изображение</string>
     <string name="search_album_and_lyric">Поиск обложек и текстов песен</string>
-    <string name="search_empty">Ничего не найдено</string>
+    <string name="search_empty">Ничего нет</string>
+    <string name="search_empty_subtitle_online_music">Нажмите кнопку ниже, чтобы открыть %s.</string>
+    <string name="search_empty_title_online_music">Ничего нет</string>
     <string name="search_for_album">Альбом</string>
     <string name="search_for_artist">Исполнитель</string>
     <string name="search_hint">Поиск исполнителей, треков, альбомов и пр.</string>
@@ -1020,7 +1038,7 @@
     <string name="track_play_history_after_login">Войдите для просмотра истории воспроизведения</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
-    <string name="tuesday_shortest">Вт</string>	
+    <string name="tuesday_shortest">Вт</string>
     <string name="ultra_high_quality">Наивысшее качество</string>
     <string name="unknown_album_name">Неизвестный альбом</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
@@ -1031,6 +1049,8 @@
     <string name="upgrade_music_message">Перезапустите для обновления.</string>
     <string name="upgrading_in_backstage">Обновление в фоновом режиме…</string>
     <string name="user_agreement">Условия использования</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="version_info">Версия</string>
     <string name="vhigh_sound_quality">HD</string>
     <string name="video_play_cellular">Подключение к Wi-Fi отсутствует. Использовать мобильный интернет?</string>
