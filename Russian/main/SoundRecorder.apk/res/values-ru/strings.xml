@@ -66,6 +66,23 @@
     <string name="duration_format_minute">%s мин</string>
     <string name="duration_format_second">%s с</string>
     <string name="empty_recognition_tip">Пусто</string>
+    <string name="err_msg_abandon">Заказ не завершен</string>
+    <string name="err_msg_complete">Заказ завершен</string>
+    <string name="err_msg_convert_fail">Ошибка конвертации</string>
+    <string name="err_msg_convert_processing">Конвертация…</string>
+    <string name="err_msg_convert_queue">Ожидание конвертации…</string>
+    <string name="err_msg_convert_success">Готово</string>
+    <string name="err_msg_create">Заказ создан</string>
+    <string name="err_msg_delete">Заказ удален</string>
+    <string name="err_msg_expired">Срок действия заказа истек</string>
+    <string name="err_msg_pending_value">Оценка стоимости…</string>
+    <string name="err_msg_pengding_pay">Ожидание платежа…</string>
+    <string name="err_msg_processing">Обработка…</string>
+    <string name="err_msg_refuse">Не удалось распознать</string>
+    <string name="err_msg_transcript_fail">Не удалось распознать</string>
+    <string name="err_msg_transcript_processing">Расшифровка…</string>
+    <string name="err_msg_transcript_queue">Ожидание распознавания…</string>
+    <string name="err_msg_transcript_success">Расшифровано успешно</string>
     <string name="error_app_internal">Проверьте, не используется ли функция записи другим приложением.</string>
     <string name="error_app_internal_title">Ошибка диктофона</string>
     <string name="error_file_access">Файл не существует или поврежден</string>
@@ -75,6 +92,16 @@
     <string name="error_sdcard_unmounted">Вставьте SD карту</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="export_to_note">Экспорт</string>
+    <string name="faq">"Вопросы и ответы：
+
+1. Статусы заказа.
+Есть три статуса: "обработка", "завершено", "ошибка распознавания". После завершения распознавания текст отображается в соответствующем файле.
+
+2. Возврат средств.
+Возврат осуществляется в течение 5 рабочих дней с даты платежа. В случае просроченного счета, свяжитесь с нами по телефону горячей линии обслуживания клиентов (400-100-5678).
+
+3.Как сделать запись более точной?
+В настоящее время поддерживает только распознавания мандаринского языка, точность результатов распознавания будет зависеть от расстояния, окружающего шума, голоса говорящего и других факторов. Для более точных результатов, во время разговора подносите телефон ближе."</string>
     <string name="head_set_tip_dialog_msg">Отключите гарнитуру для возможности записи звука с заданными установками (например, Музыка или Голос)</string>
     <string name="head_set_tip_dialog_ok">Понятно</string>
     <string name="head_set_tip_dialog_title">Используйте встроенный микрофон</string>
@@ -82,15 +109,25 @@
     <string name="keywords_search_call_record">Записать вызовы;Записать вызов;Запись вызова;Записи вызовов</string>
     <string name="keywords_search_record">Новая запись;Добавить запись;Запись;Записи;Расшифровка;Расшифровать;Диктофон;Запись речи;Запись звука;Диктофон;Приложение для записи;Как записать;Как записать звук;Как найти Диктофон;Диктофон MIUI</string>
     <string name="keywords_search_record_list">Диктофон;Расшифровка;Расшифровки;Запись;Поделиться записью;Поделиться записями;Запись;Записи</string>
+    <string name="korea_permission_phone">Устройство</string>
+    <string name="korea_permission_phone_resc">Для доступа к статусу устройства и обработки записей во время вызовов</string>
+    <string name="korea_permission_record">Микрофон</string>
+    <string name="korea_permission_record_resc">Для записи аудио</string>
+    <string name="korea_permission_storage">Память</string>
+    <string name="korea_permission_storage_desc">Для сохранения записей</string>
     <string name="loading_more">Подождите…</string>
     <string name="loading_order_list">Подождите…</string>
     <string name="loading_order_list_empty">Заказов нет</string>
     <string name="low_battery_error">Осталось менее 5% заряда батареи. Остановите и сохраните вашу запись, чтобы не потерять ее.</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_title">Батарея разряжена</string>
+    <string name="lyric_item_point_count">От %1$d до %2$d</string>
     <string name="mark_point_list_title">Метки</string>
     <string name="menu">Меню</string>
     <string name="message_file_size_error">Запись достигла максимального размера (%s)</string>
+    <string name="mi_account_msg">Войдите в Mi аккаунт для расшифровки записей в облаке и бесплатных 60 минут.</string>
+    <string name="mi_account_ok">Войти</string>
+    <string name="mi_account_title">Войти с Mi Аккаутом</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
@@ -103,6 +140,7 @@
     <string name="network_tip_dialog_content">Для нормальной работы Диктофону требуется подключение к интернету. Разрешить?</string>
     <string name="network_tip_dialog_ok">Разрешить</string>
     <string name="network_tip_dialog_title">Подключение к интернету</string>
+    <string name="network_unavailable_tip">Подключитесь к сети и повторите попытку.</string>
     <string name="new_record_name">Новая запись</string>
     <string name="no_file">Нет записей</string>
     <string name="not_set">Не задано</string>
@@ -119,6 +157,7 @@
     <string name="online_recognize_duration_limite">(Начиная с 10 минут)</string>
     <string name="online_recognize_fail">Не удалось распознать</string>
     <string name="online_recognize_login_fail">Не удалось войти</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Вход</string>
     <string name="online_recognize_order_duration_key">Длительность</string>
     <string name="online_recognize_order_pay">Оплатить и посмотреть результаты</string>
@@ -139,8 +178,12 @@
     <string name="online_recognize_service_unavailable">Сервис недоступен. Повторите попытку позже.</string>
     <string name="order_item_duration">Длительность: %s</string>
     <string name="order_item_number">Номер заказа: %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">Системные приложения/Диктофон</string>
     <string name="pause">Пауза</string>
+    <string name="pay_error_cancel">Платеж отменен</string>
+    <string name="pay_error_null">Не удалось завершить платеж. Проверьте свой аккаунт.</string>
+    <string name="pay_error_unknown">Неизвестная ошибка</string>
     <string name="playback_delete_records">Удалить запись</string>
     <string name="playback_share_records">Отправить запись</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
@@ -159,6 +202,10 @@
     <string name="preference_status_bar_indicator_prompt">Показывать ярлык строки состояния во время записи</string>
     <string name="preference_tip_rename">Именовать записи вручную</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="recognition_button_add_to_queue">Добавить в очередь</string>
+    <string name="recognition_button_cancel">Не сейчас</string>
+    <string name="recognition_button_start">Начать</string>
+    <string name="recognition_confirm_dialog_body">Распознавание может занять некоторое время. Вы получите уведомление, когда задание будет выполнено. Начать распознавание?</string>
     <string name="recognition_error_cancel">Отменено</string>
     <string name="recognition_error_code">Код ошибки: %d</string>
     <string name="recognition_error_download_cancel">Позже</string>
@@ -174,7 +221,32 @@
     <string name="recognition_error_internal">Внутренняя ошибка</string>
     <string name="recognition_error_stopped">Распознавание остановлено</string>
     <string name="recognition_error_unknown">Неизвестная ошибка. Отправьте отчет и повторите попытку.</string>
+    <string name="recognition_interrupt_current_dialog_body">Распознавание может занять некоторое время. Вы получите уведомление, когда задание будет выполнено. Идет распознавание \"%s\". Добавить в очередь заданий?</string>
+    <string name="recognition_notification_channel">Распознавание</string>
+    <string name="recognition_notification_complete_success">Распознавание \"%s\" завершено. Нажмите для просмотра.</string>
+    <string name="recognition_notification_error">Не удалось распознать \"%s\"</string>
+    <string name="recognition_notification_running">Распознавание \"%s\"…</string>
+    <string name="recognition_process_dialog_body">Идет распознавание (%s). Остановить текущие задания и начать новое?</string>
+    <string name="recognition_process_dialog_cancel">Очередь</string>
+    <string name="recognition_process_dialog_confirm">Начать</string>
+    <string name="recognition_process_dialog_title">Текущие задания</string>
+    <string name="recognition_status_downloaded">Модуль распознавания успешно завершен</string>
     <string name="recognition_status_downloading">Загружается</string>
+    <string name="recognition_status_init">"Подготовка "</string>
+    <string name="recognition_stop_current">Остановить текущие задания</string>
+    <string name="recognition_terms">"Добро пожаловать в Диктофон! 
+
+Услугу преобразования речи в текст предоставляется Anhui hearing Technology Co. Ltd. Услуга является платной."</string>
+    <string name="recognize_choose_dialog_offline">Бесплатное распознавание</string>
+    <string name="recognize_choose_dialog_offline_desp">Распознавание без подключения к интернету</string>
+    <string name="recognize_choose_dialog_online">Облачное распознавание</string>
+    <string name="recognize_choose_dialog_online_desp">Точное и быстрое распознавание</string>
+    <string name="recognize_choose_dialog_online_free_duration">Получите первые 60 минут бесплатно</string>
+    <string name="recognize_choose_dialog_online_price">%s CNY/час</string>
+    <string name="recognize_choose_dialog_service_desp">Сервис распознавания предоставлен iflyrec.com</string>
+    <string name="recognize_choose_dialog_service_intruction">Условия обслуживания</string>
+    <string name="recognize_choose_dialog_title">Выберите метод распознавания</string>
+    <string name="recognize_extra_price_desp">(Эксклюзивное предложение для Mi пользователей)</string>
     <string name="record">Запись</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
     <string name="record_download">Загрузка из Xiaomi Cloud</string>
@@ -192,15 +264,28 @@
     <string name="record_list_cloud_call">Записи вызовов в Xiaomi Cloud</string>
     <string name="record_list_cloud_fm">Записи радио в Xiaomi Cloud</string>
     <string name="record_list_fm">Записи радио</string>
+    <string name="record_list_item_recognize_text">Текст</string>
     <string name="record_mark_point">Метка %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Качество записи</string>
+    <string name="record_resotre">Восстановить записи</string>
     <string name="recording">Запись</string>
     <string name="recording_quality_high">Высокое качество</string>
     <string name="recording_quality_low">Низкое качество</string>
     <string name="recording_quality_standard">Стандартное качество</string>
     <string name="recording_stopped">Запись остановлена</string>
+    <string name="reg_error_audio_exist">Файл уже существует</string>
+    <string name="reg_error_audio_large">Аудиофайл не должен превышать 500 МБ</string>
+    <string name="reg_error_audio_short">Аудиофайл слишком мал</string>
+    <string name="reg_error_business">Не удалось расшифровать файл. Отправьте нам отчет и повторите попытку.</string>
+    <string name="reg_error_client">Ошибка данных. Отправьте нам отчет и повторите попытку.</string>
+    <string name="reg_error_create_order">Не удалось создать заказ, повторите попытку.</string>
+    <string name="reg_error_ifly_account">Ошибка аккаунта, повторите попытку.</string>
+    <string name="reg_error_price">Ошибка оценки стоимости. Отправьте нам отчет и повторите попытку.</string>
+    <string name="reg_error_server">Ошибка сервера. Отправьте нам отчет и повторите попытку.</string>
+    <string name="reg_error_upload_audio">Не удалось загрузить файл, повторите попытку</string>
+    <string name="reg_error_upload_order">Не удалось загрузить, повторите попытку</string>
     <string name="rename">Переименовать</string>
     <string name="rename_dialog_title">Переименование записи</string>
     <string name="rename_duplicate">Запись с таким именем уже существует.</string>
@@ -219,6 +304,7 @@
     <string name="search_scenes">Режим записи</string>
     <string name="search_silent_mode">Режим \"Без звука\" при записи</string>
     <string name="search_tip_rename">Именовать записи вручную</string>
+    <string name="service_instructions">О сервисе iflyrec.com</string>
     <string name="share">Отправить</string>
     <string name="share_dialog_title">Отправить с помощью</string>
     <string name="shortcut_records">Записи</string>
@@ -239,6 +325,7 @@
     <string name="text_btn_pause">Пауза</string>
     <string name="text_btn_play">Прослушать</string>
     <string name="text_btn_recognize">Распознать</string>
+    <string name="text_btn_recognize_pending">"Ожидание "</string>
     <string name="text_btn_recording">Запись</string>
     <string name="text_btn_wave">Сигнал</string>
     <string name="text_finish">Подтвердить</string>
@@ -248,6 +335,7 @@
     <string name="text_play_speed_2_0">2X cкорость воспроизведения</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s</string>
     <string name="toast_uninstall_fileexplorer">Проводник не установлен</string>
     <string name="usage_description">Распознавание и синхронизация элементов с облаком</string>
