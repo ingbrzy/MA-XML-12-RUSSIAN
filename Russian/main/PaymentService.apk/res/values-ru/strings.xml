@@ -101,8 +101,8 @@ ID:%s
     <string name="mibi_applock_dialog_ok">Установить</string>
     <string name="mibi_applock_dialog_title">Установить новый пароль</string>
     <string name="mibi_balance_title">Доступные Mi Coins</string>
-    <string name="mibi_bill_delete_dialog_title">Удалить %1$s</string>
-    <string name="mibi_bill_delete_message">Удалить “%1$s”?</string>
+    <string name="mibi_bill_delete_dialog_title">Удаление %1$s</string>
+    <string name="mibi_bill_delete_message">Удалить %1$s?</string>
     <string name="mibi_bill_menu_delete_item">Удалить</string>
     <string name="mibi_bill_record">Транзакции</string>
     <string name="mibi_bill_record_empty">Нет записей.</string>
@@ -141,7 +141,7 @@ ID:%s
     <string name="mibi_deduct_payment_title">Автоматические списания</string>
     <string name="mibi_deduct_query_error">Не удалось подписать соглашение о продлении. Подождите минуту или две и попробуйте снова.</string>
     <string name="mibi_deduct_success">Протокол автоматической оплаты активирован</string>
-    <string name="mibi_deduct_success_sub">Метод списания:%1$s</string>
+    <string name="mibi_deduct_success_sub">Метод списания: %1$s</string>
     <string name="mibi_deduct_type">Метод оплаты</string>
     <string name="mibi_detail_consume_account">ID покупки</string>
     <string name="mibi_detail_consume_amount">Размер</string>
@@ -169,9 +169,9 @@ ID:%s
     <string name="mibi_error_account_changed_title">Аккаунт изменился</string>
     <string name="mibi_error_account_throtting">Ваша учетная запись не является безопасной.
 Пожалуйста, свяжитесь с нашей службой поддержки</string>
-    <string name="mibi_error_auth_summary">Войдите в ваш Mi Account снова</string>
+    <string name="mibi_error_auth_summary">Войдите в ваш Mi Аккаунт снова</string>
     <string name="mibi_error_cert_date_summary">Ошибка даты сертификата.
-Пожалуйста, проверьте вашу местную дату и попробуйте снова.</string>
+Пожалуйста, проверьте дату и попробуйте снова.</string>
     <string name="mibi_error_common_summary">Системная ошибка. Пожалуйста, попробуйте позже.</string>
     <string name="mibi_error_deduct">Не удалось активировать протокол автоматической оплаты</string>
     <string name="mibi_error_expired_summary">Ваш заказ истек</string>
@@ -185,39 +185,39 @@ ID:%s
     <string name="mibi_error_no_available_channels">Извините, в настоящее время нет доступных каналов.</string>
     <string name="mibi_error_pay_result_uncertain">Результат оплаты не определен.</string>
     <string name="mibi_error_privacy_summary">Вы отозвали авторизацию.</string>
-    <string name="mibi_error_recharge_process_fail">Recharge process fail.</string>
-    <string name="mibi_error_recharge_result_fail">Recharge result fail.</string>
-    <string name="mibi_error_recharge_result_uncertain">Recharge result uncertain.</string>
-    <string name="mibi_error_recharge_success_pay_fail">Recharge success pay fail.</string>
+    <string name="mibi_error_recharge_process_fail">Ошибка в процессе возврата средств.</string>
+    <string name="mibi_error_recharge_result_fail">Ошибка возврата средств.</string>
+    <string name="mibi_error_recharge_result_uncertain">Результат возврата средств не определен.</string>
+    <string name="mibi_error_recharge_success_pay_fail">Не удалось осуществить возврат средств.</string>
     <string name="mibi_error_server_summary">Ошибка сервера. Пожалуйста, попробуйте позже</string>
     <string name="mibi_error_user_id_mismatch_summary">Пожалуйста, проверьте и повторно войдите в свой аккаунт</string>
     <string name="mibi_error_web_summary">Ошибка сервера</string>
-    <string name="mibi_forget_password">&lt;u&gt;Забыли пароль&lt;/u&gt;</string>
-    <string name="mibi_format_bill_date">yyyy/M/d</string>
-    <string name="mibi_format_date">MMM. dd, yyyy</string>
-    <string name="mibi_format_time">MMM dd, yyyy hh:mmaa</string>
+    <string name="mibi_forget_password">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
+    <string name="mibi_format_bill_date">dd.MM.yyyy</string>
+    <string name="mibi_format_date">d MMM yyyy</string>
+    <string name="mibi_format_time">d MMM yyyy hh:mmaa</string>
     <string name="mibi_frozen">Заморожен</string>
     <string name="mibi_frozen_prim">Аккаунт заблокирован</string>
     <string name="mibi_frozen_sub">Обнаружена нестандартная активность</string>
     <string name="mibi_frozen_text">&lt;Data&gt;Ваш аккаунт заморожен. &amp;lt;font color=#33aaff&amp;gt;Свяжитесь с нашей службой поддержки.&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
     <string name="mibi_frozen_text_pad">Ваш аккаунт заморожен. Позвоните 400–100–3399.</string>
-    <string name="mibi_get_phone_format_error">Подтвердить номер телефона</string>
+    <string name="mibi_get_phone_format_error">Подтвердите номер телефона</string>
     <string name="mibi_get_phone_num_summary">Введите номер телефона, используемый для платежей</string>
     <string name="mibi_get_phone_num_title">Введите номер телефона</string>
     <string name="mibi_get_phone_sms_prompt">Код подтверждения отправлен на %1$s</string>
-    <string name="mibi_giftcard_acitivity_and_denomination">%2$s-Mi Coin подарочная карта от %1$s</string>
+    <string name="mibi_giftcard_acitivity_and_denomination">%2$s - Mi Coin подарочная карта от %1$s</string>
     <string name="mibi_giftcard_available">Доступно</string>
-    <string name="mibi_giftcard_denom_available">Mi Coin Доступно</string>
+    <string name="mibi_giftcard_denom_available">Mi Coin доступны</string>
     <string name="mibi_giftcard_denom_frozen">Mi Coin заморожены</string>
     <string name="mibi_giftcard_discount">Купоны</string>
-    <string name="mibi_giftcard_discount_detail">Купон(потрачено%1$sMi Coins)</string>
-    <string name="mibi_giftcard_discount_detail2">(Потрачно %1$s Mi Coins на оплату)</string>
+    <string name="mibi_giftcard_discount_detail">Купон (потрачено%1$sMi Coins)</string>
+    <string name="mibi_giftcard_discount_detail2"> (потрачено %1$s Mi Coins на оплату)</string>
     <string name="mibi_giftcard_empty_detail">Нет %1$s купонов.</string>
     <string name="mibi_giftcard_has_expired">Срок действия истек %1$s</string>
-    <string name="mibi_giftcard_has_unavailable">Просрочено</string>
+    <string name="mibi_giftcard_has_unavailable">Просрочен</string>
     <string name="mibi_giftcard_has_used">Использован</string>
-    <string name="mibi_giftcard_hint">Mi Coins, добавленные через подарочную карту, будут потрачены первыми автоматически.</string>
-    <string name="mibi_giftcard_in_available">Доступно</string>
+    <string name="mibi_giftcard_hint">Mi Coins, добавленные через подарочную карту, будут автоматически потрачены первыми.</string>
+    <string name="mibi_giftcard_in_available">Доступные</string>
     <string name="mibi_giftcard_payment">Подарочные сертификаты</string>
     <string name="mibi_giftcard_payment_with_append">Использовать подарочные сертификаты</string>
     <string name="mibi_giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
@@ -247,11 +247,14 @@ ID:%s
     <string name="mibi_mipay_error">Mipay провалена</string>
     <string name="mibi_more_operation">Другие операции</string>
     <string name="mibi_msg_error">Пополнение провалено</string>
-    <string name="mibi_msg_order_hint_1_1">После того как вы нажмете Подтвердить покупку, ваш телефон</string>
-    <string name="mibi_msg_order_hint_1_2">Автоматически свяжется с вашим поставщиком услуг.</string>
+    <string name="mibi_msg_order_hint_1_1">После подтверждения покупки, ваше устройство</string>
+    <string name="mibi_msg_order_hint_1_2">автоматически свяжется с вашим поставщиком услуг.</string>
+    <string name="mibi_msg_picker_hint_1_1">1.</string>
     <string name="mibi_msg_picker_hint_1_2">Пополнение через сообщение может быть дороже: &lt;font color=red&gt;￥%1$d = %2$d Mi Coin&lt;/font&gt;</string>
-    <string name="mibi_msg_picker_hint_2_a">Операторы забирают ￥%1$s комисии за пополнение</string>
+    <string name="mibi_msg_picker_hint_2_1">2.</string>
+    <string name="mibi_msg_picker_hint_2_a">Операторы взимают ￥%1$s комиссии за пополнение</string>
     <string name="mibi_msg_picker_hint_2_b">SMS будет отправлено вашему оператору после нажатия кнопки \*Пополнить\*. Он будет взимать плату за обычные SMS.</string>
+    <string name="mibi_msg_picker_hint_3_1">3.</string>
     <string name="mibi_msg_picker_hint_3_2">Максимальное месячное пополнение: ￥%1$s</string>
     <string name="mibi_msg_send_no_net_error">Не удалось отправить сообщение: не удалось подключиться к сетевому провайдеру.</string>
     <string name="mibi_msg_send_no_sim_error">Не удалось отправить сообщение: попробуйте переустановить SIM-карту.</string>
@@ -260,8 +263,8 @@ ID:%s
     <string name="mibi_msg_telecom_order_denom">￥%1s（не включая сборы за передачу данных в мобильной сети）</string>
     <string name="mibi_msg_telecom_order_denom_label">Количество</string>
     <string name="mibi_msg_telecom_order_goods_label">Товар</string>
-    <string name="mibi_msg_telecom_picker_hint_1_1">После того как вы нажмете Подтвердить покупку, ваш телефон</string>
-    <string name="mibi_msg_telecom_picker_hint_1_2">Автоматически свяжется с вашим поставщиком услуг.</string>
+    <string name="mibi_msg_telecom_picker_hint_1_1">После подтверждения покупки, ваше устройство</string>
+    <string name="mibi_msg_telecom_picker_hint_1_2">автоматически свяжется с вашим поставщиком услуг.</string>
     <string name="mibi_msg_telecom_picker_hint_2_1">Установлена связь с вашим поставщиком услуг!</string>
     <string name="mibi_msg_telecom_picker_hint_2_2">Вы получите текстовое подтверждение в ближайшее время.</string>
     <string name="mibi_msg_telecom_sending">Соединение с поставщиком услуг…</string>
@@ -280,23 +283,23 @@ ID:%s
     <string name="mibi_other_denomiantion">Выберите размер</string>
     <string name="mibi_partner_giftcard_payment_with_append">Применить %1$s</string>
     <string name="mibi_password_error">Неверный пароль.</string>
-    <string name="mibi_password_forget">забыли?</string>
+    <string name="mibi_password_forget">Забыли пароль?</string>
     <string name="mibi_password_hint">Введите пароль учетной записи</string>
-    <string name="mibi_password_prompt">Чтобы обезопасить свои расходы, подтвердите свой Mi Account</string>
+    <string name="mibi_password_prompt">Чтобы обезопасить свои расходы, подтвердите свой Mi Аккаунт</string>
     <string name="mibi_pay_grid_error_denomination">Размер должен между %1$s и %2$s Mi Coins.</string>
-    <string name="mibi_pay_success_summary">Вы заплатили %1$s Mi Coins</string>
+    <string name="mibi_pay_success_summary">Вы потратили %1$s Mi Coins</string>
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Coins пополнено，%2$s Mi Coins использовано</string>
     <string name="mibi_payment_recharge_group_title">Выберите способ пополнения</string>
     <string name="mibi_payment_success_title">Платеж получен</string>
-    <string name="mibi_payment_with_login_title">Подтвержите ваш Mi Account</string>
+    <string name="mibi_payment_with_login_title">Подтвержите ваш Mi Аккаунт</string>
     <string name="mibi_paytool_app_not_installed">Вы не установили %1$s. Скачать и установить сейчас?</string>
     <string name="mibi_paytool_error_install">Не удалось установить плагин безопасности для мобильных устройств %1$s</string>
-    <string name="mibi_paytool_error_msp">%1$s провален</string>
-    <string name="mibi_paytool_msp_not_installed">Вы не установили плагин для мобильной безопасности %1$s, установите его сейчас?</string>
+    <string name="mibi_paytool_error_msp">Ошибка %1$s</string>
+    <string name="mibi_paytool_msp_not_installed">Вы не установили плагин для мобильной безопасности %1$s, установить его сейчас?</string>
     <string name="mibi_paytool_wechat_return_cancel">WeChat возврат отменен</string>
     <string name="mibi_permanently_denied_perm_camera">Разрешите доступ к камере в Настройках для использования этих функций.</string>
-    <string name="mibi_permanently_denied_perm_send_sms">Разрешить отправку SMS-сообщений в Настройках для использования этих функций.</string>
-    <string name="mibi_prepaid_card_order_info">%1$s карта пополнения: CNY %2$s</string>
+    <string name="mibi_permanently_denied_perm_send_sms">Разрешите отправку SMS-сообщений в Настройках для использования этих функций.</string>
+    <string name="mibi_prepaid_card_order_info">Карта пополнения %1$s: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Выберите оператора</string>
     <string name="mibi_prepaid_edit_limit">цифры</string>
     <string name="mibi_prepaid_error_card_length">Неверный номер карты или пароль.</string>
@@ -306,18 +309,20 @@ ID:%s
     <string name="mibi_prepaid_error_password">Пароль карты недействителен.</string>
     <string name="mibi_prepaid_number_edit_hint">Номер</string>
     <string name="mibi_prepaid_password_edit_hint">Пароль</string>
+    <string name="mibi_prepaid_picker_hint_1_1">1.</string>
     <string name="mibi_prepaid_picker_hint_1_2">Поддерживает только одноразовые пополнения;</string>
+    <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">Выбранная номинальная стоимость должна соответствовать балансу карты предоплаты. Выбор другого значения приведет к аннулированию карты. Это действие не может быть отменено.</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Если номинальный баланс карты предоплаты не &lt;font color=red&gt;￥%1$s&lt;/font&gt;, карта будет заблокирована. Xiaomi не несет ответственности за любые денежные убытки, возникшие в результате ошибки пользователя.</string>
     <string name="mibi_prepaid_picker_title_default">Выберите размер</string>
     <string name="mibi_prepaid_picker_title_selected">размер</string>
-    <string name="mibi_privacy_license_name">Политика Конфиденциальности</string>
-    <string name="mibi_privacy_policy">Политика Конфиденциальности</string>
-    <string name="mibi_privacy_tip_message">Вы не можете использовать Mi Coins после того, как авторизация была отменена.</string>
-    <string name="mibi_privacy_tip_title">Сначала дайте разрешение</string>
-    <string name="mibi_process_expired">Куда вы идёте? Срок данной операции истек</string>
+    <string name="mibi_privacy_license_name">Политика конфиденциальности</string>
+    <string name="mibi_privacy_policy">Политика конфиденциальности</string>
+    <string name="mibi_privacy_tip_message">Вы не можете использовать Mi Coins после отмены авторизации.</string>
+    <string name="mibi_privacy_tip_title">Разрешите авторизацию</string>
+    <string name="mibi_process_expired">Срок данной операции истек</string>
     <string name="mibi_progress_creating">Получение информации о заказе…</string>
-    <string name="mibi_progress_deduct_creating">Активация автоматического протокола оплаты %1$s​…</string>
+    <string name="mibi_progress_deduct_creating">Активация протокола автооплаты %1$s​…</string>
     <string name="mibi_progress_downloading">Загрузка…</string>
     <string name="mibi_progress_error_pay_summary">%1$s Mi Coins пополнено, но платеж не прошел, повторите попытку позже.</string>
     <string name="mibi_progress_error_pay_title">Оплата не удалась</string>
@@ -373,10 +378,10 @@ ID:%s
     <string name="mibi_signing_pay_group_title">Выберите способ оплаты</string>
     <string name="mibi_signing_success_sub">Возобновляемые платежи будут осуществляться с использованием %1$s</string>
     <string name="mibi_signing_success_title">Успешно выбрано</string>
-    <string name="mibi_sms_code_empty">Введите код подтверждения, отправленный на ваш телефон.</string>
-    <string name="mibi_sms_code_error">Ошибка кода подтверждения мобильного телефона, пожалуйста, получите его снова</string>
+    <string name="mibi_sms_code_empty">Введите код подтверждения, отправленный на ваше устройство.</string>
+    <string name="mibi_sms_code_error">Ошибка кода подтверждения, пожалуйста, получите его снова</string>
     <string name="mibi_sms_code_hint">Введите 3 ~ 6-значный код подтверждения</string>
-    <string name="mibi_summary_bind_phone">Для обеспечения безопасности вашего аккаунта, пожалуйста, завершите оплату после привязки мобильного телефона.</string>
+    <string name="mibi_summary_bind_phone">Для обеспечения безопасности вашего аккаунта, пожалуйста, завершите оплату после привязки устройства.</string>
     <string name="mibi_summary_custom_service_phone">Телефон:</string>
     <string name="mibi_summary_sms_code">Введите код подтверждения, отправленный на %1$s и завершите платеж</string>
     <string name="mibi_title_bind_phone">Привязка мобильного телефона.</string>
@@ -386,7 +391,7 @@ ID:%s
     <string name="mibi_title_nopassword_dialog">Дневные лимиты</string>
     <string name="mibi_title_password">Пароль</string>
     <string name="mibi_title_password_threshold">Дневной лимит = ￥%1$s</string>
-    <string name="mibi_title_sms_code">Пожалуйста, введите код подтверждения мобильного телефона</string>
+    <string name="mibi_title_sms_code">Пожалуйста, введите код подтверждения устройства</string>
     <string name="mibi_unit_value_redeemed">%1$s Mi Coins использовано</string>
     <string name="mibi_unit_value_remained">%1$s Mi Coins осталось</string>
     <string name="mibi_voucher_card_text">Пожалуйста сотрите верх</string>
@@ -422,8 +427,8 @@ ID:%s
     <string name="passport_auto_generate_pwd">Создать надежный пароль</string>
     <string name="passport_back">Назад</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
-    <string name="passport_barcode_add_account_prompt">Чтобы добавить аккаунт, сканируйте QR-код повторно, после авторизации.</string>
-    <string name="passport_can_not_receive_verification_code">Не можете получить код подтверждения?</string>
+    <string name="passport_barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируйте QR-код повторно после авторизации.</string>
+    <string name="passport_can_not_receive_verification_code">Не удалось получить код подтверждения?</string>
     <string name="passport_captcha_title">Капча</string>
     <string name="passport_change_account"><u>Сменить аккаунт</u></string>
     <string name="passport_change_phone_number">Выбрать другой номер</string>
@@ -465,7 +470,7 @@ ID:%s
     <string name="passport_error_no_password_user">Вы еще не установили пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone_error">Неверный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>
-    <string name="passport_error_sim_not_ready">SIM карта не найдена</string>
+    <string name="passport_error_sim_not_ready">SIM-карта не найдена</string>
     <string name="passport_error_ssl_hand_shake">Не удалось подключиться к серверу</string>
     <string name="passport_error_unknown">Ошибка авторизации</string>
     <string name="passport_error_user_agreement_error">Сначала согласитесь с условиями</string>
@@ -607,7 +612,7 @@ ID:%s
     <string name="passport_use_generated_pwd_title">Запомните свой пароль</string>
     <string name="passport_user_agreement">Условия использования</string>
     <string name="passport_user_agreement_link">"&lt;Data&gt;Я прочитал и согласен с Xiaomi &lt;a href=%1$s&gt;Пользовательское Соглашение&lt;/a&gt; and &lt;a href=%2$s&gt;Политика Конфиденциальности&lt;/a&gt;.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Я прочитал и согласен со следующими документами: Xiaomi &lt;a href=%1$s&gt;Пользовательское Соглашение&lt;/a&gt; и &lt;a href=%4$s&gt;Политика Конфиденциальности&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Я прочитал и согласен со следующими документами Xiaomi: &lt;a href=%1$s&gt;Пользовательское Соглашение&lt;/a&gt; и &lt;a href=%4$s&gt;Политика Конфиденциальности&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_agreement_p1">Принять </string>
     <string name="passport_user_agreement_p2">Условия использования</string>
     <string name="passport_user_agreement_p3"> и </string>
@@ -628,10 +633,10 @@ ID:%s
     <string name="passport_wrong_captcha">Код введен неверно</string>
     <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
     <string name="passport_wrong_vcode">Код введен неверно</string>
-    <string name="passport_wrong_voice">The code you entered is incorrect</string>
+    <string name="passport_wrong_voice">Введенный вами код неверен</string>
     <string name="passport_yes">Да</string>
     <string name="password_toggle_content_description">Показать пароль</string>
-    <string name="phone_bind_too_many">Этот телефон был привязан к нескольким учетным записям Mi за короткий промежуток времени. Попробуйте использовать другой номер телефона.</string>
+    <string name="phone_bind_too_many">Это устройство было привязано к нескольким учетным записям Mi за короткий промежуток времени. Попробуйте использовать другой номер телефона.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Номер телефона используется для:</string>
     <string name="phone_number">Номер телефона</string>
@@ -653,9 +658,9 @@ ID:%s
     <string name="sending">Отправка…</string>
     <string name="service_error">Ошибка сервера</string>
     <string name="set_success">Изменено успешно</string>
-    <string name="sign_in">Вход</string>
+    <string name="sign_in">Войти</string>
     <string name="sign_in_progress">Вход…</string>
-    <string name="sign_in_title">Войдите в свой Mi Account</string>
+    <string name="sign_in_title">Войдите в свой Mi Аккаунт</string>
     <string name="sms_send_success">Успешно отправлено</string>
     <string name="sns_access_token_expired_warning">Сессия истекла. Войдите снова, чтобы повторно подключиться к этой учетной записи.</string>
     <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
@@ -670,7 +675,7 @@ ID:%s
     <string name="upload_error_log">Загрузит запись</string>
     <string name="user_avatar_update_title">Изменить фотографию профиля</string>
     <string name="user_avatar_uploading">Секунду…</string>
-    <string name="user_id_hint">Email/Телефон/Mi Account ID</string>
+    <string name="user_id_hint">Email/Телефон/ID Mi Аккаунта</string>
     <string name="v_code_title">Введите код подтверждения</string>
     <string name="web_sso_login_fail">Вам нужно войти снова</string>
     <string name="web_sso_login_message">Вход…</string>
