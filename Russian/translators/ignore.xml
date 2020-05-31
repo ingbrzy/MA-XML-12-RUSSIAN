@@ -11,6 +11,11 @@
     <string name="APN_NAME_CUNET">China Unicom NET</string>
     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
+    <string name="HA_AFFILIATE_ID">1268</string>
+    <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
+    <string name="HA_DOMAIN">mivideo</string>
+    <string name="HA_DOMAIN_TEST">test</string>
+    <string name="HA_SERVICE_ID">PLAY</string>
     <string name="_00_00">00:00</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -446,6 +451,9 @@
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="cannot_get_download_url">获取不到安全服务下载地址</string>
     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cc_attribution">Копия: %1$s&lt;br&gt;</string>
     <string name="celcius_symbol">℃</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
@@ -1033,6 +1041,13 @@
     <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
+    <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
+    <string name="library_roundedimageview_isOpenSource">true</string>
+    <string name="library_roundedimageview_libraryName">RoundedImageView</string>
+    <string name="library_roundedimageview_libraryVersion">1.3.0</string>
+    <string name="library_roundedimageview_libraryWebsite">https://github.com/vinc3m1/RoundedImageView</string>
+    <string name="library_roundedimageview_licenseId">apache_2_0</string>
+    <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
     <string name="life_card_credit_secondary_overdue_last">最后%1$s天</string>
     <string name="life_card_credit_secondary_overdue_title">已过期</string>
     <string name="life_card_credit_secondary_title">还款日</string>
@@ -2210,6 +2225,9 @@
     <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
     <string name="tag_all_books">全部</string>
     <string name="tag_feed_list_container">feed_list_container</string>
+    <string name="tag_index">tag_index</string>
+    <string name="tag_key">tag_key</string>
+    <string name="tag_object">tag_object</string>
     <string name="tag_view_nav">tag_view_nav</string>
     <string name="taishen">胎神</string>
     <string name="talk_back_description_close_ad_card">关闭广告卡片</string>
