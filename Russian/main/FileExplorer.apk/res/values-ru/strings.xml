@@ -31,6 +31,7 @@
     <string name="action_mode_select_all">Выбрать все</string>
     <string name="activity_tip_name">Лотерея</string>
     <string name="ad_download">Загрузить</string>
+    <string name="add_one">(1)</string>
     <string name="add_private">Скрыть файлы</string>
     <string name="add_private_files">Добавить файлы</string>
     <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
@@ -62,6 +63,7 @@
     <string name="can_not_send_with_too_many">Слишком много объектов для отправки</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_error">Ошибка удаления, повторите попытку</string>
+    <string name="cancel_msg">Снять выделение?</string>
     <string name="cancel_operation">Отменить действие</string>
     <string name="cancel_success">Удалено, все файлы перемещены в %s</string>
     <string name="cancelled_by_user">Действие отменено</string>
@@ -228,6 +230,7 @@
     <string name="file_info_modified">Изменен: </string>
     <string name="file_info_size">Размер: </string>
     <string name="file_loading">Подождите…</string>
+    <string name="file_name_existed">Файл с таким именем уже существует</string>
     <string name="file_name_invalid">В имени файла не может быть следующих символов: /\\:*?&lt;&gt;</string>
     <string name="file_not_exist">Файл не существует</string>
     <string name="folder_name_empty">Имя папки не может быть пустым</string>
@@ -440,9 +443,11 @@
     <string name="rename_alert2">После изменения расширения файла он будет скрыт.</string>
     <string name="rename_failed">Не удалось переименовать \"%1$s\"</string>
     <string name="rename_input_null">Введите имя файла</string>
+    <string name="rename_msg">Файл с именем \"%s\" уже существует.</string>
     <string name="repair_done">Восстановление завершено</string>
     <string name="repair_error">Не удалось восстановить</string>
     <string name="repair_file">Восстановить зашифрованные файлы</string>
+    <string name="replace">Заменить</string>
     <string name="request_document_permission">Для управления файлами на вашей SD карте предоставьте Проводнику необходимые разрешения.</string>
     <string name="request_document_permission_title">Требуются разрешения</string>
     <string name="request_timeout">Тайм-аут сетевого запроса</string>
@@ -483,6 +488,7 @@
     <string name="set_pattern">Пароль был обновлен</string>
     <string name="set_pattern_btn">Задать</string>
     <string name="set_pattern_msg">Задайте пароль еще раз. Пароль защиты личных данных также защищает фотографии и сообщения.</string>
+    <string name="skip">Пропустить</string>
     <string name="skip_file">Пропустить</string>
     <string name="smb_loading">Подождите…</string>
     <string name="sort_hint_name">Сортировка по имени</string>
@@ -534,6 +540,7 @@
     <string name="unlock_pattern_title">Новый пароль</string>
     <string name="upload_user_photo">Отправить</string>
     <string name="usb_label">USB</string>
+    <string name="use_to_all">Применить ко всем</string>
     <string name="used">Занято</string>
     <string name="user_guide_continue_use">OК</string>
     <string name="user_not_login">Сначала выполните вход</string>

@@ -40,6 +40,11 @@
         <item quantity="one">Поиск в %d записи</item>
         <item quantity="few">Поиск среди %d записей</item>
     </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Поиск среди %d записей</item>
+        <item quantity="one">Поиск в %d записи</item>
+        <item quantity="few">Поиск среди %d записей</item>
+    </plurals>	
     <plurals name="search_call_records_hint">
         <item quantity="other">Поиск среди %d записей вызовов</item>
         <item quantity="one">Поиск в %d записи вызова</item>

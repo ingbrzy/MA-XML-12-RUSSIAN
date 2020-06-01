@@ -99,12 +99,17 @@
         <item quantity="few">%.2f раза в день в среднем</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks">
-        <item quantity="other">Разблокировок: %d</item>
-        <item quantity="one">Разблокировок: %d</item>
+        <item quantity="other">Всего разблокировок: %d</item>
+        <item quantity="one">Всего разблокировок: %d</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">%1$d раблокировок в %2$s</item>
+        <item quantity="one">%1$d раблокировка в %2$s</item>
+        <item quantity="few">%1$d раблокировки в %2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
-        <item quantity="other">Разблокировок: %d</item>
-        <item quantity="one">Разблокировок: %d</item>
+        <item quantity="other">Всего разблокировок: %d</item>
+        <item quantity="one">Всего разблокировок: %d</item>
     </plurals>
     <plurals name="usage_remain_about_hour">
         <item quantity="other">≈%s ч.</item>

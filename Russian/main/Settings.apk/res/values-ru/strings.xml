@@ -2498,7 +2498,8 @@
     <string name="erase_sd_data_description">Будут удалены все файлы и данные с SD карты</string>
     <string name="erase_sure">Принудительная очистка</string>
     <string name="error_adding_apn_type">Оператор запретил добавление точки доступа этого типа (%s).</string>
-    <string name="error_apn_empty">Необходимо указать APN.</string>
+    <string name="error_apn_empty">Необходимо указать APN</string>
+    <string name="error_apn_restrict_string">Поле APN не может содержать %1$s</string>
     <string name="error_capturing_system_heap_dump_message">Не удалось создать системный дамп.</string>
     <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
     <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>

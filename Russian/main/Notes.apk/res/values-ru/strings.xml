@@ -139,8 +139,11 @@
     <string name="first_enter_custom_folder_hint">Вы можете переименовать или удалить папки</string>
     <string name="float_todo_guide_cancel">Отмена</string>
     <string name="float_todo_guide_message">Ярлык на рабочем столе позволяет использовать жест от края экрана для просмотра и создания задач. Создать ярлык?</string>
+    <string name="float_todo_guide_message_v2">Ярлык для жеста позволяет использовать жест от края экрана для просмотра и создания задач. Вы можете включить и выключить эту функцию в настройках.</string>
     <string name="float_todo_guide_ok">Создать</string>
+    <string name="float_todo_guide_ok_v2">Включить</string>
     <string name="float_todo_guide_title">Ярлык на рабочем столе</string>
+    <string name="float_todo_guide_title_v2">Ярлык для жеста</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -294,7 +297,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Используйте свайп двумя пальцами вверх для удаления заметок без подтверждения.</string>
     <string name="pref_desc_todo_float_mode">Проведите от края экрана, чтобы открыть панель инструментов задач</string>
     <string name="pref_remind_type_summary">Воспроизведение звука напоминания в режиме \"Без звука\"</string>
+    <string name="pref_remind_type_summary_new">Игнорировать режим \"Без звука\" и продолжать воспроизводить звук, пока будильник не будет отключен</string>
     <string name="pref_remind_type_title">Игнорировать режим \"Без звука\"</string>
+    <string name="pref_remind_type_title_new">Высокоприоритетные напоминания</string>
     <string name="pref_title_cloud_trash_bin">Удаленные заметки в облаке</string>
     <string name="pref_title_common">Дополнительные настройки</string>
     <string name="pref_title_font_size">Размер шрифта</string>
@@ -481,6 +486,7 @@
     <string name="toast_reach_text_limit_truncate">Заметка слишком длинная. Текст в конце был обрезан.</string>
     <string name="toast_refuse_to_record_when_in_call">Нельзя использовать эту функцию во время вызова</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Нельзя использовать эту функцию с разделением экрана</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">Эта функция недоступна для разделения экрана или плавающих окон</string>
     <string name="toast_refuse_to_use_contact">"Доступ к контактам ограничен.
 Разрешить Заметкам чтение контактов и поиск аккаунтов на устройстве."</string>
     <string name="toast_refuse_to_use_external_storage">"Доступ к памяти ограничен.
@@ -518,13 +524,9 @@
     <string name="todo_item_status_delete">Удалить</string>
     <string name="todo_item_status_finished">Завершенные</string>
     <string name="todo_item_status_unfinished">Незавершенные</string>
-<!-- ### FROM SOURCE -->
     <string name="todo_list">Checklist of subtasks</string>
-<!-- ### FROM SOURCE -->
     <string name="todo_list_edit_text_hint">Tap \"Enter\" to create subtasks</string>
-<!-- ### FROM SOURCE -->
     <string name="todo_list_new_finish_all_tip">New items should contain at least one uncompleted task</string>
-<!-- ### FROM SOURCE -->
     <string name="todo_list_overflow_tip">"Can't create more subtasks"</string>
     <string name="todo_menu_add_audio_description">Голосовая задача</string>
     <string name="todo_menu_add_description">Задача</string>
@@ -533,9 +535,7 @@
     <string name="todo_module_name">Задачи</string>
     <string name="todo_notify_alarm_title">Напоминание о задаче</string>
     <string name="todo_schedule_time_expired">" (Истекло)"</string>
-<!-- ### FROM SOURCE -->
     <string name="todo_schedule_time_for_picker_hm">H mm</string>
-<!-- ### FROM SOURCE -->
     <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd.MM</string>
     <string name="todo_schedule_time_mdhm">dd.MM HH:mm</string>

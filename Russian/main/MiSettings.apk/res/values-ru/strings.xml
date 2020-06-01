@@ -67,7 +67,7 @@
     <string name="evening">После полудня</string>
     <string name="exit_easymode">Отключить</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="first_unlock_time">"Первая разблокировка: "</string>
+    <string name="first_unlock_time">"Первая разблокировка в "</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -319,7 +319,9 @@
     <string name="usage_app_limit_alter_title">Установка лимита</string>
     <string name="usage_app_limit_prelong">Продлить время</string>
     <string name="usage_app_limit_reach_summay">Осталось %s</string>
+    <string name="usage_app_limit_reach_summay_new">Нажмите, чтобы добавить %d мин.</string>
     <string name="usage_app_limit_reach_title">Достигнут лимит времени экрана для %s</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">Оставшееся время экрана для %1s: %2s</string>	
     <string name="usage_app_limit_summary">Приложение будет недоступно при достижении лимита времени экрана</string>
     <string name="usage_app_limit_title">Ограничить время экрана</string>
     <string name="usage_app_other_settings">Дополнительные настройки</string>
@@ -375,22 +377,24 @@
     <string name="usage_new_home_app_limit_summary">Установите ежедневный лимит для приложения</string>
     <string name="usage_new_home_app_limit_title">Лимит времени экрана</string>
     <string name="usage_new_home_average">"Среднее "</string>
-    <string name="usage_new_home_avg_usage_day">В среднем ежедневно: %s</string>
+    <string name="usage_new_home_avg_usage_day">В среднем в день: %s</string>
     <string name="usage_new_home_category">Категории</string>
     <string name="usage_new_home_classify_manage">Управление категориями</string>
     <string name="usage_new_home_compare_text1">на %.2f больше, чем вчера</string>
     <string name="usage_new_home_compare_text2">на %.2f меньше, чем вчера</string>
-    <string name="usage_new_home_compare_text3">как и днем раньше</string>
+    <string name="usage_new_home_compare_text3">как и вчера</string>
     <string name="usage_new_home_current_week">эта неделя</string>
     <string name="usage_new_home_dashboard">Сводка</string>
     <string name="usage_new_home_date_day_title">%s | </string>
     <string name="usage_new_home_day_category_title">Категории приложений</string>
+    <string name="usage_new_home_day_category_title_new">Время экрана для категории приложений в %s</string>
     <string name="usage_new_home_day_title">День</string>
     <string name="usage_new_home_day_usage_title">Приложения</string>
+    <string name="usage_new_home_day_usage_title_new">Время экрана в %s</string>
     <string name="usage_new_home_first_unlock">Первая разблокировка: %s</string>
     <string name="usage_new_home_name">Имя</string>
-    <string name="usage_new_home_show_more_data_summary">Также здесь можно ограничить время экрана для отдельных приложений</string>
-    <string name="usage_new_home_show_more_data_title">Расширенная статистика</string>
+    <string name="usage_new_home_show_more_data_summary">Статистика и установка лимита времени экрана для отдельных приложений</string>
+    <string name="usage_new_home_show_more_data_title">Статистика по приложениям</string>
     <string name="usage_new_home_sys_no_limit_summary">Ограничение времени экрана для системных приложений недоступно</string>
     <string name="usage_new_home_unlock_equals_text">Как и вчера</string>
     <string name="usage_new_home_unused">Не использовалось</string>
@@ -446,7 +450,7 @@
     <string name="usage_state_category">Категории</string>
     <string name="usage_state_channel_mouth">За месяц</string>
     <string name="usage_state_channel_week">За неделю</string>
-    <string name="usage_state_date">d MMM</string>
+    <string name="usage_state_date">d MMMM</string>
     <string name="usage_state_device_limit_summary">Лимит времени использования устройства</string>
     <string name="usage_state_device_limit_title">Лимит для устройства</string>
     <string name="usage_state_device_noti_today_tip_title">Уведомлений с %1$d:00 до %2$d:00</string>
@@ -531,6 +535,8 @@
     <string name="usage_stats_week_day">Выходные дни</string>
     <string name="usage_total_days">Всего дней</string>
     <string name="usage_total_times">Всего сессий</string>
+    <string name="usage_week_avg_usage_title">В среднем в неделю</string>
+    <string name="usage_week_avg_usage_title2">Среднее время</string>	
     <string name="usage_weekly_report_summary">Узнайте, сколько времени вы проводите с устройством</string>
     <string name="usage_weekly_report_title">Еженедельный отчет</string>
     <string name="usagestats_app_category_miui_education">Образование</string>
