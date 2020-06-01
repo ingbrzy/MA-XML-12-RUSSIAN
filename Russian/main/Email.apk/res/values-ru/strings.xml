@@ -231,10 +231,10 @@
     <string name="auto_advance_summary">Выбрать действие после удаления сообщения</string>
     <string name="auto_login_fail">Не удалось войти</string>
     <string name="auto_login_fail_to_retry">Не удалось войти, попробуйте еще раз.</string>
-    <string name="auto_mail_enable_txt">Начать настройки</string>
-    <string name="auto_mail_title_note">Найдите опцию \"139 Автоматическая настройка почтового ящика\", нажмите, чтобы начать.</string>
-    <string name="auto_mail_window_description">139 Служба автоматической настройки электронной почты</string>
-    <string name="auto_mail_window_label">139 Автоматическая настройка электронной почты</string>
+    <string name="auto_mail_enable_txt">Начать настройку</string>
+    <string name="auto_mail_title_note">Выберите функцию \"Автоматическая настройка 139 Mailbox\"</string>
+    <string name="auto_mail_window_description">Быстрая настройка авторизации 139 Mailbox</string>
+    <string name="auto_mail_window_label">Автоматическая настройка 139 Mailbox</string>
     <string name="auto_remind_bind">Добавить</string>
     <string name="auto_remind_discribe_text">Включите для автоматического получения напоминаний</string>
     <string name="auto_remind_text">Автоматические напоминания</string>
@@ -252,9 +252,9 @@
     <string name="bill_remind">Напоминание о погашении</string>
     <string name="bill_remind_due">Погашение производится по %s , нажмите для просмотра</string>
     <string name="blank_feedback_toast">Невозможно отправить пустой отчет</string>
-    <string name="body_forward_email_text">[Forward]</string>
+    <string name="body_forward_email_text">[Переслать]</string>
     <string name="body_hint">Написать письмо</string>
-    <string name="body_inline_pic_text">[Picture]</string>
+    <string name="body_inline_pic_text">[Изображение]</string>
     <string name="bottom_bar_more_quickreply">Быстрый ответ</string>
     <string name="bottom_bar_more_share">Отправить</string>
     <string name="bottom_bar_no_quickreply_toast">Нет быстрого ответа</string>
@@ -300,7 +300,7 @@
     <string name="compose_picturesexceedlimits">Не более 5 изображений в тексте сообщения</string>
     <string name="compose_send">Отправить</string>
     <string name="compose_sent">Письмо отправлено</string>
-    <string name="config">139 Номер телефона почтового ящика настроен</string>
+    <string name="config">Номер телефона 139 Mailbox настроен</string>
     <string name="config_cancel">Отмена</string>
     <string name="config_retry">Повтор</string>
     <string name="confirm">ОК</string>
@@ -383,7 +383,7 @@
     <string name="date_heading">"Дата: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Сегодня, %1$s</string>
-    <string name="db_error">В данных электронной почты есть исключение. Пожалуйста, войдите снова. Данные электронной почты могут быть восстановлены после входа в систему.</string>
+    <string name="db_error">В данных электронной почты произошло исключение. Пожалуйста, войдите снова. Данные электронной почты будут восстановлены после входа в систему.</string>
     <string name="debug_mode_preferencecategory">Настройка вывода журнала</string>
     <string name="debug_mode_settings">Настройки режима отладки</string>
     <string name="default_">ПО УМОЛЧАНИЮ</string>
@@ -498,7 +498,7 @@
     <string name="file_save_term">Условия сохранения файлов</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Нажмите на кнопку, чтобы отправить \"%s\" всем участникам диалога</string>
-    <string name="float_window_info">"Во время настройки 139 mailbox не пользуйтесь телефоном, чтобы избежать сбоев"</string>
+    <string name="float_window_info">Во время настройки 139 Mailbox не пользуйтесь телефоном, чтобы избежать сбоев</string>
     <string name="float_window_title">Настройка………</string>
     <string name="folder_drafts_name_en0">Черновики</string>
     <string name="folder_drafts_name_en1">Черновик</string>
@@ -526,7 +526,7 @@
     <string name="folder_trash_name_en2">Удаленные</string>
     <string name="folder_trash_name_en3">[Gmail]/Корзина</string>
     <string name="font_bold_add">Жирный шрифт</string>
-    <string name="font_bold_remove">Отмена полужирного шрифта</string>
+    <string name="font_bold_remove">Отменить жирный шрифт</string>
     <string name="font_color">Текущий цвет шрифта: %s</string>
     <string name="font_color_black">Чёрный</string>
     <string name="font_color_blue">Голубой</string>
@@ -538,7 +538,7 @@
     <string name="font_color_red">Красный</string>
     <string name="font_color_white">Белый</string>
     <string name="font_italic_add">Курсивный шрифт</string>
-    <string name="font_italic_remove">Отмена FontSlant</string>
+    <string name="font_italic_remove">Отменить курсивный шрифт</string>
     <string name="font_size">Текущий размер шрифта: %s</string>
     <string name="font_underline">Подчеркивание</string>
     <string name="font_underline_remove">Удалить подчеркивание</string>
@@ -754,10 +754,10 @@
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Без звука</string>
     <string name="navigation_menu">Меню навигации</string>
-    <string name="need_get_qq_mail">Необходимо QQ Mail</string>
+    <string name="need_get_qq_mail">Требуется QQ Mail</string>
     <string name="network_error">Нет соединения</string>
-    <string name="network_invaild">Не удается подключиться к сети</string>
-    <string name="network_not_available">Не удается подключиться к сети</string>
+    <string name="network_invaild">Не удалось подключиться к сети</string>
+    <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="network_tip">Аутентификация не удалась, проверьте подключение к сети</string>
     <string name="network_try_again">Проверьте подключение и повторите попытку</string>
     <string name="network_unavailable">Сеть недоступна</string>
@@ -770,7 +770,7 @@
     <string name="no_bill_discribe">"Не удалось найти счета.
 Попробуйте переключиться на другой аккаунт электронной почты."</string>
     <string name="no_contacts">Нет контактов</string>
-    <string name="no_content_in_body">[No Body]</string>
+    <string name="no_content_in_body">[Неизвестно]</string>
     <string name="no_conversations">Нет сообщений</string>
     <string name="no_filtrable_email_account">Нет аккаунтов для фильтрации</string>
     <string name="no_mails">Нет сообщений</string>
@@ -782,8 +782,8 @@
     <string name="no_search_results">Искать на сервере</string>
     <string name="not_subject">(Без темы)</string>
     <string name="not_synced_title">Аккаунт не синхронизирован</string>
-    <string name="note_text">Через сеть China Mobile и SMS-проверки, он будет генерировать только дополнительный трафик, не генерируя SMS-сборы.</string>
-    <string name="note_title">139 Автоматическая настройка электронной почты</string>
+    <string name="note_text">При отправке SMS для авторизации может взиматься дополнительная плата оператором.</string>
+    <string name="note_title">Автоматическая настройка 139 mailbox</string>
     <string name="notification_action_archive">Архивировать</string>
     <string name="notification_action_delete">Удалить</string>
     <string name="notification_action_remove_label">Удалить метку</string>
@@ -813,8 +813,8 @@
     <string name="open_external_storage_and_calendar_permission">Разрешить приложению Почта доступ к хранилищу и информации календаря в Настройках</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Разрешить приложению Почта доступ к хранилищу, контактам и информации календаря в Настройках</string>
     <string name="open_external_storage_and_contacts_permission">Разрешить приложению Почта доступ к хранилищу и контактам в Настройках</string>
-    <string name="open_notification_kingagent">Включить уведомления о месте захоронения</string>
-    <string name="optimization_suggestion">Предложения по оптимизации</string>
+    <string name="open_notification_kingagent">Уведомление о месте захоронения</string>
+    <string name="optimization_suggestion">Обратная связь</string>
     <string name="others_mail">Другое</string>
     <string name="others_mail_des">Личные или корпоративные почтовые сервисы</string>
     <string name="outbox_alert_button_no_resend">Не отправлять</string>
@@ -846,11 +846,11 @@
     <string name="over_16_content">Подтвердите, что вам уже исполнилось 16</string>
     <string name="over_due">Просрочено</string>
     <string name="over_sixteen">Мне 16 или больше</string>
-    <string name="overlays_fail_tip">Очень жаль, что ваш почтовый ящик не настроен успешно, откройте всплывающие разрешения Windows и попробуйте снова.</string>
+    <string name="overlays_fail_tip">Откройте всплывающие разрешения Windows и попробуйте снова.</string>
     <string name="overlays_ok">Открыть разрешения</string>
-    <string name="overlays_tip">Настройки телефона - Приложение - Детали приложения - откройте всплывающие разрешения Windows в диспетчере разрешений и сразу же получите 139 почтовых ящиков для автоматической настройки экстремальных ситуаций.</string>
-    <string name="overlays_tip_23">Откройте всплывающие разрешения Windows и сразу получите 139 почтовых ящиков, чтобы автоматически настроить экстремальный опыт.</string>
-    <string name="overlays_title">Откройте всплывающие разрешения Windows</string>
+    <string name="overlays_tip">Настройки телефона - Приложение - Детали приложения - откройте всплывающие разрешения Windows в диспетчере разрешений и разрешите автоматическую настройку 139 Mailbox.</string>
+    <string name="overlays_tip_23">Откройте всплывающие разрешения Windows и разрешите автоматическую настройку 139 Mailbox.</string>
+    <string name="overlays_title">Всплывающие разрешения Windows</string>
     <string name="parase_setup_data">Получение данных…</string>
     <string name="parse_bill_discribe">Обработка счетов кредитных карт…</string>
     <string name="parse_recognize_describe">Анализ почты…</string>
@@ -1136,7 +1136,7 @@
     <string name="silent_ringtone">Без звука</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="sms_tip">Сбой аутентификации, проверьте, перехватывает ли антивирусное ПО СМС</string>
+    <string name="sms_tip">Сбой аутентификации, проверьте, перехватывает ли антивирусное ПО SMS</string>
     <string name="smtp_password_error">Неверный пароль сервера исходящих сообщений</string>
     <string name="sort_attachment">Сортировка</string>
     <string name="storage">Память</string>
@@ -1170,7 +1170,7 @@
     <string name="tap_to_configure">Нажмите для настройки</string>
     <string name="tap_to_enable_sync">Нажмите для включения</string>
     <string name="three_day">3 дня</string>
-    <string name="title_activity_about">Об</string>
+    <string name="title_activity_about">О приложении</string>
     <string name="to">Кому</string>
     <string name="to_heading">"Кому: "</string>
     <string name="toast_bar_fail_synchronization">Не удается подключиться к серверу. Повторите попытку позже.</string>
@@ -1191,7 +1191,7 @@
     <string name="too_large_to_attach_additional">Размер файла не может превышать %1$s.</string>
     <string name="too_large_to_attach_multiple">Некоторые файлы не прикреплены. Размер вложений не может превышать: %1$s.</string>
     <string name="too_large_to_attach_single">Невозможно прикрепить файлы больше %1$s.</string>
-    <string name="toolbar_add_image">добавить картинки</string>
+    <string name="toolbar_add_image">добавить изображения</string>
     <string name="toolbar_part_num">номер абзаца</string>
     <string name="toolbar_part_symbol">символ абзаца</string>
     <string name="topic_merge">Группировать сообщения</string>
