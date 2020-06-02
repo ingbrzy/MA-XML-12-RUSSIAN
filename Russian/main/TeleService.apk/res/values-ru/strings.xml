@@ -805,6 +805,11 @@
   <string name="dialog_alert_title">Внимание</string>
   <string name="dialog_cancel">Отмена</string>
   <string name="dialog_network_priority_title">Приоритет</string>
+  <string name="dialog_ota_change_number_fail">Не удалось изменить номер телефона. Если эта ошибка повторяется, обратитесь к поставщику.</string>
+  <string name="dialog_ota_change_number_lgu">Загрузить USIM?</string>
+  <string name="dialog_ota_change_number_lgu_roaming">Изменение номера телефона в роуминге недоступно.</string>
+  <string name="dialog_ota_change_number_processing">Загрузка USIM…</string>
+  <string name="dialog_ota_change_number_success">Номер телефона успешно изменен</string>  
   <string name="dialog_report">Отправить</string>
   <string name="dialpad_1_letters"/>
   <string name="dialpad_2_letters">ABC</string>
@@ -997,7 +1002,7 @@
   <string name="fiveg_sa_switch_warning_toast">Перезагрузите устройство, чтобы изменения вступили в силу.</string>
   <string name="fiveg_signal_strength1">Сила сигнала 5G :</string>
   <string name="fiveg_switch_status1">Состояние переключателя 5G :</string>
-  <string name="fiveg_switch_title">5G сеть</string>
+  <string name="fiveg_switch_title">Сеть 5G</string>
   <string name="fiveg_upperlayer_indication1">Состояние индикации верхнего уровня :</string>
   <string name="flash_when_ring_summary">Использовать вспышку для уведомления о входящих вызовах</string>
   <string name="flash_when_ring_title">Вспышка при звонке</string>
@@ -1261,7 +1266,7 @@
   <string name="mmiStarted">Выполняется запрос</string>
   <string name="mobile_advanced_dns_server_title">Адрес DNS-сервера</string>
   <string name="mobile_advanced_ip_address_title">IP-адрес</string>
-  <string name="mobile_advanced_nr_network_title">5G сеть</string>
+  <string name="mobile_advanced_nr_network_title">Сеть 5G</string>
   <string name="mobile_connection_management">Мобильная сеть</string>
   <string name="mobile_data">Мобильный интернет </string>
   <string name="mobile_data_activate_button">АКТИВИРОВАТЬ</string>
@@ -1447,8 +1452,8 @@
   <string name="notification_voicemail_text_format">Вызов %s</string>
   <string name="notification_voicemail_title">Новое голосовое сообщение</string>
   <string name="notification_voicemail_title_count">Новое голосовое сообщение (%d)</string>
-  <string name="nr_network_info">Использование 5G сети</string>
-  <string name="nr_usaged_first_used_time">Зарегистрирован в 5G сети</string>
+  <string name="nr_network_info">Использование сети 5G</string>
+  <string name="nr_usaged_first_used_time">Зарегистрирован в сети 5G</string>
   <string name="nr_usaged_module">Модель устройства</string>
   <string name="nr_usaged_network_rate">Наибольшая скорость</string>
   <string name="nr_usaged_network_usaged">Данные за сегодня</string>
