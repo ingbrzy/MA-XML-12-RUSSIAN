@@ -19,20 +19,69 @@
         <item>1 час</item>
         <item>2 часа</item>
     </string-array>
+    <string-array name="blood_types">
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+        <item>A(II) Rh+</item>
+        <item>A(II) Rh-</item>
+        <item>B(III) Rh+</item>
+        <item>B(III) Rh-</item>
+        <item>AB(IV) Rh+</item>
+        <item>AB(IV) Rh-</item>
+        <item>O(I) Rh+</item>
+        <item>O(I) Rh-</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Не указано</item>
+        <item>Родители</item>
+        <item>Сестры</item>
+        <item>Братья</item>
+        <item>Пара</item>
+        <item>Любовники</item>
+        <item>Друзья</item>
+        <item>Коллеги</item>
+        <item>Одноклассники</item>
+    </string-array>    
     <string-array name="energy_unit">
         <item> ккал</item>
         <item> кДж</item>
     </string-array>
+    <string-array name="gender_array">
+        <item>Не указано</item>
+        <item>Мужчина</item>
+        <item>Женщина</item>
+    </string-array>    
     <string-array name="length_unit">
         <item> см</item>
         <item> м</item>
         <item> км</item>
     </string-array>
+    <string-array name="normal_blood_array">
+        <item>Не указана</item>
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>Не указана</item>
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+    </string-array>	
     <string-array name="pager_titles">
         <item>День</item>
         <item>Неделя</item>
         <item>Месяц</item>
     </string-array>
+    <string-array name="rh_blood_array">
+        <item>Не указан</item>
+        <item>Отрицательный</item>
+        <item>Положительный</item>
+    </string-array>	
     <string-array name="run_in_background_state">
         <item>Без ограничений</item>
         <item>Ограничить фоновую активность</item>
@@ -87,4 +136,9 @@
         <item> цзинь</item>
         <item> фунт</item>
     </string-array>
+    <string-array name="yes_no_array">
+        <item>не указан</item>
+        <item>да</item>
+        <item>нет</item>
+    </string-array>	
 </resources>
