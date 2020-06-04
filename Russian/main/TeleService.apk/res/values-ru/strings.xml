@@ -55,7 +55,7 @@
   <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ERROR">Запрос разблокировки PUK не выполнен</string>
   <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_IN_PROGRESS">Запрос разблокировки PUK…</string>
   <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_SUCCESS">Блокировка PUK успешно снята</string>
-  <string name="PERSOSUBSTATE_SIM_CORPORATE_SUCCESS">Блокировка  корппоративной SIM успешно снята</string>
+  <string name="PERSOSUBSTATE_SIM_CORPORATE_SUCCESS">Блокировка корпоративной SIM успешно снята</string>
   <string name="PERSOSUBSTATE_SIM_ICCID_ENTRY">PIN разблокировки ICCID</string>
   <string name="PERSOSUBSTATE_SIM_ICCID_ERROR">Запрос разблокировки ICCID не выполнен</string>
   <string name="PERSOSUBSTATE_SIM_ICCID_IN_PROGRESS">Запрос разблокировки ICCID…</string>
@@ -728,7 +728,7 @@
   <string name="data_disable_warning_with_mms_lgu">"Вы по-прежнему сможете отправлять и получать MMS, если отключите мобильные данные (WCDMA / LTE). Для этого необходимо подключиться к Wi-Fi.
 
 Отключить мобильный интернет?"</string>
-  <string name="data_enable_always_warn">Предепреждать об использовании мобильного интернета</string>
+  <string name="data_enable_always_warn">Предупреждать об использовании мобильного интернета</string>
   <string name="data_enable_summary">Разрешить передачу данных по мобильной сети</string>
   <string name="data_enable_warning">Разрешение всегда использовать мобильный интернет может привести к дополнительным расходам сверх тарифного плана. Подключиться?</string>
   <string name="data_enable_warning_lgu">"Если иное не указано в вашем тарифном плане, использование мобильного интернета может привести к дополнительным расходам.
@@ -2252,7 +2252,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="volte_tips_when_turn_on">Услуги VoLTE от China Telecom предоставляются только в зонах покрытия сети VoLTE. Услуги VoLTE предоставляются оператором связи.</string>
   <string name="vowifi_emergency_notification_channel">Экстренный вызов по Wi-Fi</string>
   <string name="vowifi_emergency_notification_content">Экстренные вызовы доступны только в зонах сотовой связи.</string>
-  <string name="vowifi_emergency_notification_title">Vodafone Wifi вызовы</string>
+  <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi вызовы</string>
   <string name="vowifi_emergency_warning_check">Больше не показывать.</string>
   <string name="vowifi_emergency_warning_message">"Экстренные вызовы невозможны через Wi-Fi вызовы.
 
