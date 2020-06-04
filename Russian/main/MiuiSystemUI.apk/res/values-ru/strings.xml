@@ -178,12 +178,12 @@
     <string name="accessibility_quick_settings_data_saver_changed_on">Экономия трафика включена.</string>
     <string name="accessibility_quick_settings_detail">Быстрые настройки, %s.</string>
     <string name="accessibility_quick_settings_dnd">Не беспокоить.</string>
-    <string name="accessibility_quick_settings_dnd_alarms_on">Режим Не беспокоить включен, только будильники.</string>
-    <string name="accessibility_quick_settings_dnd_changed_off">Режим Не беспокоить отключен.</string>
-    <string name="accessibility_quick_settings_dnd_changed_on">Режим Не беспокоить включен.</string>
-    <string name="accessibility_quick_settings_dnd_none_on">Режим Не беспокоить включен, полная тишина.</string>
-    <string name="accessibility_quick_settings_dnd_off">Режим Не беспокоить отключен.</string>
-    <string name="accessibility_quick_settings_dnd_priority_on">Режим Не беспокоить включен, только важные уведомления.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Режим \"Не беспокоить\" включен, только будильники.</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">Режим \"Не беспокоить\" отключен.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">Режим \"Не беспокоить\" включен.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">Режим \"Не беспокоить\" включен, полная тишина.</string>
+    <string name="accessibility_quick_settings_dnd_off">Режим \"Не беспокоить\" отключен.</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">Режим \"Не беспокоить\" включен, только важные уведомления.</string>
     <string name="accessibility_quick_settings_edit">Изменить порядок настроек.</string>
     <string name="accessibility_quick_settings_expand">Развернуть быстрые настройки.</string>
     <string name="accessibility_quick_settings_flashlight_changed_off">Фонарик отключен.</string>
@@ -443,7 +443,7 @@
     <string name="bluetooth_show_devices_without_names">Показывать устройства Bluetooth без имен</string>
     <string name="bluetooth_show_devices_without_names_summary">Устройства Bluetooth без имен (только MAC-адреса) будут отображаться</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
-    <string name="bluetooth_talkback_computer">Компьтер</string>
+    <string name="bluetooth_talkback_computer">Компьютер</string>
     <string name="bluetooth_talkback_headphone">Наушники</string>
     <string name="bluetooth_talkback_headset">Гарнитура</string>
     <string name="bluetooth_talkback_imaging">Камера</string>
@@ -788,7 +788,7 @@
     <string name="fs_gesture_back_ready_title">Возврат</string>
     <string name="fs_gesture_final_over">Закончить</string>
     <string name="fs_gesture_final_restart">Повторить</string>
-    <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в меню Настройки &gt;  Дополнительно &gt;  Полноэкранная навигация</string>
+    <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в меню Настройки &gt; Дополнительно &gt;  Полноэкранная навигация</string>
     <string name="fs_gesture_final_title">Всё готово!</string>
     <string name="fs_gesture_finish">Отлично!</string>
     <string name="fs_gesture_left_back_ready_summary">Проведите вправо от кромки</string>
@@ -1283,7 +1283,7 @@ d MMMM"</string>
     <string name="multi_face_input_success_name_title">Имя</string>
     <string name="multi_face_list">Данные лица</string>
     <string name="multi_face_name_prefix">"Face "</string>
-    <string name="multi_face_number_reach_limit">Нельзя добавить данные больше чем для 2 лиц</string>
+    <string name="multi_face_number_reach_limit">Нельзя добавить данные более чем для 2 лиц</string>
     <string name="nav_bar">Панель навигации</string>
     <string name="nav_bar_default">(по умолчанию)</string>
     <string name="nav_bar_layout">Расположение кнопок</string>
@@ -1566,7 +1566,7 @@ d MMMM"</string>
     <string name="quick_settings_drivemode_label">За рулем</string>
     <string name="quick_settings_dual_location_label">Двойной GPS</string>
     <string name="quick_settings_edit_label">Сортировка</string>
-    <string name="quick_settings_extreme_batterysaver_label">Максимальное энегосбережение</string>
+    <string name="quick_settings_extreme_batterysaver_label">Максимальное энергосбережение</string>
     <string name="quick_settings_flashlight_label">Фонарик</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_hotspot_label">Точка доступа</string>
@@ -1618,7 +1618,7 @@ d MMMM"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">ОК</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Больше не показывать</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Переключение между сетями</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети, вспомогательная сеть будет отключена.</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети вспомогательная сеть будет отключена.</string>
     <string name="quick_settings_wifi_detail_empty_text">Нет доступных сетей Wi-Fi</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Выберите ближайшую сеть</string>

@@ -235,7 +235,7 @@
   <string name="description">Описание</string>
   <string name="diagnosis_log_send_failed">Ошибка отправки журналов. Повторите попытку.</string>
   <string name="diagnosis_log_sent_format">"Журналы отправлены.
-ID:%s
+ID: %s
 Отправьте этот код руководителю."</string>
   <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Согласен\", вы принимаете нашу Политику конфиденциальности.</string>
   <string name="dialog_privacy_title">Предоставление разрешения</string>
@@ -381,7 +381,7 @@ ID:%s
   <string name="gallery_video_save_video">Создание видео…</string>
   <string name="gallery_video_slow_edit">Замедленная съемка</string>
   <string name="gallery_view_tags">Показать теги</string>
-  <string name="galleryplus_chose_play_speed">Скорость воспроизведения: %1$.1fX speed</string>
+  <string name="galleryplus_chose_play_speed">Скорость воспроизведения: %1$.1fX</string>
   <string name="galleryplus_chose_play_speed_failure">Не удалось изменить скорость воспроизведения</string>
   <string name="galleryplus_click_to_higher_definition">Нажмите дважды для предпросмотра в HD</string>
   <string name="galleryplus_cta_tips">Вы можете помочь нам улучшить наш сервис, зарегистрировавшись в программе улучшения качества и разрешив приложению Mi Видео подключение к интернету. Согласны?</string>
@@ -482,7 +482,7 @@ ID:%s
   <string name="lbl_setting_playback_streaming_auto">Авто</string>
   <string name="lbl_url_alert">Сведения</string>
   <string name="library_roundedimageview_libraryDescription">Быстрый ImageView (Drawable), который поддерживает закругленные углы на основе оригинального примера от Romain Guy.</string>
-  <string name="live_now">Сейчас в эфиле</string>
+  <string name="live_now">Сейчас в эфире</string>
   <string name="live_title">Прямой эфир</string>
   <string name="live_tv_title">Прямой эфир</string>
   <string name="loading">Подождите…</string>
@@ -610,7 +610,7 @@ ID:%s
   <string name="lv_subtitle_synchronization_title">Синхронизация</string>
   <string name="lv_subtitle_title">Субтитры</string>
   <string name="lv_subtitle_track">Субтитры</string>
-  <string name="lv_unhide_prompt">Пароль установлен. Теперь вы можете просматривать нескрытые объекты.</string>
+  <string name="lv_unhide_prompt">Пароль установлен. Теперь вы можете просматривать не скрытые объекты.</string>
   <string name="lv_updating">Обновление…</string>
   <string name="lv_use_notch">Показать вырез</string>
   <string name="lv_videoView_error_text_invalid_progressive_playback">Видео не может быть воспроизведены на этом устройстве.</string>
@@ -1129,7 +1129,7 @@ ID:%s
   <string name="srl_footer_nothing">Больше нет данных</string>
   <string name="srl_footer_pulling">Потяните вниз, чтобы загрузить еще</string>
   <string name="srl_footer_refreshing">Идет обновление…</string>
-  <string name="srl_footer_release">Отпустите. чтобы загрузить еще</string>
+  <string name="srl_footer_release">Отпустите, чтобы загрузить еще</string>
   <string name="srl_header_failed">Ошибка обновления</string>
   <string name="srl_header_finish">Успешное обновление</string>
   <string name="srl_header_loading">Идет загрузка…</string>

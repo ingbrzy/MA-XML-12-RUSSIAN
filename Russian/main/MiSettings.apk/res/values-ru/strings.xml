@@ -304,10 +304,10 @@
     <string name="touch_description">Оптимизация кнопок и ярлыков для минимизации случайных касаний</string>
     <string name="touch_title">Улучшенное сенсорное управление</string>
     <string name="trend_from_yesterday_equal">Как и вчера</string>
-    <string name="trend_from_yesterday_less">Меньше чем вчера на %1$s</string>
-    <string name="trend_from_yesterday_less_simple">&lt; чем вчера на %1$s</string>
-    <string name="trend_from_yesterday_more">Больше чем вчера на %1$s</string>
-    <string name="trend_from_yesterday_more_simple">&gt; чем вчера на %1$s</string>
+    <string name="trend_from_yesterday_less">Меньше на %1$s, чем вчера</string>
+    <string name="trend_from_yesterday_less_simple">&lt; на %1$s, чем вчера</string>
+    <string name="trend_from_yesterday_more">Больше на %1$s, чем вчера</string>
+    <string name="trend_from_yesterday_more_simple">&gt; на %1$s, чем вчера</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
@@ -331,7 +331,7 @@
     <string name="usage_app_system_app_summary">Ограничение времени экрана для системных приложений недоступно</string>
     <string name="usage_app_weekday_limit">Рабочие дни</string>
     <string name="usage_app_weekend_limit">Выходные дни</string>
-    <string name="usage_beat_fans">Лучше чем %s пользователей</string>
+    <string name="usage_beat_fans">Лучше, чем %s пользователей</string>
     <string name="usage_continuous_days">Период</string>
     <string name="usage_creating_weekly_report">Создание еженедельного отчета…</string>
     <string name="usage_current_week_usage">%s в среднем за 7 дней</string>
@@ -373,7 +373,7 @@
     <string name="usage_home_premission_second_summary">Для работы приложению требуется разрешения для сбора вашей личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать приложение. Вы можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Нажав \"Согласен\", вы принимаете &amp;lt;a href=%1s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-    <string name="usage_home_premission_second_summary_new">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить разрешения, вы не сможете использовать приложение. Вы всегда можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции. По дополнительным вопросам о конфиденциальности вы можете связаться по адресу privacy@xiaomi.com</string>
+    <string name="usage_home_premission_second_summary_new">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить разрешения, вы не сможете использовать приложение. Вы всегда можете отозвать свою авторизацию в меню Время экрана &gt; Настройки &gt; Отключение функции. По дополнительным вопросам о конфиденциальности вы можете связаться по адресу privacy@xiaomi.com</string>
     <string name="usage_new_home_app_limit_summary">Установите ежедневный лимит для приложения</string>
     <string name="usage_new_home_app_limit_title">Лимит времени экрана</string>
     <string name="usage_new_home_average">"Среднее "</string>
@@ -483,7 +483,7 @@
     <string name="usage_state_notification_manager">Уведомления приложений</string>
     <string name="usage_state_num_level">"Уровень %d: "</string>
     <string name="usage_state_open_focus_mode">Включить режим медитации</string>
-    <string name="usage_state_over_p">Лучше чем</string>
+    <string name="usage_state_over_p">Лучше, чем</string>
     <string name="usage_state_percent">%s%%</string>
     <string name="usage_state_remind_new_summary">Уведомлять о достижении установленного лимита времени</string>
     <string name="usage_state_remind_summary">Предупреждение о лимите времени экрана</string>
@@ -502,7 +502,7 @@
     <string name="usage_state_thursday">Чт</string>
     <string name="usage_state_time_end">Достигнут лимит времени экрана на сегодня</string>
     <string name="usage_state_today">Сегодня</string>
-    <string name="usage_state_today_total_text">Cегодня</string>
+    <string name="usage_state_today_total_text">Сегодня</string>
     <string name="usage_state_tuesday">Вт</string>
     <string name="usage_state_turn_on">Включить</string>
     <string name="usage_state_unlock_mourth_day">Разблокировок: %s</string>

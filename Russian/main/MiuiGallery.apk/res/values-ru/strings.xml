@@ -949,7 +949,7 @@
   <string name="macarons_download_dialog_message">Загрузить плагин Волшебная виньетка?</string>
   <string name="macarons_download_dialog_title">Загрузка плагина</string>
   <string name="macarons_download_dialog_without_wifi_confirm">Загрузить</string>
-  <string name="macarons_download_dialog_without_wifi_message">Не удалось подключиться к Wi-Fi. Вы можете использвать мобильный интернет для загрузки плагина Волшебная виньетка."</string>
+  <string name="macarons_download_dialog_without_wifi_message">Не удалось подключиться к Wi-Fi. Вы можете использовать мобильный интернет для загрузки плагина Волшебная виньетка."</string>
     <string name="macarons_download_later">Повторите попытку позже</string>
   <string name="macarons_download_network_fail">Не удалось загрузить плагин. Проверьте настройки сети и повторите попытку.</string>
   <string name="macarons_download_other_fail">Не удалось загрузить из-за ошибки</string>
@@ -1673,7 +1673,7 @@
   <string name="special_type_eye_repair">Исправление закрытых глаз при помощи AI</string>
   <string name="special_type_hdr">HDR</string>
   <string name="special_type_log">LOG</string>
-  <string name="special_type_night_beauty">AI портрет при изкой освещенности</string>
+  <string name="special_type_night_beauty">AI портрет при низкой освещенности</string>
   <string name="special_type_night_mode">AI ночной режим</string>
   <string name="special_type_portrait">AI портретная светопись</string>
   <string name="special_type_wide_angle">AI ультра-широкий угол</string>
@@ -1957,7 +1957,7 @@
   <string name="video_editor_smart_effect_fastslow">Движение</string>
   <string name="video_editor_smart_effect_freesze">Кукольный мультфильм</string>
   <string name="video_editor_smart_effect_halo">Сияние</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Этот эффект лучше всего подходит для 120 fps видео.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Этот эффект лучше всего подходит для видео 120 кадров/сек.</string>
   <string name="video_editor_smart_effect_movie">Фильм</string>
   <string name="video_editor_smart_effect_none">Нет</string>
   <string name="video_editor_smart_effect_radical">Позитив</string>
@@ -2052,7 +2052,7 @@
   <string name="vlog_clip_delete_dialog_btn_cancel">Отмена</string>
   <string name="vlog_clip_delete_dialog_btn_delete">Удалить</string>
   <string name="vlog_clip_delete_dialog_btn_msg">Удалить это видео?</string>
-  <string name="vlog_clip_duration_time">%ss</string>
+  <string name="vlog_clip_duration_time">%s сек.</string>
   <string name="vlog_clip_is_reversed">Обратное воспроизведение</string>
   <string name="vlog_clip_select_trans">Эффект перехода</string>
   <string name="vlog_clip_sort">Упорядочить видео</string>

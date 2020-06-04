@@ -139,7 +139,7 @@
   <string name="cm_privacy_dialog_cancel">Отмена</string>
   <string name="cm_privacy_dialog_spannable_tips">Политика конфиденциальности</string>
   <string name="cm_privacy_dialog_tips">"Услуги Умные сообщения предоставляются вашим оператором. Для предоставления этих услуг приложению необходимы подключение к интернету и доступ к вашему местоположению. Вы должны согласиться на %1s вашего оператора, прежде чем начать пользоваться этими услугами. Вы согласны?"</string>
-  <string name="cm_privacy_dialog_title">Attention</string>
+  <string name="cm_privacy_dialog_title">Внимание</string>
   <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
   <string name="complain_message_title">Отчет</string>
   <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
@@ -287,7 +287,7 @@
   <string name="favorite_at_time">Добавлено в избранные: %1s</string>
   <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из списка разрешенных.</string>
   <string name="feature_mx">Mi Сообщения</string>
-  <string name="feature_mx_summary">&lt;b&gt;Mi Сообщения позволяет отправлять сообщения другим пользователям Mi Сообщения через интернет без дополнительной оплаты.&lt;/b&gt;.  Для активации этой услуги необходима отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение. Перед использованием этой функции прочитайте и согласитесь с нашими &lt;font color="#B3000000"&gt;Пользовательским соглашением&lt;/font&gt; и &lt;font color="#B3000000"&gt;Политикой Конфиденциальности&lt;/font&gt;.</string>
+  <string name="feature_mx_summary">&lt;b&gt;Mi Сообщения позволяет отправлять сообщения другим пользователям Mi Сообщения через интернет без дополнительной оплаты.&lt;/b&gt;.  Для активации этой услуги необходима отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение. Перед использованием этой функции прочитайте и согласитесь с нашими &lt;font color="#B3000000"&gt;Пользовательским соглашением&lt;/font&gt; и &lt;font color="#B3000000"&gt;Политикой конфиденциальности&lt;/font&gt;.</string>
   <string name="feature_smart_sms">Умные сообщения</string>
   <string name="feature_smart_sms_summary">"&lt;b&gt;Умные сообщения обеспечивают распознавание ID отправителя и услуги интеллектуального меню&lt;/b&gt;". Умные сообщения частично предоставлены Yulore. Перед использованием этой функции прочитайте и согласитесь с "&lt;font color="#B3000000"&gt;Политикой конфиденциальности&lt;/font&gt; Yulore."</string>
   <string name="festival_sms_loading">Загрузка…</string>
@@ -780,7 +780,7 @@
   <string name="rcs_chatdetail_menu_delete_success">Успешно удалено</string>
   <string name="rcs_chatdetail_menu_more_chabot">Дополнительная информация</string>
   <string name="rcs_chatdetail_menu_post">Отчет</string>
-  <string name="rcs_chatdetail_menu_remove_black">Разбокировать</string>
+  <string name="rcs_chatdetail_menu_remove_black">Разблокировать</string>
   <string name="rcs_chatdetail_menu_save_black_fail">Не удалось заблокировать. Повторите попытку.</string>
   <string name="rcs_chatdetail_menu_save_black_success">Успешно заблокировано</string>
   <string name="rcs_chatdetail_more_adddress">Адрес</string>
@@ -817,7 +817,7 @@
   <string name="rcs_msg">Сообщения China Mobile</string>
   <string name="rcs_my_black_chatbot_title">Черный список</string>
   <string name="rcs_not_online">Невозможно использовать сообщения China Mobile. Проверьте настройки сети и повторите попытку.</string>
-  <string name="rcs_offline">Не удалось войти в UC. Повторите попытку позже..</string>
+  <string name="rcs_offline">Не удалось войти в UC. Повторите попытку позже.</string>
   <string name="rcs_offline_hint">Сообщения China Mobile не в сети. Пересылка невозможна.</string>
   <string name="rcs_pref_button_login">Вход</string>
   <string name="rcs_pref_button_logout">Выход</string>
@@ -848,7 +848,7 @@
   <string name="rcs_search_group_server">Онлайн</string>
   <string name="rcs_search_result_empty">Не удалось найти мини-приложения</string>
   <string name="rcs_search_result_server_data_empty">Не удалось найти мини-приложения</string>
-  <string name="rcs_send_hello">Hi!</string>
+  <string name="rcs_send_hello">Привет!</string>
   <string name="rcs_send_rms_remind_change">Настройки</string>
   <string name="rcs_send_rms_remind_desp">Сообщения China Mobile - это служба обмена мгновенными сообщениями, предоставленная China Mobile. Вы можете отключить эту функцию в настройках.</string>
   <string name="rcs_send_rms_remind_title">Отправляйте сообщения через China Mobile</string>
@@ -1110,8 +1110,8 @@
   <string name="system_permission_declare_privacy_declare">Для нормальной работы %1s необходим сбор ваших данных и следующие разрешения:</string>
   <string name="system_permission_declare_privacy_declare_new">Это приложение должно подключаться к Интернету и требуются следующие разрешения для нормальной работы:</string>
   <string name="system_permission_declare_revoke_path">Вы можете отменить авторизацию и отключить сервисы в настройках Сообщений.</string>
-  <string name="system_permission_declare_single_link">Прочитайте и примите  %1s перед использованием этого сервиса.</string>
-  <string name="system_permission_declare_triple_link" formatted="false">Прочитайте и примите  %1s, %2s, и %3s перед использованием этих сервисов.</string>
+  <string name="system_permission_declare_single_link">Прочитайте и примите %1s перед использованием этого сервиса.</string>
+  <string name="system_permission_declare_triple_link" formatted="false">Прочитайте и примите %1s, %2s, и %3s перед использованием этих сервисов.</string>
   <string name="system_permission_declare_use_network">Подключение к сети</string>
   <string name="system_permission_perm_answer_call">Осуществление вызовов</string>
   <string name="system_permission_perm_read_mms">Чтение MMS</string>
