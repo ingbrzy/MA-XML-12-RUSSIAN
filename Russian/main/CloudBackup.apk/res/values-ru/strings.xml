@@ -113,8 +113,7 @@
     <string name="cloud_backup_detail_manage">Резервные копии</string>
     <string name="cloud_backup_detail_state">Резервное копирование по расписанию</string>
     <string name="cloud_backup_detail_state_summary">Автоматически создавать резервные копии при подключении к Wi-Fi</string>
-<!-- ### FROM SOURCE -->
-    <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
+    <string name="cloud_backup_detail_state_summary_china">Автоматически создавать резервные копии при подключении к Wi-Fi</string>
     <string name="cloud_backup_detail_time">Последняя копия: %1$s</string>
     <string name="cloud_backup_detail_title">Рабочий стол, приложения и настройки</string>
     <string name="cloud_backup_have_data">Найдена резервная копия в Xiaomi Cloud</string>
@@ -150,11 +149,9 @@
     <string name="dialog_cancel_backup_title">Отменить резервное копирование?</string>
     <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Xiaomi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_title_require_wlan">Подключитесь к Wi-Fi</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
+    <string name="dialog_title_require_wlan_china">Подключитесь к Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Вычисление размера…</string>
     <string name="doing_restore_home">Восстановление рабочего стола и настроек…</string>
@@ -184,7 +181,6 @@
     <string name="menu_item_sort">Сортировка</string>
     <string name="menu_item_sort_name">Название</string>
     <string name="menu_item_sort_size">Размер</string>
-<!-- ### FROM SOURCE -->
     <string name="miui_device_name">Android</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
@@ -211,8 +207,6 @@
     <string name="open_wifi_setting">Настройки Wi-Fi</string>
     <string name="other_device_main_space">Первое пространство</string>
     <string name="other_device_second_space">Второе пространство</string>
-<!-- ### FROM SOURCE -->
-<!-- ### FROM SOURCE -->
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
     <string name="provision_background_restore_more_data">Восстанавливать объекты в фоновом режиме</string>
@@ -292,5 +286,4 @@
     <string name="v7_preference_off">Откл.</string>
     <string name="v7_preference_on">Вкл.</string>
     <string name="wait_icon_download">Загрузка значков приложений</string>
-<!-- ### FROM SOURCE -->
 </resources>

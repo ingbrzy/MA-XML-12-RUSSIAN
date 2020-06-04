@@ -14,8 +14,6 @@
   <string name="avast_dialog_header">При использовании функции ID вашего устройства шифруется и отправляется на серверы Avast (%s).</string>
   <string name="avast_dialog_policy">Политика конфиденциальности</string>
   <string name="avast_dialog_title">Политика конфиденциальности Avast</string>
-<!-- ### FROM SOURCE -->
-  <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
   <string name="avast_virus_type_adware_description">Вирус является рекламным ПО. Он автоматически создает рекламные объявления.</string>
   <string name="avast_virus_type_cryportor_description">Вирус является шифровальщиком. Это вредоносная программа, которая передается посредством самовоспроизводства в памяти.</string>
   <string name="avast_virus_type_dropper_description">Вирус является дроппером. Он несет в себе код для установки другого вредоносного ПО.</string>
@@ -35,10 +33,7 @@
   <string name="avl_dialog_header">При использовании функции ID вашего устройства шифруется и отправляется на серверы AVL (%s).</string>
   <string name="avl_dialog_policy">Политика конфиденциальности</string>
   <string name="avl_dialog_title">Политика конфиденциальности AVL</string>
-<!-- ### FROM SOURCE -->
-  <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
   <string name="common_ids_permission_label">Разрешение Avast общих идентификаторов.</string>
-<!-- ### FROM SOURCE -->
   <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Привет, мир!</string>
   <string name="menu_settings">Настройки</string>
@@ -47,8 +42,5 @@
   <string name="tencent_dialog_header">При использовании функции ID вашего устройства шифруется и отправляется на серверы Tencent (%s).</string>
   <string name="tencent_dialog_policy">Политика конфиденциальности</string>
   <string name="tencent_dialog_title">Политика конфиденциальности Tencent</string>
-<!-- ### FROM SOURCE -->
-  <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
-<!-- ### FROM SOURCE -->
   <string name="title_activity_main">MainActivity</string>
 </resources>

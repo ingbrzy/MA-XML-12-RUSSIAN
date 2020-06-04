@@ -31,16 +31,6 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibilty_back_button">返回</string>
@@ -308,7 +298,6 @@
     <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
     <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_manager_power_consume">%.1f%%</string>
-    <string name="app_name">miot-device-lib</string>
     <string name="app_name_danfa">@string/app_name</string>
     <string name="app_setting_fail">设置失败</string>
     <string name="app_size">%1$s</string>
@@ -1952,7 +1941,6 @@
     <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
     <string name="search_google">Google</string>
     <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
-    <string name="search_menu_title">Поиск</string>
     <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
     <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
     <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
