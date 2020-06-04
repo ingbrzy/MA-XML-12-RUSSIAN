@@ -163,7 +163,7 @@
     <string name="collapse">Скрыть</string>
     <string name="collect_diagnosis_log">Собрать журнал диагностики</string>
     <string name="complete_preference_basic_info">Заполните свой профиль</string>
-    <string name="completed">"Заверешено "</string>
+    <string name="completed">"Завершено "</string>
     <string name="completed_stand">Разминка завершена</string>
     <string name="confirm_opening">Подтвердите открытие</string>
     <string name="contact_format">%1$s | %2$s</string>
@@ -197,9 +197,9 @@
     <string name="data_source_data_updating">Обновление данных…</string>
     <string name="data_source_list_description">Приложение Здоровье получает данные о состоянии здоровья (%1$s) из этих источников. Если данные дублируются из нескольких источников, будут отображаться данные, которые появляются первыми.</string>
     <string name="data_source_manage">Управление источниками данных</string>
-    <string name="data_source_not_support_hm_description">"%1$s не предоставляет данные о количестве шагов. Попробуйте другой источник данных в Еще &gt; Источники данных."</string>
-    <string name="data_source_not_support_hm_description_consume">Выбранный источник данных (%1$s) не содержит подробных данных о потреблении. Вы можете выбрать другой источник данных в Еще &gt; Источники данных.</string>
-    <string name="data_source_not_support_hm_description_duration">Выбранный источник данных (%1$s) не содержит сведений о продолжительности активности. Вы можете выбрать другой источник данных в Еще &gt; Источники данных.</string>
+    <string name="data_source_not_support_hm_description">"%1$s не предоставляет данные о количестве шагов. Попробуйте другой источник данных в Настройки&gt; Источники данных."</string>
+    <string name="data_source_not_support_hm_description_consume">Выбранный источник данных (%1$s) не содержит подробных данных о потреблении. Вы можете выбрать другой источник данных в Настройки&gt; Источники данных.</string>
+    <string name="data_source_not_support_hm_description_duration">Выбранный источник данных (%1$s) не содержит сведений о продолжительности активности. Вы можете выбрать другой источник данных в Настройки&gt; Источники данных.</string>
     <string name="date">Дата</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
@@ -290,7 +290,7 @@ ID:%s
     <string name="dialog_exit">Выход</string>
     <string name="dialog_feedback_content">Если вы не согласны предоставить разрешение, вы не сможете использовать некоторые функции этого приложения; тем не менее, основные функции приложения по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать авторизацию в настройках.</string>
     <string name="dialog_feedback_purpose">Приложению требуется доступ к хранилищу, чтобы отправлять отзывы.</string>
-    <string name="dialog_feedback_purpose2">Для отправки озывов</string>
+    <string name="dialog_feedback_purpose2">Для отправки отзывов</string>
     <string name="dialog_feedback_title">Обратная связь</string>
     <string name="dialog_health_applicator">Приложение Здоровье в настоящее время предоставляет 
 услуги только взрослым.</string>
@@ -344,15 +344,15 @@ ID:%s
     <string name="exercise">Тренировка</string>
     <string name="exercise_consume">Сожжено %1$d Кал</string>
     <string name="exercise_consume_description">Согласно диетическим рекомендациям для жителей Китая, ежедневная физическая активность должна потреблять более 15% от общего объема энергозатрат. Энергия, потраченная на вашу ежедневную физическую активность, суммируется здесь, но не включает основные метаболические расходы. Если у вас есть проблемы с контролем веса, вам также необходимо сосредоточиться на потреблении энергии.</string>
-    <string name="exercise_consume_exercise_description">Продолжительность упражнения - это время, затрачиваемое на упражнения средней и высокой интенсивности. По данным китайских органов здравоохранения, еженедельная продолжительность упражнений должна составлять не менее 150 минут. Время, затраченное на занятия с высокой интенсивностью, такие как быстрая ходьба (частота более 100 шагов в минуту), бег и подъем по лестнице, будет добавлено к продолжительности ваших упражнений..</string>
+    <string name="exercise_consume_exercise_description">Продолжительность упражнения - это время, затрачиваемое на упражнения средней и высокой интенсивности. По данным китайских органов здравоохранения, еженедельная продолжительность упражнений должна составлять не менее 150 минут. Время, затраченное на занятия с высокой интенсивностью, такие как быстрая ходьба (частота более 100 шагов в минуту), бег и подъем по лестнице, будет добавлено к продолжительности ваших упражнений...</string>
     <string name="exercise_correct">Корректно</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве калорий.
-Вы можете выбрать другой источник данных в Еще &gt; Источники данных."</string>
+Вы можете выбрать другой источник данных в Настройки&gt; Источники данных."</string>
     <string name="exercise_detail_no_exercise_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о длительности упражнения.
-Вы можете выбрать другой источник данных в Еще &gt; Источники данных."</string>
+Вы можете выбрать другой источник данных в Настройки&gt; Источники данных."</string>
     <string name="exercise_detail_no_steps_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве шагов.
-Вы можете выбрать другой источник данных в Еще &gt; Источники данных."</string>
+Вы можете выбрать другой источник данных в Настройки&gt; Источники данных."</string>
     <string name="exercise_duration">Длительность упражнения</string>
     <string name="exercise_duration_consume">Длительность: %1$s | Сожжено: %2$s</string>
     <string name="exercise_fast_description" formatted="false">%1s (%2s)</string>
@@ -551,7 +551,7 @@ ID:%s
     <string name="maximum">Максимум</string>
     <string name="maximum_pace">Наивысший темп</string>
     <string name="measure_date">Время измерения</string>
-    <string name="medical_file_desc1">Важная информация для первой медицинской помощи в черезвычайных ситуациях</string>
+    <string name="medical_file_desc1">Важная информация для первой медицинской помощи в чрезвычайных ситуациях</string>
     <string name="medical_file_desc2">Заполните персональный файл первой медицинской помощи, в случае чрезвычайной ситуации, он поможет медицинскому персоналу получить информацию для оказания неотложной медицинской помощи.</string>
     <string name="medical_file_desc3">Поддержка работоспособности облачной синхронизации и резервного копирования данных. Xiaomi Health очень уважает личную конфиденциальность, вся информация будет строго защищена.</string>
     <string name="medical_first_aid_files">Файл первой медицинской помощи</string>
@@ -693,7 +693,7 @@ ID:%s
     <string name="not_up_to_standard">Ниже стандарта</string>
     <string name="number_divided">%1$d/%2$d</string>
     <string name="oauth_account_failed">Не удалось получить доступ к аккаунту Xiaomi </string>
-    <string name="oauth_account_failed_desc">Xiaomi health необходимо использовать ваш аккаунт Xiaomi для добавления источников данных. Чтобы продолжить, необходимо перейти на страницу аккаунта Xiaomi для настройки.</string>
+    <string name="oauth_account_failed_desc">Xiaomi Health необходимо использовать ваш аккаунт Xiaomi для добавления источников данных. Чтобы продолжить, необходимо перейти на страницу аккаунта Xiaomi для настройки.</string>
     <string name="ok">OK</string>
     <string name="open">Включить</string>
     <string name="open_data_sync_description">Включите синхронизацию с облаком для синхронизации данных о состоянии здоровья из других источников.</string>
@@ -946,7 +946,7 @@ ID:%s
     <string name="snore_detection_enable">Обнаружение храпа и разговора</string>
     <string name="snore_detection_guide_one_description">Звук будет записан во время сна. Машинное обучение позволяет приложению Здоровье обнаруживать храп, разговоры и громкие шумы и сохранять записи на вашем устройстве.</string>
     <string name="snore_detection_guide_one_title">Запись звука с помощью микрофона</string>
-    <string name="snore_detection_guide_schedule_suggest">Микрофон будет включаться и выключаться в соответствии с вашим графиком сна. Установите график сна, чтобы он работал&gt;</string>
+    <string name="snore_detection_guide_schedule_suggest">Микрофон будет включаться и выключаться в соответствии с вашим графиком сна. Установите график сна, чтобы он работал &gt;</string>
     <string name="snore_detection_guide_schedule_suggest_details">Микрофон будет включен во время сна, чтобы проанализировать ваш цикл сна. Чтобы сделать статистику более точной, установите время сна в часах.</string>
     <string name="snore_detection_guide_three_description">Убедитесь, что устройство достаточно заряжено, прежде чем ложиться спать. Низкий заряд батареи может прервать запись звука.</string>
     <string name="snore_detection_guide_three_title">Держите устройство заряженным</string>
@@ -1075,9 +1075,9 @@ ID:%s
     <string name="tb_exercise_consume_normal">Сожжено калорий: %1$d. %2$s. Нажмите чтобы посмотреть подробную информацию.</string>
     <string name="tb_exercise_detail_consume_daily_enough">Сожжено калорий: %1$d. Тренировки было достаточно.</string>
     <string name="tb_exercise_detail_consume_daily_not_enough">Сожжено калорий: %1$d. Тренировка не была достаточно продуктивной.</string>
-    <string name="tb_exercise_detail_consume_no_data">Нет информации о сожженых калориях</string>
+    <string name="tb_exercise_detail_consume_no_data">Нет информации о сожженных калориях</string>
     <string name="tb_exercise_detail_consume_w_m_normal">В среднем: %1$d. Всего сожжено калорий: %2$d.</string>
-    <string name="tb_exercise_detail_data">Просмостр статистики: %1$s</string>
+    <string name="tb_exercise_detail_data">Просмотр статистики: %1$s</string>
     <string name="tb_exercise_detail_duration_daily_enough">Продолжительность тренировки в минутах: %1$d. Тренировки было достаточно.</string>
     <string name="tb_exercise_detail_duration_daily_not_enough">"Продолжительность тренировки в минутах: %1$d. Тренировка не была достаточно продуктивной."</string>
     <string name="tb_exercise_detail_duration_no_data">Нет информации о продолжительности тренировки</string>

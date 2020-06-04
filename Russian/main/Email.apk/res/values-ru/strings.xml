@@ -154,7 +154,7 @@
     <string name="account_setup_outgoing_port_label">Порт</string>
     <string name="account_setup_outgoing_require_login_label">Необходимо выполнить вход</string>
     <string name="account_setup_outgoing_smtp_server_label">Сервер SMTP</string>
-    <string name="account_setup_security_policies_required_fmt">"Сервер %s  требует разрешения удаленно контролировать некоторые функции безопасности вашего устройства Android. Завершить настройку этого аккаунта?"</string>
+    <string name="account_setup_security_policies_required_fmt">"Сервер %s требует разрешения удаленно контролировать некоторые функции безопасности вашего устройства Android. Завершить настройку этого аккаунта?"</string>
     <string name="account_setup_security_required_title">Удаленное управление безопасностью</string>
     <string name="account_setup_server_acc_manager_title">Аккаунты</string>
     <string name="account_setup_username_password_toast">Введите действительное имя пользователя и пароль.</string>
@@ -250,7 +250,7 @@
     <string name="bill_center_setting_head">Импорт информации из этих аккаунтов</string>
     <string name="bill_cycle_text">Периодичность выставления счетов</string>
     <string name="bill_remind">Напоминание о погашении</string>
-    <string name="bill_remind_due">Погашение производится по %s , нажмите для просмотра</string>
+    <string name="bill_remind_due">Погашение производится по %s, нажмите для просмотра</string>
     <string name="blank_feedback_toast">Невозможно отправить пустой отчет</string>
     <string name="body_forward_email_text">[Переслать]</string>
     <string name="body_hint">Написать письмо</string>
@@ -966,7 +966,7 @@
     <string name="qq_login_get_auth">Включите защиту паролем, если вы не можете получить SMS</string>
     <string name="qq_login_help_bottom_tip">"Если вы забыли свой пароль или вам необходимо проверить состояние своей учетной записи, воспользуйтесь веб-версией QQ Mail. Вы также можете получить помощь в WeChat: "</string>
     <string name="qq_login_help_details1">1. Пароль QQ можно использовать, если в протоколах IMAP/Exchange не был установлен независимый пароль или код авторизации.</string>
-    <string name="qq_login_help_details2">2. Независимый пароль можно использовать, если для протоколов  IMAP/Exchange не был установлен код авторизации.</string>
+    <string name="qq_login_help_details2">2. Независимый пароль можно использовать, если для протоколов IMAP/Exchange не был установлен код авторизации.</string>
     <string name="qq_login_help_details3">"3. Коды авторизации сторонних почтовых клиентов, также можно использовать для входа в систему. Если вы забыли свой код, перейдите по этой ссылке: "</string>
     <string name="qq_login_help_title">QQ/Независимый пароль/Код авторизации:</string>
     <string name="qq_login_notice">"Примечание: если вы уже установили пароль, необходимо подтвердить его при входе в систему."</string>
@@ -1040,7 +1040,7 @@
     <string name="release_to_refresh">Отпустите для обновления</string>
     <string name="remind_attachment_size_limit">Размер письма не должен превышать %s МБ</string>
     <string name="remote_search_body_too_large_prompt">"Это письмо слишком длинное.
-Дождитесь полной синхронизации или просмотрите его на омпьютере."</string>
+Дождитесь полной синхронизации или просмотрите его на компьютере."</string>
     <string name="remove_account">Удалить аккаунт</string>
     <string name="remove_folder">Удалить из папки \"%1$s\"</string>
     <string name="remove_star">Снять отметку</string>
@@ -1078,7 +1078,7 @@
     <string name="search_tabs_name_subject">Тема</string>
     <string name="search_title">Единая электронная почта</string>
     <string name="search_txt_size_limit_prompt">Поисковой запрос должен содержать более 3 символов</string>
-    <string name="security_changed_ticker_fmt">Аккаунт \"%s\" изменил настройки безопасности;никаких действий от пользователя не требуется.</string>
+    <string name="security_changed_ticker_fmt">Аккаунт \"%s\" изменил настройки безопасности, никаких действий от пользователя не требуется.</string>
     <string name="security_needed_ticker_fmt">Аккаунт \"%s\" требует обновление настроек безопасности.</string>
     <string name="security_notification_content_change_title">Политика безопасности изменена</string>
     <string name="security_notification_content_unsupported_title">Политика безопасности не принята</string>
@@ -1206,7 +1206,7 @@
     <string name="translation_technology_support">Техническая поддержка предоставляется iciba.com</string>
     <string name="trash_folder_selection_title">Выберите корзину на сервере для \"%s\"</string>
     <string name="try_exchange_login">Войти с помощью EXCHANGE</string>
-    <string name="turn_auto_sync_on_dialog_body">Изменения, внесенные вами в приложения и аккаунты помимо Gmail будут синхронизированы с интернетом, остальными устройствами, и вашим %1$s.</string>
+    <string name="turn_auto_sync_on_dialog_body">Изменения, внесенные вами в приложения и аккаунты помимо Gmail, будут синхронизированы с интернетом, остальными устройствами, и вашим %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Включить</string>
     <string name="turn_auto_sync_on_dialog_title">Включить автоматическую синхронизацию?</string>
     <string name="unbind_dialog_text">"Ваши электронные письма больше не будут анализироваться.

@@ -34,7 +34,7 @@
   <string name="cannot_use_mi_huanji_summary">Похоже, MIUI сейчас выполняет резервное копирование. Остановите текущее резервное копирование или перезагрузите устройство, чтобы Mi Mover мог начать передачу.</string>
   <string name="cannot_use_mi_huanji_title">Не могу перенести сейчас</string>
   <string name="check_phone_error_title">Синхронизация выключена</string>
-  <string name="check_phone_io_error">Не удается подключиться к сети</string>
+  <string name="check_phone_io_error">Не удалось подключиться к сети</string>
   <string name="clear_old_task_failed">Не удалось удалить старые задачи</string>
   <string name="clearable_edittext_clear_description">Очистить</string>
   <string name="close">Закрыть</string>
@@ -158,7 +158,7 @@
   <string name="hsa_code_null">Код подтверждения не может быть пустым</string>
   <string name="hsa_input_tip">Ваш Apple ID использует двухфакторную аутентификацию. Введите код подтверждения.</string>
   <string name="hsa_send_again">Повторить отправку</string>
-  <string name="hsa_send_again_countdown">Повторить отправку (%ds)</string>
+  <string name="hsa_send_again_countdown">Повторить отправку (%d сек.)</string>
   <string name="hsa_send_failed">Не удалось отправить код подтверждения. Подождите минуту или две и попробуйте снова.</string>
   <string name="hsa_sending">Отправка…</string>
   <string name="hsa_tip_message">Если вы не можете получить код подтверждения, убедитесь, что вы уже выполнили вход в iCloud на своем устройстве Apple.</string>
@@ -455,7 +455,7 @@
   <string name="task_backup_cancel_progress">Отмена…</string>
   <string name="task_canceled_all_local">Отменено</string>
   <string name="task_pending">Ожидание…</string>
-  <string name="text_timeout_retry">Не удалось подключиться Попробуйте еще раз.</string>
+  <string name="text_timeout_retry">Не удалось подключиться. Попробуйте еще раз.</string>
   <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
   <string name="the_anti_aggression_day">День борьбы с агрессией</string>
   <string name="the_arbor_day">День посадки деревьев</string>
@@ -504,7 +504,7 @@
   <string name="time_picker_label_minute">М</string>
   <string name="time_spent">Время: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
   <string name="title_request_package_stats_perm">Требуются разрешения</string>
-  <string name="today">Cегодня</string>
+  <string name="today">Сегодня</string>
   <string name="tomorrow">Завтра</string>
   <string name="trans_detail_item_app_data_skip_data">Не удалось передать данные приложения</string>
   <string name="trans_detail_item_app_skip_data">Не удалось переместить это приложение</string>

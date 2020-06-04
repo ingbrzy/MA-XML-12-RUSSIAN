@@ -27,9 +27,8 @@
   <string name="abc_shareactionprovider_share_with">Поделиться с</string>
   <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
   <string name="abc_toolbar_collapse_description">Свернуть</string>
-  <string name="about_download_fail">"Ошибка загрузки"</string>
-<!-- ### FROM SOURCE -->
-  <string name="about_downloading">Downloading %s</string>
+  <string name="about_download_fail">Ошибка загрузки</string>
+  <string name="about_downloading">Загрузка %s</string>
   <string name="about_item_function">Новые возможности</string>
   <string name="about_net_error">Проверьте настройки сети и повторите попытку.</string>
   <string name="about_newest">Карусель обоев устарела.</string>
@@ -273,11 +272,9 @@ ID:%s
   <string name="google_application_id"/>
   <string name="goto_sign_up">Создать аккаунт</string>
   <string name="history_list_no_data">Ничего нет</string>
-<!-- ### FROM SOURCE -->
   <string name="hour_1">Каждый час</string>
   <string name="hour_3">Каждые 3 часа</string>
-<!-- ### FROM SOURCE -->
-  <string name="icon_content_description">Dialog Icon</string>
+  <string name="icon_content_description">Значок диалога</string>
   <string name="idbct_desc">Выбор качества обоев</string>
   <string name="idbct_opt_auto_select_desc_text">Загрузка в обычном качестве по мобильному 
  интернету и загрузка в HD качестве по Wi-Fi</string>
@@ -638,7 +635,7 @@ mm"</string>
   <string name="shield_tag_list_title">Заблокированные</string>
   <string name="shield_tag_select_title">Заблокированные</string>
   <string name="shortcut_ask">Разрешить создание ярлыков в Безопасность</string>
-  <string name="shortcut_created">Ярлык  создан</string>
+  <string name="shortcut_created">Ярлык создан</string>
   <string name="shortcut_exist">Ярлык уже существует</string>
   <string name="shortcut_failed">Не удалось создать ярлык</string>
   <string name="show_wallpaper_loop_entry_title">Настройки слайд-шоу</string>
@@ -650,7 +647,7 @@ mm"</string>
   <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
   <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
   <string name="sns_sign_in">Другой способ входа</string>
-  <string name="sst_auto_recommand_desc">Выберите категории ежедневно обновляемыех обоев и историй</string>
+  <string name="sst_auto_recommand_desc">Выберите категории ежедневно обновляемых обоев и историй</string>
   <string name="sst_auto_recommand_title">Истории</string>
   <string name="sst_change_wallpaper_desc">Выбор экранов</string>
   <string name="sst_change_wallpaper_desk">Рабочий стол</string>

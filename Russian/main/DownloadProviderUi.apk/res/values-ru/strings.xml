@@ -121,7 +121,7 @@
   <string name="dialog_delete_positive">Удалить</string>
   <string name="dialog_failed_body">Загрузить файл позже или удалить его из очереди загрузок?</string>
   <string name="dialog_file_already_exists">Такой файл уже существует.</string>
-  <string name="dialog_file_missing_body">Файл не найден, возможно он перемещен или удален.</string>
+  <string name="dialog_file_missing_body">Файл не найден, возможно, он перемещен или удален.</string>
   <string name="dialog_file_missing_title">Ошибка открытия файла</string>
   <string name="dialog_insufficient_space_on_cache">Не удалось загрузить. Недостаточно места во внутренней памяти.</string>
   <string name="dialog_insufficient_space_on_external">Не удалось загрузить. Недостаточно места на внешнем накопителе.</string>
@@ -301,7 +301,7 @@
   <string name="open_folder">Открыть папку</string>
   <string name="open_vip_hint">Нажмите, чтобы стать участником Xunlei</string>
   <string name="open_vip_speedup">Станьте участником, чтобы повысить скорость </string>
-  <string name="open_xunlei_speed_service">Запустить ускоритель загрузок Xunleni</string>
+  <string name="open_xunlei_speed_service">Запустить ускоритель загрузок Xunlei</string>
   <string name="original_price">Цена</string>
   <string name="other">Прочее</string>
   <string name="other_filter">Прочее</string>
@@ -401,12 +401,9 @@
   <string name="search_new_download_key_words">Добавить загрузку;добавить торрент;скачать торрент;загрузить торрент</string>
   <string name="search_nonetwork_prompt">Проверьте подключение к сети и повторите попытку</string>
   <string name="search_nonetwork_refresh">Обновить</string>
-<!-- ### FROM SOURCE -->
-  <string name="search_rank">下载热榜</string>
-<!-- ### FROM SOURCE -->
-  <string name="search_rank_desc">看看今天热门的应用和游戏</string>
-<!-- ### FROM SOURCE -->
-  <string name="search_rank_key_words">下载热榜;热门下载榜;热门应用;热门游戏</string>
+  <string name="search_rank">Загрузить список</string>
+  <string name="search_rank_desc">Список популярных приложений и игр</string>
+  <string name="search_rank_key_words">Загрузить список; Популярный список загрузки; Популярные приложения; Популярные игры</string>
   <string name="search_recommend_empty">Ничего нет</string>
   <string name="search_vif_empty">Нет рекомендаций</string>
   <string name="search_vif_score_text">Рейтинг: %1$s</string>
@@ -459,8 +456,8 @@
   <string name="sniff_terms_agree_new">Согласен</string>
   <string name="sniff_terms_check_text">Подтвердите согласие с условиями обслуживания</string>
   <string name="sniff_terms_msg">Перед использованием сервиса вы должны принять \"Условия использования\"</string>
-  <string name="sniff_terms_msg_a">Функция поиска предоставлена сторонним разработчиком. Перед исользованием вы должны согласиться с условиями обслуживания.</string>
-  <string name="sniff_terms_msg_b">Функция поиска предоставлена сторонним разработчиком. Перед исользованием вы должны согласиться с условиями обслуживания.</string>
+  <string name="sniff_terms_msg_a">Функция поиска предоставлена сторонним разработчиком. Перед использованием вы должны согласиться с условиями обслуживания.</string>
+  <string name="sniff_terms_msg_b">Функция поиска предоставлена сторонним разработчиком. Перед использованием вы должны согласиться с условиями обслуживания.</string>
   <string name="sniff_terms_msg_bold">Условия использования</string>
   <string name="sniff_terms_msg_bold_new">Условия обслуживания</string>
   <string name="sniff_terms_reject">Отмена</string>
@@ -537,7 +534,7 @@
   <string name="vip_auto_speedup">Ускорение загрузки Xunlei включено </string>
   <string name="vip_expire_show_info">Подписка Xunlei истекла.</string>
   <string name="vip_expire_today_show_info">Подписка Xunlei истекла.</string>
-  <string name="vip_show_info">"5 млн. пользователей. 
+  <string name="vip_show_info">"5 млн пользователей. 
   Ускорьте загрузки на всех ваших устройствах"</string>
   <string name="vip_speedup">Ускорение</string>
   <string name="web_dialog_cancel">Отмена</string>

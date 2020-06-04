@@ -6,7 +6,7 @@
   <string name="console_guide_btn_got_it">Понятно</string>
   <string name="console_guide_subtitle_hang_up">"Не прерывайте трансляцию при выключении экрана телефона. Это может привести к повышенному расходу заряда батареи."</string>
   <string name="console_guide_subtitle_private">"Не транслируйте всплывающие уведомления, уведомления о входящих вызовах и другие элементы, которые могут содержать личную информацию."</string>
-  <string name="console_guide_subtitle_small_window">Минимизируйте  окно, чтобы иметь возможность пользоваться телефоном во время трансляции</string>
+  <string name="console_guide_subtitle_small_window">Минимизируйте окно, чтобы иметь возможность пользоваться телефоном во время трансляции</string>
   <string name="dialog_can_not_find_device">Не удалось найти устройства поблизости</string>
   <string name="dialog_cancle">Отмена</string>
   <string name="dialog_connect_fail">Не удалось подключиться</string>
@@ -51,7 +51,7 @@
 2. Если вы используете телевизоры, телевизионные приставки или проекторы других брендов, подключите телефон и внешний монитор к одной сети Wi-Fi.
 Если два устройства не могут быть подключены к одной сети, включите Miracast на внешнем мониторе. Названия функции Miracast может отличаться."</string>
   <string name="help_page_text_08">Шаг 2</string>
-  <string name="help_page_text_09">"Нажмите переключатель \"Трансляция\" в шторке уведомлений. Включите Wi-fi и Bluetooth."</string>
+  <string name="help_page_text_09">"Нажмите переключатель \"Трансляция\" в шторке уведомлений. Включите Wi-Fi и Bluetooth."</string>
   <string name="help_page_text_10">Если вы хотите транслировать из Галереи или Mi Видео, используйте встроенные функции трансляции в этих приложениях.</string>
   <string name="help_page_text_11">Шаг 3</string>
   <string name="help_page_text_12">Выберите устройство из списка доступных.</string>
@@ -90,7 +90,7 @@
   <string name="help_page_text_34">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Трансляция &gt; Устройства Android &gt; Miracast.</string>
   <string name="help_page_text_35">Служба поддержки Skyworth: 95105555</string>
   <string name="help_page_text_36">Sony</string>
-  <string name="help_page_text_37">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства. На некоторых моделях вы можете нажать кнопку [SOURCE] на пульте дистанционного управления, а затем выбрать \"Screen Mirroring\". На некоторых других моделях вы можете включить эту функцию в Cети &gt; Wi-Fi Direct. Эта функция включена по умолчанию на различных моделях.</string>
+  <string name="help_page_text_37">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства. На некоторых моделях вы можете нажать кнопку [SOURCE] на пульте дистанционного управления, а затем выбрать \"Screen Mirroring\". На некоторых других моделях вы можете включить эту функцию в Сети &gt; Wi-Fi Direct. Эта функция включена по умолчанию на различных моделях.</string>
   <string name="help_page_text_38">Служба поддержки Sony: 400-810-9000</string>
   <string name="help_page_text_39">Panasonic</string>
   <string name="help_page_text_40">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Screen Mirroring.</string>
@@ -115,14 +115,14 @@
   <string name="micloud_downloading_clipboard_message_from_web">Буфер обмена: получено сообщение с компьютера</string>
   <string name="micloud_send_message_desc">Отправка Mi Сообщения</string>
   <string name="nfc_connect_failed_toast">Трансляция не удалась. Повторите попытку.</string>
-  <string name="notification_rc_title">Помощник XiaoMi TV</string>
+  <string name="notification_rc_title">Помощник Xiaomi TV</string>
   <string name="notification_show_more">Дополнительные функции</string>
   <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
   <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
   <string name="privacy_text_1">&lt;Data&gt;"Добро пожаловать в приложение Трансляция! Трансляция позволяет проецировать содержимое с телефона на внешний монитор.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Перед использованием этой функции прочтите и примите &amp;lt;a href=%2$s&amp;gt;Юридическое заявление HappyCast&amp;lt;/a&amp;gt; и &amp;lt;a href=%1$s&amp;gt;Политику конфиденциальности HappyCast&amp;lt;/a&amp;gt;.
 Для нормальной работы приложению необходимы подключение к интернету и разрешения на сбор личной информации:"&lt;/Data&gt;</string>
-  <string name="privacy_text_2">&lt;Data&gt;"В случае отказа предоставить разрешения, вы не сможете использовать приложение. В таком случае, вы можете удалить это приложение, выйти или ограничить разрешения в настройках.
+  <string name="privacy_text_2">&lt;Data&gt;"В случае отказа предоставить разрешения, вы не сможете использовать приложение. В таком случае вы можете удалить это приложение, выйти или ограничить разрешения в настройках.
 Прочитайте и примите наши &amp;lt;a href=%1$s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; перед использованием"&lt;/Data&gt;</string>
   <string name="privacy_text_pemission">"　　• Использование Wi-Fi для обнаружения и подключения устройств.
 　　• Использование Bluetooth для обнаружения и подключения устройств.

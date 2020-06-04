@@ -5257,7 +5257,7 @@ UT-интерфейс: %5$s"</string>
 
 Данные приложений удалены не будут."</string>
     <string name="reset_app_preferences_title">Сбросить настройки?</string>
-    <string name="reset_confirm_directory">"Внимание: перед восстановлением проверьте наличие на устройстве папки MIUI/Backup/AllBackup. В случае отстутствия, создайте ее."</string>
+    <string name="reset_confirm_directory">"Внимание: перед восстановлением проверьте наличие на устройстве папки MIUI/Backup/AllBackup. В случае отсутствия, создайте ее."</string>
     <string name="reset_dashboard_summary">Сброс настроек сети, приложений или устройства</string>
     <string name="reset_dashboard_title">Сброс</string>
     <string name="reset_default_apn_failed">Ошибка сброса APN по умолчанию</string>
@@ -5421,8 +5421,8 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_fps_summary_smooth">Некоторые приложения автоматически увеличивают частоту обновления кадров для улучшения качества изображения</string>
     <string name="screen_fps_title">Частота обновления</string>
     <string name="screen_fps_unit">%d Гц</string>
-    <string name="screen_fps_unit_power_save">%dHz (энергосбережение)</string>
-    <string name="screen_fps_unit_smooth">%dHz (качество изображения)</string>
+    <string name="screen_fps_unit_power_save">%d Гц (энергосбережение)</string>
+    <string name="screen_fps_unit_smooth">%d Гц (качество изображения)</string>
     <string name="screen_key_long_press">Долгое нажатие кнопок</string>
     <string name="screen_key_long_press_action">Функция нажатия</string>
     <string name="screen_key_long_press_timeout">Длительность нажатия</string>
@@ -6639,7 +6639,7 @@ UT-интерфейс: %5$s"</string>
     <string name="switch_select_to_speak_on">Выберите для разговора</string>
     <string name="symbols_not_allowed_for_password">Пароль не может содержать символы</string>
     <string name="sync_active">Синхронизация активна</string>
-    <string name="sync_automatically">Cинхронизировать</string>
+    <string name="sync_automatically">Синхронизировать</string>
     <string name="sync_calendar">Календарь</string>
     <string name="sync_contacts">Контакты</string>
     <string name="sync_disabled">Синхронизация выключена</string>
@@ -8210,7 +8210,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_block_effect_badge">Скрыть метки уведомлений на значках приложений</string>
     <string name="zen_mode_block_effect_intent">Не включать экран</string>
     <string name="zen_mode_block_effect_light">Не включать световую индикацию</string>
-    <string name="zen_mode_block_effect_list">Скрыть из штроки уведомлений</string>
+    <string name="zen_mode_block_effect_list">Скрыть из шторки уведомлений</string>
     <string name="zen_mode_block_effect_peek">Не показывать всплывающие уведомления</string>
     <string name="zen_mode_block_effect_sound">Отключить звук и вибрацию</string>
     <string name="zen_mode_block_effect_status">Скрыть значки в строке состояния</string>
