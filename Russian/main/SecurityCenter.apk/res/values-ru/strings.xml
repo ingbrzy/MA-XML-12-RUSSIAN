@@ -160,7 +160,7 @@
   <string name="antivirus_monitor_clean_tips">Удаленные объекты: %s</string>
   <string name="antivirus_monitor_risk_advice">Это приложение небезопасно, удалите его</string>
   <string name="antivirus_monitor_virus_advice">Это приложение может содержать вирус, удалите его</string>
-  <string name="antivirus_monitored_app_empty">Cовместимые платежные приложения не найдены</string>
+  <string name="antivirus_monitored_app_empty">Совместимые платежные приложения не найдены</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_not_wlan">Отсутствует подключение Wi-Fi. Использование мобильного интернета может вызвать дополнительные затраты. Продолжить?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Облачная проверка</string>
@@ -230,7 +230,7 @@
   <string name="app_behavior_door">Действия</string>
   <string name="app_behavior_get_install">%1s - доступ к списку приложений</string>
   <string name="app_behavior_get_install_single">Доступ к списку приложений</string>
-  <string name="app_behavior_header_time">MMMM dd</string>
+  <string name="app_behavior_header_time">d MMMM</string>
   <string name="app_behavior_key_audio">Доступ к микрофону</string>
   <string name="app_behavior_key_camera">Доступ к камере</string>
   <string name="app_behavior_key_location">Доступ к местоположению</string>
@@ -709,7 +709,7 @@
   <string name="btn_text_goto_setup">Настройки</string>
   <string name="btn_text_network_speed_detail">Подключение</string>
   <string name="btn_text_open_now">Включить</string>
-  <string name="btn_text_optimize_extend_battery_time">Добавить %sк автономности</string>
+  <string name="btn_text_optimize_extend_battery_time">Добавить %s к автономности</string>
   <string name="btn_text_optimize_manually">Оптимизировать вручную</string>
   <string name="btn_text_optimize_now">Оптимизировать</string>
   <string name="btn_text_power_cleanup">Глубокая очистка</string>
@@ -980,7 +980,7 @@
   <string name="dlg_summary_close_theme">Динамические темы не будут работать.</string>
   <string name="dlg_summary_close_wifi">Wi-Fi, Bluetooth и точка доступа будут отключены.</string>
   <string name="dlg_summary_nfc">NFC будет отключен.</string>
-  <string name="dlg_summary_title">Фоновая активность приложений будет ограничиваться при выходе или возврате на на рабочий стол. Чтобы приложения могли работать в фоновом режиме, добавьте их в исключения энергосбережения (контроль активности).</string>
+  <string name="dlg_summary_title">Фоновая активность приложений будет ограничиваться при выходе или возврате на рабочий стол. Чтобы приложения могли работать в фоновом режиме, добавьте их в исключения энергосбережения (контроль активности).</string>
   <string name="dlg_title_not_open_stranger_identify">Определитель номеров</string>
   <string name="dlg_update_btn_contiue">Продолжить</string>
   <string name="dlg_update_btn_open">Разрешить</string>
@@ -1080,8 +1080,8 @@
   <string name="ew_guide_law_title">Отказ от ответственности</string>
   <string name="ew_guide_next_text">Дальше</string>
   <string name="ew_guide_play_audio">Воспроизведение звукового предупреждения</string>
-  <string name="ew_guide_play_audio_last">Воспроизведение звукового предупреждения (%ds)</string>
-  <string name="ew_guide_statement_text">&lt;Data&gt;"Этот отказ от ответственности распространяется на всех пользователей (далее - Вы), которые включают функцию предупреждения о землетрясении. Соглашаясь с этим отказом от ответственности, вы заключаете юридический договор с Xiaomi Inc. и ее дочерними компаниями (далее - Xiaomi). Вы признаете, что прочитали все содержание этого заявления об отказе от ответственности, и вы полностью понимаете и соглашаетесь со всеми положениями этого заявления об отказе от ответственности; в противном случае, вы должны немедленно отключить функцию предупреждения о землетрясении.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Специальное заявление&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Функция предупреждения о землетрясении сейчас доступна только в отдельных регионах. Для других регионов функция будут доступна в ближайшее время.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Отказ от ответственности&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Функции предупреждения о землетрясении предоставлены Xiaomi в приложении Безопасность. Вы должны понимать, что информация о предупреждении землетрясения предоставляется правительственными агентствами раннего предупреждения. Xiaomi не контролирует такие агентства и не имеет контроля над ними.&amp;lt;br&amp;gt; Xiaomi не обещает и не гарантирует точность, обоснованность и своевременность информации о предупреждении землетрясения, а также не гарантирует, что служба предупреждения о землетрясении удовлетворит все ваши потребности.&amp;lt;br&amp;gt; Получение информации о предупреждении землетрясения требует, чтобы ваше устройство было подключено к мобильной сети. Отказы сторонней линии связи, технические проблемы, сбои сетевого или оконечного оборудования, нестабильность системы и другие различные форс-мажорные обстоятельства могут помешать вам получать информацию о предупреждении землетрясения. Xiaomi не несет никакой ответственности за любые убытки, вызванные такими событиями.&amp;lt;br&amp;gt; Вы должны понимать, что эта функция предоставляется только для ознакомления. Полученное предупреждение может прийти за несколько секунд до начала землетрясения. Вы несете единоличную ответственность за риски и последствия любых действий, которые вы совершаете на основе информации, предоставленной этой функцией.&amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
+  <string name="ew_guide_play_audio_last">Воспроизведение звукового предупреждения (%d сек.)</string>
+  <string name="ew_guide_statement_text">&lt;Data&gt;"Этот отказ от ответственности распространяется на всех пользователей (далее - Вы), которые включают функцию предупреждения о землетрясении. Соглашаясь с этим отказом от ответственности, вы заключаете юридический договор с Xiaomi Inc. и ее дочерними компаниями (далее - Xiaomi). Вы признаете, что прочитали все содержание этого заявления об отказе от ответственности, и вы полностью понимаете и соглашаетесь со всеми положениями этого заявления об отказе от ответственности; в противном случае, вы должны немедленно отключить функцию предупреждения о землетрясении.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Специальное заявление&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Функция предупреждения о землетрясении сейчас доступна только в отдельных регионах. Для других регионов функция будут доступна в ближайшее время. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Отказ от ответственности&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Функции предупреждения о землетрясении предоставлены Xiaomi в приложении Безопасность. Вы должны понимать, что информация о предупреждении землетрясения предоставляется правительственными агентствами раннего предупреждения. Xiaomi не контролирует такие агентства и не имеет контроля над ними.&amp;lt;br&amp;gt; Xiaomi не обещает и не гарантирует точность, обоснованность и своевременность информации о предупреждении землетрясения, а также не гарантирует, что служба предупреждения о землетрясении удовлетворит все ваши потребности.&amp;lt;br&amp;gt; Получение информации о предупреждении землетрясения требует, чтобы ваше устройство было подключено к мобильной сети. Отказы сторонней линии связи, технические проблемы, сбои сетевого или оконечного оборудования, нестабильность системы и другие различные форс-мажорные обстоятельства могут помешать вам получать информацию о предупреждении землетрясения. Xiaomi не несет никакой ответственности за любые убытки, вызванные такими событиями.&amp;lt;br&amp;gt; Вы должны понимать, что эта функция предоставляется только для ознакомления. Полученное предупреждение может прийти за несколько секунд до начала землетрясения. Вы несете единоличную ответственность за риски и последствия любых действий, которые вы совершаете на основе информации, предоставленной этой функцией.&amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
   <string name="ew_guide_tips_1">Вы будете уведомлены о предстоящих землетрясениях и услышите звуковое предупреждение</string>
   <string name="ew_guide_tips_2">Информация и звуковые предупреждения будут обновляться во время землетрясения</string>
   <string name="ew_guide_tips_3">Вы сможете найти ближайшее убежище, позвонить в службу экстренной помощи и, при необходимости, предъявить свою медицинскую карту.</string>
@@ -1402,7 +1402,7 @@
   <string name="gb_advance_settings_edge_gear3">Средняя</string>
   <string name="gb_advance_settings_edge_gear4">Большая</string>
   <string name="gb_advance_settings_edge_suppression">Область сенсорного управления</string>
-  <string name="gb_advance_settings_edge_suppression_summary">Уменьшение чувствительности касания у краев, для избежания срабатывания сенсорного управления. Держите устройство за выделенные области, чтобы динамики оставались открытыми.</string>
+  <string name="gb_advance_settings_edge_suppression_summary">Уменьшение чувствительности касания у краев, для избегания срабатывания сенсорного управления. Держите устройство за выделенные области, чтобы динамики оставались открытыми.</string>
   <string name="gb_advance_settings_finger_up">Чувствительность к повторным нажатиям</string>
   <string name="gb_advance_settings_follow_up">Реакция на касания</string>
   <string name="gb_advance_settings_reset">Настройки по умолчанию</string>
@@ -1437,7 +1437,7 @@
   <string name="gb_dialog_record_way_manual">Запись видео длительностью до 30 секунд вручную</string>
   <string name="gb_dialog_record_way_setting_tips">Примечание: запись игровых сессий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
   <string name="gb_dialog_record_way_title">Выберите метод записи</string>
-  <string name="gb_dialog_wlan_wifi_weak">460 мс</string>
+  <string name="gb_dialog_wlan_wifi_weak">460 мс.</string>
   <string name="gb_first_guide_function_shiled_title">Отключить системные функции, когда включено Ускорение игр</string>
   <string name="gb_first_guide_gamebox_des">Используйте ярлыки во время игр</string>
   <string name="gb_first_guide_handsfree_des">Отвечайте на звонки в фоновом режиме</string>
@@ -1525,7 +1525,7 @@
   <string name="gmscore_support_service">Основные сервисы Google</string>
   <string name="go_to">Перейти</string>
   <string name="go_to_setting_fingerprint">Настройки</string>
-  <string name="google_base_app_fail">Не удалось загрузить. Убедитесь что приложению Безопасность разрешен доступ в интернет.</string>
+  <string name="google_base_app_fail">Не удалось загрузить. Убедитесь, что приложению Безопасность разрешен доступ в интернет.</string>
   <string name="google_base_app_install_choice">Приложение требует наличия Google Services Framework для нормальной работы, загрузить и установить?</string>
   <string name="google_base_app_installed">Успешно установлено</string>
   <string name="google_base_app_installing">Установка…</string>
@@ -1555,7 +1555,7 @@
   <string name="gs_game_manual_record_subtitle">Для записи во время игры нажмите кнопку \"Запись\"на панели инструментов.
 Видео длительностью до 30 секунд будут сохранены в Ускорение игр &gt; Ключевые моменты.</string>
   <string name="gs_game_manual_record_subtitle_child">При использовании этой функции вы можете столкнуться с некоторыми проблемами:</string>
-  <string name="gs_game_manual_record_subtitle_child_carton">Запись игровых сесссий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
+  <string name="gs_game_manual_record_subtitle_child_carton">Запись игровых сессий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Другие функции записи экрана могут работать неправильно.</string>
   <string name="gs_game_net_priority">Приоритет подключения</string>
   <string name="gs_game_net_priority_detail">Ограничить скорость загрузок, чтобы дать приоритет играм</string>
@@ -1852,7 +1852,7 @@
   <string name="menu_summary_power_manager_1">Батарея заряжена</string>
   <string name="menu_summary_power_manager_2">Заряда хватит на %s</string>
   <string name="menu_summary_power_manager_3">Батарея разряжена</string>
-  <string name="menu_summary_power_manager_4">%sдо окончания</string>
+  <string name="menu_summary_power_manager_4">%s до окончания</string>
   <string name="menu_text_antispam">Антиспам</string>
   <string name="menu_text_antivirus">Антивирус</string>
   <string name="menu_text_garbage_cleanup">Очистка</string>
@@ -2030,7 +2030,7 @@
   <string name="numeric_retry_button_text">Отмена</string>
   <string name="numeric_settings_help_how_to_record">Как задать PIN-код</string>
   <string name="oaid_reset_content_tip">Если вы отключите виртуальный ID, некоторые приложения могут перестать работать должным образом, некоторые данные приложений могут быть потеряны или стать непригодными для использования.</string>
-  <string name="oaid_reset_final_tip">Отключить виртуальный ID ?</string>
+  <string name="oaid_reset_final_tip">Отключить виртуальный ID?</string>
   <string name="ok">ОК</string>
   <string name="ok_button">ОК</string>
   <string name="old_sdk_deny_warning">Это приложение было разработано для более ранней версии Android. Отзыв разрешения может вызвать неполадки в его работе.</string>
@@ -2217,7 +2217,7 @@
   <string name="permission_permission_control_closed_desc_dialog_title">Управление разрешениями</string>
   <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="permission_upgrade_more">Дополнительные функции защиты конфиденциальности</string>
-  <string name="permission_upgrade_privacy_title">Запрос разрешения доступа к микрофону или контактам теперь имеет опцию, которая позволяет предоставлять приложениям доступ только в активном режиме. Для защиты личной информации, приложения не смогут получать доступ в фоновом режиме.</string>
+  <string name="permission_upgrade_privacy_title">Запрос разрешения доступа к микрофону или контактам теперь имеет опцию, которая позволяет предоставлять приложениям доступ только в активном режиме. Для защиты личной информации приложения не смогут получать доступ в фоновом режиме.</string>
   <string name="permission_upgrade_runtime">Запрос разрешения доступа к местоположению или камере теперь имеет опцию, которая позволяет предоставлять приложениям только однократный доступ. Для защиты личной информации, при следующем запуске приложения будет повторный запрос разрешения.</string>
   <string name="permission_upgrade_title">Обновленные разрешения</string>
   <string name="permission_upgrade_virtual">Чтобы не предоставлять приложениям доступ к контактам или журналу вызовов, можно выбрать \"Отправить пустую информацию\" при запросе соответствующего разрешения.</string>
@@ -2262,7 +2262,7 @@
   <string name="power_center_5g_save_title_text">Энергосбережение для 5G</string>
   <string name="power_center_auto_shutdown">Таймер питания</string>
   <string name="power_center_back">Назад</string>
-  <string name="power_center_battery_last">Осталось%s</string>
+  <string name="power_center_battery_last">Осталось %s</string>
   <string name="power_center_charge_time">%1$s до окончания</string>
   <string name="power_center_dialog_msg_bottom">Можно увеличить автономность до %1$d ч. %2$d мин. Включить энергосбережение?</string>
   <string name="power_center_dialog_msg_title">Включите, чтобы увеличить время работы на %1$s. Для энергосбережения будут выполнены следующие действия:</string>
@@ -2553,7 +2553,7 @@
   <string name="pricacy_permission_use_total">Конфиденциальные действия</string>
   <string name="priority_storage_app_settings">Данные приложения %1$s</string>
   <string name="priority_storage_settings_summary">При отсутствии SD-карты данные будут автоматически сохраняться во внутреннюю память</string>
-  <string name="priority_storage_summary">Выберите местро для сохранения данных</string>
+  <string name="priority_storage_summary">Выберите место для сохранения данных</string>
   <string name="priority_storage_title">Данные приложений</string>
   <string name="privacy_app_behavior_summary">Автозапуск, разрешения и другое</string>
   <string name="privacy_app_behavior_title">История действий</string>
@@ -2600,7 +2600,7 @@
   <string name="privacy_dialog_feedback">Обратная связь</string>
   <string name="privacy_dialog_message">При подключении к интернету это сообщение вместе с данными оператора будет зашифровано и загружено на серверы Mi для улучшения мониторинга трафика.</string>
   <string name="privacy_dialog_ok">Понятно</string>
-  <string name="privacy_dialog_ok_with_num">Понятно (%ss)</string>
+  <string name="privacy_dialog_ok_with_num">Понятно (%s сек.)</string>
   <string name="privacy_dialog_open">Включить</string>
   <string name="privacy_empty_call">Доступа к журналу вызовов сегодня не было</string>
   <string name="privacy_empty_contact">Доступа к контактам сегодня не было</string>
@@ -2693,7 +2693,7 @@
   <string name="quick_optimize_no_issue_subtitle">Всё в порядке</string>
   <string name="quick_optimize_no_issue_title">Оптимизация питания не требуется</string>
   <string name="quick_optimize_sub_battery_text">Осталось около %s</string>
-  <string name="quick_optimize_sub_summary_text">Добавлено %sк автономности</string>
+  <string name="quick_optimize_sub_summary_text">Добавлено %s к автономности</string>
   <string name="quick_optimize_sub_summary_with_battery_text">Добавлено %1$s, осталось около %2$s</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Быстрый разряд батареи, исправьте проблему</string>
   <string name="quick_optimize_suggest_battery_over_heat">Телефон перегревается, исправьте проблему</string>
@@ -3086,7 +3086,7 @@
 
 Для использования необходимо сначала настроить."</string>
   <string name="storage_format_failure">Ошибка форматирования: %1$s</string>
-  <string name="storage_format_success">Успешно  отформатировано: %1$s</string>
+  <string name="storage_format_success">Успешно отформатировано: %1$s</string>
   <string name="storage_item_apk_name">APK</string>
   <string name="storage_item_appdata_name">Приложения</string>
   <string name="storage_item_audio_name">Музыка</string>
@@ -3159,7 +3159,7 @@
   <string name="summary_xiaomi_roaming">0.01 юаня за 1 МБ мобильного интернета в роуминге.</string>
   <string name="superpower_dialog_button_disable_dialog">"Больше не показывать"</string>
   <string name="superpower_dialog_button_ok">ОК</string>
-  <string name="superpower_dialog_massage">"Ультра энергосбережение ограничивает большинство функций, расходующих заряд батареи, и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки,  SMS и подключение к сети) как можно дольше. Включить ультра энергосбережение?"</string>
+  <string name="superpower_dialog_massage">"Ультра энергосбережение ограничивает большинство функций, расходующих заряд батареи, и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультра энергосбережение?"</string>
   <string name="superpower_dialog_title">Ультра энергосбережение</string>
   <string name="superpower_notification_hint_enter">Включить</string>
   <string name="superpower_notification_new_title">Осталось меньше %d%% заряда батареи</string>
@@ -3195,7 +3195,7 @@
   <string name="system_app">Системные приложения</string>
   <string name="system_application">Системные приложения</string>
   <string name="system_permission_declare_agree">Согласен</string>
-  <string name="system_permission_declare_analytics_declare">"Благодарим Вас за участие в нашей программе улучшения качаства. Чтобы эта функция работала нормально, устройству необходимо подключение к Интернету. Вам также необходимо предоставить необходимые разрешения для сбора данных, чтобы улучшить продукты и услуги. Эти данные собираются только для статистических целей. Мы не сможем использовать эти данные для вашей  идентификации."</string>
+  <string name="system_permission_declare_analytics_declare">"Благодарим Вас за участие в нашей программе улучшения качества. Чтобы эта функция работала нормально, устройству необходимо подключение к Интернету. Вам также необходимо предоставить необходимые разрешения для сбора данных, чтобы улучшить продукты и услуги. Эти данные собираются только для статистических целей. Мы не сможем использовать эти данные для вашей идентификации."</string>
   <string name="system_permission_declare_disagree">Не согласен</string>
   <string name="system_permission_declare_double_link">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">"Добро пожаловать в %1s!
@@ -3333,10 +3333,10 @@
   <string name="third_desktop_dialog_ok">Понятно</string>
   <string name="third_desktop_dialog_title">Ошибка</string>
   <string name="three_percent_total_pkg">%s (3%% от месячного лимита)</string>
-  <string name="timeshow_h">%.1fч</string>
-  <string name="timeshow_h_int">%dч</string>
-  <string name="timeshow_m">%dмин</string>
-  <string name="timeshow_s">%dс</string>
+  <string name="timeshow_h">%.1f ч.</string>
+  <string name="timeshow_h_int">%d ч.</string>
+  <string name="timeshow_m">%d мин.</string>
+  <string name="timeshow_s">%d сек.</string>
   <string name="tips_dialog_title">Лимит неизвестен</string>
   <string name="tips_message">Чтобы узнать о своем тарифном плане, позвоните %2$s (%1$s).</string>
   <string name="tips_of_app_manage">Удалить редко используемые приложения для экономии места</string>
@@ -3613,7 +3613,7 @@
   <string name="warningcenter_earthquake_info">Раннее предупреждение о землетрясении</string>
   <string name="warningcenter_mijia_alert_close">Закрыть</string>
   <string name="warningcenter_mijia_alert_settings">Измените настройки в разделе Безопасность &gt; Оповещения устройств умного дома</string>
-  <string name="warningcenter_mijia_alert_tips_1">Зафиксирована высокая концетрация газа</string>
+  <string name="warningcenter_mijia_alert_tips_1">Зафиксирована высокая концентрация газа</string>
   <string name="warningcenter_mijia_alert_tips_2">Зафиксировано задымление</string>
   <string name="warningcenter_mijia_alert_tips_3">Зафиксирована утечка воды</string>
   <string name="warningcenter_mijia_alert_tips_4">Зафиксировано повреждение замка</string>

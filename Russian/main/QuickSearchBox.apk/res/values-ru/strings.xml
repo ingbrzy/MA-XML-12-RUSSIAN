@@ -39,7 +39,7 @@
 Если у вас есть какие-либо вопросы, напишите нам на адрес: misearch-feedback@xiaomi.com"</string>
     <string name="apk_name">Глобальный поиск %s</string>
     <string name="apk_pre_code">Версия: %s</string>
-    <string name="apk_size">"Размер: %sMБ
+    <string name="apk_size">"Размер: %s MБ
 "</string>
     <string name="app_download_exits">Уже загружено</string>
     <string name="app_install_fail">Ошибка установки</string>
@@ -177,7 +177,7 @@
     <string name="debug_http_request_viewer_back">Назад</string>
     <string name="debug_http_response_data">Данные ответа</string>
     <string name="debug_mode_toast">Включен режим разработчика. Вы можете отключить эту функцию в Настройках.</string>
-    <string name="debug_server_preview_mode">Педпросмотр на стороне сервера</string>
+    <string name="debug_server_preview_mode">Предпросмотр на стороне сервера</string>
     <string name="debug_web_preview_mode">Предпросмотр</string>
     <string name="default_download_path_dialog_title">Восстановить папку по умолчанию?</string>
     <string name="default_download_path_prefix">Путь по умолчанию:</string>
@@ -306,7 +306,7 @@
     <string name="main_setting_history">История</string>
     <string name="menu_help">Помощь</string>
     <string name="menu_settings">Настройки поиска</string>
-    <string name="mi_account">Mi Account</string>
+    <string name="mi_account">Mi Аккаунт</string>
     <string name="mi_account_unlogin_subtitle">Нажмите для входа</string>
     <string name="mi_account_unlogin_title">Вход не выполнен</string>
     <string name="midnight">Ночь</string>
@@ -566,8 +566,8 @@
     <string name="switch_online">Онлайн</string>
     <string name="switch_prompt_ignore">Игнорировать</string>
     <string name="switch_prompt_set">Параметры поиска</string>
-    <string name="switch_prompt_title">"Не удалось найти %s?"</string>
-    <string name="switch_prompt_title_default">"Не нашли то что нужно?"</string>
+    <string name="switch_prompt_title">Не удалось найти %s?</string>
+    <string name="switch_prompt_title_default">Не нашли нужное?</string>
     <string name="switch_setting">Настройки</string>
     <string name="system_search_category_title">Телефон</string>
     <string name="taokouling_text_default">Скопированный пароль</string>
