@@ -92,7 +92,7 @@
     <string name="app_setting_on_off_setting">ОСНОВНЫЕ НАСТРОЙКИ</string>
     <string name="app_setting_privacy_policy">Политика конфиденциальности</string>
     <string name="app_setting_search">Панель поиска</string>
-    <string name="app_setting_xiaoai">Mi AI button</string>
+    <string name="app_setting_xiaoai">Кнопка Mi AI</string>
     <string name="app_suggest_detail_setting_summary">Рекомендации приложений основаны на ваших предпочтениях в использовании</string>
     <string name="app_suggest_detail_setting_title">Разрешить доступ к статусу приложения</string>
     <string name="app_suggest_setting_brief">Получать рекомендации для приложений и функций, которыми вы можете воспользоваться</string>
@@ -285,7 +285,7 @@
     <string name="cta_old_start">Начать</string>
     <string name="cta_positive">Подробнее</string>
     <string name="cta_start">Начать</string>
-    <string name="cta_text5">Приложению необходимо подключение к интернету и доступ к местоположения. Разрешить?</string>
+    <string name="cta_text5">Приложению необходимо подключение к интернету и доступ к местоположению. Разрешить?</string>
     <string name="cta_title">Добро пожаловать в Ассистент</string>
     <string name="currency_china">CNY</string>
     <string name="daily_greeting">Ежедневные приветствия</string>
@@ -513,7 +513,7 @@
     <string name="express_setting_brief_detail">Отслеживайте все свои посылки, используя свой номер телефона и информацию о заказе.</string>
     <string name="express_setting_code_invalid">Убедитесь, что вы ввели правильный код</string>
     <string name="express_setting_comfirm_delete_phone">Удалить</string>
-    <string name="express_setting_count_down_time">Попробуйте еще раз в %ds</string>
+    <string name="express_setting_count_down_time">Повтор (%d сек.)</string>
     <string name="express_setting_deny_delete_phone">Отменить</string>
     <string name="express_setting_dialog_delete_cancel">Отменить</string>
     <string name="express_setting_dialog_delete_description">Если вы удалите этот номер телефона, вы не сможете проверить информацию экспресс-доставки, связанную с ним.</string>
@@ -528,7 +528,7 @@
     <string name="express_setting_number_invalid">"Убедитесь, что вы ввели правильный номер телефона"</string>
     <string name="express_setting_number_save">Проверьте и сохраните</string>
     <string name="express_setting_number_title">Добавить номер телефона</string>
-    <string name="express_setting_numbers_already_authorized">Добавленые номера телефонов</string>
+    <string name="express_setting_numbers_already_authorized">Добавленные номера телефонов</string>
     <string name="express_setting_numbers_no_authorized">Добавить номера телефонов</string>
     <string name="express_setting_numbers_quick_authorized">Добавить номера телефонов напрямую</string>
     <string name="express_setting_other">Ещё</string>
@@ -548,7 +548,7 @@
     <string name="express_setting_verification_code_hint">Код СМС</string>
     <string name="express_setting_verification_code_success">Отправленный код СМС</string>
     <string name="express_setting_verify_failed">Не удалось подтвердить</string>
-    <string name="express_setting_verify_success">Потверждено успешно</string>
+    <string name="express_setting_verify_success">Успешно подтверждено</string>
     <string name="express_shortcut_name">Отправить или отследить экспресс-доставку</string>
     <string name="express_show_all_inquiry_history">Показать всю историю запросов</string>
     <string name="express_source_from">"От "</string>
@@ -620,7 +620,7 @@
     <string name="flow_setting_brief">Посмотреть информацию о трафике (Добавьте тарифный план в приложении Безопасность &gt; Трафик).</string>
     <string name="flybird_auto_switch_channel">Совет системы</string>
     <string name="flybird_baoxian_close_text">Страховка аккаунта 1 млн</string>
-    <string name="flybird_baoxian_open_text">Аккаунт застрах.</string>
+    <string name="flybird_baoxian_open_text">Аккаунт застрахован</string>
     <string name="flybird_baoxian_open_title">Страхование безопасности аккаунта</string>
     <string name="flybird_baoxian_open_webview_title">Подробности гарантийной квитанции</string>
     <string name="flybird_baoxian_webview_title">Страхование безопасности аккаунта</string>
@@ -724,11 +724,11 @@
     <string name="hotel_checkin">Регистрация</string>
     <string name="hotel_checkout">Выписка</string>
     <string name="hotel_city">Расположение отеля</string>
-    <string name="hotel_city_example">Например Beijing</string>
+    <string name="hotel_city_example">Например, Пекин</string>
     <string name="hotel_name">Название отеля</string>
-    <string name="hotel_name_example">Например Xiaomi Hotel</string>
+    <string name="hotel_name_example">Например, отель Xiaomi</string>
     <string name="hotel_passenger_name">Номер телефона</string>
-    <string name="hotel_phone">Например 010-65286666</string>
+    <string name="hotel_phone">Например, 010-65286666</string>
     <string name="http_stock_error">Не удалось загрузить информацию</string>
     <string name="immediate_recommendation">Рекомендации</string>
     <string name="item_type_custom">Настроить</string>
@@ -737,7 +737,7 @@
     <string name="kakalib_bar_qr_code">штрихкод·QR-код</string>
     <string name="kakalib_ok">Подтвердить</string>
     <string name="keyboard_alipay">Пульт безопасности Alipay</string>
-    <string name="keyboard_ok">OK</string>
+    <string name="keyboard_ok">ОК</string>
     <string name="keyboard_space">Пробел</string>
     <string name="launch_app">Рекомендации приложения</string>
     <string name="launch_change_order">Изменить заказ</string>
@@ -783,7 +783,7 @@
     <string name="login_ok">Войти</string>
     <string name="look_more">Еще</string>
     <string name="main_add">Добавить</string>
-    <string name="main_mark">Важноеt</string>
+    <string name="main_mark">Важное</string>
     <string name="main_mark_cancel">Удалить отметку</string>
     <string name="main_paste_add">Добавить</string>
     <string name="main_search_hint">Поиск</string>
@@ -872,7 +872,7 @@
     <string name="mini_no_input">Обязательно к заполнению</string>
     <string name="mini_open_bluetooth">Активировать</string>
     <string name="mini_open_bluetooth_now">Включение Bluetooth...</string>
-    <string name="mini_open_bluetooth_tips">Активируйте Bluetooth, чтобы разрешить раслетудоступ к аксессуарам</string>
+    <string name="mini_open_bluetooth_tips">Активируйте Bluetooth, чтобы разрешить браслету доступ</string>
     <string name="mini_page_add_hint">Номер карты</string>
     <string name="mini_page_add_other_pay">Другие способы оплаты</string>
     <string name="mini_page_add_tips">Предоставляется двойная защита платежным паролем и подтверждением при помощи СМС-кода</string>
@@ -900,8 +900,8 @@
     <string name="mini_weakpassword_error_serial">Не используйте несколько цифр подряд</string>
     <string name="miot_abnormal_device">Проблемные устройства</string>
     <string name="miot_auth_btn">Синхронизировать</string>
-    <string name="miot_auth_content">Используйте Асисстент для управления интеллектуальными устройствами для дома</string>
-    <string name="miot_auth_dialog_content">Синхронизировать данные интеллектуальных устройств для дома с Асисстентом?</string>
+    <string name="miot_auth_content">Используйте Ассистент для управления умными устройствами для дома</string>
+    <string name="miot_auth_dialog_content">Синхронизировать данные умных устройств для дома с Ассистентом?</string>
     <string name="miot_auth_dialog_neg_btn">Отмена</string>
     <string name="miot_auth_dialog_pos_btn">Синхронизировать</string>
     <string name="miot_auth_dialog_title">Синхронизация</string>
@@ -1040,7 +1040,7 @@
     <string name="opened">Вкл.</string>
     <string name="park_assistant">Парковка</string>
     <string name="passenger_name">Имя пассажира</string>
-    <string name="passenger_name_example">Например Debbie Smith</string>
+    <string name="passenger_name_example">Например, Дебби Смит</string>
     <string name="paycode_sdk_parent">Ярлык оплаты</string>
     <string name="paycode_sdk_parent_title">Быстрый платеж</string>
     <string name="payment">Мои платежи</string>
@@ -1208,7 +1208,7 @@
     <string name="setting_fav_remove_toast_disable">Доступ к избранному включен</string>
     <string name="setting_fav_remove_toast_enable">Доступ к избранному выключен</string>
     <string name="setting_football_brief">Вся информация о ваших любимых командах</string>
-    <string name="setting_football_brief_detail">Просматриивайте информацию, изучайте результаты и следите за футбольными командами</string>
+    <string name="setting_football_brief_detail">Просматривайте информацию, изучайте результаты и следите за футбольными командами</string>
     <string name="setting_football_data">Данные предоставлены</string>
     <string name="setting_football_edit">Изменить</string>
     <string name="setting_football_fav">Команды</string>
@@ -1251,7 +1251,7 @@
     <string name="shopping_all">Все</string>
     <string name="shopping_delete_desc">Удалить выбранные элементы</string>
     <string name="shopping_delete_title">Удалить</string>
-    <string name="shopping_depreciate">Discount ￥%s</string>
+    <string name="shopping_depreciate">Скидка ￥%s</string>
     <string name="shopping_disable">Покупки выключены</string>
     <string name="shopping_empty_tip">Записей нет</string>
     <string name="shopping_enable">Покупки включены</string>

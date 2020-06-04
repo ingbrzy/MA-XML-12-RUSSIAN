@@ -72,8 +72,8 @@
     <string name="diagnosis_log_sent_format">"Журналы диагностики отправлены.
 ID:%s
 Отправьте этот код руководителю."</string>
-    <string name="error_dup_binded_email">Этот адрес элетронной почты уже связан с другим Mi Аккаунтом.</string>
-    <string name="error_invalid_bind_address">Неверный адрес элетронной почты.</string>
+    <string name="error_dup_binded_email">Этот адрес электронной почты уже связан с другим Mi Аккаунтом.</string>
+    <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
     <string name="exceed_binded_phone_times_notice">Этот номер телефона уже связан с другим Mi Аккаунтом.</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона уже связан с другим Mi Аккаунтом</string>
     <string name="find_psw">Забыли пароль?</string>
@@ -243,8 +243,8 @@ ID:%s
     <string name="mibi_menu_feedback">Обратная связь</string>
     <string name="mibi_menu_lock">Добавить блокировку приложения</string>
     <string name="mibi_menu_qa_feedback">FAQ &amp; Обратная связь</string>
-    <string name="mibi_menu_shotcut">Разместить на главном экране</string>
-    <string name="mibi_mipay_error">Mipay провалена</string>
+    <string name="mibi_menu_shotcut">Добавить ярлык на рабочий стол</string>
+    <string name="mibi_mipay_error">Ошибка Mipay</string>
     <string name="mibi_more_operation">Другие операции</string>
     <string name="mibi_msg_error">Пополнение провалено</string>
     <string name="mibi_msg_order_hint_1_1">После подтверждения покупки, ваше устройство</string>
@@ -291,7 +291,7 @@ ID:%s
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Coins пополнено，%2$s Mi Coins использовано</string>
     <string name="mibi_payment_recharge_group_title">Выберите способ пополнения</string>
     <string name="mibi_payment_success_title">Платеж получен</string>
-    <string name="mibi_payment_with_login_title">Подтвержите ваш Mi Аккаунт</string>
+    <string name="mibi_payment_with_login_title">Подтвердите Mi Аккаунт</string>
     <string name="mibi_paytool_app_not_installed">Вы не установили %1$s. Скачать и установить сейчас?</string>
     <string name="mibi_paytool_error_install">Не удалось установить плагин безопасности для мобильных устройств %1$s</string>
     <string name="mibi_paytool_error_msp">Ошибка %1$s</string>
@@ -332,7 +332,7 @@ ID:%s
     <string name="mibi_progress_mipay_creating">Создание заказа…</string>
     <string name="mibi_progress_msg_creating">Создание заказа пополнения…</string>
     <string name="mibi_progress_paytool_creating">Создание заказа %1$s…</string>
-    <string name="mibi_progress_paytool_installing">Установка мобильного плагина безопасноти %1$s…</string>
+    <string name="mibi_progress_paytool_installing">Установка мобильного плагина безопасности %1$s…</string>
     <string name="mibi_progress_prepaid_creating">Создание заказа…</string>
     <string name="mibi_progress_querying">Обработка…</string>
     <string name="mibi_progress_submit_hint">Пополнение будет отражено на вашем счете в течение 3 минут.</string>
@@ -350,18 +350,18 @@ ID:%s
     <string name="mibi_prompt_info_button_hint">Внимание(%d)</string>
     <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&amp;lt;font color=#ff7700&amp;gt;Mi Coin не может быть использован для покупки аппаратных продуктов на Mi.com.&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
     <string name="mibi_prompt_info_title">Советы</string>
-    <string name="mibi_push_register_fail">Регистрация не удалась.</string>
-    <string name="mibi_push_register_success">Регистрация удалась.</string>
-    <string name="mibi_push_set_accept_time_fail">Задать время не приема %1$s.</string>
-    <string name="mibi_push_set_accept_time_success">Задать время приема успеха %1$s - %2$s.</string>
+    <string name="mibi_push_register_fail">Ошибка регистрации</string>
+    <string name="mibi_push_register_success">Успешная регистрация</string>
+    <string name="mibi_push_set_accept_time_fail">Не удалось установить время принятия для %1$s.</string>
+    <string name="mibi_push_set_accept_time_success">Время принятия для %1$s - %2$s.</string>
     <string name="mibi_push_set_alias_fail">Не удалось установить псевдоним для %1$s.</string>
-    <string name="mibi_push_set_alias_success">Установить псевдоним \"%1$s\" success.</string>
+    <string name="mibi_push_set_alias_success">Псевдоним \"%1$s\" установлен.</string>
     <string name="mibi_push_unset_alias_fail">Ошибка сброса псевдонима для %1$s.</string>
     <string name="mibi_push_unset_alias_success">Сброс псевдонима \"%1$s\" завершен.</string>
-    <string name="mibi_recharge_grid_error_denomination">Размер должен быть между %1$s и %2$s Mi Coins.</string>
+    <string name="mibi_recharge_grid_error_denomination">Сумма должна быть между %1$s и %2$s Mi Coins.</string>
     <string name="mibi_recharge_grid_item_more">Еще</string>
-    <string name="mibi_recharge_grid_mibi_picker_hint">Выберите размер</string>
-    <string name="mibi_recharge_grid_money_picker_hint">Выберите размер</string>
+    <string name="mibi_recharge_grid_mibi_picker_hint">Выберите сумму</string>
+    <string name="mibi_recharge_grid_money_picker_hint">Выберите сумму</string>
     <string name="mibi_recharge_label">Пополнение</string>
     <string name="mibi_recharge_novalid_method">Нет возможного способа пополнения.</string>
     <string name="mibi_recharge_other">Посмотреть другие способы</string>
@@ -611,8 +611,8 @@ ID:%s
     <string name="passport_use_generated_pwd_message">Убедитесь, что вы запомнили свой пароль. Вы можете использовать его для подключения к другим сервисам Mi.</string>
     <string name="passport_use_generated_pwd_title">Запомните свой пароль</string>
     <string name="passport_user_agreement">Условия использования</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Я прочитал и согласен с Xiaomi &lt;a href=%1$s&gt;Пользовательское Соглашение&lt;/a&gt; and &lt;a href=%2$s&gt;Политика Конфиденциальности&lt;/a&gt;.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Я прочитал и согласен со следующими документами Xiaomi: &lt;a href=%1$s&gt;Пользовательское Соглашение&lt;/a&gt; и &lt;a href=%4$s&gt;Политика Конфиденциальности&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;Я прочитал и согласен с &lt;a href=%1$s&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=%2$s&gt;Политикой конфиденциальности&lt;/a&gt;  Xiaomi.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Я прочитал и согласен со следующими документами Xiaomi: &lt;a href=%1$s&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=%4$s&gt;Политика конфиденциальности&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_agreement_p1">Принять </string>
     <string name="passport_user_agreement_p2">Условия использования</string>
     <string name="passport_user_agreement_p3"> и </string>
