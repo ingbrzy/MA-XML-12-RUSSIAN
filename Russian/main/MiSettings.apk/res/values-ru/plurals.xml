@@ -94,18 +94,18 @@
         <item quantity="few">%d дня</item>
     </plurals>
     <plurals name="usage_new_home_avg_unlockc">
-        <item quantity="other">%.2f раз в день в среднем</item>
-        <item quantity="one">%.2f раз в день в среднем</item>
-        <item quantity="few">%.2f раза в день в среднем</item>
+        <item quantity="other">- в среднем %.2f раз в день</item>
+        <item quantity="one">- в среднем %.2f раз в день</item>
+        <item quantity="few">- в среднем %.2f раза в день</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks">
         <item quantity="other">Всего разблокировок: %d</item>
         <item quantity="one">Всего разблокировок: %d</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">%1$d раблокировок в %2$s</item>
-        <item quantity="one">%1$d раблокировка в %2$s</item>
-        <item quantity="few">%1$d раблокировки в %2$s</item>
+        <item quantity="other">%1$d раблокировок %2$s</item>
+        <item quantity="one">%1$d раблокировка %2$s</item>
+        <item quantity="few">%1$d раблокировки %2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Всего разблокировок: %d</item>
@@ -169,9 +169,9 @@
         <item quantity="few">%d уведомления</item>
     </plurals>
     <plurals name="usage_state_unlock_count">
-        <item quantity="other">%d раз</item>
-        <item quantity="one">%d раз</item>
-        <item quantity="few">%d раза</item>
+        <item quantity="other">%d разблокировок</item>
+        <item quantity="one">%d разблокировка</item>
+        <item quantity="few">%d разблокировки</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Выходные дни: %d часов</item>
