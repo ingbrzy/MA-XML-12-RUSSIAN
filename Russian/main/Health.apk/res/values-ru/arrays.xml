@@ -24,25 +24,25 @@
         <item>B(III)</item>
         <item>AB(IV)</item>
         <item>O(I)</item>
-        <item>A(II) Rh+</item>
         <item>A(II) Rh-</item>
-        <item>B(III) Rh+</item>
+        <item>A(II) Rh+</item>
         <item>B(III) Rh-</item>
-        <item>AB(IV) Rh+</item>
+        <item>B(III) Rh+</item>
         <item>AB(IV) Rh-</item>
-        <item>O(I) Rh+</item>
+        <item>AB(IV) Rh+</item>
         <item>O(I) Rh-</item>
+        <item>O(I) Rh+</item>
     </string-array>
     <string-array name="contact_relation_array">
         <item>Не указано</item>
-        <item>Родители</item>
-        <item>Сестры</item>
-        <item>Братья</item>
-        <item>Пара</item>
-        <item>Любовники</item>
-        <item>Друзья</item>
-        <item>Коллеги</item>
-        <item>Одноклассники</item>
+        <item>Родитель</item>
+        <item>Сестра</item>
+        <item>Брат</item>
+        <item>Супруг(а)</item>
+        <item>Партнер(ша)</item>
+        <item>Друг</item>
+        <item>Коллега</item>
+        <item>Одноклассник</item>
     </string-array>    
     <string-array name="energy_unit">
         <item> ккал</item>
@@ -65,13 +65,6 @@
         <item>AB(IV)</item>
         <item>O(I)</item>
     </string-array>
-    <string-array name="normal_blood_types">
-        <item>Не указана</item>
-        <item>A(II)</item>
-        <item>B(III)</item>
-        <item>AB(IV)</item>
-        <item>O(I)</item>
-    </string-array>	
     <string-array name="pager_titles">
         <item>День</item>
         <item>Неделя</item>

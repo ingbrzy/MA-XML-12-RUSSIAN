@@ -63,6 +63,11 @@
   <string name="adjust_sharpen">Резкость</string>
   <string name="adjust_vignette">Виньетка</string>
   <string name="afternoon">После полудня</string>
+  <string name="agreement_agree">Принять</string>
+  <string name="agreement_optional_tip">(Необязательное)</string>
+  <string name="agreement_quit">Выход</string>
+  <string name="agreement_required_tip">(Обязательное)</string>
+  <string name="agreement_summary">Юридическая документация</string>
   <string name="ai_album_open_switch_button_title">Начать анализ фото</string>
   <string name="ai_album_requesting_title">Алгоритм ИИ всё еще обрабатывает ваши фото. Вернитесь позже.</string>
   <string name="ai_album_setting_key_word">Поиск фото</string>
@@ -258,10 +263,12 @@
   <string name="begin_share">Альбом ребенка \"%s\" успешно создан</string>
   <string name="begin_share_toast">Создать отдельный альбом для этого ребенка?</string>
   <string name="blank_app_name" />
+  <string name="blur_refocus_enter"/>
   <string name="browse_category_title">Отображение</string>
   <string name="btn_cancel">Отмена</string>
   <string name="btn_sure">ОК</string>
   <string name="burst_image_download_item_title" formatted="false">Загрузка оригинала (%s|%s)</string>
+  <string name="burst_photo_enter"/>
   <string name="burst_preview_title">Серийный снимок</string>
   <string name="burst_save_all">Сохранить все фото</string>
   <string name="burst_save_choice_title" formatted="false">Выбрано %d из %d</string>
@@ -273,6 +280,7 @@
   <string name="by_sms">SMS</string>
   <string name="byteShort">Б</string>
   <string name="camera_needs_auto_backup_tip">Синхронизируйте альбом Камера</string>
+  <string name="camera_path">/DCIM/Camera</string>
   <string name="can_authorize_owner_albums_share_to_tv">Авторизуйтесь для просмотра альбомов на телевизоре</string>
   <string name="can_not_transfer_when_screening">Трансляция во время передачи не поддерживается</string>
   <string name="cancel">Отмена</string>
@@ -328,7 +336,7 @@
   <string name="chooser_fragment_mishare_title">Отправить в</string>
   <string name="cleaner_empty_value_description">Всё в порядке</string>
   <string name="cleaner_photo_pick_delete_selected">Удалить выбранные файлы</string>
-  <string name="cleaner_raw_action">Просмотр</string>
+  <string name="cleaner_raw_action">Подробности</string>
   <string name="cleaner_raw_description">Освободите место для хранения, удалив большие RAW-файлы</string>
   <string name="cleaner_raw_title">Удалить RAW-файлы</string>
   <string name="cleaner_scan_description">Поиск файлов для освобождения места</string>
@@ -342,7 +350,7 @@
   <string name="cleaner_screen_shot_action">Просмотр</string>
   <string name="cleaner_screen_shot_description">Удалите ненужные скриншоты</string>
   <string name="cleaner_screen_shot_title">Скриншоты</string>
-  <string name="cleaner_similar_action">Просмотр</string>
+  <string name="cleaner_similar_action">Подробности</string>
   <string name="cleaner_similar_description">Удаление дубликатов фото</string>
   <string name="cleaner_similar_title">Дубликаты фото</string>
   <string name="cleaner_slim_action">Начать оптимизацию</string>
@@ -353,7 +361,7 @@
   <string name="cleaner_space_detail_description">Удалите ненужные файлы для освобождения места</string>
   <string name="cleaner_stop_scan">Остановить</string>
   <string name="cleaner_title">Очистка места</string>
-  <string name="cleaner_video_action">Просмотр</string>
+  <string name="cleaner_video_action">Подробности</string>
   <string name="cleaner_video_description">Удалите ненужные видео</string>
   <string name="cleaner_video_pick_delete_selected">Удалить выбранные файлы</string>
   <string name="cleaner_video_title">Видео</string>
@@ -516,6 +524,7 @@
   <string name="disable_auto_upload_tip">Отключить синхронизацию с облаком для этого альбома?</string>
   <string name="disable_auto_upload_title">Отключение синхронизации</string>
   <string name="do_not_remind_me">Больше не показывать</string>
+  <string name="doc_photo_enter"/>
   <string name="document_provider_guide_step_1">1. Нажмите кнопку \"Еще\".</string>
   <string name="document_provider_guide_step_2">2. Нажмите \"Показать внутреннюю память\".</string>
   <string name="document_provider_guide_step_3">3. Нажмите кнопку бокового меню.</string>
@@ -536,6 +545,8 @@
   <string name="download_type_thumbnail">Высокое качество</string>
   <string name="download_type_thumbnail_desc">Высокое качество</string>
   <string name="download_type_title">Качество загрузок</string>
+  <string name="download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным расходам. Загрузить?</string>
+  <string name="download_with_metered_network_title">Мобильный интернет</string>
   <string name="download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
   <string name="download_without_wifi_title">Предупреждение о трафике</string>
   <string name="downloading_desc">%1$d/%2$d</string>
@@ -551,6 +562,7 @@
   <string name="dump_db_info">Дамп информации базы данных</string>
   <string name="early_morning">Утро</string>
   <string name="edit_baby_info">Показать информацию</string>
+  <string name="edit_subtitle_enter"/>
   <string name="editor_cancel">Отмена</string>
   <string name="editor_export">Сохранить</string>
   <string name="editor_talkback_redo">Повтор</string>
@@ -730,12 +742,15 @@
   <string name="filter_food_latte">Латте</string>
   <string name="filter_food_softdrink">Лимонад</string>
   <string name="filter_food_wholemeal">Зерна</string>
+  <string name="filter_general_blackice">Черный лед</string>
   <string name="filter_general_blackwhite">Ч/Б</string>
   <string name="filter_general_delicious">Лакомство</string>
   <string name="filter_general_df">Ясность</string>
   <string name="filter_general_fairytale">Дети</string>
+  <string name="filter_general_greenorange">Лайм</string>
   <string name="filter_general_japanese">Свежесть</string>
   <string name="filter_general_lilt">Ритм</string>
+  <string name="filter_general_movie">Пленка</string>
   <string name="filter_general_nature">Натуральный</string>
   <string name="filter_general_pink">Румянец</string>
   <string name="filter_general_portrait">Портрет</string>
@@ -758,6 +773,7 @@
   <string name="filter_movie_koizora">Манга</string>
   <string name="filter_movie_lost">Потерянный</string>
   <string name="filter_movie_nordic">Нордический</string>
+  <string name="filter_movie_portrait">Цветофокус</string>
   <string name="filter_movie_rome">Рим</string>
   <string name="filter_movie_summer">Лето</string>
   <string name="filter_movie_travel">Путешествие</string>
@@ -846,7 +862,7 @@
   <string name="functions_are_being_developed">Эта функция будет доступна в ближайшее время. Оставайтесь на связи!</string>
   <string name="gallery_setting">Настройки</string>
   <string name="gallery_sync_disable_toast">Синхронизация Галереи отключена</string>
-  <string name="generate_story_summary">MIUI проанализирует ваши фотографии и создаст истории. Отключите эту функцию, если не хотите использовать ее.</string>
+  <string name="generate_story_summary">MIUI проанализирует ваши фото, когда наберется их достаточное количество, и создаст истории. Отключите эту функцию, если не хотите использовать ее.</string>
   <string name="generate_story_title">Истории</string>
   <string name="get_album_info_in_process">Получение данных облачного альбома…</string>
   <string name="gif_tip">GIF</string>
@@ -950,7 +966,7 @@
   <string name="macarons_download_dialog_title">Загрузка плагина</string>
   <string name="macarons_download_dialog_without_wifi_confirm">Загрузить</string>
   <string name="macarons_download_dialog_without_wifi_message">Не удалось подключиться к Wi-Fi. Вы можете использовать мобильный интернет для загрузки плагина Волшебная виньетка."</string>
-    <string name="macarons_download_later">Повторите попытку позже</string>
+  <string name="macarons_download_later">Повторите попытку позже</string>
   <string name="macarons_download_network_fail">Не удалось загрузить плагин. Проверьте настройки сети и повторите попытку.</string>
   <string name="macarons_download_other_fail">Не удалось загрузить из-за ошибки</string>
   <string name="macarons_download_sdscard_fail">Не удалось загрузить. SD-карта недоступна.</string>
@@ -989,7 +1005,11 @@
   <string name="merge_album">Объединить</string>
   <string name="merge_album_title">Объединить с человеком</string>
   <string name="messagelist_sender_self">Я</string>
+  <string name="mi_9_lite">Mi 9 Lite</string>
+  <string name="mi_9t">Mi 9T</string>
+  <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_drop">Mi Share</string>
+  <string name="mi_note_10">Mi Note 10</string>
   <string name="micloud_introduce">Автоматически синхронизировать фото и видео (требуется Mi Аккаунт)</string>
   <string name="midnight">Ночь</string>
   <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
@@ -1052,6 +1072,8 @@
   <string name="more_face">Еще похожие люди</string>
   <string name="more_face_album_name">Другие лица</string>
   <string name="morning">Утро</string>
+  <string name="motion_photo_enter"/>
+  <string name="motion_photo_play">Воспроизведение</string>
   <string name="move_to_other_albums_tip">Переместить этот альбом в Другие?</string>
   <string name="move_to_rubbish_albums_tip">Переместить выбранные альбомы в корзину?</string>
   <string name="movie_add_disable">Можно выбрать до 20 фото</string>
@@ -1071,6 +1093,10 @@
   <string name="movie_audio_vitality">Энергия</string>
   <string name="movie_cancel_download">Отмена</string>
   <string name="movie_change_to_long_video">Вы выбрали более 5 фото. Будет создано длинное видео.</string>
+  <string name="movie_content_describe_add">Добавить фото</string>
+  <string name="movie_content_describe_delete">Удалить фото</string>
+  <string name="movie_content_describe_pause">Пауза</string>
+  <string name="movie_content_describe_play">Воспроизведение</string>
   <string name="movie_customer_unsupport_audio_file">Неподдерживаемый аудиофайл</string>
   <string name="movie_delete_disable">Для создания клипа нужно не менее 3 фото.</string>
   <string name="movie_download">Загрузить</string>
@@ -1078,6 +1104,8 @@
   <string name="movie_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
   <string name="movie_download_sdk_without_wifi_msg">Отсутствует подключение Wi-Fi. Загрузить требуемый плагин (3 МБ) через мобильный интернет?</string>
   <string name="movie_download_sdk_without_wifi_title">Предупреждение о трафике</string>
+  <string name="movie_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным расходам. Загрузить?</string>
+  <string name="movie_download_with_metered_network_title">Мобильный интернет</string>
   <string name="movie_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
   <string name="movie_download_without_wifi_title">Предупреждение о трафике</string>
   <string name="movie_edit">Изменить</string>
@@ -1145,10 +1173,15 @@
   <string name="onekey_none">Оригинал</string>
   <string name="onekey_portrait">Портрет</string>
   <string name="onekey_scene">Пейзаж</string>
+  <string name="online_video_normal_transcoding">Идет перекодирование видео. Повторите попытку позже.</string>
+  <string name="online_video_vip_tip">Приобретите VIP для потоковой передачи видео без предварительной загрузки</string>
+  <string name="online_video_vip_transcoding">"Потоковая передача для VIP…
+При первом использовании этой функции перекодирование может занять некоторое время."</string>
   <string name="open">ОК</string>
   <string name="open_public_message">Создать ссылку для возможности поделиться с друзьями</string>
   <string name="open_public_title">Общий доступ</string>
   <string name="operate_processing_file_error">Дождитесь окончания обработки всех фото.</string>
+  <string name="operate_with_metered_network_msg">Устройство подключено к платной сети. Продолжить?</string>
   <string name="operation_add_album">В альбом</string>
   <string name="operation_add_picture">Добавить</string>
   <string name="operation_add_secret">Добавить в приватный альбом</string>
@@ -1197,6 +1230,8 @@
   <string name="operation_unforce_top">Открепить</string>
   <string name="operation_unhide">Показать</string>
   <string name="operation_video_compress">Сжать видео</string>
+  <string name="oppo">OPPO</string>
+  <string name="oppo_phone">OPPO</string>
   <string name="orientation_lock_tip">Автоповорот выключен</string>
   <string name="orientation_unlock_tip">Автоповорот включен</string>
   <string name="origin_gif_name">оригинал</string>
@@ -1216,6 +1251,13 @@
   <string name="people_page_unname">Без имени</string>
   <string name="permission_contacts_desc">Для назначения контактов людям на фотографиях</string>
   <string name="permission_contacts_name">Контакты</string>
+  <string name="permission_optional_category">Необязательные разрешения</string>
+  <string name="permission_phone_desc">Для назначения соответствующих устройств недавно удаленным элементам в Xiaomi Cloud</string>
+  <string name="permission_phone_name">Устройство</string>
+  <string name="permission_require_category">Обязательные разрешения</string>
+  <string name="permission_storage_desc">Для хранения, отображения, редактирования, синхронизации и загрузки ваших фото и видео</string>
+  <string name="permission_storage_name">Память</string>
+  <string name="permission_use_desc">Разрешения</string>
   <string name="pet_album_display_name">Фото питомцев</string>
   <string name="petabyteShort">ПБ</string>
   <string name="photo">Фото</string>
@@ -1232,6 +1274,7 @@
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Набросок</string>
   <string name="photo_editor_filter">Эффекты</string>
+  <string name="photo_editor_font_default">Mi Lanting (стандартный)</string>
   <string name="photo_editor_frame">Рамка</string>
   <string name="photo_editor_label">Изменить</string>
   <string name="photo_editor_long_crop">Обрезка</string>
@@ -1270,8 +1313,8 @@
   <string name="photo_editor_sticker">Стикеры</string>
   <string name="photo_editor_talkback_cancel">Отменить</string>
   <string name="photo_editor_talkback_confirm">Подтвердить</string>
-  <string name="photo_editor_talkback_crop_1_1">Один к одному</string>
   <string name="photo_editor_talkback_crop_16_9">Шестнадцать к девяти</string>
+  <string name="photo_editor_talkback_crop_1_1">Один к одному</string>
   <string name="photo_editor_talkback_crop_2_3">Два к трем</string>
   <string name="photo_editor_talkback_crop_3_2">Три к двум</string>
   <string name="photo_editor_talkback_crop_3_4">Три к четырем</string>
@@ -1292,7 +1335,7 @@
   <string name="photo_editor_talkback_recently">Недавние</string>
   <string name="photo_editor_talkback_redo">Вернуть</string>
   <string name="photo_editor_talkback_undo">Отменить</string>
-  <string name="photo_editor_text">Текст</string>
+  <string name="photo_editor_text">Водяной знак</string>
   <string name="photo_font_cancel_download">Отмена</string>
   <string name="photo_font_download">Загрузить</string>
   <string name="photo_font_download_failed_for_notwork">"Ошибка загрузки. Подключитесь к сети и повторите попытку."</string>
@@ -1409,6 +1452,8 @@
   <string name="publishing">Открытие доступа…</string>
   <string name="purge_or_recovery_processing">Обработка…</string>
   <string name="quotation">\"%s\"</string>
+  <string name="realme">realme</string>
+  <string name="realme_phone">realme</string>
   <string name="recent_album_empty_title">Нет новых фото</string>
   <string name="recommanded_face_abandon_tip">Удалено из предложений</string>
   <string name="recommanded_face_added_tip">Добавлено в \"%s\"</string>
@@ -1419,7 +1464,22 @@
   <string name="recovery_not_synced_reason">Не удалось восстановить</string>
   <string name="recovery_not_synced_solution">Подключитесь к сети для восстановления.</string>
   <string name="recovery_rename">Переименовать</string>
+  <string name="redmi_6">Redmi 6</string>
+  <string name="redmi_6_pro">Redmi 6 Pro</string>
+  <string name="redmi_6a">Redmi 6A</string>
+  <string name="redmi_7a">Redmi 7A</string>
+  <string name="redmi_8">Redmi 8</string>
+  <string name="redmi_8a">Redmi 8A</string>
+  <string name="redmi_k20">Redmi K20</string>
+  <string name="redmi_k20_pro">Redmi K20 Pro</string>
+  <string name="redmi_k30">Redmi K30</string>
+  <string name="redmi_k30_5g">Redmi K30 5G</string>
+  <string name="redmi_note_5">Redmi Note 5</string>
   <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
+  <string name="redmi_note_7">Redmi Note 7</string>
+  <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+  <string name="redmi_note_8">Redmi Note 8</string>
+  <string name="redmi_note_8_pro">Redmi Note 8 Pro</string>
   <string name="refocus_desc">Перефокусировка</string>
   <string name="refocus_discard_confirm_message">Сохранить изменения?</string>
   <string name="refocus_discard_negative_btn">Не сохранять</string>
@@ -1579,6 +1639,7 @@
   <string name="security_share_subtitle_hide">Информация о местоположении удалена</string>
   <string name="security_share_subtitle_no_hide">Содержит информацию о местоположении</string>
   <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
+  <string name="select_all">Выбрать все</string>
   <string name="select_image_operation">Добавление фото</string>
   <string name="select_item_face">"Это '%s'?"</string>
   <string name="select_origin_tip">Оригинал (%s)</string>
@@ -1644,6 +1705,7 @@
   <string name="slim_running">Оптимизация…</string>
   <string name="slim_space">освобождено</string>
   <string name="slim_stop">Остановить</string>
+  <string name="slow_motion_enter"/>
   <string name="solar_term_autumn_begins">Начало осени</string>
   <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
   <string name="solar_term_clear_and_bright">Ясно</string>
@@ -1676,6 +1738,7 @@
   <string name="special_type_night_beauty">AI портрет при низкой освещенности</string>
   <string name="special_type_night_mode">AI ночной режим</string>
   <string name="special_type_portrait">AI портретная светопись</string>
+  <string name="special_type_raw">RAW</string>
   <string name="special_type_wide_angle">AI ультра-широкий угол</string>
   <string name="start_debug">Отладка Галереи</string>
   <string name="start_to_use_face_albumset">Начать использование</string>
@@ -1689,6 +1752,7 @@
   <string name="sticker_fit">Фитнес</string>
   <string name="sticker_girl">Девчонка</string>
   <string name="sticker_girly">Аксессуары</string>
+  <string name="sticker_graduation">Градация</string>
   <string name="sticker_head">Прическа</string>
   <string name="sticker_pupil">Школьница</string>
   <string name="sticker_rock">Бум!</string>
@@ -1721,6 +1785,7 @@
   <string name="sunday">Воскресенье</string>
   <string name="sunday_short">Вс</string>
   <string name="sunday_shortest">Вс</string>
+  <string name="super_slow_motion_enter"/>
   <string name="sync_album_in_proecess">Синхронизация альбома…</string>
   <string name="sync_battery_low">Батарея разряжена</string>
   <string name="sync_cloud_space_full">Недостаточно места в Xiaomi Cloud</string>
@@ -1754,7 +1819,11 @@
   <string name="text_edit_dialog_style_shadow">Тень</string>
   <string name="text_edit_dialog_style_transparent">Прозрачность</string>
   <string name="text_edit_sub_menu_text">Выноска</string>
-  <string name="text_tab_bubble">Выноски</string>
+  <string name="text_tab_bubble">Выноска</string>
+  <string name="text_tab_city">Город</string>
+  <string name="text_tab_festival">Праздник</string>
+  <string name="text_tab_scene">Сцена</string>
+  <string name="text_tab_spot">Декорации</string>
   <string name="text_tab_watermark">Водяной знак</string>
   <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
   <string name="the_anti_aggression_day">День борьбы с агрессией</string>
@@ -1907,6 +1976,8 @@
   <string name="video_editor_down_load_now">Загрузить</string>
   <string name="video_editor_download">Загрузить</string>
   <string name="video_editor_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
+  <string name="video_editor_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным расходам. Загрузить?</string>
+  <string name="video_editor_download_with_metered_network_title">Мобильный интернет</string>
   <string name="video_editor_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
   <string name="video_editor_download_without_wifi_title">Предупреждение о трафике</string>
   <string name="video_editor_encode_video">Кодирование видео…</string>
@@ -2000,11 +2071,14 @@
   <string name="video_quality_720p_original">720P (без сжатия)</string>
   <string name="video_quality_8k">8K</string>
   <string name="video_quality_title_sub">Текущее разрешение: %1$s (≈%2$s)</string>
+  <string name="video_tags_enter"/>
   <string name="video_with_time">Видео снято в %s</string>
   <string name="video_with_time_and_location">Видео снято в %1$s. Место: %2$s.</string>
   <string name="view_by_gallery_tip">Галерея MIUI</string>
   <string name="view_face_album">Просмотреть альбом</string>
   <string name="view_more_face_desc">Показать другие лица</string>
+  <string name="vivo">vivo</string>
+  <string name="vivo_phone">vivo</string>
   <string name="vlog_audio_changyang">Досуг</string>
   <string name="vlog_audio_close_toast">Оригинальная звуковая дорожка отключена</string>
   <string name="vlog_audio_fulan">Туман</string>
@@ -2073,7 +2147,7 @@
   <string name="vlog_exit_ddit_message">Если вы выйдете сейчас, все изменения будут потеряны. Выйти?</string>
   <string name="vlog_exit_edit_title">Выход из редактора</string>
   <string name="vlog_exit_message">Все несохраненные изменения будут потеряны. Вернуться?</string>
-  <string name="vlog_exit_title">Отмена изменений</string>  
+  <string name="vlog_exit_title">Отмена изменений</string>
   <string name="vlog_film_title">Открытие</string>
   <string name="vlog_filter_changfeng">Ветер</string>
   <string name="vlog_filter_chujing">Спокойствие</string>
@@ -2091,7 +2165,7 @@
   <string name="vlog_float_view_change_audio">Звуковая дорожка</string>
   <string name="vlog_float_view_original_ratio">Исходное</string>
   <string name="vlog_float_view_ratio">Соотношение сторон</string>
-  <string name="vlog_improt_encode_video_error">Ошибка кодирования. Попробуйте еще раз.</string>  
+  <string name="vlog_improt_encode_video_error">Ошибка кодирования. Попробуйте еще раз.</string>
   <string name="vlog_load_data_fail">Не удалось загрузить данные</string>
   <string name="vlog_mi_clip">Видеоредактор</string>
   <string name="vlog_mi_clip_cn">Видеоредактор</string>
@@ -2156,9 +2230,33 @@
   <string name="welcome_to_micloud">Добро пожаловать в Xiaomi Cloud</string>
   <string name="where_is_barcode">Где получить QR-код?</string>
   <string name="who_is_this">Кто это?</string>
+  <string name="xiaomi">Mi</string>
   <string name="xiaomi_10">Mi 10</string>
   <string name="xiaomi_10_pro">Mi 10 Pro</string>
+  <string name="xiaomi_6">Mi 6</string>
+  <string name="xiaomi_6x">Mi 6X</string>
+  <string name="xiaomi_8">Mi 8</string>
+  <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
+  <string name="xiaomi_8_se">Mi 8 SE</string>
+  <string name="xiaomi_8_ud">Mi 8 Pro</string>
+  <string name="xiaomi_8_young">Mi 8 Lite</string>
+  <string name="xiaomi_9">Mi 9</string>
+  <string name="xiaomi_9_pro">Mi 9 Pro 5G</string>
+  <string name="xiaomi_9_se">Mi 9 SE</string>
   <string name="xiaomi_account_not_exists_toast">Mi Аккаунт не существует</string>
+  <string name="xiaomi_cc_9">Mi CC9</string>
+  <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
+  <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
+  <string name="xiaomi_cc_9e">Mi CC9e</string>
+  <string name="xiaomi_max_3">Mi MAX 3</string>
+  <string name="xiaomi_mix_2">Mi MIX 2</string>
+  <string name="xiaomi_mix_2s">Mi MIX 2S</string>
+  <string name="xiaomi_mix_3">Mi MIX 3</string>
+  <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
+  <string name="xiaomi_mix_alpha">Mi MIX Alpha</string>
+  <string name="xiaomi_note_3">Mi Note 3</string>
+  <string name="xiaomi_phone">Xiaomi</string>
+  <string name="xiaomi_poco_f1">POCO F1</string>
   <string name="yes">Да</string>
   <string name="yesterday">Вчера</string>
   <string name="you_are">Вы в детстве</string>

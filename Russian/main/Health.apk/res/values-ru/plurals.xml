@@ -30,9 +30,9 @@
         <item quantity="one">1 мин. назад</item>
     </plurals>	
     <plurals name="birthday_format">
-        <item quantity="other">(%1$d лет)</item>
-        <item quantity="one">(%1$d год)</item>
-        <item quantity="few">(%1$d года)</item>
+        <item quantity="other">" (%1$d лет)"</item>
+        <item quantity="one">" (%1$d год)"</item>
+        <item quantity="few">" (%1$d года)"</item>
     </plurals>	
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d раз</item>

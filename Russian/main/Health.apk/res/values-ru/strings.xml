@@ -55,8 +55,8 @@
     <string name="added_data_source">Добавленные источники</string>
     <string name="afternoon">PM</string>
     <string name="all_records">Все записи</string>
-    <string name="allergic_drugs">Аллергия на препараты</string>
-    <string name="allergic_drugs_hint">Укажите препараты, на которые есть аллергия, и реакцию на них</string>
+    <string name="allergic_drugs">Лекарственная аллергия</string>
+    <string name="allergic_drugs_hint">Укажите препараты, на которые есть аллергия, и реакцию</string>
     <string name="allow_notice_periods">Разрешить напоминания о периоде</string>
     <string name="altitude">Высота</string>
     <string name="altitude_range">Высота</string>
@@ -70,8 +70,8 @@
     <string name="auto_start_fail">Не удалось предоставить разрешение</string>
     <string name="auto_start_success">Разрешение успешно предоставлено</string>
     <string name="auto_start_tips">Нажмите \"Настройки\" ниже, чтобы открыть настройки приложения Здоровье и предоставить ему необходимые разрешения.</string>
-    <string name="avatar">Аватар</string>
-    <string name="avatar_upload_failure">Загрузка не удалась, проверьте подключение к сети</string>
+    <string name="avatar">Фото профиля</string>
+    <string name="avatar_upload_failure">Не удалось загрузить. Проверьте настройки сети и повторите попытку.</string>
     <string name="average_cycle_days">Средняя продолжительность цикла</string>
     <string name="average_menstruation_days">Средняя продолжительность менструации</string>
     <string name="avg_altitude">Средн. высота</string>
@@ -108,7 +108,7 @@
     <string name="birthday">Дата рождения</string>
     <string name="blood_type">Группа крови</string>
     <string name="blood_type_rh">Резус-фактор</string>
-    <string name="blood_type_select">Тип %1$s</string>
+    <string name="blood_type_select">%1$s</string>
     <string name="bmi_label">ИМТ</string>
     <string name="body_bmi_descripe_content">Индекс массы тела (ИМТ) определяется как масса тела в килограммах, деленная на квадрат роста в метрах. Знание ИМТ может помочь понять, влияет ли ваш вес на ваше здоровье.</string>
     <string name="body_composition">Состав тела</string>
@@ -132,7 +132,7 @@
     <string name="breaststroke">Брасс</string>
     <string name="butterfly_stroke">Баттерфляй</string>
     <string name="button_record_menstruation">Запись</string>
-    <string name="camera_permission_desc">Для установки аватара</string>
+    <string name="camera_permission_desc">Для установки фото профиля</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_edit">Отмена</string>
     <string name="cancel_mark_end">Менструация еще не закончилась</string>
@@ -146,14 +146,14 @@
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="chart_no_data">Нет данных</string>
     <string name="chip_text">Чиповый текст</string>
-    <string name="choose_from_album">Выбрать из Галереи</string>
+    <string name="choose_from_album">Галерея</string>
     <string name="chronic">Хронические заболевания</string>
-    <string name="chronic_hint">Укажите хронические заболевания, такие как высокое кровяное давление, астма и т.д.</string>
+    <string name="chronic_hint">Укажите свои хронические заболевания (например, высокое кровяное давление, астма и т. д.)</string>
     <string name="clear">Очистить</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_finish_stand">Нажмите, чтобы завершить тренировку</string>
-    <string name="climb">Восхождение по лестнице</string>
+    <string name="climb">Подъем по ступеням</string>
     <string name="climbing">Восхождение</string>
     <string name="close">Отключить</string>
     <string name="close_once">Отключить однократно</string>
@@ -169,7 +169,7 @@
     <string name="contact_format">%1$s | %2$s</string>
     <string name="contact_format2">"%1$s
 %2$s| %3$s"</string>
-    <string name="contact_format3">%1$s | %2$s| %3$s</string>
+    <string name="contact_format3">%1$s | %2$s | %3$s</string>
     <string name="contact_permission_desc">Для установки экстренных контактов</string>
     <string name="copy">Копировать</string>
     <string name="copy_done">Скопировано</string>
@@ -235,13 +235,13 @@
     <string name="deep_sleep_duration_increase_description">Ваш глубокий сон слишком длинный</string>
     <string name="deep_sleep_duration_normal_description">У вас достаточная длительность глубокого сна</string>
     <string name="delete">Удалить</string>
-    <string name="delete_aid_file">Удалить файл</string>
-    <string name="delete_aid_file_desc">Файл информации о первой помощи будет также удален из облака, его невозможно будет восстановить.</string>
+    <string name="delete_aid_file">Удалить</string>
+    <string name="delete_aid_file_desc">Удаление экстренного медицинского паспорта с устройства</string>
     <string name="delete_all_data">Удалить все данные</string>
     <string name="delete_all_data_sources">Удалить все источники данных</string>
     <string name="delete_all_data_sources_description">Удалить все добавленные источники данных?</string>
-    <string name="delete_avatar">Удалить аватар</string>
-    <string name="delete_contact">Удалить контакт</string>
+    <string name="delete_avatar">Удалить фото профиля</string>
+    <string name="delete_contact">Удалить</string>
     <string name="delete_data_source">Удалить источник данных</string>
     <string name="delete_dialog_close_sync_msg">Чтобы удалить источник данных (%1$s), сначала отключите его синхронизацию.</string>
     <string name="delete_dialog_confirm_msg_cloud">Вы уверены, что хотите удалить источник данных (%1$s) и его данные с устройства и облака?</string>
@@ -253,11 +253,11 @@
     <string name="detail_format">%1$.1f</string>
     <string name="detection_has_no_data">Данных нет</string>
     <string name="detection_not_start">Отслеживание не началось</string>
-    <string name="detection_not_start_detail">Ложитесь спать вовремя</string>
-    <string name="detection_running">Отслеживание</string>
-    <string name="detection_running_detail">Обнаружение сна</string>
+    <string name="detection_not_start_detail">Не засиживайтесь допоздна</string>
+    <string name="detection_running">Анализ сна…</string>
+    <string name="detection_running_detail">Анализ сна…</string>
     <string name="detection_stop">Данная сессия будет завершена, когда вы проснетесь</string>
-    <string name="detection_wait_generate_report">Ожидание отчета</string>
+    <string name="detection_wait_generate_report">Создание отчета…</string>
     <string name="detection_wait_generate_report_detail">Отчет будет готов позже</string>
     <string name="device_data_manage">Управление устройствами</string>
     <string name="device_data_sync">Синхронизация данных</string>
@@ -281,7 +281,7 @@ ID:%s
     <string name="dialog_body_weight_conflict">Вы уже вводили вес в заданный период времени. Изменить?</string>
     <string name="dialog_body_weight_select">Ввести вес</string>
     <string name="dialog_cancel">Отмена</string>
-    <string name="dialog_cancel_edit_record">Отменить редактирование?</string>
+    <string name="dialog_cancel_edit_record">Отменить изменения?</string>
     <string name="dialog_confirm">ОК</string>
     <string name="dialog_date_select">Выберите дату</string>
     <string name="dialog_delete">Удалить</string>
@@ -323,11 +323,11 @@ ID:%s
     <string name="drink_water">Выпейте воды и пройдитесь.</string>
     <string name="early">Ранее</string>
     <string name="early_morning">AM</string>
-    <string name="edit_aid_file">Изменить данные</string>
-    <string name="edit_basic_info_desc">Основные данные</string>
-    <string name="edit_immediately">Заполнить данные</string>
+    <string name="edit_aid_file">Редактирование</string>
+    <string name="edit_basic_info_desc">Основная информация</string>
+    <string name="edit_immediately">Введите информацию</string>
     <string name="edit_sleep_record_button">Редактирование</string>
-    <string name="emergency_contact">Экстренные контакты</string>
+    <string name="emergency_contact">Экстренный контакт</string>
     <string name="empty" />
     <string name="empty_data">-</string>
     <string name="enable">Включить</string>
@@ -355,7 +355,7 @@ ID:%s
 Вы можете выбрать другой источник данных в Настройки&gt; Источники данных."</string>
     <string name="exercise_duration">Длительность упражнения</string>
     <string name="exercise_duration_consume">Длительность: %1$s | Сожжено: %2$s</string>
-    <string name="exercise_fast_description" formatted="false">%1s (%2s)</string>
+    <string name="exercise_fast_description">%1s (%2s)</string>
     <string name="exercise_goal">Цель активности</string>
     <string name="exercise_goal_accomplished">Цель достигнута</string>
     <string name="exercise_goal_lack_exercise">Недостаточная активность</string>
@@ -376,6 +376,10 @@ ID:%s
     <string name="exercise_question_answer_two">2. Иногда датчики движения могут не подключаться. Перезагрузите телефон и проверьте, нормально ли работает отслеживание в данных случаях.</string>
     <string name="exercise_question_title">Почему вы не видите свою статистику?</string>
     <string name="exercise_recog_confirm" formatted="false">%3s между %1s-%2s?</string>
+    <string name="exercise_recog_confirm_ridding">Вы ездили на велосипеде с %1$s до %2$s?</string>
+    <string name="exercise_recog_confirm_run">Вы бегали с %1$s до %2$s?</string>
+    <string name="exercise_recog_confirm_stair_climb">Вы поднимались по ступеням с %1$s до %2$s?</string>
+    <string name="exercise_recog_confirm_walk">Вы ходили с %1$s до %2$s?</string>	
     <string name="exercise_record">История тренировок</string>
     <string name="exercise_record_no_data">Пока ничего нет</string>
     <string name="exercise_reminder_accomplished">Цель достигнута!</string>
@@ -387,8 +391,10 @@ ID:%s
     <string name="exercise_setting_label_reach_standard_remind">Предупреждение об активности</string>
     <string name="exercise_setting_page_title">Настройки активности</string>
     <string name="exercise_speed">Скорость</string>
+    <string name="exercise_start">Начать</string>
     <string name="exercise_strokes">Количество гребков</string>
     <string name="exercise_sum">Отчёт о тренировке</string>
+    <string name="exercise_time">Длительность</string>
     <string name="exercise_walk_description">В соответствии с диетическими рекомендациями для жителей Китая, активная физическая активность должна длиться не менее 40 минут в день, что эквивалентно ходьбе 6000 шагов. Шаги, которые вы делаете каждый день, чтобы ходить, бегать и подниматься по лестнице, кратко изложены здесь.</string>
     <string name="expand_all">Показать все</string>
     <string name="expand_button_title">Дополнительно</string>
@@ -425,7 +431,7 @@ ID:%s
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="full_name">Имя</string>
-    <string name="full_name_hint">Изменить имя</string>
+    <string name="full_name_hint">Введите имя</string>
     <string name="gender_female">Женский</string>
     <string name="gender_male">Мужской</string>
     <string name="gender_other">Другой</string>
@@ -466,6 +472,7 @@ ID:%s
     <string name="health_setting">Настройки</string>
     <string name="high">Высокий</string>
     <string name="high_intensity">Высокая</string>
+    <string name="high_intensity_description">Частое дыхание, можно говорить прерывистыми фразами</string>
     <string name="history_statistics">Статистика</string>
     <string name="home_page_card_setting">Карточки</string>
     <string name="home_tip_open_data_sync">Включить синхронизацию с облаком</string>
@@ -486,7 +493,7 @@ ID:%s
     <string name="insufficient">Недостаточно</string>
     <string name="jump_over">Пропустить</string>
     <string name="just_recently">Только что</string>
-    <string name="keep_edit">Продолжить редактирование</string>
+    <string name="keep_edit">Отмена</string>
     <string name="key_sedentary_toggle">переключатель</string>
     <string name="label_average_daily_sleep_duration">Средняя продолжительность</string>
     <string name="label_average_daily_sleep_time">Среднее время засыпания</string>
@@ -520,7 +527,7 @@ ID:%s
     <string name="label_today_sleep_summary">Сон прошлой ночью</string>
     <string name="label_wake_up">Пробуждение</string>
     <string name="label_wake_up_time">Пробуждение</string>
-    <string name="lack_permisson">Разрешение отозвано. Перейдите в управление разрешениями, чтобы дать необходимое разрешение</string>
+    <string name="lack_permisson">Предоставьте приложению все необходимые разрешения</string>
     <string name="last_measure_date">"Предыдущее взвешивание: "</string>
     <string name="last_measure_hours_minutes">%1$s с момента взвешивания</string>
     <string name="last_sync_time">Синхронизировано: %1$s</string>
@@ -536,6 +543,7 @@ ID:%s
     <string name="login_and_open_sync2">Войти и включить синхронизацию</string>
     <string name="low">Низкий</string>
     <string name="low_intensity">Низкая</string>
+    <string name="low_intensity_description">Спокойное дыхание, можно говорить длинными предложениями</string>
     <string name="manage_home">Настройка начальной страницы</string>
     <string name="manual_add">Добавить вручную</string>
     <string name="manual_adjust">Изменить</string>
@@ -551,12 +559,12 @@ ID:%s
     <string name="maximum">Максимум</string>
     <string name="maximum_pace">Наивысший темп</string>
     <string name="measure_date">Время измерения</string>
-    <string name="medical_file_desc1">Важная информация для первой медицинской помощи в чрезвычайных ситуациях</string>
-    <string name="medical_file_desc2">Заполните персональный файл первой медицинской помощи, в случае чрезвычайной ситуации, он поможет медицинскому персоналу получить информацию для оказания неотложной медицинской помощи.</string>
-    <string name="medical_file_desc3">Поддержка работоспособности облачной синхронизации и резервного копирования данных. Xiaomi Health очень уважает личную конфиденциальность, вся информация будет строго защищена.</string>
-    <string name="medical_first_aid_files">Файл первой медицинской помощи</string>
-    <string name="medication_and_treatment">Лекарства и лечение</string>
-    <string name="medication_and_treatment_hint">Перечислите принимаемые лекарства и болезни, такие как астма, высокое кровяное давление и другие неотложные медицинские нужды, а также наличие брекетов, протезирования, перенесенных операций и другого лечения</string>
+    <string name="medical_file_desc1">Важная медицинская информация, необходимая в экстренных случаях</string>
+    <string name="medical_file_desc2">Запишите основную информацию о своем здоровье, чтобы иметь возможность показать ее медицинским работникам в экстренных случаях.</string>
+    <string name="medical_file_desc3">Xiaomi Health уважает вашу конфиденциальность и будет хранить всю информацию локально, не собирая, не храня и не загружая ее в другое место.</string>
+    <string name="medical_first_aid_files">Экстренный медицинский паспорт</string>
+    <string name="medication_and_treatment">Медикаменты и текущее лечение</string>
+    <string name="medication_and_treatment_hint">Перечислите лекарства, которые вы принимаете или которые вам могут понадобиться в экстренных случаях, а также протезы, брекеты и перенесенные операции.</string>
     <string name="medium_intensity">Умеренная</string>
     <string name="medley">Смешанная</string>
     <string name="meet_days">Цель достигнута</string>
@@ -586,7 +594,8 @@ ID:%s
     <string name="mi_health">Здоровье</string>
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sports">Mi Fit</string>
-    <string name="middle">Средний</string>
+    <string name="middle">Средняя</string>
+    <string name="middle_intensity_description">Учащенное дыхание, можно говорить короткими предложениями</string>
     <string name="midnight">AM</string>
     <string name="min_altitude">Самая низкая высота</string>
     <string name="min_heart_rate">Самый низкий сердечный ритм</string>
@@ -606,7 +615,7 @@ ID:%s
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="model_card_setting">Настройки карточек</string>
     <string name="modify">Редактировать</string>
-    <string name="modify_contact">Изменить контакт</string>
+    <string name="modify_contact">Изменить</string>
     <string name="modify_end_date">Изменить дату окончания</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
@@ -671,29 +680,28 @@ ID:%s
     <string name="network_not_available">Сеть недоступна. Повторите попытку позже.</string>
     <string name="next_step">Далее</string>
     <string name="night">PM</string>
-    <string name="no">нет</string>
     <string name="no_available_device">Нет устройств</string>
     <string name="no_body_weight_record">Нет записей</string>
     <string name="no_data">Нет данных</string>
     <string name="no_records">Нет записей</string>
     <string name="no_snore">Вы не храпели и не разговаривали во сне</string>
     <string name="no_snore_1">Пока ничего нет</string>
-    <string name="no_sport_delete">Не относится к спорту, удалить запись</string>
+    <string name="no_sport_delete">Удалить некорректную запись</string>
     <string name="noon">PM</string>
     <string name="normal">Нормально</string>
     <string name="not_achieve_stand_goals">Цель активности не достигнута</string>
     <string name="not_added">Не добавлено</string>
-    <string name="not_edit">Не редактировать</string>
+    <string name="not_edit">Не указано</string>
     <string name="not_open_auto_sync">Синхронизация отключена</string>
-    <string name="not_save">Не сохранять</string>
-    <string name="not_save_aid_file_desc">Вы уверены, что хотите отказаться от сохранения заполненных данных?</string>
+    <string name="not_save">Отмена</string>
+    <string name="not_save_aid_file_desc">Все несохраненные изменения будут потеряны</string>
     <string name="not_set">Не задано</string>
     <string name="not_standing">Не стойте</string>
     <string name="not_support_step">Устройство не поддерживает подсчет шагов</string>
     <string name="not_up_to_standard">Ниже стандарта</string>
     <string name="number_divided">%1$d/%2$d</string>
-    <string name="oauth_account_failed">Не удалось получить доступ к аккаунту Xiaomi </string>
-    <string name="oauth_account_failed_desc">Xiaomi Health необходимо использовать ваш аккаунт Xiaomi для добавления источников данных. Чтобы продолжить, необходимо перейти на страницу аккаунта Xiaomi для настройки.</string>
+    <string name="oauth_account_failed">Не удалось получить информацию об аккаунте</string>
+    <string name="oauth_account_failed_desc">Для добавления источников данных Xiaomi Health требуется вход в Mi Аккаунт.</string>
     <string name="ok">OK</string>
     <string name="open">Включить</string>
     <string name="open_data_sync_description">Включите синхронизацию с облаком для синхронизации данных о состоянии здоровья из других источников.</string>
@@ -701,7 +709,7 @@ ID:%s
     <string name="open_swimming">Плавание в открытой воде</string>
     <string name="open_sync">Включить синхронизацию</string>
     <string name="open_unrestricted_permissions">Для более точного контроля сна разрешите приложению Здоровье работать в фоновом режиме.</string>
-    <string name="organ_donation_volunteer">Согласие на донорство органов</string>
+    <string name="organ_donation_volunteer">Добровольный донор органов</string>
     <string name="origin">Источник</string>
     <string name="other_can_add_data_source">Доступные источники</string>
     <string name="outdoor_riding">Велосипед</string>
@@ -720,7 +728,7 @@ ID:%s
     <string name="permission_manage">Управление разрешениями</string>
     <string name="permission_tip">Предоставьте приложению Здоровье следующие разрешения для получения более точной статистики сна</string>
     <string name="phone_detection">Обнаружение</string>
-    <string name="photograph">Сделать фото</string>
+    <string name="photograph">Камера</string>
     <string name="picker_day">Выбранный день: %1$d. Взмахните вверх чтобы выбрать.</string>
     <string name="picker_month">Выбранный месяц: %1$d. Взмахните вверх чтобы выбрать.</string>
     <string name="picker_year">Выбранный год: %1$d. Взмахните вверх чтобы выбрать.</string>
@@ -763,13 +771,13 @@ ID:%s
     <string name="record_more">Дополнительные сведения</string>
     <string name="recorded_menstruation">Указанные даты</string>
     <string name="reference">Справочные материалы</string>
-    <string name="relationship_with_contact">Связь с экстренными контактами</string>
+    <string name="relationship_with_contact">Доверенный контакт</string>
     <string name="rem_Duration_increase_description">Ваш быстрый сон слишком длинный</string>
     <string name="rem_duration">REM длительность сна</string>
     <string name="rem_duration_decrease_description">Ваш быстрый сон слишком короткий</string>
     <string name="rem_duration_description" formatted="false">REM относится к быстрому движению глаз. Сон можно разделить на  сон с быстрым движением глаз (REM) и сон без быстрого движения глаз (NREM). Сон с быстрым движением глаз составляет около 20-25% от общей продолжительности сна. Когда люди просыпаются на этом этапе, от 74 до 95% из них говорят, что они мечтали и способны вспомнить свои сны. Мозг очень активен, и тело полностью расслаблено во время быстрого сна, что делает эту фазу сна необходимой для поддержания когнитивных функций..</string>
     <string name="rem_duration_normal_description">Продолжительность быстрого сна в норме</string>
-    <string name="remarks">Примечания</string>
+    <string name="remarks">Примечание</string>
     <string name="remind">Напомнить</string>
     <string name="remind_goto_sleep">Уже поздно. Пора ложиться спать.</string>
     <string name="remind_menstruation_acquired_start">Менструация может начаться через 2 дня</string>
@@ -788,8 +796,6 @@ ID:%s
     <string name="remove">Удалить</string>
     <string name="retry">Повтор</string>
     <string name="revert_to_default">Восстановить по умолчанию</string>
-    <string name="rh_negative">отрицательный</string>
-    <string name="rh_positive">положительный</string>
     <string name="run">Бег</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -807,16 +813,16 @@ ID:%s
     <string name="sedentary_title">Напоминания о разминке</string>
     <string name="sedentary_toggle_content">Приложение Здоровье будет предлагать вам сделать разминку, если вы долгое время находитесь без движения.</string>
     <string name="sedentaty_hazard_description">Сидячий образ жизни вызывает множество проблем со здоровьем. Старайтесь двигаться больше 1 минуты в час для достижения ежедневной цели, чтобы избежать опасности сидячей жизни.</string>
-    <string name="select_exercise_type">Выберите тип упражнения</string>
+    <string name="select_exercise_type">Выберите тип тренировки</string>
     <string name="select_menstruation_end_date">Выберите дату окончания менструации</string>
     <string name="select_null">Не выбрано</string>
-    <string name="select_recog_question">Выберите секретный вопрос</string>
+    <string name="select_recog_question">Выберите действие</string>
     <string name="select_target">Выберите цель</string>
     <string name="send_diagnosis_log">Отправить журнал диагностики</string>
     <string name="sending">Отправка…</string>
     <string name="set_emergency_contact">Экстренный контакт</string>
     <string name="setting">Настройки</string>
-    <string name="setting_avatar">Аватар</string>
+    <string name="setting_avatar">Фото профиля</string>
     <string name="setting_birthday">Дата рождения</string>
     <string name="setting_blood_type">Группа крови</string>
     <string name="setting_data_cloud_sync_tip">Используйте эту функцию для резервного копирования и синхронизации данных с других устройств</string>
@@ -941,7 +947,7 @@ ID:%s
     <string name="snore_detection_abnormal_notification_title">Ошибка отслеживания сна</string>
     <string name="snore_detection_abnormal_state">Сессия была прервана</string>
     <string name="snore_detection_abnormal_state_description">Микрофон выключен</string>
-    <string name="snore_detection_close_prompt">Отслеживание храпа и разговоров во сне отключено</string>
+    <string name="snore_detection_close_prompt">Отслеживание храпа и разговора во сне отключено</string>
     <string name="snore_detection_close_title">Отключить обнаружение храпа и разговора?</string>
     <string name="snore_detection_enable">Обнаружение храпа и разговора</string>
     <string name="snore_detection_guide_one_description">Звук будет записан во время сна. Машинное обучение позволяет приложению Здоровье обнаруживать храп, разговоры и громкие шумы и сохранять записи на вашем устройстве.</string>
@@ -951,12 +957,12 @@ ID:%s
     <string name="snore_detection_guide_three_description">Убедитесь, что устройство достаточно заряжено, прежде чем ложиться спать. Низкий заряд батареи может прервать запись звука.</string>
     <string name="snore_detection_guide_three_title">Держите устройство заряженным</string>
     <string name="snore_detection_guide_two_description">Микрофон будет включен и выключен в соответствии с вашим графиком сна.</string>
-    <string name="snore_detection_guide_two_title">Обнаруживать звуки автоматически</string>
+    <string name="snore_detection_guide_two_title">Отслеживать звуки автоматически</string>
     <string name="snore_detection_model_hint">Алгоритмы обнаружения храпа и разговора предоставлены Snail Sleep</string>
     <string name="snore_detection_normal_notification_title">Обнаружение храпа и разговора</string>
     <string name="snore_detection_notification_content">Микрофон включен. Он будет продолжать работать в фоновом режиме.</string>
     <string name="snore_detection_notification_title">Идет тестирование</string>
-    <string name="snore_detection_open_prompt">Отслеживание храпа и разговоров во сне включено для следующего цикла сна</string>
+    <string name="snore_detection_open_prompt">Отслеживание храпа и разговора во сне будет включено, когда вы ляжете спать</string>
     <string name="snore_detection_running_state">Обнаружение…</string>
     <string name="snore_detection_running_state_description">Микрофон включен. Он будет продолжать работать в фоновом режиме.</string>
     <string name="snore_detection_sotp_opt_1">Остановить и удалить результаты</string>
@@ -1316,7 +1322,7 @@ ID:%s
     <string name="user_invalid_value">--</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-    <string name="value_error_correct">Неверное значение, исправьте</string>
+    <string name="value_error_correct">Измените запись</string>
     <string name="visceral_fat">Висцеральный жир</string>
     <string name="visceral_fat_descripe_content">Висцеральный жир необходим для стабилизации и защиты внутренних органов. Однако высокий уровень висцерального жира увеличивает риск сердечно-сосудистых и метаболических заболеваний.</string>
     <string name="walk">Ходьба</string>
@@ -1350,6 +1356,5 @@ ID:%s
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$s КБ</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
     <string name="year">Год</string>
-    <string name="yes">да</string>
     <string name="yesterday">Вчера</string>
 </resources>
