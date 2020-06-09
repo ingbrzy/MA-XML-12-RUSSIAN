@@ -90,6 +90,7 @@
     <string name="always_use_metered">Всегда использовать мобильный интернет</string>
     <string name="am">AM</string>
     <string name="app_label">Загрузки</string>
+    <string name="app_name">sdk</string>
     <string name="app_permission_confirm">Подтвердить</string>
     <string name="app_permission_optional">Необязательные разрешения</string>
     <string name="app_permission_require">Обязательные разрешения</string>
@@ -132,6 +133,7 @@
     <string name="button_sort_by_date">Сортировать по дате</string>
     <string name="button_sort_by_size">Сортировать по размеру</string>
     <string name="button_wait_for_wifi">Отложить</string>
+    <string name="buy_vip_skip_ad">Удалить рекламу</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_running_download">Отмена</string>
     <string name="cannot_download_to_sdcard_hint">Нельзя загрузить файлы на SD-карту из-за ограничений авторских прав. Файлы будут загружены во внутреннее хранилище.</string>
@@ -146,6 +148,12 @@
     <string name="click_to_add_album_cover_and_lyric">Нажмите, чтобы добавить обложку и текст</string>
     <string name="click_to_shuffle">Перемешать</string>
     <string name="close_music_time">"Оставшееся время: "</string>
+    <string name="columbus_player_close_desc">Вы потеряете свою награду</string>
+    <string name="columbus_player_close_resume">ВОЗОБНОВИТЬ</string>
+    <string name="columbus_player_close_title">Закрыть видео?</string>
+    <string name="columbus_player_close_video">ЗАКРЫТЬ ВИДЕО</string>
+    <string name="columbus_player_install_now">УСТАНОВИТЬ</string>
+    <string name="columbus_player_learn_more">Ознакомиться</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
@@ -495,6 +503,46 @@
     <string name="is_scanning">Проверка накопителя…</string>
     <string name="is_scanning_support_online">"Проверка накопителя…
 (Пока можно слушать музыку онлайн)"</string>
+    <string name="joox_account_bind_mi_account">Добавить Mi Аккаунт</string>
+    <string name="joox_account_cancel_login">Отмена</string>
+    <string name="joox_account_continue_login">Войти</string>
+    <string name="joox_account_fans_center">Клуб фанатов</string>
+    <string name="joox_account_login_conflict_message">Вы пытаетесь войти с другого устройства. Войти?</string>
+    <string name="joox_account_login_exception">Войти</string>
+    <string name="joox_account_multi_device_login">Несколько устройств</string>
+    <string name="joox_area_check_failed">Похоже, вы находитесь в районе, где наши сервисы недоступны. Подключитесь к другой сети и снова запустите приложение.</string>
+    <string name="joox_auth_button_acquire_vip_instantly">Оформить VIP подписку</string>
+    <string name="joox_auth_button_login_to_acquire_vip">Войдите, чтобы оформить VIP подписку</string>
+    <string name="joox_auth_dialog_message">Мы рекомендуем вам несколько песен. Оформите VIP подписку, чтобы снять ограничения.</string>
+    <string name="joox_auth_message_connect_network">Подключитесь к сети для возможности воспроизведения загруженных песен.</string>
+    <string name="joox_auth_message_content_for_vip_only">Этот контент доступен только VIP подписчикам</string>
+    <string name="joox_auth_message_content_offline">Онлайн-сервисы сейчас недоступны. Мы работаем над улучшением, доступ скоро будет открыт. Оставайтесь с нами!</string>
+    <string name="joox_auth_message_login_status_expired">Время сеанса входа истекло. Войдите снова.</string>
+    <string name="joox_auth_message_one_hour_limit_for_one_company">Вы можете прослушивать не более шести песен одного и того же лейбла каждый час. Послушайте пока несколько рекомендованных песен.</string>
+    <string name="joox_auth_message_recommend_for_you">Рекомендации</string>
+    <string name="joox_auth_message_update_vip_to_change_playlist">Оформите VIP подписку для возможности редактировать плейлисты</string>
+    <string name="joox_auth_message_update_vip_to_download">Оформите VIP подписку для возможности загрузки</string>
+    <string name="joox_auth_message_update_vip_to_listen_offline">Ваша VIP подписка истекла. Теперь вы можете слушать песни только онлайн. Оформите VIP подписку для возможности скачивать песни.</string>
+    <string name="joox_auth_message_update_vip_to_play_on_demand">Невозможно воспроизвести эту песню из-за ограничений авторского права. Попробуйте воспроизведение в случайном порядке или оформите VIP подписку для воспроизведения этой песни.</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">Невозможно воспроизвести эту песню из-за ограничений авторского права. Оформите VIP подписку для снятия ограничений.</string>
+    <string name="joox_auth_message_update_vip_to_switch_songs">Оформите VIP подписку для переключения между треками</string>
+    <string name="joox_auth_message_update_vip_to_use_function">Оформите VIP подписку для использования этой функции</string>
+    <string name="joox_auth_title_download_song">Загрузить песни</string>
+    <string name="joox_auth_title_login_again">Войти</string>
+    <string name="joox_auth_title_long_time_no_network">Похоже, вы давно не подключались к сети</string>
+    <string name="joox_auth_title_shuffle_play">Случайный порядок</string>
+    <string name="joox_auth_title_vip_content">VIP контент</string>
+    <string name="joox_auth_title_vip_expired">Подписка истекла</string>
+    <string name="joox_auth_title_vip_function">VIP функции</string>
+    <string name="joox_download_title">Загрузки JOOX</string>
+    <string name="joox_privacy_desc">Политика конфиденциальности JOOX (необязательное)</string>
+    <string name="joox_privacy_tips_content">Перед использованием онлайн-сервисов прочитайте и примите &lt;a href="/link/click"&gt;Политику конфиденциальности JOOX&lt;/a&gt;.</string>
+    <string name="joox_privacy_tips_title">Политика конфиденциальности JOOX</string>
+    <string name="joox_recommend_artist_title">Рекомендуемые исполнители</string>
+    <string name="joox_recommend_playlist_title">Рекомендуемые плейлисты</string>
+    <string name="joox_search_result_more">Еще</string>
+    <string name="joox_vip_check_to_pay">Оформить</string>
+    <string name="joox_vip_expired_hint">Ваша VIP подписка истекла. Песни, загруженные с JOOX, будут только отображаться в ваших загрузках.</string>
     <string name="keep_queued_download">Оставить</string>
     <string name="ktv_playlist">Плейлист KTV</string>
     <string name="language_page_confirm">Подтвердить</string>
@@ -927,6 +975,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="supplementary_songs">Дополнительные песни</string>
     <string name="switch_success">Успешно переключено</string>
     <string name="tab_album">Альбомы</string>
     <string name="tab_album_list">Альбомы</string>
