@@ -2501,7 +2501,8 @@
     <string name="erase_sure">Принудительная очистка</string>
     <string name="error_adding_apn_type">Оператор запретил добавление точки доступа этого типа (%s).</string>
     <string name="error_apn_empty">Необходимо указать APN</string>
-    <string name="error_apn_restrict_string">Поле APN не может содержать %1$s</string>
+    <string name="error_apn_not_allowed">Недопустимый APN. Укажите другой.</string>
+    <string name="error_apn_restrict_string">APN не может содержать %1$s</string>
     <string name="error_capturing_system_heap_dump_message">Не удалось создать системный дамп.</string>
     <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
     <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>
@@ -3935,6 +3936,7 @@
     <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_indonesia">Аккаунт Mi Pay</string>
     <string name="mi_pay_summary">Транспортная карта/Mi Pay/Эмулятор карты</string>
+    <string name="mi_pay_summary_without_nfc">Mi Pay</string>
     <string name="mi_service">Mi сервис</string>
     <string name="mi_service_app_detail">Информация о трафике</string>
     <string name="mi_shopping_mall">Mi Store</string>
@@ -3995,9 +3997,9 @@
     <string name="miui_sos_contacts_category">Экстренные контакты</string>
     <string name="miui_sos_emergency_contacts">Экстренные контакты</string>
     <string name="miui_sos_emergency_delete">Удалить</string>
-    <string name="miui_sos_emergency_delivered_sms" formatted="false">Сообщение для %1s (%2s) доставлено</string>
-    <string name="miui_sos_emergency_delivered_sms_noname">Сообщение для %1s доставлено</string>
-    <string name="miui_sos_emergency_failed_sms" formatted="false">Не удалось отправить сообщение для %1s (%2s)</string>
+    <string name="miui_sos_emergency_delivered_sms">Сообщение доставлено %1s (%2s) </string>
+    <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1s</string>
+    <string name="miui_sos_emergency_failed_sms">Не удалось отправить сообщение %1s (%2s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Не удалось отправить сообщение для %1s</string>
     <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки экстренным контактам сообщения SOS с вашим местоположением</string>
     <string name="miui_sos_enable_switch_title">Режим SOS</string>
