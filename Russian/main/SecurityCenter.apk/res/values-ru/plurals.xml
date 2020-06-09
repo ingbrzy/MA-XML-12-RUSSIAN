@@ -193,6 +193,16 @@
     <item quantity="one">Играет %1$d человек</item>
     <item quantity="few">Играют %1$d человека</item>
   </plurals>
+  <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+    <item quantity="other">Удалить %2$d игр (включая %1$s)</item>
+    <item quantity="one">Удалить %2$d игру (включая %1$s)</item>
+    <item quantity="few">Удалить %2$d игры (включая %1$s)</item>
+  </plurals>
+  <plurals name="gb_game_video_ai_record_finish_tips">
+    <item quantity="other">Сохранено %d AI записей в Ускорении игр</item>
+    <item quantity="one">Сохранена %d AI запись в Ускорении игр</item>
+    <item quantity="few">Сохранено %d AI записи в Ускорении игр</item>
+  </plurals>  
   <plurals name="gb_record_time_title">
     <item quantity="other">%d сек.</item>
     <item quantity="one">%d сек.</item>
@@ -280,6 +290,11 @@
     <item quantity="one">Добавлена %d игра</item>
     <item quantity="few">Добавлено %d игры</item>
   </plurals>
+  <plurals name="intl_perm_privacy_control_message_count">
+    <item quantity="other">Можно защитить %d объектов</item>
+    <item quantity="one">Можно защитить %d объект</item>
+    <item quantity="few">Можно защитить %d объекта</item>
+  </plurals>  
   <plurals name="keyguard_charging_info_drained_hour_time_format">
     <item quantity="other">%s часов</item>
     <item quantity="one">%s час</item>

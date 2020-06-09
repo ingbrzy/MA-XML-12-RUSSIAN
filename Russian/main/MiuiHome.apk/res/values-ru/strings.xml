@@ -27,8 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="accessibility_all_app_custom_category_finish">Готово</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Удалить \"%1$s\" из категорий</string>
+    <string name="accessibility_clear_search_bar_text">Очистить панель поиска</string>
+    <string name="accessibility_enter_all_app_mode">Открыть меню приложений</string>
+    <string name="accessibility_enter_all_app_settings">Настройки меню приложений</string>
     <string name="accessibility_menu_item_smallwindow_disable">Приложение не поддерживает плавающие окна</string>
-    <string name="accessibility_menu_item_smallwindow_enable">Приложение поддерживает плавающие окна</string>	
+    <string name="accessibility_menu_item_smallwindow_enable">Приложение поддерживает плавающие окна</string>
     <string name="accessibility_menu_item_split_disable">Приложение не поддерживает разделение экрана.</string>
     <string name="accessibility_menu_item_split_enable">Приложение поддерживает разделение экрана</string>
     <string name="accessibility_recent_task_enter">Недавние открыты</string>
@@ -64,6 +69,7 @@
     <string name="all_apps_no_search_results">Нет результатов</string>
     <string name="all_apps_search_app">Поиск приложений</string>
     <string name="all_apps_search_market_message">Поиск в интернете</string>
+    <string name="all_apps_setting_classic_title">Классический</string>
     <string name="all_apps_setting_desktop_desc">Приложения расположены на рабочем столе. Для просмотра доступных функций приложения нажмите и удерживайте его значок.</string>
     <string name="all_apps_setting_desktop_title">Классический</string>
     <string name="all_apps_setting_drawer_desc">Приложения расположены в меню, которое открывается свайпом вверх на рабочем столе. Приложения можно размещать и на рабочем столе.</string>
@@ -146,6 +152,7 @@
     <string name="auto_add_app_shortcut">Размещать новые приложения на рабочем столе</string>
     <string name="auto_delete_category_dialog_content">Категория и связанные с ней приложения будут удалены. Удалить?</string>
     <string name="auto_delete_category_dialog_title">Удаление категорий</string>
+    <string name="back">Назад</string>
     <string name="backup_fail">Сбой резервного копирования</string>
     <string name="bad_wallpaper_source_prompt">Не удалось загрузить обои</string>
     <string name="buffering">Буферизация…</string>
@@ -170,6 +177,10 @@
     <string name="choose_wallpaper">Выберите обои</string>
     <string name="chooser_wallpaper">Выберите новые обои</string>
     <string name="cloud_app_restore_title">Ожидание</string>
+    <string name="common_home_search_delete">Уделение панели поиска</string>
+    <string name="common_home_search_delete_cancle">Отмена</string>
+    <string name="common_home_search_delete_confirm">Удалить</string>
+    <string name="common_home_search_delete_content">Поиск с использованием панели поиска на рабочем столе будет недоступен. Удалить?</string>
     <string name="configure_wallpaper">Обои</string>
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Клоны приложений будут удалены вместе с основными.</string>
@@ -320,6 +331,7 @@
     <string name="launcher_search_bar_title">Панель поиска</string>
     <string name="launcher_search_bar_value_disable">Откл.</string>
     <string name="launcher_search_bar_value_enable">Вкл.</string>
+    <string name="launcher_search_provider_title">Поставщик поиска на рабочем столе</string>
     <string name="launcher_slide_up_title">Свайп вверх</string>
     <string name="launcher_sliding_up_gesture">Поиск свайпом вверх</string>
     <string name="launcher_title">Рабочий стол</string>
@@ -391,7 +403,7 @@
     <string name="open_personal_assistant_title">Ассистент</string>
     <string name="out_of_space">На этом экране нет свободного места</string>
     <string name="perfect_icons_switch_summary">Использовать анимацию для значков сторонних приложений</string>
-    <string name="perfect_icons_switch_title">Анимация для всех значков</string>	
+    <string name="perfect_icons_switch_title">Анимация для всех значков</string>
     <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя.</string>
     <string name="permdesc_install_widget">Позволяет приложению добавлять виджеты без участия пользователя.</string>
     <string name="permdesc_read_settings">Позволяет приложению считывать настройки и ярлыки рабочего стола.</string>
@@ -511,8 +523,10 @@
     <string name="sort_by_not_defined">По порядку</string>
     <string name="start_activity_failed">Не удалось запустить рабочий стол</string>
     <string name="starting_preset_app">Запуск…</string>
-    <string name="status_bar_recent_memory_info1">Доступно %1$sB из %2$sB</string>
+    <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
+    <string name="status_bar_recent_memory_info1">Доступно %1$s из %2$s</string>
     <string name="status_bar_recent_memory_info2"/>
+    <string name="status_bar_recent_memory_mega">%1$s МБ</string>
     <string name="status_downloaded">Загруженные</string>
     <string name="status_downloading">Загрузка</string>
     <string name="status_installing">Установка</string>

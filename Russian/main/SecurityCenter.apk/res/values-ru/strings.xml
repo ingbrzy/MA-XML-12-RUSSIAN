@@ -1342,7 +1342,7 @@
   <string name="game_else_function">Прочее</string>
   <string name="game_manual_record_setting_king">King of Glory</string>
   <string name="game_manual_record_setting_peace">Peace elite</string>
-  <string name="game_manual_record_setting_setting">О функции</string>
+  <string name="game_manual_record_setting_setting">Настройки</string>
   <string name="game_manual_record_setting_title">Ключевые моменты</string>
   <string name="game_more_improve">Ограничить фоновые процессы и скорость загрузки, чтобы сэкономить заряд батареи и трафик для игр</string>
   <string name="game_setting">Игровые настройки</string>
@@ -1381,7 +1381,7 @@
   <string name="gamebox_milink">Трансляция</string>
   <string name="gamebox_positive_button_text">ОК (%1$ds)</string>
   <string name="gamebox_qq_not_find">Установите QQ и повторите попытку.</string>
-  <string name="gamebox_recent_task_expand_fail">"Приложения для работы с ярлыками не установлены"</string>
+  <string name="gamebox_recent_task_expand_fail">Приложения для работы с ярлыками не установлены</string>
   <string name="gamebox_simcard">Переключение SIM-карт</string>
   <string name="gamebox_type_close">Не показывать</string>
   <string name="gamebox_type_float">Фиксированная</string>
@@ -1394,7 +1394,7 @@
   <string name="gateway_exception_summary">Проверьте роутер и повторите попытку.</string>
   <string name="gateway_exception_summary2">Ошибка подключения к серверу</string>
   <string name="gateway_exception_title">Диагностика роутера</string>
-  <string name="gb_ad_game_size">МБ</string>
+  <string name="gb_ad_game_size">" МБ"</string>
   <string name="gb_add_game_hint">Выбор из списка приложений</string>
   <string name="gb_add_game_loading_tips">Подождите…</string>
   <string name="gb_advance_settings_edge_gear1">Нет</string>
@@ -1428,11 +1428,10 @@
   <string name="gb_description_image_button_video_answer">Видеовызов</string>
   <string name="gb_dialog_game_uninstall_deleting">Удаление…</string>
   <string name="gb_dialog_game_uninstall_loading">Загрузка игр…</string>
-  <string name="gb_dialog_game_uninstall_multi_tips_title">Удалите игры: %2$d. Например %1$s</string>
-  <string name="gb_dialog_game_uninstall_tips_message">Все игровые данные также будут удалены</string>
-  <string name="gb_dialog_game_uninstall_tips_message_xspace">Клоны игры и все игровые данные также будут удалены</string>
+  <string name="gb_dialog_game_uninstall_tips_message">Все данные приложения будут удалены</string>
+  <string name="gb_dialog_game_uninstall_tips_message_xspace">Все данные приложения и его клоны будут удалены</string>
   <string name="gb_dialog_game_uninstall_tips_title">Удаление %s</string>
-  <string name="gb_dialog_record_way_ai">AI записи сохраняются в gamebox хранятся 7 дней.</string>
+  <string name="gb_dialog_record_way_ai">AI записи сохраняются в Ускорении игр и хранятся 7 дней.</string>
   <string name="gb_dialog_record_way_finish">Готово</string>
   <string name="gb_dialog_record_way_manual">Запись видео длительностью до 30 секунд вручную</string>
   <string name="gb_dialog_record_way_setting_tips">Примечание: запись игровых сессий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
@@ -1455,11 +1454,11 @@
   <string name="gb_first_window_title">Ускорение игр</string>
   <string name="gb_game_end_toast">Вернитесь к ключевым моментам ваших игр</string>
   <string name="gb_game_video_ai_record_finish_tips">AI записи при ускорении игр: %d</string>
-  <string name="gb_game_video_bottom_tips">Просматривайте записи игровых сессий в gamebox. По умолчанию видео хранятся 7 дней.</string>
+  <string name="gb_game_video_bottom_tips">Просматривайте ключевые моменты ваших игровых сессий в Ускорении игр. Записи автоматически удаляются через 7 дней.</string>
   <string name="gb_game_video_item_tag">Ключевые моменты</string>
   <string name="gb_game_video_page_delete_success">Успешно удалено</string>
   <string name="gb_game_video_page_null">Запись ключевых моментов игровых сессий</string>
-  <string name="gb_game_video_record_finish_tips">Успешно сохранено</string>
+  <string name="gb_game_video_record_finish_tips">Записи сохранены в Ускорении игр</string>
   <string name="gb_game_video_save">Сохранить</string>
   <string name="gb_game_video_type_ai">AI</string>
   <string name="gb_game_video_type_ai_record">AI запись</string>
@@ -1489,8 +1488,8 @@
   <string name="gb_signed_title">Отметились в этом месяце</string>
   <string name="gb_sound_audition">Попробовать</string>
   <string name="gb_storage_game_uninstall">Удаление игр</string>
-  <string name="gb_storage_summary">Значки игр будут размещены в отдельной папке и не будут отображаться на рабочем столе</string>
-  <string name="gb_storage_title">Значки игр</string>
+  <string name="gb_storage_summary">Не показывать на рабочем столе игры, которые добавлены в Ускорении игр</string>
+  <string name="gb_storage_title">Скрытие игр</string>
   <string name="gb_voice_change_settinged">Синтезатор включен</string>
   <string name="gb_voice_changer_cartoon">Мультик</string>
   <string name="gb_voice_changer_dlg_button_agree">Разрешить</string>
@@ -1503,14 +1502,14 @@
   <string name="gb_voice_changer_permission_dlg_msg">Синтезатору для нормальной работы требуется разрешение на запись звука.</string>
   <string name="gb_voice_changer_permission_dlg_title">Требуется разрешение</string>
   <string name="gb_voice_changer_robot">Робот</string>
-  <string name="gb_wonderful_moment_toast_window_new_pop">Включите AI запись или запись вручную, чтобы сохранить замечательные моменты</string>
+  <string name="gb_wonderful_moment_toast_window_new_pop">Записывайте ключевые моменты ваших игровых сессий</string>
   <string name="gb_wonderful_video_cancel">Отмена</string>
   <string name="gb_wonderful_video_checkall">Выбрать все</string>
   <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
   <string name="gb_wonderful_video_delete">Удалить</string>
-  <string name="gb_wonderful_video_goto_box">Перейти к просмотру ускорения игр</string>
+  <string name="gb_wonderful_video_goto_box">Открыть Ускорение игр</string>
   <string name="gb_wonderful_video_header_title">Сегодня</string>
-  <string name="gb_wonderful_video_save_suc">Успешно сохранено</string>
+  <string name="gb_wonderful_video_save_suc">Сохранено</string>
   <string name="gb_xunyou_gift_type_one">Ускорение Xunyou на 1 день</string>
   <string name="gb_xunyou_gift_type_three">Ускорение Xunyou на 3 дня</string>
   <string name="gb_xunyou_gift_type_two">Ускорение Xunyou на 2 дня</string>
@@ -1548,12 +1547,11 @@
   <string name="gs_dialog_confirm_close_title">Отключение</string>
   <string name="gs_forbid_autosync">Ограничить синхронизацию</string>
   <string name="gs_game_ai_record">Запись с использованием AI</string>
-  <string name="gs_game_ai_record_subtitle">Для записи во время игры нажмите кнопку \"Запись\"на панели инструментов. Видео с ключевыми моментами будут сгенерированы автоматически. По истечении 7 дней сохраненные файлы будут удалены. Можно также настроить сохранение на постоянной основе.</string>
+  <string name="gs_game_ai_record_subtitle">Включите автоматическую запись ключевых моментов игровой сессии. Записи автоматически удаляются через 7 дней, но вы можете сохранить их отдельно после каждой игровой сессии.</string>
   <string name="gs_game_disturb_msg">Режим \"Не беспокоить\"</string>
   <string name="gs_game_duration">Время</string>
   <string name="gs_game_manual_record">Запись вручную</string>
-  <string name="gs_game_manual_record_subtitle">Для записи во время игры нажмите кнопку \"Запись\"на панели инструментов.
-Видео длительностью до 30 секунд будут сохранены в Ускорение игр &gt; Ключевые моменты.</string>
+  <string name="gs_game_manual_record_subtitle">Используйте плавающий ярлык для ручной записи ключевых моментов игровой сессии длительностью до 30 секунд. Записи автоматически удаляются через 7 дней.</string>
   <string name="gs_game_manual_record_subtitle_child">При использовании этой функции вы можете столкнуться с некоторыми проблемами:</string>
   <string name="gs_game_manual_record_subtitle_child_carton">Запись игровых сессий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Другие функции записи экрана могут работать неправильно.</string>
@@ -1563,7 +1561,7 @@
   <string name="gs_game_record_intro_tips">*Запись игровой сессии доступна только для выбранных совместимых игр</string>
   <string name="gs_game_shortcut">Улучшение производительности и управления</string>
   <string name="gs_gamebox">Панель ярлыков</string>
-  <string name="gs_gamebox_detail">Отображение панели ярлыков во время игры</string>
+  <string name="gs_gamebox_detail">Отображать панель ярлыков во время игры</string>
   <string name="gs_gamebox_slip">Сдвиньте экран вниз для открытия</string>
   <string name="gs_only_self_start_for_list">Ограничить фоновые процессы, чтобы сэкономить заряд батареи для игр</string>
   <string name="gs_open_game_booster">Ускорение</string>
@@ -1580,7 +1578,7 @@
   <string name="gtb_dialog_hint_smart_5g">Вы можете включить или выключить эту функцию в Ускорение игр &gt; Настройки.</string>
   <string name="gtb_dialog_summary_smart_5g">При обнаружении сети 5G, устройство будет переключено на лучшую доступную сеть для уменьшения задержек сети. Включить эту функцию?</string>
   <string name="gtb_dialog_title_smart_5g">Оптимизация сети 5G</string>
-  <string name="gtb_exit_game_to_gtb">Открыть GameBox</string>
+  <string name="gtb_exit_game_to_gtb">Открыть Ускорение игр</string>
   <string name="gtb_exit_game_to_home">Вернуться на рабочий стол</string>
   <string name="gtb_setting_item_summary_smart_5g">При обнаружении сети 5G, устройство будет переключено на лучшую доступную сеть для уменьшения задержек сети</string>
   <string name="gtb_setting_item_title_smart_5g">Оптимизация сети 5G</string>
@@ -1644,9 +1642,21 @@
   <string name="installing">Установка</string>
   <string name="international_Ad">Ad</string>
   <string name="international_roaming_setting">Интернет в роуминге</string>
+  <string name="intl_app_manager_card_permission_title">Конфиденциальность и разрешения</string>
   <string name="intl_perm_intro_message">Нажмите для настройки разрешений, чтобы избежать утечки данных</string>
   <string name="intl_perm_notification_content">Настройка разрешений</string>
   <string name="intl_perm_notification_title">Защита конфиденциальности</string>
+  <string name="intl_perm_privacy_control_calendar">Приложение сможет получать доступ или редактировать элементы календаря только когда вы используете его</string>
+  <string name="intl_perm_privacy_control_calllog">Приложение сможет получать доступ или редактировать журнал вызовов только когда вы используете его</string>
+  <string name="intl_perm_privacy_control_camera">Приложение сможет получать доступ к камере только когда вы используете его</string>
+  <string name="intl_perm_privacy_control_contact">Приложение сможет получать доступ или редактировать контакты только когда вы используете его</string>
+  <string name="intl_perm_privacy_control_data">Контроль конфиденциальности</string>
+  <string name="intl_perm_privacy_control_message">Контроль использования личных данных в приложениях</string>
+  <string name="intl_perm_privacy_control_microphone">Приложение сможет получать доступ к микрофону только когда вы используете его</string>
+  <string name="intl_perm_privacy_control_notification_message">Контроль использования личных данных в приложениях</string>
+  <string name="intl_perm_privacy_control_notification_title">Защита конфиденциальности</string>
+  <string name="intl_perm_privacy_control_storage">Приложение сможет получать доступ или редактировать файлы во внутренней памяти только когда вы используете его</string>
+  <string name="intl_perm_privacy_control_title">Контроль конфиденциальности</string>
   <string name="invalid_charger">Не удается зарядить через USB. Используйте зарядное устройство, которое поставляется с вашим устройством.</string>
   <string name="ip_address_exception_summary">Ошибка получения IP адреса. Если ситуация повторится, попробуйте использовать статический IP адрес.</string>
   <string name="item_app_permission">Разрешения приложений</string>
@@ -2168,7 +2178,7 @@
   <string name="pc_search_keywords_battery_use">Расход заряда батареи</string>
   <string name="pc_search_keywords_capacity">Емкость</string>
   <string name="pc_search_keywords_property">Производительность</string>
-  <string name="pc_settings_title">Настройки питания и производительности</string>
+  <string name="pc_settings_title">Батарея</string>
   <string name="pc_statistics_battery_last_hour_minute">Заряда хватит на %1$d ч. %2$d мин.</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d ч. %2$d мин. с момента зарядки</string>
   <string name="pc_statistics_battery_use_summary">%s с момента зарядки</string>
@@ -3257,7 +3267,7 @@
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Неверный оператор&lt;br/&gt;&lt;br/&gt;Установленный: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Реальный: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Исправить и продолжить</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Диагностика завершена, исправлено местоположение.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Диагностика завершена, исправлено местоположение и данные оператора.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Диагностика завершена, исправлены местоположение и данные оператора.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Изменения внесены</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Не удалось завершить диагностику&lt;br/&gt;&lt;br/&gt;Отправьте отчет, чтобы помочь MIUI улучшить инструменты диагностики&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Неверное местоположение&lt;br/&gt;&lt;br/&gt;Установленное: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Реальное: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
@@ -3610,6 +3620,7 @@
   <string name="warningcenter_alert_source">Центр предупреждений MIUI | Источник: %s</string>
   <string name="warningcenter_alert_time">Время</string>
   <string name="warningcenter_alert_warning_time">Получено: %s</string>
+  <string name="warningcenter_disaster_search_keywords">Погодные оповещения</string>
   <string name="warningcenter_earthquake_info">Раннее предупреждение о землетрясении</string>
   <string name="warningcenter_mijia_alert_close">Закрыть</string>
   <string name="warningcenter_mijia_alert_settings">Измените настройки в разделе Безопасность &gt; Оповещения устройств умного дома</string>
@@ -3630,6 +3641,7 @@
   <string name="warningcenter_mijia_open_desc">Оповещения от смарт-устройств в Mi Home</string>
   <string name="warningcenter_mijia_open_title">Оповещения</string>
   <string name="warningcenter_mijia_page_title">Оповещения</string>
+  <string name="warningcenter_mijia_search_keywords">Оповещения Mi Home</string>
   <string name="warningcenter_mijia_title">Оповещения устройств умного дома</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">Центр предупреждений MIUI</string>
