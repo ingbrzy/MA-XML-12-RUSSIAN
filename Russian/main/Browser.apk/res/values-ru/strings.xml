@@ -281,7 +281,7 @@
     <string name="data_monitor_dialog_message">Повышенный расход мобильных данных. Перейдите на стартовую страницу, чтобы остановить расход.</string>
     <string name="data_traffic_continue">Продолжить</string>
     <string name="data_traffic_download_toast_msg">Используется мобильный интернет для кеширования видео</string>
-    <string name="data_traffic_prompt_message">Использование мобильного интернета для просмотра видео увеличит расходы. При выходе за лимит, ваш оператор может взимать дополнительную плату.</string>
+    <string name="data_traffic_prompt_message">Использование мобильного интернета для просмотра видео увеличит расходы. При превышении лимита ваш оператор может взимать дополнительную плату.</string>
     <string name="data_traffic_prompt_title">Использование данных</string>
     <string name="data_traffic_stop">Остановить</string>
     <string name="debug_mode_toast">Режим отладки включен</string>
@@ -353,7 +353,7 @@
     <string name="download_list_open_xl_ok">ОК</string>
     <string name="download_memory_info_avai">" доступно %s|"</string>
     <string name="download_memory_info_total">" всего %s"</string>
-    <string name="download_no_application_title">Файл не найден, возможно он был перемещен или удален.</string>
+    <string name="download_no_application_title">Файл не найден, возможно, он был перемещен или удален.</string>
     <string name="download_no_sdcard_dlg_msg">Нужна SD-карта для загрузки %s.</string>
     <string name="download_no_sdcard_dlg_title">Нет SD-карты</string>
     <string name="download_pending">Начало загрузки…</string>
@@ -369,7 +369,7 @@
     <string name="empty_app_name">Другое приложение</string>
     <string name="empty_bookmark">Ничего нет</string>
     <string name="empty_cloud_tab_login_hint">Облачные вкладки отсутствуют</string>
-    <string name="empty_cloud_tab_logout_hint">"Войдите в Mi Account, 
+    <string name="empty_cloud_tab_logout_hint">"Войдите в Mi аккаунт, 
 чтобы просмотреть открытые вкладки 
 с других устройств"</string>
     <string name="empty_history_hint">Ничего нет</string>
@@ -1025,7 +1025,7 @@ Crash ID: http://crash/%1$s"</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Мы будем собирать и использовать ваши личные данные, если вы решите воспользоваться нашим сервисом.
 Сбор данных:
 1. Безопасные URL: сбор посещаемых URL веб-сайтов.
-2. Данные о местоположении:  доступ к информации о вашем местоположении.
+2. Данные о местоположении: доступ к информации о вашем местоположении.
 Использование данных:
 1. Безопасность: мы будем использовать ваши данные, для защиты от мошенничества и вирусов, а также для хранения и резервного копирования.
 2. Контент: предоставление релевантного локализованного новостного контента.
