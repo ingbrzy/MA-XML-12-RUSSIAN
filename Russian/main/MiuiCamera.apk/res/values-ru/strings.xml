@@ -174,6 +174,7 @@
   <string name="camera_disabled">Камера была отключена из-за политики безопасности</string>
   <string name="camera_error_title">Ошибка камеры</string>
   <string name="camera_facedetection_sub_option_hint">Экспериментальная функция</string>
+  <string name="camera_fastmotion_title">Функция покадровой съемки</string>
   <string name="camera_label">Камера</string>
   <string name="camera_liveshot_off_tip">Живое фото отключено</string>
   <string name="camera_liveshot_on_tip">Живое фото</string>
@@ -667,14 +668,15 @@
 Держите объект в фокусе, размывая фон."</string>
   <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
   <string name="pref_advance_settings">Дополнительные настройки</string>
-  <string name="pref_ai_detect">AI Обнаружение сцены</string>
+  <string name="pref_ai_detect">AI обнаружение сцены</string>
   <string name="pref_audio_focus_entry_front">Передний</string>
   <string name="pref_audio_focus_entry_general">Нормальный</string>
   <string name="pref_audio_focus_entry_rear">Задний</string>
   <string name="pref_audio_focus_title">Аудио фокус</string>
   <string name="pref_burst_shoot_title">Серийная съемка</string>
   <string name="pref_camcorder_settings">Съемка видео</string>
-  <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
+  <string name="pref_camcorder_settings_category">Настройки</string>
+  <string name="pref_camera_ai_audio">AI аудио</string>
   <string name="pref_camera_ai_scene_title">AI камера</string>
   <string name="pref_camera_antibanding_entry_0">Отключено</string>
   <string name="pref_camera_antibanding_entry_1">50 Гц</string>
@@ -804,7 +806,18 @@
   <string name="pref_camera_exposuretime_entry_auto_abbr">АВТО</string>
   <string name="pref_camera_face_info_watermark_title">Добавлять возраст на фото</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Автоматически скрывать рамку определения лица</string>
-  <string name="pref_camera_facedetection_title">Определение лиц</string>
+  <string name="pref_camera_facedetection_title">Определение лица</string>
+  <string name="pref_camera_fastmotion_duration">Продолжительность</string>
+  <string name="pref_camera_fastmotion_duration_description">Установка общей продолжительности съемки. По умолчанию она не ограничена, чем больше время съемки, тем больше кадров. В случае задания неограниченного времени, используется замедленная съемка.</string>
+  <string name="pref_camera_fastmotion_duration_infinity">Неограниченное время</string>
+  <string name="pref_camera_fastmotion_duration_unit">%1$s в минуту</string>
+  <string name="pref_camera_fastmotion_speed">Скорость</string>
+  <string name="pref_camera_fastmotion_speed_150x">Восход и закат</string>
+  <string name="pref_camera_fastmotion_speed_1800x">Растения</string>
+  <string name="pref_camera_fastmotion_speed_30x">Улица</string>
+  <string name="pref_camera_fastmotion_speed_750x">Ночь</string>
+  <string name="pref_camera_fastmotion_speed_90x">Облака</string>
+  <string name="pref_camera_fastmotion_speed_description">Степень сжатия с регулировкой времени. При одинаковом времени съемки, чем больше выбранное значение скорости, тем короче видео и выше скорость воспроизведения. Для некоторых сцен рекомендуется использовать следующие значения скорости:</string>
   <string name="pref_camera_first_tag_tips">Тег добавлен</string>
   <string name="pref_camera_flashmode_entry_auto">Авто</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Мягкий цвет</string>
@@ -928,6 +941,9 @@
   <string name="pref_camera_quick_settings">Быстрые настройки</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Анимация быстрого снимка</string>
   <string name="pref_camera_quick_shot_enable_title">Быстрый снимок</string>
+  <string name="pref_camera_rec_type_3d_record">3D стерео</string>
+  <string name="pref_camera_rec_type_audio_zoom">Истрочник звука</string>
+  <string name="pref_camera_rec_type_normal">Стандартный</string>  
   <string name="pref_camera_recordlocation_entry_off">Откл</string>
   <string name="pref_camera_recordlocation_entry_on">Вкл</string>
   <string name="pref_camera_recordlocation_title">Сохранять место съемки</string>
@@ -1043,6 +1059,8 @@
   <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
   <string name="pref_face_beauty_title">Улучшение</string>
   <string name="pref_fingerprint_capture_title">Съемка отпечатком пальца</string>
+  <string name="pref_front_denoise_summary">Шумоподавление звуков позади камеры</string>
+  <string name="pref_front_denoise_title">Одностороннее шумоподавление</string>  
   <string name="pref_front_mirror_entry_auto">Когда распознано лицо</string>
   <string name="pref_front_mirror_entry_off">Отключен</string>
   <string name="pref_front_mirror_entry_on">Включен</string>
@@ -1088,6 +1106,9 @@
   <string name="pref_skin_beautify_smooth_title">Кожа</string>
   <string name="pref_userdefine_watermark_title">Пользовательский водяной знак</string>
   <string name="pref_video_captrue_ability_title">Захват кадра при съемке</string>
+  <string name="pref_video_denoise_off">Отключено</string>
+  <string name="pref_video_denoise_on">Включено</string>
+  <string name="pref_video_denoise_title">Шумоподавление видео</string>  
   <string name="pref_video_encoder_entry_h264">H.264 (совместимость)</string>
   <string name="pref_video_encoder_entry_h265">H.265 (производительность)</string>
   <string name="pref_video_encoder_title">Видеокодер</string>
@@ -1128,6 +1149,7 @@
   <string name="pref_watermark_off">Откл.</string>
   <string name="pref_watermark_on">Вкл.</string>
   <string name="pref_watermark_title">Водяной знак</string>  
+  <string name="pref_wind_denoise_title">Шумоподавление ветра</string>
   <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
   <string name="preparing_sd">Подготовка SD карты…</string>
   <string name="preview_back_pressed_hint">Нажмите еще раз, чтобы вернуться к предпросмотру</string>
