@@ -56,13 +56,11 @@
         <item quantity="other">%d часов назад</item>
         <item quantity="one">%d час назад</item>
         <item quantity="few">%d часа назад</item>
-        <item quantity="many">%d часов назад</item>
     </plurals>
     <plurals name="detail_update_time_minute">
         <item quantity="other">%d минут назад</item>
         <item quantity="one">%d минуту назад</item>
         <item quantity="few">%d минуты назад</item>
-        <item quantity="many">%d минут назад</item>
     </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Применено на %1$d устройствах</item>
@@ -102,8 +100,12 @@
         <item quantity="other">%d отзывов</item>
         <item quantity="one">%d отзыв</item>
         <item quantity="few">%d отзыва</item>
-        <item quantity="many">%d отзывов</item>
     </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">Загружено %1$d объектов</item>
+        <item quantity="one">Загружен %1$d объект</item>
+        <item quantity="few">Загружено %1$d объекта</item>
+    </plurals>	
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f пунктов</item>
         <item quantity="one">%1$.1f пункт</item>

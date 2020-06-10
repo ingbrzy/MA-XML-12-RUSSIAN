@@ -76,7 +76,6 @@
     <string name="action_text_readmode_more">Больше</string>
     <string name="action_text_readmode_theme_head">Установить фон</string>
     <string name="action_text_theme_and_textsize_change">Настройка размера шрифта и фона</string>
-    <string name="actionbar_button_up_description">Назад</string>
     <string name="ad_app_download_notification_content">После завершения установки откройте для ознакомления</string>
     <string name="ad_app_download_site_new">НОВОЕ</string>
     <string name="ad_download_continue">Продолжить</string>
@@ -113,11 +112,9 @@
     <string name="add_to_quicklink">Стартовая страница</string>
     <string name="added_to_bookmarks">Добавлено в закладки</string>
     <string name="adjust_text_zoom_toast">Изменение масштаба текста может привести к некорректному отображению некоторых веб-сайтов.</string>
-    <string name="afternoon">После полудня</string>
     <string name="agree">Согласен</string>
     <string name="agree_permissions_request">Разрешить</string>
     <string name="allow">Разрешить</string>
-    <string name="am">AM</string>
     <string name="app_continue_downloading_text">Продолжить</string>
     <string name="app_download_market_text">Используйте Mi Market для быстрой и безопасной загрузки</string>
     <string name="app_download_now_text">Загрузка</string>
@@ -179,8 +176,6 @@
     <string name="cancle_sync_cloud_tabs">Отменить</string>
     <string name="cannot_download">Загрузить можно только \"http\" или \"https\" ссылки</string>
     <string name="cast_video">Трансляция видео</string>
-    <string name="channel_complete">Готово</string>
-    <string name="channel_edit">Редактировать</string>
     <string name="channel_header_description">Нажмите, чтобы открыть. Нажмите и удерживайте для редактирования.</string>
     <string name="channel_header_title">Мои каналы</string>
     <string name="channel_more_description">Нажмите, чтобы добавить канал</string>
@@ -188,7 +183,6 @@
     <string name="channel_network_error">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="channel_no_data">На данный момент это все</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_security_tip_privacy_policy">Политика конфиденциальности</string>
     <string name="check_security_tip_user_agreement">Пользовательское соглашение</string>
     <string name="clear_clipboard">Очистить буфер обмена</string>
@@ -196,7 +190,6 @@
     <string name="clear_history">Очистить историю</string>
     <string name="clear_input_history_confirm">Вы уверены, что хотите полностью очистить историю?</string>
     <string name="clear_input_history_confirm_bt_text">Подтвердить</string>
-    <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clipboard">Буфер обмена</string>
     <string name="close_ads_choice_no">Разрешить</string>
     <string name="close_ads_choice_yes">Блокировать</string>
@@ -278,7 +271,6 @@
     <string name="contextmenu_webpage_capture">Скриншот</string>
     <string name="contextmenu_webpage_html">Сохранить как HTML файл</string>
     <string name="contextmenu_webpage_snapshot">Сохранить страницу</string>
-    <string name="copy">Копировать</string>
     <string name="custom_head_card_text">Всегда верьте, что произойдет что-то замечательное</string>
     <string name="custom_head_weather">Погода</string>
     <string name="dark_mode_setting_dark">Ночной режим (темный)</string>
@@ -292,13 +284,6 @@
     <string name="data_traffic_prompt_message">Использование мобильного интернета для просмотра видео увеличит расходы. При выходе за лимит, ваш оператор может взимать дополнительную плату.</string>
     <string name="data_traffic_prompt_title">Использование данных</string>
     <string name="data_traffic_stop">Остановить</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
-    <string name="date_picker_lunar">Китайский традиционный календарь</string>
-    <string name="debug_feed_title">Тестовые данные</string>
-    <string name="debug_jump_title">Переход на страницу</string>
-    <string name="debug_mediation_title">Общий тест sdk</string>
     <string name="debug_mode_toast">Режим отладки включен</string>
     <string name="delete">Удалить</string>
     <string name="delete_bookmark">Удалить</string>
@@ -379,7 +364,6 @@
     <string name="download_title">Загрузки</string>
     <string name="download_video">Загрузить видео</string>
     <string name="download_wait_connect">Ожидание подключения</string>
-    <string name="early_morning">Утро</string>
     <string name="edit">Редактировать</string>
     <string name="edit_bookmark">Изменить закладку</string>
     <string name="empty_app_name">Другое приложение</string>
@@ -396,13 +380,10 @@
     <string name="enter_the_group_name">Введите имя папки</string>
     <string name="enter_the_password">Введите пароль</string>
     <string name="enter_the_user_name">Введите имя пользователя</string>
-    <string name="eras_ad">CE</string>
-    <string name="eras_bc">BCE</string>
     <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi аккаунтом.</string>
     <string name="error_not_acceptable">Синхронизация отключена.</string>
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Синхронизация с вашим Mi аккаунтом отключена из-за слишком большого количества попыток входа.</string>
-    <string name="evening">После полудня</string>
     <string name="exit">Выход</string>
     <string name="exit_browser_confirmation">Нажмите еще раз, чтобы вернуться на рабочий стол</string>
     <string name="exit_browser_warning">Выйти из браузера сейчас?</string>
@@ -425,10 +406,7 @@
     <string name="exo_download_failed">Ошибка загрузки</string>
     <string name="exo_download_notification_channel_name">Загрузки</string>
     <string name="exo_download_removing">Удаление загрузок</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
     <string name="exo_track_mono">Моно</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -453,18 +431,7 @@
     <string name="find_on_page_next">Следующий</string>
     <string name="find_on_page_prev">Предыдущий</string>
     <string name="finish_sync_cloud_tabs">Успешно синхронизировано</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd.MM</string>
-    <string name="fmt_date_numeric_year_month">MM.yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="forward_description">Следующий</string>
-    <string name="friday">Пятница</string>
-    <string name="friday_short">Пт</string>
-    <string name="friday_shortest">Пт</string>
     <string name="geolocation_permissions_prompt_dont_share">Запретить</string>
     <string name="geolocation_permissions_prompt_message">%s хочет получить доступ к вашему местоположению</string>
     <string name="geolocation_permissions_prompt_remember">Запомнить</string>
@@ -491,13 +458,13 @@
     <string name="guide_slide_up">Пожалуйста пролистайте вверх</string>
     <string name="guide_sports_text">спорт</string>
     <string name="guide_start_experience">Старт</string>
-    <string name="guide_tech_text">технологии</string>
-    <string name="have_sent_bookmark_to_home_screen">Добавлено на Рабочий стол</string>
+    <string name="guide_tech_text">технология</string>
+    <string name="have_sent_bookmark_to_home_screen">Добавлено на рабочий стол</string>
     <string name="history">История</string>
     <string name="home_description">Домой</string>
     <string name="hot_word_item_mark_ads_text">РЕКЛАМА</string>
     <string name="hot_word_item_mark_burst_text">СЕРИЯ</string>
-    <string name="hot_word_item_mark_hot_text">ГОРЯЧЕЕ</string>
+    <string name="hot_word_item_mark_hot_text">ПОПУЛЯРНОЕ</string>
     <string name="hot_word_item_mark_new_text">НОВОЕ</string>
     <string name="hot_word_item_mark_recommend_text">РЕКОМЕНДУЕМ</string>
     <string name="hot_words_item_ads_mark">Реклама</string>
@@ -527,15 +494,14 @@
     <string name="menu_title_pause_all">Остановить все</string>
     <string name="menu_title_resume_all">Запустить все</string>
     <string name="message_notice_push">Личный опыт</string>
-    <string name="midnight">Ночь</string>
     <string name="miui_autologin_bar_error">Не удается войти</string>
-    <string name="miui_autologin_bar_title">Войти в Mi аккаунт</string>
+    <string name="miui_autologin_bar_title">Войти в Mi Аккаунт</string>
     <string name="miui_bookmark_action_bar_new_group_title">Новая папка</string>
     <string name="miui_startpage">Стартовая страница</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
     <string name="miuishare_account_login_cancel">Отмена</string>
-    <string name="miuishare_account_login_confirmation">Войдите в Mi Аккаунт</string>
+    <string name="miuishare_account_login_confirmation">Войти в Mi Аккаунт</string>
     <string name="miuishare_account_login_ok">Войти</string>
     <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Активируйте ваш Mi Аккаунт.</string>
     <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Выполните вход в ваш Mi Аккаунт.</string>
@@ -543,62 +509,43 @@
     <string name="miuishare_dialog_cancel">Отмена</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети</string>
     <string name="miuishare_publish">Отправить</string>
-    <string name="miuishare_qzone_title">Qzone</string>
     <string name="miuishare_share_done">Отправлено</string>
     <string name="miuishare_share_editor_title">Поделиться</string>
     <string name="miuishare_title_more">Еще</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
-    <string name="miuishare_wechat_title">WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
-    <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Для изменения этого пути необходима SD-карта.</string>
-    <string name="monday">Понедельник</string>
-    <string name="monday_short">Пн</string>
-    <string name="monday_shortest">Пн</string>
-    <string name="month_april">Апрель</string>
-    <string name="month_april_short">Апр</string>
-    <string name="month_april_shortest">А</string>
-    <string name="month_august">Август</string>
-    <string name="month_august_short">Авг</string>
-    <string name="month_august_shortest">А</string>
-    <string name="month_december">Декабрь</string>
-    <string name="month_december_short">Дек</string>
-    <string name="month_december_shortest">Д</string>
-    <string name="month_february">Февраль</string>
-    <string name="month_february_short">Фев</string>
-    <string name="month_february_shortest">Ф</string>
-    <string name="month_january">Январь</string>
-    <string name="month_january_short">Янв</string>
-    <string name="month_january_shortest">Я</string>
-    <string name="month_july">Июль</string>
-    <string name="month_july_short">Июл</string>
-    <string name="month_july_shortest">И</string>
-    <string name="month_june">Июнь</string>
-    <string name="month_june_short">Июн</string>
-    <string name="month_june_shortest">И</string>
-    <string name="month_march">Март</string>
-    <string name="month_march_short">Мар</string>
-    <string name="month_march_shortest">М</string>
-    <string name="month_may">Май</string>
-    <string name="month_may_short">Май</string>
-    <string name="month_may_shortest">М</string>
-    <string name="month_november">Ноябрь</string>
-    <string name="month_november_short">Ноя</string>
-    <string name="month_november_shortest">Н</string>
-    <string name="month_october">Октябрь</string>
-    <string name="month_october_short">Окт</string>
-    <string name="month_october_shortest">О</string>
-    <string name="month_september">Сентябрь</string>
-    <string name="month_september_short">Сен</string>
-    <string name="month_september_shortest">С</string>
-    <string name="more">Еще</string>
     <string name="more_description">Меню</string>
-    <string name="morning">Утро</string>
     <string name="movie_player_3g_tip_retry">Продолжить</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mw_abc_action_bar_home_description">Домой</string>
+    <string name="mw_abc_action_bar_up_description">Перейти вверх</string>
+    <string name="mw_abc_action_menu_overflow_description">Еще</string>
+    <string name="mw_abc_action_mode_done">Готово</string>
+    <string name="mw_abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="mw_abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="mw_abc_capital_off">ОТКЛ.</string>
+    <string name="mw_abc_capital_on">ВКЛ.</string>
+    <string name="mw_abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="mw_abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="mw_abc_menu_delete_shortcut_label">delete</string>
+    <string name="mw_abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="mw_abc_menu_function_shortcut_label">Function+</string>
+    <string name="mw_abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="mw_abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="mw_abc_menu_space_shortcut_label">Пробел</string>
+    <string name="mw_abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="mw_abc_prepend_shortcut_label">Меню+</string>
+    <string name="mw_abc_search_hint">Поиск…</string>
+    <string name="mw_abc_searchview_description_clear">Удалить запрос</string>
+    <string name="mw_abc_searchview_description_query">Поисковый запрос</string>
+    <string name="mw_abc_searchview_description_search">Поиск</string>
+    <string name="mw_abc_searchview_description_submit">Отправить запрос</string>
+    <string name="mw_abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="mw_abc_shareactionprovider_share_with">Поделиться с</string>
+    <string name="mw_abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="mw_abc_toolbar_collapse_description">Свернуть</string>
     <string name="mw_accessibility_date_picker_month">Месяц</string>
     <string name="mw_accessibility_date_picker_week">Неделя</string>
     <string name="mw_accessibility_date_picker_year">Год</string>
@@ -629,9 +576,52 @@
     <string name="mw_color_picker_hue">Оттенок</string>
     <string name="mw_color_picker_saturation">Насыщенность</string>
     <string name="mw_color_picker_value">Значение</string>
+    <string name="mw_common_google_play_services_enable_button">Включить</string>
+    <string name="mw_common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="mw_common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="mw_common_google_play_services_install_button">Установить</string>
+    <string name="mw_common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="mw_common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="mw_common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="mw_common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="mw_common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="mw_common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="mw_common_google_play_services_update_button">Обновить</string>
+    <string name="mw_common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="mw_common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="mw_common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="mw_common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="mw_common_open_on_phone">Открыть на устройстве</string>
+    <string name="mw_common_signin_button_text">Войти</string>
+    <string name="mw_common_signin_button_text_long">Войти с аккаунтом Google</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
     <string name="mw_current_detected_ui_locale_name">ru-RU</string>
+    <string name="mw_crash_label">Сбой (%1$s) - [%2$s]</string>
+    <string name="mw_crash_report_button_text">Отправить подробности</string>
+    <string name="mw_crash_report_template">"ВАЖНО: Отчет об ошибке уже автоматически отправлен нам. Вам нужно заполнить это только в том случае, если вы можете поделиться дополнительной информацией, например, шагами для воспроизведения проблемы.
+
+Имя устройства:
+Версия OS Андроид:
+Версия WebView: (На Андроид L-M это версия приложения \"Android System WebView\". На Андроид N-P это скорее всего версия Chrome. Вы можете найти версию любого приложения в Настройки &gt; Приложения &gt; Все приложения &gt; 3 точки в верхнем правом углу &gt; Показать все приложения) 
+Приложение: (Если возможно, укажите ссылку в Play Store. Чтобы получить ссылку на приложение в Play Store, нажмите 3 точки в верхнем правом углу &gt; Поделиться &gt; Копировать в буфер обмена. Или вы можете найти приложение на сайте Play Store: https://play.google.com/store/apps .)
+Версия приложения:
+
+
+Шаги для воспроизведения:
+(1)
+(2)
+(3)
+
+
+Ожидаемый результат:
+(Что должно произойти?)
+
+
+****НИЧЕГО НЕ ИЗМЕНЯЙТЕ НИЖЕ ЭТОЙ СТРОКИ****
+Crash ID: http://crash/%1$s"</string>
+    <string name="mw_crashes_list_activity_title">Сбой WebView</string>
+    <string name="mw_crashes_num">Всего сбоев: %1$d</string>
     <string name="mw_data_traffic_prompt_change">Использование мобильного интернета для просмотра видео может привести к дополнительным расходам. Если вы превысите лимит использования данных вашего плана, ваш оператор сможет взимать с вас дополнительную плату.</string>
     <string name="mw_data_traffic_prompt_message">Использование мобильного интернета для просмотра видео может привести к дополнительным расходам. Если вы превысите лимит использования данных вашего плана, ваш оператор сможет взимать с вас дополнительную плату.</string>
     <string name="mw_data_traffic_prompt_message_short">Использование мобильного интернета для потоковой передачи видео может привести к превышению лимита использования данных вашего плана.</string>
@@ -654,6 +644,7 @@
     <string name="mw_last_month">Последний месяц</string>
     <string name="mw_license_activity_title">Системные лицензии WebView</string>
     <string name="mw_low_memory_error">Невозможно завершить предыдущую операцию из-за нехватки памяти</string>
+    <string name="mw_menu_refresh">Обновить</string>
     <string name="mw_miui_content_copy">Копировать</string>
     <string name="mw_miui_content_cut">Вырезать</string>
     <string name="mw_miui_content_extent_select">Выбрать все</string>
@@ -739,14 +730,6 @@
     <string name="mw_miuichromium_error_page_wlan">Включите Wi-Fi</string>
     <string name="mw_month_picker_dialog_title">Установите месяц</string>
     <string name="mw_no_matches">Нет совпадений</string>
-    <string name="mw_notification_category_browser">Браузер</string>
-    <string name="mw_notification_category_downloads">Загрузки</string>
-    <string name="mw_notification_category_group_general">Общие</string>
-    <string name="mw_notification_category_incognito">Инкогнито</string>
-    <string name="mw_notification_category_media">Медиа</string>
-    <string name="mw_notification_category_screen_capture">Скриншот</string>
-    <string name="mw_notification_category_sites">Сайты</string>
-    <string name="mw_notification_hidden_text">Скрытое содержимое</string>
     <string name="mw_older">Старше</string>
     <string name="mw_opening_file_error">Не удалось открыть выбранный файл</string>
     <string name="mw_permission_alert_window">Чтобы использовать эту функцию, откройте системную опцию Показывать всплывающее окно.</string>
@@ -760,7 +743,9 @@
     <string name="mw_save_password_never">Никогда</string>
     <string name="mw_save_password_notnow">Не сейчас</string>
     <string name="mw_save_password_remember">Запомнить</string>
+    <string name="mw_search_menu_title">Поиск</string>
     <string name="mw_time_picker_dialog_title">Установить время</string>
+    <string name="mw_url_copied">URL скопирован</string>
     <string name="mw_video_buffering_percent">Буферизация </string>
     <string name="mw_video_float_window">Всплывающие</string>
     <string name="mw_video_float_window_playing">Воспроизведение видео</string>
@@ -797,7 +782,6 @@
     <string name="network_show_wifi_setting_tip_dialog_description">Найдена точка доступа Wi-Fi поблизости. Подключиться?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
     <string name="next_button_label">Далее</string>
-    <string name="night">Вечер</string>
     <string name="no_app_open_document">Не найдено приложение для обработки этого действия</string>
     <string name="no_content">Контент ещё не появился</string>
     <string name="no_memory_space">недостаточно памяти</string>
@@ -806,15 +790,11 @@
     <string name="no_space_alert_text">Недостаточно места</string>
     <string name="no_space_alert_title">Загрузка приостановлена</string>
     <string name="no_space_clean_failed">Не удалось освободить место на вашем устройстве</string>
-    <string name="noon">Полдень</string>
     <string name="not_allowed_open">Невозможно использовать браузер в потоке OOB</string>
     <string name="not_now">Не сейчас</string>
     <string name="not_remind_again">Запомнить выбор</string>
-    <string name="not_set">Не задано</string>
     <string name="notif_install_successful">Загрузка завершена</string>
     <string name="notification_channel_name_local_push">Уведомления браузера</string>
-    <string name="novel_toast_hint">Сайт добавлен на книжную полку</string>
-    <string name="ok">ОК</string>
     <string name="open_app_confirm_message">Разрешить этой странице открывать %s?</string>
     <string name="open_cloud_sync">Включить синхронизацию с облаком</string>
     <string name="open_cloud_sync_desc">Закладка успешно добавлена. Включите синхронизацию с облаком, чтобы синхронизировать закладки, добавленные на других устройствах. Войти и включить?</string>
@@ -826,7 +806,6 @@
     <string name="page_info_address">Адрес:</string>
     <string name="page_info_view">Посмотреть</string>
     <string name="passport_oauth_sucess_tip">Успешная авторизация</string>
-    <string name="password">Пароль</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pause_download">Приостановлено</string>
     <string name="paused_queued_for_wifi">Ожидание соединения…</string>
@@ -843,7 +822,6 @@
     <string name="player_3g_tip_title">Используется мобильный интернет, продолжение воспроизведения может привести к расходу трафика</string>
     <string name="player_data_error_tip">Видео временно недоступно. Повторите попытку позже.</string>
     <string name="player_net_error">Сеть недоступна, проверьте настройки сети</string>
-    <string name="pm">PM</string>
     <string name="popup_video">Всплывающее видео</string>
     <string name="popup_window_attempt">Разрешить сайту всплывающие окна?</string>
     <string name="positive_confirm_message">Отключить</string>
@@ -891,7 +869,6 @@
     <string name="pref_force_userscalable">Масштабирование</string>
     <string name="pref_force_userscalable_summary">Приоритет пользовательских настроек масштабирования</string>
     <string name="pref_general_title">Основные настройки</string>
-    <string name="pref_key_gesture_title">Кнопки и жесты</string>
     <string name="pref_label_advert_manager">Управление помеченной рекламой</string>
     <string name="pref_nav_mode_summary_pad">Планшет</string>
     <string name="pref_nav_mode_summary_phone">Телефон</string>
@@ -938,7 +915,6 @@
     <string name="pref_tab_restore">Восстановление вкладок при запуске</string>
     <string name="pref_ua_string">Строка User agent</string>
     <string name="pref_version_info">Информация о версии</string>
-    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
     <string name="pull_refresh_begin">Потяните вниз для обновления</string>
     <string name="pull_refresh_end">Отпустите для обновления</string>
@@ -980,9 +956,6 @@
     <string name="root_folder_lable">Нет</string>
     <string name="same_bookmarks_warning">Страница уже добавлена</string>
     <string name="same_folder_name_warning">Папка с таким именем уже существует</string>
-    <string name="saturday">Суббота</string>
-    <string name="saturday_short">Сб</string>
-    <string name="saturday_shortest">Сб</string>
     <string name="save_dialog_title">Сохранить</string>
     <string name="save_file">"Загрузка "</string>
     <string name="save_file_suffix">" файла"</string>
@@ -1020,7 +993,6 @@
     <string name="security_permission_negative_btn_location">Отмена</string>
     <string name="security_permission_positive_btn_location">Согласен</string>
     <string name="security_permission_title_location">Доступ к местоположению</string>
-    <string name="security_permission_user_agreement_url">http://www.miui.com/res/doc/eula/ru.html</string>
     <string name="security_url_confirm_message">Отключение этой функции может создать угрозу безопасности.</string>
     <string name="security_warning">Предупреждение безопасности</string>
     <string name="security_warnings_confirm_message">Отключение этой функции может создать угрозу безопасности.</string>
@@ -1081,30 +1053,6 @@
     <string name="snapshot_failed">Ошибка сохранения страницы</string>
     <string name="snapshot_successed">Сохранено в Закладки > Локальные</string>
     <string name="soft_toast_see_view">Просмотр</string>
-    <string name="solar_term_autumn_begins">Начало осени</string>
-    <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
-    <string name="solar_term_clear_and_bright">Ясно</string>
-    <string name="solar_term_cold_dews">Роса</string>
-    <string name="solar_term_grain_buds">Колошение</string>
-    <string name="solar_term_grain_in_ear">Созревание зерна</string>
-    <string name="solar_term_grain_rain">Крупный дождь</string>
-    <string name="solar_term_great_cold">Сильный мороз</string>
-    <string name="solar_term_great_heat">Сильная жара</string>
-    <string name="solar_term_heavy_snow">Сильный снег</string>
-    <string name="solar_term_hoar_frost_falls">Иней</string>
-    <string name="solar_term_insects_awaken">Пробуждение насекомых</string>
-    <string name="solar_term_light_snow">Легкий снег</string>
-    <string name="solar_term_slight_cold">Прохлада</string>
-    <string name="solar_term_slight_heat">Небольшая жара</string>
-    <string name="solar_term_spring_begins">Начало весны</string>
-    <string name="solar_term_stopping_the_heat">Окончание тепла</string>
-    <string name="solar_term_summer_begins">Начало лета</string>
-    <string name="solar_term_summer_solstice">Летнее солнцестояние</string>
-    <string name="solar_term_the_rains">Дождь</string>
-    <string name="solar_term_vernal_equinox">День весеннего равноденствия</string>
-    <string name="solar_term_white_dews">Белые росы</string>
-    <string name="solar_term_winter_begins">Начало зимы</string>
-    <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="speech_engine_not_install">Речевой движок не установлен</string>
     <string name="srl_component_falsify" formatted="false">%s фальсифицирует область,
   Представляет высоту [%.1fdp] перетаскивания во время выполнения,
@@ -1171,7 +1119,6 @@
     <string name="suggestion_express_input_hint_out">Номер отслеживания:</string>
     <string name="suggestion_express_title">Отслеживание отправления</string>
     <string name="suggestion_hotwords_title_change_button_text">ИЗМЕНИТЬ ЕЩЁ</string>
-    <string name="suggestion_input_history_title_text">ИСТОРИЯ ВВОДА</string>
     <string name="suggestion_input_hitory_clear_text">ОЧИСТИТЬ</string>
     <string name="suggestion_lottery_detail_pour">%s ЗАПИСЬ</string>
     <string name="suggestion_lottery_detail_price">КАЖДАЯ ЗАПИСЬ СТОИТ %s ЮАНЕЙ</string>
@@ -1182,74 +1129,14 @@
     <string name="suggestion_sliding_item_more_text">ПОСМОТРЕТЬ ЕЩЕ</string>
     <string name="suggestion_topic_subtitle_hyphen">ФОКУС</string>
     <string name="suggestion_translation_more">ПОСМОТРЕТЬ ЕЩЕ</string>
-    <string name="sunday">Воскресенье</string>
-    <string name="sunday_short">Вс</string>
-    <string name="sunday_shortest">Вс</string>
-    <string name="support_abc_action_bar_home_description">Перейти на главную</string>
-    <string name="support_abc_action_bar_up_description">Перейти вверх</string>
-    <string name="support_abc_action_menu_overflow_description">Ещё</string>
-    <string name="support_abc_action_mode_done">Готово</string>
-    <string name="support_abc_action_mode_select_all">Выбрать все</string>
-    <string name="support_back_button_label">Назад</string>
-    <string name="support_go_back_descirption">Перейти назад</string>
-    <string name="support_next_button_label">Далее</string>
-    <string name="support_skip_button_label">Пропустить</string>
     <string name="sync_and_backup_bookmark">Синхронизация и резервное копирование закладок</string>
     <string name="sync_and_backup_history">Синхронизация и резервное копирование истории</string>
     <string name="sync_cloud_tabs">Синхронизировать</string>
     <string name="tabs_description">Вкладки</string>
     <string name="temp_refuse">Нет, спасибо</string>
-    <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
-    <string name="the_anti_aggression_day">День борьбы с агрессией</string>
-    <string name="the_arbor_day">День посадки деревьев</string>
-    <string name="the_armed_forces_day">День Вооруженных Сил</string>
-    <string name="the_armys_day">День армии</string>
-    <string name="the_childrens_day">День защиты детей</string>
-    <string name="the_chinese_youth_day">День молодежи</string>
-    <string name="the_christmas_day">Рождество</string>
-    <string name="the_double_ninth_festival">Праздник двух девяток</string>
-    <string name="the_dragon_boat_festival">Праздник лодок-драконов</string>
-    <string name="the_easter_day">Пасха</string>
-    <string name="the_eve_of_the_spring_festival">Праздник весны</string>
-    <string name="the_fifth_day">Пятый день</string>
-    <string name="the_fools_day">День смеха</string>
-    <string name="the_forth_day">Четвертый день</string>
-    <string name="the_hksar_establishment_day">День Гонконга</string>
-    <string name="the_international_womens_day">Международный женский день</string>
-    <string name="the_laba_festival">Фестиваль Лаба</string>
-    <string name="the_labour_day">День труда</string>
-    <string name="the_lantern_festival">Фестиваль фонарей</string>
-    <string name="the_mid_autumn_festival">Праздник середины осени</string>
-    <string name="the_national_day">Национальный день</string>
-    <string name="the_national_father_day">День отца</string>
-    <string name="the_new_years_day">Новый год</string>
-    <string name="the_night_of_sevens">Ночь семерок</string>
-    <string name="the_partys_day">День тусовки</string>
-    <string name="the_peace_day">День мира</string>
-    <string name="the_retrocession_day">День ретроцессии Тайваня</string>
-    <string name="the_second_day">Второй день</string>
-    <string name="the_seventh_day">Седьмой день</string>
-    <string name="the_sixth_day">Шестой день</string>
-    <string name="the_spirit_festival">Праздник Духа</string>
-    <string name="the_spring_festival">Весенний фестиваль</string>
-    <string name="the_teachers_day">День учителя</string>
-    <string name="the_third_day">Третий день</string>
-    <string name="the_tw_childrens_day">День защиты детей</string>
-    <string name="the_tw_youth_day">День молодежи</string>
-    <string name="the_united_nations_day">День Организации Объединенных Наций</string>
-    <string name="the_valentines_day">День Святого Валентина</string>
-    <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
-    <string name="thursday">Четверг</string>
-    <string name="thursday_short">Чт</string>
-    <string name="thursday_shortest">Чт</string>
-    <string name="time_picker_dialog_title">Установите время</string>
-    <string name="time_picker_label_hour">Ч</string>
-    <string name="time_picker_label_minute">М</string>
     <string name="title_bar_loading">Загрузка…</string>
     <string name="title_notice_push">Включить push</string>
     <string name="toast_feedback">Вы увидите меньше содержимого такого рода.</string>
-    <string name="today">Сегодня</string>
-    <string name="tomorrow">Завтра</string>
     <string name="topic_content_default">тема</string>
     <string name="transfer_prompt_0">Воспроизвести видео</string>
     <string name="transfer_restart">Перезапуск</string>
@@ -1258,9 +1145,6 @@
     <string name="translation_query_error">Не удалось перевести</string>
     <string name="translation_query_error_network">Не удалось получить информацию. Подключитесь к сети и попробуйте снова.</string>
     <string name="translation_result_copy">Скопировано в буфер обмена</string>
-    <string name="tuesday">Вторник</string>
-    <string name="tuesday_short">Вт</string>
-    <string name="tuesday_shortest">Вт</string>
     <string name="undo">Отмена</string>
     <string name="unknown_title">Неизвестный</string>
     <string name="unsecurity_url_toast">Этот сайт не является безопасным</string>
@@ -1270,11 +1154,8 @@
     <string name="url_hint">Введите URL или поисковый запрос</string>
     <string name="url_hint_from_search">Введите ключевое слово</string>
     <string name="url_opened_in_background">Открыть в фоновой вкладке</string>
-    <string name="url_suggest_indicator_hoturl">Популярные</string>
-    <string name="url_suggest_indicator_mostvisited">Часто посещаемые</string>
     <string name="use_cellular_network_alert_message">Wi-Fi недоступен. Использовать мобильный интернет?</string>
     <string name="use_cellular_network_alert_title">Трафик</string>
-    <string name="username">Имя</string>
     <string name="v5_edit_mode_title_empty">Ничего не выбрано</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
@@ -1391,8 +1272,4 @@
     <string name="voice_title_speech_again">Не удалось распознать</string>
     <string name="webpage_title">Закладки</string>
     <string name="wechat_not_installed">Wechat не установлен</string>
-    <string name="wednesday">Среда</string>
-    <string name="wednesday_short">Ср</string>
-    <string name="wednesday_shortest">Ср</string>
-    <string name="yesterday">Вчера</string>
 </resources>

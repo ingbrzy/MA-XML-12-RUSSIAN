@@ -5,14 +5,14 @@
         <item>Для синхронизации сообщений</item>
         <item>Для синхронизации контактов</item>
         <item>Для синхронизации событий календаря</item>
-        <item>For syncing items with services that use storage</item>
+        <item>Для синхронизации элементов с сервисами, которые используют память устройства</item>
     </string-array>
     <string-array name="korea_permission_groups_names">
         <item>Телефон</item>
         <item>SMS</item>
         <item>Контакты</item>
         <item>Календарь</item>
-        <item>Хранилище</item>
+        <item>Память</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
         <item>Синхронизируйте контакты, сообщения, заметки, календарь и другие данные</item>
@@ -65,7 +65,7 @@
         <item>Облако;Резервное копирование;Резервирование;Облачные сервисы;Xiaomi Cloud;Рабочий стол;Макет;Приложения;Настройки;Частота резервного копирования ;Управление резервными копиями;Восстановление</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Синхронизировать Browser с Xiaomi Cloud</item>
+        <item>Синхронизировать Браузер с Xiaomi Cloud</item>
         <item>Включить синхронизацию</item>
         <item>Браузер;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
@@ -104,6 +104,11 @@
         <item>Включить синхронизацию</item>
         <item>Ассистент;Карточки;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Синхронизировать быстрые ответы</item>
+        <item>Включить синхронизацию</item>
+        <item>Быстрые ответы;Буфер обмена;Редактор;Синхронизация;Облачные сервисы</item>
+    </string-array>    
     <string-array name="settings_search_recorder">
         <item>Синхронизировать записи с Xiaomi Cloud</item>
         <item>Включить/настроить синхронизацию</item>
@@ -120,9 +125,9 @@
         <item>Облако;Резервное копирование;Резервирование;Восстановление;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Синхронизировать Безопасность с Xiaomi Cloud</item>
+        <item>Синхронизировать Безопасность</item>
         <item>Включить синхронизацию</item>
-        <item>Безопасность;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+        <item>Безопасность;Облако;Xiaomi Cloud;Синхронизация;Облачные сервисы</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Синхронизировать сообщения с Xiaomi Cloud</item>

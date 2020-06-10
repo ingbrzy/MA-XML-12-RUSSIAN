@@ -8,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
     <string name="abc_capital_off">ОТКЛ.</string>
     <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
     <string name="abc_search_hint">Поиск…</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
@@ -37,14 +47,17 @@
     <string name="ad_begin_to_download_tip">Начало загрузки…</string>
     <string name="ad_begin_to_install_tip">Установка…</string>
     <string name="ad_closed_tip">Вы будете видеть меньше объявлений такого типа</string>
+    <string name="ad_details">Подробности</string>
     <string name="ad_download_download">Загрузка</string>
     <string name="ad_download_download_now">Загрузить</string>
     <string name="ad_download_install">Установка</string>
+    <string name="ad_download_now">Загрузить</string>
     <string name="ad_download_open">Открыть</string>
     <string name="ad_download_pause">Пауза</string>
     <string name="ad_download_pending">Ожидание</string>
     <string name="ad_download_resume">Продолжить</string>
     <string name="ad_downloading_tip">Идет загрузка. Вы можете посмотреть прогресс в Шторке уведомлений.</string>
+    <string name="ad_experience_now">Открыть</string>
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add_resource_detail_fail">Не удалось добавить ресурс</string>
@@ -104,10 +117,17 @@
     <string name="common_downloading">Загрузка…</string>
     <string name="common_format_date_no_year">dd.MM</string>
     <string name="common_skip">Пропустить</string>
+    <string name="community_community_message_trigger_summary">Получать уведомления об ответах и обновлениях статуса Mi Community, используя ваш идентификатор Mi Аккаунта</string>
+    <string name="community_community_message_trigger_title">Уведомления Mi Community</string>
     <string name="community_cta_dialog_cancel">Отмена</string>
-    <string name="community_cta_dialog_des">Эта тема содержит ярлык часов, который отображает идентификатор вашего Mi Аккаунта и статус Mi Сообщества. Вы можете отключить эту функцию, переключившись на другую тему или удалив виджет часов.</string>
-    <string name="community_cta_dialog_ok">Понятно</string>
-    <string name="community_cta_dialog_title">Ярлык часов</string>
+    <string name="community_cta_dialog_des">"Сторонние темы теперь поддерживают виджет Mi Community. Он работает как ярлык, который открывает соответствующий форум \"Темы Mi Community\". Вы можете отключить эту функцию в настройках.
+Разрешите приложению Темы доступ к вашему идентификатору Mi Аккаунта и статусам Mi Community для возможности просматривать их здесь. Вы можете включить или отключить уведомления Mi Community в настройках."</string>
+    <string name="community_cta_dialog_ok">Разрешить</string>
+    <string name="community_cta_dialog_title">Требуются разрешения</string>
+    <string name="community_entrance_summary">Поиск тематического контента в Mi Community</string>
+    <string name="community_entrance_title">Виджет часов Mi Community</string>
+    <string name="community_message_trigger_disabled">Откл.</string>
+    <string name="community_message_trigger_triggered">Вкл.</string>
     <string name="component_backup_preference_title">Сохранить тему</string>
     <string name="component_category_finest_title">Основные</string>
     <string name="component_category_more_title">Дополнительные</string>
@@ -136,7 +156,6 @@
     <string name="de_component_author">Автор</string>
     <string name="de_component_font_author">Автор</string>
     <string name="de_component_tags">Теги</string>
-    <string name="de_font_exchange_success">Успешная оплата</string>
     <string name="de_icon_text_comment">Комментарий</string>
     <string name="de_icon_text_discuss">Обсудить</string>
     <string name="de_icon_text_favorite">Добавить в избранные</string>
@@ -250,6 +269,8 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="forbid_transparent_wallpaper_by_second_space">Примените прозрачные обои сначала в первом пространстве.</string>
+    <string name="forbid_video_wallpaper_by_second_space">Примените динамические обои сначала в первом пространстве.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -313,6 +334,7 @@
     <string name="hide_pull_down_positive">Скрыть</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
     <string name="home_apply_success">Обои рабочего стола установлены</string>
+    <string name="i_know">Понятно</string>
     <string name="icon_content_description">Значок диалога</string>
     <string name="in_the_end">Больше ничего нет</string>
     <string name="incall_show_apply">Видео профиля для исходящих вызовов</string>
@@ -369,6 +391,22 @@
     <string name="mine_tab_title_like">Отмеченные</string>
     <string name="mine_tab_title_local">Локальные</string>
     <string name="mine_tab_title_purchase">Покупки</string>
+    <string name="miui_clock_city_name_local">Местное время</string>
+    <string name="miui_clock_city_name_second">Вторые часы</string>  
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd.MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
     <string name="miuishare_account_login_cancel">Отмена</string>
@@ -626,8 +664,7 @@
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_window_title">%1$s: подробности</string>
     <string name="resource_download">Загрузить</string>
-    <string name="resource_download_notification_title_many">Загружено тем: %1$s</string>
-    <string name="resource_download_notification_title_one">Тема загружена</string>
+    <string name="resource_download_notification_title_one">Загрузка %1$s завершена</string>
     <string name="resource_download_trial">Пробная версия</string>
     <string name="resource_downloaded_title">Загруженные</string>
     <string name="resource_downloading">Загрузка…</string>
@@ -643,11 +680,10 @@
     <string name="resource_exchange_share_code_content">Вы получили подарочный код (%2$s) для темы \"%1$s\". Нажмите %3$s для его использования.</string>
     <string name="resource_exchange_share_code_dlg_content">Подарочный код для темы \"%1$s\": %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
     <string name="resource_exchange_share_code_dlg_title">Отправка</string>
-    <string name="resource_exchange_success">Готово!</string>
+    <string name="resource_exchange_success">Готово</string>
     <string name="resource_exchange_unavailable">Тема с этим кодом недоступна.</string>
     <string name="resource_exchange_universal_finish">Используйте этот код для загрузки объектов.</string>
     <string name="resource_exchange_universal_goon">Этот код может использоваться для загрузки любой темы.</string>
-    <string name="resource_exchange_window_title">Получение подарка</string>
     <string name="resource_exchange_wrong_format_by_local">Неверный формат кода.</string>
     <string name="resource_exchange_wrong_format_by_server">Ошибка проверки кода. Убедитесь, что введен правильный код.</string>
     <string name="resource_expand_full_text">Развернуть</string>
@@ -954,6 +990,7 @@
     <string name="theme_current_using_has_update">Тема была обновлена. Нажмите, чтобы применить.</string>
     <string name="theme_description_title_customized">Изменено</string>
     <string name="theme_description_title_default">По умолчанию</string>
+    <string name="theme_designer_products">Дизайнерские темы</string>
     <string name="theme_detail_tab_comment">Отзывы</string>
     <string name="theme_detail_tab_recommend">Рекомендуемые</string>
     <string name="theme_detail_tab_theme">Подробности</string>
@@ -1048,7 +1085,7 @@
     <string name="try_5_min">Попробовать на 5 минут</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
-    <string name="tuesday_shortest">Вт</string>	
+    <string name="tuesday_shortest">Вт</string>
     <string name="uid_change_dialog_message">Вы удалили обновления. Для использования тем перезагрузите устройство.</string>
     <string name="uid_change_dialog_ok">Понятно</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
@@ -1065,6 +1102,7 @@
     <string name="update_latest">Обновление не требуется</string>
     <string name="update_no_net">Произошла ошибка сети. Повторите попытку.</string>
     <string name="update_title">ДОСТУПНО ОБНОВЛЕНИЕ</string>
+    <string name="use_hint">Внимание</string>
     <string name="using_theme_has_update_tips">Доступно обновление для этой темы</string>
     <string name="using_theme_next_automatic_update">Автообновление тем</string>
     <string name="using_theme_next_automatic_update_summary">Автоматически обновлять загруженные темы через Wi-Fi</string>

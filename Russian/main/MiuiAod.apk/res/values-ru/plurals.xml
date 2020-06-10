@@ -33,13 +33,11 @@
         <item quantity="other">" %1$sчасов %2$s"</item>
         <item quantity="one">" %1$sчас %2$s"</item>
         <item quantity="few">" %1$sчаса %2$s"</item>
-        <item quantity="many">" %1$sчасов %2$s"</item>
     </plurals>
     <plurals name="count_selected">
         <item quantity="other">Выбрано %d элементов</item>
         <item quantity="one">Выбран %d элемент</item>
         <item quantity="few">Выбрано %d элемента</item>
-        <item quantity="many">Выбрано %d элементов</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
@@ -68,7 +66,7 @@
     </plurals>	
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут назад</item>
-        <item quantity="few">%d минуты назад</item>
         <item quantity="one">1 минуту назад</item>
+        <item quantity="few">%d минуты назад</item>
     </plurals>		
 </resources>
