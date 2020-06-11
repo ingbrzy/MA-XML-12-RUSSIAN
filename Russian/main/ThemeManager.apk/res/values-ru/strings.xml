@@ -120,9 +120,11 @@
     <string name="community_community_message_trigger_summary">Получать уведомления об ответах и обновлениях статуса Mi Community, используя ваш идентификатор Mi Аккаунта</string>
     <string name="community_community_message_trigger_title">Уведомления Mi Community</string>
     <string name="community_cta_dialog_cancel">Отмена</string>
-    <string name="community_cta_dialog_des">"Сторонние темы теперь поддерживают виджет Mi Community. Он работает как ярлык, который открывает соответствующий форум \"Темы Mi Community\". Вы можете отключить эту функцию в настройках.
-Разрешите приложению Темы доступ к вашему идентификатору Mi Аккаунта и статусам Mi Community для возможности просматривать их здесь. Вы можете включить или отключить уведомления Mi Community в настройках."</string>
-    <string name="community_cta_dialog_ok">Разрешить</string>
+	
+    <string name="community_cta_dialog_des">Эта тема содержит виджет часов, который отображает идентификатор вашего Mi Аккаунта и статус Mi Community. Вы можете отключить эту функцию, переключившись на другую тему или удалив виджет часов.</string>
+    <string name="community_cta_dialog_ok">Понятно</string>
+    <string name="community_cta_dialog_title">Виджет часов</string>
+	
     <string name="community_cta_dialog_title">Требуются разрешения</string>
     <string name="community_entrance_summary">Поиск тематического контента в Mi Community</string>
     <string name="community_entrance_title">Виджет часов Mi Community</string>
@@ -156,6 +158,7 @@
     <string name="de_component_author">Автор</string>
     <string name="de_component_font_author">Автор</string>
     <string name="de_component_tags">Теги</string>
+    <string name="de_font_exchange_success">Успешная оплата</string>	
     <string name="de_icon_text_comment">Комментарий</string>
     <string name="de_icon_text_discuss">Обсудить</string>
     <string name="de_icon_text_favorite">Добавить в избранные</string>
@@ -664,7 +667,8 @@ mm"</string>
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_window_title">%1$s: подробности</string>
     <string name="resource_download">Загрузить</string>
-    <string name="resource_download_notification_title_one">Загрузка %1$s завершена</string>
+    <string name="resource_download_notification_title_many">Загружено тем: %1$s</string>
+    <string name="resource_download_notification_title_one">Тема загружена</string>
     <string name="resource_download_trial">Пробная версия</string>
     <string name="resource_downloaded_title">Загруженные</string>
     <string name="resource_downloading">Загрузка…</string>
@@ -684,6 +688,7 @@ mm"</string>
     <string name="resource_exchange_unavailable">Тема с этим кодом недоступна.</string>
     <string name="resource_exchange_universal_finish">Используйте этот код для загрузки объектов.</string>
     <string name="resource_exchange_universal_goon">Этот код может использоваться для загрузки любой темы.</string>
+    <string name="resource_exchange_window_title">Получение подарка</string>
     <string name="resource_exchange_wrong_format_by_local">Неверный формат кода.</string>
     <string name="resource_exchange_wrong_format_by_server">Ошибка проверки кода. Убедитесь, что введен правильный код.</string>
     <string name="resource_expand_full_text">Развернуть</string>
