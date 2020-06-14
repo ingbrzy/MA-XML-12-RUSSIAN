@@ -3997,9 +3997,9 @@
     <string name="miui_sos_contacts_category">Экстренные контакты</string>
     <string name="miui_sos_emergency_contacts">Экстренные контакты</string>
     <string name="miui_sos_emergency_delete">Удалить</string>
-    <string name="miui_sos_emergency_delivered_sms">Сообщение доставлено %1s (%2s) </string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">Сообщение доставлено %1s (%2s) </string>
     <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1s</string>
-    <string name="miui_sos_emergency_failed_sms">Не удалось отправить сообщение %1s (%2s)</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">Не удалось отправить сообщение %1s (%2s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Не удалось отправить сообщение для %1s</string>
     <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки экстренным контактам сообщения SOS с вашим местоположением</string>
     <string name="miui_sos_enable_switch_title">Режим SOS</string>
