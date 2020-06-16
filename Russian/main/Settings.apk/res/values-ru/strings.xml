@@ -1692,6 +1692,7 @@
     <string name="contextual_card_undo_dismissal_text">Отмена</string>
     <string name="continue_reset_factory">Сброс к заводским настройкам</string>
     <string name="contributors_title">Авторы</string>
+    <string name="control_center">Центр управления</string>
     <string name="control_panel_switch_side">Поменять сторону Центра управления</string>
     <string name="controls_label">Элементы управления</string>
     <string name="controls_subtitle">Режим энергопотребления</string>
@@ -2287,6 +2288,7 @@
     <string name="done">Готово</string>
     <string name="done_button">Готово</string>
     <string name="double_click_power_key">Двойное нажатие \"Питание\"</string>
+    <string name="double_knock">Двойное касание</string>
     <string name="double_tap_power_for_camera_suggestion_title">Быстрый доступ к камере</string>
     <string name="double_tap_power_for_camera_summary">Включение камеры двойным нажатием кнопки питания в любом приложении</string>
     <string name="double_tap_power_for_camera_title">Быстрый доступ к камере</string>
@@ -3160,11 +3162,11 @@
     <string name="input_method_bottom_open">Вкл.</string>
     <string name="input_method_clipboard_settings">Настройки буфера обмена</string>
     <string name="input_method_cloud_data_title">Облачный буфер обмена</string>
-    <string name="input_method_cloud_paste_mode_bubble_des">Вы будете видеть всплывающее уведомление всякий раз, когда новое содержимое появляется в облачном буфере обмена. Чтобы вставить скопированный текст, нажмите на уведомление.</string>
+    <string name="input_method_cloud_paste_mode_bubble_des">Вы будете видеть всплывающее уведомление. Чтобы вставить содержимое, нажмите на уведомление.</string>
     <string name="input_method_cloud_paste_mode_bubble_title">Всплывающее уведомление</string>
-    <string name="input_method_cloud_paste_mode_no_des">Уведомления не будут отображаться, когда новое содержимое появляется в облачном буфере обмена. Но вы все равно можете использовать буфер обмена, нажав на значок.</string>
-    <string name="input_method_cloud_paste_mode_no_title">Без уведомлений</string>
-    <string name="input_method_cloud_paste_mode_red_point_des">Вы будете видеть красную точку в нижней части клавиатуры всякий раз, когда новое содержимое появляется в облачном буфере обмена. Чтобы открыть буфер обмена и вставить скопированное содержимое, нажмите на значок.</string>
+    <string name="input_method_cloud_paste_mode_no_des">Никакие уведомления не будут отображаться. Чтобы использовать буфер обмена, нажмите на значок.</string>
+    <string name="input_method_cloud_paste_mode_no_title">Не показывать</string>
+    <string name="input_method_cloud_paste_mode_red_point_des">Вы будете видеть красную точку в нижней части клавиатуры. Чтобы открыть буфер обмена с содержимым, нажмите на значок.</string>
     <string name="input_method_cloud_paste_mode_red_point_title">Красная точка</string>
     <string name="input_method_function_clipboard">Буфер обмена и частые фразы</string>
     <string name="input_method_function_clipboard_des">Нажмите для просмотра содержимого буфера обмена и частых фраз</string>
@@ -3180,6 +3182,7 @@
     <string name="input_method_quick_access">Быстрый доступ</string>
     <string name="input_method_quick_cloud_mode_title">Уведомления буфера обмена</string>
     <string name="input_method_quick_cloud_summary">Вставляйте содержимое, скопированное на других совместимых устройствах</string>
+    <string name="input_method_quick_cloud_tips">Тип уведомления</string>
     <string name="input_method_quick_cloud_title">Облачный буфер обмена</string>
     <string name="input_method_quick_paste_summary">Просматривайте скопированное содержимое, нажав на значок буфера обмена</string>
     <string name="input_method_quick_paste_title">Быстрая вставка</string>
@@ -3393,6 +3396,7 @@
     <string name="last_synced">Обновлено %1$s</string>
     <string name="last_time_used_label">Последнее использование</string>
     <string name="lattice_smartcover_title">Сетчатая</string>
+    <string name="launch_ai_shortcut">Ярлык Mi AI</string>
     <string name="launch_by_default">Открывать по умолчанию</string>
     <string name="launch_camera">Запуск камеры</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
@@ -3959,7 +3963,7 @@
     <string name="miui_face_enroll_success">Теперь вы можете использовать разблокировку по лицу</string>
     <string name="miui_input_method_settings">Настройки метода ввода</string>
     <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
-    <string name="miui_lab_ai_preload_desc">Предзагрузка увеличивает скорость запуска приложений</string>
+    <string name="miui_lab_ai_preload_desc">Ускорение запуска приложений</string>
     <string name="miui_lab_ai_preload_title">Предзагрузка</string>
     <string name="miui_lab_aiasst_call_screen_desc">Преобразование голоса и текста для ответов на вызовы без вашего участия</string>
     <string name="miui_lab_aiasst_call_screen_title">Помощник вызовов</string>
@@ -7570,11 +7574,12 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_ask_disable">Приложению \"%s\" требуется отключить Wi-Fi</string>
     <string name="wifi_ask_enable">Приложению \"%s\" требуется включить Wi-Fi</string>
     <string name="wifi_assist">Помощник Wi-Fi</string>
-    <string name="wifi_assistant">Автоматический выбор лучших сетей</string>
-    <string name="wifi_assistant_auto_confirm_data_message">Эта сеть Wi-Fi не имеет доступа в интернет. Будет использоваться мобильный интернет. Вы можете отключить Помощник Wi-Fi в настройках.</string>
-    <string name="wifi_assistant_confirm_always">Больше не спрашивать</string>
-    <string name="wifi_assistant_confirm_connection_title">Внимание</string>
-    <string name="wifi_assistant_data_prompt">Предупреждать о трафике</string>
+    <string name="wifi_assistant">Автовыбор лучшей сети</string>
+    <string name="wifi_assistant_auto_confirm_data_help">Вы можете отключить эту функцию в Настройки &gt; Wi-Fi &gt; Помощник Wi-Fi.</string>
+    <string name="wifi_assistant_auto_confirm_data_message">Использовать мобильный интернет, когда сеть Wi-Fi не имеет доступа в интернет</string>
+    <string name="wifi_assistant_confirm_always">Больше не показывать</string>
+    <string name="wifi_assistant_confirm_connection_title">Автовыбор лучшей сети</string>
+    <string name="wifi_assistant_data_prompt">Показывать предупреждение</string>
     <string name="wifi_assistant_data_prompt_summary">Предупреждать о переключении на мобильный интернет</string>
     <string name="wifi_assistant_description">"Как работает Помощник Wi-Fi:
 1. При плохом качестве подключения Помощник Wi-Fi попытается подключить устройство к другим доступным сетям Wi-Fi

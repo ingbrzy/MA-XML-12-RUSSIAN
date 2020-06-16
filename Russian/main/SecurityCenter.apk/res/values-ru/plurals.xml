@@ -410,6 +410,11 @@
     <item quantity="one">Закреплено %d приложение</item>
     <item quantity="few">Закреплено %d приложения</item>
   </plurals>
+  <plurals name="om_running_apps_num">
+    <item quantity="other">%d приложений</item>
+    <item quantity="one">%d приложение</item>
+    <item quantity="few">%d приложения</item>
+  </plurals>  
   <plurals name="optimize_result_button_add_score">
     <item quantity="other">+%d</item>
     <item quantity="one">+%d</item>

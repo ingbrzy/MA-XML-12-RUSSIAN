@@ -487,7 +487,7 @@
   <string name="applock_add_account">Привязать</string>
   <string name="applock_add_account_info">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
   <string name="applock_add_account_setting">Привязка к аккаунту Mi</string>
-  <string name="applock_app_recommend_lock_title">Можно защитить следующие приложения</string>
+  <string name="applock_app_recommend_lock_title">Можно защитить</string>
   <string name="applock_bind_account_title">Забыли пароль?</string>
   <string name="applock_close_dialog_summary">Защита приложений будет отключена. Ярлыки скрытых приложений будут восстановлены на рабочем столе, а пароль защиты удален. Отключить защиту?</string>
   <string name="applock_close_dialog_title">Отключение защиты</string>
@@ -727,8 +727,8 @@
   <string name="button_eye_shield">Отключить</string>
   <string name="button_first_aid_kit">Исправить</string>
   <string name="button_restrict_data_usage">Разрешить</string>
-  <string name="button_text_accept">Принять</string>
-  <string name="button_text_accept_timer">Принять (%d)</string>
+  <string name="button_text_accept">Разрешить</string>
+  <string name="button_text_accept_timer">Разрешить (%d)</string>
   <string name="button_text_clear">Очистить</string>
   <string name="button_text_delete">Удалить</string>
   <string name="button_text_delete_from_virus_white_list">Удалить</string>
@@ -882,8 +882,8 @@
   <string name="data_usage_warning_title_notify">Лимит трафика превышен</string>
   <string name="databooster_tips_message">Включите эту функцию для ограничения всех SIM карт, кроме карты данных. Отключите эту функцию, если в играх наблюдаются ошибки.</string>
   <string name="databooster_tips_title">Внимание</string>
-  <string name="debug_open_final_tip">Включить отладку по USB?</string>
-  <string name="debug_open_title">Эта функция предназначена для разработчиков. Включение отладки через USB может привести к:</string>
+  <string name="debug_open_final_tip">Разрешить отладку по USB?</string>
+  <string name="debug_open_title">Эта функция предназначена для разработчиков. Включение отладки по USB позволит</string>
   <string name="declaration_dialog_msg">Это приложение помогает отслеживать расход трафика, но не гарантирует отсутствие дополнительных расходов. Для достижения наилучших результатов задайте жесткие лимиты.</string>
   <string name="deep_clean_disconnect_data_title">Отключение интернета</string>
   <string name="deep_clean_memory_clean_title">Очистка памяти</string>
@@ -1813,6 +1813,7 @@
   <string name="memory_check_content">Освобождено: %s</string>
   <string name="memory_clean_memory_size_tip">Память</string>
   <string name="memory_clean_no_need_clean">Всё в порядке</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Выгружено %s. Устройство теперь на %d%% быстрее.</string>
   <string name="memory_clear_unused">Память очищена (%s)</string>
   <string name="memory_title">Доступно: %1$s  Всего: %2$s</string>
   <string name="menu_add">Добавить</string>
@@ -1858,6 +1859,8 @@
   <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
   <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
   <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
+  <string name="menu_summary_optimize_manage">Очистка памяти</string>
+  <string name="menu_summary_optimize_manage_1">Ускорьте на %d%%</string>
   <string name="menu_summary_power_manager">Энергосбережение увеличивает время между зарядками</string>
   <string name="menu_summary_power_manager_1">Батарея заряжена</string>
   <string name="menu_summary_power_manager_2">Заряда хватит на %s</string>
@@ -1875,6 +1878,7 @@
   <string name="menu_text_networkassistants_unit_kb">КБ</string>
   <string name="menu_text_networkassistants_unit_mb">МБ</string>
   <string name="menu_text_optimize_manage">Ускорение</string>
+  <string name="menu_text_optimize_manage_1">Ускорение</string>
   <string name="menu_text_power_manager">Батарея</string>
   <string name="menu_wh_remove">Удалить из белого списка</string>
   <string name="menu_white">Добавить в белый список</string>
@@ -2049,6 +2053,8 @@
   <string name="om_locked_apps_summary">Закрепленные приложения не будут оптимизированы</string>
   <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_not_finish_speedboost">Требуется ускорение</string>
+  <string name="om_optimzing_big_button_text">Ускорение</string>
+  <string name="om_running_app_info_summary">Можно выгрузить %s</string>
   <string name="om_running_locked_apps">Работающие (закрепленные)</string>
   <string name="om_running_system_apps">Работающие (системные)</string>
   <string name="om_running_third_apps">Работающие (сторонние)</string>
@@ -2063,6 +2069,9 @@
   <string name="om_settings_notify_manage">Уведомления</string>
   <string name="om_settings_speed_up_auto">Автоматическая очистка памяти</string>
   <string name="om_settings_title">Настройки ускорения</string>
+  <string name="om_shortcut_added_toast_text">Ярлык добавлен на рабочий стол</string>
+  <string name="om_shortcut_dialog_summary">Ускорение позволяет очистить память и ускорить работу устройства одним нажатием. Добавить ярлык на рабочий стол?</string>
+  <string name="om_shortcut_dialog_title">Ускорение</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">Приложение не найдено</string>
   <string name="open_alarm_right_now">Открыть</string>
@@ -2190,11 +2199,11 @@
   <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">Предупреждение перегрева и аппаратных проблем</string>
   <string name="perfermance_optimization_title">Оптимизация производительности</string>
-  <string name="perm_intercept_content">Предоставить приложению следующее разрешение: %1s?</string>
-  <string name="perm_intercept_notification_title">Предоставление приложению %1s разрешения использовать уведомления, позволит приложению:</string>
-  <string name="perm_intercept_privacy_content">Это разрешение может привести к раскрытию ваших личных данных. Предоставить разрешение в любом случае (%1s)?</string>
-  <string name="perm_intercept_title">Предоставление приложению %1s разрешения на доступ к данным об использовании, позволит приложению:</string>
-  <string name="perm_intercept_unknown_title">Предоставление приложению %1s разрешения устанавливать приложения из неизвестных источников может привести к:</string>
+  <string name="perm_intercept_content">Разрешить приложению использовать %1s?</string>
+  <string name="perm_intercept_notification_title">Предоставление приложению %1s доступа к уведомлениям, позволит ему</string>
+  <string name="perm_intercept_privacy_content">Это может привести к раскрытию ваших личных данных. Разрешить приложению %1s?</string>
+  <string name="perm_intercept_title">Предоставление приложению %1s доступа к истории использования, позволит ему</string>
+  <string name="perm_intercept_unknown_title">Предоставление приложению %1s разрешения устанавливать приложения из неизвестных источников может привести к тому, что</string>
   <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
   <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
   <string name="permgroupdesc_calendar">Доступ к календарю</string>
@@ -2808,9 +2817,13 @@
   <string name="section_title_clear_acc">Память</string>
   <string name="section_title_security_defend">Безопасность</string>
   <string name="section_title_system">Система</string>
+  <string name="security_bottom_guide_to_pm_text">Открытие набора утилит…</string>
   <string name="security_center_slogan">Безопасность и производительность</string>
+  <string name="security_guide_bubble_text">Открыть</string>
+  <string name="security_guide_summary">Единое место для инструментов и утилит</string>
+  <string name="security_guide_title">Набор утилит MIUI</string>
   <string name="security_scan_optimizing">Оптимизация…</string>
-  <string name="securityadd_install_fail">"Не удалось обновить плагин. Повторите попытку."</string>
+  <string name="securityadd_install_fail">Не удалось обновить плагин. Повторите попытку.</string>
   <string name="securityadd_update_tips_cancle">Не сейчас</string>
   <string name="securityadd_update_tips_message">Обновите плагин службы безопасности, чтобы получить доступ к новейшим игровым функциям. %1$dMB будет загружено.</string>
   <string name="securityadd_update_tips_now">Обновить</string>

@@ -101,6 +101,9 @@
     <string name="find_device_operation_failure_rpc">Не удалось выполнить операцию из-за ошибки RPC.</string>
     <string name="find_device_send_sms_alert">При замене SIM карты может быть автоматически отправлено SMS для повторной активации.</string>
     <string name="find_device_service_title">Поиск устройства</string>
+    <string name="find_device_status_summary">Удаленный поиск, блокировка или очистка данных на устройстве</string>
+    <string name="find_device_status_title_pad">Поиск устройства</string>
+    <string name="find_device_status_title_phone">Поиск устройства</string>
     <string name="finddevice_miservice_notification_content">Удаленная блокировка устройства в случае его утери</string>
     <string name="finddevice_miservice_notification_title">Включите Поиск устройства</string>
     <string name="forget_password"><u>Забыли пароль?</u></string>
@@ -233,7 +236,7 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat рекомендует включить Поиск устройства</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay рекомендует включить Поиск устройства</string>
     <string name="micloud_find_device_guide_progress">Включение Поиска устройства…</string>
-    <string name="micloud_find_device_guide_title">Выполните вход на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; для поиска, блокировки или очистки вашего устройства. Это может помочь вам найти ваше устройство.&lt;br/&gt;При утере устройства вы можете обратиться в службу безопасности часто используемых приложений (например, Alipay, WeChat, QQ) для защиты ваших аккаунтов на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.</string>
+    <string name="micloud_find_device_guide_title">Выполните вход в ваш Mi Аккаунт на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; для поиска, блокировки или очистки вашего устройства.</string>
     <string name="micloud_find_device_open_fail">Не удалось включить Поиск устройства</string>
     <string name="micloud_find_device_opened">Поиск устройства включен</string>
     <string name="micloud_find_device_opened_content">Найдите свое устройство на %s</string>
@@ -518,6 +521,8 @@
     <string name="reading_status">Получение статуса…</string>
     <string name="reading_status_failure">Не удалось получить статус</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="send_last_location_summary">Синхронизировать информацию о местоположении при выключении устройства</string>
+    <string name="send_last_location_title">Последнее местоположение</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Не удалось отправить</string>
     <string name="share_miliao_not_installed">Mi Talk не установлен.</string>

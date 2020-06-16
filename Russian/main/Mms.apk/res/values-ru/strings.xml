@@ -193,6 +193,7 @@
   <string name="copy_to_sdcard">Сохранить вложение</string>
   <string name="copy_to_sdcard_fail">Не удалось сохранить вложение</string>
   <string name="copy_to_sdcard_success">Вложение сохранено как \"%s\"</string>
+  <string name="copy_verification_code_tip">Код скопирован</string>
   <string name="current_data_version">Версия приложения</string>
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
@@ -387,6 +388,7 @@
   <string name="menu_make_call">Вызов</string>
   <string name="menu_mark">Отметить</string>
   <string name="menu_more">Еще</string>
+  <string name="menu_multi_select">Выбрать</string>
   <string name="menu_new_contact">Новый контакт</string>
   <string name="menu_new_manual">Ввести номер телефона</string>
   <string name="menu_pick_from_contact">Выбрать из контактов</string>
@@ -583,6 +585,7 @@
   <string name="nosend_message">Не отправлять</string>
   <string name="not_prepare_for_send">Нет сообщения для отправки</string>
   <string name="not_set">Не задано</string>
+  <string name="not_support_audio_forward">Не удалось переслать голосовые сообщения</string>
   <string name="notification_ad_content">Вы получили рекламное сообщение от %s</string>
   <string name="notification_add_todo">Напомнить</string>
   <string name="notification_add_todo_content">Получить код: %s</string>
@@ -635,6 +638,8 @@
   <string name="pref_msg_trash_bin_title">Удаленные сообщения</string>
   <string name="pref_notification_settings_title">Уведомления</string>
   <string name="pref_other_title">Дополнительные настройки</string>
+  <string name="pref_rcs_show_report_message">Отчет о доставке</string>
+  <string name="pref_rcs_show_report_message_tip">Уведомлять о доставке сообщения</string>
   <string name="pref_show_blocked_messages_summary">Показывать заблокированные SMS в списке диалогов</string>
   <string name="pref_show_list_avatar_summary">Показывать фото и данные контактов в режиме списка</string>
   <string name="pref_show_photo_word_summary">Автоматически назначать изображение контактам без фото</string>
@@ -660,6 +665,7 @@
   <string name="pref_summary_on_system_mms_priority">Использовать системное приложение для отправки и получения MMS</string>
   <string name="pref_summary_privacy_authority">Используйте переключатель для предоставления или отмены разрешения</string>
   <string name="pref_summary_send_delivery_reports">Отправлять отчет о доставке при получении MMS</string>
+  <string name="pref_summary_voice_report">Читать сообщения вслух при поступлении. Для остановки воспроизведения нажмите кнопку уменьшения громкости или кнопку питания.</string>
   <string name="pref_summary_wake_up_screen">Включать подсветку экрана при получении нового сообщения</string>
   <string name="pref_switch_sdk_setting">Сменить поставщика Умных сообщений</string>
   <string name="pref_system_title">Система</string>
@@ -691,6 +697,7 @@
   <string name="pref_title_storage_status">Информация о хранении сообщения</string>
   <string name="pref_title_system_mms_priority">Приложение по умолчанию</string>
   <string name="pref_title_vcard">Отправлять как vCard</string>
+  <string name="pref_title_voice_report">Читать сообщения вслух</string>
   <string name="pref_title_wake_up_screen">Включать экран</string>
   <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
   <string name="preferences_title">Настройки</string>
@@ -758,6 +765,7 @@
 Посмотрите в рекомендуемых."</string>
   <string name="rcs_chatbot_near_tab_empty">Нет мини-приложений.</string>
   <string name="rcs_chatbot_net_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+  <string name="rcs_chatbot_no_waring">Сообщение \"Не беспокоить\".</string>
   <string name="rcs_chatbot_normal_message">Получено сообщение. Нажмите для просмотра.</string>
   <string name="rcs_chatbot_notification">Мини-приложение: %s</string>
   <string name="rcs_chatbot_progress_failed">Не удалось загрузить информацию. Нажмите для повтора.</string>
@@ -926,6 +934,8 @@
   <string name="rms_text_body">[Текст]</string>
   <string name="rms_vcard_body">[Контакт]</string>
   <string name="rms_video_body">[Видео]</string>
+  <string name="rsc_chatbot_back">Назад</string>
+  <string name="rsc_chatbot_detail">Информационный портал</string>
   <string name="saturday">Суббота</string>
   <string name="saturday_short">Сб</string>
   <string name="saturday_shortest">Сб</string>
@@ -1193,6 +1203,7 @@
   <string name="too_many_attachments">Максимальное число вложений: %1$s. Будут добавлены только первые %2$s.</string>
   <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>
   <string name="too_many_unsent_mms">Не удалось отправить сообщение. Слишком много неотправленных MMS.</string>
+  <string name="top_conversation">Закрепленные</string>
   <string name="train_edit_destination">Добавить</string>
   <string name="try_to_send">Продолжить</string>
   <string name="tuesday">Вторник</string>
@@ -1235,9 +1246,13 @@
   <string name="v7_preference_on">ВКЛ.</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Коды подтверждения</string>
+  <string name="verification_code_safety_warning">Не раскрывайте эти коды другим людям</string>
   <string name="view">Просмотреть</string>
   <string name="view_bookmark">Открыть в диалоге</string>
   <string name="view_message_details">Информация о сообщении</string>
+  <string name="voice_report_anytime">Всегда</string>
+  <string name="voice_report_off">Откл.</string>
+  <string name="voice_report_wiredon">Через наушники</string>
   <string name="wap_push_title">[WAP Push] </string>
   <string name="warning_show">Отправка через %d сек.</string>
   <string name="wednesday">Среда</string>
