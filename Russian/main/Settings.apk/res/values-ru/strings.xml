@@ -1204,11 +1204,13 @@
     <string name="bluetooth_unlock_change_matched_device">Выберите другое устройство</string>
     <string name="bluetooth_unlock_confirm_device_text">Коснитесь устройства Bluetooth для подтверждения.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Нажмите кнопку на часах для разблокировки.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Подтвердите на устройстве</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Нажмите кнопку на браслете для разблокировки.</string>
     <string name="bluetooth_unlock_delete_device">Удалить устройство</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Удалить это устройство?</string>
     <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Нет доступных устройств</string>
+    <string name="bluetooth_unlock_reject">Удаленное устройство отклонило запрос на разблокировку</string>
     <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
     <string name="bluetooth_unlock_settings_toggle_title">Применение</string>
     <string name="bluetooth_unlock_settings_unlock_device">Разблокировка устройства</string>
@@ -1220,6 +1222,7 @@
     <string name="bluetooth_unlock_title">Разблокировка по Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Отключено</string>
     <string name="bluetooth_unlock_turned_on">Включено</string>
+    <string name="bluetooth_unlock_unsupport">Неподдерживаемая версия</string>
     <string name="bluetooth_unpair_dialog_body">Телефон больше не будет связан с %1$s</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">Забыть</string>
     <string name="bluetooth_unpair_dialog_title">Забыть устройство?</string>
