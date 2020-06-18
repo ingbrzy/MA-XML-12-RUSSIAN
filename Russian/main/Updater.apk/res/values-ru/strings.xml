@@ -15,6 +15,7 @@
     <string name="btn_wrong_md5">Неверный MD5. Нажмите, чтобы удалить ZIP!</string>
     <string name="btn_yes">Да</string>
     <string name="channel_downloading">Прогресс загрузки</string>
+    <string name="channel_service">Фоновая служба обновления</string>
     <string name="channel_update">Доступна новая версия</string>
     <string name="check_new_version">Проверить</string>
     <string name="default_filedownloader_notification_content">Идет загрузка файла.</string>
@@ -49,12 +50,14 @@
     <string name="no_mirror">Все зеркала в данный момент отключены, попробуйте позже…</string>
     <string name="no_network">Сеть недоступна.</string>
     <string name="no_update">Установлена последняя версия</string>
-    <string name="no_xioamieu">"Установлена прошивка не xiaomi.eu!
+    <string name="no_xioamieu">"Установлена прошивка не от xiaomi.eu!
 Обновления недоступны!"</string>
     <string name="notif_cancel">Отмена</string>
     <string name="notif_install">Установка</string>
     <string name="notif_new_summary">Нажмите, чтобы получить подробную информацию</string>
     <string name="notif_new_title">Доступна новая версия!</string>
+    <string name="notif_service_summary">Для отключения уведомления нажмите и удерживайте его</string>
+    <string name="notif_service_title">Приложение запущено в фоновом режиме…</string>	
     <string name="notifications_switch">Показать уведомления</string>
     <string name="permdesc_cache_filesystem">Разрешить приложению записывать в /cache.</string>
     <string name="permdesc_reboot">Разрешить приложению перезагрузить устройство.</string>
