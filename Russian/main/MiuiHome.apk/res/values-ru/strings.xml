@@ -61,10 +61,12 @@
     <string name="all_app_category_knowledge_education">Образование</string>
     <string name="all_app_category_lifestyle">Стиль</string>
     <string name="all_app_category_news_reading">Чтение</string>
+    <string name="all_app_category_personal">Личные</string>
     <string name="all_app_category_personalization">Персонализация</string>
     <string name="all_app_category_photography">Фото</string>
     <string name="all_app_category_shopping">Покупки</string>
     <string name="all_app_category_tools">Инструменты</string>
+    <string name="all_app_category_work">Работа</string>
     <string name="all_apps">Все приложения</string>
     <string name="all_apps_no_search_results">Нет результатов</string>
     <string name="all_apps_search_app">Поиск приложений</string>
@@ -177,10 +179,10 @@
     <string name="choose_wallpaper">Выберите обои</string>
     <string name="chooser_wallpaper">Выберите новые обои</string>
     <string name="cloud_app_restore_title">Ожидание</string>
-    <string name="common_home_search_delete">Уделение панели поиска</string>
+    <string name="common_home_search_delete">Удаление панели поиска</string>
     <string name="common_home_search_delete_cancle">Отмена</string>
     <string name="common_home_search_delete_confirm">Удалить</string>
-    <string name="common_home_search_delete_content">Поиск с использованием панели поиска на рабочем столе будет недоступен. Удалить?</string>
+    <string name="common_home_search_delete_content">Быстрый поиск с помощью панели поиска на рабочем столе будет недоступен. Удалить?</string>
     <string name="configure_wallpaper">Обои</string>
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Клоны приложений будут удалены вместе с основными.</string>
@@ -564,6 +566,8 @@
     <string name="uninstall_xspace_dialog_title_format">Удалить клон \"%s\"?</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unnamed_folder_name">Папка</string>
+    <string name="unstable_dialog_message">Это устройство зарегистрировано в программе Android 11 Developer Preview. Программа позволяет опробовать предрелизные версии Android 11. Эта предрелизная версия может содержать ошибки и дефекты, которые могут повлиять на нормальное функционирование вашего устройства.</string>
+    <string name="unstable_dialog_title">Программа Android Developer Preview</string>	
     <string name="use_theme_screen_cells_title">Разрешить теме изменять сетку экрана</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
@@ -581,4 +585,7 @@
     <string name="widget_global_search">Поиск</string>
     <string name="widget_quick_function">Быстрый доступ</string>
     <string name="widgets_preview_title">Виджеты</string>
+    <string name="work_mode_off_label">Уведомления отключены, приложения недоступны</string>
+    <string name="work_mode_on_label">Управляется вашей организацией</string>
+    <string name="work_profile_toggle_label">Рабочий профиль</string>	
 </resources>
