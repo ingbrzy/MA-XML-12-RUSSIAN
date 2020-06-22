@@ -994,8 +994,8 @@
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Перезагрузка</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Чтобы изменить этот параметр, необходимо перезагрузить устройство.</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Перезагрузить устройство?</string>
-    <string name="bluetooth_disable_absolute_volume">Отключить абсолютный уровень громкости</string>
-    <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку</string>
+    <string name="bluetooth_disable_absolute_volume">Абсолютный уровень громкости</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Отключите абсолютный уровень громкости Bluetooth в случае проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку</string>
     <string name="bluetooth_disable_profile_message">"Профиль 
 %1$s 
 будет отключен от устройства 
@@ -1161,12 +1161,12 @@
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Глубина кодирования для Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Режим аудиоканала Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Режим аудиоканала Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Качество воспроизведения LDAC</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Качество воспроизведения LDAC</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Качество аудиокодека LDAC</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Качество аудиокодека LDAC</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency">Время задержки LHDC</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">Время задержки LHDC</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Качество воспроизведения LHDC</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">Качество воспроизведения LHDC</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Качество аудиокодека LHDC</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">Качество аудиокодека LHDC</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации для Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Частота дискретизации для Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">%1$s</string>
@@ -1983,7 +1983,7 @@
     <string name="debug_layout_summary">Показывать границы обрезки, поля и т.п.</string>
     <string name="debug_monitoring_category">Мониторинг</string>
     <string name="debug_networking_category">Сети</string>
-    <string name="debug_view_attributes">Включить проверку атрибутов</string>
+    <string name="debug_view_attributes">Проверка атрибутов</string>
     <string name="decline_remote_bugreport_action">Отклонить</string>
     <string name="decryption_settings_summary">Данные не зашифрованы</string>
     <string name="defalut_launcher_title">Рабочий стол</string>
@@ -2377,9 +2377,9 @@
     <string name="enable_adb">Отладка по USB</string>
     <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
     <string name="enable_compatibility">Масштабировать приложения</string>
-    <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
-    <string name="enable_freeform_support_summary">Включить поддержку экспериментальных окон произвольной формы</string>
-    <string name="enable_gnss_raw_meas_full_tracking">Принудительные полные измерения GNSS</string>
+    <string name="enable_freeform_support">Окна произвольной формы</string>
+    <string name="enable_freeform_support_summary">Включить поддержку экспериментальной функции создания окон произвольной формы</string>
+    <string name="enable_gnss_raw_meas_full_tracking">Отслеживать измерения GNSS</string>
     <string name="enable_gnss_raw_meas_full_tracking_summary">Отслеживать все GNSS группировки и частоты вне дежурного цикла</string>
     <string name="enable_gpu_debug_layers">Отладочный слой GPU</string>
     <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
@@ -2748,9 +2748,9 @@
     <string name="forbidden_network">(доступ запрещен)</string>
     <string name="forbidden_switch_apn_string">Выбранные настройки точки доступа не соответствуют текущему типу сети</string>
     <string name="force_allow_on_external">Сохранение на внешних накопителях</string>
-    <string name="force_allow_on_external_summary">Разрешить приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
+    <string name="force_allow_on_external_summary">Разрешать приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
     <string name="force_desktop_mode">Принудительный режим рабочего стола</string>
-    <string name="force_desktop_mode_summary">Принудительный экспериментальный режим рабочего стола на дополнительных дисплеях</string>
+    <string name="force_desktop_mode_summary">Принудительно использовать экспериментальный режим рабочего стола на дополнительных экранах</string>
     <string name="force_hw_ui">GPU-ускорение</string>
     <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерного рисования</string>
     <string name="force_immersive_compatibility_dont_hide">Не скрывать</string>
@@ -2759,8 +2759,8 @@
     <string name="force_immersive_compatibility_hint_title">Проблемы совместимости</string>
     <string name="force_msaa">Включить 4x MSAA</string>
     <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
-    <string name="force_resizable_activities">Разрешать изменение размера</string>
-    <string name="force_resizable_activities_summary">Разрешать изменение размера окон в многооконном режиме независимо от значений в манифесте</string>
+    <string name="force_resizable_activities">Изменение размера окон</string>
+    <string name="force_resizable_activities_summary">Разрешать изменение размера окон в режиме разделения экрана независимо от значений в манифесте</string>
     <string name="force_rtl_layout_all_locales">Отразить интерфейс</string>
     <string name="force_rtl_layout_all_locales_summary">Включить написание справа налево для всех языков</string>
     <string name="force_stop">Остановить</string>
@@ -4058,8 +4058,8 @@
     <string name="mms_privacy_password_role_instruction">Здесь будут храниться ваши скрытые диалоги</string>
     <string name="mobile_connect_to_internet">Подключитесь к интернету</string>
     <string name="mobile_data_active">Мобильный интернет включен</string>
-    <string name="mobile_data_always_on">Не отключать мобильный интернет</string>
-    <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi (для быстрого переключения между сетями)</string>
+    <string name="mobile_data_always_on">Мобильный интернет</string>
+    <string name="mobile_data_always_on_summary">Не отключать мобильный интернет даже при активном Wi-Fi (для быстрого переключения между сетями)</string>
     <string name="mobile_data_ap_mode_disabled">Недоступен в режиме полета</string>
     <string name="mobile_data_off">Мобильный интернет отключен</string>
     <string name="mobile_data_settings_summary">Доступ по мобильной сети</string>
@@ -6045,8 +6045,8 @@ UT-интерфейс: %5$s"</string>
     <string name="show_fc_summary">Показывать информацию о критических ошибках приложений</string>
     <string name="show_first_crash_dialog">Всегда показывать диалог сбоя</string>
     <string name="show_first_crash_dialog_summary">Показывать диалог каждый раз при сбое приложения</string>
-    <string name="show_hw_layers_updates">Показывать обновления аппаратных слоев</string>
-    <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым при обновлении</string>
+    <string name="show_hw_layers_updates">Обновления слоев</string>
+    <string name="show_hw_layers_updates_summary">Выделять обновление аппаратных слоев зеленым цветом</string>
     <string name="show_hw_screen_updates">Показывать отрисовку</string>
     <string name="show_hw_screen_updates_summary">Подсвечивать области экрана при отрисовке</string>
     <string name="show_ime">Виртуальная клавиатура</string>
@@ -6215,8 +6215,8 @@ UT-интерфейс: %5$s"</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Режим \"Умный чехол\"</string>
     <string name="smartcover_sensitive_summary">Автоматическая блокировка и разблокировка с помощью умного чехла</string>
     <string name="smartcover_sensitive_title">Умный чехол</string>
-    <string name="sms_access_restriction_enabled">Ограничить доступ к SMS и списку вызовов</string>
-    <string name="sms_access_restriction_enabled_summary">Доступ к SMS и списку вызовов разрешен только приложениям по умолчанию</string>
+    <string name="sms_access_restriction_enabled">Доступ к SMS и списку вызовов</string>
+    <string name="sms_access_restriction_enabled_summary">Предоставлять доступ к SMS и списку вызовов только приложениям для звонков и обмена сообщениями, используемых по умолчанию</string>
     <string name="sms_application_title">Сообщения</string>
     <string name="sms_change_default_dialog_text">Использовать приложение %1$s вместо %2$s для обмена SMS-сообщениями?</string>
     <string name="sms_change_default_dialog_title">Приложение для обмена SMS</string>
@@ -7098,7 +7098,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usagestats_device_timeout_title">"Лимит времени экрана"</string>
     <string name="usb_adb_input">Отладка по USB</string>
     <string name="usb_adb_input_desc">Разрешить выдачу разрешений и имитацию ввода при отладке по USB</string>
-    <string name="usb_audio_disable_routing">Отключить передачу аудио по USB</string>
+    <string name="usb_audio_disable_routing">Передача аудио по USB</string>
     <string name="usb_audio_disable_routing_summary">Отключить автоматическую передачу аудио на внешние USB-устройства</string>
     <string name="usb_charging_summary">Отключить все прочие функции USB для ускорения зарядки</string>
     <string name="usb_charging_title">Быстрая зарядка</string>
@@ -7290,7 +7290,7 @@ UT-интерфейс: %5$s"</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_apps_over_usb_summary">Выполнять проверку безопасности приложений при установке через ADB/ADT</string>
-    <string name="verify_apps_over_usb_title">Проверять приложения при установке</string>
+    <string name="verify_apps_over_usb_title">Проверка при установке</string>
     <string name="version_text">Версия %1$s</string>
     <string name="vibrate_category_title">Вибрация</string>
     <string name="vibrate_in_normal_title">Вибрация при вызове</string>
@@ -7676,7 +7676,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_disconnected_notification_summary">Вы не подключены к Wi-Fi.</string>
     <string name="wifi_disconnected_notification_title">Сеть Wi-Fi отключена</string>
     <string name="wifi_display_autonomous_go">Включить автономный режим</string>
-    <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
+    <string name="wifi_display_certification">Параметры сертификации</string>
     <string name="wifi_display_certification_heading">Сертификация</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
     <string name="wifi_display_details">Настройки экрана</string>
