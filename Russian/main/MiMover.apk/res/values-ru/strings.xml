@@ -66,8 +66,8 @@
   <string name="clearable_edittext_clear_description">Очистить</string>
   <string name="click_to_restore">Восстановите системные данные для нормальной работы в MIUI после заводского сброса. Нажмите, чтобы начать.</string>
   <string name="close">Закрыть</string>
-  <string name="close_cellular_summary">Используется мобильный интернет, отключите его и подключитесь к новому устройству</string>
-  <string name="close_cellular_title">Мобильный интернет</string>
+  <string name="close_cellular_summary">Используется мобильный интернет, отключите его и снова подключитесь к новому устройству</string>
+  <string name="close_cellular_title">Ошибка подключения</string>
   <string name="close_twice_auth_btn">Отключить двухфакторную аутентификацию</string>
   <string name="close_twice_auth_note">Примечание:
 После создания нового секретного вопроса и подтверждения даты вашего рождения двухфакторная аутентификация Apple ID будет отключена. Если вы не видите опцию отключения двухфакторной аутентификации на странице учетной записи Apple ID, вы не сможете отключить ее.</string>
@@ -147,6 +147,9 @@
   <string name="dialog_tip_upgrade_title">Обновление Mi Mover</string>
   <string name="dialog_version_summary_tip">Что нового:</string>
   <string name="dialog_version_title_tip">Доступно обновление</string>
+  <string name="dialog_wechat_data_transfer_fail_button">Понятно</string>
+  <string name="dialog_wechat_data_transfer_fail_message">"Из-за ограничений версии WeChat некоторые данные (включая историю чата) не были перенесены. Для переноса рекомендуется использовать функции резервного копирования и переноса истории чата приложения WeChat."</string>
+  <string name="dialog_wechat_data_transfer_fail_title">Ошибка переноса данных WeChat</string> 
   <string name="do_not_restore_temporarily">Не сейчас</string>
   <string name="document">Документы</string>
   <string name="early_morning">AM</string>
@@ -460,7 +463,9 @@
   <string name="prompt_before_transmission_message3_summary">Данные и приложения из второго пространства не могут быть перенесены из-за системных ограничений.</string>
   <string name="prompt_before_transmission_message3_title">Используется второе пространство</string>
   <string name="prompt_before_transmission_message4_summary">Не выключайте Wi-Fi и не переключайтесь между сетями до завершения переноса.</string>
-  <string name="prompt_before_transmission_message4_title">Сохраняйте подключение</string>
+  <string name="prompt_before_transmission_message4_title">Сохранение подключения</string>
+  <string name="prompt_before_transmission_message5_summary">Беспроводная передача больших объемов данных может приводить к нагреву устройства, что является нормальным.</string>
+  <string name="prompt_before_transmission_message5_title">Нагрев устройства</string>  
   <string name="qq_app_receive_fail">Не удалось получить QQ</string>
   <string name="qq_app_send_fail">Не удалось отправить QQ</string>
   <string name="qq_data_external">QQ данные SD-карты</string>
@@ -484,7 +489,8 @@
   <string name="saving_data_space_low">Недостаточно места для хранения.
 Освободи хотя бы %s.</string>
   <string name="scan_soft_ap_label">Подключиться к новому устройству</string>
-  <string name="scanner_bottom_tip">Выберите только важные элементы, чтобы ускорить передачу.</string>
+  <string name="scanner_bottom_tip">Выберите только важные данные, чтобы ускорить передачу.</string>
+  <string name="scanner_not_support_data_transfer_tip">Поддерживается перенос данных приложений (включая WeChat,QQ Chat) только с устройств Xiaomi</string>
   <string name="scanner_permission_alert_cancel">Понятно</string>
   <string name="scanner_permission_alert_ok">Настройки</string>
   <string name="scanner_quit_alert_btn_negative">Выход</string>
@@ -495,7 +501,7 @@
   <string name="scanner_send_dialog_message">Не выключайте Wi-Fi и не переключайтесь между сетями во время передачи.</string>
   <string name="scanner_size_selected">Выбрано: %s</string>
   <string name="scanner_time_remained">Расчетное время: %s</string>
-  <string name="scanner_title_tip">Выберите элементы для передачи</string>
+  <string name="scanner_title_tip">Данные для передачи</string>
   <string name="scanner_wechat_overwrite_hit">Из-за ограничений сторонних приложений, история чатов и другие данные приложения на новом устройстве будут заменены данными со старого, после завершения передачи.</string>
   <string name="search_action_mode_cancel">Отмена</string>
   <string name="search_input_description">Поиск</string>

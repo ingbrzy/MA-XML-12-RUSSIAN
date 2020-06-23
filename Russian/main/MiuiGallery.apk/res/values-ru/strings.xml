@@ -84,6 +84,7 @@
   <string name="album_camera_name">Камера</string>
   <string name="album_cloud_list_page_title">Управление синхронизированными альбомами</string>
   <string name="album_creative">Моё творчество</string>
+  <string name="album_detail_default_sort_tip">Хронологический порядок</string>
   <string name="album_detail_page_empty">Нет фото или видео</string>
   <string name="album_download">Загрузки</string>
   <string name="album_faces_name">Лица</string>
@@ -266,6 +267,8 @@
   <string name="blur_refocus_enter"/>
   <string name="browse_category_title">Отображение</string>
   <string name="btn_cancel">Отмена</string>
+  <string name="btn_cancel_send">Отмена</string>
+  <string name="btn_exit_send">Выход</string>
   <string name="btn_sure">ОК</string>
   <string name="burst_image_download_item_title" formatted="false">Загрузка оригинала (%s|%s)</string>
   <string name="burst_photo_enter"/>
@@ -997,6 +1000,10 @@
   <string name="member_menu_vipname_premium">Премиум</string>
   <string name="member_menu_vipname_ultra">Ультра</string>
   <string name="menu_album_new_album">Новый альбом</string>
+  <string name="menu_detail_sort_create_date">Дата создания</string>
+  <string name="menu_detail_sort_name">Имя</string>
+  <string name="menu_detail_sort_size">Размер</string>
+  <string name="menu_detail_sort_update_date">Обновление</string>
   <string name="menu_item_sort_date">Дата</string>
   <string name="menu_item_sort_name">Имя</string>
   <string name="menu_item_sort_size">Размер</string>
@@ -1199,6 +1206,7 @@
   <string name="operation_favorites">Избранные</string>
   <string name="operation_force_top">Закрепить</string>
   <string name="operation_hide">Скрыть</string>
+  <string name="operation_hide_time">Скрыть даты</string>
   <string name="operation_in_process">Обработка…</string>
   <string name="operation_move">Переместить</string>
   <string name="operation_move_to_other_albums">Переместить в Другие</string>
@@ -1223,7 +1231,9 @@
   <string name="operation_share_manage">Управление общими элементами</string>
   <string name="operation_show_in_photos_tab">Показывать в Фото</string>
   <string name="operation_show_on_map">Показать на карте</string>
+  <string name="operation_show_time">Показать даты</string>
   <string name="operation_slide_show">Запустить слайд-шоу</string>
+  <string name="operation_sort">Сортировка</string>
   <string name="operation_successful">Готово</string>
   <string name="operation_too_often">От вас поступает слишком много запросов. Подождите немного и повторите попытку.</string>
   <string name="operation_unforce_top">Открепить</string>
@@ -1672,6 +1682,7 @@
   <string name="share_album">Общий альбом</string>
   <string name="share_album_needs_auto_upload_tip">Нельзя отключить синхронизацию общих альбомов с облаком</string>
   <string name="share_album_qr_code">QR-код альбома</string>
+  <string name="share_and_delete_screenshot">Удалить после отправки</string>
   <string name="share_by_email_start">Поделиться \"%1$s\" в фоновом режиме</string>
   <string name="share_by_email_successfully">Вы поделились с \"%1$s\"</string>
   <string name="share_public_url_text">Я отправил вам альбом %1$s. Просмотреть можно по ссылке: %2$s</string>
@@ -1731,6 +1742,7 @@
   <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
   <string name="sort">Сортировка</string>
   <string name="special_type_8k">AI 8K</string>
+  <string name="special_type_ai_audio">AI аудио</string>
   <string name="special_type_eye_repair">Исправление закрытых глаз при помощи AI</string>
   <string name="special_type_hdr">HDR</string>
   <string name="special_type_log">LOG</string>
