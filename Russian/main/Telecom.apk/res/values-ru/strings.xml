@@ -69,7 +69,7 @@
   <string name="blocked_numbers_block_emergency_number_message">Нельзя заблокировать экстренный номер.</string>
   <string name="blocked_numbers_butter_bar_body">После набора или отправки сообщения на экстренный номер блокировка будет выключена, чтобы специалисты могли связаться с вами.</string>
   <string name="blocked_numbers_butter_bar_button">Включить блокировку</string>
-  <string name="blocked_numbers_butter_bar_title">Блокировка временно снята</string>
+  <string name="blocked_numbers_butter_bar_title">Блокировка отключена</string>
   <string name="blocked_numbers_msg">Вызовы и сообщения с заблокированных номеров поступать не будут.</string>
   <string name="blocked_numbers_number_already_blocked_message">Номер %1$s уже заблокирован</string>
   <string name="blocked_numbers_number_blocked_message">Номер %1$s заблокирован</string>
@@ -178,9 +178,9 @@
   <string name="can_not_dial_while_vt_prompt">Нельзя набрать номер во время видеовызова</string>
   <string name="cancel">Отмена</string>
   <string name="cant_call_due_to_no_supported_service">Вы не можете совершить новый вызов, потому что нет учетных записей, которые поддерживают вызовы этого типа.</string>
-  <string name="cant_call_due_to_ongoing_call">Вы не можете совершить новый вызов, пока не завершите текущий в приложении %1$s</string>
-  <string name="cant_call_due_to_ongoing_calls">Вы не можете совершить новый вызов, пока не завершите текущие в приложении %1$s.</string>
-  <string name="cant_call_due_to_ongoing_unknown_call">Вы не можете совершить новый вызов, пока не завершите текущий в другом приложении.</string>
+  <string name="cant_call_due_to_ongoing_call">Не удалось осуществить вызов. Завершите текущий в приложении %1$s</string>
+  <string name="cant_call_due_to_ongoing_calls">Не удалось осуществить вызов. Завершите текущие в приложении %1$s.</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">Не удалось осуществить вызов. Завершите текущий в другом приложении.</string>
   <string name="category_personal">Личные данные</string>
   <string name="category_work">Работа</string>
   <string name="change_default_call_screening_dialog_affirmative">Использовать по умолчанию</string>
@@ -188,7 +188,7 @@
   <string name="change_default_call_screening_dialog_title">Сделать %s приложением по умолчанию для фильтрации вызовов?</string>
   <string name="change_default_call_screening_warning_message">%s сможет видеть информацию о вызывающих абонентах, которых нет в ваших контактах, и блокировать эти вызовы. В качестве приложения по умолчанию для фильтрации вызовов следует использовать только надежные приложения.</string>
   <string name="change_default_call_screening_warning_message_for_disable_old_app">%s больше не сможет фильтровать вызовы.</string>
-  <string name="change_default_dialer_dialog_affirmative">Использовать по умолчанию</string>
+  <string name="change_default_dialer_dialog_affirmative">Использовать для вызовов по умолчанию</string>
   <string name="change_default_dialer_dialog_negative">Отмена</string>
   <string name="change_default_dialer_dialog_title">Сделать %s приложением по умолчанию для вызовов?</string>
   <string name="change_default_dialer_warning_message">%s будет отвечать за выполнение всех вызовов и настройку их параметров. В качестве приложения по умолчанию для вызовов следует использовать только надежные приложения.</string>
@@ -256,7 +256,7 @@
   <string name="disabled">Отключено</string>
   <string name="disabled_by_admin">Отключено администратором</string>
   <string name="disabled_by_admin_summary_text">Контролируется администратором</string>
-  <string name="duplicate_video_call_not_allowed">Не удается совершить вызов</string>
+  <string name="duplicate_video_call_not_allowed">Не удается совершить еще один вызов</string>
   <string name="enable_account_preference_title">Аккаунты для вызовов</string>
   <string name="enable_adb">Отладка по USB</string>
   <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
@@ -374,7 +374,7 @@
   <string name="osu_sign_up_complete">Регистрация завершена. Подключение…</string>
   <string name="osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Введен неверный номер телефона.</string>
-  <string name="outgoing_call_not_allowed_no_permission">Приложение не может совершать вызовы без соответствующего разрешения.</string>
+  <string name="outgoing_call_not_allowed_no_permission">Приложение не может совершать вызовы без необходимых разрешений.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Разрешены только экстренные вызовы.</string>
   <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
   <string name="phone_settings_call_blocking_txt">Блокировка вызовов</string>
@@ -486,8 +486,6 @@
   <string name="summary_empty"/>
   <string name="tap_to_sign_up">Нажмите для регистрации</string>
   <string name="telecommAppLabel">Управление вызовами</string>
-  <string name="telephony_monitor_switch">Telephony Monitor</string>
-  <string name="telephony_monitor_switch_summary">Обнаружив проблему в работе модема или телефонной связи, Telephony Monitor будет собирать журналы и предлагать пользователю отправить информацию об ошибке</string>
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Аккаунт в Q Mobile</string>
   <string name="test_account_1_label">Market Wireless</string>

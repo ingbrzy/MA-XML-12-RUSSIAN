@@ -45,8 +45,8 @@
   <string name="passport_trust_device">Доверять этому устройству</string>
   <string name="passport_vcode_prompt_long">Введите код подтверждения</string>
   <string name="passport_verify">Проверить</string>
-  <string name="password">Пароль</string>
-  <string name="phone_locked">Это устройство может быть связано с существующим Mi Аккаунтом (%s). Выполните вход для активации устройства.</string>
+  <string name="password">Введите пароль</string>
+  <string name="phone_locked">Это устройство связано с существующим Mi Аккаунтом (%s). Введите пароль для активации устройства.</string>
   <string name="phone_locked_account_email">, связанный email: %s</string>
   <string name="phone_locked_account_phone">, связанный номер телефона: %s</string>
   <string name="return_to_call">Вернуться к разговору</string>
@@ -73,13 +73,13 @@
   <string name="unlock_error_user_name">Неверное имя пользователя</string>
   <string name="unlock_error_wrong_vcode">Код введен неверно</string>
   <string name="unlock_help">"Подключитесь к сети.
-Убедитесь, что вы установили рабочую SIM-карту (если поддерживается устройством), и ваше устройство подключено к действующей сети Wi-Fi.
+Вставьте рабочую SIM-карту, не подключайтесь к недействительным сетям Wi-Fi.
 
 Забыли пароль?
-Перейдите на id.mi.com для сброса пароля.
+Перейдите на id.mi.com, выберите \"Забыли пароль?\" и следуйте инструкциям.
 
-Прочее
-Выполните вход на i.mi.com и попытайтесь разблокировать устройство оттуда."</string>
+Не удается активировать устройство?
+Перейдите на i.mi.com/ss и отправьте заявку на разблокировку устройства."</string>
   <string name="unlock_help_title">Помощь по разблокировке:</string>
   <string name="unlock_number">Код разблокировки: %s</string>
   <string name="unlock_wrong_captcha">Код введен неверно</string>

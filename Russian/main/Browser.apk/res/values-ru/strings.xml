@@ -263,6 +263,7 @@
     <string name="contextmenu_openlink_in_browser">Открыть в Браузере</string>
     <string name="contextmenu_openlink_newwindow">Открыть в новой вкладке</string>
     <string name="contextmenu_openlink_newwindow_background">Открыть в фоновой вкладке</string>
+    <string name="contextmenu_orignal_webpage">Исходная страница</string>
     <string name="contextmenu_recognise_qr_code">Сканировать QR-код</string>
     <string name="contextmenu_send_mail">Отправить email</string>
     <string name="contextmenu_set_wallpaper">Установить в качестве обоев</string>
@@ -271,6 +272,8 @@
     <string name="contextmenu_webpage_capture">Скриншот</string>
     <string name="contextmenu_webpage_html">Сохранить как HTML файл</string>
     <string name="contextmenu_webpage_snapshot">Сохранить страницу</string>
+    <string name="contextmenu_webpage_translate">Перевод страницы</string>
+    <string name="contextmenu_webpage_translation_tips">Новая функция перевода в панели инструментов</string>	
     <string name="custom_head_card_text">Всегда верьте, что произойдет что-то замечательное</string>
     <string name="custom_head_weather">Погода</string>
     <string name="dark_mode_setting_dark">Ночной режим (темный)</string>
@@ -636,10 +639,10 @@ Crash ID: http://crash/%1$s"</string>
     <string name="mw_find_previous">Назад</string>
     <string name="mw_js_dialog_before_unload">%s
 
-Вы уверены, что хотите уйти с этой страницы?</string>
-    <string name="mw_js_dialog_before_unload_negative_button">Остаться на этой странице</string>
-    <string name="mw_js_dialog_before_unload_positive_button">Покинуть эту страницу</string>
-    <string name="mw_js_dialog_before_unload_title">Подтвердить навигацию</string>
+Вы уверены, что хотите покинуть эту страницу?</string>
+    <string name="mw_js_dialog_before_unload_negative_button">Остаться</string>
+    <string name="mw_js_dialog_before_unload_positive_button">Покинуть</string>
+    <string name="mw_js_dialog_before_unload_title">Подтверждение навигации</string>
     <string name="mw_js_dialog_title">Страница на \"%s\" говорит:</string>
     <string name="mw_last_month">Последний месяц</string>
     <string name="mw_license_activity_title">Системные лицензии WebView</string>
@@ -869,6 +872,7 @@ Crash ID: http://crash/%1$s"</string>
     <string name="pref_force_userscalable">Масштабирование</string>
     <string name="pref_force_userscalable_summary">Приоритет пользовательских настроек масштабирования</string>
     <string name="pref_general_title">Основные настройки</string>
+    <string name="pref_info_folow_refresh_icon">Обновление страницы</string>
     <string name="pref_label_advert_manager">Управление помеченной рекламой</string>
     <string name="pref_nav_mode_summary_pad">Планшет</string>
     <string name="pref_nav_mode_summary_phone">Телефон</string>
@@ -1270,6 +1274,14 @@ Crash ID: http://crash/%1$s"</string>
     <string name="voice_title_listening">Слушаю…</string>
     <string name="voice_title_please">Говорите…</string>
     <string name="voice_title_speech_again">Не удалось распознать</string>
+    <string name="web_translation_after_button_text">Восстановить</string>
+    <string name="web_translation_after_tips">Восстановить исходную страницу</string>
+    <string name="web_translation_before_button_text">Перевести</string>
+    <string name="web_translation_before_tips">Перевести страницу?</string>
+    <string name="web_translation_doing_tips">Идет перевод…</string>
+    <string name="web_translation_failed_toast">Ошибка перевода, повторите попытку</string>
+    <string name="web_translation_non_en_toast">Английский текст отсутствует</string>
+    <string name="web_translation_pop_text">Функция перевода доступна в панели инструментов</string>	
     <string name="webpage_title">Закладки</string>
     <string name="wechat_not_installed">Wechat не установлен</string>
 </resources>
