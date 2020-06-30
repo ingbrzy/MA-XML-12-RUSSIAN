@@ -121,11 +121,11 @@
     <string name="body_weight_fkg">%1$.1f кг</string>
     <string name="body_weight_kg">%1$d кг</string>
     <string name="body_weight_little_obesity">Умеренное ожирение</string>
-    <string name="body_weight_normal">Нормальный вес</string>
-    <string name="body_weight_obesity">Сильное ожирение</string>
-    <string name="body_weight_overweight">Избыточный вес</string>
-    <string name="body_weight_severe_obesity">Очень сильное ожирение</string>
-    <string name="body_weight_thin">Пониженный вес</string>
+    <string name="body_weight_normal">Норма</string>
+    <string name="body_weight_obesity">Ожирение</string>
+    <string name="body_weight_overweight">Избыток</string>
+    <string name="body_weight_severe_obesity">Сильное ожирение</string>
+    <string name="body_weight_thin">Недостаток</string>
     <string name="body_weight_unmeasure_today">Сегодня данные не вводились</string>
     <string name="bone_mass">Костная масса</string>
     <string name="bone_mass_descripe_content">Костный минерал является неорганическим компонентом костной ткани. Химический состав костей меняется с возрастом, влияя на минеральную плотность. Исследования показали, что длительные регулярные упражнения с отягощениями могут эффективно замедлить разрушение костей, снизить риск переломов и улучшить качество жизни.</string>
@@ -334,7 +334,7 @@ ID:%s
     <string name="enable_go_now">Включить</string>
     <string name="enable_not_now">Не сейчас</string>
     <string name="enable_right_now">Отключить</string>
-    <string name="enough">Достаточно</string>
+    <string name="enough">Норма</string>
     <string name="enter_mi_health">Открыть приложение Здоровье</string>
     <string name="equivalent_exercise">≈%1$s км ходьбы (%2$s Кал)</string>
     <string name="eras_ad">AD</string>
@@ -343,17 +343,17 @@ ID:%s
     <string name="excessive">Слишком много</string>
     <string name="exercise">Тренировка</string>
     <string name="exercise_consume">Сожжено %1$d Кал</string>
-    <string name="exercise_consume_description">Согласно диетическим рекомендациям для жителей Китая, ежедневная физическая активность должна потреблять более 15% от общего объема энергозатрат. Энергия, потраченная на вашу ежедневную физическую активность, суммируется здесь, но не включает основные метаболические расходы. Если у вас есть проблемы с контролем веса, вам также необходимо сосредоточиться на потреблении энергии.</string>
-    <string name="exercise_consume_exercise_description">Продолжительность упражнения - это время, затрачиваемое на упражнения средней и высокой интенсивности. По данным китайских органов здравоохранения, еженедельная продолжительность упражнений должна составлять не менее 150 минут. Время, затраченное на занятия с высокой интенсивностью, такие как быстрая ходьба (частота более 100 шагов в минуту), бег и подъем по лестнице, будет добавлено к продолжительности ваших упражнений...</string>
+    <string name="exercise_consume_description">Согласно диетическим рекомендациям для жителей Китая, ежедневная физическая активность должна составлять больше 15% от общего объема энергозатрат. Суммируются только энергозатраты ежедневной физической активности, энергозатраты на основной метаболизм не учитываются. Если у вас есть проблемы с весом, вам необходимо сосредоточиться на физической активности.</string>
+    <string name="exercise_consume_exercise_description">Суммарное время упражнений средней и высокой интенсивности. По данным китайского здравоохранения, еженедельная продолжительность упражнений должна составлять не менее 150 минут. Быстрая ходьба (больше 100 шагов в минуту), бег, подъем по лестнице, будут рассматриваться как тренировки средней и высокой интенсивности.</string>
     <string name="exercise_correct">Корректно</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве калорий.
-Вы можете выбрать другой источник данных в Настройки&gt; Источники данных."</string>
+Вы можете выбрать другой источник данных в Настройки &gt; Источники данных."</string>
     <string name="exercise_detail_no_exercise_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о длительности упражнения.
-Вы можете выбрать другой источник данных в Настройки&gt; Источники данных."</string>
+Вы можете выбрать другой источник данных в Настройки &gt; Источники данных."</string>
     <string name="exercise_detail_no_steps_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве шагов.
-Вы можете выбрать другой источник данных в Настройки&gt; Источники данных."</string>
-    <string name="exercise_duration">Длительность упражнения</string>
+Вы можете выбрать другой источник данных в Настройки &gt; Источники данных."</string>
+    <string name="exercise_duration">Длительность</string>
     <string name="exercise_duration_consume">Длительность: %1$s | Сожжено: %2$s</string>
     <string name="exercise_fast_description">%1s (%2s)</string>
     <string name="exercise_goal">Цель активности</string>
@@ -363,7 +363,7 @@ ID:%s
     <string name="exercise_heart_rate">Пульс</string>
     <string name="exercise_heart_rate_range">Диапазон пульса</string>
     <string name="exercise_info_tool_bar_title">Тренировка</string>
-    <string name="exercise_information_label">Предоставьте свою данные, чтобы сделать статистику более точной</string>
+    <string name="exercise_information_label">Предоставьте информацию о себе для более точной статистики</string>
     <string name="exercise_intensity">Интенсивность</string>
     <string name="exercise_motor_perception">Отслеживать тренировки автоматически</string>
     <string name="exercise_motor_perception_description">Носите с собой устройство в течение дня, чтобы автоматически отслеживать тренировки</string>
@@ -381,7 +381,7 @@ ID:%s
     <string name="exercise_recog_confirm_stair_climb">Вы поднимались по ступеням с %1$s до %2$s?</string>
     <string name="exercise_recog_confirm_walk">Вы ходили с %1$s до %2$s?</string>	
     <string name="exercise_record">История тренировок</string>
-    <string name="exercise_record_no_data">Пока ничего нет</string>
+    <string name="exercise_record_no_data">Ничего нет</string>
     <string name="exercise_reminder_accomplished">Цель достигнута!</string>
     <string name="exercise_reminder_title">Напоминание об активности</string>
     <string name="exercise_reminder_unaccomplished">Постарайтесь достигнуть цели</string>
@@ -395,16 +395,15 @@ ID:%s
     <string name="exercise_strokes">Количество гребков</string>
     <string name="exercise_sum">Отчёт о тренировке</string>
     <string name="exercise_time">Длительность</string>
-    <string name="exercise_walk_description">В соответствии с диетическими рекомендациями для жителей Китая, активная физическая активность должна длиться не менее 40 минут в день, что эквивалентно ходьбе 6000 шагов. Шаги, которые вы делаете каждый день, чтобы ходить, бегать и подниматься по лестнице, кратко изложены здесь.</string>
+    <string name="exercise_walk_description">Согласно диетическим рекомендациям для жителей Китая, активная физическая активность должна длиться не менее 40 минут в день, что эквивалентно ходьбе 6000 шагов. Здесь будут суммироваться все ваши шаги (ходьба, бег, подъем по лестнице).</string>
     <string name="expand_all">Показать все</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="fall_sleep_hard">Проблема засыпания</string>
     <string name="falling_duration">Засыпание</string>
-    <string name="falling_duration_hard_description">"Засыпание - это период от начала вашего сна до полного засыпания. Если вам требуется более 30 минут, чтобы заснуть, это может быть признаком бессонницы.
-Если вам все еще трудно уснуть после 30 минут в постели, уменьшите факторы, способствующие этому явлению. Пейте меньше кофе; не переусердствуйте со своей нервной системой визуально и эмоционально, просматривая видео или читая перед сном; держите свою спальню темной, тихой и удобной. Если эти меры не приносят облегчения, обратитесь к врачу
-."</string>
-    <string name="falling_duration_normal_description">Засыпание - это период от начала вашего сна до полного засыпания. Знание того, сколько времени вам нужно, чтобы заснуть, важно для лечения бессонницы и других состояний, связанных со сном..</string>
+    <string name="falling_duration_hard_description">"Засыпание - период с момента отхода ко сну до полного засыпания. Если вам требуется более 30 минут, чтобы заснуть, это может быть признаком бессонницы.
+Постарайтесь уменьшить факторы, мешающие засыпанию. Пейте меньше кофе; не нагружайте свою нервную систему визуально и эмоционально просмотром видео или чтением перед сном; место сна должно быть темным, тихим и удобным. Если эти меры не помогают, обратитесь к врачу."</string>
+    <string name="falling_duration_normal_description">Засыпание - период с момента отхода ко сну до полного засыпания. Знание того, как быстро вы засыпаете, важно для лечения бессонницы и других нарушений сна.</string>
     <string name="fast">Быстрый</string>
     <string name="fat_rate">Жир</string>
     <string name="fat_rate_descripe_content">Процент жира в организме - доля жира в общей массе тела.</string>
@@ -470,7 +469,7 @@ ID:%s
     <string name="health_score">Оценка состояния здоровья</string>
     <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="health_setting">Настройки</string>
-    <string name="high">Высокий</string>
+    <string name="high">Избыток</string>
     <string name="high_intensity">Высокая</string>
     <string name="high_intensity_description">Частое дыхание, можно говорить прерывистыми фразами</string>
     <string name="history_statistics">Статистика</string>
@@ -490,7 +489,7 @@ ID:%s
     <string name="indoor_running">Беговая дорожка</string>
     <string name="input_body_weight">Введите данные о весе, чтобы получить советы</string>
     <string name="instructions_provider">Инструкции предоставлены Miao Health</string>
-    <string name="insufficient">Недостаточно</string>
+    <string name="insufficient">Мало</string>
     <string name="jump_over">Пропустить</string>
     <string name="just_recently">Только что</string>
     <string name="keep_edit">Отмена</string>
@@ -685,7 +684,7 @@ ID:%s
     <string name="no_data">Нет данных</string>
     <string name="no_records">Нет записей</string>
     <string name="no_snore">Вы не храпели и не разговаривали во сне</string>
-    <string name="no_snore_1">Пока ничего нет</string>
+    <string name="no_snore_1">Ничего нет</string>
     <string name="no_sport_delete">Удалить некорректную запись</string>
     <string name="noon">PM</string>
     <string name="normal">Нормально</string>
@@ -754,23 +753,23 @@ ID:%s
     <string name="prompt_sleep_time_night">Ночной сон</string>
     <string name="prompt_sleep_time_noon">Дневной сон</string>
     <string name="protein_rate">Белок</string>
-    <string name="protein_rate_descripe_content">Процент белка - доля белка в общей массе человеческого тела. Это важно для выявления дисбаланса в питании и поддержания здорового питания.</string>
-    <string name="rate_bit_high">Высокий</string>
-    <string name="rate_bit_low">Низкий</string>
+    <string name="protein_rate_descripe_content">Процент белка - доля белка в общей массе тела. Он важен для выявления дисбаланса в питании и поддержания здорового питания.</string>
+    <string name="rate_bit_high">Избыток</string>
+    <string name="rate_bit_low">Недостаток</string>
     <string name="rate_bone_mass_reduce">Снижение костной массы</string>
     <string name="rate_bone_osteoporosis">Остеопороз</string>
     <string name="rate_extremely_high">Экстремально высокий</string>
-    <string name="rate_short">Недостаточный</string>
-    <string name="rb_gender_female">Пол: Женский</string>
-    <string name="rb_gender_male">Пол: Мужской</string>
-    <string name="reach_standard">Соответствует стандарту</string>
-    <string name="recommand_body_weight_msg">Рекомендуемый вес %1$.1f кг (ИМТ %2$.1f)</string>
+    <string name="rate_short">Недостаток</string>
+    <string name="rb_gender_female">Пол: женский</string>
+    <string name="rb_gender_male">Пол: мужской</string>
+    <string name="reach_standard">Норма</string>
+    <string name="recommand_body_weight_msg">Рекомендуемый целевой вес %1$.1f кг (ИМТ %2$.1f)</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
     <string name="record_body_weight_button">Сохранить</string>
     <string name="record_detail_page_title">Сведения</string>
     <string name="record_more">Дополнительные сведения</string>
     <string name="recorded_menstruation">Указанные даты</string>
-    <string name="reference">Справочные материалы</string>
+    <string name="reference"> Информация</string>
     <string name="relationship_with_contact">Доверенный контакт</string>
     <string name="rem_Duration_increase_description">Ваш быстрый сон слишком длинный</string>
     <string name="rem_duration">REM длительность сна</string>
@@ -1038,15 +1037,15 @@ ID:%s
     <string name="subtitle_exercise_and_sleep">Следите за сном и больше двигайтесь</string>
     <string name="subtitle_get_health_advice">Для более точной статистики и советов по здоровью введите свои данные</string>
     <string name="subtitle_keep_warm">Следите за питанием и не переохлаждайтесь</string>
-    <string name="subtitle_mi_health_predict_menstruation">Следите за вашим менструальным циклом при помощи приложения Здоровье</string>
+    <string name="subtitle_mi_health_predict_menstruation">Следите за вашим менструальным циклом в приложении Здоровье</string>
     <string name="subtitle_record_and_start_predict">Ведите записи о вашем цикле, чтобы рассчитать приблизительную дату начала следующей менструации</string>
-    <string name="subtitle_run_in_background">Выберите \"Нет ограничений\" в контроле активности , чтобы получать более точную статистику</string>
+    <string name="subtitle_run_in_background">Выберите \"Без ограничений\" в контроле активности для более точной статистики</string>
     <string name="subtitle_stick_record">Записывайте данные о цикле для получения более точных прогнозов</string>
-    <string name="sufficient">Достаточно</string>
-    <string name="suggested_body_weight">Рекомендуемый вес</string>
-    <string name="suggestion_drink_content">Обратите внимание на напряжение в теле и постарайтесь расслабиться.</string>
+    <string name="sufficient">Норма</string>
+    <string name="suggested_body_weight">Оптимальный вес</string>
+    <string name="suggestion_drink_content">Если вы напряжены, постарайтесь расслабиться</string>
     <string name="suggestion_drink_title">Выпейте воды и расслабьтесь</string>
-    <string name="suggestion_move_content">Пройдите сто шагов или несколько лестничных пролетов.</string>
+    <string name="suggestion_move_content">Пройдите сто шагов или поднимитесь по лестнице</string>
     <string name="suggestion_move_title">Время размяться!</string>
     <string name="suggestion_title">Советы</string>
     <string name="suitable">Подходящее</string>
@@ -1315,7 +1314,7 @@ ID:%s
 Обновить?"</string>
     <string name="update_notify_dialog_msg2">Доступно обновление: %1$s. Обновить?</string>
     <string name="update_notify_dialog_title">Доступно обновление</string>
-    <string name="update_notify_no_update_log">Пока ничего нет.</string>
+    <string name="update_notify_no_update_log">Ничего нет</string>
     <string name="user_age_unit">л.</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="user_birthday_display_format">dd.MM.yyyy</string>
@@ -1329,7 +1328,7 @@ ID:%s
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
-    <string name="weight_height_weight_bmi">Индекс массы тела</string>
+    <string name="weight_height_weight_bmi">ИМТ</string>
     <string name="weight_keep_up">Отлично! Продолжайте поддерживать здоровый вес.</string>
     <string name="weight_notice">Уведомление о взвешивании</string>
     <string name="weight_remind">Напоминание о взвешивании</string>

@@ -1,19 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>    
     <string-array name="arr_prompt_label">
-        <item>Разумно</item>
+        <item>Приемлемо</item>
         <item>Долго</item>
         <item>Слишком долго</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
         <item>Время двигаться!</item>
-        <item>Узнать больше</item>
-        <item>Выпейте немного воды и прогуляйтесь</item>
-        <item>Узнать больше</item>
+        <item>Подробнее</item>
+        <item>Выпейте воды и прогуляйтесь</item>
+        <item>Подробнее</item>
         <item>Поднимитесь по лестнице</item>
-        <item>Узнать больше</item>
+        <item>Подробнее</item>
         <item>Не сидите слишком долго</item>
-        <item>Узнать больше</item>
+        <item>Подробнее</item>
     </string-array>
     <string-array name="arr_time_label">
         <item>1 час</item>
@@ -54,9 +113,9 @@
         <item>Женщина</item>
     </string-array>    
     <string-array name="length_unit">
-        <item> см</item>
-        <item> м</item>
-        <item> км</item>
+        <item>" см"</item>
+        <item>" м"</item>
+        <item>" км"</item>
     </string-array>
     <string-array name="normal_blood_array">
         <item>Не указана</item>
@@ -82,8 +141,8 @@
         <item>Никогда</item>
     </string-array>
     <string-array name="speed_unit">
-        <item> км/ч</item>
-        <item> м/с</item>
+        <item>" км/ч"</item>
+        <item>" м/с"</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
         <item>Сидячий образ жизни вызывает множество проблем со здоровьем. Если общая продолжительность времени сидя не может быть уменьшена, периодическая активность может улучшить ситуацию.</item>
@@ -122,12 +181,12 @@
         <item>48</item>
     </integer-array>
     <string-array name="weight_unit">
-        <item> г</item>
-        <item> кг</item>
-        <item> т</item>
-        <item> лян</item>
-        <item> цзинь</item>
-        <item> фунт</item>
+        <item>" г"</item>
+        <item>" кг"</item>
+        <item>" т"</item>
+        <item>" лян"</item>
+        <item>" цзинь"</item>
+        <item>" фунт"</item>
     </string-array>
     <string-array name="yes_no_array">
         <item>не указан</item>
