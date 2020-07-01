@@ -3,12 +3,17 @@
     <string name="action_missing_private_key">Для установки сертификата необходим закрытый ключ</string>
     <string name="action_missing_user_cert">Для установки закрытого ключа необходим сертификат</string>
     <string name="app_name">Установщик сертификатов</string>
+    <string name="ca_cert_is_added">CA сертификат установлен</string>
+    <string name="ca_certificate">CA сертификат</string>
     <string name="cert_is_added">%s установлен</string>
     <string name="cert_missing_error">Установка не выполнена, поскольку не удалось найти файл сертификата.</string>
     <string name="cert_not_saved">Сертификат не установлен</string>
     <string name="cert_read_error">Установка не выполнена, поскольку не удалось открыть файл сертификата.</string>
+    <string name="cert_temp_error">Временный сбой. Повторите попытку позже.</string>
     <string name="cert_too_large_error">Установка не выполнена, поскольку сертификат слишком большой.</string>
+    <string name="certificate">Сертификат</string>
     <string name="certificate_capabilities_warning">Примечание: издатель этого сертификата может проверять весь трафик на устройстве.</string>
+    <string name="certificate_name">Имя сертификата</string>
     <string name="credential_info">Пакет содержит:</string>
     <string name="credential_name">Название сертификата:</string>
     <string name="credential_password">Введите пароль для извлечения сертификатов.</string>
@@ -18,6 +23,9 @@
     <string name="install_done">Учетные данные (%1$s) добавлены в базу сохраненных сетей Wi-Fi.</string>
     <string name="install_done_title">Установка завершена</string>
     <string name="invalid_cert">Сертификат недействителен.</string>
+    <string name="invalid_certificate_close_button">Закрыть</string>
+    <string name="invalid_certificate_message">"Этот файл не может быть использован как %1$s"</string>
+    <string name="invalid_certificate_title">Недопустимый файл</string>
     <string name="n_cacrts">Сертификатов центра сертификации: %d</string>
     <string name="name_char_error">Можно использовать только буквы и цифры.</string>
     <string name="name_credential_dialog_title">Укажите название сертификата</string>
@@ -33,9 +41,17 @@
     <string name="pick_file_title">Выбор сертификата</string>
     <string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
     <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
+    <string name="redirect_ca_certificate_close_button">Закрыть</string>
+    <string name="redirect_ca_certificate_message">CA сертификаты могут поставить вашу конфиденциальность под угрозу и должны быть установлены в Настройках</string>
+    <string name="redirect_ca_certificate_title">Не удалось установить CA сертификаты</string>
+    <string name="select_certificate_usage_title">Тип сертификата</string>
     <string name="unable_to_save_cert">Не удалось сохранить сертификат, поскольку хранилище учетных данных не включено или не инициализировано.</string>
+    <string name="user_cert_is_added">Сертификат пользователя установлен</string>
+    <string name="user_certificate">VPN и сертификат пользователя</string>
     <string name="userkey_type">Алгоритм:</string>
     <string name="wifi_cancel_label">Отмена</string>
+    <string name="wifi_cert_is_added">Сертификат Wi-Fi установлен</string>
+    <string name="wifi_certificate">Сертификат Wi-Fi</string>
     <string name="wifi_config_text">"Имя: %1$s
 FQDN: %2$s
 Роуминг: %3$s
