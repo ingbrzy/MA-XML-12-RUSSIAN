@@ -224,20 +224,25 @@
   <string name="notification_rc_title">Помощник Xiaomi TV</string>
   <string name="notification_show_more">Дополнительные функции</string>
   <string name="privacy_agree">Согласен</string>
+  <string name="privacy_detail">&lt;Data&gt;Для нормальной работы приложению необходимы подключение к интернету и разрешения на сбор личной информации. Чтобы полностью понять ваши права как пользователя, а также способы, которыми мы используем ваши данные, прочтите и примите наши &amp;lt;a href=%1$s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_detail_extra">&lt;Data&gt;Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Используя эту функцию, вы соглашаетесь с &amp;lt;a href=%1$s&amp;gt;Политикой конфиденциальности HappyCast&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Юридическим заявлением HappyCast&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_explain">"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor. This app needs to connect to the internet and requires the following permissions to be able to work normally:"</string>  
   <string name="privacy_explain">Добро пожаловать в приложение Трансляция! Вы можете использовать это приложение для вывода содержимого экрана на ТВ, ТВ Box, проекторы и другие устройства с большим экраном. Для корректной работы приложению необходимо подключение к интернету и следующие разрешения:</string>
   <string name="privacy_negative">Отмена</string>
   <string name="privacy_permission_ble">Включение/отключение Bluetooth</string>
-  <string name="privacy_permission_ble_desc">Поиск близлежащих проекторов с использованием Bluetooth</string>
+  <string name="privacy_permission_ble_desc">Для поиска доступных устройств поблизости</string>
   <string name="privacy_permission_location">Доступ к местоположению</string>
-  <string name="privacy_permission_location_desc">Получение информации об устройствах поблизости</string>
-  <string name="privacy_permission_necessary">Необходимые разрешения</string>
+  <string name="privacy_permission_location_desc">Для поиска доступных устройств поблизости</string>
+  <string name="privacy_permission_necessary">Обязательные разрешения</string>
   <string name="privacy_permission_necessary_desc">Для работы основных сервисов и функций приложения</string>
   <string name="privacy_permission_nfc">NFC</string>
-  <string name="privacy_permission_nfc_desc">Использование NFC для связи с проектором</string>
+  <string name="privacy_permission_nfc_desc">Для сопряжения устройств с использованием NFC</string>
   <string name="privacy_permission_optional">Дополнительные разрешения</string>
-  <string name="privacy_permission_optional_desc">Для работы дополнительных функций во время использования приложения</string>
+  <string name="privacy_permission_optional_desc">Для работы дополнительных функций во время их использования</string>
   <string name="privacy_permission_wlan">Включение/отключение Wi-Fi</string>
-  <string name="privacy_permission_wlan_desc">Поиск близлежащих проекторов с использованием Wi-Fi</string>
+  <string name="privacy_permission_wlan_china">Включение/отключение Wi-Fi</string>
+  <string name="privacy_permission_wlan_desc">Для поиска доступных устройств поблизости</string>
+  <string name="privacy_permission_wlan_desc_china">Для поиска доступных устройств поблизости</string>
   <string name="privacy_positive">Согласен</string>
   <string name="privacy_text_1">&lt;Data&gt;"Добро пожаловать в приложение Трансляция! Трансляция позволяет проецировать содержимое с телефона на внешний монитор.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Перед использованием этой функции прочтите и примите &amp;lt;a href=%2$s&amp;gt;Юридическое заявление HappyCast&amp;lt;/a&amp;gt; и &amp;lt;a href=%1$s&amp;gt;Политику конфиденциальности HappyCast&amp;lt;/a&amp;gt;.
