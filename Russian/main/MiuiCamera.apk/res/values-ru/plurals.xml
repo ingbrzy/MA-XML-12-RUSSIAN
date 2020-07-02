@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="accessibility_focus_face_detect">
-        <item quantity="other">Сфокусировано. Найдено %d лиц</item>
-        <item quantity="one">Сфокусировано. Найдено %d лицо</item>
-        <item quantity="few">Сфокусировано. Найдено %d лица</item>
+        <item quantity="other">Сфокусировано. Обнаружено %d лиц</item>
+        <item quantity="one">Сфокусировано. Обнаружено %d лицо</item>
+        <item quantity="few">Сфокусировано. Обнаружено %d лица</item>
     </plurals>
      <plurals name="clone_guide_tip2">
         <item quantity="other">Вы можете создать до %d клонов за раз.</item>
         <item quantity="one">Вы можете создать до %d клона за раз.</item>
      </plurals>	
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s мин.</item>
+        <item quantity="one">%1$s мин.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s фото</item>
+        <item quantity="one">%1$s фото</item>
+    </plurals>	 
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Серийная съемка завершена, сделано %1$s фото</item>
         <item quantity="one">Серийная съемка завершена, сделано %1$s фото</item>
