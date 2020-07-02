@@ -52,6 +52,16 @@
         <item quantity="one">Еще %1$d комментарий</item>
         <item quantity="few">Еще %1$d комментария</item>
     </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s наград</item>
+        <item quantity="one">%s награда</item>
+        <item quantity="few">%s награды</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s наград</item>
+        <item quantity="one">%s награда</item>
+        <item quantity="few">%s награды</item>
+    </plurals>	
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d часов назад</item>
         <item quantity="one">%d час назад</item>
