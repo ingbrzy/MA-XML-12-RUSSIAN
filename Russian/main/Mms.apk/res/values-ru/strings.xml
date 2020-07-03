@@ -451,7 +451,7 @@
   <string name="mms_block_hint">"Этот отправитель отсутствует в ваших контактах.
 Это сообщение может быть нежелательным."</string>
   <string name="mms_block_hint_highlight">Блокировка MMS</string>
-  <string name="mms_main_purpose">"Для полной функциональности Сообщений, разрешите приложению подключение к интернету, включите Mi сообщения и Умные сообщения."</string>
+  <string name="mms_main_purpose">Чтобы использовать все функции, разрешите приложению подключение к интернету, включите Mi сообщения и Умные сообщения.</string>
   <string name="mms_title">Сообщения</string>
   <string name="monday">Понедельник</string>
   <string name="monday_short">Пн</string>
@@ -553,7 +553,7 @@
   <string name="mx_filter_message_from_stranger_summary">Вы по-прежнему сможете получать SMS с неизвестных номеров</string>
   <string name="mx_main_purpose">"Mi сообщения позволяют отправлять сообщения другим пользователям Mi сообщений через интернет без дополнительной оплаты.
 Для активации Mi сообщений потребуется отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение."</string>
-  <string name="mx_main_purpose_short">Mi сообщения позволяют пользователям MIUI отправлять и получать бесплатные SMS и MMS сообщения.</string>
+  <string name="mx_main_purpose_short">Приложение позволяет пользователям MIUI бесплатно отправлять и получать SMS и MMS сообщения.</string>
   <string name="mx_message">Mi сообщения</string>
   <string name="mx_msg">Mi сообщения</string>
   <string name="mx_msg_pageview_setting_title">Настройки Mi сообщений</string>
@@ -583,8 +583,8 @@
   <string name="no_block_button_msg">Разблокировать</string>
   <string name="no_conversations">Нет сообщений</string>
   <string name="no_delivery_report">Нет отчета о доставке</string>
-  <string name="no_longer_recommend">"Больше не показывать"</string>
-  <string name="no_network_description">"Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку."</string>
+  <string name="no_longer_recommend">Больше не показывать</string>
+  <string name="no_network_description">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
   <string name="no_subject">(Без темы)</string>
   <string name="no_subject_view">(без темы)</string>
   <string name="non_english_subject_limit">13 символов</string>
@@ -1121,14 +1121,22 @@
   <string name="switch_to_menu">Режим меню</string>
   <string name="system_permission_declare_agree">Согласен</string>
   <string name="system_permission_declare_disagree">Отмена</string>
-  <string name="system_permission_declare_double_link" formatted="false">Прочитайте и примите %1s и %2s перед использованием этого сервиса.</string>
-  <string name="system_permission_declare_main_purpose" formatted="false">Добро пожаловать в %1s! %2s</string>
+  <string name="system_permission_declare_double_link" formatted="false">"%1s. 
+%2s. 
+  
+Нажатие \"Согласен\" означает, что вы принимаете вышеперечисленное."</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">"Добро пожаловать в %1s! 
+%2s"</string>
   <string name="system_permission_declare_no_say_no">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Если вы не согласны предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать это приложение.</string>
-  <string name="system_permission_declare_privacy_declare">Для нормальной работы %1s необходим сбор ваших данных и следующие разрешения:</string>
-  <string name="system_permission_declare_privacy_declare_new">Это приложение должно подключаться к Интернету и требуются следующие разрешения для нормальной работы:</string>
+  <string name="system_permission_declare_privacy_declare">Для нормальной работы %1s требуются сбор ваших данных и следующие разрешения:</string>
+  <string name="system_permission_declare_privacy_declare_new">Для нормальной работы приложению требуются подключение к интернету и следующие разрешения:</string>
   <string name="system_permission_declare_revoke_path">Вы можете отменить авторизацию и отключить сервисы в настройках Сообщений.</string>
   <string name="system_permission_declare_single_link">Прочитайте и примите %1s перед использованием этого сервиса.</string>
-  <string name="system_permission_declare_triple_link" formatted="false">Прочитайте и примите %1s, %2s, и %3s перед использованием этих сервисов.</string>
+  <string name="system_permission_declare_triple_link" formatted="false">"%1s. 
+%2s. 
+%3s. 
+
+Нажатие \"Согласен\" означает, что вы принимаете вышеперечисленное."</string>
   <string name="system_permission_declare_use_network">Подключение к сети</string>
   <string name="system_permission_perm_answer_call">Осуществление вызовов</string>
   <string name="system_permission_perm_read_mms">Чтение MMS</string>
