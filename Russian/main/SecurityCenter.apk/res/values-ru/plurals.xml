@@ -379,9 +379,8 @@
     <item quantity="few">%d дня с момента последней проверки</item>
   </plurals>
   <plurals name="number_locked">
-    <item quantity="other">%d приложений защищено</item>
-    <item quantity="one">%d приложение защищено</item>
-    <item quantity="few">%d приложения защищено</item>
+    <item quantity="other">ЗАЩИЩЕНО: %d</item>
+    <item quantity="one">ЗАЩИЩЕНО: %d</item>
   </plurals>
   <plurals name="number_masked">
     <item quantity="other">%d</item>
@@ -392,9 +391,8 @@
     <item quantity="one">Скрывается для %d приложения</item>
   </plurals>
   <plurals name="number_to_lock">
-    <item quantity="other">%d приложений не защищено</item>
-    <item quantity="one">%d приложение не защищено</item>
-    <item quantity="few">%d приложения не защищено</item>
+    <item quantity="other">МОЖНО ЗАЩИТИТЬ: %d</item>
+    <item quantity="one">МОЖНО ЗАЩИТИТЬ: %d</item>
   </plurals>
   <plurals name="number_to_mask_text">
     <item quantity="other">Не скрывается для %d приложений</item>
@@ -559,14 +557,12 @@
     <item quantity="few">Устройство выключится через %d секунды. Подключите зарядное устройство.</item>
   </plurals>
   <plurals name="privacy_apps_disable_header_title">
-    <item quantity="other">%d приложений скрыто</item>
-    <item quantity="one">%d приложение скрыто</item>
-    <item quantity="few">%d приложения скрыто</item>
+    <item quantity="other">СКРЫТО: %d</item>
+    <item quantity="one">СКРЫТО: %d</item>
   </plurals>
   <plurals name="privacy_apps_enable_header_title">
-    <item quantity="other">%d приложений можно скрыть</item>
-    <item quantity="one">%d приложение можно скрыть</item>
-    <item quantity="few">%d приложения можно скрыть</item>
+    <item quantity="other">МОЖНО СКРЫТЬ: %d</item>
+    <item quantity="one">МОЖНО СКРЫТЬ: %d</item>
   </plurals>
   <plurals name="privacy_permission_summary">
     <item quantity="other">%s приложений имеет постоянный доступ</item>

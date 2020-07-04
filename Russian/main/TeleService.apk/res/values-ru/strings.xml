@@ -1334,7 +1334,7 @@
   <string name="mr_dialog_transferable_header">Групповое воспроизведение</string>
   <string name="mr_system_route_name">Система</string>
   <string name="mr_user_route_category_name">Устройства</string>
-  <string name="msim_apn_not_set">Не настроено</string>
+  <string name="msim_apn_not_set">Не задано</string>
   <string name="msim_cmcc_dds_switch_not_support">Невозможно сменить SIM-карту из-за ограничений оператора.</string>
   <string name="msim_default_setting">Настройки по умолчанию</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -1410,7 +1410,7 @@
   <string name="network_query_error">Ошибка поиска сетей</string>
   <string name="network_select_title">Сеть</string>
   <string name="network_settings_auto_select_title">Выбрать сеть вручную?</string>
-  <string name="network_settings_automatically_option">Автоматически выбирать предпочтительную сеть (%s)</string>
+  <string name="network_settings_automatically_option">Автовыбор предпочтительной сети (%s)</string>
   <string name="network_settings_confirm_message">Сеть может стать недоступной. Вы уверены?</string>
   <string name="network_settings_data_connected_change">Мобильный интернет будет автоматически отключен на время поиска доступных сетей.</string>
   <string name="network_settings_duringcall">Операция недоступна во время вызова</string>
@@ -1873,7 +1873,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="search_menu_title">Поиск</string>
   <string name="selectContact">выбрать контакт</string>
   <string name="select_application">Выбор приложения</string>
-  <string name="select_automatically">Выбирать сеть автоматически</string>
+  <string name="select_automatically">Автовыбор сети</string>
   <string name="select_dds_dialog_title">Выберите SIM-карту для интернета</string>
   <string name="select_logd_size_dialog_title">Буфер журнала</string>
   <string name="select_logd_size_title">Буфер журнала</string>
@@ -1984,7 +1984,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="smart_divert_summary">Настройки CFNRc</string>
   <string name="smart_divert_title">Умное перенаправление</string>
   <string name="smart_dual_sim_prompt">При плохом соединении на основной SIM-карте, устройство будет использовать мобильный интернет вторичной SIM-карты. Это может привести к дополнительным расходам. Для подробной информации о вашем тарифном плане обратитесь к оператору связи.</string>
-  <string name="smart_dual_sim_summary">Автоматически переключаться на SIM-карту с лучшим подключением к мобильному интернету</string>
+  <string name="smart_dual_sim_summary">Автоматическое переключение на SIM-карту с лучшим подключением к мобильному интернету</string>
   <string name="smart_dual_sim_title">Умное переключение</string>
   <string name="smart_forwarding_settings_menu">Умная переадресация</string>
   <string name="smart_forwarding_settings_menu_summary">Перенаправлять вызовы на другой номер, если номер недоступен</string>
@@ -2036,7 +2036,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="sum_gsm_call_settings">Дополнительные настройки (только GSM)</string>
   <string name="sum_hide_caller_id">Скрывать номер при исходящих вызовах</string>
   <string name="sum_loading_settings">Загрузка настроек…</string>
-  <string name="sum_select_automatically">Автоматический выбор предпочтительной сети</string>
+  <string name="sum_select_automatically">Автовыбор предпочтительной сети</string>
   <string name="sum_show_caller_id">Не скрывать номер при исходящих вызовах</string>
   <string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
   <string name="summary_empty"/>
@@ -2284,7 +2284,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="wait_prompt_str">"Отправить следующие тоны?
 "</string>
   <string name="wapi_all_sel_mode">Выберите режим</string>
-  <string name="wapi_auto_sel_cert_fail">Невозможно выбрать сертификат автоматически. Выберите сертификат из списка и попробуйте подключиться.</string>
+  <string name="wapi_auto_sel_cert_fail">Не удалось автоматически выбрать сертификат. Выберите сертификат из списка и попробуйте подключиться.</string>
   <string name="wapi_cert_is_not_exist">Нет доступных сертификатов. Сначала установите их.</string>
   <string name="wapi_cert_is_not_selected">Сначала выберите сертификат</string>
   <string name="wapi_cert_manage_error">Ошибка настройки сертификата WAPI</string>

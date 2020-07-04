@@ -1106,7 +1106,7 @@
   <string name="permdesc_sim_communication">Приложение сможет отправлять команды SIM-карте (данное разрешение представляет большую угрозу).</string>
   <string name="permdesc_startViewPermissionUsage">Приложение сможет просматривать используемые разрешения. Разрешение не предназначено для обычных приложений.</string>
   <string name="permdesc_statusBar">Приложение сможет отключать строку состояния, а также добавлять и удалять системные значки.</string>
-  <string name="permdesc_statusBarService">Приложение сможет заменять собой строку состояния.</string>
+  <string name="permdesc_statusBarService">Приложение сможет изменять строку состояния.</string>
   <string name="permdesc_subscribedFeedsRead">Приложение сможет получать сведения о синхронизируемых в настоящее время фидах.</string>
   <string name="permdesc_systemAlertWindow">Приложение может открываться поверх других окон. Это может влиять на работу с другими приложениями.</string>
   <string name="permdesc_transmitIr">Приложение сможет использовать инфракрасный передатчик телефона.</string>
@@ -1720,9 +1720,9 @@
   <string name="whichSendToApplication">Выберите приложение</string>
   <string name="whichSendToApplicationLabel">Отправить</string>
   <string name="whichSendToApplicationNamed">Отправка с помощью %1$s</string>
-  <string name="whichViewApplication">Открыть с помощью приложения:</string>
+  <string name="whichViewApplication">Открыть в приложении</string>
   <string name="whichViewApplicationLabel">Открыть</string>
-  <string name="whichViewApplicationNamed">Открыть с помощью приложения \"%1$s\"</string>
+  <string name="whichViewApplicationNamed">Открыть в приложении %1$s</string>
   <string name="wifi_available_action_all_networks">Все сети</string>
   <string name="wifi_available_action_connect">Подключиться</string>
   <string name="wifi_available_carrier_network_title">Подключение к сети Wi-Fi оператора</string>

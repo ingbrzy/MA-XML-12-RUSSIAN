@@ -554,8 +554,9 @@
   <string name="vpn_settings_not_available">Этот пользователь не может изменять настройки VPN</string>
   <string name="wait_for_debugger">Подождите, пока подключится отладчик</string>
   <string name="wait_for_debugger_summary">Приложение ожидает подключения отладчика</string>
-  <string name="wapi_all_sel_mode">Выбрать</string>
-  <string name="wapi_auto_sel_cert_fail">Невозможно выбрать сертификаты автоматически. Выберите сертификат из списка и попробуйте подключиться.</string>
+  <string name="wapi_all_sel_mode">Выберите режим</string>
+  <string name="wapi_auto_sel_cert">Автовыбор</string>
+  <string name="wapi_auto_sel_cert_fail">Не удалось автоматически выбрать сертификат. Выберите сертификат из списка и попробуйте подключиться.</string>
   <string name="wapi_cert_is_not_exist">Нет доступных сертификатов. Сначала добавьте один.</string>
   <string name="wapi_cert_is_not_selected">Выберите сертификат</string>
   <string name="wapi_cert_manage_error">Не удалось установить сертификат WAPI.</string>

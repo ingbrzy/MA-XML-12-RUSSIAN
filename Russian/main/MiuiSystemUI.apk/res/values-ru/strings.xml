@@ -75,22 +75,22 @@
     <string name="accessibility_data_connection_lte_plus">LTE+</string>
     <string name="accessibility_data_connection_roaming">Роуминг</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
-    <string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление.</string>
+    <string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление</string>
     <string name="accessibility_data_saver_off">Экономия трафика отключена</string>
     <string name="accessibility_data_saver_on">Экономия трафика включена</string>
-    <string name="accessibility_data_signal_full">Надежный сигнал передачи данных.</string>
-    <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления.</string>
-    <string name="accessibility_data_two_bars">Сигнал передачи данных: два деления.</string>
+    <string name="accessibility_data_signal_full">Надежный сигнал передачи данных</string>
+    <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления</string>
+    <string name="accessibility_data_two_bars">Сигнал передачи данных: два деления</string>
     <string name="accessibility_desc_close">Закрыть</string>
-    <string name="accessibility_desc_connected">Подключено.</string>
-    <string name="accessibility_desc_connecting">Подключение.</string>
-    <string name="accessibility_desc_lock_screen">Экран блокировки.</string>
+    <string name="accessibility_desc_connected">Подключено</string>
+    <string name="accessibility_desc_connecting">Подключение</string>
+    <string name="accessibility_desc_lock_screen">Экран блокировки</string>
     <string name="accessibility_desc_notification_icon">Уведомление %1$s: %2$s</string>
-    <string name="accessibility_desc_notification_shade">Шторка уведомлений.</string>
+    <string name="accessibility_desc_notification_shade">Шторка уведомлений</string>
     <string name="accessibility_desc_off">Отключено.</string>
     <string name="accessibility_desc_on">Включено.</string>
-    <string name="accessibility_desc_quick_settings">Быстрые настройки.</string>
-    <string name="accessibility_desc_quick_settings_edit">Редактор быстрых настроек.</string>
+    <string name="accessibility_desc_quick_settings">Быстрые настройки</string>
+    <string name="accessibility_desc_quick_settings_edit">Редактор быстрых настроек</string>
     <string name="accessibility_desc_recent_apps">Обзор.</string>
     <string name="accessibility_desc_settings">Настройки</string>
     <string name="accessibility_desc_work_lock">Рабочий экран блокировки</string>
@@ -107,7 +107,7 @@
     <string name="accessibility_ethernet_disconnected">Устройство отключено от Ethernet.</string>
     <string name="accessibility_expand_button">Дополнительно</string>
     <string name="accessibility_face_dialog_face_icon">Значок лица</string>
-    <string name="accessibility_fingerprint_dialog_app_icon">Значок приложения</string>
+    <string name="accessibility_fingerprint_dialog_app_icon">Иконка приложения</string>
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Значок отпечатка пальца</string>
     <string name="accessibility_fingerprint_dialog_help_area">Справочное сообщение</string>
     <string name="accessibility_gps_acquiring">Установление связи с GPS.</string>
@@ -504,7 +504,7 @@
     <string name="choose_clock_title_middle">По центру</string>
     <string name="choose_clock_title_vertical">Вертикально</string>
     <string name="choose_profile">Выберите профиль</string>
-    <string name="clear_adb_keys">Отзыв разрешений на отладку по USB</string>
+    <string name="clear_adb_keys">Отзыв разрешений отладки по USB</string>
     <string name="clear_all_notifications_text">Очистить все</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="click_to_enter_text">Просмотреть</string>
@@ -868,13 +868,13 @@
     <string name="how_to_use_drawer">Как открыть боковое меню</string>
     <string name="how_to_use_drawer_summary">Проведите вправо в верхней части экрана</string>
     <string name="how_to_use_fsg">Выполняйте эти действия с помощью жестов:</string>
-    <string name="icon_content_description">Значок диалога</string>
+    <string name="icon_content_description">Иконка диалога</string>
     <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
     <string name="ime_security_warning_global">Методы ввода могут собирать весь вводимый вами текст, включая такие личные данные, как пароли и номера кредитных карт. Использовать %1$s?</string>
     <string name="ime_security_warning_title_global">Включение клавиатуры</string>
-    <string name="immediately_destroy_activities">Не хранить activities</string>
-    <string name="immediately_destroy_activities_summary">Уничтожать activities после их завершения</string>
-    <string name="important_desc">Все важные уведомления будут появляться в шторке уведомлений.</string>
+    <string name="immediately_destroy_activities">Не хранить активити</string>
+    <string name="immediately_destroy_activities_summary">Уничтожать активити после их завершения</string>
+    <string name="important_desc">Все важные уведомления будут появляться в шторке уведомлений</string>
     <string name="ims_reg_status_not_registered">Не зарегистрирован</string>
     <string name="ims_reg_status_registered">Зарегистрирован</string>
     <string name="ims_reg_title">Статус сервиса IMS</string>
@@ -1078,7 +1078,7 @@
     <string name="label_view">Просмотр</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
     <string name="launch_defaults_some">Некоторые настройки по умолчанию</string>
-    <string name="left_icon">Левый значок</string>
+    <string name="left_icon">Иконка слева</string>
     <string name="left_keycode">Код левой кнопки</string>
     <string name="left_nav_bar_button_type">Дополнительный тип левой кнопки</string>
     <string name="legacy_vpn_name">Сеть VPN</string>
@@ -1339,7 +1339,7 @@ d MMMM"</string>
     <string name="notification_menu_filter_secondary_text">Все уведомления %s будут появляться в отдельной папке.</string>
     <string name="notification_menu_filter_title">Неважное</string>
     <string name="notification_menu_gear_description">Управление уведомлениями</string>
-    <string name="notification_menu_remove_from_filter_secondary_text">Все важные уведомления %s будут появляться в шторке уведомлений.</string>
+    <string name="notification_menu_remove_from_filter_secondary_text">Все важные уведомления %s будут появляться в шторке уведомлений</string>
     <string name="notification_menu_remove_from_filter_title">Важное</string>
     <string name="notification_menu_snooze_description">Настройки отсрочки уведомлений</string>
     <string name="notification_more_settings">Другие настройки</string>
@@ -1430,24 +1430,24 @@ d MMMM"</string>
 
 "<b>Уровень 5</b>" 
 - Помещать уведомления в начало списка 
-- Показывать полноэкранные уведомления 
+- Показывать всплывающие окна 
 - Показывать всплывающие уведомления 
 
 "<b>Уровень 4</b>" 
-- Не показывать полноэкранные уведомления 
+- Не показывать всплывающие окна  
 - Показывать всплывающие уведомления 
 
 "<b>Уровень 3</b>" 
-- Не показывать полноэкранные уведомления 
+- Не показывать всплывающие окна  
 - Не показывать всплывающие уведомления 
 
 "<b>Уровень 2</b>" 
-- Не показывать полноэкранные уведомления 
+- Не показывать всплывающие окна  
 - Не показывать всплывающие уведомления 
 - Не использовать звук и вибрацию 
 
 "<b>Уровень 1</b>" 
-- Не показывать полноэкранные уведомления 
+- Не показывать всплывающие окна  
 - Не показывать всплывающие уведомления 
 - Не использовать звук и вибрацию 
 - Не показывать на экране блокировки и в строке состояния 
@@ -1681,7 +1681,7 @@ d MMMM"</string>
     <string name="return_to_incall_screen">Вернуться к разговору</string>
     <string name="rgb_face_data_introduction_title">Добавление 2D данных лица</string>
     <string name="rgb_face_data_manage_delete_msg">Удаление 2D данных лица</string>
-    <string name="right_icon">Правый значок</string>
+    <string name="right_icon">Иконка справа</string>
     <string name="right_keycode">Код правой кнопки</string>
     <string name="right_nav_bar_button_type">Дополнительный тип правой кнопки</string>
     <string name="running_foreground_services_msg">Нажмите для проверки батареи и трафика</string>
@@ -2098,9 +2098,9 @@ d MMMM"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
-    <string name="wapi_all_sel_mode">Выбрать</string>
-    <string name="wapi_auto_sel_cert">Выбрать автоматически</string>
-    <string name="wapi_auto_sel_cert_fail">Невозможно выбрать сертификаты автоматически. Выберите сертификат из списка и попробуйте подключиться.</string>
+    <string name="wapi_all_sel_mode">Выберите режим</string>
+    <string name="wapi_auto_sel_cert">Автовыбор</string>
+    <string name="wapi_auto_sel_cert_fail">Не удалось автоматически выбрать сертификат. Выберите сертификат из списка и попробуйте подключиться.</string>
     <string name="wapi_cert_is_not_exist">Нет доступных сертификатов. Сначала добавьте один.</string>
     <string name="wapi_cert_is_not_selected">Выберите сертификат</string>
     <string name="wapi_cert_manage_error">Не удалось установить сертификат WAPI.</string>

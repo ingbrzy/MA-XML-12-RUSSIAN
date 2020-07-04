@@ -91,12 +91,12 @@
   <string name="copy">Копировать</string>
   <string name="createANewSpace">Создайте отдельное рабочее пространство</string>
   <string name="createUserFail">Не удалось создать пространство</string>
-  <string name="create_app_icon_failed">Не удалось создать значок</string>
-  <string name="create_app_icon_success">Значок успешно создан</string>
+  <string name="create_app_icon_failed">Не удалось добавить приложение</string>
+  <string name="create_app_icon_success">Приложение добавлено</string>
   <string name="create_second_space">Пространство создано</string>
   <string name="create_space_loading">Создание второго пространства…</string>
   <string name="create_work_space">Создать рабочее пространство</string>
-  <string name="creating_app_icon">Создание значка…</string>
+  <string name="creating_app_icon">Добавление приложения…</string>
   <string name="cta_declaration_agree_and_continue">Согласен</string>
   <string name="cta_declaration_message_format" formatted="false">Вы должны прочитать и принять &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; перед активацией режима предприятия. Для активации требуется подключение к интернету. Вы согласны?</string>
   <string name="cta_declaration_title">Условия использования</string>
@@ -356,7 +356,7 @@
   <string name="search_result_text">Приложения не найдены</string>
   <string name="secondSpace">Второе пространство</string>
   <string name="second_owner_finger_print">Отпечаток второго пространства</string>
-  <string name="second_space_desktop_tips_dialog_message">После обновления значки для перемещения данных и управления вторым пространством больше не будут отображаться на рабочем столе. Вы сможете получить доступ к соответствующим функциям в Настройках.</string>
+  <string name="second_space_desktop_tips_dialog_message">Иконки для перемещения данных и управления вторым пространством после обновления не будут отображаться на рабочем столе. Вы сможете получить доступ к соответствующим функциям в Настройках.</string>
   <string name="second_space_desktop_tips_dialog_positive_text">Понятно</string>
   <string name="second_space_desktop_tips_dialog_title">Важное обновление</string>
   <string name="second_space_finger_printf_desc">Добавьте отпечаток пальца для входа во второе пространство</string>
@@ -511,8 +511,8 @@
   <string name="xspace_guide_title">Создайте клон приложения</string>
   <string name="xspace_header">Клонированные</string>
   <string name="xspace_instagram_title">Instagram</string>
-  <string name="xspace_install_completed">Значок добавлен на рабочий стол</string>
-  <string name="xspace_install_completed_global">Значок добавлен в меню</string>
+  <string name="xspace_install_completed">Ярлык добавлен на рабочий стол</string>
+  <string name="xspace_install_completed_global">Приложение добавлено</string>
   <string name="xspace_install_failed">Ошибка установки</string>
   <string name="xspace_installing">Установка…</string>
   <string name="xspace_introduce">Рекомендуемые</string>
