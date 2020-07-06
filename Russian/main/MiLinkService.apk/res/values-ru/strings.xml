@@ -27,11 +27,15 @@
   <string name="abc_shareactionprovider_share_with">Поделиться с</string>
   <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
   <string name="abc_toolbar_collapse_description">Свернуть</string>
+  <string name="account_other">Другой</string>
   <string name="actionbar_button_up_description">Назад</string>
   <string name="afternoon">После полудня</string>
   <string name="app_name">MiCloudSync</string>
   <string name="casting_tips">Отображение...</string>
   <string name="clearable_edittext_clear_description">Очистить</string>
+  <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
+  <string name="close_slave_wifi_hint">Отключитесь от вспомогательных сетей Wi-Fi перед трансляцией</string>
+  <string name="close_slave_wifi_hint_china">Отключитесь от вспомогательных сетей Wi-Fi перед трансляцией</string>
   <string name="console_guide_btn_got_it">Понятно</string>
   <string name="console_guide_subtitle_hang_up">Не прерывайте трансляцию при выключении экрана устройства (это может привести к повышенному расходу заряда батареи).</string>
   <string name="console_guide_subtitle_private">Скройте всплывающие окна, уведомления о входящих вызовах и другие элементы, которые могут содержать личную информацию.</string>
@@ -67,6 +71,7 @@
   <string name="dialog_show_help">Справка</string>
   <string name="disconnect">Остановить трансляцию</string>
   <string name="early_morning">Утро</string>
+  <string name="enable_screen_projection_summary">Вывод на внешний монитор</string>
   <string name="error_data_in_transfer">Синхронизация завершится через %s ч.</string>
   <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi аккаунтом.</string>
   <string name="error_not_acceptable">Синхронизация отключена.</string>
@@ -163,6 +168,7 @@
   <string name="help_page_text_55_global">"Если вы не можете подключиться к сети, убедитесь, что ваш внешний монитор поддерживает функцию Miracast и он включен. В некоторых моделях эта функция называется беспроводным дисплеем, зеркальным отображением экрана или несколькими экранами.
 4. Если у вас возникнут какие-либо проблемы, вы можете сообщить о них в приложении \"Сервисы и обратная связь\"."</string>
   <string name="help_page_text_end">"Если марка устройства не указана здесь, обратитесь к производителю, чтобы узнать о поддержке функции Miracast."</string>
+  <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
   <string name="micloud_downloading_clipboard_message_from_web">Буфер обмена: получено сообщение с компьютера</string>
   <string name="micloud_send_message_desc">Отправка Mi Сообщения</string>
   <string name="midnight">Ночь</string>
@@ -223,11 +229,11 @@
   <string name="noon">Полдень</string>
   <string name="notification_rc_title">Помощник Xiaomi TV</string>
   <string name="notification_show_more">Дополнительные функции</string>
+  <string name="open_game_accelerate">Включить Ускорение игр</string>
   <string name="privacy_agree">Согласен</string>
   <string name="privacy_detail">&lt;Data&gt;Для нормальной работы приложению необходимы подключение к интернету и разрешения на сбор личной информации. Чтобы полностью понять ваши права как пользователя, а также способы, которыми мы используем ваши данные, прочтите и примите наши &amp;lt;a href=%1$s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="privacy_detail_extra">&lt;Data&gt;Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Используя эту функцию, вы соглашаетесь с &amp;lt;a href=%1$s&amp;gt;Политикой конфиденциальности HappyCast&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Юридическим заявлением HappyCast&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="privacy_explain">"Welcome to Casting! Casting allows projecting the items from your phone's screen on a bigger external monitor. This app needs to connect to the internet and requires the following permissions to be able to work normally:"</string>  
-  <string name="privacy_explain">Добро пожаловать в приложение Трансляция! Вы можете использовать это приложение для вывода содержимого экрана на ТВ, ТВ Box, проекторы и другие устройства с большим экраном. Для корректной работы приложению необходимо подключение к интернету и следующие разрешения:</string>
+  <string name="privacy_explain">Добро пожаловать в приложение Трансляция! Вы можете использовать это приложение для вывода содержимого экрана на внешний монитор. Для корректной работы приложению необходимо подключение к интернету и следующие разрешения:</string>
   <string name="privacy_negative">Отмена</string>
   <string name="privacy_permission_ble">Включение/отключение Bluetooth</string>
   <string name="privacy_permission_ble_desc">Для поиска доступных устройств поблизости</string>
@@ -264,6 +270,24 @@
   <string name="saturday">Суббота</string>
   <string name="saturday_short">Сб</string>
   <string name="saturday_shortest">Сб</string>
+  <string name="screen_projection">Трансляция</string>
+  <string name="screen_projection_characteristics">Специальные функции</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Трансляция с выключенным экраном уменьшает расход заряда батареи.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Трансляция с выключенным экраном</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">Запрет отображения всплывающих уведомлений, входящих вызовов и другой личной информации на внешнем мониторе.</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Скрытие личной информации</string>
+  <string name="screen_projection_characteristics_small_window_summary">Свернутое окно во время трансляции дает возможность пользоваться другими функциями и приложениями на телефоне.</string>
+  <string name="screen_projection_characteristics_small_window_title">Сворачивание окна</string>
+  <string name="screen_projection_example_document_summary">Используйте устройство для показа презентаций на внешнем мониторе и переключения между слайдами, а также для просмотра заметок. Попробуйте эту функцию в Проводник &gt; Документы.</string>
+  <string name="screen_projection_example_document_title">Документы</string>
+  <string name="screen_projection_example_gallery_summary">Нажмите \"Отправить\" в приложении Галерея под фото или видео и выберите устройство для трансляции</string>
+  <string name="screen_projection_example_gallery_title">Фото и видео</string>
+  <string name="screen_projection_example_game_summary">Ускорение игр позволяет транслировать игры на внешний монитор. Используйте ярлык на панели Ускорения игр для включения этой функции.</string>
+  <string name="screen_projection_example_game_title">Игры</string>
+  <string name="screen_projection_help">Помощь</string>
+  <string name="screen_projection_sample_summary">Трансляция документов, игр, фото и видео</string>
+  <string name="screen_projection_sample_title">Гид по функциям</string>
+  <string name="screen_projection_title">Трансляция</string>
   <string name="sdk_name">lebo</string>
   <string name="search_menu_title">Поиск</string>
   <string name="small_window">Минимизировать окно</string>

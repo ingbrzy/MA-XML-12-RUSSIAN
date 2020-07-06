@@ -124,6 +124,7 @@
   <string name="ambilight_intro_silky_water_part1">Используйте этот режим при съемке движущихся облаков. Это придаст небу эффект \"масляной живописи\".</string>
   <string name="ambilight_intro_silky_water_part2">Этот режим делает движущуюся воду (реки, водопады и озера) похожей на шелк.</string>
   <string name="ambilight_intro_star_track">Съемка звездного неба в течение длительного времени позволяет запечатлеть траектории движения звезд. Используйте штатив для непрерывной съемки не менее %d минут.</string>
+  <string name="ambilight_intro_star_track_2">Используйте штатив при длительной съемки звездного неба, чтобы запечатлеть траекторию движения звезд. При съемке более %d минут вы можете одновременно сохранять видео и фото.</string>  
   <string name="ambilight_intro_traffic_light">Ночью вы можете запечатлеть траекторию ярких движущихся огней (например, огни автомобилей или кораблей). Этот режим позволяет увидеть результат на экране в режиме реального времени.</string>
   <string name="ambilight_scene_crowd_moving">Движущаяся толпа</string>
   <string name="ambilight_scene_light_track">Фризлайт</string>
@@ -272,6 +273,10 @@
   <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
   <string name="confirm_restore_title">Сброс настроек</string>
   <string name="copy">Копировать</string>
+  <string name="cta_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
+  <string name="cta_perm_dec">Запись информации о местоположении съемки фото и видео</string>
+  <string name="cta_perm_loc">Доступ к местоположению</string>
+  <string name="cta_perm_type">Для работы дополнительных функций во время их использования</string>  
   <string name="custom_sound_art">Ретро</string>
   <string name="custom_sound_default">По умолчанию</string>
   <string name="custom_sound_modern">Модерн</string>
@@ -1216,6 +1221,7 @@
   <string name="user_agree">Принять</string>
   <string name="user_define_watermark_cancel">Отмена</string>
   <string name="user_define_watermark_save">Сохранить</string>
+  <string name="user_disagree">Выход</string>
   <string name="user_agreement2">Условия использования</string>
   <string name="user_agreement4">Политика конфиденциальности</string>
   <string name="user_notice_identify_summary_format">Используя эту услугу, вы принимаете %1$s и %2$s Xiaomi. Согласны подключиться к интернету?</string>

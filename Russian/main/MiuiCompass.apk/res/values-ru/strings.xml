@@ -37,7 +37,7 @@
     <string name="altitude_uncalibrate_tip">Ошибка калибровки</string>
     <string name="altitude_unit">м</string>
     <string name="angle">%.0f</string>
-    <string name="app_description_content">Приложение используется для навигации и ориентирования и показывает направление. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
+    <string name="app_description_content">Приложение используется для навигации и ориентирования. Перед удалением приложения убедитесь, что сможете обойтись без этих функций.</string>
     <string name="app_description_title">О приложении</string>
     <string name="app_label">Компас</string>
     <string name="app_name">Настройка</string>
@@ -53,7 +53,7 @@
     <string name="compass_settings">Настройки</string>
     <string name="copy">Копировать</string>
     <string name="cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте дополнительные разрешения для возможности использовать все функции приложения.</string>
-    <string name="cta_v2_app_purpose">Показывает направление, координаты, атмосферное давление и текущую высоту</string>
+    <string name="cta_v2_app_purpose">определение направления, получение информации о координатах, атмосферном давлении, текущей высоте.</string>
     <string name="dialog_body_no_network">Подключитесь к Wi-Fi или включите мобильный интернет.</string>
     <string name="dialog_body_no_network_china">Подключитесь к Wi-Fi или включите мобильный интернет.</string>
     <string name="dialog_body_no_network_global">Подключитесь к Wi-Fi или включите мобильный интернет.</string>
@@ -99,7 +99,7 @@
     <string name="not_set">Не задано</string>
     <string name="open_perm_msg">Компасу требуется доступ к местоположению и камере. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
     <string name="open_perm_title">Требуются разрешения</string>
-    <string name="permission_camera_desc">Использование уровня</string>
+    <string name="permission_camera_desc">Использование в качестве уровня</string>
     <string name="permission_location_desc">Отображение координат и атмосферного давления</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="preference_other">Прочее</string>

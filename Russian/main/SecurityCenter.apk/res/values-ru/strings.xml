@@ -779,7 +779,7 @@
   <string name="card_main_deepclean_wechat_summary">Очистка кэша WeChat для освобождения места</string>
   <string name="card_main_deepclean_wechat_title">Очистка WeChat</string>
   <string name="card_main_deepclean_whatsapp_title">Очистка WhatsApp</string>
-  <string name="card_main_gamebooster_summary">Улучшение производительности и управления</string>
+  <string name="card_main_gamebooster_summary">Улучшение производительности и управления в играх</string>
   <string name="card_main_gamebooster_title">Ускорение игр</string>
   <string name="card_main_hbassistant_summary">Используйте данный инструмент для быстрой ловли конвертов</string>
   <string name="card_main_hbassistant_title">Красные конверты</string>
@@ -1052,7 +1052,7 @@
   <string name="ew_app_name_test_run">Предупреждения о землетрясении (Пробный период)</string>
   <string name="ew_arrive_text_tips">Сейсмическая волна прибыла: %s</string>
   <string name="ew_button_confirm">Согласен</string>
-  <string name="ew_button_exit">"Не согласен"</string>
+  <string name="ew_button_exit">Выход</string>
   <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"Эта функция предоставляет уведомления о предстоящих землетрясениях и воспроизводить звуковое предупреждение. Вы сможете найти ближайшее убежище, позвонить вашему экстренному контактному лицу и предъявить свою медицинскую карту, если потребуется. &amp;lt;br&amp;gt;Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. &amp;lt;br&amp;gt;Для нормальной работы этой функции требуются следующие разрешения для сбора вашей личной информации.: &amp;lt;br&amp;gt;&amp;#8226; Информация о местоположении: &amp;lt;br&amp;gt;Для доступа к вашему местоположению и предоставления точных предупреждений о землетрясениях. &amp;lt;br&amp;gt;Если вы не согласны предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать эту функцию. В этом случае вы можете отключить эту функцию или не включать ее. &amp;lt;br&amp;gt;Вы должны прочитать и принять нашу Политику конфиденциальности перед использованием этой функции."&lt;/Data&gt;</string>
   <string name="ew_close">Отключить оповещение</string>
   <string name="ew_emergency_allergy">Аллергия</string>
@@ -1081,7 +1081,7 @@
   <string name="ew_first_start_network_title">Условия и положения</string>
   <string name="ew_guide_law_agree">Согласен</string>
   <string name="ew_guide_law_done">Понятно</string>
-  <string name="ew_guide_law_exit">Не согласен</string>
+  <string name="ew_guide_law_exit">Выход</string>
   <string name="ew_guide_law_text">"Эта функция предоставляет вам функцию предупреждения о землетрясении. Вы должны понимать, что информация о землетрясении предоставляется сторонним агентством раннего предупреждения. Xiaomi не контролирует сторонние агентства и не имеет никакого контроля над ними. Xiaomi не обещает и не гарантирует точность, достоверность и своевременность информации о землетрясении, а также не гарантирует, что служба предупреждения о землетрясении удовлетворит все ваши потребности. Вы должны понимать, что эта функция предоставляется только для ознакомления. Вы несете единоличную ответственность за риски и последствия любых действий, которые вы совершаете на основе информации, предоставленной этой функцией."</string>
   <string name="ew_guide_law_title">Отказ от ответственности</string>
   <string name="ew_guide_next_text">Дальше</string>
@@ -1565,7 +1565,7 @@
   <string name="gs_game_net_priority_detail">Ограничить скорость загрузок, чтобы дать приоритет играм</string>
   <string name="gs_game_performance">Производительность</string>
   <string name="gs_game_record_intro_tips">*Запись игровой сессии доступна только для выбранных совместимых игр</string>
-  <string name="gs_game_shortcut">Улучшение производительности и управления</string>
+  <string name="gs_game_shortcut">Улучшение производительности и управления в играх</string>
   <string name="gs_gamebox">Панель ярлыков</string>
   <string name="gs_gamebox_detail">Отображать панель ярлыков во время игры</string>
   <string name="gs_gamebox_slip">Сдвиньте экран вниз для открытия</string>
@@ -3224,11 +3224,11 @@
   <string name="system_app">Системные приложения</string>
   <string name="system_application">Системное приложение</string>
   <string name="system_permission_declare_agree">Согласен</string>
-  <string name="system_permission_declare_analytics_declare">"Благодарим Вас за участие в нашей программе улучшения качества. Для правильной работы этой функции необходимы подключение к интернету и разрешения для сбора данных. Эти данные собираются только для статистических целей и не будут использоваться для вашей идентификации."</string>
-  <string name="system_permission_declare_disagree">Не согласен</string>
+  <string name="system_permission_declare_analytics_declare">Благодарим Вас за участие в нашей программе улучшения качества. Для правильной работы этой функции необходимы подключение к интернету и разрешения для сбора данных. Эти данные собираются только для статистических целей и не будут использоваться для вашей идентификации.</string>
+  <string name="system_permission_declare_disagree">Выход</string>
   <string name="system_permission_declare_double_link">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">"Добро пожаловать в %1s!
-Приложение предоставляет следующие функции: 
+Приложение предоставляет следующие возможности: 
 
 %2s 
 
