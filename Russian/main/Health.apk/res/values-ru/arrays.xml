@@ -129,6 +129,20 @@
         <item>Неделя</item>
         <item>Месяц</item>
     </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Пн, Ср, Пт</item>
+        <item>Вт, Чт, Сб</item>
+        <item>Ср, Пт, Вс</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Каждый понедельник</item>
+        <item>Каждый вторник</item>
+        <item>Каждую среду</item>
+        <item>Каждый четверг</item>
+        <item>Каждую пятницу</item>
+        <item>Каждую субботу</item>
+        <item>Каждое воскресенье</item>
+    </string-array>	
     <string-array name="rh_blood_array">
         <item>Не указан</item>
         <item>Отрицательный</item>

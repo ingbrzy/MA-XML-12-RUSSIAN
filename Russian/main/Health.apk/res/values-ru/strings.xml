@@ -61,7 +61,7 @@
     <string name="altitude">Высота</string>
     <string name="altitude_range">Высота</string>
     <string name="am">AM</string>
-    <string name="app_name">SnailSleepSDK</string>
+    <string name="app_name">plugin.health.analyze</string>
     <string name="audio_permission_dialog_desc">Разрешение на запись аудио было отклонено, примите его.</string>
     <string name="audio_permission_dialog_title">Разрешение на запись аудио</string>
     <string name="audio_record_perm_description">Запись храпа и сна</string>
@@ -78,6 +78,8 @@
     <string name="avg_day">Средн.</string>
     <string name="avg_finish_stand">Среднее время активности</string>
     <string name="avg_heart_rate">Средний пульс</string>
+    <string name="avg_high_pressure">Средн. систолическое (верхнее)</string>
+    <string name="avg_low_pressure">Средн. диастолическое (нижнее)</string>
     <string name="avg_steps">Шагов в день</string>
     <string name="awake_count">Пробуждения</string>
     <string name="awake_count_abnormal_description">Частые пробуждения.</string>
@@ -106,6 +108,19 @@
     <string name="bg_control_dialog_msg">Режим экономии энергии может ограничивать фоновую активность приложения Здоровье. Разрешите приложению всегда работать в фоновом режиме для получения более точных данных.</string>
     <string name="bg_control_dialog_title">Ограничение фоновой активности</string>
     <string name="birthday">Дата рождения</string>
+    <string name="blood_pressure">Артериальное давление</string>
+    <string name="blood_pressure_format">%1$d-%2$d мм рт.ст.</string>
+    <string name="blood_pressure_high_tip">Высокое: %1$s мм рт.ст. систол. | %2$s мм рт.ст. диастол.</string>
+    <string name="blood_pressure_low_tip">Низкое: %1$s мм рт.ст. систол. | %2$s мм рт.ст. диастол.</string>
+    <string name="blood_pressure_measure_remind">Напоминания об измерении</string>
+    <string name="blood_pressure_measure_remind_tip">Напоминать об измерении артериального давления и записи результатов</string>
+    <string name="blood_pressure_noraml_tip">Нормальное: %1$s мм рт.ст. систол., %2$s мм рт.ст. диастол.</string>
+    <string name="blood_pressure_notice_subtitle1">Не забудьте записать это измерение</string>
+    <string name="blood_pressure_notice_subtitle2">Не забудьте записать это измерение</string>
+    <string name="blood_pressure_notice_title1">Измерьте давление</string>
+    <string name="blood_pressure_notice_title2">Измерьте давление</string>
+    <string name="blood_pressure_unit">Миллиметры ртутного столба</string>
+    <string name="blood_pressure_unit_short">мм рт.ст.</string>
     <string name="blood_type">Группа крови</string>
     <string name="blood_type_rh">Резус-фактор</string>
     <string name="blood_type_select">%1$s</string>
@@ -115,6 +130,7 @@
     <string name="body_water">Процент воды</string>
     <string name="body_water_descripe_content">Процент воды в организме определяется как доля воды в общей массе тела. Мышечная ткань обычно содержит больше воды, чем другие части тела.</string>
     <string name="body_weight">Вес</string>
+    <string name="body_weight_2fkg">%1$.2f кг</string>
     <string name="body_weight_descripe_content">Индекс массы тела (ИМТ) - 
 масса тела, разделенная на квадрат роста (кг/м²).</string>
     <string name="body_weight_extremely_obesity">Патологическое ожирение</string>
@@ -168,7 +184,7 @@
     <string name="confirm_opening">Подтвердите открытие</string>
     <string name="contact_format">%1$s | %2$s</string>
     <string name="contact_format2">"%1$s
-%2$s| %3$s"</string>
+%2$s | %3$s"</string>
     <string name="contact_format3">%1$s | %2$s | %3$s</string>
     <string name="contact_permission_desc">Для установки экстренных контактов</string>
     <string name="copy">Копировать</string>
@@ -179,9 +195,12 @@
     <string name="cumulative_decline">Потеря высоты</string>
     <string name="cumulative_rise">Набор высоты</string>
     <string name="current_phone">Это устройство</string>
+    <string name="custom_scheme">Настроить</string>
+    <string name="custom_scheme_tip">Пользовательские время и частота</string>
     <string name="cycle">Езда на велосипеде</string>
     <string name="daily_consumption_label">Калории</string>
     <string name="daily_distance_label">Расстояние</string>
+    <string name="daily_reminders">Ежедневные напоминания</string>
     <string name="daily_steps">Шаги</string>
     <string name="daily_time_label">Время</string>
     <string name="data">Данные</string>
@@ -314,13 +333,20 @@ ID:%s
     <string name="dialog_sure">ОК</string>
     <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Используйте приложение для подсчета пройденных шагов, сбора статистики о вашем сне, менструальном цикле и весе, а также для синхронизации статистики с облаком.</string>
     <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Вы можете использовать это приложение для спортивного шагомера, отслеживания сна, менструального цикла, веса, а также для использования сервиса Xiaomi Health Cloud и других функций.</string>
+    <string name="diastolic_pressure">Диастолическое</string>
     <string name="disable">Отключить</string>
+    <string name="divider_format1">%1$s/%2$s</string>
+    <string name="divider_format2">%1$s-%2$s</string>
+    <string name="divider_format3">%1$s~%2$s</string>
     <string name="dot">.</string>
     <string name="drag_sort">Перегруппировка</string>
     <string name="dream_talk">Разговор во сне %1$s</string>
     <string name="dream_talk_record">Ваш разговор во сне был записан</string>
     <string name="dream_talk_title">Разговор во сне</string>
     <string name="drink_water">Выпейте воды и пройдитесь.</string>
+    <string name="each_week_day_format1">Кажд. %1$s</string>
+    <string name="each_week_day_format2">Кажд. %1$s, %2$s, и %3$s</string>
+    <string name="each_week_day_format3">Кажд. %1$s до %2$s</string>
     <string name="early">Ранее</string>
     <string name="early_morning">AM</string>
     <string name="edit_aid_file">Редактирование</string>
@@ -340,6 +366,7 @@ ID:%s
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
     <string name="evening">PM</string>
+    <string name="every_day">Каждый день</string>
     <string name="excessive">Избыточно</string>
     <string name="exercise">Активность</string>
     <string name="exercise_consume">Сожжено %1$d Кал</string>
@@ -379,7 +406,7 @@ ID:%s
     <string name="exercise_recog_confirm_ridding">Вы ездили на велосипеде с %1$s до %2$s?</string>
     <string name="exercise_recog_confirm_run">Вы бегали с %1$s до %2$s?</string>
     <string name="exercise_recog_confirm_stair_climb">Вы поднимались по ступеням с %1$s до %2$s?</string>
-    <string name="exercise_recog_confirm_walk">Вы ходили с %1$s до %2$s?</string>	
+    <string name="exercise_recog_confirm_walk">Вы ходили с %1$s до %2$s?</string>
     <string name="exercise_record">Записи</string>
     <string name="exercise_record_no_data">Ничего нет</string>
     <string name="exercise_reminder_accomplished">Цель достигнута!</string>
@@ -470,8 +497,10 @@ ID:%s
     <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="health_setting">Настройки</string>
     <string name="high">Избыток</string>
+    <string name="high2">Высокое</string>
     <string name="high_intensity">Высокая</string>
     <string name="high_intensity_description">Частое дыхание, можно говорить прерывистыми фразами</string>
+    <string name="high_pressure">Систолическое (верхнее)</string>
     <string name="history_statistics">Статистика</string>
     <string name="home_page_card_setting">Карточки</string>
     <string name="home_tip_open_data_sync">Включить синхронизацию с облаком</string>
@@ -543,6 +572,7 @@ ID:%s
     <string name="low">Низкий</string>
     <string name="low_intensity">Низкая</string>
     <string name="low_intensity_description">Спокойное дыхание, можно говорить длинными предложениями</string>
+    <string name="low_pressure">Диастолическое (нижнее)</string>
     <string name="manage_home">Начальная страница</string>
     <string name="manual_add">Добавить вручную</string>
     <string name="manual_adjust">Изменить</string>
@@ -555,9 +585,12 @@ ID:%s
     <string name="mark_start">Начало менструации</string>
     <string name="max_altitude">Наибольшая высота</string>
     <string name="max_heart_rate">Наивысшая ЧСС</string>
+    <string name="max_high_pressure">Макс. систолическое (верхнее)</string>
+    <string name="max_low_pressure">Макс. диастолическое (нижнее)</string>
     <string name="maximum">Максимум</string>
     <string name="maximum_pace">Наивысший темп</string>
     <string name="measure_date">Время измерения</string>
+    <string name="measure_time">Время измерения</string>
     <string name="medical_file_desc1">Информация для экстренной помощи в чрезвычайной ситуации</string>
     <string name="medical_file_desc2">Данные о здоровье и контакты на случай чрезвычайной ситуации</string>
     <string name="medical_file_desc3">Xiaomi Health уважает вашу конфиденциальность и будет хранить всю информацию локально, не собирая, не храня и не загружая ее в другое место.</string>
@@ -596,8 +629,12 @@ ID:%s
     <string name="middle">Средняя</string>
     <string name="middle_intensity_description">Учащенное дыхание, можно говорить короткими предложениями</string>
     <string name="midnight">AM</string>
+    <string name="mild_abnormal">1 стадия гипертонии</string>
+    <string name="mild_abnormal_tip">3 дня в неделю после пробуждения и перед сном</string>
     <string name="min_altitude">Самая низкая высота</string>
     <string name="min_heart_rate">Самый низкий сердечный ритм</string>
+    <string name="min_high_pressure">Мин. систолическое (верхнее)</string>
+    <string name="min_low_pressure">Мин. диастолическое (нижнее)</string>
     <string name="min_pace">Минимальный темп</string>
     <string name="minimum">Минимум</string>
     <string name="minute"> МИН</string>
@@ -613,6 +650,8 @@ ID:%s
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="model_card_setting">Настройки карточек</string>
+    <string name="moderately_abnormal">2 стадия гипертонии</string>
+    <string name="moderately_abnormal_tip">Каждый день после пробуждения и перед сном</string>
     <string name="modify">Редактировать</string>
     <string name="modify_contact">Изменить</string>
     <string name="modify_end_date">Изменить дату окончания</string>
@@ -688,6 +727,7 @@ ID:%s
     <string name="no_sport_delete">Удалить некорректную запись</string>
     <string name="noon">PM</string>
     <string name="normal">Нормально</string>
+    <string name="normal2">Нормальное</string>
     <string name="not_achieve_stand_goals">Цель активности не достигнута</string>
     <string name="not_added">Не добавлено</string>
     <string name="not_edit">Не указано</string>
@@ -765,6 +805,9 @@ ID:%s
     <string name="reach_standard">Норма</string>
     <string name="recommand_body_weight_msg">Рекомендуемый целевой вес %1$.1f кг (ИМТ %2$.1f)</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
+    <string name="record_blood_pressure">Запись измерений</string>
+    <string name="record_blood_pressure_exception1">Не удалось сохранить. Систолическое давление не может быть ниже диастолического.</string>
+    <string name="record_blood_pressure_exception2">Не удалось сохранить. Неверные параметры.</string>
     <string name="record_body_weight_button">Сохранить</string>
     <string name="record_detail_page_title">Сведения</string>
     <string name="record_more">Дополнительные сведения</string>
@@ -788,11 +831,14 @@ ID:%s
     <string name="remind_sleep_report_title">Отчет о сне</string>
     <string name="remind_subtitle_menstruation_start">Получать напоминания за два дня до возможного начала менструации</string>
     <string name="remind_subtitle_record">Получать напоминания о записи начала и окончания менструации</string>
+    <string name="remind_time">Напомнить в</string>
+    <string name="remind_time_index">Напомнить в (%1$d)</string>
     <string name="remind_title_menstruation_start">Напоминать о начале менструации</string>
     <string name="remind_title_record">Напоминать о записи</string>
-    <string name="remind_weight_content">Взвесьтесь сейчас, чтобы посмотреть изменения</string>
-    <string name="remind_weight_title">Напоминание о взвешивании</string>
+    <string name="remind_weight_content">Отслеживайте изменения веса</string>
+    <string name="remind_weight_title">Взвешивание</string>
     <string name="remove">Удалить</string>
+    <string name="repeat_mode">Повтор</string>
     <string name="retry">Повтор</string>
     <string name="revert_to_default">Восстановить по умолчанию</string>
     <string name="run">Бег</string>
@@ -812,10 +858,12 @@ ID:%s
     <string name="sedentary_title">Напоминания о разминке</string>
     <string name="sedentary_toggle_content">Приложение Здоровье будет предлагать вам сделать разминку, если вы долгое время находитесь без движения.</string>
     <string name="sedentaty_hazard_description">Сидячий образ жизни вызывает множество проблем со здоровьем. Старайтесь двигаться больше 1 минуты в час для достижения ежедневной цели, чтобы избежать проблем, связанных с сидячей жизнью.</string>
-    <string name="select_exercise_type">Выберите тип тренировки</string>
-    <string name="select_menstruation_end_date">Выберите дату окончания менструации</string>
+    <string name="select_exercise_intensity">Интенсивность</string>
+    <string name="select_exercise_type">Тип тренировки</string>
+    <string name="select_menstruation_end_date">Дата окончания менструации</string>
     <string name="select_null">Не выбрано</string>
     <string name="select_recog_question">Выберите действие</string>
+    <string name="select_swim_posture">Стиль плавания</string>
     <string name="select_target">Выберите цель</string>
     <string name="send_diagnosis_log">Отправить журнал диагностики</string>
     <string name="sending">Отправка…</string>
@@ -829,6 +877,8 @@ ID:%s
     <string name="setting_sedentary_off">ОТКЛ.</string>
     <string name="setting_sedentary_on">ВКЛ.</string>
     <string name="setting_sedentary_title">Напоминание двигаться</string>
+    <string name="severe_abnormal">Гипертонический криз</string>
+    <string name="severe_abnormal_tip">Каждый день после пробуждения, после обеда и перед сном</string>
     <string name="share">Поделиться</string>
     <string name="skip">Пропустить</string>
     <string name="sleep">Сон</string>
@@ -941,6 +991,7 @@ ID:%s
     <string name="sleep_turn_over_times_title">Повороты</string>
     <string name="sleep_week">Неделя</string>
     <string name="slow">Медленный</string>
+    <string name="slow2">Низкое</string>
     <string name="snore">Храп</string>
     <string name="snore_detection_abnormal_notification_button">Возобновление</string>
     <string name="snore_detection_abnormal_notification_content">Микрофон недоступен</string>
@@ -1067,6 +1118,7 @@ ID:%s
     <string name="sync_status_network_failure">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
     <string name="sync_status_never_done">Не синхронизировано</string>
     <string name="sync_status_oauth_error">Не удалось синхронизировать. Предоставьте сначала необходимые разрешения.</string>
+    <string name="systolic_pressure">Систолическое</string>
     <string name="tb_audio_progress_bar">Панель воспроизведения звука</string>
     <string name="tb_card_on_using_list">Добавлено</string>
     <string name="tb_click_finish_stand">Незавершенные активности в течение почти 1 часа, нажмите, чтобы закончить активность</string>
@@ -1125,6 +1177,8 @@ ID:%s
     <string name="tb_go_next_a_day">Прошлый день</string>
     <string name="tb_go_on_detection">Возобновить</string>
     <string name="tb_has_snore_dream_talk">Обнаружен разговор во сне и храп</string>
+    <string name="tb_home_blood_pressure_card">Давление. Систолическое: %1$d. Диастолическое: %2$d. Запись: %3$s. Статус: %4$s.</string>
+    <string name="tb_home_blood_pressure_card_no_data">Давление. Нет данных.</string>
     <string name="tb_home_exercise_card_finish">Упражнение. %1$s. Завершено: %2$s. Цель: %3$s. Завершено: %4$s.</string>
     <string name="tb_home_exercise_card_not_set_goal">Упражнение. %1$s. Завершено: %2$s. Цель открыта.</string>
     <string name="tb_home_exercise_card_not_supported_step">"Упражнение. Это устройство не считает шаги."</string>
