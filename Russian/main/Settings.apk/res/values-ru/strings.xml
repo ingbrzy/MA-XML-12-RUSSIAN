@@ -3545,6 +3545,8 @@
     <string name="location_mode_screen_title">Определение местоположения</string>
     <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
     <string name="location_mode_sensors_only_title">По спутникам GPS</string>
+    <string name="location_modem_summary">Оператор связи будет получать информацию о вашем местоположении через базовые станции</string>
+    <string name="location_modem_title">Местоположение для оператора связи</string>	
     <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
     <string name="location_neighborhood_level_wifi">Местоположение определяется по сетям Wi-Fi</string>
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
@@ -4446,7 +4448,7 @@
     <string name="not_battery_optimizing">Энергосбережение отключено</string>
     <string name="not_installed">Не установлено</string>
     <string name="not_set">Не задано</string>
-    <string name="notch_and_status_bar_settings">Центр управления и панель уведомлений</string>
+    <string name="notch_and_status_bar_settings">Центр управления и строка состояния</string>
     <string name="notch_force_black_desc">Включите для затемнения области вокруг выреза</string>
     <string name="notch_force_black_title">Скрытие выреза</string>
     <string name="notch_settings">Вырез</string>
@@ -4764,6 +4766,7 @@ OTG отключается автоматически через 10 минут �
     <string name="payment_summary">По умолчанию: %1$s</string>
     <string name="peek_notification_icon_title">Значки уведомлений</string>
     <string name="performance_category">Производительность</string>
+    <string name="permission_action_prompt">Спрашивать</string>
     <string name="permission_bar_chart_details">Показать на панели все</string>
     <string name="permission_bar_chart_empty_text">Отсутствуют</string>
     <string name="permission_bar_chart_title">Разрешения за последние 24 часа</string>
@@ -5170,7 +5173,7 @@ OTG отключается автоматически через 10 минут �
     <string name="radioInfo_display_asu">asu</string>
     <string name="radioInfo_display_bytes">байт</string>
     <string name="radioInfo_display_dbm">dBm</string>
-    <string name="radioInfo_display_packets">pkts</string>
+    <string name="radioInfo_display_packets">пакеты</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">Статус сервиса IMS</string>
     <string name="radioInfo_menu_viewADN">Просмотреть адресную книгу на SIM-карте</string>
@@ -6354,7 +6357,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_show_lte_for_4g">Показывать LTE вместо 4G</string>
     <string name="status_bar_settings_show_weather">Показывать погоду в панели уведомлений</string>
     <string name="status_bar_settings_status_bar">Строка состояния</string>
-    <string name="status_bar_title">Строка состояния</string>
+    <string name="status_bar_title">Центр управления и строка состояния</string>
     <string name="status_bt_address">Адрес Bluetooth</string>
     <string name="status_data_network_type">Передача данных</string>
     <string name="status_data_state">Передача данных в моб. сети</string>
