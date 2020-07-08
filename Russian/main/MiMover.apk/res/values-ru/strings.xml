@@ -148,7 +148,7 @@
   <string name="dialog_version_summary_tip">Что нового:</string>
   <string name="dialog_version_title_tip">Доступно обновление</string>
   <string name="dialog_wechat_data_transfer_fail_button">Понятно</string>
-  <string name="dialog_wechat_data_transfer_fail_message">"Из-за ограничений версии WeChat некоторые данные (включая историю чата) не были перенесены. Для переноса рекомендуется использовать функции резервного копирования и переноса истории чата приложения WeChat."</string>
+  <string name="dialog_wechat_data_transfer_fail_message">Не удалось передать данные и историю чатов приложения WeChat из-за ограничений приложения. Попробуйте функцию резервного копирования в приложении.</string>
   <string name="dialog_wechat_data_transfer_fail_title">Ошибка переноса данных WeChat</string> 
   <string name="do_not_restore_temporarily">Не сейчас</string>
   <string name="document">Документы</string>
@@ -490,7 +490,7 @@
 Освободи хотя бы %s.</string>
   <string name="scan_soft_ap_label">Подключиться к новому устройству</string>
   <string name="scanner_bottom_tip">Выберите только важные данные, чтобы ускорить передачу.</string>
-  <string name="scanner_not_support_data_transfer_tip">Поддерживается перенос данных приложений (включая WeChat,QQ Chat) только с устройств Xiaomi</string>
+  <string name="scanner_not_support_data_transfer_tip">Перенос данных приложений (включая историю чатов WeChat и QQ) поддерживается только с устройств Xiaomi</string>
   <string name="scanner_permission_alert_cancel">Понятно</string>
   <string name="scanner_permission_alert_ok">Настройки</string>
   <string name="scanner_quit_alert_btn_negative">Выход</string>
