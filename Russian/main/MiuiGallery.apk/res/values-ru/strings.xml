@@ -277,6 +277,13 @@
   <string name="burst_save_choice_title" formatted="false">Выбрано %d из %d</string>
   <string name="burst_save_error_msg">"Ошибка сохранения"</string>
   <string name="burst_save_processing">Обработка…</string>
+  <string name="burst_save_video">Сохранить как видео</string>
+  <string name="burst_save_video_choice_1080">%dp</string>
+  <string name="burst_save_video_choice_4k">%dK</string>
+  <string name="burst_save_video_choice_720">%dp</string>
+  <string name="burst_save_video_fail">Ошибка сохранения</string>
+  <string name="burst_save_video_progerss">Создание видео…</string>
+  <string name="burst_save_video_title">Разрешение видео</string>
   <string name="buy_member_tip">Приобрести подписку</string>
   <string name="by_email">По Email</string>
   <string name="by_others">Прочее</string>
@@ -719,11 +726,13 @@
   <string name="filter_bi_sunny">Солнечный</string>
   <string name="filter_bi_tea">Чайный</string>
   <string name="filter_bi_warm">Теплый</string>
+  <string name="filter_category_classic">Классика</string>
   <string name="filter_category_film">Пленка</string>
   <string name="filter_category_food">Еда</string>
   <string name="filter_category_general">Общие</string>
   <string name="filter_category_master">Мастер</string>
   <string name="filter_category_movie">Фильм</string>
+  <string name="filter_category_popular">Популярное</string>
   <string name="filter_category_portrait">Портрет</string>
   <string name="filter_category_scene">Пейзаж</string>
   <string name="filter_category_sky">Небо</string>
@@ -793,7 +802,13 @@
   <string name="filter_people_sepia">Сепия</string>
   <string name="filter_people_story">История</string>
   <string name="filter_people_tea">Чай</string>
+  <string name="filter_popular_humanity">Документальный</string>
+  <string name="filter_popular_lnk">Чернила</string>
+  <string name="filter_popular_purple">Пурпур</string>
+  <string name="filter_portrait_greyish">Пепел</string>
   <string name="filter_portrait_hint">Цветовой фокус</string>
+  <string name="filter_portrait_mist">Туман</string>
+  <string name="filter_portrait_painting">Картина</string>
   <string name="filter_scene_city">Город</string>
   <string name="filter_scene_df">Туман</string>
   <string name="filter_scene_koizora">Любовь</string>
@@ -956,6 +971,7 @@
   <string name="loading_members">Загрузка пользователей…</string>
   <string name="loading_processing_tip">Обработка фото…</string>
   <string name="loading_suspend">Загрузка возобновится после подключения к Wi-Fi</string>
+  <string name="loading_text_format" formatted="false">Удаление личной информации из фото (%d/%d)…</string>
   <string name="loading_video">Загрузка видео…</string>
   <string name="loading_video_compress_lib">Загрузка плагина сжатия видео…</string>
   <string name="loading_video_fail_sync_without_network">Подключитесь к сети для загрузки данных</string>
@@ -1179,6 +1195,8 @@
   <string name="onekey_none">Оригинал</string>
   <string name="onekey_portrait">Портрет</string>
   <string name="onekey_scene">Пейзаж</string>
+  <string name="online_video_error_unknown">Ошибка онлайн-воспроизведения. Загрузите файл.</string>
+  <string name="online_video_error_unsupported_type">Онлайн-плеер не поддерживает этот формат. Загрузите файл.</string>
   <string name="online_video_normal_transcoding">Идет перекодирование видео. Повторите попытку позже.</string>
   <string name="online_video_vip_tip">Приобретите VIP для потоковой передачи видео без предварительной загрузки</string>
   <string name="online_video_vip_transcoding">"Потоковая передача для VIP…
@@ -1565,8 +1583,15 @@
   <string name="screen_doodle_talkback_size">Ширина линии</string>
   <string name="screen_editor_btn_delete">Удалить</string>
   <string name="screen_editor_btn_save">Сохранить</string>
+  <string name="screen_editor_btn_shell_off">Удалить рамку</string>
+  <string name="screen_editor_btn_shell_on">Добавить рамку</string>
+  <string name="screen_editor_crop_disallowed_with_shell">Не удается обрезать скриншот с рамкой устройства</string>
   <string name="screen_editor_delete_dialog_msg">Удалить скриншот?</string>
   <string name="screen_editor_finish">Выход</string>
+  <string name="screen_editor_shell_disallowed_with_crop">Не удается добавить рамку устройства на обрезанный скриншот</string>
+  <string name="screen_editor_shell_net_error">Требуется подключение к сети для загрузки</string>
+  <string name="screen_editor_shell_res_downloading">Загрузка…</string>
+  <string name="screen_editor_shell_storage_insufficient">Недостаточно места на устройстве для загрузки</string>
   <string name="screen_save_dialog_btn_cancel">Отмена</string>
   <string name="screen_save_dialog_btn_delete">Удалить скриншот</string>
   <string name="screen_save_dialog_btn_save">Сохранить в Галерее</string>
@@ -1750,6 +1775,7 @@
   <string name="special_type_night_mode">AI ночной режим</string>
   <string name="special_type_portrait">AI портретная светопись</string>
   <string name="special_type_raw">RAW</string>
+  <string name="special_type_real_8k">8K</string>
   <string name="special_type_wide_angle">AI ультра-широкий угол</string>
   <string name="start_debug">Отладка Галереи</string>
   <string name="start_to_use_face_albumset">Начать использование</string>
@@ -1885,6 +1911,8 @@
   <string name="thursday">Четверг</string>
   <string name="thursday_short">Чт</string>
   <string name="thursday_shortest">Чт</string>
+  <string name="time_burst_photo_enter">Серийные снимки</string>
+  <string name="time_burst_preview_title">Серийные снимки</string>
   <string name="time_picker_dialog_title">Установите время</string>
   <string name="time_picker_label_hour">Ч</string>
   <string name="time_picker_label_minute">М</string>
