@@ -72,6 +72,7 @@
   <string name="ad_more">Еще</string>
   <string name="add_to_trust_device">Это доверенное устройство</string>
   <string name="agree">Согласен</string>
+  <string name="agree_and_continue">Согласен</string>
   <string name="ai_animation_music_text">Саундтрек ИИ</string>
   <string name="ai_music_save_cancel">Отмена</string>
   <string name="ai_music_save_dialog_title">Сохранить</string>
@@ -108,6 +109,7 @@
   <string name="cast_expanded_controller_ad_image_description">Изображение, во время показа рекламы</string>
   <string name="cast_expanded_controller_ad_in_progress">Идет реклама…</string>
   <string name="cast_expanded_controller_background_image">Обложка</string>
+  <string name="cast_expanded_controller_live_head_description">Текущая позиция установлена на начало трансляции</string>
   <string name="cast_expanded_controller_live_stream_indicator">Прямой эфир</string>
   <string name="cast_expanded_controller_loading">Загрузка…</string>
   <string name="cast_expanded_controller_skip_ad_label">Пропустить</string>
@@ -115,6 +117,7 @@
   <string name="cast_forward">Перемотать вперед</string>
   <string name="cast_forward_10">Перемотать на 10 секунд вперед</string>
   <string name="cast_forward_30">Перемотать на 30 секунд вперед</string>
+  <string name="cast_live_label">ПРЯМОЙ ЭФИР</string>
   <string name="cast_mute">Отключить звук</string>
   <string name="cast_notification_connected_message">Подключено к %1$s</string>
   <string name="cast_notification_connecting_message">Подключение к %1$s…</string>
@@ -152,6 +155,12 @@
   <string name="cloud_online_switch_close_time">Вы можете включить персонализированные рекомендации по контенту в %s</string>
   <string name="cloud_online_switch_open_time">Показывать персонализированные рекомендации по контенту</string>
   <string name="collect_diagnosis_log">Сбор журналов</string>
+  <string name="columbus_player_close_desc">Вы потеряете полученное вознаграждение</string>
+  <string name="columbus_player_close_resume">ВОЗОБНОВИТЬ</string>
+  <string name="columbus_player_close_title">Закрыть видео?</string>
+  <string name="columbus_player_close_video">ЗАКРЫТЬ</string>
+  <string name="columbus_player_install_now">УСТАНОВИТЬ</string>
+  <string name="columbus_player_learn_more">Подробнее</string>
   <string name="com_facebook_device_auth_instructions">Перейдите на &lt;b&gt;facebook.com/device&lt;/b&gt; и введите код, показанный выше.</string>
   <string name="com_facebook_image_download_unknown_error">Непредвиденная ошибка при загрузке изображения.</string>
   <string name="com_facebook_internet_permission_error_message">Для входа в WebView требуется доступ к интернету</string>
@@ -227,6 +236,7 @@
   <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Mi аккаунтом %2$s на %1$s. Если вы продолжите, он больше не будет связан с Mi аккаунтом %3$s. Продолжить?</string>
   <string name="content">Описание</string>
   <string name="content_can_not_null">Нельзя отправить отзыв без описания.</string>
+  <string name="continue_play">Возобновить</string>
   <string name="data_empty">Ничего нет</string>
   <string name="day">день</string>
   <string name="default_filedownloader_notification_content">Идет загрузка файла</string>
@@ -238,12 +248,14 @@
 ID: %s
 Отправьте этот код руководителю."</string>
   <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Согласен\", вы принимаете нашу Политику конфиденциальности.</string>
+  <string name="dialog_privacy_info_new3">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные в соответствии с политикой конфиденциальности. Нажав \"Согласен\", вы принимаете &lt;a href=%2$s&gt;Политику конфиденциальности&lt;/a&gt; и &lt;a href=%3$s&gt;Пользовательское соглашение&lt;/a&gt; Xiaomi.</string>
   <string name="dialog_privacy_title">Предоставление разрешения</string>
   <string name="dialog_revoke_privacy_info_new2">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение?</string>
   <string name="dialog_revoke_privacy_title">Отзыв разрешения</string>
   <string name="diy_channels_tips">Теперь вы можете настроить список ваших каналов.</string>
   <string name="do_not_show_again">Больше не показывать</string>
   <string name="download">Загрузить</string>
+  <string name="download_checking_tip">Подготовка к загрузке…</string>
   <string name="download_complete">Загружено</string>
   <string name="download_delete_tip">Удалить выбранные файлы?</string>
   <string name="download_delete_title">Удалить</string>
@@ -252,6 +264,7 @@ ID: %s
   <string name="download_power_off_tips">Эта функция сейчас недоступна</string>
   <string name="download_retry">Повтор</string>
   <string name="download_space_info" formatted="false">%s, %s</string>
+  <string name="download_unable_tip">Не удалось загрузить</string>
   <string name="download_video">Загрузка видео</string>
   <string name="downloading">Загрузка…</string>
   <string name="empty_channels">Управление каналами</string>
@@ -337,6 +350,7 @@ ID: %s
   <string name="feedback_success_toast">Отзыв отправлен. Спасибо за поддержку!</string>
   <string name="feedback_tag_title">Категории</string>
   <string name="feedback_text_empty_toast">Введите текст отзыва.</string>
+  <string name="file_cant_rename">Файл с таким именем (%1$s) уже существует. Задайте другое имя.</string>
   <string name="find_psw">Забыли пароль?</string>
   <string name="finish">Готово</string>
   <string name="for_diagnosis_usage_only">Журналы используются только для диагностики.</string>
@@ -381,11 +395,14 @@ ID: %s
   <string name="gallery_video_save_video">Создание видео…</string>
   <string name="gallery_video_slow_edit">Замедленная съемка</string>
   <string name="gallery_view_tags">Показать теги</string>
+  <string name="galleryplus_already_cloud_member">Используется VIP-подписка для воспроизведения</string>
+  <string name="galleryplus_check_network">Настройки</string>
   <string name="galleryplus_chose_play_speed">Скорость воспроизведения: %1$.1fX</string>
   <string name="galleryplus_chose_play_speed_failure">Не удалось изменить скорость воспроизведения</string>
   <string name="galleryplus_click_to_higher_definition">Нажмите дважды для предпросмотра в HD</string>
   <string name="galleryplus_cta_tips">Вы можете помочь нам улучшить наш сервис, зарегистрировавшись в программе улучшения качества и разрешив приложению Mi Видео подключение к интернету. Согласны?</string>
   <string name="galleryplus_double_tap_to_higher_definition">Нажмите дважды для предпросмотра в HD</string>
+  <string name="galleryplus_fr_unsupport_restore_speed">Неподдерживаемая частота кадров. Переключение на обычную скорость.</string>
   <string name="galleryplus_gallery_fold_tags">Скрыть теги</string>
   <string name="galleryplus_gallery_video_adjust_hint">Поддерживается только видео 960 кадров/сек.</string>
   <string name="galleryplus_gallery_video_adjust_text">Настройка</string>
@@ -405,6 +422,15 @@ ID: %s
   <string name="galleryplus_gallery_video_slow_edit">Замедленное видео</string>
   <string name="galleryplus_gallery_view_tags">Показать теги</string>
   <string name="galleryplus_is_higher_definition">Предпросмотр HD</string>
+  <string name="galleryplus_network_connect_check">Не удалось подключиться к сети</string>
+  <string name="galleryplus_network_connect_confirm">Подключитесь к Wi-Fi или включите мобильный интернет в настройках сети</string>
+  <string name="galleryplus_network_error">Не удалось подключиться к сети</string>
+  <string name="galleryplus_network_not_wifi">Использование мобильного интернета для потоковой передачи видео может повлечь за собой дополнительные расходы</string>
+  <string name="galleryplus_online_cta">Для нормальной работы приложению Mi Видео необходимо подключение к интернету. Согласны?</string>
+  <string name="galleryplus_online_cta_agree">Согласен</string>
+  <string name="galleryplus_online_cta_disagree">Выход</string>
+  <string name="galleryplus_online_cta_title">Условия и положения</string>
+  <string name="galleryplus_online_video_loading">Подождите…</string>
   <string name="galleryplus_permission_content">Предоставьте приложению Mi Видео необходимые разрешения, чтобы использовать эту функцию.</string>
   <string name="galleryplus_permission_content2">"Чтобы использовать эту функцию, предоставьте приложению следующие разрешения:
 
@@ -450,6 +476,7 @@ ID: %s
   <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
   <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
   <string name="google_application_id"/>
+  <string name="got_it">Понятно</string>
   <string name="goto_sign_up">Создать аккаунт</string>
   <string name="grant_write_settings_permission">Предоставьте разрешение для управления яркостью плеера</string>
   <string name="have_learned">Понятно</string>
@@ -619,6 +646,7 @@ ID: %s
   <string name="lv_video_null">Нет видео</string>
   <string name="lv_volume">Громкость</string>
   <string name="manage">Управление</string>
+  <string name="mediation_ad_can_not_share">Не удалось поделиться этим видео</string>
   <string name="mi_video">Mi Видео</string>
   <string name="mnc_live_tv">Прямой эфир</string>
   <string name="moment_guide_desc">Используйте жесты для изменения масштаба</string>
@@ -668,6 +696,7 @@ ID: %s
   <string name="neverthink_player_loading">Загрузка видео с Neverthink…</string>
   <string name="new_channel_tip">Взгляните на новые каналы!</string>
   <string name="next">Далее</string>
+  <string name="next_step">Далее</string>
   <string name="nick_name">Псевдоним</string>
   <string name="no_account">Вход не выполнен</string>
   <string name="no_longer_prompt">Больше не показывать</string>
@@ -686,6 +715,8 @@ ID: %s
   <string name="notice_message_title">Уведомления</string>
   <string name="notice_title">Сообщения</string>
   <string name="notification_bar">Шторка уведомлений</string>
+  <string name="notification_bar_player_subtitle">Отображать свернутое окно плеера в шторке уведомлений</string>
+  <string name="notification_bar_player_title">Сворачивание окна</string>
   <string name="notification_open_tip">Включите для уведомлений</string>
   <string name="notify_apk_installed">Загрузка завершена</string>
   <string name="off">[откл.]</string>
@@ -895,6 +926,7 @@ ID: %s
   <string name="photoPickerNotFoundText">Нет доступных фото.</string>
   <string name="ping_platform">ПРИЛОЖЕНИЕ</string>
   <string name="ping_property">видео</string>
+  <string name="pip">Картинка в картинке</string>
   <string name="player_replay_btn_text">повтор</string>
   <string name="playlist_detail_recomm_title">Рекомендованные плейлисты</string>
   <string name="playlist_hot">Популярное</string>
@@ -1119,9 +1151,11 @@ ID: %s
   <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
   <string name="sns_sign_in">Другие способы входа</string>
   <string name="source">"Источник: "</string>
-  <string name="srl_component_falsify" formatted="false">"%s falsify area,
- Represents the height[%.1fdp] of drag at run time,
- It does not show anything."</string>
+  <string name="special_type_8k">AI 8K</string>
+  <string name="special_type_log">ЖУРНАЛ</string>
+  <string name="srl_component_falsify" formatted="false">"%s фальсифицирует область,
+  отражает высоту [%.1fdp] перетаскивания во время выполнения,
+  больше ничего не показывает."</string>
   <string name="srl_content_empty">Содержимое в SmartRefreshLayout отсутствует. Вы добавили его в файл макета XML?</string>
   <string name="srl_footer_failed">Ошибка загрузки</string>
   <string name="srl_footer_finish">Успешная загрузка</string>
@@ -1188,6 +1222,8 @@ ID: %s
   <string name="ticket_hint">Код подтверждения</string>
   <string name="ticket_invalid">Введен неверный код</string>
   <string name="ticket_sign_in">Войти через SMS</string>
+  <string name="tip_author_click">Нажмите, чтобы просмотреть больше видео из этого аккаунта</string>
+  <string name="tip_topic_click">Нажмите, чтобы найти больше видео по этой теме</string>
   <string name="title_publisher">Создатели</string>
   <string name="title_subscribe">Подписки</string>
   <string name="toast_no_data">Недоступно на данный момент. Попробуйте позже.</string>
@@ -1252,6 +1288,7 @@ ID: %s
   <string name="video_resolution_kb_size_suffix">%.2f КБ</string>
   <string name="video_resolution_mb_size_suffix">%.2f МБ</string>
   <string name="video_resolution_tag_suffix">%dP</string>
+  <string name="view">Просмотр</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_text_unknown">Произошла ошибка</string>
   <string name="vp_VideoView_error_title">Неизвестная ошибка</string>

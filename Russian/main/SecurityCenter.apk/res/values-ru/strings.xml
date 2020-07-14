@@ -245,7 +245,7 @@
   <string name="app_behavior_media_volume">%1s - изменение громкости</string>
   <string name="app_behavior_media_volume_bg">%1s - изменение громкости в фоновом режиме</string>
   <string name="app_behavior_media_volume_bg_single">Изменение громкости в фоновом режиме</string>
-  <string name="app_behavior_media_volume_single">Изменение громкости</string>  
+  <string name="app_behavior_media_volume_single">Изменение громкости</string>
   <string name="app_behavior_menu_about">О записи действий приложений</string>
   <string name="app_behavior_monitor_off">Отключение уведомлений</string>
   <string name="app_behavior_monitor_off_content">Отключить уведомления о действиях этого приложения?</string>
@@ -814,7 +814,7 @@
   <string name="clean_master_icon_recall_button_text">Добавить</string>
   <string name="clean_master_icon_recall_summary">Добавление ярлыка для Очистки на рабочий стол</string>
   <string name="clean_master_icon_recall_title">Очистка</string>
-  <string name="clean_master_icon_recall_toast_text">Ярлык добавлен на рабочий стол</string>  
+  <string name="clean_master_icon_recall_toast_text">Ярлык добавлен на рабочий стол</string>
   <string name="cleaned">Очищено</string>
   <string name="clear_garbage">Очистить мусор для освобождения места</string>
   <string name="clear_immediately">Очистить</string>
@@ -1290,6 +1290,13 @@
   <string name="first_aid_scanning_item4">Проверка проблем с батареей…</string>
   <string name="first_aid_scanning_item5">Проверка наличия других проблем…</string>
   <string name="first_aid_stop_scan">Остановить проверку</string>
+  <string name="first_settings_default_camera_title">Отправлять без метаданных</string>
+  <string name="first_settings_default_location_subtitle">Удалить информацию о местоположении из общих фотографий</string>
+  <string name="first_settings_default_location_title">Отправлять без информации о местоположении</string>
+  <string name="first_settings_share_enable">Добавлять значок \"Безопасный обмен\"</string>
+  <string name="first_settings_share_enable_subtitle">Элементы, которыми вы делитесь в WeChat, будут отображаться со значком MIUI.</string>
+  <string name="first_settings_subtitle">Варианты безопасного обмена:</string>
+  <string name="first_settings_title">Защита вашей конфиденциальности</string>
   <string name="five_percent_total_pkg">%s (5%% от месячного лимита)</string>
   <string name="float_window">Плавающее окно</string>
   <string name="float_window_summary">Быстрый переход на страницу с помощью встряхивания</string>
@@ -1694,6 +1701,7 @@
   <string name="list_empty_text">Список пуст</string>
   <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
   <string name="loading">Подождите…</string>
+  <string name="loading_text_format" formatted="false">Удаление персональной информации из фотографий (%d/%d)…</string>
   <string name="local_ip_exception_summary">Ошибка получения локального IP адреса. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
   <string name="lock_all_title">Блокировка всех приложений</string>
   <string name="lock_mode_title">Режим защиты</string>
@@ -2018,6 +2026,9 @@
   <string name="notification_channel_battery">Батарея</string>
   <string name="notification_exit_power_save_mode">Энергосбережение отключено</string>
   <string name="notification_exit_power_save_mode_subtitle">Заряд батареи %s</string>
+  <string name="notification_garbage_clean_botton_text">Очистить</string>
+  <string name="notification_garbage_clean_hint">Освободите место на устройстве</string>
+  <string name="notification_garbage_clean_size">Освободите %s</string>
   <string name="notification_garbage_cleanup_summary">Удаление мусора (%s) для ускорения работы устройства</string>
   <string name="notification_garbage_cleanup_title">Удаление мусора</string>
   <string name="notification_low_battery_action_btn">Включить</string>
@@ -2029,6 +2040,8 @@
   <string name="notification_masked_item">Как скрыть содержимое уведомлений?</string>
   <string name="notification_masked_subtitle">Используйте Защиту приложений, чтобы скрыть содержимое уведомлений для выбранных приложений.</string>
   <string name="notification_summary_cmcc_app_check">Нажмите для просмотра.</string>
+  <string name="notification_whatsapp_clean_button_text">Очистить</string>
+  <string name="notification_whatsapp_clean_size">Кеш WhatsApp: %s</string>
   <string name="notify_channel_mipush">Push-сообщения Безопасности</string>
   <string name="notify_channel_name_behavior">История действий</string>
   <string name="notify_channel_name_security">Безопасность системы</string>
@@ -2082,6 +2095,10 @@
   <string name="om_shortcut_added_toast_text">Ярлык добавлен на рабочий стол</string>
   <string name="om_shortcut_dialog_summary">Ускорение позволяет очистить память и ускорить работу устройства одним нажатием. Добавить ярлык на рабочий стол?</string>
   <string name="om_shortcut_dialog_title">Ускорение</string>
+  <string name="once_settings_camera_ttile">Отправить без метаданных</string>
+  <string name="once_settings_location_title">Отправлять без информации о местоположении</string>
+  <string name="once_settings_subtitle">Как вы хотите поделиться выбранными файлами?</string>
+  <string name="once_settings_title">Защита конфиденциальности</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">Приложение не найдено</string>
   <string name="open_alarm_right_now">Открыть</string>
@@ -2850,10 +2867,18 @@
   <string name="settings">Настройки трафика</string>
   <string name="settings_battery_consume_abnormal_summary">Получать уведомления о быстром разряде батареи</string>
   <string name="settings_battery_consume_abnormal_title">Уведомления о разряде</string>
+  <string name="settings_camera_subtitle_no">Нет метаданных</string>
   <string name="settings_category_other">Прочие настройки</string>
   <string name="settings_category_overheat">Уведомления</string>
   <string name="settings_choice_no_notification">Отключено</string>
+  <string name="settings_image_camera_summary">Удалить информацию о модели устройства, метаданные и др.</string>
+  <string name="settings_location_subtitle_no">Нет информации о местоположении</string>
   <string name="settings_power_save_ontime_title">Расписание</string>
+  <string name="settings_share_enable_summary">Элементы, которыми вы делитесь в WeChat, будут отображаться со значком MIUI.</string>
+  <string name="settings_share_info">Параметры безопасного обмена для отправляемых файлов из Галереи и Проводника:</string>
+  <string name="settings_show_detail">Подробности</string>
+  <string name="settings_tip">Для дополнительных параметров перейдите в Галерея &gt; Настройки</string>
+  <string name="settings_title">Безопасный обмен</string>
   <string name="shield_keyboard_detail">Включить кнопки можно двойным нажатием на них</string>
   <string name="shield_keyboard_summary">Отключение кнопок и полноэкранных жестов во время игр</string>
   <string name="shield_keyboard_title">Отключение кнопок и жестов</string>
@@ -3359,6 +3384,8 @@
   <string name="text_button">Понятно</string>
   <string name="text_cycle_day">%s</string>
   <string name="text_day" />
+  <string name="text_done">ОК</string>
+  <string name="text_security">Конфиденциальность</string>
   <string name="thermal_tips_message">Игра в режиме ускорения процессора может привести к проблемам с перегревом.</string>
   <string name="thermal_tips_title">Внимание</string>
   <string name="third_application">Стороннее приложение</string>
@@ -3589,6 +3616,7 @@
   <string name="vb_advanced_settings_after_open">После</string>
   <string name="vb_advanced_settings_before_open">До</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Повышение четкости движущихся объектов за счет улучшения анимации. Эта функция с повышенным энергопотреблением.</string>
+  <string name="vb_quick_func_auto_bgm">Распознавание фоновой музыки</string>
   <string name="vb_quick_func_hangup_listening">Воспроизведение звука видео с выключенным экраном</string>
   <string name="vb_quick_func_screen_capture">Скриншот</string>
   <string name="vb_quick_func_screen_record">Запись</string>

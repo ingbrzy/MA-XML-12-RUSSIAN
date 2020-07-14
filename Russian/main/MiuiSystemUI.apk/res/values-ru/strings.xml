@@ -1182,10 +1182,10 @@ d MMMM"</string>
     <string name="lockscreen_access_pattern_start">Ключ начат</string>
     <string name="lockscreen_carrier_default">Нет сети</string>
     <string name="lockscreen_charging_msg">Зарядка</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Количество неудачных попыток разблокировать телефон: %d. Осталось попыток: %d. Если они также будут неудачными, настройки телефона будут сброшены к заводским, а все данные удалены.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Количество неудачных попыток ввода пароля: %d. Осталось попыток: %d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью Mi аккаунта.
+    <string name="lockscreen_failed_attempts_almost_at_wipe">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, настройки телефона будут сброшены к заводским, а все данные удалены.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">"Количество неудачных попыток ввода пароля: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью Mi аккаунта.
 
-Повторите попытку через %d сек."</string>
+Повторите попытку через %3$d сек."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="lockscreen_none">Нет</string>
     <string name="lockscreen_shortcut_left">Левый ярлык</string>

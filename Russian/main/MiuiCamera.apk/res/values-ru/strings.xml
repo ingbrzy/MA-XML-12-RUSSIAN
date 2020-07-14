@@ -121,10 +121,11 @@
   <string name="ambilight_intro_crowd_moving_part2">Вы также можете сфотографировать оживленное движение. Длительная экспозиция позволит запечатлеть здания четкими, но все движущиеся объекты будут размытыми.</string>
   <string name="ambilight_intro_light_track">Используйте источник света при низком освещении для рисования в воздухе. Длительная экспозиция позволит запечатлеть рисунок светом - фризлайт.</string>
   <string name="ambilight_intro_magic_star">Используйте этот режим в местах с низким уровнем освещения. Выдержка будет установлена на %d секунд, рекомендуется использовать штатив.</string>
+  <string name="ambilight_intro_magic_star_ae">Используйте этот режим в местах с низким уровнем освещения. Выдержка будет установлена на %d секунд, рекомендуется использовать штатив.</string>
   <string name="ambilight_intro_silky_water_part1">Используйте этот режим при съемке движущихся облаков. Это придаст небу эффект \"масляной живописи\".</string>
   <string name="ambilight_intro_silky_water_part2">Этот режим делает движущуюся воду (реки, водопады и озера) похожей на шелк.</string>
   <string name="ambilight_intro_star_track">Съемка звездного неба в течение длительного времени позволяет запечатлеть траектории движения звезд. Используйте штатив для непрерывной съемки не менее %d минут.</string>
-  <string name="ambilight_intro_star_track_2">Используйте штатив при длительной съемки звездного неба, чтобы запечатлеть траекторию движения звезд. При съемке более %d минут вы можете одновременно сохранять видео и фото.</string>  
+  <string name="ambilight_intro_star_track_2">Используйте штатив при длительной съемки звездного неба, чтобы запечатлеть траекторию движения звезд. Используйте штатив. При непрерывной съемке более %d минут вы можете делать как видео, так и фото.</string>  
   <string name="ambilight_intro_traffic_light">Ночью вы можете запечатлеть траекторию ярких движущихся огней (например, огни автомобилей или кораблей). Этот режим позволяет увидеть результат на экране в режиме реального времени.</string>
   <string name="ambilight_scene_crowd_moving">Движущаяся толпа</string>
   <string name="ambilight_scene_light_track">Фризлайт</string>
@@ -274,9 +275,10 @@
   <string name="confirm_restore_title">Сброс настроек</string>
   <string name="copy">Копировать</string>
   <string name="cta_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
-  <string name="cta_perm_dec">Запись информации о местоположении съемки фото и видео</string>
-  <string name="cta_perm_loc">Доступ к местоположению</string>
+  <string name="cta_perm_dec">Добавление информации о местоположении съемки в фото и видео</string>
+  <string name="cta_perm_loc">Местоположение</string>
   <string name="cta_perm_type">Для работы дополнительных функций во время их использования</string>  
+  <string name="cta_user_tips">&lt;Data&gt;Чтобы полностью понять ваши права как пользователя, а также то, как мы используем ваши данные, прочтите и примите наши &amp;lt;a href =%1$s&amp;gt;Пользовательским соглашением&amp;lt;/a&amp;gt; и &amp;lt;a href =%2$s&amp;gt;Политикой конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>  
   <string name="custom_sound_art">Ретро</string>
   <string name="custom_sound_default">По умолчанию</string>
   <string name="custom_sound_modern">Модерн</string>
@@ -285,6 +287,7 @@
   <string name="custom_tint_color_select">Изменить цвета</string>
   <string name="custom_watermark_contains_senstive_words">"Водяные знаки не могут использовать запрещенные термины (%1$s)"</string>
   <string name="custom_watermark_tips">Текст будет отображаться как вторая строка водяного знака. Он может содержать до 18 букв или 14 китайских символов.</string>
+  <string name="custom_watermark_tips_gen2" formatted="false">До %d китайских символов или %d букв.</string>
   <string name="custom_watermark_too_many_words">Введенный текст слишком длинный</string>
   <string name="custom_watermark_words">Пользовательский водяной знак</string>
   <string name="custom_watermark_words_input_hint">Введите текст</string>
@@ -409,6 +412,7 @@
   <string name="lighting_hint_usage">"Вы можете использовать студийный
 свет в режиме \"Портрет\""</string>
   <string name="lighting_lanshan">Рассеянный</string>
+  <string name="lighting_movie_light_effect_title">Эффект света кино</string>
   <string name="lighting_neon">Неон</string>
   <string name="lighting_nostalgia">Ностальгия</string>
   <string name="lighting_pattern_dot">Точки</string>
@@ -644,8 +648,6 @@
   <string name="pic_flaw_blink_one">Похоже, человек в кадре закрыл глаза</string>
   <string name="pic_flaw_cover">Похоже, объектив частично закрыт</string>
   <string name="photo_assistance_tips_title">Подсказки</string>
-  <string name="pixel_ai_108">AI 100 млн. ультра яркий</string>
-  <string name="pixel_ai_108_close">Закрыть</string>  
   <string name="popup_tip_3d_beauty_intro_text">3D улучшение</string>
   <string name="popup_tips_near_range_mode">Крупный план</string>
   <string name="portait_effect_entry_blackwhite">Ч/Б</string>
@@ -699,7 +701,7 @@
   <string name="pref_camcorder_settings_category">Настройки</string>
   <string name="pref_camera_ai_audio">AI аудио</string>
   <string name="pref_camera_ai_scene_title">AI сцена</string>
-  <string name="pref_camera_ai_shutter_description">Выбор лучшего момента при нажатии кнопки съемки</string>
+  <string name="pref_camera_ai_shutter_description">Автовыбор лучшего момента при нажатии кнопки съемки</string>
   <string name="pref_camera_ai_shutter_title">AI затвор</string>  
   <string name="pref_camera_antibanding_entry_0">Отключено</string>
   <string name="pref_camera_antibanding_entry_1">50 Гц</string>
@@ -1045,6 +1047,7 @@
   <string name="pref_menu_ultra_pixel_photography">%s Ультра HD</string>
   <string name="pref_module_settings">Режимы</string>
   <string name="pref_more_mode_style_title">Режимы камеры</string>
+  <string name="pref_multi_camera_dual_video_front">Передняя камера</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Вы можете записать с 240fps только видео 720p</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Вы можете записать с 960fps только видео 720p</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
@@ -1196,6 +1199,8 @@
   <string name="toast_start_audio_capture">Издайте звук, чтобы сделать снимок</string>
   <string name="ubi_focus_capture_fail">Не удалось сфотографировать</string>
   <string name="ubifocus_capture_warning_message">Для достижения наилучших результатов ваша фотография должна содержать объекты как вблизи (менее 1 метра от объектива), так и вдали</string>
+  <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra Clear отключен</string>
+  <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra Clear отключен</string>  
   <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключен</string>
   <string name="ultra_pixel_photography_open_tip">%s Ультра HD включен</string>
   <string name="ultra_pixel_portrait_hint">HD портрет</string>

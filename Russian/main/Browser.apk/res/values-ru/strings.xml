@@ -787,6 +787,8 @@
     <string name="network_not_available_comment">Нет подключения к интернету</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Найдена точка доступа Wi-Fi поблизости. Подключиться?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
+    <string name="new_copy_address">Скопированный URL</string>
+    <string name="new_copy_content">Скопированный контент</string>	
     <string name="night">Вечер</string>
     <string name="no_app_open_document">Не найдено приложение для обработки этого действия</string>
     <string name="no_content">Контент ещё не появился</string>
@@ -1104,9 +1106,9 @@
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="speech_engine_not_install">Речевой движок не установлен</string>
     <string name="srl_component_falsify" formatted="false">%s фальсифицирует область,
-  Представляет высоту [%.1fdp] перетаскивания во время выполнения,
-  Это ничего не показывает.</string>
-    <string name="srl_content_empty">Представление содержимого в SmartRefreshLayout пустое. Вы забыли добавить его в файл макета XML?</string>
+  отражает высоту [%.1fdp] перетаскивания во время выполнения,
+  больше ничего не показывает.</string>
+    <string name="srl_content_empty">Содержимое в SmartRefreshLayout отсутствует. Вы добавили его в файл макета XML?</string>
     <string name="srl_footer_failed">Ошибка загрузки</string>
     <string name="srl_footer_finish">Успешно загружено</string>
     <string name="srl_footer_loading">Загрузка…</string>

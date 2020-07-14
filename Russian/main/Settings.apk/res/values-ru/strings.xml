@@ -3666,7 +3666,7 @@
     <string name="lockpassword_choose_your_pin_header_second_space">"Установите PIN-код 
  второго пространства"</string>
     <string name="lockpassword_choose_your_pin_message">Для безопасности установите PIN-код</string>
-    <string name="lockpassword_choose_your_pin_title" formatted="false">Введите от %d до %d цифр</string>
+    <string name="lockpassword_choose_your_pin_title">Введите от %1$d до %2$d цифр</string>
     <string name="lockpassword_choose_your_screen_lock_header">Настройте блокировку экрана</string>
     <string name="lockpassword_clear_label">Сбросить</string>
     <string name="lockpassword_confirm_for_second_user">Подтвердите пароль второго пространства</string>
@@ -6501,7 +6501,7 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_wizard_format_confirm_third_body">^1 форматируется</string>
     <string name="storage_wizard_format_confirm_title">Внутренняя память</string>
     <string name="storage_wizard_format_confirm_v2_action">Форматировать</string>
-    <string name="storage_wizard_format_confirm_v2_body">Внимание! Форматирование сотрет все данные на носителе. 
+    <string name="storage_wizard_format_confirm_v2_body">Внимание! Форматирование сотрет все данные на носителе.
 
 Во избежание потери данных, сделайте резервную копию на другом носителе.</string>
     <string name="storage_wizard_format_confirm_v2_title">Форматирование</string>
@@ -7005,7 +7005,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_password_title">Пароль</string>
     <string name="unlock_set_unlock_pattern_summary">Задайте графический ключ</string>
     <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">Введите от %d до %d цифр</string>
+    <string name="unlock_set_unlock_pin_summary">Введите от %1$d до %2$d цифр</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
     <string name="unlock_setup_wizard_fingerprint_details">После включения блокировки экрана, перейдите \"Настройки > Пароли и безопасность\", чтобы добавить отпечаток пальца.</string>
