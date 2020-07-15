@@ -62,7 +62,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="ad_close">Закрыть</string>
     <string name="ad_data_exception">Ошибка данных рекламы</string>
-    <string name="ad_recommend">Получать рекомендации</string>
+    <string name="ad_recommend">Показывать рекламу</string>
     <string name="ad_setting">Дополнительные настройки</string>
     <string name="add_music">Добавить треки</string>
     <string name="add_to_last_of_playlist">Добавить в конец плейлиста</string>
@@ -90,6 +90,7 @@
     <string name="always_use_metered">Всегда использовать мобильный интернет</string>
     <string name="am">AM</string>
     <string name="app_label">Загрузки</string>
+    <string name="app_name">sdk</string>
     <string name="app_permission_confirm">Подтвердить</string>
     <string name="app_permission_optional">Необязательные разрешения</string>
     <string name="app_permission_require">Обязательные разрешения</string>
@@ -113,6 +114,8 @@
     <string name="artist_home_search_hint">Поиск исполнителей</string>
     <string name="artist_is_empty">Введите имя исполнителя</string>
     <string name="artist_name">Исполн.</string>
+    <string name="audio_ad_countdown">Пропустить рекламу (%s сек.)</string>
+    <string name="audio_ad_pass">Пропустить рекламу</string>
     <string name="audio_picker_title">Выберите трек</string>
     <string name="auto_recommend">Авто (рекомендуется)</string>
     <string name="auto_sound_quality">Авто</string>
@@ -509,6 +512,7 @@
     <string name="joox_account_login_conflict_message">Вы пытаетесь войти с другого устройства. Войти?</string>
     <string name="joox_account_login_exception">Войти</string>
     <string name="joox_account_multi_device_login">Несколько устройств</string>
+    <string name="joox_anonymous_name">Гость</string>
     <string name="joox_area_check_failed">Похоже, вы находитесь в районе, где наши сервисы недоступны. Подключитесь к другой сети и снова запустите приложение.</string>
     <string name="joox_auth_button_acquire_vip_instantly">Оформить VIP подписку</string>
     <string name="joox_auth_button_login_to_acquire_vip">Войдите, чтобы оформить VIP подписку</string>
@@ -533,6 +537,10 @@
     <string name="joox_auth_title_vip_content">VIP контент</string>
     <string name="joox_auth_title_vip_expired">Подписка истекла</string>
     <string name="joox_auth_title_vip_function">VIP функции</string>
+    <string name="joox_category_artist">Исполнители</string>
+    <string name="joox_category_playlist">Плейлисты</string>
+    <string name="joox_category_vip">Клуб фанов</string>
+    <string name="joox_download_tab_title">JOOX</string>
     <string name="joox_download_title">Загрузки JOOX</string>
     <string name="joox_privacy_desc">Политика конфиденциальности JOOX (необязательное)</string>
     <string name="joox_privacy_tips_content">Перед использованием онлайн-сервисов прочитайте и примите &lt;a href="/link/click"&gt;Политику конфиденциальности JOOX&lt;/a&gt;.</string>
@@ -540,8 +548,14 @@
     <string name="joox_recommend_artist_title">Рекомендуемые исполнители</string>
     <string name="joox_recommend_playlist_title">Рекомендуемые плейлисты</string>
     <string name="joox_search_result_more">Еще</string>
+    <string name="joox_search_subtitle_prefix_album">альбом</string>
+    <string name="joox_search_subtitle_prefix_artist">исполнитель</string>
+    <string name="joox_search_subtitle_prefix_playlist">плейлист</string>
+    <string name="joox_search_subtitle_prefix_song">трек</string>
     <string name="joox_vip_check_to_pay">Оформить</string>
     <string name="joox_vip_expired_hint">Ваша VIP подписка истекла. Песни, загруженные с JOOX, будут только отображаться в ваших загрузках.</string>
+    <string name="jooxdebugvip">Тест переключения JooxVip</string>
+    <string name="jooxtestlogin">Тест входа в Joox</string>
     <string name="keep_queued_download">Оставить</string>
     <string name="ktv_playlist">Плейлист KTV</string>
     <string name="language_page_confirm">Подтвердить</string>
@@ -807,6 +821,10 @@
     <string name="preset_music_playlist">Mi плейлист</string>
     <string name="priority_storage">Использовать накопитель</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен</string>
+    <string name="privacy_authorize_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="privacy_authorize_revoke_failed">Не удалось отозвать авторизацию</string>
+    <string name="privacy_authorize_revoke_success">Авторизация отозвана</string>
+    <string name="privacy_authorize_revoking">Отмена авторизации…</string>
     <string name="privacy_desc">Политика конфиденциальности (обязательно)</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="pro_member">PRO подписчик</string>
@@ -819,11 +837,14 @@
     <string name="ready_to_play">Следующий</string>
     <string name="recently_played">Недавние</string>
     <string name="recently_played_songs">Недавние</string>
+    <string name="recommend_artist_title">Рекомендуемые исполнители</string>
     <string name="recommend_songs_when_playing_audio_files">Получать рекомендации во время прослушивания музыки</string>
     <string name="recommended_file_size_download_in_mobile">Использовать %s трафика для загрузки этого файла?</string>
     <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
     <string name="remove">Убрать</string>
     <string name="remove_download">Удалить</string>
+    <string name="remove_user_privacy_dialog_message">После отмены авторизации приложение Музыка прекратит сбор данных, и все связанные данные будут удалены с серверов. Это может сделать приложение практически непригодным для использования. Все равно отозвать авторизацию?</string>
+    <string name="remove_user_privacy_dialog_title">Отмена авторизации</string>
     <string name="renew_dialog_title">"Оформите PRO
 Будьте счастливы"</string>
     <string name="repeat_all_notif">Повтор всех треков.</string>
@@ -835,6 +856,7 @@
     <string name="retry">Повторить</string>
     <string name="retry_after_network_available">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="retry_download">Повторить</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">Онлайн контент не будет синхронизирован с Hungama</string>
     <string name="ringtone_editing">Редактор рингтонов</string>
     <string name="ringtone_not_support">Этот формат не поддерживается</string>
     <string name="ringtone_selected">Выбранные</string>
@@ -1096,7 +1118,15 @@
     <string name="upgrade_music">Обновите приложение Музыка</string>
     <string name="upgrade_music_message">Перезапустите для обновления.</string>
     <string name="upgrading_in_backstage">Обновление в фоновом режиме…</string>
+    <string name="upload_playlist_to_hungama_negative_text">Отмена</string>
+    <string name="upload_playlist_to_hungama_positive_text">Синхронизировать</string>
+    <string name="upload_playlist_to_hungama_toast">Онлайн контент будет синхронизирован с Hungama</string>
     <string name="user_agreement">Условия использования</string>
+    <string name="user_privacy_dialog_negative_text">Отмена</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Отмена авторизации (%s сек.)</string>
+    <string name="user_privacy_dialog_positive_text">Отмена авторизации</string>
+    <string name="user_privacy_setting_group_title">Авторизация</string>
+    <string name="user_privacy_setting_title">Используйте переключатель для авторизации или ее отмены</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="version_info">Версия</string>

@@ -155,7 +155,11 @@
     <string name="accessibility_service_warning_description">Полный контроль над устройством для реализации специальных возможностей. </string>
     <string name="accessibility_setting_item_control_timeout_title">Длительность действия</string>
     <string name="accessibility_settings">Спец. возможности</string>
-    <string name="accessibility_settings_summary">Программы чтения с экрана, экран, элементы управления</string>
+    <string name="accessibility_settings_summary">Чтение с экрана, дисплей, интерактивное управление</string>
+    <string name="accessibility_settings_tabs_general">Общие</string>
+    <string name="accessibility_settings_tabs_hearing">Слух</string>
+    <string name="accessibility_settings_tabs_physical">Физические</string>
+    <string name="accessibility_settings_tabs_visual">Зрение</string>
     <string name="accessibility_settings_title">Настройки специальных возможностей</string>
     <string name="accessibility_shortcut_description">Чтобы использовать функцию специальных возможностей, когда она включена, нажмите и удерживайте три секунды обе кнопки регулировки громкости.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Разрешить на заблокированном экране</string>
@@ -328,6 +332,7 @@
     <string name="agps_roaming_summary">Использовать мобильный интернет для корректировки GPS в роуминге</string>
     <string name="ai_button_title">Mi AI кнопка</string>
     <string name="ai_button_title_global">AI кнопка</string>
+    <string name="ai_call_assistant">AI вызовы</string>
     <string name="ai_key">AI кнопка</string>
     <string name="ai_key_double_click">Нажмите дважды</string>
     <string name="ai_key_long_press">Нажмите и удерживайте</string>
@@ -2983,6 +2988,7 @@
     <string name="header_category_wireless_networks">Беспроводные сети</string>
     <string name="header_data_and_synchronization">Синхронизация данных</string>
     <string name="headset_settings_title">Звуковые эффекты</string>
+    <string name="hearing_aids_category">Вспомогательные инструменты</string>
     <string name="heavy_weight_stop_description">Если закрыть это приложение, можно потерять несохраненные данные.</string>
     <string name="help_and_feedback_title">Сервисы и обратная связь</string>
     <string name="help_feedback_label">Сервисы и обратная связь</string>
@@ -3180,6 +3186,7 @@
     <string name="information_dialog_button_text">Понятно</string>
     <string name="information_label">Информация</string>
     <string name="input_assistance">Инструменты</string>
+    <string name="input_device_category">Устройство ввода</string>
     <string name="input_method">Клавиатура</string>
     <string name="input_method_bottom_close">Откл.</string>
     <string name="input_method_bottom_open">Вкл.</string>
@@ -3247,7 +3254,7 @@
     <string name="intent_sender_resource_label">Ресурс:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
     <string name="intent_sender_startactivity_text">Начать activity</string>
-    <string name="interaction_control_category_title">Элементы управления</string>
+    <string name="interaction_control_category_title">Интерактивное управление</string>
     <string name="internal_memory">Внутренний накопитель</string>
     <string name="internal_storage">Внутр. накопитель</string>
     <string name="internet_connectivity_panel_title">Подключение к интернету</string>
@@ -3546,7 +3553,7 @@
     <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
     <string name="location_mode_sensors_only_title">По спутникам GPS</string>
     <string name="location_modem_summary">Оператор связи будет получать информацию о вашем местоположении через базовые станции</string>
-    <string name="location_modem_title">Местоположение для оператора связи</string>	
+    <string name="location_modem_title">Местоположение для оператора связи</string>
     <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
     <string name="location_neighborhood_level_wifi">Местоположение определяется по сетям Wi-Fi</string>
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
@@ -5859,7 +5866,11 @@ UT-интерфейс: %5$s"</string>
     <string name="security_encryption_rejected_via_home_manager">Эта функция не работает в демонстрационной версии.</string>
     <string name="security_encryption_title">Шифрование устройства</string>
     <string name="security_input">Безопасный ввод</string>
+    <string name="security_input_enable">Защищенная клавиатура</string>
     <string name="security_input_hint">Использовать защищенную клавиатуру для ввода паролей</string>
+    <string name="security_input_num_order">Фиксированная</string>
+    <string name="security_input_num_random_order">Случайная</string>
+    <string name="security_input_num_setting_title">Цифровая клавиатура</string>
     <string name="security_keyguard_category_name">Экран блокировки</string>
     <string name="security_password_category_name">Защита устройства</string>
     <string name="security_passwords_title">Конфиденциальность</string>
@@ -7379,6 +7390,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vision_settings_description">Используйте специальные возможности для удобной работы с устройством. Эти параметры можно изменить в настройках.</string>
     <string name="vision_settings_suggestion_title">Размер шрифта</string>
     <string name="vision_settings_title">Настройки спец. возможностей</string>
+    <string name="voice_access">Голосовое управление</string>
     <string name="voice_assist">Mi AI</string>
     <string name="voice_category">Речь</string>
     <string name="voice_helper_title">Голосовой помощник</string>

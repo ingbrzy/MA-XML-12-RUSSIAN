@@ -812,6 +812,11 @@
   <string name="choose_gs_show_way">Ориентация рабочего стола</string>
   <string name="clean_immediately">Очистить</string>
   <string name="clean_master_icon_recall_button_text">Добавить</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Отмена</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Добавить</string>
+  <string name="clean_master_icon_recall_dialog_summary">Добавьте ярлык на рабочий стол для очистки корзины в любое время</string>
+  <string name="clean_master_icon_recall_dialog_title">Быстрая очистка</string>
+  <string name="clean_master_icon_recall_hint">Добавить ярлык на рабочий стол</string>
   <string name="clean_master_icon_recall_summary">Добавление ярлыка для Очистки на рабочий стол</string>
   <string name="clean_master_icon_recall_title">Очистка</string>
   <string name="clean_master_icon_recall_toast_text">Ярлык добавлен на рабочий стол</string>
@@ -1483,6 +1488,10 @@
   <string name="gb_game_video_type_manual_record">Запись вручную</string>
   <string name="gb_get_gift_right_now">Отметиться</string>
   <string name="gb_global_settings">Общие настройки</string>
+  <string name="gb_gpu_driver_btn_update">Проверить</string>
+  <string name="gb_gpu_driver_update">Обновление GPU драйвера</string>
+  <string name="gb_gpu_driver_update_app">Обновить</string>
+  <string name="gb_gpu_driver_update_app_tips">Версия актуальна</string>
   <string name="gb_have_signed">Отметились сегодня</string>
   <string name="gb_manual_record_dialog_del_video_message">Удалить выбранные видео?</string>
   <string name="gb_msg_completely_shielded">Скрыть сообщения</string>
@@ -1530,9 +1539,7 @@
   <string name="gb_xunyou_gift_type_one">Ускорение Xunyou на 1 день</string>
   <string name="gb_xunyou_gift_type_three">Ускорение Xunyou на 3 дня</string>
   <string name="gb_xunyou_gift_type_two">Ускорение Xunyou на 2 дня</string>
-  <string name="gdpr_msg">
-  <Data>Для использования основных функций приложения Безопасность вы должны разрешить Xiaomi сбор, обработку и использование ваших личных данных, включая информацию об использовании функций приложения (например, статистика мобильного трафика, информация о вредоносном ПО, информация об устройстве) и другую информацию, указанную в нашей Политике конфиденциальности.</Data>
-  </string>
+  <string name="gdpr_msg"><Data>Для возможности обнаружения угроз безопасности и защиты ваших данных, нам необходимо собрать информацию о вашем устройстве. Перед использованием наших сервисов прочтите и примите Политику конфиденциальности. В случае отказа предоставить необходимую информацию, вы все равно сможете использовать это приложение, но некоторые функции будут недоступны.</Data></string>
   <string name="get_sys_info">Получение данных…</string>
   <string name="gigabyteShort"> ГБ</string>
   <string name="global_wa_setting_alert_dialog_content">Можно освободить %s</string>
@@ -3662,6 +3669,7 @@
   <string name="vtb_func_frc_title">Сглаживание движения</string>
   <string name="vtb_func_vpp_desc4">Функция не будет работать, если разрешение видео выше 4K.</string>
   <string name="vtb_func_vpp_title">Улучшенные контуры</string>
+  <string name="vtb_function_video_translation">Трансляция в реальном времени</string>
   <string name="vtb_other_milink_connect">Не удалось начать трансляцию. Идет другая трансляция…</string>
   <string name="vtb_stop_milink_connect">Остановка трансляции</string>
   <string name="wakepath_confirm_start_activity">Разрешить %1$s запуск %2$s?</string>
