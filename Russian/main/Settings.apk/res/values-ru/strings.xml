@@ -214,7 +214,7 @@
     <string name="accessibility_vibration_intensity_off">Отключена</string>
     <string name="accessibility_vibration_settings_title">Вибрация</string>
     <string name="accessibility_vibration_summary">Вызовы: %1$s; уведомления: %2$s; касания: %3$s</string>
-    <string name="accessibility_vibration_summary_high">Cильная вибрация при входящих вызовах и уведомлениях</string>
+    <string name="accessibility_vibration_summary_high">Сильная вибрация при входящих вызовах и уведомлениях</string>
     <string name="accessibility_vibration_summary_low">Слабая вибрация при входящих вызовах и уведомлениях</string>
     <string name="accessibility_vibration_summary_medium">Средняя вибрация при входящих вызовах и уведомлениях</string>
     <string name="accessibility_vibration_summary_off">Вибрация при входящих вызовах и уведомлениях отключена</string>
@@ -370,7 +370,7 @@
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="allow_oaid_used">Использовать виртуальный ID</string>
-    <string name="allow_oaid_used_desc">MIUI не будет предоставлять виртуальный ID (OAID) установленным приложениям. Некоторые функции, связанные с персонализированными рекомендациями могут работать неправильно.</string>
+    <string name="allow_oaid_used_desc">MIUI не будет предоставлять виртуальный ID (OAID) установленным приложениям. Некоторые функции, связанные с персонализированными рекомендациями, могут работать неправильно.</string>
     <string name="allow_overlay_description">Элементы интерфейса будут отображаться поверх других окон. Это может мешать работе с приложениями или искажать их интерфейс.</string>
     <string name="allow_sound_title">Звук</string>
     <string name="allow_vibrate_title">Вибрация</string>
@@ -401,7 +401,7 @@
     <string name="android_beam_tips">Совместите задние панели устройств и коснитесь экрана. Передаваемые данные зависят от приложения.</string>
     <string name="android_beam_witch_label">Включить Android Beam</string>
     <string name="android_version_pending_update_summary">Доступно обновление</string>
-    <string name="android_version_summary">Обновлено до  Android %1$s</string>
+    <string name="android_version_summary">Обновлено до Android %1$s</string>
     <string name="angle_enabled_app">Выбрать приложение с поддержкой ANGLE</string>
     <string name="angle_enabled_app_not_set">Приложение с поддержкой ANGLE не выбрано</string>
     <string name="angle_enabled_app_set">Приложение с поддержкой ANGLE: %1$s</string>
@@ -1544,7 +1544,7 @@
     <string name="cloud_backup_section_title">Резервное копирование в Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Настройки резервного копирования</string>
     <string name="cloud_category_text">Облако</string>
-    <string name="cloud_restore_section_summary">Восстановление настроек системы,  рабочего стола и приложений</string>
+    <string name="cloud_restore_section_summary">Восстановление настроек системы, рабочего стола и приложений</string>
     <string name="cloud_restore_section_summary_new">Резервное копирование настроек системы, рабочего стола, приложений и других данных</string>
     <string name="cloud_restore_section_title">Восстановление из Xiaomi Cloud</string>
     <string name="cloud_restore_section_title_new">В Xiaomi Cloud</string>
@@ -1576,7 +1576,7 @@
     <string name="color_led_incall_pulse_title">Мигать при входящих вызовах</string>
     <string name="color_led_lucky_dialog_message">Эта функция требует включения помощника Красных конвертов. Включить сейчас?</string>
     <string name="color_led_lucky_dialog_title">Включение помощника</string>
-    <string name="color_led_music_mode_summary">"Cветовые эффекты при воспроизведении музыки. Не работает в беззвучном режиме."</string>
+    <string name="color_led_music_mode_summary">Световые эффекты при воспроизведении музыки. Не работает в беззвучном режиме.</string>
     <string name="color_led_music_mode_title">Использовать при воспроизведении музыки</string>
     <string name="color_led_notification_pulse_title">Мигать при уведомлениях, когда экран выключен</string>
     <string name="color_led_red_more_feature">Спецэффекты</string>
@@ -2076,8 +2076,8 @@
     <string name="device_admin_add_title">Администратор устройства</string>
     <string name="device_admin_settings_title">Настройки администратора устройства</string>
     <string name="device_admin_status">Администратор устройства для приложения \"%1$s\" включен и разрешает выполнять следующие операции:</string>
-    <string name="device_admin_warning">Активация администратора устройства для приложения  \"%1$s\" разрешит выполнять следующие операции:</string>
-    <string name="device_admin_warning_simplified">Приложение  \"%1$s\" будет управлять устройством и контролировать его.</string>
+    <string name="device_admin_warning">Активация администратора устройства для приложения \"%1$s\" разрешит выполнять следующие операции:</string>
+    <string name="device_admin_warning_simplified">Приложение \"%1$s\" будет управлять устройством и контролировать его.</string>
     <string name="device_available_memory">"Доступно "</string>
     <string name="device_battery">Батарея</string>
     <string name="device_build_id">Номер сборки</string>
@@ -2165,7 +2165,7 @@
 Для устранения проблемы остановите приложение.
 
 Если это не поможет, удалите его."</string>
-    <string name="dialog_stop_message_wakeup_alarm">"Заряд батареи расходуется слишком быстро,  приложение %1$s часто выводит устройство из спящего режима.
+    <string name="dialog_stop_message_wakeup_alarm">"Заряд батареи расходуется слишком быстро, приложение %1$s часто выводит устройство из спящего режима.
 
 Для устранения проблемы остановите приложение %1$s.
 
@@ -2358,7 +2358,7 @@
     <string name="dual_wifi_summary">Ускорение Wi-Fi с помощью подключения к вспомогательным сетям</string>
     <string name="dual_wifi_switching_not_remind">Больше не показывать</string>
     <string name="dual_wifi_switching_prompt">Переключение между сетями</string>
-    <string name="dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети, вспомогательная сеть будет отключена.</string>
+    <string name="dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети вспомогательная сеть будет отключена.</string>
     <string name="dump_log">Сбор журналов проблем</string>
     <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Альфа и Бета версиях MIUI. Используйте ее с осторожностью.
 Вы можете просмотреть созданные журналы в Проводнике."</string>
@@ -2378,7 +2378,7 @@
     <string name="edge_mode_screenshot_summary">Для скриншота коснитесь дважды обоих кромок экрана</string>
     <string name="edge_mode_state_summary">Область на кромках экрана не будет реагировать на касания</string>
     <string name="edge_mode_state_title">Игнорировать случайные касания</string>
-    <string name="edge_to_edge_navigation_summary">Для перехода на рабочий стол, проведите по экрану снизу вверх. Для переключения между приложениями, проведите по экрану снизу вверх, задержите палец и отпустите. Для возврата назад, проведите по экрану влево или вправо..</string>
+    <string name="edge_to_edge_navigation_summary">Для перехода на рабочий стол, проведите по экрану снизу вверх. Для переключения между приложениями, проведите по экрану снизу вверх, задержите палец и отпустите. Для возврата назад, проведите по экрану влево или вправо.</string>
     <string name="edge_to_edge_navigation_title">Жесты навигации</string>
     <string name="edit_rule">Изменение расписания</string>
     <string name="edit_rules">Изменить</string>
@@ -2457,7 +2457,7 @@
     <string name="encryption_interstitial_message_pattern_for_fingerprint">"Помимо графического ключа вы можете использовать для разблокировки отпечаток. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать графический ключ при включении?"</string>
-    <string name="encryption_interstitial_message_pin">"Вы можете задать PIN-код для разблокировки. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.. 
+    <string name="encryption_interstitial_message_pin">"Вы можете задать PIN-код для разблокировки. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны. 
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать PIN-код при включении?"</string>
     <string name="encryption_interstitial_message_pin_for_face">"Помимо PIN-кода вы можете использовать разблокировку по лицу. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.
@@ -2704,7 +2704,7 @@
     <string name="fingerprint_unlock_set_unlock_pattern">Отпечатки пальцев и графический ключ</string>
     <string name="fingerprint_unlock_set_unlock_pin">Отпечатки пальцев и PIN-код</string>
     <string name="fingerprint_unlock_skip_fingerprint">Продолжить без настройки отпечатка</string>
-    <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка пальца. В целях безопасности вам нужно будет  установить PIN-код, графический ключ или пароль.</string>
+    <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка пальца. В целях безопасности вам нужно будет установить PIN-код, графический ключ или пароль.</string>
     <string name="fingerprint_unlock_touch_type">Касание</string>
     <string name="fingerprint_unlock_type">Метод распознавания отпечатков</string>
     <string name="fingerprint_usage_category_title">Для чего использовать</string>
@@ -2855,7 +2855,7 @@
     <string name="full_transparent_smarrcover_title">Прозрачная</string>
     <string name="fullbackup_data_summary">"Автоматическое копирование данных устройства (например, паролей Wi-Fi и журнала вызовов) и данных приложений (например, настроек и файлов приложений) на серверы.
 
-После включения резервного копирования, данные будут периодически сохраняться на серверах. Обратите внимание, данные приложений могут включать конфиденциальную информацию: контакты, сообщения, фотографии и другие сведения, сохраненные приложением на устройстве согласно настройкам разработчика."</string>
+После включения резервного копирования данные будут периодически сохраняться на серверах. Обратите внимание, данные приложений могут включать конфиденциальную информацию: контакты, сообщения, фотографии и другие сведения, сохраненные приложением на устройстве согласно настройкам разработчика."</string>
     <string name="fullbackup_erase_dialog_message">Резервное копирование данных устройства (пароли Wi-Fi, журнал вызовов и др.) и данных приложений (настройки, файлы приложений и др.) будет отключено. Резервные копии на серверах будут удалены. Продолжить?</string>
     <string name="function_description">О функции</string>
     <string name="gadget_picker_title">Выбор гаджета</string>
@@ -3112,7 +3112,7 @@
     <string name="how_backup_content">"Доступно 3 вида резервных копий: 
 
 • Локальные резервные копии.
-Локальные резервные копии позволяют сохранять настройки системы, аккаунты, приложения и их данные, и другие данные на устройстве (MIUI/backup/AllBackup). После создания резервной копии, вы можете перенести ее на компьютер через USB-кабель.
+Локальные резервные копии позволяют сохранять настройки системы, аккаунты, приложения и их данные, и другие данные на устройстве (MIUI/backup/AllBackup). После создания резервной копии вы можете перенести ее на компьютер через USB-кабель.
 
 Примечание:
 Можно использовать Mi PC Suite для создания резервных копий и восстановления из них.
@@ -4263,7 +4263,7 @@
     <string name="navigation_guide_dialog_title">Жесты навигации</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Новый жест переключения между приложениями будет доступен после скрытия полосы навигации в полноэкранном режиме. Ознакомиться с жестом?</string>
     <string name="navigation_guide_gesture_line_dialog_title">Новый жест</string>
-    <string name="navigation_guide_hide_gesture_line_summary">Не показывать полосу навигации в полнокранном режиме при использовании жестов</string>
+    <string name="navigation_guide_hide_gesture_line_summary">Не показывать полосу навигации в полноэкранном режиме при использовании жестов</string>
     <string name="navigation_guide_hide_gesture_line_title">Скрыть полосу навигации</string>
     <string name="navigation_guide_home_summary">Проведите по экрану снизу вверх</string>
     <string name="navigation_guide_home_title">Возврат на рабочий стол</string>
@@ -5911,7 +5911,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_face_settings_enroll">Настройка разблокировки по лицу</string>
     <string name="security_settings_face_settings_footer">"Используйте распознавание по лицу для разблокировки, входа в приложения и подтверждения платежей.
 
-Имейте ввиду:
+Внимание:
 Вы можете случайно разблокировать устройство взглядом на экран.
 
 Устройство может быть разблокировано кем-то другим, если оно поднесено к вашему лицу, когда открыты глаза.
@@ -6097,7 +6097,7 @@ UT-интерфейс: %5$s"</string>
     <string name="show_network_speed_title">Скорость сети</string>
     <string name="show_non_rect_clip">Отладка операций усечения</string>
     <string name="show_notification_channel_warnings">Канал уведомлений</string>
-    <string name="show_notification_channel_warnings_summary">Показывать предупреждение о уведомлениях приложения вне допустимого канала</string>
+    <string name="show_notification_channel_warnings_summary">Показывать предупреждение об уведомлениях приложения вне допустимого канала</string>
     <string name="show_notification_icon_title">Значки уведомлений</string>
     <string name="show_operator_name_summary">Название сети в строке состояния</string>
     <string name="show_operator_name_title">Название сети</string>
@@ -7835,7 +7835,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_hotspot_off_subtext">Нет доступа к интернет-подключению через точку доступа</string>
     <string name="wifi_hotspot_on_local_only_subtext">Открыт доступ к контенту приложения. Чтобы поделиться интернет-соединением, отключите и снова включите точку доступа.</string>
     <string name="wifi_hotspot_password_title">Пароль точки доступа</string>
-    <string name="wifi_hotspot_tethering_on_subtext">Доступно к интернет-подключение через точку доступа</string>
+    <string name="wifi_hotspot_tethering_on_subtext">Доступно интернет-подключение через точку доступа</string>
     <string name="wifi_hotspot_title">Войти и подключить?</string>
     <string name="wifi_in_airplane_mode">Режим полета</string>
     <string name="wifi_info_reconnect">Ошибка подключения, повторите попытку.</string>
@@ -7852,7 +7852,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_limit_optimizations_summary">Лимит расхода батареи (Wi-Fi)</string>
     <string name="wifi_limited_connection">Подключение к сети ограничено</string>
     <string name="wifi_link_turbo">Увеличение скорости подключения</string>
-    <string name="wifi_link_turbo_app_settings_summary">Выберите приложения для которых будет доступна эта функция</string>
+    <string name="wifi_link_turbo_app_settings_summary">Выберите приложения, для которых будет доступна эта функция</string>
     <string name="wifi_link_turbo_app_settings_title">Выбор приложений</string>
     <string name="wifi_link_turbo_customize">Выбранные приложения</string>
     <string name="wifi_link_turbo_customize_summary">Выберите приложения, которые будут работать с помощником WLAN в соответствии с индивидуальными настройками</string>
@@ -8287,7 +8287,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_bypassing_apps">Разрешить приложениям переопределять режим</string>
     <string name="zen_mode_bypassing_apps_title">Исключения приложений</string>
     <string name="zen_mode_calls">Вызовы</string>
-    <string name="zen_mode_calls_footer">Чтобы не пропустить нужные вызовы, убедитесь что включен звук или вибрация</string>
+    <string name="zen_mode_calls_footer">Чтобы не пропустить нужные вызовы, убедитесь, что включен звук или вибрация</string>
     <string name="zen_mode_calls_summary_one">Разрешить от %1$s</string>
     <string name="zen_mode_calls_summary_two">Разрешить от %1$s и %2$s</string>
     <string name="zen_mode_calls_title">Вызовы</string>
@@ -8335,7 +8335,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_media">Воспроизведение медиа</string>
     <string name="zen_mode_media_list">медиа</string>
     <string name="zen_mode_messages">Сообщения</string>
-    <string name="zen_mode_messages_footer">Чтобы не пропустить нужные сообщения, убедитесь что включен звук или вибрация</string>
+    <string name="zen_mode_messages_footer">Чтобы не пропустить нужные сообщения, убедитесь, что включен звук или вибрация</string>
     <string name="zen_mode_messages_title">SMS, MMS и мессенджеры</string>
     <string name="zen_mode_miui_silent_category">Разрешить</string>
     <string name="zen_mode_no_exceptions">Нет</string>

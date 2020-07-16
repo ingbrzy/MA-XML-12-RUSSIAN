@@ -7,7 +7,7 @@
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">Запрос разблокировки PUK не выполнен</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_IN_PROGRESS">Запрос разблокировки PUK…</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_SUCCESS">Блокировка PUK успешно снята</string>
-  <string name="PERSOSUBSTATE_RUIM_CORPORATE_SUCCESS">Блокировка  корпоративной RUIM успешно снята</string>
+  <string name="PERSOSUBSTATE_RUIM_CORPORATE_SUCCESS">Блокировка корпоративной RUIM успешно снята</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_ENTRY">PIN разблокировки RUIM hrpd</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_ERROR">Запрос разблокировки RUIM Hrpd не выполнен</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_IN_PROGRESS">Запрос разблокировки RUIM hrpd…</string>
@@ -416,7 +416,7 @@
   <string name="callFailed_already_dialing">Невозможно выполнить вызов, так как еще не завершен другой исходящий вызов.</string>
   <string name="callFailed_already_ringing">Невозможно выполнить вызов, так как есть неотвеченный входящий вызов. Примите или отклоните его.</string>
   <string name="callFailed_bearer_capability_not_authorized">Услуги переноса данных не авторизованы </string>
-  <string name="callFailed_bearer_capability_unavailable">Услуги переноса данных  в настоящее время недоступны</string>
+  <string name="callFailed_bearer_capability_unavailable">Услуги переноса данных в настоящее время недоступны</string>
   <string name="callFailed_bearer_service_not_implemented">Услуги переноса данных не реализованы</string>
   <string name="callFailed_call_rejected">Вызов отклонен</string>
   <string name="callFailed_calling_disabled">Невозможно выполнить вызов, так как вызовы запрещены системным свойством ro.telephony.disable-call.</string>
@@ -500,7 +500,7 @@
   <string name="callFailed_userBusy">Линия занята</string>
   <string name="callFailed_user_not_member_of_CUG">Пользователь не участник CUG</string>
   <string name="callFailed_video_call_tty_enabled">Когда телетайп включен, видеозвонки недоступны.</string>
-  <string name="callFailed_wfc_service_not_available_in_this_location">Wi-Fi  вызовы недоступны</string>
+  <string name="callFailed_wfc_service_not_available_in_this_location">Wi-Fi вызовы недоступны</string>
   <string name="callFailed_wifi_lost">Подключение к Wi-Fi потеряно. Вызов завершен.</string>
   <string name="callUnanswered_forwarded">Вызов пропущен и переадресован</string>
   <string name="call_advanced_setting_title">Расширенные настройки</string>
@@ -680,7 +680,7 @@
   <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">Ошибка вызова (ACM >= ACMmax)</string>
   <string name="clh_callFailed_access_information_discarded_txt">Отказ в доступе к информации</string>
   <string name="clh_callFailed_bearer_capability_not_authorized_txt">Услуги переноса данных не авторизованы</string>
-  <string name="clh_callFailed_bearer_capability_not_presently_available_txt">Услуги переноса данных  в настоящее время недоступны</string>
+  <string name="clh_callFailed_bearer_capability_not_presently_available_txt">Услуги переноса данных в настоящее время недоступны</string>
   <string name="clh_callFailed_bearer_service_not_implemented_txt">Услуги переноса данных не реализованы</string>
   <string name="clh_callFailed_call_rejected_txt">Вызов отклонен</string>
   <string name="clh_callFailed_channel_unacceptable_txt">Недопустимый канал</string>
@@ -1200,6 +1200,17 @@
   <string name="ivr_type_settings">Настройки тарифа</string>
   <string name="ivr_type_settings_hint">Введите код вашего тарифа</string>
   <string name="jump_to_mobile_network_setting">Настройки мобильной сети</string>
+  <string name="kddi_sim_lock_status_allowed">Разрешено</string>
+  <string name="kddi_sim_lock_status_code">Код</string>
+  <string name="kddi_sim_lock_status_default_code">-</string>
+  <string name="kddi_sim_lock_status_no_sim">Нет SIM-карты</string>
+  <string name="kddi_sim_lock_status_not_allowed">Не поддерживается</string>
+  <string name="kddi_sim_lock_status_open_wifi_warning">Требуется подключение к Wi-Fi</string>
+  <string name="kddi_sim_lock_status_status">Статус</string>
+  <string name="kddi_sim_lock_status_title">Статус SIM-карты</string>
+  <string name="kddi_sim_lock_status_update">Обновление статуса SIM-карты</string>
+  <string name="kddi_sim_lock_status_update_fail">Ошибка обновления</string>
+  <string name="kddi_sim_lock_status_update_success">Успешно обновлено</string>  
   <string name="keep_screen_on">Не выключать экран</string>
   <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
   <string name="keywords_carrier_settings_euicc">оператор, esim, sim, euicc</string>
@@ -1805,7 +1816,7 @@
   <string name="preferred_network_mode_nr_lte_tdscdma_summary">Предпочтительный режим: NR/LTE/TDSCDMA</string>
   <string name="preferred_network_mode_nr_lte_tdscdma_wcdma_summary">Предпочтительный режим: NR/LTE/TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_nr_lte_wcdma_summary">Предпочтительный режим: NR/LTE/WCDMA</string>
-  <string name="preferred_network_mode_nr_only_summary">Предпочтительный режим: NR only</string>
+  <string name="preferred_network_mode_nr_only_summary">Предпочтительный режим: только NR</string>
   <string name="preferred_network_mode_summary">Изменение режима работы сети</string>
   <string name="preferred_network_mode_td_scdma_gsm_choice">TD-SCDMA/GSM</string>
   <string name="preferred_network_mode_td_scdma_gsm_lte_choice">TD-SCDMA/GSM/LTE</string>
