@@ -394,7 +394,7 @@
     <string name="system_permission_purpose">Будильники, секундомер, таймеры, часы</string>
     <string name="system_time_setting">Настройки</string>
     <string name="system_time_settings_category_title">Дата и время</string>
-    <string name="temperature_unit">%1$s°</string>
+    <string name="temperature_unit">℃</string>
     <string name="time">Время</string>
     <string name="time_picker_colon">:</string>
     <string name="time_picker_label_hour">Ч</string>
@@ -404,7 +404,7 @@
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Нажмите для отключения сигнала</string>
     <string name="timer_alarm_dot_matrix_label">ТАЙМЕР</string>
-    <string name="timer_alert_alert_silenced">Сигнал звучал %d мин.</string>
+    <string name="timer_alert_alert_silenced">Сигнал звучал %1$s</string>
     <string name="timer_alert_mute_off">Сигнал будет звучать по окончании времени</string>
     <string name="timer_alert_mute_on">Сигнал не будет звучать по окончании времени</string>
     <string name="timer_alert_mute_remind">Отключить сигнал</string>

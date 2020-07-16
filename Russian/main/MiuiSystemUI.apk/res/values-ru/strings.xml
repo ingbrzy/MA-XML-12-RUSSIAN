@@ -404,10 +404,10 @@
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
     <string name="bluetooth_active_battery_level">Активно. Уровень заряда: %1$s</string>
-    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R: %2$</string>
+    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R:%2$s</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
     <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
-    <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$</string>
+    <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
@@ -1740,7 +1740,6 @@ d MMMM"</string>
     <string name="recents_title_garbage_deepclean">Глубокая очистка</string>
     <string name="recents_title_market">Магазин приложений</string>
     <string name="recents_title_security_scan">Антивирус</string>
-    <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
     <string name="reject_call">Отклонить</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="remove_from_settings">Удалить из Настроек</string>

@@ -361,8 +361,8 @@
   <string name="expand_button_content_description_collapsed">Развернуть</string>
   <string name="expand_button_content_description_expanded">Скрыть</string>
   <string name="expires_on">Срок действия:</string>
-  <string name="ext_media_badremoval_notification_message">Перед тем как извлечь карту \"%s\", отключите ее, чтобы избежать потери данных.</string>
-  <string name="ext_media_badremoval_notification_title">Карта \"%s\" извлечена неправильно</string>
+  <string name="ext_media_badremoval_notification_message">Перед тем как извлечь карту, отключите ее, чтобы избежать потери данных.</string>
+  <string name="ext_media_badremoval_notification_title">Карта \"%s\" неожиданно извлечена</string>
   <string name="ext_media_browse_action">Обзор</string>
   <string name="ext_media_checking_notification_message">Поиск ошибок</string>
   <string name="ext_media_checking_notification_title">Подготовка карты \"%s\"…</string>
@@ -375,9 +375,9 @@
   <string name="ext_media_move_success_message">Перенос данных сюда: %s</string>
   <string name="ext_media_move_success_title">Перенос завершен</string>
   <string name="ext_media_move_title">Перенос данных</string>
-  <string name="ext_media_new_notification_message">Обнаружена новая карта \"%s\"</string>
+  <string name="ext_media_new_notification_message">Нажмите для настройки</string>
   <string name="ext_media_new_notification_title">Новый накопитель: %s.</string>
-  <string name="ext_media_nomedia_notification_message">Карта \"%s\" извлечена. Вставьте другую.</string>
+  <string name="ext_media_nomedia_notification_message">Некоторые функции могут работать неправильно. Вставьте другой накопитель.</string>
   <string name="ext_media_nomedia_notification_title">Карта \"%s\" извлечена</string>
   <string name="ext_media_ready_notification_message">Нажмите для переноса фотографий и других файлов</string>
   <string name="ext_media_seamless_action">Сменить устройство вывода</string>
@@ -393,7 +393,7 @@
   <string name="ext_media_status_unmounted">Извлечено</string>
   <string name="ext_media_status_unsupported">Не поддерживается</string>
   <string name="ext_media_unmount_action">Извлечь</string>
-  <string name="ext_media_unmountable_notification_message">%s: носитель поврежден. Нажмите, чтобы устранить неполадки.</string>
+  <string name="ext_media_unmountable_notification_message">Нажмите для устранения неполадок</string>
   <string name="ext_media_unmountable_notification_title">%s не работает</string>
   <string name="ext_media_unmounting_notification_message">Не извлекать</string>
   <string name="ext_media_unmounting_notification_title">Извлечение карты \"%s\"…</string>
