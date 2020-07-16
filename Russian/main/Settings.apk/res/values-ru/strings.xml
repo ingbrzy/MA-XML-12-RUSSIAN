@@ -1639,7 +1639,7 @@
     <string name="condition_work_title">Рабочий профиль отключен</string>
     <string name="condition_zen_summary_phone_muted">Все звуки отключены</string>
     <string name="condition_zen_summary_with_exceptions">Есть исключения</string>
-    <string name="condition_zen_title">Уведомления отключены (%1$s)</string>
+    <string name="condition_zen_title">Режим \"Не беспокоить\" включен</string>
     <string name="config_account_intent_uri" />
     <string name="config_backup_settings_intent" />
     <string name="config_backup_settings_label" />
@@ -4033,7 +4033,7 @@
     <string name="miui_sos_emergency_contacts">Экстренные контакты</string>
     <string name="miui_sos_emergency_delete">Удалить</string>
     <string name="miui_sos_emergency_delivered_sms" formatted="false">Сообщение доставлено %1s (%2s) </string>
-    <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1s</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1$s</string>
     <string name="miui_sos_emergency_failed_sms" formatted="false">Не удалось отправить сообщение %1s (%2s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Не удалось отправить сообщение для %1s</string>
     <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки экстренным контактам сообщения SOS с вашим местоположением</string>
@@ -6875,7 +6875,7 @@ UT-интерфейс: %5$s"</string>
     <string name="tts_engine_section_title">Синтез речи</string>
     <string name="tts_engine_security_warning">Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?</string>
     <string name="tts_engine_settings_button">Настройки синтеза речи</string>
-    <string name="tts_engine_settings_title">%s</string>
+    <string name="tts_engine_settings_title">Настройки</string>
     <string name="tts_general_section_title">Основные настройки</string>
     <string name="tts_install_data_summary">Установить голосовые данные, необходимые для синтеза речи</string>
     <string name="tts_install_data_title">Установка голосовых данных</string>
