@@ -285,6 +285,7 @@
     <string name="already_download">已下载</string>
     <string name="am">AM</string>
     <string name="amount_ten_million_format">%s万</string>
+    <string name="analytics_version_name">2.8.18</string>
     <string name="angle">deg</string>
     <string name="animatable_view_tag">animatable_view_tag</string>
     <string name="anniversary_of_lifting_martial_law">解严纪念日</string>
@@ -296,6 +297,7 @@
     <string name="appIndex_authority">com.android.quicksearchbox.appIndex</string>
     <string name="app__shared__build_name">DkReader</string>
     <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
+    <string name="app_bugly_id">e5f6fa4ff3</string>
     <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_manager_power_consume">%.1f%%</string>
     <string name="app_name_danfa">@string/app_name</string>
@@ -444,11 +446,16 @@
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
     <string name="burst_transition_image_view">photo_view_burst</string>
+    <string name="cache_db_name">app_icons.db</string>
     <string name="call_manager_summary">%1$s</string>
     <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="cannot_get_download_url">获取不到安全服务下载地址</string>
+    <string name="car_ui_dialog_preference_negative">@android:string/cancel</string>
+    <string name="car_ui_dialog_preference_positive">@android:string/ok</string>
+    <string name="car_ui_direct_manipulation">android.rotary.DIRECT_MANIPULATION</string>
+    <string name="car_ui_ellipsis">…</string>
     <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_title_somewhere">%1$s</string>
@@ -971,6 +978,7 @@
     <string name="config_nearby_devices_slice_uri">content://com.google.android.gms.nearby.fastpair/device_status_list_item</string>
     <string name="config_package_installer_package_name">com.android.packageinstaller</string>
     <string name="config_ptp_function_name">ptp</string>
+    <string name="config_schedules_provider_caller_package">com.android.settings</string>
     <string name="config_settingsintelligence_package_name">com.android.settings.intelligence</string>
     <string name="config_simUnlockUiClass">@null</string>
     <string name="config_simUnlockUiPackage">@null</string>
@@ -1621,6 +1629,7 @@
     <string name="item_lucky_alarm_has_been_closed"> </string>
     <string name="item_resource_audio_divider">│</string>
     <string name="jia_zi">甲子</string>
+    <string name="joox_privacy_policy_url">http://www.tencent.com/en-us/privacy-policy.html</string>
     <string name="junk_tag_big_file_from_name_fmt">%s</string>
     <string name="kakalib_bar_qr_code">条形码·二维码</string>
     <string name="kakalib_ok">确定</string>
@@ -1641,6 +1650,7 @@
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyword_recommend">推荐您</string>
+    <string name="keywords_adb_wireless">adb, debug, dev</string>
     <string name="ks_key_download_button">ks_key_download_button</string>
     <string name="ks_key_status">ks_key_status</string>
     <string name="ks_key_udpate_time">ks_key_udpate_time</string>
@@ -1658,6 +1668,8 @@
     <string name="language_value_spanish">spanish</string>
     <string name="lantern_festival">元宵节</string>
     <string name="lantern_festival_tradition">元宵節</string>
+    <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+    <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_playback_time_separator">/</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="leto_abort_underline">&lt;u&gt;&amp;#25918; &amp;#24323;&lt;/u&gt;</string>
