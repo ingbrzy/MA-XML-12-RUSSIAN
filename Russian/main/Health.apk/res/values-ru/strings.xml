@@ -197,7 +197,7 @@
     <string name="current_phone">Это устройство</string>
     <string name="custom_scheme">Настроить</string>
     <string name="custom_scheme_tip">Пользовательские время и частота</string>
-    <string name="cycle">Езда на велосипеде</string>
+    <string name="cycle">Велосипед</string>
     <string name="daily_consumption_label">Калории</string>
     <string name="daily_distance_label">Расстояние</string>
     <string name="daily_reminders">Ежедневные напоминания</string>
@@ -382,7 +382,7 @@ ID:%s
 Вы можете выбрать другой источник данных в Настройки &gt; Источники данных."</string>
     <string name="exercise_duration">Длительность</string>
     <string name="exercise_duration_consume">Длительность: %1$s | Сожжено: %2$s</string>
-    <string name="exercise_fast_description">%1$s (%2$s)</string>
+    <string name="exercise_fast_description">%1$s (%2$s)</string>
     <string name="exercise_goal">Цель активности</string>
     <string name="exercise_goal_accomplished">Цель достигнута</string>
     <string name="exercise_goal_lack_exercise">Недостаточная активность</string>
@@ -431,7 +431,7 @@ ID:%s
     <string name="falling_duration_hard_description">"Засыпание - период с момента отхода ко сну до полного засыпания. Если вам требуется более 30 минут, чтобы заснуть, это может быть признаком бессонницы.
 Постарайтесь уменьшить факторы, мешающие засыпанию. Пейте меньше кофе; не нагружайте свою нервную систему визуально и эмоционально просмотром видео или чтением перед сном; место сна должно быть темным, тихим и удобным. Если эти меры не помогают, обратитесь к врачу."</string>
     <string name="falling_duration_normal_description">Засыпание - период с момента отхода ко сну до полного засыпания. Знание того, как быстро вы засыпаете, важно для лечения бессонницы и других нарушений сна.</string>
-    <string name="fast">Быстрый</string>
+    <string name="fast">быстро</string>
     <string name="fat_rate">Жир</string>
     <string name="fat_rate_descripe_content">Процент жира в организме - доля жира в общей массе тела.</string>
     <string name="feedback_need_permission_msg">Разрешите приложению Здоровье доступ к памяти устройства для создания журналов, используемых в отчетах.</string>
@@ -593,7 +593,7 @@ ID:%s
     <string name="measure_time">Время измерения</string>
     <string name="medical_file_desc1">Информация для экстренной помощи в чрезвычайной ситуации</string>
     <string name="medical_file_desc2">Данные о здоровье и контакты на случай чрезвычайной ситуации</string>
-    <string name="medical_file_desc3">Xiaomi Health уважает вашу конфиденциальность и будет хранить всю информацию локально, не собирая, не храня и не загружая ее в другое место.</string>
+    <string name="medical_file_desc3">Xiaomi Health уважает вашу конфиденциальность и будет хранить всю информацию локально, не собирая, не храня и не загружая на сервер</string>
     <string name="medical_first_aid_files">Медицинская информация</string>
     <string name="medication_and_treatment">Медикаменты и текущее лечение</string>
     <string name="medication_and_treatment_hint">Перечислите лекарства, которые вы принимаете или которые вам могут понадобиться в экстренных случаях, а также протезы, брекеты и перенесенные операции.</string>
@@ -990,7 +990,7 @@ ID:%s
     <string name="sleep_track">Отслеживание сна</string>
     <string name="sleep_turn_over_times_title">Повороты</string>
     <string name="sleep_week">Неделя</string>
-    <string name="slow">Медленный</string>
+    <string name="slow">медленно</string>
     <string name="slow2">Низкое</string>
     <string name="snore">Храп</string>
     <string name="snore_detection_abnormal_notification_button">Возобновление</string>
