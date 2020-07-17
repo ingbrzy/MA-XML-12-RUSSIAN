@@ -507,7 +507,7 @@ ID:%s
     <string name="home_tip_sync_done">Успешно синхронизировано</string>
     <string name="home_tip_sync_immediately">Некоторые данные не синхронизированы. Нажмите для синхронизации.</string>
     <string name="home_tip_syncing">Синхронизация…</string>
-    <string name="hour"> Ч</string>
+    <string name="hour"> ч.</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
     <string name="icon_content_description">Иконка диалога</string>
@@ -637,7 +637,7 @@ ID:%s
     <string name="min_low_pressure">Мин. диастолическое (нижнее)</string>
     <string name="min_pace">Минимальный темп</string>
     <string name="minimum">Минимум</string>
-    <string name="minute"> МИН</string>
+    <string name="minute"> мин.</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
@@ -981,7 +981,7 @@ ID:%s
     <string name="sleep_sober_times_title">Пробуждения</string>
     <string name="sleep_status">Статистика сна</string>
     <string name="sleep_time_edit">Редактирование</string>
-    <string name="sleep_time_standard_pattern">Норма: %1$d ч</string>
+    <string name="sleep_time_standard_pattern">Норма: %1$d ч.</string>
     <string name="sleep_tip_default">Старайтесь ложиться спать до 23:00</string>
     <string name="sleep_tip_keep_not_enough">Похоже, вы не высыпаетесь.</string>
     <string name="sleep_tip_keep_on">Кажется все отлично. Так держать!</string>
@@ -1349,14 +1349,14 @@ ID:%s
     <string name="turn_count">Поворотов</string>
     <string name="turn_on_necessary_permissions">Для контроля сна требуются разрешения.</string>
     <string name="unable_record_future_menstruation">Не удается создать запись о следующей менструации</string>
-    <string name="unit_day"> ДН </string>
-    <string name="unit_hour"> Ч </string>
-    <string name="unit_kilo_calorie"> ККАЛ</string>
-    <string name="unit_kilometre"> КМ</string>
-    <string name="unit_metre"> М</string>
-    <string name="unit_min"> МИН </string>
+    <string name="unit_day"> дн.</string>
+    <string name="unit_hour"> ч.</string>
+    <string name="unit_kilo_calorie"> ккал</string>
+    <string name="unit_kilometre"> км</string>
+    <string name="unit_metre"> м</string>
+    <string name="unit_min"> мин.</string>
     <string name="unit_number_format">%1$d</string>
-    <string name="unit_second"> С</string>
+    <string name="unit_second"> сек.</string>
     <string name="unit_thousand_format">%1$s тыс.</string>
     <string name="unknown">Неизвестно</string>
     <string name="unknown_birthday">Данных нет</string>
@@ -1389,7 +1389,7 @@ ID:%s
     <string name="weight_remind">Напоминание о взвешивании</string>
     <string name="weight_setting">Настройки взвешивания</string>
     <string name="weight_trend_offset_date">С %1$s по %2$s: </string>
-    <string name="weight_unit_kg"> КГ</string>
+    <string name="weight_unit_kg"> кг</string>
     <string name="welcome_exercise">Тренировки</string>
     <string name="welcome_exercise_description">Возьмите с собой устройство для автоматической записи ваших тренировок и активности</string>
     <string name="welcome_sedentary">Разминка</string>
