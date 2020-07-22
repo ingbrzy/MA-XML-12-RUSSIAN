@@ -1838,7 +1838,8 @@
   <string name="memory_check_content">Освобождено: %s</string>
   <string name="memory_clean_memory_size_tip">Память</string>
   <string name="memory_clean_no_need_clean">Всё в порядке</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Выгружено %s. Устройство теперь на %d%% быстрее.</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Освобождено %s. 
+Устройство теперь на %d%% быстрее.</string>
   <string name="memory_clear_unused">Память очищена (%s)</string>
   <string name="memory_title">Доступно: %1$s  Всего: %2$s</string>
   <string name="menu_add">Добавить</string>
@@ -3016,9 +3017,9 @@
   <string name="st_call_other_group">Другие вызовы</string>
   <string name="st_call_settings">Блокировка вызовов</string>
   <string name="st_call_stranger_group">Вызовы от незнакомых</string>
-  <string name="st_confirm_dialog_btn_open">OK</string>
+  <string name="st_confirm_dialog_btn_open">Блокировать</string>
   <string name="st_confirm_dialog_summary_contact_call">Все вызовы от контактов будут заблокированы.</string>
-  <string name="st_confirm_dialog_summary_oversea_call">Все вызовы из-за границы будут заблокированы.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Все вызовы с зарубежных номеров будут заблокированы.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Все вызовы от незнакомых будут заблокированы.</string>
   <string name="st_filter_keywords_setting_summary1">Сообщения с неизвестных номеров, содержащие ключевые слова, будут заблокированы.</string>
   <string name="st_filter_keywords_setting_summary2">Вы можете добавить несколько ключевых слов через запятую.</string>

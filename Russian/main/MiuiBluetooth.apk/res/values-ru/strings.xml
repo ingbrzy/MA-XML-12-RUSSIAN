@@ -81,7 +81,8 @@
   <string name="animator_duration_scale_title">Шкала продолжительности анимации</string>
   <string name="apn_settings_not_available">Настройки имени точки доступа недоступны для этого пользователя</string>
   <string name="app_name">MIUI Bluetooth</string>
-  <string name="app_process_limit_title">Предел фонового процесса</string>
+  <string name="app_process_limit_title">Ограничение фонового процесса</string>
+  <string name="audio_relay_default_device_name">Динамики XiaoAi</string>
   <string name="auto_connect_disable">Автоподключение отключено</string>
   <string name="available_via_app">Доступно через %1$s</string>
   <string name="available_via_carrier">Доступно через %1$s</string>
@@ -371,6 +372,11 @@
   <string name="managed_user_title">Корпоративные приложения</string>
   <string name="media_category">Мультимедиа</string>
   <string name="media_transfer_this_device_name">Это устройство</string>
+  <string name="mi_audio_relay_cancel">отмена</string>
+  <string name="mi_audio_relay_connect_failed">сбой</string>
+  <string name="mi_audio_relay_localphone">устройство</string>
+  <string name="mi_audio_relay_phone_name">xiaomi устройство</string>
+  <string name="mi_audio_relay_title">выбор устройства</string>  
   <string name="media_transfer_wired_device_name">Проводное аудиоустройство</string>
   <string name="mi_band_vibrate_alarm">Вибрировать при сигнале</string>
   <string name="mi_band_vibrate_incall">Вибрация при звонке</string>

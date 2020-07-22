@@ -62,6 +62,7 @@
     <string name="altitude_range">Высота</string>
     <string name="am">AM</string>
     <string name="app_name">plugin.health.analyze</string>
+    <string name="app_setting">Приложения</string>
     <string name="audio_permission_dialog_desc">Разрешение на запись аудио было отклонено, примите его.</string>
     <string name="audio_permission_dialog_title">Разрешение на запись аудио</string>
     <string name="audio_record_perm_description">Запись храпа и сна</string>
@@ -335,6 +336,7 @@ ID:%s
     <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Вы можете использовать это приложение для спортивного шагомера, отслеживания сна, менструального цикла, веса, а также для использования сервиса Xiaomi Health Cloud и других функций.</string>
     <string name="diastolic_pressure">Диастолическое</string>
     <string name="disable">Отключить</string>
+    <string name="divider">/</string>
     <string name="divider_format1">%1$s/%2$s</string>
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
@@ -493,6 +495,7 @@ ID:%s
     <string name="health_cloud_service">Облачные сервисы</string>
     <string name="health_data_cloud_sync_subtitle">Синхронизируйте данные о состоянии здоровья с облаком для доступа к ним с любого устройства</string>
     <string name="health_data_cloud_sync_title">Синхронизация с облаком</string>
+    <string name="health_data_sync">Синхронизация данных</string>
     <string name="health_score">Оценка состояния здоровья</string>
     <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="health_setting">Настройки</string>
@@ -641,6 +644,7 @@ ID:%s
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
+    <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
@@ -1108,6 +1112,7 @@ ID:%s
     <string name="sustain_title">"Вы не двигались "</string>
     <string name="swim">Плавание</string>
     <string name="swim_type">Стиль</string>
+    <string name="sync_health_data">Синхронизация данных</string>
     <string name="sync_immediately">Начать</string>
     <string name="sync_is_not_closed">Синхронизация включена</string>
     <string name="sync_is_off">Синхронизация отключена</string>
@@ -1118,8 +1123,12 @@ ID:%s
     <string name="sync_status_network_failure">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
     <string name="sync_status_never_done">Не синхронизировано</string>
     <string name="sync_status_oauth_error">Не удалось синхронизировать. Предоставьте сначала необходимые разрешения.</string>
+    <string name="system_app_setting">Настройки</string>
     <string name="systolic_pressure">Систолическое</string>
     <string name="tb_audio_progress_bar">Панель воспроизведения звука</string>
+    <string name="tb_blood_pressure_day_chart">%1$s. Макс. систолическое давление: %2$d мм рт.ст. | Мин. систолическое давление: %3$d мм рт.ст.</string>
+    <string name="tb_blood_pressure_item">%1$s. Систолическое давление: %2$d мм рт.ст. | Диастолическое давление: %3$d мм рт.ст.</string>
+    <string name="tb_blood_pressure_wm_card">Средн. систолическое давление: %1$d мм рт.ст. | Средн. диастолическое давление: %2$d мм рт.ст. | Макс. систолическое давление: %3$d мм рт.ст. | Макс. диастолическое давление: %4$d мм рт.ст. | Мин. систолическое давление: %5$d мм рт.ст. | Мин. диастолическое давление: %6$d мм рт.ст.</string>
     <string name="tb_card_on_using_list">Добавлено</string>
     <string name="tb_click_finish_stand">Незавершенные активности в течение почти 1 часа, нажмите, чтобы закончить активность</string>
     <string name="tb_current_select">%1$s выбран</string>
@@ -1356,6 +1365,7 @@ ID:%s
     <string name="unit_metre"> м</string>
     <string name="unit_min"> мин.</string>
     <string name="unit_number_format">%1$d</string>
+    <string name="unit_percent">%</string>
     <string name="unit_second"> сек.</string>
     <string name="unit_thousand_format">%1$s тыс.</string>
     <string name="unknown">Неизвестно</string>

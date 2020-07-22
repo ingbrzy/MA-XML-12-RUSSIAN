@@ -206,7 +206,11 @@
     <string name="install">Установить</string>
     <string name="install_scanner_to_continued_use">Сканер был удален. Установить его повторно?</string>
     <string name="interest_rate_hint">Введите процентную ставку</string>
-    <string name="item_title_aa_payment">Разделить счет</string>
+    <string name="investment_invalid_duration">Продолжительность должна быть больше нуля</string>
+    <string name="investment_type_once">Однократно</string>
+    <string name="investment_type_recurring">Регулярно</string>
+    <string name="item_page_title_investment">Вклад</string>
+    <string name="item_title_aa_payment">Счет</string>
     <string name="item_title_age">Возраст</string>
     <string name="item_title_area_conversion">Площадь</string>
     <string name="item_title_bmi">ИМТ</string>
@@ -217,6 +221,7 @@
     <string name="item_title_dress_size">Размер одежды</string>
     <string name="item_title_emi">Персональный кредит</string>
     <string name="item_title_gst">НДС</string>
+    <string name="item_title_investment">Вклад</string>
     <string name="item_title_length_conversion">Длина</string>
     <string name="item_title_loan">Кредит</string>
     <string name="item_title_mortgage">Ипотека</string>
@@ -224,7 +229,7 @@
     <string name="item_title_radix">Система счисления</string>
     <string name="item_title_relationship">Термины родства</string>
     <string name="item_title_scientific_calculator">Инженерный</string>
-    <string name="item_title_spilt_bill">Разделить счет</string>
+    <string name="item_title_spilt_bill">Счет</string>
     <string name="item_title_tax">Налоги</string>
     <string name="item_title_temprature_conversion">Температура</string>
     <string name="item_title_time_conversion">Время</string>
@@ -242,6 +247,7 @@
     <string name="label_from_date">От</string>
     <string name="label_history">История</string>
     <string name="label_interest">Процент</string>
+    <string name="label_investment_duration">Продолжительность</string>
     <string name="label_loan_tenure">Срок кредита</string>
     <string name="label_months">Месяцы</string>
     <string name="label_no_history">Пока ничего нет</string>
@@ -251,8 +257,10 @@
     <string name="label_statistics">Статистика</string>
     <string name="label_to_date">До</string>
     <string name="label_total_interest">Общая сумма процентов</string>
+    <string name="label_total_investment">Общая сумма вкада</string>
     <string name="label_total_payment">Общая сумма платежа</string>
     <string name="label_total_principal">Общий основной платеж</string>
+    <string name="label_total_value">Общая сумма</string>
     <string name="label_years">Годы</string>
     <string name="leftParen">(</string>
     <string name="leftParenDesc">левая скобка</string>
@@ -637,6 +645,9 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="tv_recurrence_monthly">Ежемесячно</string>
+    <string name="tv_recurrence_quaterly">Ежеквартально</string>
+    <string name="tv_recurrence_yearly">Ежегодно</string>
     <string name="unKnow_error">Неизвестная ошибка</string>
     <string name="unit_cm">Сантиметры</string>
     <string name="unit_data_default_area_0">кв.м.</string>

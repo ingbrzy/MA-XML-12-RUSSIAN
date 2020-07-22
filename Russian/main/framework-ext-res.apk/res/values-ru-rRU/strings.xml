@@ -6,7 +6,12 @@
   <string name="all_call_livetalk_remain_mins">Остаток минут: %1$s внутренних или %2$s международных</string>
   <string name="always">Всегда</string>
   <string name="alwaysUsePrompt">Запомнить выбор</string>
-  <string name="apply_password_action">OK</string>
+  <string name="application_cannot_open_alipay_payment_code">Не удалось открыть код оплаты Alipay</string>
+  <string name="application_cannot_open_alipay_scanner">Не удалось открыть сканер Alipay</string>
+  <string name="application_cannot_open_weixin_payment_code">Не удалось открыть код оплаты WeChat</string>
+  <string name="application_cannot_open_weixin_scanner">Не удалось открыть сканер WeChat</string>
+  <string name="application_not_install_content">Приложение, которое выполняет это действие, не установлено на устройстве. Вы можете установить это приложение или назначить другое действие для жеста.</string>  
+  <string name="apply_password_action">ОК</string>
   <string name="apply_password_confirm_dlg_msg">Используйте текущий пароль блокировки экрана для доступа в %s.</string>
   <string name="apply_password_confirm_dlg_title">Доступ в %s</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навигации отключены, для включения дважды нажмите на любую из них</string>
@@ -14,7 +19,7 @@
   <string name="auto_disable_screenbuttons_float_text">Нажмите для отключения кнопок навигации</string>
   <string name="auto_disable_screenbuttons_prompts_message">Для включения кнопок навигации дважды нажмите на любую из них.</string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Больше не показывать</string>
-  <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">ОК</string>
   <string name="auto_disable_screenbuttons_prompts_title">Отключить кнопки навигации?</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Нажмите еще раз для выхода</string>
   <string name="auto_start_warning_allow">Разрешить</string>

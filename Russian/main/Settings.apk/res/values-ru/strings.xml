@@ -470,6 +470,7 @@
     <string name="app_floating_window_dlg_disable">Отключение всплывающих окон для \"%1$s\" требует перезапуска приложения.</string>
     <string name="app_floating_window_dlg_enable">Включение всплывающих окон для \"%1$s\" требует перезапуска приложения.</string>
     <string name="app_forward_locked">Приложение защищено от копирования.</string>
+    <string name="app_function">Функция приложения</string>
     <string name="app_info_storage_title">Занятое пространство</string>
     <string name="app_install_details_group_title">Магазин</string>
     <string name="app_install_details_summary">Приложение скачано из %1$s</string>
@@ -1990,7 +1991,7 @@
     <string name="day_of_week">Повтор</string>
     <string name="dc_light_dialog_summary">Включение функции DC dimming может повлиять на качество изображения. Все равно включить?</string>
     <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
-    <string name="dc_light_summary_new">DC dimming снижает нагрузку на глаза в условиях низкой освещенности. Активация этой функции может повлиять на качество изображения.</string>
+    <string name="dc_light_summary_new">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
     <string name="dc_light_title">Устранение мерцания</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
@@ -2793,6 +2794,7 @@
     <string name="foreground_traffic">Активный: %s</string>
     <string name="forget">Удалить</string>
     <string name="forget_passpoint_dialog_message">Вы можете потерять доступ к оставшимся минутам или трафику. Перед удалением обратитесь к вашему оператору связи.</string>
+    <string name="forget_passpoint_wifi_message">Ваше устройство прекратит автоматически подключаться к этой сети.</string>
     <string name="forget_password_button_text"><u>Забыли пароль?</u></string>
     <string name="forget_password_dialog_button_text">Назад</string>
     <string name="forget_password_dialog_content_four"><Data>2. Выберите &lt;font color=#e6e6e6>[Wipe data]&lt;/font> и дождитесь перезагрузки устройства.</Data></string>
@@ -3204,6 +3206,10 @@
     <string name="input_method_function_no_function_des">Не показывать ярлыки</string>
     <string name="input_method_function_switch">Переключение между клавиатурами</string>
     <string name="input_method_function_switch_des">Нажмите для переключения на другую клавиатуру</string>
+    <string name="input_method_function_switch_keyboard_language">Переключение языка</string>
+    <string name="input_method_function_switch_keyboard_language_des">Нажмите для переключения между языками ввода</string>
+    <string name="input_method_function_switch_keyboard_type">Переключение клавиатуры</string>
+    <string name="input_method_function_switch_keyboard_type_des">Нажмите для переключения между клавиатурами</string>
     <string name="input_method_function_voice">Голосовой ввод</string>
     <string name="input_method_function_voice_des">Нажмите для использования голосового ввода</string>
     <string name="input_method_function_xiaoai">Mi AI голосовой ввод</string>
@@ -4761,6 +4767,13 @@ OTG отключается автоматически через 10 минут �
     <string name="partial_connectivity_text">Некоторые приложения и сервисы могут не работать из-за ограничения подключения. Продолжить?</string>
     <string name="passpoint_content">Учетные данные (%1$s)</string>
     <string name="passpoint_label">Сохранено через</string>
+    <string name="passpoint_r1_privacy_dialog_message">"Wi-Fi Passpoint - это надежная и безопасная автоматическая технология беспроводного соединения, запущенная Wi-Fi Alliance. Учетные записи настраиваются автоматически для бесшовного соединения между настроенной Wi-Fi сетью и мобильными устройствами.
+
+Эта функция получает только MAC-адрес Wi-Fi для первичной регистрации учетной записи. Мы будем обрабатывать ваши данные в соответствии с нашей %s."</string>
+    <string name="passpoint_r1_privacy_dialog_no">Отмена</string>
+    <string name="passpoint_r1_privacy_dialog_title">Внимание</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">Политикой конфиденциальности</string>
+    <string name="passpoint_r1_privacy_dialog_yes">Согласен</string>
     <string name="passwordIncorrect">Неверный пароль</string>
     <string name="password_and_security">Пароли и безопасность</string>
     <string name="password_entrance_title">Защита устройства</string>
