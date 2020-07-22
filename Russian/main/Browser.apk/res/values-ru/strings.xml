@@ -123,6 +123,7 @@
     <string name="app_downloading_ratio_text">Загрузка %s</string>
     <string name="app_downloading_text">Загрузка</string>
     <string name="app_installing_text">Установка</string>
+    <string name="app_name">ad-sdk-native</string>
     <string name="app_new_version">Установлена последняя версия приложения</string>
     <string name="app_open_text">Открыть</string>
     <string name="app_task_download_exists_text">Загрузка уже есть</string>
@@ -228,6 +229,8 @@
     <string name="comment_fail">Не удалось добавить комментарий. Повторите попытку.</string>
     <string name="comment_flag_choice">Рекомендуемые</string>
     <string name="comment_flag_top">Закрепленные</string>
+    <string name="comment_forbid">Комментарии запрещены</string>
+    <string name="comment_forbid_article">Комментарии к статьям запрещены</string>
     <string name="comment_hint">Комментарий</string>
     <string name="comment_just_now">Сейчас</string>
     <string name="comment_max_length">Комментарий слишком длинный.</string>
@@ -294,6 +297,7 @@
     <string name="data_traffic_prompt_title">Использование данных</string>
     <string name="data_traffic_stop">Остановить</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
+    <string name="debug_browser_user_task_title">Адрес центра задач:</string>
     <string name="debug_feed_title">Тест ленты</string>
     <string name="debug_jump_title">Переход на страницу</string>
     <string name="debug_mediation_title">Общий тест sdk</string>
@@ -304,6 +308,7 @@
     <string name="delete_bookmark_group_warning">Удалить \"%s\"? Все закладки в этой папке будут удалены.</string>
     <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
     <string name="delete_download">Удалить</string>
+    <string name="dev_pref_debug_login">Отладочный логин</string>
     <string name="dialog_ad_exit_exit_app">Позже</string>
     <string name="dialog_ad_exit_open_app">Открыть</string>
     <string name="dialog_cannot_resume">Загрузка прервана</string>
@@ -349,6 +354,7 @@
     <string name="download_btn_select_none">Снять выделение</string>
     <string name="download_complete">Успешно загружено</string>
     <string name="download_completed">Загружено</string>
+    <string name="download_confirm_dialog_title">Предупреждение о риске</string>
     <string name="download_dialog_default_path_invalid">Недопустимое место загрузки. Сохранение в папку по умолчанию…</string>
     <string name="download_dialog_file_length_default_txt">секундочку…</string>
     <string name="download_dialog_file_length_lessthan1kb">Меньше, чем 1KB</string>
@@ -370,6 +376,9 @@
     <string name="download_no_sdcard_dlg_msg">Нужна SD-карта для загрузки %s.</string>
     <string name="download_no_sdcard_dlg_title">Нет SD-карты</string>
     <string name="download_pending">Начало загрузки…</string>
+    <string name="download_proceed">Загрузка</string>
+    <string name="download_risk_alert_content">Игра не проверена Xiaomi Market. Выбирая пункт \"Загрузка"\, вы соглашаетесь, что осознаете риски и последствия.</string>
+    <string name="download_safe">Безопасная загрузка</string>
     <string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузку, отключите USB-накопитель в шторке уведомлений.</string>
     <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
     <string name="download_status_failed">Ошибка загрузки</string>
@@ -513,6 +522,7 @@
     <string name="load_more_footer_status_msg_full">Больше ничего нет</string>
     <string name="load_more_footer_status_msg_idle">Нажмите, чтобы загрузить еще</string>
     <string name="load_more_footer_status_msg_loading">Подождите…</string>
+    <string name="load_sever_data_error">Сервер недоступен. Повторите попытку позже.</string>
     <string name="loading_dialog_title">Перемещение…</string>
     <string name="login_failed_toast">Не удалось войти, обновите и повторите попытку</string>
     <string name="maximum_input_alert">Нельзя ввести более 2048 символов</string>
@@ -788,7 +798,7 @@
     <string name="network_show_wifi_setting_tip_dialog_description">Найдена точка доступа Wi-Fi поблизости. Подключиться?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
     <string name="new_copy_address">Скопированный URL</string>
-    <string name="new_copy_content">Скопированный контент</string>	
+    <string name="new_copy_content">Скопированный контент</string>
     <string name="night">Вечер</string>
     <string name="no_app_open_document">Не найдено приложение для обработки этого действия</string>
     <string name="no_content">Контент ещё не появился</string>
@@ -986,6 +996,7 @@
     <string name="save_to_camera">Сохранить в Галерею</string>
     <string name="save_to_camera_failed">Не удается сохранить изображение</string>
     <string name="save_to_camera_success">Сохранено в Галерею</string>
+    <string name="saved_sucess">Сохранено</string>
     <string name="scanner_uninstalled_text">Установите Сканер, чтобы продолжить</string>
     <string name="scanner_uninstalled_title">Сканер был удален</string>
     <string name="screenshot_loading_dialog_title">Захват</string>
@@ -1063,6 +1074,7 @@
     <string name="sign_in_to" formatted="false">Вход в %s1 \"%s2\"</string>
     <string name="skip_current_version">Пропустить эту версию</string>
     <string name="slide_guide">Слайд для возврата</string>
+    <string name="slide_guide_back">Проведите вправо, чтобы восстановить страницу</string>
     <string name="small_video_ad_app_text_click">Загрузить</string>
     <string name="small_video_ad_download_text">Загрузить</string>
     <string name="small_video_ad_web_text">Открыть</string>
@@ -1347,6 +1359,7 @@
     <string name="vo_info_flow_load_more_title">Попробуйте загрузить вручную</string>
     <string name="vo_info_flow_refresh_empty">Нет обновлений. Посмотрите другие каналы.</string>
     <string name="vo_info_flow_refresh_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="vo_info_flow_refresh_sever_data_error">Сервер недоступен. Повторите попытку позже.</string>
     <string name="vo_info_flow_rs_hint">Поиск</string>
     <string name="vo_like_text">Нравится</string>
     <string name="vo_location_change_cancel">Не сейчас</string>
