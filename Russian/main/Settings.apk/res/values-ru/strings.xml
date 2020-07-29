@@ -464,6 +464,7 @@
     <string name="app_disable_dlg_title">Отключить приложение?</string>
     <string name="app_disable_notifications_dlg_text">Если в настройках этого приложения отключены уведомления, вы можете пропустить важные оповещения и обновления.</string>
     <string name="app_disable_notifications_dlg_title">Отключить уведомления?</string>
+    <string name="app_enable_bluetooth_record">Приложения с доступом к Bluetooth</string>
     <string name="app_factory_reset">Удалить обновления</string>
     <string name="app_factory_reset_dlg_text">Все обновления этого системного приложения будут удалены.</string>
     <string name="app_factory_reset_dlg_title">Удалить обновления?</string>
@@ -585,11 +586,11 @@
     <string name="audio_and_captions_category_title">Аудио и озвучивание текста</string>
     <string name="audio_files_title">Аудиофайлы</string>
     <string name="audio_profile_settings_title">Профили аудио</string>
-    <string name="audio_record_proc_title">Подавление шума</string>
-    <string name="auto_adjst_effect_summary">Автоматически регулировать цветовую температуру под окружающее освещение для оптимального уровня комфорта</string>
+    <string name="audio_record_proc_title">Шумоподавление</string>
+    <string name="auto_adjst_effect_summary">Авторегулировка цветовой температуры под окружающее освещение</string>	
     <string name="auto_adjust_effect_title">Авторегулировка цветовой температуры</string>
     <string name="auto_brightness_default_title">По умолчанию</string>
-    <string name="auto_brightness_description">Яркость экрана будет автоматически подстраиваться под окружающее освещение и использование. Вы можете перемещать ползунок вручную, чтобы адаптивная яркость выучила ваши предпочтения.</string>
+    <string name="auto_brightness_description">Яркость экрана будет автоматически подстраиваться под окружающее освещение и использование. Вы можете перемещать ползунок вручную, чтобы адаптивная яркость запомнила ваши предпочтения.</string>
     <string name="auto_brightness_disclaimer">Яркость регулируется с учетом уровня освещенности. При необходимости ее можно временно изменить.</string>
     <string name="auto_brightness_high_title">Высокий</string>
     <string name="auto_brightness_low_title">Низкий</string>
@@ -673,10 +674,13 @@
     <string name="avoid_ui">Блокировка сенсора</string>
     <string name="awake">Время включения устройства</string>
     <string name="back_button">Назад</string>
+    <string name="back_double_tap">Двойное касание</string>
     <string name="back_key">Кнопка \"Назад\"</string>
     <string name="back_sensitivity_dialog_message">"
 Высокая чувствительность может конфликтовать с жестами приложений от края экрана"</string>
     <string name="back_sensitivity_dialog_title">Чувствительность края экрана</string>
+    <string name="back_tap">Одиночное касание</string>
+    <string name="back_triple_tap">Тройное касание</string>
     <string name="background_activity_disabled_dialog_text">"Поскольку это приложение не настроено на оптимизацию батареи, вы не можете ограничить его.
 
 Чтобы ограничить приложение, сначала включите оптимизацию батареи."</string>
@@ -1234,6 +1238,7 @@
     <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Нет доступных устройств</string>
     <string name="bluetooth_unlock_reject">Запрос на разблокировку этого устройства отклонен</string>
+    <string name="bluetooth_unlock_settings_devices_prompt">Поддерживаются только определенные устройства Bluetooth (например, фитнес-браслеты и смарт-часы)</string>
     <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
     <string name="bluetooth_unlock_settings_toggle_title">Применение</string>
     <string name="bluetooth_unlock_settings_unlock_device">Разблокировка устройства</string>
@@ -1320,6 +1325,10 @@
 Вы можете отключить его в Настройки &gt; Bluetooth &gt; Сопряженные устройства."</string>
     <string name="bt_aac_open_dialog_title">Переключение на AAC кодек</string>
     <string name="bt_aac_pre_title">AAC</string>
+    <string name="bt_absVolume_open_dialog_summary">Из-за проблем с совместимостью некоторые Bluetooth-устройства могут иметь анормальные уровни громкости, которые можно устранить, отключив эту функцию.</string>
+    <string name="bt_absVolume_open_dialog_title">Внимание</string>
+    <string name="bt_absVolume_pre_title">Абсолютная громкость</string>
+    <string name="bt_absVolume_summary">Согласование уровней громкости Bluetooth-устройств и устройства</string>
     <string name="bt_dialog_remember_choice">Запомнить</string>
     <string name="bt_dialog_settings">Настройки</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
@@ -1820,6 +1829,7 @@
     <string name="current_zone">(текущий)</string>
     <string name="custom_carrier_title">Оператор</string>
     <string name="custom_color">Своя</string>
+    <string name="custom_gesture_title">Выбор жестов</string>
     <string name="custom_wifi_name_title">Wi-Fi сеть</string>
     <string name="customize_function">Доступные шаблоны</string>
     <string name="cutout_mode_always">Всегда показывать</string>
@@ -1989,7 +1999,7 @@
     <string name="date_time_set_timezone_title">Часовой пояс</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="day_of_week">Повтор</string>
-    <string name="dc_light_dialog_summary">Включение функции DC dimming может повлиять на качество изображения. Все равно включить?</string>
+    <string name="dc_light_dialog_summary">Включение DC dimming может повлиять на качество изображения. Все равно включить?</string>
     <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
     <string name="dc_light_summary_new">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
     <string name="dc_light_title">Устранение мерцания</string>
@@ -2122,6 +2132,7 @@
     <string name="device_oaid_desc">Вместо уникального идентификатора MIUI предоставит установленным приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваши действия и предпочтения, а также защищает вашу конфиденциальность.</string>
     <string name="device_oaid_title">Виртуальный ID</string>
     <string name="device_of_someone">%1$s  %2$s</string>
+    <string name="device_opcust_version">Настраиваемая версия</string>
     <string name="device_picker">Выберите устройство</string>
     <string name="device_rear_camera">Основная камера</string>
     <string name="device_screen_resolution">Разрешение экрана</string>
@@ -3432,15 +3443,23 @@
     <string name="last_synced">Обновлено %1$s</string>
     <string name="last_time_used_label">Последнее использование</string>
     <string name="lattice_smartcover_title">Сетчатая</string>
+    <string name="launch_ai_shortcut">Ярлык Mi AI</string>
+    <string name="launch_alipay_payment_code">Платежный код Alipay</string>
+    <string name="launch_alipay_scanner">Сканер Alipay</string>
     <string name="launch_by_default">Открывать по умолчанию</string>
+    <string name="launch_calculator">Калькулятор</string>
     <string name="launch_camera">Запуск камеры</string>
+    <string name="launch_control_center">Центр управления</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
     <string name="launch_defaults_some">Некоторые настройки по умолчанию</string>
     <string name="launch_google_search">Запуск Google Ассистента</string>
     <string name="launch_instant_app">Открыть</string>
     <string name="launch_mdp_app_text">Посмотреть тарифный план</string>
+    <string name="launch_notification_center">Шторка уведомлений</string>
     <string name="launch_recents">Вызов Недавних</string>
     <string name="launch_voice_assistant">Голосовой помощник</string>
+    <string name="launch_wechat_payment_code">Платежный код WeChat</string>
+    <string name="launch_wechat_scanner">Сканер WeChat</string>
     <string name="launch_wifi_text">Подробности</string>
     <string name="launcher_icon">Иконки</string>
     <string name="launcher_title">Рабочий стол</string>
@@ -4240,6 +4259,7 @@
     <string name="multifunction_keyboard">Многофункциональная</string>
     <string name="music_equalizer">Эквалайзер</string>
     <string name="musicfx_title">Звуковые эффекты</string>
+    <string name="mute">Режим \"Без звука\"</string>
     <string name="mute_music_stream">Отключить музыкальный поток</string>
     <string name="mute_voiceassist_stream">Отключить голосовой помощник</string>
     <string name="mvno_match_data">Значение MVNO</string>

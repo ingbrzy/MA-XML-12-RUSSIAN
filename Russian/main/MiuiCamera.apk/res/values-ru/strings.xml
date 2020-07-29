@@ -119,7 +119,7 @@
   <string name="ambilight_description_title">О длительной выдержке</string>
   <string name="ambilight_intro_crowd_moving_part1">При съемке на людной улице объект должен стоять на месте. Другие люди будут выглядеть как размытые следы.</string>
   <string name="ambilight_intro_crowd_moving_part2">Вы также можете сфотографировать оживленное движение. Длительная выдержка позволит запечатлеть здания четкими, но все движущиеся объекты будут размытыми.</string>
-  <string name="ambilight_intro_light_track">Используйте источник света при низком освещении для рисования в воздухе. Длительная выдержка позволит запечатлеть рисунок светом - фризлайт.</string>
+  <string name="ambilight_intro_light_track">Используйте источник света в местах с низким уровнем освещения для рисования в воздухе. Длительная выдержка позволит запечатлеть рисунок светом - фризлайт.</string>
   <string name="ambilight_intro_magic_star">Используйте этот режим в местах с низким уровнем освещения. Выдержка будет установлена на %d секунд, рекомендуется использовать штатив.</string>
   <string name="ambilight_intro_magic_star_ae">Используйте этот режим в местах с низким уровнем освещения. Выдержка будет установлена на %d секунд, рекомендуется использовать штатив.</string>
   <string name="ambilight_intro_silky_water_part1">Используйте этот режим при съемке движущихся облаков. Это придаст небу эффект \"масляной живописи\".</string>
@@ -130,7 +130,7 @@
   <string name="ambilight_scene_crowd_moving">Движущаяся толпа</string>
   <string name="ambilight_scene_light_track">Фризлайт</string>
   <string name="ambilight_scene_magic_star">Звездное небо</string>
-  <string name="ambilight_scene_silky_water">Шелковая вода</string>
+  <string name="ambilight_scene_silky_water">Масляная живопись</string>
   <string name="ambilight_scene_star_track">Следы звезд</string>
   <string name="ambilight_scene_traffic_light">Неоновые тропы</string>
   <string name="ambilight_tips_for_longtime_using_tripod">При длительной выдержке используйте штатив</string>
@@ -287,7 +287,7 @@
   <string name="custom_tint_color_select">Изменить цвета</string>
   <string name="custom_watermark_contains_senstive_words">"Водяные знаки не могут использовать запрещенные термины (%1$s)"</string>
   <string name="custom_watermark_tips">Текст будет отображаться как вторая строка водяного знака. Он может содержать до 18 букв или 14 китайских символов.</string>
-  <string name="custom_watermark_tips_gen2" formatted="false">До %d китайских символов или %d букв.</string>
+  <string name="custom_watermark_tips_gen2">До %1$d китайских символов или %2$d букв.</string>
   <string name="custom_watermark_too_many_words">Введенный текст слишком длинный</string>
   <string name="custom_watermark_words">Пользовательский водяной знак</string>
   <string name="custom_watermark_words_input_hint">Введите текст</string>
@@ -411,8 +411,8 @@
   <string name="lighting_hint_too_far">Поднесите камеру ближе</string>
   <string name="lighting_hint_usage">"Вы можете использовать студийный
 свет в режиме \"Портрет\""</string>
-  <string name="lighting_lanshan">Рассеянный</string>
-  <string name="lighting_movie_light_effect_title">Эффект света кино</string>
+  <string name="lighting_lanshan">Декаданс</string>
+  <string name="lighting_movie_light_effect_title">Эффекты кино</string>
   <string name="lighting_neon">Неон</string>
   <string name="lighting_nostalgia">Ностальгия</string>
   <string name="lighting_pattern_dot">Точки</string>
@@ -692,6 +692,7 @@
   <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
   <string name="pref_advance_settings">Дополнительные настройки</string>
   <string name="pref_ai_detect">AI обнаружение сцены</string>
+  <string name="pref_audio_denoise_title">Шумоподавление</string>
   <string name="pref_audio_focus_entry_front">Передний</string>
   <string name="pref_audio_focus_entry_general">Нормальный</string>
   <string name="pref_audio_focus_entry_rear">Задний</string>
@@ -835,7 +836,9 @@
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
-  <string name="pref_camera_hfr_entry_off">Откл</string>
+  <string name="pref_camera_hfr_entry_off">Откл.</string>
+  <string name="pref_camera_high_quality_preferred_description">Улучшение изображения с помощью специальных алгоритмов и увеличения времени съемки</string>
+  <string name="pref_camera_high_quality_preferred_title">Улучшение изображения</string>  
   <string name="pref_camera_histogram_entry_disable">Отключить</string>
   <string name="pref_camera_histogram_entry_enable">Включить</string>
   <string name="pref_camera_iso_entry_auto">АВТО</string>
@@ -1060,6 +1063,7 @@
   <string name="pref_lens_dirty_detect_title">Уведомлять о загрязнении объектива</string>
   <string name="pref_manual_exposure_title">Выдержка</string>
   <string name="pref_manual_exposure_title_abbr">Выдержка</string>
+  <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ультра HD</string>
   <string name="pref_module_settings">Режимы</string>
   <string name="pref_more_mode_style_title">Режимы камеры</string>
@@ -1212,11 +1216,11 @@
   <string name="title_snap_double_confirm">Повторное подтверждение</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съемка недоступна при включенном звуковом управлении</string>
   <string name="toast_saving">Сохранение фотографий…</string>
-  <string name="toast_start_audio_capture">Издайте звук, чтобы сделать снимок</string>
+  <string name="toast_start_audio_capture">Произнесите команду, чтобы сделать снимок</string>
   <string name="ubi_focus_capture_fail">Не удалось сфотографировать</string>
   <string name="ubifocus_capture_warning_message">Для достижения наилучших результатов ваша фотография должна содержать объекты как вблизи (менее 1 метра от объектива), так и вдали</string>
-  <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra Clear отключен</string>
-  <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra Clear отключен</string>  
+  <string name="ultra_ai_pixel_photography_close_tip">AI %s Ультра HD отключен</string>
+  <string name="ultra_ai_pixel_photography_open_tip">AI %s Ультра HD отключен</string>  
   <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключен</string>
   <string name="ultra_pixel_photography_open_tip">%s Ультра HD включен</string>
   <string name="ultra_pixel_portrait_hint">HD портрет</string>

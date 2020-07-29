@@ -832,6 +832,7 @@ ID:%s
     <string name="remind_query_menstruation_start">Менструация уже началась? Не забудьте сделать запись.</string>
     <string name="remind_sleep_report_complete">Статистика сна готова</string>
     <string name="remind_sleep_report_content">Сон: %1$d ч. %2$d мин.</string>
+    <string name="remind_sleep_report_content_1">Вы спали %1$d ч. прошлой ночью. Нажмите для подробностей.</string>
     <string name="remind_sleep_report_title">Отчет о сне</string>
     <string name="remind_subtitle_menstruation_start">Получать напоминания за два дня до возможного начала менструации</string>
     <string name="remind_subtitle_record">Получать напоминания о записи начала и окончания менструации</string>
@@ -1079,7 +1080,9 @@ ID:%s
     <string name="stand_notice_title4">Встаньте и потянитесь</string>
     <string name="stand_notice_title5">Вы не двигались в течение часа</string>
     <string name="stand_notice_title6">Вы двигались последний час?</string>
+    <string name="stand_remind_setting_desc">Если в течение часа не будет зафиксировано никакой активности, будет отправлено напоминание о необходимости сделать разминку</string>
     <string name="stand_setting">Настройки разминки</string>
+    <string name="stand_stop_reminding">Отключить напоминания</string>
     <string name="standard_format">(по умолчанию: %1s)</string>
     <string name="standing_already">Разминка уже была</string>
     <string name="state_agree">Согласен</string>

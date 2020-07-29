@@ -31,10 +31,10 @@
     <string name="advanced_mode">Расширенные настройки</string>
     <string name="afternoon">После полудня</string>
     <string name="am">AM</string>
-    <string name="anti_flicker_mode">Анти-мерцание</string>
+    <string name="anti_flicker_mode">Антимерцание</string>
     <string name="anti_flicker_mode_categroy">Режимы</string>
-    <string name="anti_flicker_mode_summary">Уменьшение мерцания при низкой освещенности для снижения нагрузки на глаза. Некоторые элементы могут отображаться неправильно.</string>
-    <string name="anti_flicker_title">Режимы анти-мерцания</string>
+    <string name="anti_flicker_mode_summary">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
+    <string name="anti_flicker_title">Режим антимерцания</string>
     <string name="app_name">Настройки</string>
     <string name="application_sound">Звук уведомления для приложения</string>
     <string name="back">Назад</string>
@@ -59,6 +59,10 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
+    <string name="dc_light_hint_enable_title">Внимание</string>
+    <string name="dc_light_hint_normal">Включение DC dimming может повлиять на отображение некоторых элементов.</string>
+    <string name="dc_light_hint_other">Включение DC dimming может повлиять на частоту обновления и отображение некоторых элементов.</string>
+    <string name="dc_lignt_enable_hint">Режим антимерцания установит частоту обновления экрана на 60 Гц. Переключиться?</string>
     <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
     <string name="early_morning">Утро</string>

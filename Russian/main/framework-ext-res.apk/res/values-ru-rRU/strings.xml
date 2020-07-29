@@ -10,7 +10,7 @@
   <string name="application_cannot_open_alipay_scanner">Не удалось открыть сканер Alipay</string>
   <string name="application_cannot_open_weixin_payment_code">Не удалось открыть код оплаты WeChat</string>
   <string name="application_cannot_open_weixin_scanner">Не удалось открыть сканер WeChat</string>
-  <string name="application_not_install_content">Приложение, которое выполняет это действие, не установлено на устройстве. Вы можете установить это приложение или назначить другое действие для жеста.</string>  
+  <string name="application_not_install_content">Приложение, которое выполняет это действие, не установлено на устройстве. Вы можете установить это приложение или назначить другое действие для жеста.</string>
   <string name="apply_password_action">ОК</string>
   <string name="apply_password_confirm_dlg_msg">Используйте текущий пароль блокировки экрана для доступа в %s.</string>
   <string name="apply_password_confirm_dlg_title">Доступ в %s</string>
@@ -31,10 +31,12 @@
   <string name="autofill_save_sub_message">"Вы можете управлять сохраненными данными в Настройки &gt; Пароли и безопасность &gt; Управление паролями."</string>
   <string name="autofill_save_title">Автосохранение данных</string>
   <string name="autofill_service_name">Управление паролями</string>
+  <string name="bluetooth_close">Bluetooth отключен этим приложением</string>
   <string name="bluetooth_disable_notification_content">Bluetooth отключен %s</string>
   <string name="bluetooth_disable_notification_title">Bluetooth отключен</string>
   <string name="bluetooth_enable_notification_content">Bluetooth включен %s</string>
-  <string name="bluetooth_enable_notification_title">Bluetooth включен</string>  
+  <string name="bluetooth_enable_notification_title">Bluetooth включен</string>
+  <string name="bluetooth_open">Bluetooth включен этим приложением</string>
   <string name="btn_cancel">Отмена</string>
   <string name="btn_sure">ОК</string>
   <string name="button_text_cancel">Отмена</string>
@@ -52,7 +54,7 @@
   <string name="confirm_cancel_task_images">Отменить отправку изображений на %1$s?</string>
   <string name="content_description_dial">Вызов</string>
   <string name="content_description_next">Далее</string>
-  <string name="content_description_previous">Назад</string>  
+  <string name="content_description_previous">Назад</string>
   <string name="content_description_search">Поиск</string>
   <string name="content_description_share">Отправить</string>
   <string name="content_description_translate">Перевод</string>
@@ -140,9 +142,13 @@
   <string name="maml_component_customization_title">Настройки</string>
   <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
   <string name="memory_clear_result">Очищено %1$s Б памяти</string>
+  <string name="mi_9t">Mi 9T</string>
+  <string name="mi_9t_pro">Mi 9T Pro</string>
+  <string name="mi_a3">Mi A3</string>
   <string name="mi_drop">Mi Share</string>
   <string name="miaudiovisual_notification_summary">Эффекты на экране блокировки</string>
   <string name="miaudiovisual_notification_title">Аудио и визуальные эффекты</string>
+  <string name="miui">miui</string>
   <string name="miui_forbid_poweroff_when_device_locked">Выключение невозможно, устройство заблокировано.</string>
   <string name="miui_screen_ratio_hint">Проблемы с отображением</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Больше не показывать</string>
@@ -156,6 +162,8 @@
   <string name="onehour">30 минут</string>
   <string name="open_close_tip_action">Понятно</string>
   <string name="open_close_tip_content">Чтобы закрыть плавающее окно, проведите вверх от панели действий</string>
+  <string name="oppo">OPPO</string>
+  <string name="oppo_phone">OPPO</string>
   <string name="package_delete_confirm_step_1">Удалить %s?</string>
   <string name="package_delete_confirm_step_2">Удаление этого приложения может вызвать нестабильность системы.</string>
   <string name="package_delete_confirm_step_3">Вы не сможете открыть приложение после его удаления.</string>
@@ -173,6 +181,7 @@
   <string name="popup_camera_front_failed">"Не удалось открыть переднюю камеру. Повторите попытку."</string>
   <string name="popup_camera_front_falied_times">"Не удалось открыть переднюю камеру несколько раз. Возможно, нужно отнести устройство в сервис для диагностики проблемы."</string>
   <string name="popup_camera_front_when_use">Фронтальная камера занята. Все равно попытаться открыть?</string>
+  <string name="popup_camera_hid_device_name">Black Shark</string>
   <string name="popup_camera_popup_falied_times_calibrate">"Не удалось открыть переднюю камеру несколько раз. Попробуйте откалибровать камеру."</string>
   <string name="popup_camera_remove_hid_device">Похоже, устройство подключено к игровому контроллеру. Возможно, вы не сможете открыть переднюю камеру при подключенном игровом контроллере.</string>
   <string name="popup_camera_sure">Понятно</string>
@@ -202,6 +211,7 @@
   <string name="resolver_offical_recommend">Официальное</string>
   <string name="resolver_other_method">Другой вариант</string>
   <string name="resolver_recommend_options_tag">Рекомендуемый вариант</string>
+  <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
   <string name="resource_select">Выбрать</string>
   <string name="scanning_device_tips">Поиск устройств поблизости… Убедитесь, что другое устройство находится в режиме обнаружения.</string>
   <string name="screen_button_notification_text">Для включения одновременно нажмите кнопки \"Домой\" и \"Питание\".</string>
@@ -228,6 +238,7 @@
   <string name="select_all">Выбрать все</string>
   <string name="send_files_to">Отправка на</string>
   <string name="serviceEnabled">Служба включена</string>
+  <string name="service_not_subscribed">ПОДПИСКА ОТСУТСТВУЕТ -33-</string>
   <string name="set_password_action">Задать пароль</string>
   <string name="set_password_message">Для использования этой функции задайте пароль.</string>
   <string name="set_password_title">Задайте пароль</string>
@@ -273,7 +284,7 @@
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Точка Wi-Fi</string>
-  <string name="stop_operate_camera_frequently">"Слишком частые переключения между камерами."</string>
+  <string name="stop_operate_camera_frequently">Слишком частые переключения между камерами.</string>
   <string name="subinfo_default_name">SIM %d</string>
   <string name="sunlight_notification_content">Автоматически устанавливать максимальную яркость на прямом солнечном свете</string>
   <string name="sunlight_notification_title">Максимальная яркость на солнце</string>
@@ -299,9 +310,12 @@
   <string name="unknown_caller">Неизвестный номер</string>
   <string name="unrecognized_manufacture">Нет данных</string>
   <string name="unrecognized_model">Неизвестное устройство</string>
+  <string name="user_authentication_failed">ОШИБКА АУТЕНТИФИКАЦИИ -29-</string>
   <string name="user_switching_dialog_switch_into_kid_space">Переключение в Детский режим…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Выход из Детского режима…</string>
   <string name="user_switching_dialog_text">Переключение…</string>
+  <string name="vivo">vivo</string>
+  <string name="vivo_phone">vivo</string>
   <string name="voice_begin">Что вы ищете?</string>
   <string name="voice_button_action_down">Отпустите для поиска</string>
   <string name="voice_button_action_up">Нажмите и говорите</string>
