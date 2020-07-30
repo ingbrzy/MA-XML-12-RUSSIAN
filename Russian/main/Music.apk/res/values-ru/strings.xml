@@ -90,6 +90,7 @@
     <string name="always_use_metered">Всегда использовать мобильный интернет</string>
     <string name="am">AM</string>
     <string name="app_label">Загрузки</string>
+    <string name="app_name">sdk</string>
     <string name="app_permission_confirm">Подтвердить</string>
     <string name="app_permission_optional">Необязательные разрешения</string>
     <string name="app_permission_require">Обязательные разрешения</string>
@@ -497,6 +498,8 @@
     <string name="individuation_cart_login_title">Хотите увидеть другие рекомендации?</string>
     <string name="individuation_recommend_switch_message">Отключение этой функции повлияет на персонализацию музыкальных сервисов. Отключить её?</string>
     <string name="individuation_recommend_title">Рекомендации</string>
+    <string name="individuation_setting_summary">Получение рекомендаций, основанных на ваших интересах</string>
+    <string name="individuation_setting_title">Персонализированные рекомендации</string>
     <string name="input_hint_prefix">Введите %1$s</string>
     <string name="installing_apk">Установка…</string>
     <string name="insufficient_space">Недостаточно места во внутренней памяти</string>
@@ -1117,8 +1120,12 @@
     <string name="upgrade_music">Обновите приложение Музыка</string>
     <string name="upgrade_music_message">Перезапустите для обновления.</string>
     <string name="upgrading_in_backstage">Обновление в фоновом режиме…</string>
+    <string name="upload_favorite_dialog_title">Загрузите контент в облако, чтобы иметь доступ к ним на других синхронизированных устройствах. Вы можете отключить эту функцию в настройках.</string>
+    <string name="upload_favorite_setting_summary">Загрузка контента в облако для доступа к ним на других устройствах</string>
+    <string name="upload_favorite_setting_title">Синхронизация</string>
     <string name="upload_playlist_to_hungama_negative_text">Отмена</string>
     <string name="upload_playlist_to_hungama_positive_text">Синхронизировать</string>
+    <string name="upload_playlist_to_hungama_title">Синхронизируйте онлайн-контент с Hungama, чтобы иметь доступ к ним на других устройствах с Mi аккаунтом.</string>
     <string name="upload_playlist_to_hungama_toast">Онлайн контент будет синхронизирован с Hungama</string>
     <string name="user_agreement">Условия использования</string>
     <string name="user_privacy_dialog_negative_text">Отмена</string>
