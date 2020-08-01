@@ -118,13 +118,13 @@
     <string name="button_not_allow">Отмена</string>
     <string name="button_settings_cancel">Отмена</string>
     <string name="button_settings_confirm">Отозвать</string>
-    <string name="button_settings_confirm_to_revoke_msg">Вы не сможете использовать Погоду после отзыва разрешения.</string>
+    <string name="button_settings_confirm_to_revoke_msg">Вы не сможете использовать приложение после отзыва разрешения</string>
     <string name="button_settings_confirm_to_revoke_title">Отозвать разрешение?</string>
     <string name="button_sure_abandon">Отменить изменения?</string>
     <string name="card_item_ad_text">Реклама</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Проверьте подключение и повторите попытку</string>
-    <string name="china_version_first_start_network_msg">Для использования Погоды вы должны принять %1$s и %2$s Xiaomi. Для нормальной работы Погоде требуется подключение к интернету и доступ к вашему местоположению. Вы согласны?</string>
+    <string name="china_version_first_start_network_msg">Перед использованием приложения Погода вы должны принять %1$s и %2$s Xiaomi. Для нормальной работы приложению требуется подключение к интернету и доступ к вашему местоположению. Вы согласны?</string>
     <string name="city_exceeded_warning">Можно добавить до 10 городов</string>
     <string name="clear_net_mock_success">Макет очищен</string>
     <string name="common_google_play_services_enable_button">Включить</string>
@@ -176,7 +176,7 @@
     <string name="empty_view_net_loading">Обновление…</string>
     <string name="empty_view_net_unavailable">"Не удалось подключиться к сети"</string>
     <string name="empty_view_refresh">Повторите попытку</string>
-    <string name="eu_region_version_first_start_network_msg">Используя этот продукт, вы соглашаетесь с тем, что он будет подключаться к сети, собирать, обрабатывать и использовать ваши личные данные, включая координаты городов, которые вы ищете, и другие типы данных, которые определяет наша Политика конфиденциальности. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем информацию. Нажав \"Согласен\", вы принимаете %1$s и %2$s Xiaomi.</string>
+    <string name="eu_region_version_first_start_network_msg">Используя этот приложение, вы соглашаетесь с тем, что оно будет подключаться к сети, собирать и использовать ваши личные данные, включая координаты городов, которые вы ищете, и другие типы данных, указанные в нашей Политике конфиденциальности. Ознакомьтесь с нашей Политикой конфиденциальности, чтобы узнать, как мы собираем и обрабатываем информацию. Нажав \"Согласен\", вы принимаете %1$s и %2$s Xiaomi.</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
     <string name="exo_controls_next_description">Следующий трек</string>
@@ -336,7 +336,7 @@
     <string name="privacy_grant_failed">Не удалось предоставить разрешение. Подождите немного и повторите попытку.</string>
     <string name="privacy_grant_or_revoke_settings">Доступ к личным данным</string>
     <string name="privacy_grant_success">Разрешение успешно предоставлено</string>
-    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_policy">Политику конфиденциальности</string>
     <string name="privacy_revoke_failed">Не удалось отозвать разрешение. Подождите немного и повторите попытку.</string>
     <string name="privacy_revoke_success">Разрешение успешно отозвано</string>
     <string name="privacy_settings">Политика конфиденциальности</string>
