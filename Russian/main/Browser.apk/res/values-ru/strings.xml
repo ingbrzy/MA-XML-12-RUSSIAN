@@ -777,8 +777,7 @@
     <string name="nav_launch_title">Попробуйте использовать следующие приложения</string>
     <string name="nav_lunch_duokan">Открытие Duokan…</string>
     <string name="nav_screen_container_tab_incognito">Инкогнито</string>
-    <string name="nav_screen_incognito_message">" История просмотра и поиска не будет сохранена в режиме инкогнито.
- Помните, что загруженные файлы и добавленные закладки будут сохранены."</string>
+    <string name="nav_screen_incognito_message">История просмотров, поисковые запросы, загрузки и данные сайтов в этом режиме сохраняться не будут.</string>
     <string name="nav_screen_incognito_title">Режим инкогнито</string>
     <string name="navigate_feedback_dislike">не интересно</string>
     <string name="navigate_feedback_dislike_tips">Показывать меньше таких рекомендаций</string>
@@ -1258,6 +1257,7 @@
     <string name="title_bar_loading">Загрузка…</string>
     <string name="title_notice_push">Включить push</string>
     <string name="toast_feedback">Вы увидите меньше содержимого такого рода.</string>
+    <string name="toast_not_support">Эта функция пока не поддерживается</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="topic_content_default">тема</string>

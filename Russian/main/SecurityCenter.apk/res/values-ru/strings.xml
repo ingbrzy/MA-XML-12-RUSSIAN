@@ -164,12 +164,10 @@
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_not_wlan">Отсутствует подключение Wi-Fi. Использование мобильного интернета может вызвать дополнительные затраты. Продолжить?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Облачная проверка</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Названия и данные приложений будут загружаться на сервер и проверяться на наличие вирусов.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Для более эффективного обнаружения и нейтрализации вирусов мы будем загружать имена и свойства пакетов приложений для сканирования в облачном антивирусном движке</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
+  <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Эта функция работает на стороннем антивирусном движке. Чтобы узнать больше, прочитайте &amp;lt;a href=\"%1$s\"&amp;gt;Лицензионное соглашение&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>  
   <string name="antivirus_privacy_dialog_summary_link">Политика конфиденциальности</string>
-  <string name="antivirus_privacy_dialog_summary_new">Эта функция использует антивирусные базы, предоставляемые Avast, AVL и Tencent.</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_avast">Эта функция использует антивирусные базы, предоставляемые AVL и Tencent.</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_tencent">Эта функция использует антивирусные базы, предоставляемые Avast и AVL.</string>
   <string name="antivirus_privacy_dialog_title">Политика конфиденциальности</string>
   <string name="antivirus_sec_network_unavailable">Приложению Безопасность не удается обновиться, поскольку вы ограничили доступ в интернет. Разрешить доступ?"</string>
   <string name="antivirus_toast_already_update">Обновление не требуется</string>
@@ -1794,6 +1792,7 @@
   <string name="main_tobe_added_desc">Мобильный трафик от ¥0.03/МБ</string>
   <string name="main_today_used">Расход за сегодня</string>
   <string name="main_toolbar_firewall">Сетевые подключения</string>
+  <string name="main_toolbar_misim">Mi SIM</string>
   <string name="main_toolbar_purchase">Пополнение баланса</string>
   <string name="main_toolbar_statistic">Расход трафика</string>
   <string name="main_traffic_detail">Трафик</string>
@@ -1881,6 +1880,8 @@
   <string name="menu_summary_app_manager">Управление приложениями</string>
   <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
   <string name="menu_summary_garbage_cleanup_ex">Удалить %s мусора</string>
+  <string name="menu_summary_garbage_cleanup_ex">Освободить %s</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% места</string>
   <string name="menu_summary_networkassistants">Управление трафиком</string>
   <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
   <string name="menu_summary_networkassistants_3">Трафика достаточно</string>

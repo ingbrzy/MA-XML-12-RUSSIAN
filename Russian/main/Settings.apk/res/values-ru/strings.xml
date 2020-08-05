@@ -344,6 +344,7 @@
     <string name="ai_settings_long_click_title">Нажмите и удерживайте</string>
     <string name="ai_settings_single_press_des">Нажмите AI кнопку для вызова Google Ассистента, затем отпустите, чтобы получить ответ.</string>
     <string name="airplane_mode">Режим полета</string>
+    <string name="airplane_mode_summary">Отключение вызовов, SMS и мобильного интернета</string>
     <string name="alarm_ringtone_title">Звук будильника по умолчанию</string>
     <string name="alarm_sound_dialog_title">Выберите мелодию будильника</string>
     <string name="alarm_sound_title">Будильник</string>
@@ -587,7 +588,7 @@
     <string name="audio_files_title">Аудиофайлы</string>
     <string name="audio_profile_settings_title">Профили аудио</string>
     <string name="audio_record_proc_title">Шумоподавление</string>
-    <string name="auto_adjst_effect_summary">Авторегулировка цветовой температуры под окружающее освещение</string>	
+    <string name="auto_adjst_effect_summary">Авторегулировка цветовой температуры под окружающее освещение</string>
     <string name="auto_adjust_effect_title">Авторегулировка цветовой температуры</string>
     <string name="auto_brightness_default_title">По умолчанию</string>
     <string name="auto_brightness_description">Яркость экрана будет автоматически подстраиваться под окружающее освещение и использование. Вы можете перемещать ползунок вручную, чтобы адаптивная яркость запомнила ваши предпочтения.</string>
@@ -1396,9 +1397,9 @@
     <string name="call_records_name_1">Анна Петрова</string>
     <string name="call_records_name_2">Виктор Иванов</string>
     <string name="call_records_name_3">Сергей Васильев</string>
-    <string name="call_records_summary_1">9:35 AM | 26 секунд | China Unicom</string>
-    <string name="call_records_summary_2">16 августа | 1 мин 16 с | China Mobile</string>
-    <string name="call_records_summary_3">16 августа | 2 мин 24 с | China Unicom</string>
+    <string name="call_records_summary_1">9:35 AM | 26 секунд</string>
+    <string name="call_records_summary_2">16 августа | 1 мин. 16 сек.</string>
+    <string name="call_records_summary_3">16 августа | 2 мин. 24 сек.</string>
     <string name="call_settings_primary_user_only">Измените настройки вызова в первом пространстве</string>
     <string name="call_settings_summary">Голосовая почта, АОН, переадресация, параллельный вызов</string>
     <string name="call_settings_title">Вызовы</string>
@@ -2673,6 +2674,7 @@
     <string name="find_my_device">Поиск устройства</string>
     <string name="find_my_device_disable">Откл.</string>
     <string name="find_my_device_enable">Вкл.</string>
+    <string name="find_my_device_summary">Требуется вход в Mi аккаунт</string>
     <string name="fingerprint_add_max">Максимальное количество отпечатков пальца, которые можно добавить: %d</string>
     <string name="fingerprint_add_title">Добавить отпечаток пальца</string>
     <string name="fingerprint_and_password_entrance_title">Защита устройства и биометрия</string>
@@ -3278,6 +3280,8 @@
     <string name="invalid_location">Недопустимое место установки.</string>
     <string name="invalid_size_value">Не удалось определить размер пакета.</string>
     <string name="ipaddr_label">IP-адрес:</string>
+    <string name="ipv4_congertion_control">Выбор управления перегрузкой TCP</string>
+    <string name="ipv4_congertion_xontrol_chose">Алгоритм предотвращения перегрузки TCP</string>
     <string name="item_system_app">Системные приложения</string>
     <string name="join_two_items">%1$s и %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
@@ -4787,12 +4791,12 @@ OTG отключается автоматически через 10 минут �
     <string name="partial_connectivity_text">Некоторые приложения и сервисы могут не работать из-за ограничения подключения. Продолжить?</string>
     <string name="passpoint_content">Учетные данные (%1$s)</string>
     <string name="passpoint_label">Сохранено через</string>
-    <string name="passpoint_r1_privacy_dialog_message">"Wi-Fi Passpoint - это надежная и безопасная автоматическая технология беспроводного соединения, запущенная Wi-Fi Alliance. Учетные записи настраиваются автоматически для бесшовного соединения между настроенной Wi-Fi сетью и мобильными устройствами.
+    <string name="passpoint_r1_privacy_dialog_message">"Этот сервис Wi-Fi предоставляется exands. Он позволяет автоматически подключаться к поддерживаемым точкам доступа поблизости.
 
-Эта функция получает MAC-адрес Wi-Fi только для первоначальной регистрации учетной записи. Мы будем обрабатывать ваши данные в соответствии с нашей %s."</string>
-    <string name="passpoint_r1_privacy_dialog_no">Отмена</string>
+Перед использованием ознакомьтесь с %s."</string>
+    <string name="passpoint_r1_privacy_dialog_no">Выход</string>
     <string name="passpoint_r1_privacy_dialog_title">Внимание</string>
-    <string name="passpoint_r1_privacy_dialog_url_text">Политикой конфиденциальности</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">Политикой конфиденциальности exands</string>
     <string name="passpoint_r1_privacy_dialog_yes">Согласен</string>
     <string name="passwordIncorrect">Неверный пароль</string>
     <string name="password_and_security">Пароли и безопасность</string>
