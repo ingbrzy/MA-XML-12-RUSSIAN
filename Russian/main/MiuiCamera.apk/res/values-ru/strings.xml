@@ -756,9 +756,9 @@
   <string name="pref_camera_common_settings">Общие настройки</string>
   <string name="pref_camera_contrast_title">Контрастность</string>
   <string name="pref_camera_debug_info_as_watermark_title">Отладка водяных знаков</string>
-  <string name="pref_camera_delay_capture_entry_10s">10 секунд</string>
-  <string name="pref_camera_delay_capture_entry_3s">3 секунды</string>
-  <string name="pref_camera_delay_capture_entry_5s">5 секунд</string>
+  <string name="pref_camera_delay_capture_10s">&lt;g id="10s_delay" refersto="10"&gt;%d&lt;/g&gt;секунд</string>
+  <string name="pref_camera_delay_capture_3s">&lt;g id="3s_delay" refersto="3"&gt;%d&lt;/g&gt;секунды</string>
+  <string name="pref_camera_delay_capture_5s">&lt;g id="5s_delay" refersto="5"&gt;%d&lt;/g&gt;секунд</string>  
   <string name="pref_camera_delay_capture_entry_audio">Звук</string>
   <string name="pref_camera_delay_capture_title">Таймер</string>
   <string name="pref_camera_device_watermark_title">Водяной знак</string>
