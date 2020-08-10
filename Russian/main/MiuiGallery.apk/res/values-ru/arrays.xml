@@ -5,6 +5,65 @@
         <item>Памятный день</item>
         <item>Яркие моменты</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>    
     <string-array name="baby_sexy">
         <item>Мальчик</item>
         <item>Девочка</item>
@@ -13,6 +72,45 @@
         <item>Резервное копирование фотографий</item>
         <item>Синхронизация фотографий с облаком</item>
     </string-array>
+    <string-array name="card_last_week_day">
+        <item>Прошлый понедельник</item>
+        <item>Прошлый вторник</item>
+        <item>Прошлая среда</item>
+        <item>Прошлый четверг</item>
+        <item>Прошлая пятница</item>
+    </string-array>	
+    <string-array name="chinese_holiday_last_year">
+        <item>Прошлый канун китайского Нового года</item>
+        <item>Прошлый китайский Новый год</item>
+        <item>Прошлый фестиваль фонарей</item>
+        <item>Прошлый фестиваль лодок-драконов</item>
+        <item>Прошлый фестиваль Циси</item>
+        <item>Прошлый фестиваль середины осени</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>Канун китайского Нового года через годы</item>
+        <item>Китайский Новый год через годы</item>
+        <item>Фестиваль фонарей через годы</item>
+        <item>Фестиваль лодок-драконов через годы</item>
+        <item>Фестиваль Циси через годы</item>
+        <item>Фестиваль середины осени через годы</item>
+    </string-array>	
+    <string-array name="holiday_last_year">
+        <item>Прошлый Новый год</item>
+        <item>Прошлый День святого валентина</item>
+        <item>Прошлый День труда</item>
+        <item>Прошлый День детей</item>
+        <item>Прошлый Национальный день</item>
+        <item>Прошлое Рождество</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>Новый год через годы</item>
+        <item>День cвятого валентина через годы</item>
+        <item>День труда через годы</item>
+        <item>День детей через годы</item>
+        <item>Национальный день через годы</item>
+        <item>Рождество через годы</item>
+    </string-array>	
     <string-array name="last_month">
         <item>Январь</item>
         <item>Февраль</item>
@@ -41,6 +139,11 @@
         <item>Новые друзья и старые приятели</item>
         <item>Прошлогодние встречи</item>
     </string-array>	
+    <string-array name="menu_copy_or_move">
+        <item>Переместить</item>
+        <item>Копировать</item>
+        <item>@string/cancel</item>
+    </string-array>	
     <string-array name="month">
         <item>Январь</item>
         <item>Февраль</item>
@@ -54,6 +157,20 @@
         <item>Октябрь</item>
         <item>Ноябрь</item>
         <item>Декабрь</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Январь прошлого года</item>
+        <item>Февраль прошлого года</item>
+        <item>Март прошлого года</item>
+        <item>Апрель прошлого года</item>
+        <item>Май прошлого года</item>
+        <item>Июнь прошлого года</item>
+        <item>Июль прошлого года</item>
+        <item>Август прошлого года</item>
+        <item>Сентябрь прошлого года</item>
+        <item>Октябрь прошлого года</item>
+        <item>Ноябрь прошлого года</item>
+        <item>Декабрь прошлого года</item>
     </string-array>
     <string-array name="owner_relation">
         <item>Папа</item>
@@ -87,6 +204,12 @@
         <item>Осень</item>
         <item>Зима</item>
     </string-array>
+    <string-array name="season_last_year">
+        <item>Весна прошлого года</item>
+        <item>Лето прошлого года</item>
+        <item>Осень прошлого года</item>
+        <item>Зима прошлого года</item>
+    </string-array>	
     <string-array name="sharer_relation_addressive">
         <item>Папа</item>
         <item>Мама</item>
