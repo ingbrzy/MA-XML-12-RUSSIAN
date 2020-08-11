@@ -12,7 +12,6 @@
     <string name="activate_fail_notification_title">Реактивировать синхронизацию</string>
     <string name="activating">Активация…</string>
     <string name="address">Адрес</string>
-    <string name="after_reset_need_restore_system_app">Похоже, выполнен сброс к заводским настройкам. Подключитесь к сети и восстановите системные приложения для нормальной работы в MIUI.</string>
     <string name="afternoon">PM</string>
     <string name="antispam">Список блокировок</string>
     <string name="app_name">Mi Mover</string>
@@ -64,7 +63,6 @@
     <string name="check_phone_io_error">Не удалось подключиться к сети</string>
     <string name="clear_old_task_failed">Не удалось удалить старые задачи</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
-    <string name="click_to_restore">Восстановите системные данные для нормальной работы в MIUI после заводского сброса. Нажмите, чтобы начать.</string>
     <string name="close">Закрыть</string>
     <string name="close_cellular_summary">Используется мобильный интернет, отключите его и снова подключитесь к новому устройству</string>
     <string name="close_cellular_title">Ошибка подключения</string>
@@ -83,22 +81,6 @@
     <string name="cloud_service_check_dialog_message">Похоже, отключена синхронизация для контактов и Галереи. Включите синхронизацию.</string>
     <string name="cloud_service_check_dialog_positive_button">Включить</string>
     <string name="cloud_service_check_dialog_title">Синхронизация контактов и Галереи</string>
-    <string name="com_android_email">Почта</string>
-    <string name="com_mi_liveassistant">Помощник трансляций</string>
-    <string name="com_miui_calculator">Калькулятор</string>
-    <string name="com_miui_cleanmaster">Очистка</string>
-    <string name="com_miui_compass">Компас</string>
-    <string name="com_miui_health">Здоровье</string>
-    <string name="com_miui_huanji">Mi Mover</string>
-    <string name="com_miui_notes">Заметки</string>
-    <string name="com_miui_screenrecorder">Запись экрана</string>
-    <string name="com_miui_weather2">Погода</string>
-    <string name="com_xiaomi_drivemode">Режим вождения</string>
-    <string name="com_xiaomi_gamecenter">Игры</string>
-    <string name="com_xiaomi_jr">Mi Finance</string>
-    <string name="com_xiaomi_scanner">Сканер</string>
-    <string name="com_xiaomi_shop">Mi Store</string>
-    <string name="com_xiaomi_youpin">Youpin</string>
     <string name="comma_seperator">", "</string>
     <string name="confirm_description">Подтвердить</string>
     <string name="connect_icloud_fail">Не удалось подключиться к iCloud</string>
@@ -150,7 +132,6 @@
     <string name="dialog_wechat_data_transfer_fail_button">Понятно</string>
     <string name="dialog_wechat_data_transfer_fail_message">Не удалось передать данные и историю чатов приложения WeChat из-за ограничений приложения. Попробуйте функцию резервного копирования в приложении.</string>
     <string name="dialog_wechat_data_transfer_fail_title">Ошибка переноса данных WeChat</string>
-    <string name="do_not_restore_temporarily">Не сейчас</string>
     <string name="document">Документы</string>
     <string name="early_morning">AM</string>
     <string name="err_authentication_failed">Не удалось подтвердить</string>
@@ -471,13 +452,10 @@
     <string name="qq_data_external">QQ данные SD-карты</string>
     <string name="quit_now">Выход</string>
     <string name="reconnect">Подключиться снова</string>
-    <string name="recovery_progress">Восстановление (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Нажмите кнопку ниже, чтобы повторить попытку.</string>
     <string name="restore_data_to_device_content">"Ваши данные были синхронизированы с Xiaomi Cloud.
 Войдите в ваш Mi Аккаунт, чтобы восстановить их."</string>
     <string name="restore_data_to_device_title">Восстановление данных на этом устройстве</string>
-    <string name="restore_right_now">Восстановить</string>
-    <string name="retry">Повтор</string>
     <string name="sar">Информация о воздействии RF</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -579,12 +557,6 @@
     <string name="sync_data_to_mi_cloud_summary">Откройте Xiaomi Cloud на своем iPhone и выполните следующие шаги для синхронизации данных. Нажмите кнопку ниже, после завершения синхронизации.</string>
     <string name="sync_data_to_mi_cloud_title">Синхронизация данных</string>
     <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
-    <string name="system_app_is_restore">Восстановление системных приложений…</string>
-    <string name="system_app_restore_completed">Восстановление завершено</string>
-    <string name="system_app_restore_completed_detail">Все системные приложения успешно восстановлены</string>
-    <string name="system_app_restore_failed">Произошла ошибка</string>
-    <string name="system_app_restore_failed_detail">Не удалось восстановить системные приложения. Проверьте настройки сети, не перезагружайте и не выключайте устройство до тех пор, пока приложения не будут полностью восстановлены. Нажмите кнопку ниже, чтобы повторить попытку.</string>
-    <string name="system_restore">Восстановить</string>
     <string name="task_backup_cancel_progress">Отмена…</string>
     <string name="task_canceled_all_local">Отменено</string>
     <string name="task_pending">Ожидание…</string>

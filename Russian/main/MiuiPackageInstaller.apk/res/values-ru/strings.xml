@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="action_bar_report_link_des">Оповещение приложения</string>
     <string name="adb_install_no_network">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="adb_install_open">Открытие…</string>
     <string name="adb_install_open_error">Не удалось открыть. Проверьте настройки сети и повторите попытку.</string>
@@ -96,6 +97,7 @@
 
 Все пользовательские данные будут сохранены.</string>
     <string name="done">Готово</string>
+    <string name="exit_install_button">Отмена</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="external_sources_settings">Настройки</string>
     <string name="external_sources_settings_negative">Запретить</string>
@@ -121,18 +123,27 @@
     <string name="increment_preparing">Подготовка…</string>
     <string name="install">Установить</string>
     <string name="install_app_progress_clear_apk">Удалить APK</string>
+    <string name="install_confirm_dialog_message">Для нормальной работы приложения необходимо сначала установить сервисы Google Play. Установка этого приложения сейчас может привести к неправильной работе. Все равно установить?</string>
+    <string name="install_confirm_dialog_negative_button">Отмена</string>
+    <string name="install_confirm_dialog_positive_button">Установить</string>
+    <string name="install_confirm_dialog_title">Внимание</string>
     <string name="install_confirm_question">Установить приложение? Приложение получит доступ к</string>
+    <string name="install_confirm_question_des_10">Если вы осознаете риски и хотите продолжить, авторизуйте установку в Безопасность &gt; Приложения &gt; Разрешения &gt; Приложения с возможными рисками. В случае отсутствия пункта \"Приложения с возможными рисками\", обновите приложение Безопасность и повторите попытку.</string>
     <string name="install_confirm_question_no_perms">Установить приложение? Приложение не требует никаких специальных разрешений.</string>
     <string name="install_confirm_question_update">Установить обновление? Данные приложения будут сохранены. Обновленное приложение получит доступ к</string>
     <string name="install_confirm_question_update_no_perms">Установить обновление? Данные приложения будут сохранены. Приложение не требует никаких специальных разрешений.</string>
     <string name="install_confirm_question_update_system">Установить обновление системного приложения? Данные приложения будут сохранены. Обновленное приложение получит доступ к</string>
     <string name="install_confirm_question_update_system_no_perms">Установить обновление системного приложения? Данные приложения будут сохранены. Приложение не требует никаких специальных разрешений.</string>
+    <string name="install_confirm_text_gms">Для нормальной работы приложения установите сервисы Google Play</string>
+    <string name="install_continue">Продолжить установку</string>
     <string name="install_control_cancel_install">Отмена</string>
+    <string name="install_control_cancel_vip_account_install">Выход</string>
     <string name="install_control_continue_install">Установить</string>
     <string name="install_control_lite_mode_explain_des">Приложение из неизвестного источника и может не работать в облегченном режиме.</string>
     <string name="install_control_lite_mode_solution_des">Вы можете продолжить установку.
 В случае проблем, отключите облегченный режим и повторите попытку.</string>
     <string name="install_control_normal_mode_explain_des">Приложение не может быть установлено из-за правовых ограничений</string>
+    <string name="install_control_vip_account_install">Подать заявку</string>
     <string name="install_done">Приложение установлено</string>
     <string name="install_failed">Приложение не установлено</string>
     <string name="install_failed_blocked">Установка заблокирована</string>
@@ -144,7 +155,12 @@
     <string name="install_finished_notification_summary">Нажмите для освобождения места</string>
     <string name="install_finished_notification_title">%1$s установлено. Можно освободить %2$s</string>
     <string name="install_from_appstore_hint">Рекомендуется установить приложение из App Store</string>
+    <string name="install_vip_account_mode_explain_des">Это бета-версия приложения. Подайте заявку на бета-тестирование перед его установкой.</string>
+    <string name="install_vip_account_mode_solution_des">Подать заявку</string>
     <string name="installing">Установка…</string>
+    <string name="intercept_confirm_dialog_message">%1$s пытается установить %2$s. Необходимо подтверждение для продолжения.</string>
+    <string name="intercept_confirm_dialog_positive">Подтвердить</string>
+    <string name="intercept_confirm_dialog_title">Внимание</string>
     <string name="intercept_install">Установить</string>
     <string name="launch">Открыть</string>
     <string name="lift_ban">Разрешить</string>
@@ -327,6 +343,7 @@
   • установочный APK из неизвестного источника"</string>
     <string name="settings_warning_dialog_msg">Если вы отключите эту функцию, установка безопасных версий приложений предлагаться не будет, устройство может быть подвержено угрозам безопасности. Отключить?</string>
     <string name="settings_warning_dialog_title">Внимание</string>
+    <string name="spannable_continue_text">Я осознаю риски. Продолжить установку.</string>
     <string name="system_warning">Если вы не предоставите это разрешение, некоторые функции устройства могут работать неправильно.</string>
     <string name="toast_network_eror">Не удалось подключиться к сети</string>
     <string name="trust_switch_dialog_msg">Не уведомлять, когда приложение получает доступ к контактам, сообщениям, паролям или другим функциям системы.</string>
