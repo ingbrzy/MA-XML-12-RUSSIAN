@@ -36,7 +36,7 @@
     <string name="accessibility_ai_watermark_panel_on">AI панель водяных знаков</string>
     <string name="accessibility_back_preview_status">Предпросмотр основной камеры</string>
     <string name="accessibility_beauty_function_button">Улучшить</string>
-    <string name="accessibility_beauty_function_panel_on">Панель улучшений</string>	
+    <string name="accessibility_beauty_function_panel_on">Панель улучшений</string>
     <string name="accessibility_beauty_panel_closed">Меню улучшений скрыто</string>
     <string name="accessibility_beauty_panel_open">Меню улучшений открыто</string>
     <string name="accessibility_beauty_switch_closed">Улучшения отключены</string>
@@ -69,7 +69,7 @@
     <string name="accessibility_description_clone_button">Панель клонирования</string>
     <string name="accessibility_document_blackwhite_button">Сканирование документов. Черное и белое.</string>
     <string name="accessibility_document_origin_button">Сканирование документов. Оригинал.</string>
-    <string name="accessibility_document_strengthen_button">Сканирование документов. Улучшенное.</string>	
+    <string name="accessibility_document_strengthen_button">Сканирование документов. Улучшенное.</string>
     <string name="accessibility_effect_mode_button">Эффекты</string>
     <string name="accessibility_eis_normal">EIS включена</string>
     <string name="accessibility_eis_off">EIS выключена</string>
@@ -105,12 +105,12 @@
     <string name="accessibility_manually_custom_panel_on">Панель настройки</string>
     <string name="accessibility_mimoji_background_panel_on">Панель фонов</string>
     <string name="accessibility_mimoji_image_panel_on">Панель аватаров</string>
-    <string name="accessibility_mimoji_timbre_panel_on">Панель озвучивания</string>	
+    <string name="accessibility_mimoji_timbre_panel_on">Панель озвучивания</string>
     <string name="accessibility_mimovie_off">Кадрирование отключено</string>
     <string name="accessibility_mimovie_on">Кадрирование включено</string>
-    <string name="accessibility_module_picker_finish">Переключение на %s</string>
     <string name="accessibility_mode">Режим доступности</string>
     <string name="accessibility_mode_dismiss_button">Отключить кнопку выбора режима</string>
+    <string name="accessibility_module_picker_finish">Переключение на %s</string>
     <string name="accessibility_more">Еще</string>
     <string name="accessibility_open">Включено</string>
     <string name="accessibility_peak">Пик фокуса</string>
@@ -119,7 +119,7 @@
     <string name="accessibility_picturesize_9_16_button">Соотношение сторон девять к шестнадцати</string>
     <string name="accessibility_picturesize_fullscreen_button">Полноэкранное соотношение сторон</string>
     <string name="accessibility_portrait_button">Портрет</string>
-    <string name="accessibility_portrait_depth_effect_panel_on">Панель портретного режима</string>	
+    <string name="accessibility_portrait_depth_effect_panel_on">Панель портретного режима</string>
     <string name="accessibility_protrait">Портрет</string>
     <string name="accessibility_pull_down_to_open_camera">Проведите вниз для открытия камеры</string>
     <string name="accessibility_record_button">Кнопка записи</string>
@@ -196,7 +196,7 @@
     <string name="ai_scene_mode_temple">Храм</string>
     <string name="ai_scene_mode_tower">Башня</string>
     <string name="ai_scene_mode_tutuk">Трехколесное средство</string>
-    <string name="ai_scene_mode_unknown">Неизвестно</string>	
+    <string name="ai_scene_mode_unknown">Неизвестно</string>
     <string name="ai_scene_mode_use_hint_text">"Распознавать сцены с помощью AI
 и настраивать параметры автоматически"</string>
     <string name="ai_scene_top_moon_off">Режим слабого освещения</string>
@@ -689,7 +689,7 @@
     <string name="object_track_enable_toast">Для выбора объекта коснитесь одновременно двух точек по диагонали вокруг его границы</string>
     <string name="only_mimoji_multi_window_mode_not_supported">Эта функция не работает в многооконном режиме</string>
     <string name="pano_click_to_toggle_direction">Нажмите на стрелку, чтобы изменить направление</string>
-    <string name="pano_go_on_moving">Равномерно перемещайте устройство в направлении стрелки</string>	
+    <string name="pano_go_on_moving">Равномерно перемещайте устройство в направлении стрелки</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Совместите стрелку с линией</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Продолжайте перемещать устройство</string>
     <string name="pano_how_to_use_prompt_slow_down">Замедлите движение…</string>
@@ -847,9 +847,9 @@
     <string name="pref_camera_common_settings">Общие настройки</string>
     <string name="pref_camera_contrast_title">Контрастность</string>
     <string name="pref_camera_debug_info_as_watermark_title">Отладка водяных знаков</string>
-    <string name="pref_camera_delay_capture_10s">&lt;g id="10s_delay" refersto="10"&gt;%d&lt;/g&gt;секунд</string>
-    <string name="pref_camera_delay_capture_3s">&lt;g id="3s_delay" refersto="3"&gt;%d&lt;/g&gt;секунды</string>
-    <string name="pref_camera_delay_capture_5s">&lt;g id="5s_delay" refersto="5"&gt;%d&lt;/g&gt;секунд</string>
+    <string name="pref_camera_delay_capture_10s">%d секунд</string>
+    <string name="pref_camera_delay_capture_3s">%ds секунды</string>
+    <string name="pref_camera_delay_capture_5s">%ds секунд</string>
     <string name="pref_camera_delay_capture_entry_audio">Звук</string>
     <string name="pref_camera_delay_capture_title">Таймер</string>
     <string name="pref_camera_device_watermark_title">Водяной знак</string>
