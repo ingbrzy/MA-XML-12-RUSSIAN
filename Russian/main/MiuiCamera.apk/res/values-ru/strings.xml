@@ -837,8 +837,8 @@
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
     <string name="pref_camera_hfr_entry_off">Откл.</string>
-    <string name="pref_camera_high_quality_preferred_description">Улучшение изображения с помощью специальных алгоритмов и увеличения времени съемки</string>
-    <string name="pref_camera_high_quality_preferred_title">Улучшение изображения</string>
+    <string name="pref_camera_high_quality_preferred_description">Улучшение качества изображения с помощью интеллектуального алгоритма. При включении этой функции скорость съемки может уменьшиться.</string>
+    <string name="pref_camera_high_quality_preferred_title">Улучшение качества</string>
     <string name="pref_camera_histogram_entry_disable">Отключить</string>
     <string name="pref_camera_histogram_entry_enable">Включить</string>
     <string name="pref_camera_iso_entry_auto">АВТО</string>
@@ -977,8 +977,6 @@
     <string name="pref_camera_super_resolution_title">Суперразрешение</string>
     <string name="pref_camera_tilt_shift_entry_circle">Окружность</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Параллель</string>
-    <string name="pref_camera_tilt_shift_entryvalue_circle">круг</string>
-    <string name="pref_camera_tilt_shift_entryvalue_parallel">параллель</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="pref_camera_touch_focus_delay_title">Увеличить время ожидания фокусировки касанием</string>
     <string name="pref_camera_touchafaec_entry_off">Откл</string>
@@ -1056,7 +1054,7 @@
     <string name="pref_google_lens_summary">Направьте камеру на контактную информацию, URL-адреса и QR-коды, чтобы просмотреть доступные функции</string>
     <string name="pref_google_lens_title">Предложения от Google Lens</string>
     <string name="pref_groupshot_with_primitive_title">Сохранять оригиналы снимков</string>
-    <string name="pref_hdr10_video_mode_description">Поддержка 4K и 8K видео с форматом сжатия H.265</string>
+    <string name="pref_hdr10_video_mode_description">Автоматическая оптимизация цвета и контрастности для 4K и 8K видео. Оптимизированное видео может воспроизведено только на устройствах, совместимых с HDR10</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr_value_default">Откл.</string>
     <string name="pref_lens_dirty_detect_summary">Разрешить уведомления о загрязнении объектива</string>
@@ -1278,6 +1276,7 @@
     <string name="video_effect_entry_rome">Рим</string>
     <string name="video_effect_entry_summer_day">Лето</string>
     <string name="video_effect_entry_wind_sing">Бриз</string>
+    <string name="video_hdr10_tip">HDR10</string>
     <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
     <string name="video_tag_flag_title">Тег</string>
     <string name="video_ultra_clear_tip">4K UHD</string>

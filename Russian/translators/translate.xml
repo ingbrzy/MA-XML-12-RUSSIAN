@@ -56,10 +56,10 @@
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
     <string name="bluetooth_active_battery_level">Активно. Уровень заряда: %1$s</string>
-    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R: %2$</string>
+    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R: %2$s</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
     <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
-    <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$</string>
+    <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
@@ -186,7 +186,7 @@
     <string name="data_usage_ota">Обновления системы</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
-    <string name="date_picker_lunar">Китайский традиционный календарь</string>
+    <string name="date_picker_lunar">Лунный календарь</string>
     <string name="debug_app">Выбрать приложение для отладки</string>
     <string name="debug_app_not_set">Приложение для отладки не задано</string>
     <string name="debug_app_set">Отладка приложения \"%1$s\"</string>
@@ -260,6 +260,7 @@
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
     <string name="install_other_apps">Ненадежные источники</string>
+    <string name="just_a_sec">Подождите…</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
@@ -294,6 +295,7 @@ mm"</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
+    <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
@@ -760,5 +762,4 @@ mm"</string>
     <string name="zen_mode_forever">До отключения</string>
     <string name="zen_mode_settings_summary_off">Никогда</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Включите режим \"Не беспокоить\"</string>
-  <string name="just_a_sec">Подождите…</string>	
 </resources>

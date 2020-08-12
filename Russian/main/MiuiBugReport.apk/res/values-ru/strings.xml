@@ -196,8 +196,11 @@ ID: %s
     <string name="feedback_delete_images">Удалить изображения</string>
     <string name="feedback_description">Описание</string>
     <string name="feedback_description_bugreport_hint">В некоторых случаях (…) мой телефон работает неправильно (…).</string>
-    <string name="feedback_description_hint">Опишите проблему, с которой вы столкнулись</string>
-    <string name="feedback_description_hint_suggestion">"Расскажите нам, как бы вы хотели улучшить MIUI."</string>
+    <string name="feedback_description_hint">"Опишите здесь проблему, с которой вы столкнулись.
+%1$d. В каком приложении или на какой странице возникла проблема?
+%2$d. Какие действия вызвали проблему?
+%3$d. Укажите дополнительную информацию, которая может помочь нам решить эту проблему."</string>
+    <string name="feedback_description_hint_suggestion">Расскажите нам, как бы вы хотели улучшить MIUI.</string>
     <string name="feedback_description_label">Описание</string>
     <string name="feedback_description_suggest_hint">Я хочу, чтобы вы добавили новую функцию (), поскольку мне нужно ().</string>
     <string name="feedback_detail_copy_toast">Скопировано в буфер обмена</string>
@@ -644,7 +647,7 @@ ID: %s
     <string name="title_same_question_feedback_main">Похожие проблемы на форуме MIUI</string>
     <string name="title_system_app">Система</string>
     <string name="title_user_guide">Руководство пользователя</string>
-    <string name="toast_app_tag_required">Выберите проблему</string>
+    <string name="toast_app_tag_required">Сначала выберите проблему</string>
     <string name="toast_catch_full_log_catching">Одновременно можно создать только один журнал</string>
     <string name="toast_catch_full_log_open_failed">Не удалось начать создание журнала</string>
     <string name="toast_description_required">Отчет не может быть пустым</string>
