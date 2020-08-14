@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="agree_desc">Предоставьте обязательные разрешения, перечисленные выше</string>
+    <string name="agree_desc">Предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="app_name">Mi Share</string>
     <string name="btn_cancel">Отмена</string>
     <string name="btn_cancel_send">Отменить передачу</string>
@@ -52,7 +52,7 @@
     <string name="device_status_success">Передано успешно</string>
     <string name="device_status_waiting">Ожидание…</string>
     <string name="device_type_oppo_phone">OPPO</string>
-    <string name="device_type_pc">Компьютеры</string>
+    <string name="device_type_pc">ПК</string>
     <string name="device_type_realme_phone">realme</string>
     <string name="device_type_vivo_phone">vivo</string>
     <string name="device_type_xiaomi_phone">Xiaomi</string>
@@ -78,7 +78,7 @@
     <string name="error_send_file_not_found">Не удалось найти файл. Повторите попытку.</string>
     <string name="error_send_file_service_disabled">Исходящая передача отменена</string>
     <string name="error_send_transfer_error">Не удалось отправить. Повторите попытку.</string>
-    <string name="error_send_transfer_pc_error">Время передачи истекло. Обновите приложение для обмена файлами на вашем компьютере и повторите попытку.</string>
+    <string name="error_send_transfer_pc_error">Время передачи истекло. Обновите приложение для обмена файлами на вашем ПК и повторите попытку.</string>
     <string name="error_slave_wifi_in_use">Mi Share не поддерживает работу при включенном двойном Wi-Fi. Отключите двойной Wi-Fi в настройках и повторите попытку.</string>
     <string name="error_slave_wifi_in_use_china">Mi Share не поддерживает работу при включенном двойном Wi-Fi. Отключите двойной Wi-Fi в настройках и повторите попытку.</string>
     <string name="error_timeout">Время сеанса истекло. Повторите попытку позже.</string>
@@ -111,9 +111,9 @@
     <string name="mishare_settings_summary_international">"С помощью приложения Mi Share вы можете передавать файлы на устройства поблизости.
 Поддерживаются устройства Mi и Redmi.
 Поддержка для OPPO, vivo, realme и других моделей будет добавлена позже. Полный список поддерживаемых устройств доступен на веб-сайте."</string>
-    <string name="mishare_state_protection">Автовключение Mi Share</string>
-    <string name="mishare_state_protection_summary">Автоматически включать Mi Share при возобновлении подключения по Bluetooth или Wi-Fi</string>
-    <string name="mishare_state_protection_summary_china">Автоматически включать Mi Share при возобновлении подключения по Bluetooth или Wi-Fi</string>
+    <string name="mishare_state_protection">Автовключение</string>
+    <string name="mishare_state_protection_summary">Автоматически включать Mi Share при доступном подключении по Bluetooth или Wi-Fi</string>
+    <string name="mishare_state_protection_summary_china">Автоматически включать Mi Share при доступном подключении по Bluetooth или Wi-Fi</string>
     <string name="mishare_transefer_channel_desc">Отправка и прием файлов</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
@@ -187,7 +187,7 @@
     <string name="to_feedback">Отчет</string>
     <string name="transfer_intercept_to_remote">Не удалось передать: %1$s</string>
     <string name="transfer_to_pc_summary">Последняя версия программного обеспечения AIoT, установленная на ноутбуках Mi, поддерживает работу с Mi Share. Вы можете проверить список поддерживаемых моделей ноутбуков на сайте MIUI. Если ваш ноутбук есть в списке, но AIoT на нем не установлен, обновите BIOS и драйвер сетевого адаптера и загрузите AIoT.</string>
-    <string name="transfer_to_pc_title">Передача на компьютер</string>
+    <string name="transfer_to_pc_title">Передача на ПК</string>
     <string name="transfer_to_phone_summary">Включите Mi Share в шторке уведомлений. После того, как будут видны устройства поблизости, вы можете отправлять файлы или фото. Для отправки выберите устройство получателя.</string>
     <string name="transfer_to_phone_title">Передача на устройство</string>
     <string name="unkonw_device">Неизвестное устройство</string>
