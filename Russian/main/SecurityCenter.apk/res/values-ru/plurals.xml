@@ -271,19 +271,19 @@
     <item quantity="one">Найдено: %d</item>
   </plurals>
   <plurals name="hints_scan_danger_result_with_number">
-    <item quantity="other">%d угроз найдено, исправить сейчас</item>
-    <item quantity="one">%d угроза найдена, исправить сейчас</item>
-    <item quantity="few">%d угрозы найдено, исправить сейчас</item>
+    <item quantity="other">Найдено %d угроз</item>
+    <item quantity="one">Найдена %d угроза</item>
+    <item quantity="few">Найдено %d угрозы</item>
   </plurals>
   <plurals name="hints_traffic_disable_title">
-    <item quantity="other">Учитывается трафик %d приложений</item>
-    <item quantity="one">Учитывается трафик %d приложения</item>
-    <item quantity="few">Учитывается трафик %d приложений</item>
+    <item quantity="other">Трафик учитывается для %d приложений</item>
+    <item quantity="one">Трафик учитывается для %d приложения</item>
+    <item quantity="few">Трафик учитывается для %d приложений</item>
   </plurals>
   <plurals name="hints_traffic_enable_title">
-    <item quantity="other">Не учитывается трафик %d приложений</item>
-    <item quantity="one">Не учитывается трафик %d приложения</item>
-    <item quantity="few">Не учитывается трафик %d приложений</item>
+    <item quantity="other">Трафик не учитывается для %d приложений</item>
+    <item quantity="one">Трафик не учитывается для %d приложения</item>
+    <item quantity="few">Трафик не учитывается для %d приложений</item>
   </plurals>
   <plurals name="install_game_count_title">
     <item quantity="other">Добавлено %d игр</item>
