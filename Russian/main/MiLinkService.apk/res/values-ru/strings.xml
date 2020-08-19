@@ -40,6 +40,7 @@
     <string name="console_guide_subtitle_hang_up">Не прерывайте трансляцию при выключении экрана устройства (это может привести к повышенному расходу заряда батареи).</string>
     <string name="console_guide_subtitle_private">Скройте всплывающие окна, уведомления о входящих вызовах и другие элементы, которые могут содержать личную информацию.</string>
     <string name="console_guide_subtitle_small_window">Минимизируйте окно для возможности пользоваться телефоном во время трансляции</string>
+    <string name="copy">Копировать</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="dialog_can_not_find_device">Не удалось найти устройства поблизости</string>
     <string name="dialog_cancle">Отмена</string>
@@ -51,7 +52,7 @@
     <string name="dialog_connecting">Подключение…</string>
     <string name="dialog_miplay_permission_message">Для нормальной работы предоставьте приложению Трансляция доступ к микрофону, местоположению и файлам в памяти устройства. Для продолжения нажмите \"Настройки\" и выберите \"Разрешения\".</string>
     <string name="dialog_miplay_permission_positive">Настройки</string>
-    <string name="dialog_miplay_permission_title">Требуются разрешения</string>	
+    <string name="dialog_miplay_permission_title">Требуются разрешения</string>
     <string name="dialog_nfc_cast_wifi_off"> Для трансляции с использованием NFC, необходимо включить Wi-Fi. Включить?</string>
     <string name="dialog_no_device_message">&lt;Data&gt;1. Подключите устройство и ТВ к одной Wi-Fi сети.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. На некоторых моделях ТВ эта функция доступна только при включенной функции проецирования. Для дополнительной информации обратитесь к справке.&lt;/Data&gt;</string>
     <string name="dialog_no_device_message_china">&lt;Data&gt;1. Подключите устройство и ТВ к одной Wi-Fi сети.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. На некоторых моделях ТВ эта функция доступна только при включенной функции проецирования. Для дополнительной информации обратитесь к справке.&lt;/Data&gt;</string>
@@ -81,6 +82,7 @@
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Синхронизация отключена из-за слишком большого количества попыток входа.</string>
     <string name="evening">После полудня</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -230,9 +232,11 @@
     <string name="nfc_connect_failed_toast">Трансляция не удалась. Повторите попытку.</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
+    <string name="not_set">Не задано</string>
     <string name="notification_rc_title">Помощник Xiaomi TV</string>
     <string name="notification_show_more">Дополнительные функции</string>
     <string name="open_game_accelerate">Включить Ускорение игр</string>
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="privacy_agree">Согласен</string>
     <string name="privacy_detail">&lt;Data&gt;Для нормальной работы приложению необходимы подключение к интернету и разрешения на сбор личной информации. Чтобы полностью понять ваши права как пользователя, а также способы, которыми мы используем ваши данные, прочтите и примите наши &amp;lt;a href=%1$s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="privacy_detail_extra">&lt;Data&gt;Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Используя эту функцию, вы соглашаетесь с &amp;lt;a href=%1$s&amp;gt;Политикой конфиденциальности HappyCast&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Юридическим заявлением HappyCast&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
@@ -324,6 +328,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="synergy_casting">Трансляция в данный момент недоступна</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День посадки деревьев</string>
@@ -383,6 +388,12 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+<!-- ### FROM TRANSLATION + [SOURCE] -->
+<!-- ### [OFF] -->
+    <string name="v7_preference_off">ОТКЛ.</string>
+<!-- ### FROM TRANSLATION + [SOURCE] -->
+<!-- ### [ON] -->
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
