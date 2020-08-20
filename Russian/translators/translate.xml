@@ -275,6 +275,8 @@
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="media_category">Мультимедиа</string>
     <string name="media_transfer_this_device_name">Это устройство</string>
+    <string name="menu_new_display_open">Открыть в новом окне</string>
+    <string name="menu_pc_open">Открыть на ПК</string>
     <string name="midnight">Ночь</string>
     <string name="miui_clock_city_name_local">Местное время</string>
     <string name="miui_clock_city_name_second">Вторые часы</string>
@@ -298,7 +300,7 @@ mm"</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
@@ -751,6 +753,9 @@ mm"</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
     <string name="window_animation_scale_title">Анимация окон</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
     <string name="yesterday">Вчера</string>
     <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключен.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник %1$s. Чтобы услышать сигнал, включите звук.</string>

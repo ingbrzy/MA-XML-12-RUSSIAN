@@ -149,6 +149,10 @@
     <string name="inner_storage_path">Внутренняя память</string>
     <string name="just_now">Сейчас</string>
     <string name="license_host_unreachable">Устройство не подключено к облачным сервисам. Для просмотра посетите страницу %s на любом подключенном устройстве.</string>
+    <string name="load_label_up_no_data">Больше ничего нет</string>
+    <string name="load_label_up_none">Больше ничего нет</string>
+    <string name="load_label_up_refresh">Обновление…</string>
+    <string name="load_label_up_refresh_fail">Ошибка обновления</string>
     <string name="load_metered_network_dialog_cancel">Отмена</string>
     <string name="load_metered_network_dialog_desc">Устройство не подключено к Wi-Fi. Использовать мобильный интернет для загрузки?</string>
     <string name="load_metered_network_dialog_ok">Загрузить</string>
@@ -224,6 +228,10 @@
     <string name="pre_user_agreement">Пользовательское соглашение</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="refresh_label_pull_to_refresh">Потяните вниз для обновления</string>
+    <string name="refresh_label_refreshed">Успешно обновлено</string>
+    <string name="refresh_label_refreshing">Обновление…</string>
+    <string name="refresh_label_release_to_refresh">Отпустите для обновления</string>
     <string name="remove_success">Успешно удалено</string>
     <string name="rename_ext_confirm_dialog_desc">Изменение типа файла может сделать файл непригодным</string>
     <string name="rename_file_select_error">Не могу переименовать несколько файлов</string>
@@ -280,6 +288,16 @@
     <string name="transfer_progress_text">%1$s / %2$s</string>
     <string name="transport_end_button">Изменить</string>
     <string name="transport_title">Загрузки</string>
+    <string name="update_dialog_button_cancel">Отмена</string>
+    <string name="update_dialog_button_ok">Обновить</string>
+    <string name="update_dialog_content">"Новая версия: %1$s
+%2$s"</string>
+    <string name="update_dialog_title">Доступно обновление</string>
+    <string name="update_failed">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="update_failed_no_app_info">Не удалось загрузить установочный пакет</string>
+    <string name="update_no_network">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="update_no_update">Обновлений нет</string>
+    <string name="update_progress_dialog_content">Загрузка…</string>
     <string name="upload_done">Успешно загружено</string>
     <string name="upload_done_info_for_sys_content_with_fail">%1$s. %2$s.</string>
     <string name="upload_done_info_for_sys_title">Успешно загружено. Нажмите для просмотра.</string>
@@ -303,6 +321,9 @@
     <string name="waiting_upload">Ожидание</string>
     <string name="warning_bar_title_cloud_space_already_full">Облачное хранилище почти заполнено. Фотографии могут быть не синхронизированы.</string>
     <string name="warning_bar_title_cloud_space_full">Облачное хранилище заполнено. Не удалось синхронизировать фотографии, журнал вызовов и другие файлы.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
     <string name="year_month_day_format">d MMMM, yyyy</string>
     <string name="yesterday">Вчера</string>
 </resources>

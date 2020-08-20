@@ -67,7 +67,7 @@
     <string name="check_in_todo_app">Просмотр задач</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="cloud_service_state_open_reminder">Включите синхронизацию с облаком</string>
-    <string name="cloud_service_state_open_reminder_note_and_todo">Включите синхронизацию с облаком</string>	
+    <string name="cloud_service_state_open_reminder_note_and_todo">Включите синхронизацию с облаком</string>
     <string name="cloud_trash_bin_title">Удаленные заметки в облаке</string>
     <string name="confirm_cancel">Отмена</string>
     <string name="confirm_ok">Согласен</string>
@@ -78,7 +78,7 @@
     <string name="cta_dialog_message">Для нормальной работы приложению Заметки необходимо подключение к интернету, разрешение на запись звука и доступ к вашим контактам. Разрешить?</string>
     <string name="cta_dialog_title">Требуются разрешения</string>
     <string name="cta_reminder">Для нормальной работы приложению Заметки необходимо подключение к интернету, разрешение на запись звука и доступ к вашим контактам. Разрешить?</string>
-    <string name="cta_v2_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше</string>	
+    <string name="cta_v2_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше</string>
     <string name="cta_v2_app_purpose">Создание, просмотр и управление заметками</string>
     <string name="cta_v2_app_purpose_v12">Добро пожаловать в Заметки! Вы можете использовать это приложение для создания задач и заметок, содержащих текст, изображения и аудио.</string>
     <string name="data_empty_note">Заметки отсутствуют</string>
@@ -415,7 +415,7 @@
     <string name="sync_all_terms">%1$s, %2$s, и %3$s</string>
     <string name="sync_folder_todo">%1$s и %2$s</string>
     <string name="sync_note_folder">%1$s и %2$s</string>
-    <string name="sync_note_todo">%1$s и %2$s</string>	
+    <string name="sync_note_todo">%1$s и %2$s</string>
     <string name="sync_tips">Нажмите для синхронизации заметок с облаком.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
@@ -590,5 +590,8 @@
     <string name="wednesday_shortest">Ср</string>
     <string name="widget_content_loading">Подождите…</string>
     <string name="widget_havenot_content">Нажмите для создания заметки. Удерживайте виджет для изменения размера.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
     <string name="yesterday">Вчера</string>
 </resources>
