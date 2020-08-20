@@ -234,9 +234,14 @@
     <string name="dialog_renew_positive_text">ДА, Я ЛЮБЛЮ МУЗЫКУ</string>
     <string name="dialog_renew_success">Спасибо за подтверждение</string>
     <string name="dialog_score_btn_good">Оценить</string>
+    <string name="dialog_score_msg_score_explorer">Вам нравится Mi Music?</string>
+    <string name="dialog_score_msg_score_not_good">Могли бы вы оставить свой отзыв?</string>
+    <string name="dialog_score_msg_score_perfect">Прекрасно! Оцените калькулятор в Play Маркете?</string>
     <string name="dialog_score_prompt_bad">Спасибо за ваш отзыв! Мы сделаем все возможное, чтобы улучшить наше приложение и сервисы.</string>
     <string name="dialog_score_prompt_good">Оцените наше приложение в Google Play?</string>
     <string name="dialog_score_title">Оценить приложение</string>
+    <string name="dialog_score_toast_rate">Оцените приложение</string>
+    <string name="dialog_score_toast_scroll_down_score_midrop">Прокрутите вниз, чтобы оценить приложение</string>
     <string name="dialog_song_sort_type">Сортировка треков</string>
     <string name="dialog_song_sort_type_name">По названиям</string>
     <string name="dialog_song_sort_type_playing_times">По частоте</string>
@@ -358,6 +363,7 @@
     <string name="evening">PM</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
+    <string name="exo_controls_hide">Скрыть управление</string>
     <string name="exo_controls_next_description">Следующий трек</string>
     <string name="exo_controls_pause_description">Приостановить</string>
     <string name="exo_controls_play_description">Воспроизвести</string>
@@ -366,8 +372,12 @@
     <string name="exo_controls_repeat_off_description">Не повторять</string>
     <string name="exo_controls_repeat_one_description">Повторять трек</string>
     <string name="exo_controls_rewind_description">Перемотать назад</string>
+    <string name="exo_controls_show">Показать управление</string>
     <string name="exo_controls_shuffle_description">Перемешать</string>
+    <string name="exo_controls_shuffle_off_description">Перемешивание отключено</string>
+    <string name="exo_controls_shuffle_on_description">Перемешивание включено</string>
     <string name="exo_controls_stop_description">Остановить</string>
+    <string name="exo_controls_vr_description">VR-режим</string>
     <string name="exo_download_completed">Скачивание завершено</string>
     <string name="exo_download_description">Скачать</string>
     <string name="exo_download_downloading">Скачивание…</string>
@@ -376,6 +386,10 @@
     <string name="exo_download_removing">Удаление скачанных файлов…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_role_alternate">Чередование</string>
+    <string name="exo_track_role_closed_captions">Субтитры</string>
+    <string name="exo_track_role_commentary">Комментарий</string>
+    <string name="exo_track_role_supplementary">Дополнительно</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -938,6 +952,7 @@
     <string name="shuffle_music">В случайном порядке</string>
     <string name="shuffle_off_notif">Перемешивание отключено.</string>
     <string name="shuffle_on_notif">Перемешивание включено.</string>
+    <string name="shuffle_play_toast_text">Перемешивание треков…</string>
     <string name="similar_albums">Похожие альбомы</string>
     <string name="similar_playlists">Похожие плейлисты</string>
     <string name="similar_songs">Похожие треки</string>
@@ -1103,6 +1118,8 @@
     <string name="toast_not_pro">Эта функция доступна только PRO подписчикам</string>
     <string name="toast_uhd_songs_for_download">Качество загрузок: высокое</string>
     <string name="toast_uhd_songs_for_stream">Качество музыки: высокое</string>
+    <string name="toast_will_play_list_when_ad_pause">Плейлист начнется после рекламы</string>
+    <string name="toast_will_play_song_when_ad_pause">Воспроизведение начнется после рекламы</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="top_chart_title">Чарты</string>
