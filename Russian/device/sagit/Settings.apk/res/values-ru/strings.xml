@@ -4210,8 +4210,8 @@
     <string name="mqs_privacy_automatically_upload">Отправлять журналы автоматически</string>
     <string name="mqs_privacy_dialog_cancel">Отмена</string>
     <string name="mqs_privacy_dialog_confirm">Отправить</string>
-    <string name="mqs_privacy_dialog_content">Отправить журналы, чтобы помочь нам найти и решить эту проблему? Журналы могут содержать личную информацию, включая данные вашего местоположения.</string>
-    <string name="mqs_privacy_dialog_title">Произошла ошибка</string>
+    <string name="mqs_privacy_dialog_content">Похоже, на вашем устройстве были ошибки. Вы можете отправить журналы, которые помогут в решении проблем. Журналы могут содержать вашу личную информацию, включая информацию о вашем местоположении. Отправить сейчас?</string>
+    <string name="mqs_privacy_dialog_title">Отправка журналов</string>
     <string name="mr_button_content_description">Трансляция</string>
     <string name="mr_cast_button_connected">Трансляция. Подключено</string>
     <string name="mr_cast_button_connecting">Трансляция. Подключение</string>
@@ -5614,6 +5614,8 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_projection_sample_title">Гид по функциям</string>
     <string name="screen_projection_title">Трансляция</string>
     <string name="screen_reader_category_title">Программы чтения с экрана</string>
+    <string name="screen_reader_mode_input_type_summary">Выберите жест для активации ввода текста при включенном TalkBack</string>
+    <string name="screen_reader_mode_input_type_title">Ввод текста</string>
     <string name="screen_resolution_dialog_title">Изменение разрешения</string>
     <string name="screen_resolution_high_format">Высокое (%1$s)</string>
     <string name="screen_resolution_normal_format">Нормальное (%1$s)</string>
