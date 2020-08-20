@@ -7276,7 +7276,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_use_power_only">Подача питания</string>
     <string name="usb_use_tethering">USB модем</string>
     <string name="use_control_panel">Центр управления</string>
-    <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
+    <string name="use_location_summary">Разрешить Google использовать доступ к местоположению для улучшения поиска и работы других служб</string>
     <string name="use_location_title">Учитывать при поиске</string>
     <string name="use_open_wifi_automatically_summary">Автоматически подключаться к общедоступным сетям с хорошим сигналом</string>
     <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">Выберите поддерживаемый источник рейтинга сетей</string>
@@ -8071,7 +8071,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_settings_category">Настройки Wi-Fi</string>
     <string name="wifi_settings_master_switch_title">Использовать Wi-Fi</string>
     <string name="wifi_settings_scanning_required_enabled">Поиск сетей Wi-Fi включен</string>
-    <string name="wifi_settings_scanning_required_info">Эта функция позволяет приложениям и сервисам искать беспроводные сети, даже когда Wi-Fi отключен. Это может улучшить работу функций и сервисов, использующих данные о местоположении.</string>
+    <string name="wifi_settings_scanning_required_info">Функция позволяет приложениям и службам сканировать сети Wi-Fi в любое время, даже если Wi-Fi отключен. Это может улучшить работу функций и сервисов, основанных на местоположении.</string>
     <string name="wifi_settings_scanning_required_summary">Для автоподключения к сетям Wi-Fi, нужно включить поиск Wi-Fi.</string>
     <string name="wifi_settings_scanning_required_title">Включить поиск сетей Wi-Fi?</string>
     <string name="wifi_settings_scanning_required_turn_on">Включить</string>

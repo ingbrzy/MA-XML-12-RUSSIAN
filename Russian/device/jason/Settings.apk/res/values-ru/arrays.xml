@@ -323,12 +323,14 @@
         <item>Длинная задержка (300~500 мс)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Минимальная задержка</item>
         <item>Скорость</item>
         <item>Баланс</item>
         <item>Качество</item>
         <item>Адаптивное</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Минимальная задержка (256 Кбит/с)</item>
         <item>Скорость подключения (400 Кбит/с)</item>
         <item>Баланс качества и скорости (500/560 Кбит/с)</item>
         <item>Качество звука (900 Кбит/с)</item>
@@ -356,7 +358,10 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Включить дополнительные кодеки</item>
         <item>Отключить дополнительные кодеки</item>
     </string-array>
@@ -368,7 +373,10 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Включить дополнительные кодеки</item>
         <item>Отключить дополнительные кодеки</item>
     </string-array>
@@ -802,7 +810,6 @@
         <item>Высокая скорость</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Автоматически</item>
         <item>Вкл.</item>
         <item>Откл.</item>
     </string-array>
@@ -1219,6 +1226,10 @@
         <item>Повышенная</item>
         <item>Стандартная</item>
     </string-array>
+    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Одиночное касание</item>
+        <item>Двойное касание</item>
+    </string-array>	
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>

@@ -29,6 +29,46 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
     </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d тем AOD</item>
+        <item quantity="one">%1$d тема AOD</item>
+        <item quantity="few">%1$d темы AOD</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d шрифтов</item>
+        <item quantity="one">%1$d шрифт</item>
+        <item quantity="few">%1$d шрифта</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d иконок</item>
+        <item quantity="one">%1$d иконка</item>
+        <item quantity="few">%1$d иконки</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d тем</item>
+        <item quantity="one">%1$d тема</item>
+        <item quantity="few">%1$d темы</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Добавить %1$d ресурсов</item>
+        <item quantity="one">Добавить %1$d ресурс</item>
+        <item quantity="few">Добавить %1$d ресурса</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Добавлено %1$d ресурсов в аккаунт. Посмотреть добавленные ресурсы можно в заказах.</item>
+        <item quantity="one">Добавлен %1$d ресурс в аккаунт. Посмотреть добавленный ресурс можно в заказах.</item>
+        <item quantity="few">Добавлено %1$d ресурса в аккаунт. Посмотреть добавленные ресурсы можно в заказах.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">Вы можете загрузить только %1$d бесплатных ресурсов (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений.</item>
+        <item quantity="one">Вы можете загрузить только %1$d бесплатный ресурс (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений.</item>
+        <item quantity="other">Вы можете загрузить только %1$d бесплатных ресурса (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений.</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">%1$d ресурсов не были добавлены в аккаунт</item>
+        <item quantity="one">%1$d ресурс не был добавлен в аккаунт</item>
+        <item quantity="few">%1$d ресурса не были добавлены в аккаунт</item>
+    </plurals>
     <plurals name="aod_batch_has_update_text">
         <item quantity="other">Доступны обновления для %1$d тем</item>
         <item quantity="one">Доступно обновление для %1$d темы</item>

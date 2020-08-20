@@ -135,6 +135,8 @@
     <string name="last_sync_time_yesterday">Вчера</string>
     <string name="license_host_unreachable">Не удалось подключиться к сети. Для просмотра информации посетите %s.</string>
     <string name="loading">Подождите…</string>
+    <string name="low_battery_locate_summary">Автоматически сохранять в облаке информацию о местоположении при низком заряде батареи</string>
+    <string name="low_battery_locate_title">Информация о местоположении при низком заряде батареи</string>
     <string name="master_alert_notif_content">Регулярно делайте резервные копии для сохранности данных</string>
     <string name="master_alert_notif_title">Включите синхронизацию с Xiaomi Cloud</string>
     <string name="member_entrance_title_free_high_case_a">Получить больше места</string>
@@ -440,6 +442,9 @@
     <string name="picker_list_empty">Список пуст</string>
     <string name="picker_search_empty">Контакты не найдены</string>
     <string name="picker_search_hint">Поиск</string>
+    <string name="power_off_locate_summary">"Сохранять в облаке информацию о местоположении при долгом нажатии кнопки питания.
+Информация о местоположении может быть не сохранена при плохом сетевом подключении."</string>
+    <string name="power_off_locate_title">Информация о местоположении перед выключением питания</string>
     <string name="pre_privacy_policy">Политика конфиденциальности</string>
     <string name="pre_user_agreement">Пользовательское соглашение</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизировать фото контактов только по Wi-Fi</string>
@@ -531,8 +536,6 @@
     <string name="reading_status">Получение статуса…</string>
     <string name="reading_status_failure">Не удалось получить статус</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="send_last_location_summary">Синхронизировать информацию о местоположении при выключении устройства</string>
-    <string name="send_last_location_title">Последнее местоположение</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Не удалось отправить</string>
     <string name="share_miliao_not_installed">Mi Talk не установлен.</string>
