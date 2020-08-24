@@ -1362,7 +1362,7 @@
     <string name="miui_notification_network_selection_title_by_sim">SIM %s: Нет сети</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
@@ -1871,7 +1871,7 @@
     <string name="private_dns_broken">Приватный DNS-сервер недоступен</string>
     <string name="private_dns_mode_off">Отключено</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
-    <string name="private_dns_mode_provider">Имя хоста DNS-провайдера</string>
+    <string name="private_dns_mode_provider">Вручную</string>
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="private_num">Скрытый номер</string>
@@ -2077,8 +2077,8 @@ UT-интерфейс: %5$s"</string>
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
-    <string name="select_private_dns_configuration_dialog_title">Выберите режим приватного DNS</string>
-    <string name="select_private_dns_configuration_title">Приватный DNS</string>
+    <string name="select_private_dns_configuration_dialog_title">Приватный DNS-сервер</string>
+    <string name="select_private_dns_configuration_title">Приватный DNS-сервер</string>
     <string name="select_usb_configuration_dialog_title">Конфигурация USB</string>
     <string name="select_usb_configuration_title">Конфигурация USB</string>
     <string name="select_voice_call_sim">Выберите SIM-карту</string>
@@ -2502,8 +2502,8 @@ UT-интерфейс: %5$s"</string>
     <string name="volte_switch_not_support_summary2">Вызовы VoLTE не поддерживаются оператором</string>
     <string name="volte_switch_summary">Использовать VoLTE для улучшения качества голосовых и видеовызовов</string>
     <string name="volte_switch_summary2">Перед включением убедитесь, что ваш оператор поддерживает эту функцию. В противном случае могут быть затронуты обычные вызовы.</string>
-    <string name="volte_switch_title">Включить VoLTE</string>
-    <string name="volte_switch_title_ct">Включить VoLTE</string>
+    <string name="volte_switch_title">VoLTE</string>
+    <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Услуги VoLTE от China Telecom предоставляются только в зонах покрытия сети VoLTE. Услуги VoLTE предоставляются оператором связи.</string>
     <string name="vowifi_emergency_notification_channel">Экстренный вызов по Wi-Fi</string>
     <string name="vowifi_emergency_notification_content">Экстренные вызовы доступны только в зонах сотовой связи.</string>

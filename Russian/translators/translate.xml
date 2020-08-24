@@ -441,9 +441,9 @@ mm"</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="private_dns_mode_off">Выкл.</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
-    <string name="private_dns_mode_provider">Имя хоста DNS-провайдера</string>
+    <string name="private_dns_mode_provider">Вручную</string>
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
-    <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста провайдера DNS</string>
+    <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="retail_demo_reset_message">Для сброса настроек в деморежиме введите пароль.</string>
     <string name="retail_demo_reset_next">Далее</string>
@@ -469,8 +469,8 @@ mm"</string>
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
-    <string name="select_private_dns_configuration_dialog_title">Выберите режим приватного DNS</string>
-    <string name="select_private_dns_configuration_title">Приватный DNS</string>
+    <string name="select_private_dns_configuration_dialog_title">Приватный DNS-сервер</string>
+    <string name="select_private_dns_configuration_title">Приватный DNS-сервер</string>
     <string name="select_usb_configuration_dialog_title">Конфигурация USB</string>
     <string name="select_usb_configuration_title">Конфигурация USB</string>
     <string name="select_webview_provider_dialog_title">Настройки сервиса WebView</string>

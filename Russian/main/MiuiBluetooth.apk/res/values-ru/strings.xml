@@ -409,7 +409,7 @@
     <string name="mihome_update_title">Обновление Mi Home</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
@@ -488,7 +488,7 @@
     <string name="private_dns_broken">Приватный DNS-сервер недоступен</string>
     <string name="private_dns_mode_off">Отключен</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
-    <string name="private_dns_mode_provider">Имя хоста DNS-провайдера</string>
+    <string name="private_dns_mode_provider">Вручную</string>
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="profile_connect_timeout_subtext">Проблема с подключением. Выключите и снова включите устройство</string>
@@ -516,8 +516,8 @@
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
-    <string name="select_private_dns_configuration_dialog_title">Выберите режим приватного DNS</string>
-    <string name="select_private_dns_configuration_title">Приватный DNS</string>
+    <string name="select_private_dns_configuration_dialog_title">Приватный DNS-сервер</string>
+    <string name="select_private_dns_configuration_title">Приватный DNS-сервер</string>
     <string name="select_usb_configuration_dialog_title">Конфигурация USB</string>
     <string name="select_usb_configuration_title">Конфигурация USB</string>
     <string name="select_webview_provider_dialog_title">Настройки сервиса WebView</string>

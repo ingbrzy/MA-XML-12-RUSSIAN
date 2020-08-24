@@ -137,6 +137,11 @@
     <item quantity="one">Через %d секунду</item>
     <item quantity="few">Через %d секунды</item>
   </plurals>
+  <plurals name="ew_concern_date">
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">%d день назад</item>
+        <item quantity="few">%d дня назад</item>
+    </plurals>  
   <plurals name="find_applications">
     <item quantity="other">%d приложений</item>
     <item quantity="one">%d приложение</item>
