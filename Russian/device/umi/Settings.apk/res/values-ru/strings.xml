@@ -310,7 +310,7 @@
     <string name="additional_system_update_menu" />
     <string name="additional_system_update_settings_list_item_title">Дополнительные обновления</string>
     <string name="adjust_3d_depth_title">Регулировка глубины 3D в играх</string>
-    <string name="adjust_temperature_title">Цветовая температура</string>
+    <string name="adjust_temperature_title">Цветовой тон</string>
     <string name="admin_device_owner_message">Администратор может контролировать настройки, приложения, разрешения и параметры доступа к корпоративным ресурсам на этом устройстве, а также связанные с ним данные, например сведения о местоположении или действиях в сети.</string>
     <string name="admin_disabled_other_options">Другие настройки отключены администратором</string>
     <string name="admin_more_details">Подробнее…</string>
@@ -1164,7 +1164,7 @@
     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
     <string name="bluetooth_profile_opp">Передача файлов</string>
     <string name="bluetooth_profile_pan">Доступ в интернет</string>
-    <string name="bluetooth_profile_pan_nap">Режим модема</string>
+    <string name="bluetooth_profile_pan_nap">Общий доступ к интернету</string>
     <string name="bluetooth_profile_pbap">Обмен контактами</string>
     <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами</string>
     <string name="bluetooth_profile_sap">Доступ к SIM карте</string>
@@ -1744,7 +1744,7 @@
     <string name="convert_to_file_encryption">Переход к шифрованию файлов</string>
     <string name="convert_to_file_encryption_done">Шифрование файлов уже включено</string>
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
-    <string name="cool_color">Холод</string>
+    <string name="cool_color">Холодный</string>
     <string name="copy">Копировать</string>
     <string name="copyable_slice_toast">\"%1$s\" в буфере обмена.</string>
     <string name="copyright_title">Авторские права</string>
@@ -1831,7 +1831,7 @@
     <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
     <string name="custom_carrier_title">Оператор</string>
-    <string name="custom_color">Своя</string>
+    <string name="custom_color">Свой</string>
     <string name="custom_gesture_title">Выбор жестов</string>
     <string name="custom_wifi_name_title">Wi-Fi сеть</string>
     <string name="customize_function">Доступные шаблоны</string>
@@ -3355,7 +3355,7 @@
     <string name="keywords_bluetooth_settings">подключено, устройство, наушники, гарнитура, динамик, беспроводной, подключение, наушники-вкладыши, музыка, мультимедиа</string>
     <string name="keywords_change_wifi_state">wifi, wi-fi, переключатель, управление</string>
     <string name="keywords_color_mode">насыщенный, RGB, sRGB, цвет, естественный, стандартный</string>
-    <string name="keywords_color_temperature">цветовая температура D65 D73 белый желтый синий теплая холодная</string>
+    <string name="keywords_color_temperature">цветовой тон D65 D73 белый желтый синий теплый холодный</string>
     <string name="keywords_content_capture">контент приложений, данные приложений</string>
     <string name="keywords_dark_ui_mode">тема, светлая, темная, режим</string>
     <string name="keywords_data">4G;3G;Данные;Мобильный интернет;Мобильный интернет;Трафик;Мобильный интернет</string>
@@ -4125,7 +4125,7 @@
     <string name="miui_userguide">Руководство пользователя</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
@@ -4296,7 +4296,7 @@
     <string name="my_device_info_account_preference_title">Аккаунт</string>
     <string name="my_device_info_device_name_preference_title">Имя устройства</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
-    <string name="nature_color">Стандарт</string>
+    <string name="nature_color">Стандартный</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
     <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо на полосе навигации</string>
     <string name="navigation_guide_app_quick_switch_title">Переход между приложениями</string>
@@ -4464,7 +4464,7 @@
     <string name="night_display_title">Ночной режим</string>
     <string name="night_light">Ночной режим</string>
     <string name="night_light_brightness">Яркость в ночном режиме</string>
-    <string name="night_light_color">Цветовая температура в ночном режиме</string>
+    <string name="night_light_color">Цветовой тон в ночном режиме</string>
     <string name="night_light_color_tip">Изменения вступят в силу при отключении режима чтения</string>
     <string name="night_light_summary">Установите минимальную яркость для ночного режима</string>
     <string name="night_light_tip">Изменения вступят в силу при включении ночного режима</string>
@@ -5164,7 +5164,7 @@ OTG отключается автоматически через 10 минут �
     <string name="private_dns_help_message">&lt;annotation id="url"&gt;Узнайте больше&lt;/annotation&gt; о функциях приватного DNS</string>
     <string name="private_dns_mode_off">Отключен</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
-    <string name="private_dns_mode_provider">Имя хоста DNS-провайдера</string>
+    <string name="private_dns_mode_provider">Вручную</string>
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="private_gallery_need_to_unlock">Введите пароль</string>
@@ -5508,8 +5508,8 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_cancel">Отмена</string>
     <string name="screen_color_and_optimize">Цвета и контраст</string>
     <string name="screen_color_and_optimize_disabled">Настройка в режиме чтения недоступна</string>
-    <string name="screen_color_temperature">Цветовая температура</string>
-    <string name="screen_color_temperature_and_saturation">Цветовая температура и насыщенность</string>
+    <string name="screen_color_temperature">Цветовой тон</string>
+    <string name="screen_color_temperature_and_saturation">Цветовой тон и насыщенность</string>
     <string name="screen_compatibility_label">Совместимость с экраном</string>
     <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
     <string name="screen_confirm">Включить</string>
@@ -5521,7 +5521,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_dark_mode_smart_dark_summary">Применить темный режим к сторонним приложениям. Некоторые приложения могут иметь проблемы с отображением.</string>
     <string name="screen_dark_mode_smart_dark_title">Глобальный темный режим</string>
     <string name="screen_dark_mode_time_title">Расписание</string>
-    <string name="screen_effect">Цвета и контрастность</string>
+    <string name="screen_effect">Цветовой тон и контрастность</string>
     <string name="screen_fps_summary_power_save">Использование фиксированной частоты обновления кадров уменьшает энергопотребление</string>
     <string name="screen_fps_summary_smooth">Некоторые приложения автоматически увеличивают частоту обновления кадров для улучшения качества изображения</string>
     <string name="screen_fps_title">Частота обновления</string>
@@ -5825,7 +5825,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_results_title">Настройки</string>
     <string name="search_ring_volume_option_title">Громкость;громкость;Мелодия и уведомления;рингтон;мелодия;Будильник;Музыка</string>
     <string name="search_ringtone_title">Мелодия звонка;рингтон;мелодии</string>
-    <string name="search_screen_effect">Цвета и насыщенность;Цвета и контрастность;цвет;насыщенность цвета;контрастность</string>
+    <string name="search_screen_effect">Цвета и насыщенность;Цветовой тон и контрастность;Цвета и контрастность;цвет;насыщенность цвета;контрастность</string>
     <string name="search_screen_key_long_press_timeout">Длительность нажатия;Долгое нажатие;Нажатие;Нажатие и удержание</string>
     <string name="search_screen_on_proximity_sensor_title">Предотвращение случайных нажатий;карман;карманный набор;вызовы из кармана</string>
     <string name="search_screen_paper_mode_title">Режим чтения;режим чтения;читать;синий свет;желтый свет;ночной режим</string>
@@ -6050,8 +6050,8 @@ UT-интерфейс: %5$s"</string>
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
-    <string name="select_private_dns_configuration_dialog_title">Выберите режим приватного DNS</string>
-    <string name="select_private_dns_configuration_title">Приватный DNS</string>
+    <string name="select_private_dns_configuration_dialog_title">Приватный DNS-сервер</string>
+    <string name="select_private_dns_configuration_title">Приватный DNS-сервер</string>
     <string name="select_sim_card">Выберите SIM-карту</string>
     <string name="select_sim_for_calls">Выберите SIM-карту</string>
     <string name="select_sim_for_data">SIM-карта для мобильных данных</string>
@@ -6850,7 +6850,7 @@ UT-интерфейс: %5$s"</string>
     <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение модема, если доступно</string>
     <string name="tethering_help_button_text">Справка</string>
     <string name="tethering_settings_not_available">Измените настройки модема в первом пространстве</string>
-    <string name="texture_adjust_temperature_title">Цветовая температура</string>
+    <string name="texture_adjust_temperature_title">Цветовой тон</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Удерживайте кнопку питания в течение 0.5 с для запуска голосового помощника в режиме управления жестами (без экранных кнопок)</string>
     <string name="theme_customization_accent_color_title">Цвет акцента</string>
     <string name="theme_customization_category">Темы</string>
@@ -7614,7 +7614,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
     <string name="wapi_yes">да</string>
-    <string name="warm_color">Тепло</string>
+    <string name="warm_color">Теплый</string>
     <string name="web_action_enable_summary">Открывать ссылки в приложениях, даже если они не установлены на устройстве</string>
     <string name="web_action_enable_title">Приложения с мгновенным запуском</string>
     <string name="web_action_section_title">Приложения с мгновенным запуском</string>
