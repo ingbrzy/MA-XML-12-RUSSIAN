@@ -29,6 +29,7 @@ call run_copy_translation.bat %1 ExternalStorageProvider.apk
 call run_copy_translation.bat %1 FileExplorer.apk
 call run_copy_translation.bat %1 FindDevice.apk
 call run_copy_translation.bat %1 FM.apk
+call run_copy_translation.bat %1 framework-res
 call run_copy_translation.bat %1 FrequentPhrase.apk
 call run_copy_translation.bat %1 GuardProvider.apk
 call run_copy_translation.bat %1 Health.apk
@@ -113,7 +114,6 @@ call run_copy_translation.bat %1 XiaomiSimActivateService.apk
 call run_copy_translation.bat %1 XMRemoteController.apk
 
 ;
-call run_copy_translation.bat %1 framework-res -rRU
 call run_copy_translation.bat %1 framework-ext-res -rRU
 call run_copy_translation.bat %1 miui -rRU
 call run_copy_translation.bat %1 miuisystem -rRU
