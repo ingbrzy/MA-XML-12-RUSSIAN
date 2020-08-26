@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_channel">Добавить канал</string>
+    <string name="ae_emergency_alerts_title">الرسائل التحذيرية الطارئة</string>
+    <string name="ae_exercises_title">تمارين</string>
+    <string name="ae_national_emergency_alerts_title">الرسائل التحذيرية الوطنية</string>
+    <string name="ae_test_alerts_title">الرسالة التجريبية</string>
+    <string name="ae_warning_alerts_title">الرسائل التحذيرية</string>
     <string name="alert_preferences_title">Настройки оповещения</string>
     <string name="alert_reminder_interval_summary"/>
     <string name="alert_reminder_interval_title">Периодичность напоминаний</string>
@@ -218,6 +223,7 @@
     <string name="use_full_volume_summary">Игнорировать текущие настройки громкости и режима \"Не беспокоить\"</string>
     <string name="use_full_volume_title">Максимальная громкость</string>
     <string name="view_details_title">Детали</string>
+    <string name="warning_alert">Предупреждение</string>
     <string name="warning_alert_title">Предупреждение</string>
     <string name="warning_alerts">Предупреждения</string>
 </resources>

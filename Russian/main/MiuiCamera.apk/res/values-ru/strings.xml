@@ -36,6 +36,7 @@
     <string name="accessibility_ai_scene_on">AI камера включена</string>
     <string name="accessibility_ai_watermark_panel_on">AI панель водяных знаков</string>
     <string name="accessibility_ambilight_panel_on">Открыть панель длительной выдержки</string>
+    <string name="accessibility_audio_shutter_bg">Аудио фон затвора</string>
     <string name="accessibility_back_preview_status">Предпросмотр основной камеры</string>
     <string name="accessibility_beauty_function_button">Улучшить</string>
     <string name="accessibility_beauty_function_panel_on">Панель улучшений</string>
@@ -159,6 +160,7 @@
     <string name="accessibility_select_all_end">Выбрано все</string>
     <string name="accessibility_selected">Выбранные объекты</string>
     <string name="accessibility_setting">Настройки</string>
+    <string name="accessibility_setting_button">Кнопка дополнительных настроек</string>
     <string name="accessibility_shutter_button">Кнопка затвора</string>
     <string name="accessibility_shutter_capture_button">Снимок во время съемки видео</string>
     <string name="accessibility_shutter_complete_button">Снимок сделан</string>
@@ -181,6 +183,10 @@
     <string name="accessibility_timer_burst_image_off">Серийная съемка отключена</string>
     <string name="accessibility_timer_burst_image_on">Серийная съемка включена</string>
     <string name="accessibility_timer_burst_text">Панель серийно съемки</string>
+    <string name="accessibility_ultra_pixel_photography_32mp_off">32MP откл.</string>
+    <string name="accessibility_ultra_pixel_photography_32mp_on">32MP вкл.</string>
+    <string name="accessibility_ultra_pixel_photography_48mp_off">48MP откл.</string>
+    <string name="accessibility_ultra_pixel_photography_48mp_on">48MP вкл.</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ультра HD отключен</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ультра HD включен</string>
     <string name="accessibility_ultra_wide_off">Ультра-широкоугольный режим отключен</string>
@@ -930,6 +936,7 @@
     <string name="pref_camera_ai_scene_title">AI сцена</string>
     <string name="pref_camera_ai_shutter_description">Автовыбор лучшего момента при нажатии кнопки съемки</string>
     <string name="pref_camera_ai_shutter_title">AI затвор</string>
+    <string name="pref_camera_antibanding_60">60 Гц</string>
     <string name="pref_camera_antibanding_entry_0">Отключено</string>
     <string name="pref_camera_antibanding_entry_1">50 Гц</string>
     <string name="pref_camera_antibanding_entry_2">60 Гц</string>
@@ -1144,6 +1151,16 @@
     <string name="pref_camera_iso_entry_iso8000">8000</string>
     <string name="pref_camera_iso_title">ISO</string>
     <string name="pref_camera_iso_title_abbr">ISO</string>
+    <string name="pref_camera_iso_value_iso1000">1000</string>
+    <string name="pref_camera_iso_value_iso125">125</string>
+    <string name="pref_camera_iso_value_iso1250">1250</string>
+    <string name="pref_camera_iso_value_iso160">160</string>
+    <string name="pref_camera_iso_value_iso2000">2000</string>
+    <string name="pref_camera_iso_value_iso250">250</string>
+    <string name="pref_camera_iso_value_iso2500">2500</string>
+    <string name="pref_camera_iso_value_iso320">320</string>
+    <string name="pref_camera_iso_value_iso500">500</string>
+    <string name="pref_camera_iso_value_iso640">640</string>
     <string name="pref_camera_jpegquality_entry_high">Высокое</string>
     <string name="pref_camera_jpegquality_entry_low">Низкое</string>
     <string name="pref_camera_jpegquality_entry_normal">Среднее</string>
@@ -1336,6 +1353,8 @@
     <string name="pref_manual_exposure_title_abbr">Выдержка</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ультра HD</string>
+    <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
+    <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
     <string name="pref_module_settings">Режимы</string>
     <string name="pref_more_mode_style_title">Режимы камеры</string>
     <string name="pref_multi_camera_dual_video_front">Передняя камера</string>
@@ -1358,6 +1377,7 @@
     <string name="pref_retain_camera_mode_title">Сохранять предыдущий режим</string>
     <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
     <string name="pref_scan_qrcode_title">Сканировать QR-коды</string>
+    <string name="pref_setting_title">Настройки</string>
     <string name="pref_simple_hdr_entry_off">Откл</string>
     <string name="pref_simple_hdr_entry_on">Вкл</string>
     <string name="pref_skin_beautify_color_title">Тон</string>
@@ -1386,6 +1406,10 @@
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
+    <string name="pref_video_quality_entry_fwvga">FWVGA</string>
+    <string name="pref_video_quality_entry_vga">VGA</string>
+    <string name="pref_video_quality_entry_wqvga">WQVGA</string>
+    <string name="pref_video_quality_entry_wvga">WVGA</string>
     <string name="pref_video_quality_title">Качество видео</string>
     <string name="pref_video_speed_entry_fast">Быстрая</string>
     <string name="pref_video_speed_entry_normal">Нормальная</string>
@@ -1505,6 +1529,10 @@
     <string name="ubifocus_capture_warning_message">Для достижения наилучших результатов ваша фотография должна содержать объекты как вблизи (менее 1 метра от объектива), так и вдали</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ультра HD отключен</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ультра HD отключен</string>
+    <string name="ultra_pixel_photography_32mp_close_tip">32MP откл.</string>
+    <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
+    <string name="ultra_pixel_photography_48mp_close_tip">48MP откл.</string>
+    <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключен</string>
     <string name="ultra_pixel_photography_open_tip">%s Ультра HD включен</string>
     <string name="ultra_pixel_portrait_hint">HD портрет</string>
