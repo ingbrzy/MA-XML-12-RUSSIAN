@@ -2118,6 +2118,14 @@ d MMMM"</string>
     <string name="usb_notification_mtp_ticker_text">USB подключен (файлы)</string>
     <string name="usb_notification_ptp_info">Доступ к фото с компьютера</string>
     <string name="usb_notification_ptp_ticker_text">USB подключен (фото)</string>
+    <string name="usb_port_overheated_dialog_content">Порт зарядки перегрет. Отключите зарядное устройство от устройства и проверьте чистоту порта зарядки. Обратитесь в службу поддержки, если у вас есть вопросы.</string>
+    <string name="usb_port_overheated_notification_content">Отключите зарядное устройство от устройства и проверьте чистоту порта зарядки.</string>
+    <string name="usb_port_overheated_title">Порт зарядки перегрет. Отключите зарядное устройство.</string>
+    <string name="usb_port_short_circuit_dialog_content">Зарядка устройства ограничена. Отсоедините зарядное устройство и высушите порт зарядки.</string>
+    <string name="usb_port_short_circuit_notification_content">Отсоедините зарядное устройство и высушите порт зарядки.</string>
+    <string name="usb_port_short_circuit_recovered_content">Вы можете использовать его для зарядки или подключения к другим устройствам.</string>
+    <string name="usb_port_short_circuit_recovered_title">Порт зарядки работает нормально</string>
+    <string name="usb_port_short_circuit_title">Порт зарядки содержит влагу</string>
     <string name="usb_preference_title">Параметры передачи через USB</string>
     <string name="usb_ptp_text">Фото</string>
     <string name="usb_share_net_info">Использовать интернет компьютера</string>
