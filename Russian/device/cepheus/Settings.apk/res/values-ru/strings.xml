@@ -1400,9 +1400,9 @@
     <string name="call_records_name_1">Анна Петрова</string>
     <string name="call_records_name_2">Виктор Иванов</string>
     <string name="call_records_name_3">Сергей Васильев</string>
-    <string name="call_records_summary_1">9:35 AM | 26 секунд</string>
-    <string name="call_records_summary_2">16 августа | 1 мин. 16 сек.</string>
-    <string name="call_records_summary_3">16 августа | 2 мин. 24 сек.</string>
+    <string name="call_records_summary_1">%1$d:%2$d AM | %3$d сек.</string>
+    <string name="call_records_summary_2">%1$d авг | %2$d мин. %3$ сек.</string>
+    <string name="call_records_summary_3">%1$d авг | %2$d мин. %3$ сек.</string>
     <string name="call_settings_primary_user_only">Измените настройки вызова в первом пространстве</string>
     <string name="call_settings_summary">Голосовая почта, АОН, переадресация, параллельный вызов</string>
     <string name="call_settings_title">Вызовы</string>
@@ -4351,7 +4351,7 @@
     <string name="network_connection_connect_successful">Подключено</string>
     <string name="network_connection_errorstate_dialog_message">Произошла ошибка. Приложение отменило запрос на выбор устройства.</string>
     <string name="network_connection_request_dialog_showall">Показать все</string>
-    <string name="network_connection_request_dialog_title">Подключение к устройству</string>
+    <string name="network_connection_request_dialog_title">Устройство для %1$s</string>
     <string name="network_connection_timeout_dialog_message">Устройства не найдены. Убедитесь, что устройство подключено и доступно для подключения.</string>
     <string name="network_connection_timeout_dialog_ok">Повторите попытку</string>
     <string name="network_control">Сетевые подключения</string>
@@ -6720,7 +6720,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sud_more_button_label">Еще</string>
     <string name="sud_next_button_label">Далее</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Совместимы с полноэкранным режимом</string>
-    <string name="suggested_fingerprint_lock_settings_summary"/>
+    <string name="suggested_fingerprint_lock_settings_summary">Разблокируйте устройство с помощью отпечатка пальца</string>
     <string name="suggested_fingerprint_lock_settings_title">Используйте отпечаток пальца</string>
     <string name="suggested_lock_settings_summary">Защитите устройство</string>
     <string name="suggested_lock_settings_title">Блокировка экрана</string>

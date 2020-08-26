@@ -9,6 +9,10 @@ call routine.bat whyred Settings.apk
 call routine.bat cmi Settings.apk 
 call routine.bat umi Settings.apk 
 ;
+call routine.bat cepheus Settings.apk 
+call routine.bat dipper Settings.apk 
+call routine.bat cas Settings.apk 
+;
 call routine.bat cepheus_stable Settings.apk 
 call routine.bat crux_stable Settings.apk 
 call routine.bat davinci_stable Settings.apk 
