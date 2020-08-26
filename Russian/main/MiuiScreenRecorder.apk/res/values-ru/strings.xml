@@ -44,7 +44,7 @@
     <string name="cannot_change_parames">Нельзя менять параметры во время записи</string>
     <string name="cannot_record">Ошибка записи, повторите попытку позже</string>
     <string name="close_screen_record">Запись остановлена</string>
-    <string name="copy">Копировать</string>	
+    <string name="copy">Копировать</string>
     <string name="date_day" />
     <string name="date_month">.</string>
     <string name="date_year">.</string>
@@ -52,7 +52,7 @@
     <string name="description_title">О приложении</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
-    <string name="expand_button_title">Дополнительно</string>	
+    <string name="expand_button_title">Дополнительно</string>
     <string name="first_using_mic_dialog_message">Приложению требуется доступ к микрофону для записи звука. Разрешить?</string>
     <string name="first_using_mic_dialog_title">Требуются разрешения</string>
     <string name="fixed_frame_rate">Фиксированная частота кадров</string>
@@ -80,16 +80,24 @@
     <string name="low_momery_warning">Недостаточно места. Запись остановлена и сохранена.</string>
     <string name="memory_not_allowed">Память заполнена. Освободите место для записи.</string>
     <string name="mic_sound">Микрофон</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="no_recorder_info">Нет записей</string>
     <string name="no_recorder_info2">Нажмите кнопку для начала записи</string>
     <string name="no_sound">Без звука</string>
-    <string name="not_set">Не задано</string>	
+    <string name="not_set">Не задано</string>
     <string name="operation_delete">Удалить</string>
     <string name="operation_send">Отправить</string>
     <string name="permission_intro_microphone">Для записи звука, когда источником звука является микрофон.</string>
     <string name="permission_intro_storage">Для сохранения записей экрана</string>
     <string name="permission_microphone_desc">Использование микрофона в качестве источника звука при записи экрана</string>
-    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>	
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="quit_recording">Выход из приложения…</string>
     <string name="recording_failure">Ошибка записи, начните сначала</string>
     <string name="recording_max_size">Запись была остановлена и сохранена из-за достижения предельного размера видео. Если нужно, начните запись с того места, где вы остановились.</string>
@@ -109,6 +117,10 @@
     <string name="show_hard_key_summary">Отображать подсказки при нажатии аппаратных кнопок</string>
     <string name="show_screen_touch">Показывать касания и жесты</string>
     <string name="show_screen_touch_summary">Отображать касания и жесты с помощью белого кружка</string>
+    <string name="size_byte">Б</string>
+    <string name="size_gigabyte">ГБ</string>
+    <string name="size_kilobyte">КБ</string>
+    <string name="size_megabyte">МБ</string>
     <string name="sound_source">Источник звука</string>
     <string name="sound_source_summary">Системные звуки или микрофон</string>
     <string name="sound_source_summary_without_system_sounds">Микрофон или без звука</string>
@@ -126,5 +138,6 @@
     <string name="using_record_confirm_cancel">Запретить</string>
     <string name="using_record_confirm_ok">Разрешить</string>
     <string name="v7_preference_off">ОТКЛ.</string>
-    <string name="v7_preference_on">ВКЛ.</string>		
+    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="warning_recording_when_a2dp_connect">Устройство не поддерживает запись системных звуков во время использования Bluetooth-гарнитуры</string>
 </resources>
