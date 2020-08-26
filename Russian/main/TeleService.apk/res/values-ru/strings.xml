@@ -441,7 +441,7 @@
     <string name="callFailed_dsac_restricted">В вашем домене запрещено выполнять вызовы</string>
     <string name="callFailed_dsac_restricted_emergency">В вашем домене запрещено выполнять экстренные вызовы</string>
     <string name="callFailed_dsac_restricted_normal">В вашем домене запрещено звонить на обычные номера</string>
-    <string name="callFailed_emergency_call_over_wfc_not_available">Экстренные вызовы через Wi-Fi не доступны.</string>
+    <string name="callFailed_emergency_call_over_wfc_not_available">Экстренные вызовы по Wi-Fi не доступны.</string>
     <string name="callFailed_facility_rejected">Объект отклонен</string>
     <string name="callFailed_fdn_only">Вы можете звонить только на номера из списка разрешенных.</string>
     <string name="callFailed_imei_not_accepted">Ошибка подключения. Вставьте поддерживаемую SIM-карту.</string>
@@ -1254,6 +1254,7 @@
     <string name="labelNwService">Настройки сети</string>
     <string name="label_available">Доступные сети</string>
     <string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
+    <string name="label_phoneid">Perso заблокирован</string>
     <string name="label_puk2_code">Введите PUK2</string>
     <string name="lable_all_incoming">Все входящие вызовы</string>
     <string name="lable_all_out_except">Исходящие международные вызовы (кроме домашних)</string>
@@ -1286,6 +1287,12 @@
     <string name="lgu_msim_emm_cause_7_14">SIM %d сеть не предоставляет услуги мобильной передачи данных</string>
     <string name="lgu_msim_emm_cause_8">SIM %d не удалось зарегистрировать сеть. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
     <string name="lgu_msim_emm_cause_others">SIM %d не удалось подключиться к сети. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
+    <string name="limited_service_alert_dialog_description">&lt;b&gt;Экстренные вызовы по Wi-Fi&lt;/b&gt;"
+Экстренные  вызовы по Wi-Fi невозможны. 
+
+Устройство автоматически переключится на сотовую сеть (2G/3G) для экстренного вызова.
+
+Экстренные вызовы возможны только в зонах с сотовой связью."</string>
     <string name="limited_sim_function_notification_message">%1$s: вызовы и передача данных могут быть заблокированы при использовании другой SIM-карты.</string>
     <string name="limited_sim_function_notification_title">Ограниченная функциональность SIM</string>
     <string name="limited_sim_function_with_phone_num_notification_message">%1$s: вызовы и передача данных могут быть заблокированы при использовании %2$s.</string>
@@ -1321,6 +1328,7 @@
     <string name="media_category">Мультимедиа</string>
     <string name="media_transfer_this_device_name">Это устройство</string>
     <string name="media_transfer_wired_device_name">Проводное аудиоустройство</string>
+    <string name="media_transfer_wired_usb_device_name">Проводные наушники</string>
     <string name="menu_add">Добавить номер</string>
     <string name="menu_delete">Удалить номер</string>
     <string name="menu_dial">Набрать номер</string>
@@ -2513,7 +2521,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vowifi_emergency_notification_content">Экстренные вызовы доступны только в зонах сотовой связи.</string>
     <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi вызовы</string>
     <string name="vowifi_emergency_warning_check">Больше не показывать.</string>
-    <string name="vowifi_emergency_warning_message">"Экстренные вызовы невозможны через Wi-Fi вызовы.
+    <string name="vowifi_emergency_warning_message">"Экстренные вызовы по Wi-Fi невозможны.
 
 Устройство автоматически переключится на сотовую сеть (2G/3G) для экстренного вызова.
 

@@ -44,6 +44,7 @@
     <string name="redirect_ca_certificate_close_button">Закрыть</string>
     <string name="redirect_ca_certificate_message">CA сертификаты могут поставить вашу конфиденциальность под угрозу и должны быть установлены в Настройках</string>
     <string name="redirect_ca_certificate_title">Не удалось установить CA сертификаты</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Cертификат от %1$s должен быть установлен в настройках. Устанавливайте CA сертификаты только доверенных организаций.</string>
     <string name="select_certificate_usage_title">Тип сертификата</string>
     <string name="unable_to_save_cert">Не удалось сохранить сертификат, поскольку хранилище учетных данных не включено или не инициализировано.</string>
     <string name="user_cert_is_added">Сертификат пользователя установлен</string>
