@@ -1634,7 +1634,10 @@
     <string name="gtb_exit_game_to_gtb">Открыть Ускорение игр</string>
     <string name="gtb_exit_game_to_home">Вернуться на рабочий стол</string>
     <string name="gtb_setting_item_summary_smart_5g">При обнаружении сети 5G, устройство будет переключено на лучшую доступную сеть для уменьшения задержек сети</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Увеличение скорости соединения на 10-20% при подключении к роутерам Mi/Redmi</string>
     <string name="gtb_setting_item_title_smart_5g">Оптимизация сети 5G</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Повышение скорости Mi WiFi</string>
+    <string name="gtb_wlan_speed_tips">Использование Mi WiFi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Неверный оператор?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Ваш текущий оператор: "</string>
     <string name="guide_quck_open">Включить</string>
@@ -1673,6 +1676,9 @@
     <string name="hot">Популярное</string>
     <string name="hot_today">Популярно сегодня</string>
     <string name="i_know">Понятно</string>
+    <string name="icon_text_size_giga_byte">%.1fГ</string>
+    <string name="icon_text_size_max">9.9Г</string>
+    <string name="icon_text_size_mega_byte">%dМ</string>
     <string name="im">IM</string>
     <string name="info_and_call">Вызовы и сообщения</string>
     <string name="info_antispam_close">Антиспам отключен</string>
