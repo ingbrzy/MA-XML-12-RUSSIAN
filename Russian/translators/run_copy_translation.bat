@@ -13,7 +13,7 @@ IF EXIST %_src%strings.xml (
   goto _failed
 )
 
-XMLCompare /s D:\Android\XMLCompare\SRC\strings.xml /d D:\Android\XMLCompare\DST\strings.xml /i D:\Android\XMLCompare\ignore.xml /t D:\Android\XMLCompare\translate.xml /n 4 /eol LF
+XMLCompare /s D:\Android\XMLCompare\SRC\strings.xml /d D:\Android\XMLCompare\DST\strings.xml /i D:\Android\XMLCompare\ignore.xml /t D:\Android\XMLCompare\translate.xml /n 4 /silent_t
 
 IF EXIST .\DST\result.xml (
   copy .\DST\result.xml .\DST\strings.xml
