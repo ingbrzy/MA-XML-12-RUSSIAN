@@ -11,6 +11,7 @@ call run_copy_translation.bat %1 BuiltInPrintService
 call run_copy_translation.bat %1 Calculator
 call run_copy_translation.bat %1 Calendar
 call run_copy_translation.bat %1 CalendarProvider
+call run_copy_translation.bat %1 CallEnhancement
 call run_copy_translation.bat %1 CellBroadcastReceiver
 call run_copy_translation.bat %1 CertInstaller
 call run_copy_translation.bat %1 CleanMaster
