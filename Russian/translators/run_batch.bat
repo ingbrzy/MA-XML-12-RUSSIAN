@@ -11,6 +11,7 @@ call routine.bat umi Settings.apk
 ;
 call routine.bat cepheus Settings.apk 
 call routine.bat dipper Settings.apk 
+call routine.bat lavender Settings.apk 
 call routine.bat cas Settings.apk 
 ;
 call routine.bat cepheus_stable Settings.apk 
