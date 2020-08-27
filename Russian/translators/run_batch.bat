@@ -27,3 +27,10 @@ call routine.bat umi_stable Settings.apk
 ;
 call routine.bat cmi MiuiCamera.apk 
 call routine.bat umi MiuiCamera.apk 
+
+;
+call routine.bat cas MiuiSystemUI.apk 
+call routine.bat cmi MiuiSystemUI.apk 
+call routine.bat lavender MiuiSystemUI.apk 
+call routine.bat lmi MiuiSystemUI.apk 
+call routine.bat umi MiuiSystemUI.apk 
