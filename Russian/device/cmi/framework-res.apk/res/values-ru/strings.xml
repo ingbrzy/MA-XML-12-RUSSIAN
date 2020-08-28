@@ -166,40 +166,29 @@
     <string name="accessibility_gesture_instructional_text">Для переключения между сервисами проведите по экрану снизу вверх двумя пальцами и задержите их.</string>
     <string name="accessibility_gesture_prompt_text">Выберите сервис, который будет запускаться жестом для доступа к специальным возможностям (провести по экрану снизу вверх двумя пальцами):</string>
     <string name="accessibility_magnification_chooser_text">Увеличение</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_select_shortcut_menu_title">Tap a feature to start using it:</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_service_action_perform_description">It can track your interactions with an app or a hardware sensor, and interact with apps on your behalf.</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_service_action_perform_title">View and perform actions</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_service_screen_control_description">It can read all content on the screen and display content over other apps.</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_service_screen_control_title">View and control screen</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_service_warning_description">Full control is appropriate for apps that help you with accessibility needs, but not for most apps.</string>
+    <string name="accessibility_select_shortcut_menu_title">Нажмите на функцию, чтобы начать ее использовать:</string>
+    <string name="accessibility_service_action_perform_description">Сервис может отслеживать ваши взаимодействия с приложением или аппаратным датчиком и взаимодействовать с приложениями от вашего имени.</string>
+    <string name="accessibility_service_action_perform_title">Просмотр и осуществление действий</string>
+    <string name="accessibility_service_screen_control_description">Сервис может читать весь контент на экране и отображать контент поверх приложений.</string>
+    <string name="accessibility_service_screen_control_title">Просмотр и управление экраном</string>
+    <string name="accessibility_service_warning_description">Полный контроль подходит только для приложений, которые реализуют специальные возможности.</string>
     <string name="accessibility_shortcut_disabling_service">Сервис %1$s отключен</string>
     <string name="accessibility_shortcut_enabling_service">Сервис %1$s включен</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_shortcut_menu_item_status_off">OFF</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_shortcut_menu_item_status_on">ON</string>
-<!-- ### FROM SOURCE -->
+    <string name="accessibility_shortcut_menu_item_status_off">ОТКЛ.</string>
+    <string name="accessibility_shortcut_menu_item_status_on">ВКЛ.</string>
     <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
 "</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_shortcut_multiple_service_warning">"Holding down both volume keys for a few seconds turns on accessibility features. This may change how your device works.
+    <string name="accessibility_shortcut_multiple_service_warning">"Удерживайте обе клавиши регулировки громкости в течение нескольких секунд для включения спец. возможностей. Это может повлиять на работу устройства.
 
-Current features:
+Текущие функции:
 %1$s
-You can change selected features in Settings &gt; Accessibility."</string>
+Вы можете изменить выбранные функции в меню Настройки &gt; Дополнительно &gt; Спец. возможности"</string>
     <string name="accessibility_shortcut_multiple_service_warning_title">Включить спец. возможности?</string>
     <string name="accessibility_shortcut_off">Отмена</string>
     <string name="accessibility_shortcut_on">Включить</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_shortcut_single_service_warning">"Holding down both volume keys for a few seconds turns on %1$s, an accessibility feature. This may change how your device works.
+    <string name="accessibility_shortcut_single_service_warning">"Удерживайте обе клавиши регулировки громкости в течение нескольких секунд для включения спец. возможностей. Это может повлиять на работу устройства.
 
-You can change this shortcut to another feature in Settings &gt; Accessibility."</string>
+Вы можете изменить функцию ярлыка в меню Настройки &gt; Дополнительно &gt; Спец. возможности"</string>
     <string name="accessibility_shortcut_single_service_warning_title">Включить %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Чтобы использовать сервис %1$s, нажмите и удерживайте обе клавиши громкости в течение трех секунд.</string>
     <string name="accessibility_shortcut_toogle_warning">"Чтобы использовать функцию специальных возможностей, когда она включена, нажмите и удерживайте три секунды обе кнопки регулировки громкости.
@@ -214,18 +203,13 @@ You can change this shortcut to another feature in Settings &gt; Accessibility."
     <string name="accessibility_system_action_home_label">Домой</string>
     <string name="accessibility_system_action_lock_screen_label">Экран блокировки</string>
     <string name="accessibility_system_action_notifications_label">Уведомления</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">On-screen Accessibility Shortcut Chooser</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_system_action_on_screen_a11y_shortcut_label">On-screen Accessibility Shortcut</string>
+    <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Выбор ярлыка спец. возможностей на экране</string>
+    <string name="accessibility_system_action_on_screen_a11y_shortcut_label">Ярлык спец. возможностей на экране</string>
     <string name="accessibility_system_action_power_dialog_label">Меню питания</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_system_action_quick_settings_label">Quick Settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_system_action_recents_label">Recent Apps</string>
+    <string name="accessibility_system_action_quick_settings_label">Быстрые настройки</string>
+    <string name="accessibility_system_action_recents_label">Недавние приложения</string>
     <string name="accessibility_system_action_screenshot_label">Скриншот</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_uncheck_legacy_item_warning">%s has been turned off</string>
+    <string name="accessibility_uncheck_legacy_item_warning">Функция %s отключена</string>
     <string name="action_bar_home_description">Перейти на главную</string>
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -245,10 +229,8 @@ You can change this shortcut to another feature in Settings &gt; Accessibility."
     <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку по USB.</string>
     <string name="adb_active_notification_title">Отладка по USB разрешена</string>
     <string name="adb_debugging_notification_channel_tv">Отладка по USB</string>
-<!-- ### FROM SOURCE -->
-    <string name="adbwifi_active_notification_message">Tap to turn off wireless debugging</string>
-<!-- ### FROM SOURCE -->
-    <string name="adbwifi_active_notification_title">Wireless debugging connected</string>
+    <string name="adbwifi_active_notification_message">Нажмите, чтобы отключить беспроводную отладку</string>
+    <string name="adbwifi_active_notification_title">Беспроводная отладка включена</string>
     <string name="addToDictionary">Добавить в словарь</string>
     <string name="add_account_button_label">Добавить аккаунт</string>
     <string name="add_account_label">Добавить аккаунт</string>
@@ -308,8 +290,7 @@ You can change this shortcut to another feature in Settings &gt; Accessibility."
     <string name="app_suspended_title">Приложение недоступно</string>
     <string name="app_suspended_unsuspend_message">Возобновить работу приложения</string>
     <string name="app_upgrading_toast">Обновление приложения \"%1$s\"…</string>
-<!-- ### FROM SOURCE -->
-    <string name="as_app_forced_to_restricted_bucket">%1$s has been put into the RESTRICTED bucket</string>
+    <string name="as_app_forced_to_restricted_bucket">Приложение %1$s было помещено в корзину с ограничениями</string>
     <string name="autofill">Автозаполнение</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
@@ -522,26 +503,20 @@ You can change this shortcut to another feature in Settings &gt; Accessibility."
     <string name="config_wwan_data_service_class"/>
     <string name="config_wwan_network_service_class"/>
     <string name="confirm_battery_saver">ОК</string>
-<!-- ### FROM SOURCE -->
-    <string name="console_running_notification_message">Performance is impacted. To disable, check bootloader.</string>
-<!-- ### FROM SOURCE -->
-    <string name="console_running_notification_title">Serial console enabled</string>
+    <string name="console_running_notification_message">Производительность снижена. Чтобы отключить, проверьте загрузчик.</string>
+    <string name="console_running_notification_title">Работает последовательная консоль</string>
     <string name="contentServiceSync">Синхр.</string>
     <string name="contentServiceSyncNotificationTitle">Синхр.</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много удалений %s.</string>
     <string name="content_description_sliding_handle">Перетаскиваемый значок блокировки. Нажмите и удерживайте.</string>
     <string name="conversation_single_line_image_placeholder">отправлено как изображение</string>
-<!-- ### FROM SOURCE -->
     <string name="conversation_single_line_name_display">%1$s:</string>
-<!-- ### FROM SOURCE -->
-    <string name="conversation_title_fallback_group_chat">Group Conversation</string>
-<!-- ### FROM SOURCE -->
-    <string name="conversation_title_fallback_one_to_one">Conversation</string>
+    <string name="conversation_title_fallback_group_chat">Групповой чат</string>
+    <string name="conversation_title_fallback_one_to_one">Диалог</string>
     <string name="copied">Скопировано</string>
     <string name="copy">Копировать</string>
     <string name="copyUrl">Копировать URL</string>
-<!-- ### FROM SOURCE -->
-    <string name="country_detector">Country Detector</string>
+    <string name="country_detector">Определение страны</string>
     <string name="country_selection_title">Региональные настройки</string>
     <string name="create_contact_using">"Создать контакт
 с номером %s"</string>
@@ -602,8 +577,7 @@ You can change this shortcut to another feature in Settings &gt; Accessibility."
     <string name="deprecated_target_sdk_app_store">Проверить обновления</string>
     <string name="deprecated_target_sdk_message">Это приложение было создано для более ранней версии Android и может работать некорректно. Проверьте обновления или свяжитесь с разработчиком.</string>
     <string name="description_target_unlock_tablet">Проведите по экрану, чтобы разблокировать устройство.</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_ownership_relinquished">Admin relinquished device for personal use</string>
+    <string name="device_ownership_relinquished">Администратор разрешил использование устройства в личных целях</string>
     <string name="device_storage_monitor_notification_channel">Хранилище устройства</string>
     <string name="dial">Телефон</string>
     <string name="dial_desc">Позвонить по выбранному номеру</string>
@@ -809,8 +783,7 @@ You can change this shortcut to another feature in Settings &gt; Accessibility."
     <string name="global_actions_airplane_mode_off_status">Включить</string>
     <string name="global_actions_airplane_mode_on_status">Выключить</string>
     <string name="global_actions_toggle_airplane_mode">Режим полета</string>
-<!-- ### FROM SOURCE -->
-    <string name="gnss_nfw_notification_message_carrier">Your carrier accessed your location during a recent emergency session</string>
+    <string name="gnss_nfw_notification_message_carrier">Оператор связи получил доступ информации о вашем местоположении во время недавнего экстренного сеанса связи</string>
 <!-- ### FROM SOURCE -->
     <string name="gnss_nfw_notification_message_oem">Your device manufacturer accessed your location during a recent emergency session</string>
 <!-- ### FROM SOURCE -->
