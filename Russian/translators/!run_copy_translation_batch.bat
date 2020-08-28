@@ -117,4 +117,3 @@ call run_copy_translation.bat %1 XMRemoteController
 call run_copy_translation.bat %1 framework-ext-res -rRU
 call run_copy_translation.bat %1 miui -rRU
 call run_copy_translation.bat %1 miuisystem -rRU
-2

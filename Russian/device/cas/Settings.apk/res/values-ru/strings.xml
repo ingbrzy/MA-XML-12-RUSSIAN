@@ -576,15 +576,15 @@
     <string name="assistant_security_warning">Ассистент сможет получать данные о программах в вашей системе, в том числе сведения с экрана и из приложений.</string>
     <string name="assistant_security_warning_agree">Разрешить</string>
     <string name="assistant_security_warning_disagree">Запретить</string>
-    <string name="assistant_security_warning_title">Назначить помощником приложение \"%s\"?</string>
+    <string name="assistant_security_warning_title">Назначить помощником \"%s\"?</string>
     <string name="assisted_gps">Использовать A-GPS</string>
     <string name="assisted_gps_disabled">Использовать сервер для A-GPS (снимите флажок для улучшения работы GPS)</string>
     <string name="assisted_gps_enabled">Использовать сервер для A-GPS (снимите флажок для менее интенсивного использования сети)</string>
     <string name="asst_capabilities_actions_replies_summary">Автоматически показывать рекомендуемые действия и ответы</string>
     <string name="asst_capabilities_actions_replies_title">Рекомендуемые действия и ответы</string>
     <string name="asst_capability_prioritizer_summary">Автоматически назначать беззвучный режим для уведомлений с низким приоритетом</string>
-    <string name="asst_capability_prioritizer_title">Приоритет адаптивных уведомлений</string>
-    <string name="attempt_other_network">Подключиться к другой сети</string>
+    <string name="asst_capability_prioritizer_title">Автоматическая приоритизация</string>
+    <string name="attempt_other_network">Попробовать другую сеть</string>
     <string name="audio_and_captions_category_title">Аудио и озвучивание текста</string>
     <string name="audio_files_title">Аудиофайлы</string>
     <string name="audio_profile_settings_title">Профили аудио</string>
@@ -1295,7 +1295,7 @@
     <string name="bootloader_status_locked">Заблокирован</string>
     <string name="bootloader_status_locked_info">Загрузчик заблокирован</string>
     <string name="bootloader_status_locked_summary">Устройство защищено</string>
-    <string name="bootloader_status_privacy_dialog_message">Для нормальной работы Mi Unlock требуется доступ к вашему Mi Аккаунту, CPU ID, IMEI, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s. Вы согласны?</string>
+    <string name="bootloader_status_privacy_dialog_message">Mi Unlock для нормальной работы требуется доступ к вашему Mi Аккаунту, CPU ID, IMEI, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s. Вы согласны?</string>
     <string name="bootloader_status_privacy_dialog_no">Отмена</string>
     <string name="bootloader_status_privacy_dialog_title">Требуются разрешения</string>
     <string name="bootloader_status_privacy_dialog_url_text">Политика конфиденциальности</string>
@@ -3592,11 +3592,11 @@
     <string name="location_agps_supl_server_addr">Сервер</string>
     <string name="location_agps_supl_server_port">Порт</string>
     <string name="location_agps_supl_settings">Настройки SUPL</string>
-    <string name="location_app_level_permissions">Запросы местоположения</string>
+    <string name="location_app_level_permissions">Разрешения для приложений</string>
     <string name="location_app_permission_summary_location_off">Доступ к местоположению отключен</string>
-    <string name="location_category_location_services">Мое местоположение</string>
-    <string name="location_category_recent_location_access">Недавний доступ к местоположению</string>
-    <string name="location_category_recent_location_requests">Последние запросы</string>
+    <string name="location_category_location_services">Службы определения местоположения</string>
+    <string name="location_category_recent_location_access">Недавний доступ</string>
+    <string name="location_category_recent_location_requests">Недавние запросы</string>
     <string name="location_gps">По спутникам GPS</string>
     <string name="location_high_battery_use">Высокий расход заряда батареи</string>
     <string name="location_low_battery_use">Низкий расход заряда батареи</string>
@@ -3609,7 +3609,7 @@
     <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
     <string name="location_mode_sensors_only_title">По спутникам GPS</string>
     <string name="location_modem_summary">Оператор связи будет получать информацию о вашем местоположении через базовые станции</string>
-    <string name="location_modem_title">Местоположение для оператора связи</string>
+    <string name="location_modem_title">Доступ оператора к местоположению</string>
     <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
     <string name="location_neighborhood_level_wifi">Местоположение определяется по сетям Wi-Fi</string>
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
@@ -3617,10 +3617,10 @@
     <string name="location_no_recent_apps">Запросы отсутствуют</string>
     <string name="location_recent_location_access_view_details">Подробнее</string>
     <string name="location_recent_location_requests_see_all">Показать все</string>
-    <string name="location_scanning_bluetooth_always_scanning_description">Повысить точность определения местоположения, разрешив системным приложениям и сервисам постоянно искать Bluetooth-устройства поблизости</string>
+    <string name="location_scanning_bluetooth_always_scanning_description">Для более точного определения местоположения разрешите системным приложениям и сервисам постоянно искать устройства Bluetooth поблизости</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Сканирование Bluetooth</string>
     <string name="location_scanning_screen_title">Сканирование</string>
-    <string name="location_scanning_wifi_always_scanning_description">Повысить точность определения местоположения, разрешив системным приложениям и сервисам постоянно искать сети Wi-Fi</string>
+    <string name="location_scanning_wifi_always_scanning_description">Для более точного определения местоположения разрешите системным приложениям и сервисам постоянно искать сети Wi-Fi</string>
     <string name="location_scanning_wifi_always_scanning_title">Сканирование сетей Wi-Fi</string>
     <string name="location_settings_loading_app_permission_stats">Загрузка…</string>
     <string name="location_settings_master_switch_title">Использовать местоположение</string>
@@ -3630,7 +3630,7 @@
     <string name="location_street_level">Разрешить приложениям использовать GPS для точного определения вашего местоположения</string>
     <string name="location_title">Мое местоположение</string>
     <string name="lock_after_timeout">Автоблокировка</string>
-    <string name="lock_after_timeout_summary">%1$s после перехода в спящий режим</string>
+    <string name="lock_after_timeout_summary">Через %1$s после отключения экрана</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s после перехода в спящий режим, если экран не поддерживается в разблокированном состоянии службой %2$s</string>
     <string name="lock_failed_attempts_before_wipe">Попробуйте еще раз. Попытка %1$d из %2$d.</string>
     <string name="lock_failed_attempts_now_wiping_device">Слишком много неудачных попыток. Все данные на устройстве будут удалены.</string>
@@ -4094,10 +4094,10 @@
     <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1$s</string>
     <string name="miui_sos_emergency_failed_sms" formatted="false">Не удалось отправить сообщение %1s (%2s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Не удалось отправить сообщение для %1s</string>
-    <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки экстренным контактам сообщения SOS с вашим местоположением</string>
+    <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки сообщения SOS с вашим местоположением экстренным контактам</string>
     <string name="miui_sos_enable_switch_title">Режим SOS</string>
     <string name="miui_sos_exit_dialog_cancel">Отмена</string>
-    <string name="miui_sos_exit_dialog_message">Вы активировали режим SOS. Данные вашего местоположения отправляются экстренным контактам. Отключить его?</string>
+    <string name="miui_sos_exit_dialog_message">Активирован режим SOS. Данные вашего местоположения отправляются экстренным контактам. Отключить его?</string>
     <string name="miui_sos_exit_dialog_ok">OK</string>
     <string name="miui_sos_exit_dialog_title">Отключение режима SOS</string>
     <string name="miui_sos_green_guard_summary">Отслеживайте местоположение в режиме реального времени</string>
@@ -4115,7 +4115,7 @@
     <string name="miui_sos_remind_close">Режим SOS включен. Отключить режим SOS и все связанные с ним функции?</string>
     <string name="miui_sos_remind_close_confirm">Отключить</string>
     <string name="miui_sos_remind_infocontent">Вы добавлены в качестве моего экстренного контакта. Вы получите сообщение с моим местоположением, если я окажусь в опасности. [Режим Mi SOS]</string>
-    <string name="miui_sos_remind_open">Для нормальной работы режиму SOS требуется хотя бы 1 экстренный контакт.</string>
+    <string name="miui_sos_remind_open">Режиму SOS требуется хотя бы 1 экстренный контакт.</string>
     <string name="miui_sos_remind_sendinfo">Не забудьте сообщить этим людям, что они являются вашими экстренными контактами. Так они смогут быстрее помочь вам в случае чрезвычайной ситуации.</string>
     <string name="miui_sos_remind_sendnow">Сообщить</string>
     <string name="miui_sos_remind_title">Внимание</string>
@@ -5324,8 +5324,8 @@ UT-интерфейс: %5$s"</string>
     <string name="receiver_clean">Очистить память</string>
     <string name="recent_app_category_title">Недавно открытые приложения</string>
     <string name="recent_apps_label">Недавние приложения</string>
-    <string name="recent_location_requests_summary">Приложения с запросами доступа к местоположению</string>
-    <string name="recent_location_requests_title">Запросы на доступ</string>
+    <string name="recent_location_requests_summary">Настройка доступа к местоположению для приложений</string>
+    <string name="recent_location_requests_title">Доступ к местоположению</string>
     <string name="recent_notifications">Недавно отправленные</string>
     <string name="recent_notifications_see_all_title">За последние 7 дней</string>
     <string name="recently_installed_app">Вы недавно установили это приложение.</string>
