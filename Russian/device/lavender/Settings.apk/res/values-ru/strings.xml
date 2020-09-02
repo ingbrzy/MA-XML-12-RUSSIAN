@@ -3850,7 +3850,7 @@
     <string name="long_press_menu_key_when_lock">Долгое нажатие \"Меню\" на экране блокировки</string>
     <string name="long_press_power_key">Долгое нажатие кнопки питания</string>
     <string name="long_press_power_key_half_of_second">Запускать Google Ассистент кнопкой питания</string>
-    <string name="long_press_power_key_half_second">Нажмите и удерживайте кнопку питания 0.5 сек.</string>
+    <string name="long_press_power_key_half_second">Нажмите и удерживайте кнопку питания %s сек.</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Долгое нажатие кнопки питания &amp;lt;font color=#999999&amp;gt;Быстрее и удобнее&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
     <string name="long_press_volume_down">Долгое нажатие кнопки уменьшения громкости</string>
     <string name="lost_internet_access_cancel">Не отключаться от сети Wi-Fi</string>
@@ -4072,6 +4072,7 @@
     <string name="miui_lab_install_drive_mode_title">Установить Режим \"За рулем\"</string>
     <string name="miui_lab_settings">Лаборатория MIUI</string>
     <string name="miui_lab_slogan">Изучай. Исследуй. Открывай.</string>
+    <string name="miui_master_clear_prompt_battery_low">Сброс к заводским настройкам недоступен, если осталось менее %1$s заряда батареи. Зарядите устройство.</string>
     <string name="miui_master_clear_summary">Удаление всех данных и возврат телефона к заводским настройкам</string>
     <string name="miui_more_special_feature">Новые возможности</string>
     <string name="miui_optimization_disabled">Отключить оптимизацию MIUI</string>
@@ -4081,7 +4082,7 @@
     <string name="miui_sos_call_log_none">Нет журнала вызовов за последний час.</string>
     <string name="miui_sos_call_log_stranger">Неизвестный</string>
     <string name="miui_sos_call_log_summary">Отправлять экстренным контактам журнал вызовов за последний час</string>
-    <string name="miui_sos_call_log_time_unit">%1$d мин %2$d с</string>
+    <string name="miui_sos_call_log_time_unit">%1$d мин. %2$d сек.</string>
     <string name="miui_sos_call_log_title">Отправлять журнал вызовов</string>
     <string name="miui_sos_call_warning_sim_unable">Нет сигнала. Не удалось отправить SMS.</string>
     <string name="miui_sos_calling_summary">Ваше устройство будет автоматически звонить экстренным контактам, воспроизводя записанное вами голосовое сообщение SOS. Вызов будет завершен после окончания сообщения. Автоматический вызов прекратится после первой успешной попытки.</string>
