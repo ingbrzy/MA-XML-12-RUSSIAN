@@ -193,9 +193,15 @@
     <string name="gb_advance_settings_vibration_4d_summary">Вибрировать при выстрелах в игре</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать при уничтожении противника в игре</string>
     <string name="gb_alipays_can_not_complete">Для завершения платежа установите Alipay.</string>
+    <string name="gb_dialog_game_speed_close">Включение режима \"скорость света\"…</string>
+    <string name="gb_dialog_game_speed_exist">Можно использовать только одну игру в режиме \"скорость света\". Заменить \"%s\"?</string>
     <string name="gb_game_control">Настройки GPU</string>
     <string name="gb_game_qcom_sing">SNAPDRAGON</string>
     <string name="gb_game_settings">Дополнительные настройки</string>
+    <string name="gb_game_speed_closed">Режим \"скорость света\" отключен</string>
+    <string name="gb_game_speed_closed_fail">Не удалось отключить режим \"скорость света\"</string>
+    <string name="gb_game_speed_open">Режим \"скорость света\" включен</string>
+    <string name="gb_game_speed_open_fail">Не удалось включить режим \"скорость света\"</string>
     <string name="gb_gpu_control_anisotropic_filtering">Анизотропная фильтрация</string>
     <string name="gb_gpu_control_anti_aliasing">Сглаживание</string>
     <string name="gb_gpu_control_fps">Частота кадров</string>

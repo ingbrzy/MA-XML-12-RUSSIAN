@@ -3,6 +3,33 @@
     <string name="SMTP_independent_verification_text">SMTP верификация</string>
     <string name="SMTP_password_text">Пароль</string>
     <string name="SMTP_username_text">Имя пользователя</string>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="account_add_title">Выберите почтовый сервис</string>
     <string name="account_duplicate_dlg_message_fmt">Это имя пользователя уже используется в аккаунте \"%s\".</string>
     <string name="account_duplicate_dlg_title">Дубликат аккаунта</string>
@@ -15,6 +42,7 @@
     <string name="account_security_dialog_title">Обновления безопасности</string>
     <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства.</string>
     <string name="account_security_title">Безопасность устройства</string>
+    <string name="account_security_verification">Проверка аккаунта</string>
     <string name="account_set_up_change_type_note">Для переключения аккаунта между POP3 и IMAP необходимо удалить аккаунт и настроить новый.</string>
     <string name="account_setting">Аккаунты</string>
     <string name="account_setting_keywords">Аккаунты;аккаунты почты</string>
@@ -375,6 +403,9 @@
     <string name="conversation_quick_button_approve">ОК</string>
     <string name="conversation_quick_button_disapprove">Отмена</string>
     <string name="conversation_quick_button_received">Получено</string>
+    <string name="conversation_report_spam">Сообщить о спаме</string>
+    <string name="conversation_spam_dig_msg">Отметить это сообщение как спам? Сообщение будет перемещено в папку \"Спам\", а его отправитель будет добавлен в черный список.</string>
+    <string name="conversation_spam_tips">Отметить это сообщение как спам?</string>
     <string name="conversation_view">Цепочка сообщений</string>
     <string name="conversation_view_keywords">цепочка сообщений;диалог почты</string>
     <string name="copied">Скопировано</string>
@@ -505,6 +536,9 @@
     <string name="file_save_path_dialog_cancel">Понятно</string>
     <string name="file_save_path_dialog_ok">Изменить</string>
     <string name="file_save_term">Условия сохранения файлов</string>
+    <string name="filter_item_all">Все письма</string>
+    <string name="filter_title_me">%s [отправленные мне]</string>
+    <string name="filter_title_unread">%s [Не прочитано]</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Нажмите на кнопку, чтобы отправить \"%s\" всем участникам диалога</string>
     <string name="float_window_info">Во время настройки 139 Mailbox не пользуйтесь телефоном, чтобы избежать сбоев</string>
@@ -833,6 +867,7 @@
     <string name="notify_channel_permission_notice">Требуются разрешения</string>
     <string name="notify_channel_send_fail">Уведомлять о неудачной доставке</string>
     <string name="notify_channel_service">Уведомлять о фоновой синхронизации</string>
+    <string name="ntes_verification_code">Введите код: %s</string>
     <string name="oauth_error_description">Ошибка аутентификации</string>
     <string name="oauth_gmail_login_notify">Введите логин и пароль аккаунта Google в следующей форме.</string>
     <string name="oauth_login_continue">Продолжить</string>
@@ -1108,6 +1143,7 @@
     <string name="sdcard_cannot_use">Невозможно использовать SD карту</string>
     <string name="search_bar_text">Поиск сообщений и контактов</string>
     <string name="search_hint">Искать в электронной почте</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="search_remote_again">Не удалось подключиться к сети. Нажмите, чтобы повторить попытку.</string>
     <string name="search_result">"Результаты "</string>
     <string name="search_tabs_name_all">Все</string>
@@ -1166,6 +1202,7 @@
     <string name="show_images">Загрузить и показать изображения</string>
     <string name="show_images_all">Загрузить и показать все изображения</string>
     <string name="show_password">Показать пароль</string>
+    <string name="show_server_cet">Просмотр сертификата</string>
     <string name="signature">"
 
 
@@ -1182,6 +1219,7 @@
     <string name="str_select_all">Выбрать все</string>
     <string name="str_select_none">Снять выбор</string>
     <string name="subject_hint">Тема</string>
+    <string name="successfully_obtained_authorization_code">Код авторизации</string>
     <string name="sync_calendra_fail_per_content">Нажмите, чтобы разрешить</string>
     <string name="sync_calendra_fail_per_title">Ошибка синхронизации</string>
     <string name="sync_calendra_fail_permission">Не удалось синхронизировать события календаря. Разрешите приложению Почта доступ к календарю.</string>

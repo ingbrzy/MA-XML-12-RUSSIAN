@@ -554,6 +554,8 @@
     <string name="auto_data_booster_suc">Ускорение игр включено. Активирован режим погружения.</string>
     <string name="auto_handle_title">Автоматическая оптимизация</string>
     <string name="auto_import_games">Разместите все ваши игры в одном месте</string>
+    <string name="auto_send_correcting_msg">Если не заполнить, система автоматически отправит подтверждение по SMS.</string>
+    <string name="auto_set_by_brand">Автоматическая настройка трафика и информации о свободном трафике в соответствии с брендом</string>
     <string name="auto_task_condition_choose_battery_level_down">Разряд батареи до определённого уровня</string>
     <string name="auto_task_condition_choose_end_time">Окончание</string>
     <string name="auto_task_condition_choose_ontime">Таймер</string>
@@ -804,6 +806,11 @@
     <string name="card_main_xspace_title">Клонирование</string>
     <string name="card_tc_failed">Ошибка калибровки</string>
     <string name="cd_back">Назад</string>
+    <string name="charger_detect_button_ok">Понятно</string>
+    <string name="charger_detect_info1">Проверьте правильность подключения адаптера питания и кабеля.</string>
+    <string name="charger_detect_info2">Зарядка может быть медленной, если используются нестандартные или старые адаптеры питания и кабели.</string>
+    <string name="charger_detect_no_remind">Больше не показывать</string>
+    <string name="charger_detect_title">Мндленная зарядка</string>
     <string name="charging_text_battery_full_time">"Время последней зарядки "</string>
     <string name="charging_text_battery_nearly_full">Почти 100%</string>
     <string name="charging_text_battery_perfect">Полностью заряжена</string>
@@ -838,6 +845,7 @@
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="connecting">Подключение…</string>
     <string name="continue_install">Установить</string>
+    <string name="continue_set">Продолжить настройку</string>
     <string name="convenient_mode">Групповая разблокировка</string>
     <string name="convenient_summary">Введенный пароль разблокирует все защищенные приложения</string>
     <string name="copy">Копировать</string>
@@ -896,6 +904,7 @@
     <string name="data_usage_warning_title_notify">Лимит трафика превышен</string>
     <string name="databooster_tips_message">Включите эту функцию для ограничения всех SIM карт, кроме карты данных. Отключите эту функцию, если в играх наблюдаются ошибки.</string>
     <string name="databooster_tips_title">Внимание</string>
+    <string name="day_overflow_tips">Ежедневный трафик превышен</string>
     <string name="debug_open_final_tip">Разрешить отладку по USB?</string>
     <string name="debug_open_title">Эта функция предназначена для разработчиков. Включение отладки по USB позволит</string>
     <string name="declaration_dialog_msg">Это приложение помогает отслеживать расход трафика, но не гарантирует отсутствие дополнительных расходов. Для достижения наилучших результатов задайте жесткие лимиты.</string>
@@ -1335,6 +1344,10 @@
     <string name="first_settings_subtitle">Варианты безопасного обмена:</string>
     <string name="first_settings_title">Защита вашей конфиденциальности</string>
     <string name="five_percent_total_pkg">%s (5%% от месячного лимита)</string>
+    <string name="fixed_package_tips">Ежемесячный фиксированный трафик (за превышение взимается дополнительная плата)</string>
+    <string name="fixed_traffic_by_month">Ежемесячный фиксированный трафик</string>
+    <string name="fixed_traffic_quota">Фиксированный лимит трафика (необязательно）</string>
+    <string name="fixed_traffic_value_by_month">Ежемесячный фиксированный лимит трафика</string>
     <string name="float_window">Плавающее окно</string>
     <string name="float_window_summary">Быстрый переход на страницу с помощью встряхивания</string>
     <string name="float_window_tips">Устройство Xiaomi</string>
@@ -1365,7 +1378,12 @@
     <string name="free_time_traffic_settings">Льготный трафик</string>
     <string name="free_time_traffic_title">Лимит льготного трафика</string>
     <string name="free_traffic_settings">Контроль льготного трафика</string>
-    <string name="function_close">Откл</string>
+    <string name="function_auto_reject_detail">"О функции:
+1. Во время игры, все входящие звонки на SIM-карту без мобильного интернета будут автоматически отклонены.
+2. Вы увидите уведомления о пропущенных звонках, а вызывающий абонент услышит звуковое сообщение о том, что вы сейчас заняты.
+3. Эта функция поддерживается только мобильными операторами в Китае."</string>
+    <string name="function_auto_reject_title">Отклонять вызовы VoLTE на SIM-карты без мобильного интернета</string>
+    <string name="function_close">Откл.</string>
     <string name="function_gwsd_detail">"О функции:
  1. Когда вы используете мобильный интернет на SIM-карте для интернета или на обычной SIM-карте, подключенной к сети VoLTE, соединение не будет прерываться входящими вызовами до тех пор, пока вы не ответите.
  2. Когда эта функция включена, вызывающий абонент не будет слышать рингтон ожидания вызова, если вы не используете обычную SIM-карту. Входящий вызов будет автоматически завершен, если вы не ответите в течение 7-10 секунд.
@@ -1572,6 +1590,7 @@
     <string name="gb_xunyou_gift_type_three">Ускорение Xunyou на 3 дня</string>
     <string name="gb_xunyou_gift_type_two">Ускорение Xunyou на 2 дня</string>
     <string name="gdpr_msg"><Data>Для возможности обнаружения угроз безопасности и защиты ваших данных, нам необходимо собрать информацию о вашем устройстве. Перед использованием наших сервисов прочтите и примите Политику конфиденциальности. В случае отказа предоставить необходимую информацию, вы все равно сможете использовать это приложение, но некоторые функции будут недоступны.</Data></string>
+    <string name="get_detail_by_click">Подробности</string>
     <string name="get_sys_info">Получение данных…</string>
     <string name="gigabyteShort"> ГБ</string>
     <string name="global_wa_setting_alert_dialog_content">Можно освободить %s</string>
@@ -1579,6 +1598,7 @@
     <string name="gmscore_support_remind">Включите эту функцию, если у вас возникли проблемы с использованием Gmail, Карт Google и других приложений Google. Это немного повысит расход заряда батареи.</string>
     <string name="gmscore_support_service">Основные сервисы Google</string>
     <string name="go_to">Перейти</string>
+    <string name="go_to_send">Отправить</string>
     <string name="go_to_setting_fingerprint">Настройки</string>
     <string name="google_base_app_fail">Не удалось загрузить. Убедитесь, что приложению Безопасность разрешен доступ в интернет.</string>
     <string name="google_base_app_install_choice">Приложение для нормальной работы требует наличия Google Services Framework, загрузить и установить?</string>
@@ -1679,6 +1699,7 @@
     <string name="icon_text_size_giga_byte">%.1fГ</string>
     <string name="icon_text_size_max">9.9Г</string>
     <string name="icon_text_size_mega_byte">%dМ</string>
+    <string name="ignore_special_app">Трафик, потребляемый выбранным приложением, не учитывается в пакете</string>
     <string name="im">IM</string>
     <string name="info_and_call">Вызовы и сообщения</string>
     <string name="info_antispam_close">Антиспам отключен</string>
@@ -1740,6 +1761,7 @@
 
 Оператор связи может взимать дополнительную плату при дальнейшем использовании мобильного интернета."</string>
     <string name="leisure_usage_dialog_title">Превышен лимит трафика</string>
+    <string name="limit_speed_by_quota">Безлимитный трафик, скорость снижается при превышении порога</string>
     <string name="list_empty_text">Список пуст</string>
     <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
     <string name="loading">Подождите…</string>
@@ -1833,6 +1855,7 @@
     <string name="main_toolbar_purchase">Пополнение баланса</string>
     <string name="main_toolbar_statistic">Расход трафика</string>
     <string name="main_traffic_detail">Трафик</string>
+    <string name="make_sure_package_type">Подтвердите тип трафика</string>
     <string name="man_add_application">Добавить приложение с автозапуском</string>
     <string name="manage_hybrid_permissions">Управление разрешениями</string>
     <string name="managed_user_title">Корпоративные приложения</string>
@@ -2058,6 +2081,7 @@
     <string name="news_change">Изменить</string>
     <string name="nickname">Псевдоним</string>
     <string name="no_game">Не удалось найти игры</string>
+    <string name="no_limit_by_month">Безлимитный трафик</string>
     <string name="not_limited_brand">Без ограничений</string>
     <string name="not_set">Не задано</string>
     <string name="note">Заметка</string>
@@ -2104,6 +2128,7 @@
     <string name="notify_weekly_traffic_body">Для автоматического ограничения трафика настройте месячный лимит.</string>
     <string name="notify_weekly_traffic_title">Расход за неделю %s</string>
     <string name="notify_weekly_traffic_title_for_slotnum">Расход за неделю %2$s на %1$s</string>
+    <string name="number_address">Присвоить номер</string>
     <string name="numeric_need_to_confirm">Введите PIN-код повторно</string>
     <string name="numeric_password_confirmed_header_confirm">PIN-код задан. Нажмите для подтверждения.</string>
     <string name="numeric_password_confirmed_header_continue">PIN-код задан. Нажмите \"Далее\".</string>
@@ -2161,6 +2186,7 @@
     <string name="operator_name_mi_mobile">Mi Mobile</string>
     <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_name_unicom">China Unicom</string>
+    <string name="operator_name_virtual_operator">Виртуальный оператор</string>
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
@@ -2642,6 +2668,7 @@
     <string name="preferred_app_entries_messaging">SMS</string>
     <string name="preferred_app_entries_music">Музыка</string>
     <string name="pricacy_permission_use_total">Конфиденциальные действия</string>
+    <string name="priority_statistics_fixed_traffic">Если в пакет включен фиксированный ежемесячный трафик, он будет учитываться в приоритетном порядке</string>
     <string name="priority_storage_app_settings">Данные приложения %1$s</string>
     <string name="priority_storage_settings_summary">При отсутствии SD-карты данные будут автоматически сохраняться во внутреннюю память</string>
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
@@ -2912,7 +2939,11 @@
     <string name="securitycenter_tab_title">Безопасность</string>
     <string name="see_detail">Подробности</string>
     <string name="see_more_content">Обновите Игры для просмотра новинок</string>
+    <string name="select_province_and_city">Выберите провинцию и город</string>
+    <string name="send_msg_to_query">Отправить бесплатное SMS для проверки</string>
     <string name="set_applock_password">Задать пароль</string>
+    <string name="set_complete">Готово</string>
+    <string name="set_location">Местоположение</string>
     <string name="set_mixed_password_name">Задайте пароль</string>
     <string name="set_numeric_password_name">Задайте PIN-код</string>
     <string name="set_pattern_password_name">Задайте графический ключ</string>
@@ -3550,6 +3581,7 @@
     <string name="traffic_alert_auto_modify_notification_sumarry">Месячный лимит изменен на %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Лимит обновлен</string>
     <string name="traffic_alert_auto_modify_package_summary">Автоматически корректировать размер пакета на основе данных оператора</string>
+    <string name="traffic_calculation">Трафик в день, например, 1 юань/1 ГБ/день.</string>
     <string name="traffic_config_alert_auto_modify">Обновлять лимит автоматически</string>
     <string name="traffic_config_alert_body">"Данные вашего оператора показывают: %s.
 
@@ -3578,6 +3610,7 @@
 
 Остаток включает в себя неиспользованный трафик за прошлый месяц."</string>
     <string name="traffic_limit_error_alert_title">Напоминание о трафике %s</string>
+    <string name="traffic_limit_input">Порог предупреждения о трафике (необязательно)</string>
     <string name="traffic_none">Нет</string>
     <string name="traffic_over_purchase_link">"Вы достигли лимита трафика.&lt;br/&gt;Если вы превысите лимит, ваш оператор связи может взимать дополнительную плату.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Нажмите для пополнения баланса.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">SIM-карта отсутствует</string>
@@ -3621,6 +3654,7 @@
     <string name="uninstall_danagerous_desc">\"%s\" может нанести вред устройству</string>
     <string name="uninstall_danagerous_msg">\"%s\" может нанести вред устройству, снизить его производительность или вызвать перезагрузки.</string>
     <string name="uninstall_danagerous_title">Вредоносное приложение</string>
+    <string name="unknown_package">Не знаете, какой у вас пакет?</string>
     <string name="unlike">Нет, спасибо</string>
     <string name="unlock_failed">Внутренняя ошибка</string>
     <string name="unlock_pattern"><u>Графический ключ</u></string>
@@ -3670,6 +3704,9 @@
     <string name="vb_advanced_settings_after_open">После</string>
     <string name="vb_advanced_settings_before_open">До</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Повышение четкости движущихся объектов за счет улучшения анимации. Эта функция с повышенным энергопотреблением.</string>
+    <string name="vb_fps_display_unit">Гц</string>
+    <string name="vb_fps_settings">Автообновление частоты</string>
+    <string name="vb_fps_settings_tips">Функция регулирует частоту обновления экрана в соответствии с частотой кадров видео, это экономит заряд батареи и делает воспроизведение плавным. Включение субтитров отключает автообновление частоты.</string>
     <string name="vb_quick_func_auto_bgm">Распознавание фоновой музыки</string>
     <string name="vb_quick_func_hangup_listening">Воспроизведение звука видео с выключенным экраном</string>
     <string name="vb_quick_func_screen_capture">Скриншот</string>

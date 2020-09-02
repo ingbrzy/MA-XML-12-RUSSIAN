@@ -37,6 +37,10 @@
     <string name="back_up_task_in_process">Резервное копирование…</string>
     <string name="back_up_task_unfinished">Не удалось создать резервную копию</string>
     <string name="backing_up_to_micloud">Резервное копирование…</string>
+    <string name="backup_action_buy_cloud_space">Получить больше места</string>
+    <string name="backup_action_check_network">Проверьте настройки сети</string>
+    <string name="backup_action_clean_disk_space">Освободить место</string>
+    <string name="backup_action_retry_now">Повтор</string>
     <string name="backup_fail_wifi_needed">Резервное копирование не удалось, требуется Wi-Fi</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места для хранения в Xiaomi Cloud. Обновите свой план или освободите место.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
@@ -44,12 +48,22 @@
     <string name="backup_finished_notification_content">Резервное копирование завершено</string>
     <string name="backup_now">Начать</string>
     <string name="backup_progress_percent_unit">%</string>
+    <string name="backup_remind_buy_cloud_space">Обновите тарифный план облачного хранилища</string>
+    <string name="backup_remind_clean_disk_space">Освободите место для хранения</string>
+    <string name="backup_remind_cloud_space_cost">Размер резервной копии: %s</string>
     <string name="backup_size">Размер: %s</string>
     <string name="backup_stopped_msg">Текущая резервная копия перезапишет предыдущую. Нажмите для просмотра.</string>
     <string name="backup_stopped_title">Резервное копирование остановлено</string>
     <string name="backup_success">Резервное копирование завершено</string>
     <string name="backup_successfully">Резервное копирование завершено</string>
     <string name="backup_to_cloud">Сделать резервную копию приложения</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">Не удалось создать резервную копию</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"Недостаточно места.
+Не удалось создать резервную копию."</string>
+    <string name="backup_warning_reason_network_error">"Ошибка сети.
+Не удалось создать резервную копию."</string>
+    <string name="backup_warning_reason_no_server_response">"Соединение прервано.
+Повторите попытку."</string>
     <string name="btn_back">Назад</string>
     <string name="btn_continue">Продолжить</string>
     <string name="btn_restore_abort">Прервать</string>

@@ -275,7 +275,8 @@
     <string name="burst_preview_title">Серийный снимок</string>
     <string name="burst_save_all">Сохранить все фото</string>
     <string name="burst_save_choice_title" formatted="false">Выбрано %d из %d</string>
-    <string name="burst_save_error_msg">"Ошибка сохранения"</string>
+    <string name="burst_save_dialog_title">Выберите, какие фото сохранить</string>
+    <string name="burst_save_error_msg">Ошибка сохранения</string>
     <string name="burst_save_processing">Обработка…</string>
     <string name="burst_save_video">Сохранить как видео</string>
     <string name="burst_save_video_choice_1080">%dp</string>
@@ -789,6 +790,7 @@
     <string name="filter_movie_lost">Потерянный</string>
     <string name="filter_movie_nordic">Нордический</string>
     <string name="filter_movie_portrait">Цветофокус</string>
+    <string name="filter_movie_quiet">Безмятежный</string>
     <string name="filter_movie_rome">Рим</string>
     <string name="filter_movie_summer">Лето</string>
     <string name="filter_movie_travel">Путешествие</string>
@@ -806,13 +808,19 @@
     <string name="filter_people_sepia">Сепия</string>
     <string name="filter_people_story">История</string>
     <string name="filter_people_tea">Чай</string>
+    <string name="filter_popular_bluedream">Грезы</string>
     <string name="filter_popular_humanity">Документальный</string>
     <string name="filter_popular_lnk">Чернила</string>
     <string name="filter_popular_purple">Пурпур</string>
+    <string name="filter_popular_shallow_summer">Июнь</string>
+    <string name="filter_popular_smokegreen">Шалфей</string>
+    <string name="filter_popular_watergreen">Изумруд</string>
     <string name="filter_portrait_greyish">Пепел</string>
     <string name="filter_portrait_hint">Цветовой фокус</string>
     <string name="filter_portrait_mist">Туман</string>
+    <string name="filter_portrait_mojito">Мохито</string>
     <string name="filter_portrait_painting">Картина</string>
+    <string name="filter_portrait_waterblue">Аквамарин</string>
     <string name="filter_scene_city">Город</string>
     <string name="filter_scene_df">Туман</string>
     <string name="filter_scene_koizora">Любовь</string>
@@ -1413,6 +1421,7 @@
     <string name="photo_movie_module_finish">Модуль Клип успешно загружен</string>
     <string name="photo_movie_module_loading">Загрузка модуля Клип…</string>
     <string name="photo_movie_select_image_range">Клипы могут содержать от 3 до 20 фото</string>
+    <string name="photo_page_rotate_screen">Поворот экрана</string>
     <string name="photo_page_save_uri_image_fail">Не удалось сохранить в Галерее</string>
     <string name="photo_page_save_uri_image_ok">Фото сохранено в Галерее</string>
     <string name="photo_portrait_color_download_fail">Не удалось загрузить плагин. Подключитесь к сети и повторите попытку.</string>
@@ -1968,6 +1977,7 @@
     <string name="time_burst_photo_enter">Серийные снимки</string>
     <string name="time_burst_preview_title">Серийные снимки</string>
     <string name="time_burst_save_all">Сохранить все</string>
+    <string name="time_burst_save_dialog_title">Экспорт</string>
     <string name="time_burst_save_select">Сохранить выбранные</string>
     <string name="time_burst_save_video">Сохранить как видео</string>
     <string name="time_picker_dialog_title">Установите время</string>
