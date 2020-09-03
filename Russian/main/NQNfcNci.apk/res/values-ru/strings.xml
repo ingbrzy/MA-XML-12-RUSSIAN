@@ -30,6 +30,7 @@
     <string name="accessibility_nfc_enabled">Служба NFC включена</string>
     <string name="action_confirm_url_open">Открыть ссылку</string>
     <string name="android_beam">Android Beam</string>
+    <string name="antenna_blocked_alert_link"/>
     <string name="app_name">Служба NFC</string>
     <string name="ask_nfc_tap">Коснитесь другого устройства, чтобы передать данные</string>
     <string name="beam_busy">Передавать данные пока нельзя. Повторите попытку после окончания предыдущего сеанса.</string>
@@ -56,7 +57,9 @@
     <string name="disconnecting_peripheral">Устройство %1$s отключается</string>
     <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
     <string name="nfcUserLabel">NFC</string>
-    <string name="nfc_enabled_dialog">"Nfc в настоящее время отключен. 
+    <string name="nfc_blocking_alert_message">Нажмите, чтобы узнать, как исправить.</string>
+    <string name="nfc_blocking_alert_title">NFC может быть заблокирован</string>
+    <string name="nfc_enabled_dialog">"NFC в настоящее время отключен. 
 Включить его?"</string>
     <string name="no">НЕТ</string>
     <string name="ok">ОК</string>
