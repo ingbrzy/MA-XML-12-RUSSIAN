@@ -271,6 +271,10 @@
     <string name="auto_remind_unbind">Отключить</string>
     <string name="auto_sync_off">Автоматическая синхронизация выключена.</string>
     <string name="automatic_remind_text">Напомнить автоматически</string>
+    <string name="bContact_list_search_hint">Поиск заблокированных контактов</string>
+    <string name="b_contacts">Черный список</string>
+    <string name="b_contacts_remove">Удалить</string>
+    <string name="b_contacts_remove_tips">Удалить этот адрес из черного списка?</string>
     <string name="back">Назад</string>
     <string name="bank_card_detail">Данные кредитной карты</string>
     <string name="battery_saver">Энергосбережение</string>
@@ -317,6 +321,9 @@
     <string name="chat_item_msg_people_unit">Участники</string>
     <string name="chat_item_msg_user_etc">и т.д.</string>
     <string name="check_setup_data">"    Проверка параметров сервера…"</string>
+    <string name="choose_an_office365_international">Международная версия</string>
+    <string name="choose_an_office365_provider">Поставщик услуг office365</string>
+    <string name="choose_an_office365_sj">21Vianet версия</string>
     <string name="choosertitle_sharevia">Поделиться с помощью</string>
     <string name="clear">Очистить</string>
     <string name="clear_display_images_whitelist_dialog_message">Не отображать принятые изображения автоматически</string>
@@ -537,8 +544,12 @@
     <string name="file_save_path_dialog_ok">Изменить</string>
     <string name="file_save_term">Условия сохранения файлов</string>
     <string name="filter_item_all">Все письма</string>
+    <string name="filter_item_cc">В копии</string>
+    <string name="filter_item_me">Отправленные мне</string>
+    <string name="filter_item_unread">Непрочитанные</string>
+    <string name="filter_title_cc">"%s [в копии]"</string>
     <string name="filter_title_me">%s [отправленные мне]</string>
-    <string name="filter_title_unread">%s [Не прочитано]</string>
+    <string name="filter_title_unread">%s [непрочитанные]</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Нажмите на кнопку, чтобы отправить \"%s\" всем участникам диалога</string>
     <string name="float_window_info">Во время настройки 139 Mailbox не пользуйтесь телефоном, чтобы избежать сбоев</string>
@@ -867,6 +878,16 @@
     <string name="notify_channel_permission_notice">Требуются разрешения</string>
     <string name="notify_channel_send_fail">Уведомлять о неудачной доставке</string>
     <string name="notify_channel_service">Уведомлять о фоновой синхронизации</string>
+    <string name="ntes_authorization_code_to_login">Войти с этим кодом авторизации</string>
+    <string name="ntes_copy_and_login">Скопировать и войти</string>
+    <string name="ntes_do_not_sms_uplink">Отправьте SMS с привязанного номера телефона и нажмите \"Сообщение отправлено\".</string>
+    <string name="ntes_had_send">Сообщение отправлено</string>
+    <string name="ntes_had_send_to_content">Если вы уже отправили SMS с привязанного номера телефона, нажмите \"Сообщение отправлено\".</string>
+    <string name="ntes_login_error_message" formatted="false">"Не удалось получить информацию об аккаунте (Ошибка %s). %s."</string>
+    <string name="ntes_password_error_hint">Если при вводе пароля возникают ошибки, закройте эту страницу и откройте ее снова.</string>
+    <string name="ntes_phone_send">Отправить текстовое сообщение с привязанного номера телефона</string>
+    <string name="ntes_send_to">Отправить: %s</string>
+    <string name="ntes_send_to_content">Если текущий номер телефона связан с учетной записью, нажмите \"Отправить SMS\".</string>
     <string name="ntes_verification_code">Введите код: %s</string>
     <string name="oauth_error_description">Ошибка аутентификации</string>
     <string name="oauth_gmail_login_notify">Введите логин и пароль аккаунта Google в следующей форме.</string>
@@ -942,6 +963,21 @@
     <string name="path_about_email_setting">Почта/Настройки</string>
     <string name="path_about_send_feed_back">Почта/Настройки/Отправить отзыв</string>
     <string name="path_about_upload_logs">Почта/Настройки/Загрузить журналы</string>
+    <string name="pdf_has_signature_prompt_cancel">Открыть исходный файл</string>
+    <string name="pdf_has_signature_prompt_confirm">Открыть копию</string>
+    <string name="pdf_has_signature_prompt_message">Обнаружена подписанная копия этого вложения. Открыть?</string>
+    <string name="pdf_signature_create_title">Создать подпись</string>
+    <string name="pdf_signature_manager_max_count">Достигнуто максимальное количество подписей, удалите существующую подпись и повторите попытку</string>
+    <string name="pdf_signature_manager_title">Менеджер подписи</string>
+    <string name="pdf_viewer_actionbar_more_other">Открыть с помощью другого приложения</string>
+    <string name="pdf_viewer_actionbar_more_wps">Открыть с помощью WPS</string>
+    <string name="pdf_viewer_file_damage_toast">PDF-файл поврежден. Проверьте файл и повторите попытку.</string>
+    <string name="pdf_viewer_new_email">Новое сообщение</string>
+    <string name="pdf_viewer_reply">Использовать этот файл в ответе</string>
+    <string name="pdf_viewer_save_signature">Сохранить подпись</string>
+    <string name="pdf_viewer_sign_file_damage_toast">Файл не существует</string>
+    <string name="pdf_viewer_signature">Подпись PDF</string>
+    <string name="perference_change_auth_ok_tips">Код авторизации изменен</string>
     <string name="perference_change_pw_notnull_tips">Введите пароль</string>
     <string name="perference_change_pw_ok_tips">Пароль обновлен</string>
     <string name="perference_setup_pop_del">Удалить почту с сервера</string>
@@ -1043,9 +1079,12 @@
     <string name="qq_login_open_imap">Нажмите \"Помощь\", чтобы включить IMAP/SMTP</string>
     <string name="qq_login_origin_setting">Введите имя пользователя и пароль для входа в ></string>
     <string name="qq_login_send_message">Нажмите \"Отправить SMS\", чтобы получить код авторизации</string>
+    <string name="qq_login_sent_setting">Синхронизировать отправленные сообщения</string>
     <string name="qq_login_webview">Авторизация в веб-клиенте QQ, нажмите Войти с помощью пароля.</string>
     <string name="qq_next_generation_auth_toast">Включите защиту паролем в вашем браузере</string>
     <string name="qq_pwd_or_qq_auth_code">Введите код</string>
+    <string name="qq_sent_no_message">Не можете найти отправленные письма? Нажмите здесь, чтобы узнать, что можно сделать.</string>
+    <string name="qq_sent_no_message_setting">Синхронизировать отправленные сообщения из QQ Mail</string>
     <string name="qq_uthentication_failed">Не удалось проверить аккаунт, авторизуйтесь заново</string>
     <string name="qq_verify_code">(Требуется код подтверждения от QQ)</string>
     <string name="qq_webview_loading">Подождите…</string>
@@ -1188,6 +1227,24 @@
     <string name="ser_resp_err_map_serclosed">Сначала включите %s в почтовом веб-клиенте</string>
     <string name="ser_resp_err_map_serclosed_info">%s отключен</string>
     <string name="ser_resp_err_map_ssl">Включите переключатель SSL в настройках вручную</string>
+    <string name="server_cet_button">Доверять этому сертификату</string>
+    <string name="server_cet_cert_data">"Срок действия: "</string>
+    <string name="server_cet_cert_issuer">"Издатель сертификата: "</string>
+    <string name="server_cet_data">"Срок действия: "</string>
+    <string name="server_cet_data_exp">Срок действия сертификата этого сервера истек</string>
+    <string name="server_cet_data_to" formatted="false">%s - %s</string>
+    <string name="server_cet_domain">"Имя домена: "</string>
+    <string name="server_cet_error_sug">"Попробуйте следующие шаги:
+1. Подключитесь к другой сети или перезагрузите Wi-Fi роутер.
+2. Убедитесь, что используете действительные сертификаты."</string>
+    <string name="server_cet_error_title_1">Сертификат сервера не поддерживает этот домен</string>
+    <string name="server_cet_error_title_2">Срок действия сертификата истек</string>
+    <string name="server_cet_error_title_3">Издатель сертификата не является доверенной организацией.</string>
+    <string name="server_cet_issue_to">"Выдан для "</string>
+    <string name="server_cet_issuer">"Выдан "</string>
+    <string name="server_cet_issuer_no_trust">Издатель сертификата не является доверенной организацией.</string>
+    <string name="server_cet_subject_cn">"Поддерживаемый домен: "</string>
+    <string name="server_cet_title">Сведения о сертификате</string>
     <string name="service_protocol_discribe">&lt;u&gt;"Я прочитал и согласен с \"Соглашением почтового сервиса WPS\""&lt;/u&gt;</string>
     <string name="service_protocol_title">Соглашение об обслуживании</string>
     <string name="set_network">Настройка сети</string>
