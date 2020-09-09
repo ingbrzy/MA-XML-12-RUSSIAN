@@ -308,6 +308,7 @@
     <string name="empty_title_video">Видео не найдены</string>
     <string name="engine_cm">Clean Master</string>
     <string name="engine_init">Инициализация…</string>
+    <string name="engine_mi">Xiaomi</string>
     <string name="engine_tm">Tencent</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="facebook_clean_exit_confirm_cancel">Продолжить</string>
@@ -459,6 +460,8 @@
     <string name="hot_today">Популярные сегодня</string>
     <string name="information_setting">Рекомендации</string>
     <string name="install_sucess">Установка %s завершена</string>
+    <string name="install_time_format">dd.MM.yyyy</string>
+    <string name="install_time_invalid">--</string>
     <string name="installed">Установлено</string>
     <string name="installing">Установка</string>
     <string name="item_title_process_mode">Режим очистки</string>
@@ -607,6 +610,8 @@
     <string name="notification_memory_clean_button_text">Ускорение</string>
     <string name="notification_memory_clean_hint">Нажмите для ускорения</string>
     <string name="notification_memory_clean_used_size">%s памяти занято</string>
+    <string name="notification_size_1.5_GB">%.1f</string>
+    <string name="notification_size_1_GB">%d</string>
     <string name="notification_summary_after_auto_cleanup">Очищено: %s.</string>
     <string name="notification_uninstalled_clean_button_text">Просмотр</string>
     <string name="notification_uninstalled_clean_with_name">Данные приложения %s</string>
@@ -630,6 +635,10 @@
     <string name="optimizecenter_data_support_cm">Поддержка: Clean Master</string>
     <string name="optimizecenter_data_support_tc">Поддержка: Tencent</string>
     <string name="output_videos">Экспорт видео</string>
+    <string name="permission_dialog_storage_btn1">Настройки</string>
+    <string name="permission_dialog_storage_btn2">Отмена</string>
+    <string name="permission_dialog_storage_content">Функции Очистка для нормальной работы требуется разрешение на доступ к внутренней памяти. Нажмите \"Настройки\" для управления разрешениями.</string>
+    <string name="permission_dialog_storage_title">Требуются разрешения</string>
     <string name="petabyteShort">" ПБ"</string>
     <string name="positive_confirm">OK</string>
     <string name="pref_about_privacy_title">Политика конфиденциальности</string>

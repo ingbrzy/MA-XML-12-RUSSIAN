@@ -186,6 +186,7 @@
     <string name="enable_usb">USB устройство повреждено или отключено</string>
     <string name="encrypt_error">Не удалось скрыть файлы, повторите попытку</string>
     <string name="encrypt_prefix">HIDDEN</string>
+    <string name="encrypt_setting">Шифрование</string>
     <string name="encrypt_success">Файлы скрыты</string>
     <string name="encrypt_success_first_five">Файл зашифрован и скрыт. Вы можете просмотреть скрытые файлы, потянув вниз на главной странице.</string>
     <string name="encrypting">Шифрование…</string>
@@ -352,14 +353,15 @@
     <string name="no_wifi_hint">Нет соединения</string>
     <string name="not_set">Не задано</string>
     <string name="not_support_documentui">Приложение DocumentsUI не поддерживается на этом устройстве</string>
+    <string name="not_use">Не сейчас</string>
     <string name="notif_server_starting">Запуск FTP-сервера…</string>
     <string name="notif_title">FTP-сервер запущен</string>
-    <string name="notification_dialog_confirm">OK</string>
+    <string name="notification_dialog_confirm">ОК</string>
     <string name="notification_dialog_content">Автоматические уведомления и сортировка при добавлении и изменении файлов в %1$s.</string>
     <string name="notification_dialog_title">Уведомления</string>
     <string name="notification_wechat_expired_empty">Эти видео были удалены из WeChat.</string>
     <string name="often_used_folders">Часто используемые папки</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="online_not_support">Не удается просмотреть файл онлайн</string>
     <string name="open">Открыть</string>
     <string name="open_private_folder">Отпустите для просмотра скрытых папок</string>
@@ -378,6 +380,8 @@
 "</string>
     <string name="operation_delete_done">Удаление завершено</string>
     <string name="operation_deleting">Удаление…</string>
+    <string name="operation_encrypt_summary">Шифрование файлов в личной папке. Расшифровка больших файлов может занять дополнительное время.</string>
+    <string name="operation_encrypt_title">Шифрование личных файлов</string>
     <string name="operation_favorite">Добавить в избранные</string>
     <string name="operation_hide_sys">Не показывать скрытые файлы</string>
     <string name="operation_info">Подробности</string>
@@ -433,6 +437,9 @@
     <string name="private_folder">Скрытые папки</string>
     <string name="private_folder_no_file_hints">Нет скрытых файлов</string>
     <string name="private_folder_update">Обновление скрытых файлов…</string>
+    <string name="private_folder_update_msg">Проводник представляет новую функцию безопасности: теперь вы можете шифровать личные файлы!</string>
+    <string name="private_folder_update_msg_summary">Расшифровка может замедлить удаление файлов из личной папки. Шифрование можно включить или отключить в настройках.</string>
+    <string name="private_folder_update_tips">Новая функция</string>
     <string name="private_toast_hint2">Для скрытия файла удерживайте его, а затем добавьте в скрытую папку</string>
     <string name="promot_enctypt_password">Введите пароль разблокировки устройства</string>
     <string name="pull_to_enter_private">Потяните вниз, чтобы открыть приватную папку</string>
@@ -543,6 +550,7 @@
     <string name="unlock_pattern_title">Новый пароль</string>
     <string name="upload_user_photo">Отправить</string>
     <string name="usb_label">USB</string>
+    <string name="use">Включить</string>
     <string name="use_to_all">Применить ко всем</string>
     <string name="used">Занято</string>
     <string name="user_guide_continue_use">OК</string>

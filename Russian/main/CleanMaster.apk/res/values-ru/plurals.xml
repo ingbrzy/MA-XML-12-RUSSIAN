@@ -147,6 +147,15 @@
         <item quantity="one">%1$d час назад</item>
         <item quantity="few">%1$d часа назад</item>
     </plurals>
+    <plurals name="install_find_application">
+        <item quantity="other">Поиск среди %d приложений</item>
+        <item quantity="one">Поиск в %d приложении</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Найдено %d приложений</item>
+        <item quantity="one">Найдено %d приложение</item>
+        <item quantity="few">Найдено %d приложения</item>
+    </plurals>	
     <plurals name="million">
         <item quantity="other">Загрузок: %1$d</item>
         <item quantity="one">Загрузок: %1$d</item>

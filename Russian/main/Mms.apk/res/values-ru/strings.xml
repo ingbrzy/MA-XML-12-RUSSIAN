@@ -88,6 +88,9 @@
     <string name="auto_identify_btn_title">Сообщение отправлено с неизвестного номера.</string>
     <string name="auto_identify_confirmation">Активация этой функции может занять некоторое время.</string>
     <string name="back_to_message_list">Вернуться к списку сообщений</string>
+    <string name="banner_btn_install">Установить</string>
+    <string name="banner_btn_not_now">Не сейчас</string>
+    <string name="banner_btn_open">Открыть</string>
     <string name="batch_adding_progress_message">Добавление…</string>
     <string name="batch_deleting_message_progress_message">Удаление…</string>
     <string name="batch_deleting_progress_message">Удаление…</string>
@@ -207,6 +210,7 @@
     <string name="debug_enable_success">Отладка включена</string>
     <string name="debug_export_db">Экспорт базы данных</string>
     <string name="debug_title">Отладка</string>
+    <string name="default_google_message_promo_content">Вы установили приложение Сообщения от Google в качестве приложения по умолчанию. Нажмите \"Открыть\", чтобы начать.</string>
     <string name="delete">Удалить</string>
     <string name="delete_block_conversation">Удалить диалог</string>
     <string name="delete_bookmark">Удалить из избранных</string>
@@ -260,6 +264,7 @@
     <string name="edit_phrase">Изменить быстрые ответы</string>
     <string name="edit_slide_activity">Изменить слайд</string>
     <string name="edit_slideshow_activity">Редактор слайд-шоу</string>
+    <string name="enable_classify_tip_dialog_content">Это перезапустит приложение Сообщения. Продолжить?</string>
     <string name="enabled">Вкл</string>
     <string name="english_subject_limit">40 символов</string>
     <string name="enter_edit_mode">Пакетное удаление</string>
@@ -331,6 +336,8 @@
     <string name="from_pkg_name">От приложения:</string>
     <string name="ft_cfs_dialog_content">"Файлы не могут быть доставлены с использованием RCS. Отправить ссылку в текстовом сообщении вместо этого?"</string>
     <string name="ft_cfs_dialog_title">Альтернативная передача файлов</string>
+    <string name="google_message_promo_content">Xiaomi рекомендует перейти на приложение Сообщения от Google. Приложение позволит отправлять текстовые сообщения по Wi-Fi, обмениваться высококачественными медиафайлами и многое другое. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Подробности&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="google_message_promo_title">Обновление приложения</string>
     <string name="group_already_kicked_hint">Отправка невозможна. Вы не являетесь участником этого чата.</string>
     <string name="group_member_is_composing">Печатает…</string>
     <string name="group_message">Групповое сообщение</string>
@@ -368,6 +375,8 @@
     <string name="imageview_ad">Реклама</string>
     <string name="importing_progress_private_message">Импорт…</string>
     <string name="in_sms">Сообщение</string>
+    <string name="installed_google_message_promo_content">Xiaomi рекомендует перейти на приложение Сообщения от Google. Приложение позволит отправлять текстовые сообщения по Wi-Fi, обмениваться высококачественными медиафайлами и многое другое.</string>
+    <string name="installed_google_message_promo_title">Приложение Сообщения</string>
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
     <string name="invalid_conversation">Неверный диалог</string>
     <string name="invalid_destination">Неверный адрес получателя</string>
@@ -625,6 +634,9 @@
     <string name="perm_purpose_rcs_account">Для отображения руководства для начинающих для новых пользователей"</string>
     <string name="perm_purpose_rcs_phone_state">Для доступа к IMEI для идентификации вашего устройства</string>
     <string name="perm_purpose_rcs_storage">Для сохранения изображений, видео, файлов и других вложений RCS</string>
+    <string name="permission_retry_deny">Отмена</string>
+    <string name="permission_retry_dialog_msg">Приложению Сообщения для нормальной работы требуются разрешения. Нажмите \"Настройки\", затем \"Разрешения\" и предоставьте доступ к устройству, SMS и контактам.</string>
+    <string name="permission_retry_setting">Настройки</string>
     <string name="phrase_confirm_delete_message">Удалить этот шаблон?</string>
     <string name="phrase_empty">Нет фраз</string>
     <string name="phrase_from">От %1s</string>
@@ -664,6 +676,7 @@
     <string name="pref_summary_delete_limit">Сообщений в диалоге: %1$s</string>
     <string name="pref_summary_delivery_reports">Показывать отчет о доставке для отправленных сообщений</string>
     <string name="pref_summary_delivery_ringtone">Получать звуковые уведомления о доставке сообщений</string>
+    <string name="pref_summary_enable_classify">Перенести рекламные и финансовые сообщения в отдельные вкладки</string>
     <string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM карте</string>
     <string name="pref_summary_mms_auto_retrieval">Загружать фото и видео из сообщений автоматически</string>
     <string name="pref_summary_mms_read_reports">Показывать в диалоге уведомление о загрузке содержимого MMS получателем</string>
@@ -682,6 +695,7 @@
     <string name="pref_title_card_format">Формат обмена визитками</string>
     <string name="pref_title_collapse_ad_notification">Группировать уведомления о рекламных сообщениях</string>
     <string name="pref_title_delivery_reports">Отчет о доставке</string>
+    <string name="pref_title_enable_classify">Автогруппировка сообщений</string>
     <string name="pref_title_fwd_sender_info">Данные отправителя</string>
     <string name="pref_title_manage_sim_messages">Сообщения на SIM карте</string>
     <string name="pref_title_miui_card">Отправлять как визитку MIUI</string>
@@ -1083,6 +1097,7 @@
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Уведомления</string>
     <string name="sp_mark_as_read_menu_title">Прочитано</string>
+    <string name="sp_msg_entry">Сервисы</string>
     <string name="sqlite_disk_full">Место на вашем устройстве заполнено.</string>
     <string name="sqlite_low_memory">Недостаточно места</string>
     <string name="status_bar_notification_info_overflow">&gt;999</string>
@@ -1212,7 +1227,10 @@
     <string name="to_address_label">"Получатель: "</string>
     <string name="to_label">"Кому: "</string>
     <string name="to_send_wrapper">Будет отправлено в %s</string>
-    <string name="toast_failed_to_close_priv_auth">"Не удалось отозвать разрешение. Проверьте настройки сети и повторите попытку."</string>
+    <string name="toast_failed_to_close_priv_auth">Не удалось отозвать разрешение. Проверьте настройки сети и повторите попытку.</string>
+    <string name="toast_not_show_camera_perm_req">Для использования этой функции, разрешите приложению Сообщения использование камеры</string>
+    <string name="toast_not_show_microphone_perm_req">Для использования этой функции, разрешите приложению Сообщения использование микрофона</string>
+    <string name="toast_not_show_storage_perm_req">Для использования этой функции, разрешите приложению Сообщения доступ к памяти устройства</string>
     <string name="toast_pending_hangup_msg">Сообщение будет отправлено после окончания вызова</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
