@@ -219,11 +219,6 @@
     <string name="delete_screen">Удалить экран</string>
     <string name="delete_wallpaper_message">Удалить обои (%1$d)?</string>
     <string name="deselect_all">Снять выбор</string>
-    <string name="dialog_work_profile_button_1">Далее</string>
-    <string name="dialog_work_profile_button_2">Понятно</string>
-    <string name="dialog_work_profile_content_1">Личные данные отделены и скрыты от рабочих приложений</string>
-    <string name="dialog_work_profile_content_2">Рабочие приложения и данные видны вашему ИТ-администратору</string>
-    <string name="dialog_work_profile_title">Рабочий профиль</string>
     <string name="disable_wallpaper_scroll">Отключить прокрутку обоев</string>
     <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="download_action">Загрузить</string>
@@ -633,5 +628,10 @@
     <string name="widgets_preview_title">Виджеты</string>
     <string name="work_mode_off_label">Уведомления отключены, приложения недоступны</string>
     <string name="work_mode_on_label">Управляется вашей организацией</string>
+    <string name="work_profile_first_content">Личные данные отделены и скрыты от рабочих приложений</string>
+    <string name="work_profile_got_button">Понятно</string>
+    <string name="work_profile_next_button">Далее</string>
+    <string name="work_profile_second_content">Рабочие приложения и данные видны вашему ИТ-администратору</string>
+    <string name="work_profile_title">Рабочий профиль</string>
     <string name="work_profile_toggle_label">Рабочий профиль</string>
 </resources>

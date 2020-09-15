@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_desc_close">Закрыть</string>
+    <string name="accessibility_desc_edit">Редактировать</string>
     <string name="accessibility_menu">Меню</string>
     <string name="accessibility_quick_settings_page">Страница: %1$d из %2$d</string>
     <string name="actionbar_button_up_description">Назад</string>
@@ -48,6 +49,10 @@
     <string name="controls_dismiss_dialog_message_international">Настройте смарт-карту для отображения и управления  умными устройствами дома в центре управления</string>
     <string name="controls_dismiss_dialog_title">Смарт-карта</string>
     <string name="controls_dismiss_dialog_title_international">Смарт-карта</string>
+    <string name="controls_edit_panel_not_added_title">Доступные устройства</string>
+    <string name="controls_edit_panel_save_button">Готово</string>
+    <string name="controls_edit_panel_subtitle">Перетащите для изменения порядка</string>
+    <string name="controls_edit_panel_title">Добавленные устройства</string>
     <string name="controls_error_failed">Ошибка. Повторите попытку.</string>
     <string name="controls_error_generic">Не удалось получить статус</string>
     <string name="controls_error_removed">Устройство удалено</string>
@@ -63,6 +68,8 @@
     <string name="controls_mijia_setup_subtitle">Выберите приложение для управления умным домом</string>
     <string name="controls_mijia_setup_subtitle_login">Войдите для управления умным домом</string>
     <string name="controls_mijia_setup_title">Mi Home умный дом</string>
+    <string name="controls_no_device_subtitle">Сначала добавьте устройство в %s.</string>
+    <string name="controls_no_device_title">Не удалось найти устройство</string>
     <string name="controls_no_favorites_title">Выберите приложение для управления умным домом</string>
     <string name="controls_pin_instructions">Введите PIN-код</string>
     <string name="controls_pin_instructions_retry">Попробуйте другой PIN-код</string>
@@ -95,6 +102,14 @@
     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
