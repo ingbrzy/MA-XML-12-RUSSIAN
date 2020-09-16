@@ -46,6 +46,7 @@ call run_copy_translation.bat %1 MiLinkService
 call run_copy_translation.bat %1 MiMover
 call run_copy_translation.bat %1 MiRadio
 call run_copy_translation.bat %1 MiRecycle
+call run_copy_translation.bat %1 Mirror
 call run_copy_translation.bat %1 MiService
 call run_copy_translation.bat %1 MiSettings
 call run_copy_translation.bat %1 MiShare

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>    
+    <string-array name="settings_search_mirror">
+        <item>Screen Combo</item>
+        <item>Connection &amp; sharing/Screen Combo</item>
+        <item>Screen Combo;Multiscreen;Screen mirroring;PC;Computer</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Turn off portable hotspot, Mi Share, or casting on your mobile device before using Screen Combo.
+2. Turn off Wi-Fi on both your mobile device and computer.
+3. Make sure your mobile device is close to your computer."</item>
+        <item>Your computer uses Bluetooth to detect mobile devices that have been previously connected. Check whether Bluetooth is turned on on your mobile device.</item>
+        <item>"Mobile devices can't sync data with computers when the screen is locked. By default, Screen Combo doesn't allow locking the screen when your mobile device is connected to a computer. You can change this in the Settings."</item>
+        <item>"1. Selected Xiaomi phones running Android Q or later support Screen Combo. If you see the MIUI website after you scan the QR code, your device isn't supported yet.
+2. To use Screen Combo on your computer, install the latest version of Mi Smart Share first."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Can't connect using QR code?"</item>
+        <item>"Can't find mobile devices using your computer?"</item>
+        <item>"Can't lock your mobile device?"</item>
+        <item>Compatibility</item>
+    </string-array>
+</resources>
