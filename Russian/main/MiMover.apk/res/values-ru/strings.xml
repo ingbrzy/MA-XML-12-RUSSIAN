@@ -108,6 +108,9 @@
     <string name="deselect_all_description">Отменить выбор всех элементов</string>
     <string name="dialog_backup_password_cancel">Отмена</string>
     <string name="dialog_backup_password_change_machine_tips">Вы не сможете передавать резервные копии, защищенные паролем. Отключите пароль резервного копирования перед использованием Mi Mover.</string>
+    <string name="dialog_connect_ap_timeout_button">Подключиться</string>
+    <string name="dialog_connect_ap_timeout_message">Автоматическое подключение не удалось. Попробуйте подключиться вручную.</string>
+    <string name="dialog_connect_ap_timeout_title">Подключение вручную</string>
     <string name="dialog_forbidden_use_tips">Mi Mover в настоящее время не поддерживает передачу данных на планшеты или с них.</string>
     <string name="dialog_rating_desc_ask">Как вы относитесь к Mi Mover?</string>
     <string name="dialog_rating_desc_less">Дайте нам несколько предложений, чтобы мы могли улучшить наше приложение?</string>
@@ -176,10 +179,11 @@
     <string name="guest_install_app_hint_ensure">Загрузить</string>
     <string name="guest_install_app_hint_summary">Новая версия Mi Mover не совместима с установленной на этом устройстве. Загрузите и установите новую версию.</string>
     <string name="guest_install_app_hint_title">Загрузить новую версию Mi Mover</string>
+    <string name="guest_manual_connect_link_text">Подключиться вручную</string>
     <string name="guest_unfinished_task_alert_btn_negative">Начать сначала</string>
     <string name="guest_unfinished_task_alert_btn_positive">Продолжить</string>
-    <string name="guest_unfinished_task_alert_message">Похоже, у вас есть незаконченные задачи передачи. Продолжить передачу?</string>
-    <string name="guest_unfinished_task_alert_title">Незавершенные задачи</string>
+    <string name="guest_unfinished_task_alert_message">Похоже, у вас есть незавершенные задания. Продолжить передачу?</string>
+    <string name="guest_unfinished_task_alert_title">Незавершенные задания</string>
     <string name="hide_password_description">Скрыть пароль</string>
     <string name="host_boot_installation_bottom_tips">Не можете найти Mi Mover? Нажмите, чтобы загрузить.</string>
     <string name="host_boot_installation_button">Далее</string>
@@ -197,8 +201,9 @@
     <string name="host_connect_timeout_tip">Не удаётся долго подключиться </string>
     <string name="host_dialog_install_button">Установить на другое устройство</string>
     <string name="host_dialog_known_button">Готово</string>
-    <string name="host_dialog_message">Убедитесь, что на другом устройстве установлена последняя версия Mi Mover; в противном случае оба устройства не смогут подключиться.</string>
-    <string name="host_dialog_title">Не удаётся долго подключиться</string>
+    <string name="host_dialog_message">Убедитесь, что на другом устройстве установлена последняя версия Mi Mover, в противном случае оба устройства не смогут подключиться.</string>
+    <string name="host_dialog_title">Не удалось подключиться</string>
+    <string name="host_manual_connect_link_text">Если старое устройство слишком долго не может найти точку доступа, попробуйте подключиться вручную.</string>
     <string name="host_memory_insuff_cancel">Отмена</string>
     <string name="host_memory_insuff_confirm">Повторите выбор</string>
     <string name="host_memory_insuff_summary">На новом устройстве недостаточно места для запуска передачи.</string>
@@ -272,6 +277,11 @@
     <string name="main_chooser_item_android_others">Импорт с другого телефона Android</string>
     <string name="main_chooser_item_ios">Импорт с iPhone</string>
     <string name="main_chooser_title">Выберите старое устройство</string>
+    <string name="manual_connection_content1">1. Нажмите \"Подключиться вручную\" на старом устройстве.</string>
+    <string name="manual_connection_content2">2. Выберите указанную точку доступа Wi-Fi.</string>
+    <string name="manual_connection_content3">3. Введите этот пароль на старом устройстве для подключения.</string>
+    <string name="manual_connection_summary2">Если вы не можете найти эту точку доступа, обновите список доступных сетей Wi-Fi и повторите попытку.</string>
+    <string name="manual_connection_title">Подключение вручную</string>
     <string name="message_request_package_stats_perm">Нажмите \"Продолжить\", чтобы открыть настройки и дать Mi Mover необходимые разрешения.</string>
     <string name="midnight">AM</string>
     <string name="miui_need_location_permission_summary">Разрешите Mi Mover получить доступ к вашему местоположению, чтобы найти устройства поблизости. Вы не сможете использовать Mi Mover, если не предоставите это разрешение.</string>
@@ -357,12 +367,10 @@
     <string name="new_trans_intro_question_8">8. Почему моя история WeChat исчезла на новом устройстве?</string>
     <string name="new_wait_link_first">1. Откройте Mi Mover на вашем старом устройстве.
 2. Нажмите \"Я отправитель\" и подождите немного.
-3. Выберите следующую точку доступа на старом устройстве.</string>
-    <string name="new_wait_link_message_1">Перейдите в Настройки, введите \"Mi Mover\" в панели поиска, затем нажмите на \"Mi Mover\" в результатах поиска.</string>
+3. Выберите указанную точку доступа на старом устройстве.</string>
     <string name="new_wait_link_message_2">Кнопка \"Я отправитель\" находится на начальной странице Mi Mover.</string>
-    <string name="new_wait_link_title_1">1. Перейдите в Настройки на вашем старом устройстве.</string>
-    <string name="new_wait_link_title_2">2. Введите \"Mi Mover\" в панели поиска.</string>
-    <string name="new_wait_link_title_3">3. Нажмите на \"Mi Mover\" в результатах поиска.</string>
+    <string name="new_wait_link_title_2">2. Нажмите \"Я отправитель\" и подождите немного.</string>
+    <string name="new_wait_link_title_3">3. Выберите указанную точку доступа на старом устройстве.</string>
     <string name="next">Далее</string>
     <string name="nickname">Псевдоним</string>
     <string name="night">PM</string>
@@ -370,8 +378,18 @@
     <string name="no_network">Не удается подключиться к сети</string>
     <string name="no_sim">SIM-карта отсутствует.</string>
     <string name="noon">PM</string>
+    <string name="not_support_data_content1">1. Данные, специфичные для модели устройства</string>
+    <string name="not_support_data_content2">2. Данные выбранных приложений</string>
+    <string name="not_support_data_content3">3. Данные второго пространства</string>
+    <string name="not_support_data_content4">4. Клоны приложений</string>
+    <string name="not_support_data_link">Данные, которые не могут быть перенесены</string>
+    <string name="not_support_data_summary1">Темы, обои, транспортные карты и карты-ключи не могут быть перенесены с помощью Mi Mover.</string>
+    <string name="not_support_data_summary2">Некоторые приложения накладывают ограничения на передачу данных приложения в целях безопасности. К таким приложениям относятся банковские и финансовые приложения.</string>
+    <string name="not_support_data_summary3">Из-за системных ограничений данные из второго простанства не могут быть перенесены с помощью Mi Mover.</string>
+    <string name="not_support_data_summary4">Клоны приложений и их данные не могут быть перенесены, но вы можете перенести соответствующие основные приложения.</string>
+    <string name="not_support_data_title">Данные, которые не могут быть перенесены</string>
     <string name="note">Заметки</string>
-    <string name="nothing_chosen">Сначала выберите элементы</string>
+    <string name="nothing_chosen">Сначала выберите данные</string>
     <string name="notif_icloud_canceled_summary">Отменен</string>
     <string name="notif_icloud_canceling_summary">Отмена…</string>
     <string name="notif_icloud_import_title">Импортировать данные из iCloud</string>
@@ -387,7 +405,7 @@
     <string name="notification_trans_finish_send_title">Данные успешно отправлены</string>
     <string name="notification_trans_interrupt_message">Соединение было прервано. Попытка подключиться снова…</string>
     <string name="notification_trans_interrupt_title">Повторное подключение…</string>
-    <string name="notification_trans_leave_message">Не закрывайте Mi Mover, пока он переносит элементы.</string>
+    <string name="notification_trans_leave_message">Не закрывайте Mi Mover, пока он переносит данные.</string>
     <string name="notification_trans_receive_message">Получение данных. Не выключайте Wi-Fi и не переключайтесь между сетями.</string>
     <string name="notification_trans_receive_title">Получение данных…</string>
     <string name="notification_trans_running_title">Mi Mover работает…</string>
@@ -395,8 +413,13 @@
     <string name="notification_trans_send_title">Отправка данных…</string>
     <string name="old_app_name">Старая версия</string>
     <string name="old_task_cleared">Старые задачи успешно удалены</string>
-    <string name="old_wait_link">Выберите элементы для переноса на старое устройство</string>
+    <string name="old_wait_link">Выберите данные для переноса на старое устройство</string>
     <string name="old_wait_link_extra">Нажмите \"Перенести\"</string>
+    <string name="open_photo_and_contacts_cloud_sync_complete">Начать</string>
+    <string name="open_photo_and_contacts_cloud_sync_content1">%d. Включите синхронизацию контактов и Галереи.</string>
+    <string name="open_photo_and_contacts_cloud_sync_content2">%d. Нажмите \"Синхронизировать\".</string>
+    <string name="open_photo_and_contacts_cloud_sync_summary">Включите синхронизацию, чтобы контакты и файлы из Галереи появились на этом устройстве.</string>
+    <string name="open_photo_and_contacts_cloud_sync_title">Синхронизация контактов и Галереи</string>
     <string name="option_feedback_title">Обратная связь</string>
     <string name="option_privacy_policy">Политика конфиденциальности</string>
     <string name="organization">Организация</string>
@@ -551,7 +574,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="switching_to_5g">Переключение на сеть 5 ГГц…</string>
+    <string name="switching_to_5g">Переключение на высокоскоростной канал…</string>
     <string name="sync_data_to_mi_cloud_content1">%d. Нажмите \"Синхронизировать\" на вкладке \"Контакты\".</string>
     <string name="sync_data_to_mi_cloud_content2">%d. Нажмите \"Резервное копирование\" на вкладке \"Фото\".</string>
     <string name="sync_data_to_mi_cloud_summary">Откройте Xiaomi Cloud на своем iPhone и выполните следующие шаги для синхронизации данных. Нажмите кнопку ниже, после завершения синхронизации.</string>

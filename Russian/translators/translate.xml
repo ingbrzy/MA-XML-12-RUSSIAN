@@ -275,6 +275,8 @@
     <string name="local_backup_password_toast_success">Новый пароль для резервных копий задан</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
     <string name="managed_user_title">Корпоративные приложения</string>
+    <string name="material_slider_range_end">Конец диапазона,</string>
+    <string name="material_slider_range_start">Начало диапазона,</string>
     <string name="media_category">Мультимедиа</string>
     <string name="media_transfer_this_device_name">Это устройство</string>
     <string name="media_transfer_wired_usb_device_name">Проводные наушники</string>
@@ -381,6 +383,7 @@ mm"</string>
     <string name="mr_user_route_category_name">Устройства</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Новые уведомления: %1$d</string>
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>

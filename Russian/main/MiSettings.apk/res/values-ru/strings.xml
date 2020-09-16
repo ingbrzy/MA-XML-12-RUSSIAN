@@ -89,6 +89,13 @@
     <string name="focus_mode_timer_pick_dialog_title">Длительность</string>
     <string name="focus_time_exception_tip">Системное время изменилось. Режим медитации выключен.</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
+    <string name="fps_nature_summary">Высокая частота обновления делает все четким и ясным</string>
+    <string name="fps_nature_title">Высокая</string>
+    <string name="fps_smooth_summary">Средняя частота обновления добавляет четкость деталям</string>
+    <string name="fps_smooth_title">Средняя</string>
+    <string name="fps_standard_summary">Стандартная частота обновления экономит заряд батареи</string>
+    <string name="fps_standard_title">Стандартная</string>
+    <string name="fps_user_tip">Демо-анимация воспроизводится на низкой скорости для примера. Фактическая производительность может отличаться в зависимости от различных факторов.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -196,6 +203,7 @@
     <string name="screen_fps_summary_power_save">Фиксированная частота обновления экономит заряд</string>
     <string name="screen_fps_summary_smooth">Некоторые приложения автоматически увеличивают частоту обновления для качества изображения</string>
     <string name="screen_fps_title">Частота обновления</string>
+    <string name="screen_fps_unit">%d Гц</string>
     <string name="screen_fps_unit_power_save">%d Гц (Экономия заряда)</string>
     <string name="screen_fps_unit_smooth">%d Гц (Качество)</string>
     <string name="screen_original_gamut">Расширенная</string>

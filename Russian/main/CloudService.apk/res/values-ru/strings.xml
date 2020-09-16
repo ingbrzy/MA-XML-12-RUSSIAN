@@ -48,6 +48,7 @@
     <string name="cloud_find_device_off">Откл</string>
     <string name="cloud_find_device_on">Вкл</string>
     <string name="cloud_lab_title">Лаборатория</string>
+    <string name="cloud_space_full_gallery_notification_content_text">Обновите план, чтобы получить больше места</string>
     <string name="cloud_storage_already_full">Облачное хранилище заполнено: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Занято: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Облачное хранилище</string>
@@ -67,6 +68,8 @@
     <string name="connect_wlan">Подключение к Wi-Fi</string>
     <string name="connect_wlan_china">Подключение к Wi-Fi</string>
     <string name="copy">Копировать</string>
+    <string name="cta_notification_content_text">Разрешите %s подключение к интернету для восстановления данных</string>
+    <string name="cta_notification_content_title">Не удалось восстановить данные из %s</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Эта учетная запись также используется на другом устройстве. Объединить данные (включая %1$s и %2$s) с данными на этом устройстве?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Эта учетная запись также используется на другом устройстве. Объединить данные из %s с данными на этом устройстве?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Эта учетная запись также используется на других устройствах. Объединить данные из %1$s и %2$s с данными на этом устройстве?</string>
@@ -295,6 +298,11 @@
     <string name="micloud_manual_pausing">Синхронизация приостановлена</string>
     <string name="micloud_manual_pending">Ожидание…</string>
     <string name="micloud_manual_reactivate">Реактивировать</string>
+    <string name="micloud_manual_request_permission_cancel">Отмена</string>
+    <string name="micloud_manual_request_permission_confirm">Настройки</string>
+    <string name="micloud_manual_request_permission_content">Для возможности пользоваться нашими сервисами, предоставьте Xiaomi Cloud следующие разрешения в Настройках: \"%s\".</string>
+    <string name="micloud_manual_request_permission_content_on_provision">Сначала предоставьте необходимые разрешения в приложении Безопасность</string>
+    <string name="micloud_manual_request_permission_title">Требуются разрешения</string>
     <string name="micloud_manual_sync_all">Синхронизировать все элементы</string>
     <string name="micloud_manual_sync_now">Синхронизировать</string>
     <string name="micloud_manual_sync_now_retry">Повторить попытку</string>
@@ -437,7 +445,7 @@
     <string name="no_sim">Нет SIM карты</string>
     <string name="not_set">Не задано</string>
     <string name="pay_info_dialog_confirm_to_pay">Оплатить %s</string>
-    <string name="pay_info_dialog_mibi_balance_prefix">Использовать оставшиеся Mi Credits: %s</string>
+    <string name="pay_info_dialog_mibi_balance_prefix">Использовать оставшиеся Mi Coins: %s</string>
     <string name="pay_info_dialog_title">Выберите метод оплаты</string>
     <string name="phone_number_required_dspt_provision">"Этому сервису требуется ваш номер телефона. "</string>
     <string name="picker_list_empty">Список пуст</string>

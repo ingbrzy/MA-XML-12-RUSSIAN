@@ -490,9 +490,16 @@
     <string name="application_item_already_permission">Разрешено</string>
     <string name="application_item_disable">Запрещено</string>
     <string name="applock_add_account">Привязать</string>
+    <string name="applock_add_account_ignore">Не сейчас</string>
+    <string name="applock_add_account_ignore_with_seconds">Не сейчас (%d сек.)</string>
     <string name="applock_add_account_info">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
-    <string name="applock_add_account_setting">Привязка к аккаунту Mi</string>
+    <string name="applock_add_account_setting">Привязка к Mi Аккаунту</string>
+    <string name="applock_add_account_tips">С помощью Mi Аккаунта вы можете восстановить защиту приложений, если забудете пароль.</string>
+    <string name="applock_add_account_title">Добавление Mi Аккаунта</string>
+    <string name="applock_already_add_account">Текущий аккаунт: %s</string>
     <string name="applock_app_recommend_lock_title">Можно защитить</string>
+    <string name="applock_bind_account_dialog_content">Ваш Mi Аккаунт - единственный способ восстановить защиту приложений, если вы забудете пароль. Войдите, чтобы добавить свой Mi Аккаунт.</string>
+    <string name="applock_bind_account_dialog_title">Добавление Mi Аккаунта</string>
     <string name="applock_bind_account_title">Забыли пароль?</string>
     <string name="applock_close_dialog_summary">Защита приложений будет отключена. Ярлыки скрытых приложений будут восстановлены на рабочем столе, а пароль защиты удален. Отключить защиту?</string>
     <string name="applock_close_dialog_title">Отключение защиты</string>
@@ -502,6 +509,8 @@
     <string name="applock_function_base_settings">Защита приложений</string>
     <string name="applock_function_pwd_settings">Пароль</string>
     <string name="applock_go_to">Настройки</string>
+    <string name="applock_guide_notification_summary">Включите защиту приложений, чтобы сохранить конфиденциальность</string>
+    <string name="applock_guide_notification_title">Конфиденциальная информация на экране может быть видна другим</string>
     <string name="applock_guide_open_applock">Включить</string>
     <string name="applock_guide_tip1">Доступны несколько типов пароля. Можно разблокировать приложения с помощью отпечатка, распознавания по лицу или ввода пароля.</string>
     <string name="applock_guide_tip1_global">Можно разблокировать приложения с помощью отпечатка, распознавания по лицу или ввода пароля.</string>
@@ -518,10 +527,18 @@
     <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
     <string name="applock_lock_all">Выбрать все</string>
     <string name="applock_login_and_add_account">Войти и привязать</string>
-    <string name="applock_not_add_account">
-  <u>Не сейчас</u>
-  </string>
+    <string name="applock_no_account_login">Вход в Mi Аккаунт не выполнен</string>
+    <string name="applock_not_add_account"><u>Не сейчас</u></string>
     <string name="applock_not_login_account">Вход не выполнен</string>
+    <string name="applock_operate_faceunlock_summary">Разблокируйте приложения взглядом на экран</string>
+    <string name="applock_operate_faceunlock_title">Использовать распознавание по лицу</string>
+    <string name="applock_operate_fingerprint_summary">Защита приложений поддерживает добавление несколько отпечатков</string>
+    <string name="applock_operate_fingerprint_title">Использовать отпечаток</string>
+    <string name="applock_operate_hidenoti_summary">Защита приложений поможет скрыть конфиденциальные уведомления для выбранных приложений</string>
+    <string name="applock_operate_hidenoti_title">Хотите скрыть конфиденциальные уведомления?</string>
+    <string name="applock_recommend_tips">%s пользователей используют защиту приложений</string>
+    <string name="applock_recommend_title">Выбор приложений</string>
+    <string name="applock_set_complete">Использовать защиту приложений</string>
     <string name="applock_set_password_title">Изменение типа пароля</string>
     <string name="applock_settings_unlock_all_toast">Все приложения разблокированы</string>
     <string name="applock_toast_tip">Проверено успешно</string>

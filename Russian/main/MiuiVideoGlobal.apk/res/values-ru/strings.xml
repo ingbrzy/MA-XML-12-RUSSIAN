@@ -66,6 +66,7 @@
     <string name="action_update_phone">Изменить номер телефона</string>
     <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
     <string name="activity_not_found_notice">Приложение не найдено</string>
+    <string name="ad">Реклама</string>
     <string name="ad_buy">Покупка</string>
     <string name="ad_download">Загрузка</string>
     <string name="ad_join">Присоединиться</string>
@@ -94,6 +95,7 @@
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
     <string name="auto_play_next_off">Автовоспроизведение откл.</string>
     <string name="auto_play_next_on">Автовоспроизведение вкл.</string>
+    <string name="back_to_mainpage">Открыть</string>
     <string name="before_yestoday">2 дня назад</string>
     <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
     <string name="cancel">Отмена</string>
@@ -212,6 +214,8 @@
     <string name="comment_model_send_forbid_tips">Аккаунт заблокирован</string>
     <string name="comment_model_send_success">Успешно отправлен</string>
     <string name="common_cancel">Отмена</string>
+    <string name="common_copyright_unsupported_audio">Не удается воспроизвести звуковую дорожку из-за ограничений авторских прав</string>
+    <string name="common_copyright_unsupported_video">Не удается воспроизвести видео из-за ограничений авторских прав</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы %1$s необходимо включить сервисы Google Play.</string>
     <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
@@ -335,6 +339,7 @@ ID: %s
     <string name="favorite_fail">Не удалось добавить в избранное. Повторите попытку.</string>
     <string name="favorite_success">Добавлено в избранное</string>
     <string name="fcm_fallback_notification_channel_label">Прочие</string>
+    <string name="fcm_push_title">Популярные</string>
     <string name="feedback">Обратная связь</string>
     <string name="feedback_activity_title">Обратная связь</string>
     <string name="feedback_contact_empty">Введите контактную информацию</string>
@@ -720,6 +725,9 @@ ID: %s
     <string name="notification_bar_player_subtitle">Отображать свернутое окно плеера в шторке уведомлений</string>
     <string name="notification_bar_player_title">Сворачивание окна</string>
     <string name="notification_open_tip">Включите для уведомлений</string>
+    <string name="notification_recall_action">Включить</string>
+    <string name="notification_recall_desc">Mi Видео может уведомлять о популярных видео и подписках</string>
+    <string name="notification_recall_title">Включить уведомления</string>
     <string name="notify_apk_installed">Загрузка завершена</string>
     <string name="off">[откл.]</string>
     <string name="ok">OK</string>
@@ -921,6 +929,7 @@ ID: %s
     <string name="permission_storage">Память</string>
     <string name="permission_storage_desc">Для доступа к объектам, сохранения файлов, отображения и воспроизведения видео</string>
     <string name="permission_title">Требуются разрешения</string>
+    <string name="pgc_push_title">Подписки</string>
     <string name="phone_bind_too_many">Этот номер был привязан к разным аккаунтам в течение короткого периода времени. Попробуйте использовать другой номер.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
@@ -1082,6 +1091,7 @@ ID: %s
     <string name="remaining_space">Доступно: %s</string>
     <string name="remaining_space_not_enough">Недостаточно места для загрузки</string>
     <string name="reminder">Внимание</string>
+    <string name="rename">Переименовать</string>
     <string name="report">Отчет</string>
     <string name="report_content_dislike">Насилие или неподобающее поведение</string>
     <string name="report_content_fakement">Спам или мошенничество</string>

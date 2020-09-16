@@ -338,6 +338,7 @@
     <string name="hide_pull_down_positive">Скрыть</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
     <string name="home_apply_success">Обои рабочего стола установлены</string>
+    <string name="home_daily">Яркие моменты</string>
     <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="in_the_end">Больше ничего нет</string>
@@ -362,12 +363,14 @@
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
     <string name="item_resource_audio_optional_phone_ring">Мелодия</string>
+    <string name="item_view_role_description">Вкладка</string>
     <string name="kuyin_user_agreement_content">Подписки на пользовательские рингтоны предоставлены iFlytek. Прежде чем использовать пользовательские рингтоны, вы должны принять %s. Согласны?</string>
     <string name="kuyin_user_agreement_content_href">Политика конфиденциальности iFlytek</string>
     <string name="lab">Лаборатория тем</string>
     <string name="like_list">Отмеченные</string>
     <string name="live_wallpaper">Динамические обои</string>
     <string name="loading">Подождите…</string>
+    <string name="loading_picture">Загрузка изображения…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
     <string name="loading_resource_detail_info">Подождите…</string>
     <string name="local_photos">Фото на устройстве</string>
@@ -387,6 +390,8 @@
     <string name="lockstyle_personal_settings">Настройки</string>
     <string name="long_click_can_hide_resource">Нажмите и удерживайте для скрытия элементов</string>
     <string name="loop_wallpaper_is_here">Новые функции</string>
+    <string name="material_slider_range_end">Конец диапазона,</string>
+    <string name="material_slider_range_start">Начало диапазона,</string>
     <string name="mi_wallpaper">Mi обои</string>
     <string name="midnight">AM</string>
     <string name="mine_tab_not_login">"Войдите для просмотра.
@@ -504,6 +509,7 @@ mm"</string>
     <string name="morning">AM</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Новые уведомления: %1$d</string>
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
@@ -778,6 +784,7 @@ mm"</string>
     <string name="resource_share_subject">Поделиться темой: %1$s</string>
     <string name="resource_share_text">Мне кажется, вам понравится тема \"%1$s\". Ссылка: %2$s</string>
     <string name="resource_share_title">Поделиться</string>
+    <string name="resource_status_error">Произошла ошибка. Обои недоступны для просмотра.</string>
     <string name="resource_system_title">Системные</string>
     <string name="resource_tab_to_view">Нажмите для просмотра.</string>
     <string name="resource_tip_select_none">Не выбрано</string>
@@ -849,6 +856,19 @@ mm"</string>
     <string name="settings_search_keyword_font_online">Онлайн шрифты</string>
     <string name="settings_search_keyword_font_style">Стиль шрифта</string>
     <string name="settings_search_keyword_font_wechat">Шрифты WeChat</string>
+    <string name="share_copy_theme_url">Скопировать URL темы</string>
+    <string name="share_copy_url_success">Успешно скопировано</string>
+    <string name="share_copy_wallpaper_url">Скопировать URL обоев</string>
+    <string name="share_picture_loading">Загрузка изображения…</string>
+    <string name="share_save_success">Успешно сохранено</string>
+    <string name="share_save_to_photo">Галерея</string>
+    <string name="share_send_to_friend">WeChat</string>
+    <string name="share_share_suffix">Тема Xiaomi</string>
+    <string name="share_theme_content_text">"Вы можете скачать отличную тему \"%1$s\" здесь: %2$s. От "</string>
+    <string name="share_to_qq">QQ</string>
+    <string name="share_to_weibo">Weibo</string>
+    <string name="share_vipaccount">Mi Community</string>
+    <string name="share_wallpaper_content_text">"Вы можете скачать отличные обои \"%1$s\" здесь: %2$s. От "</string>
     <string name="shortcut_add">Добавить</string>
     <string name="shortcut_cancel">Нет, спасибо</string>
     <string name="shortcut_message">Создайте ярлык на рабочем столе!</string>
@@ -1178,6 +1198,7 @@ mm"</string>
     <string name="wallpaper_set_as_incall_show">Установить как видео профиля</string>
     <string name="wallpaper_set_as_lockscreen">Установить на экран блокировки</string>
     <string name="wallpaper_setting_all">Все обои</string>
+    <string name="wallpaper_setting_library">Библиотека</string>
     <string name="wallpaper_setting_live">Живые</string>
     <string name="wallpaper_settings">Обои</string>
     <string name="wallpaper_settings_loading_text">Подождите…</string>
@@ -1198,12 +1219,8 @@ mm"</string>
     <string name="xiaoai_speech_not_installed_download">Загрузить</string>
     <string name="xiaoai_speech_not_installed_message">Для продолжения загрузите и установите голосовой помощник Mi AI.</string>
     <string name="xiaoai_speech_not_installed_title">Голосовой помощник Mi AI не установлен</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
-Размер: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Доступна версия %1$s
-Размер обновления: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
     <string name="yesterday">Вчера</string>
 </resources>
