@@ -256,6 +256,8 @@
     <string name="activating">Активация…</string>
     <string name="active_device_admin_msg">Приложение администратора устройства</string>
     <string name="active_input_method_subtypes">Активные способы ввода</string>
+    <string name="activity_check_context">Устройство пытается подключиться к интернету. Это может занять больше времени, если используется мобильный интернет. Вы можете подключиться к сети Wi-Fi, либо дождаться подключения к мобильному интернету.</string>
+    <string name="activity_check_title">Подключение к интернету</string>
     <string name="activity_not_found">Приложение не установлено на телефоне.</string>
     <string name="activity_picker_label">Выбор действия</string>
     <string name="activity_title_power_manager">Энергосбережение;Экономия батареи</string>
@@ -2161,6 +2163,12 @@
     <string name="dialog_background_check_ok">Запретить</string>
     <string name="dialog_background_check_title">Запретить работу в фоновом режиме и остановить приложение?</string>
     <string name="dialog_backup_title">Обновить резервные копии перед сбросом к заводским настройкам?</string>
+    <string name="dialog_check_button_negative">Повтор</string>
+    <string name="dialog_check_button_positive">Подключиться к Wi-Fi</string>
+    <string name="dialog_check_context">"Устройство не может подключиться к интернету.
+1. Нажмите \"Подключиться к Wi-Fi\" для выбора доступной сети.
+2. Если вы хотите использовать мобильный интернет, нажмите \"Повтор\" или извлеките и повторно вставьте SIM-карту."</string>
+    <string name="dialog_check_title">Ошибка подключения</string>
     <string name="dialog_chose_item">Выберите объект</string>
     <string name="dialog_content_login">Войти в Mi Аккаунт для обновления?</string>
     <string name="dialog_location_message">"Заряд батареи расходуется слишком быстро, так как приложение %1$s запрашивает данные о вашем местоположении, даже когда вы им не пользуетесь.
@@ -2193,6 +2201,10 @@
     <string name="dialog_title_color_calibration">Коррекция цвета</string>
     <string name="dialog_title_hdmi_color_calibration">Коррекция цвета</string>
     <string name="dialog_title_login">Войдите в Mi Аккаунт</string>
+    <string name="dialog_wifi_button_negative">Нет</string>
+    <string name="dialog_wifi_button_positive">Да</string>
+    <string name="dialog_wifi_context">Для настройки устройства требуется подключение к интернету. При отсутствии подключения к сети Wi-Fi будет использоваться мобильный интернет, это может привести к дополнительным расходам. Использовать мобильный интернет?</string>
+    <string name="dialog_wifi_title">Мобильный интернет</string>
     <string name="dialog_yes">ОК</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
     <string name="disableNetwork">Отключить сеть</string>
@@ -2768,6 +2780,7 @@
     <string name="following_us_title">Подпишитесь на нас</string>
     <string name="font_size_exhuge">Громадный</string>
     <string name="font_size_huge">Огромный</string>
+    <string name="font_size_kddi">Средний</string>
     <string name="font_size_large">Огромный</string>
     <string name="font_size_make_larger_desc">Увеличить</string>
     <string name="font_size_make_smaller_desc">Уменьшить</string>
