@@ -25,12 +25,28 @@
         <item>PIN-код</item>
         <item>Пароль</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>ГБ</item>
+        <item>МБ</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Ежемесячный тариф</item>
+        <item>Безлимитный тариф</item>
+        <item>Ежедневный тариф</item>
+    </string-array>	
     <string-array name="daily_brand">
         <item>Выбор</item>
         <item>Mi Fan карта</item>
         <item>Xiao Tiansheng карта</item>
         <item>Tencent King карта</item>
     </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Выбор</item>
+        <item>Mi Mobile</item>
+        <item>Mi Fan карта</item>
+        <item>Tianshen карта</item>
+        <item>Tencent карта</item>
+    </string-array>	
     <string-array name="date_of_app_all">
         <item>"Вчера (3G/4G) "</item>
         <item>"Сегодня (3G/4G) "</item>

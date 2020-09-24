@@ -1402,7 +1402,7 @@
     <string name="mobile_data_status_roaming_turned_on_subtext">Интернет в роуминге включен</string>
     <string name="mobile_data_status_roaming_with_plan_subtext">Вы в роуминге, тарифный план активен</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">Вы в роуминге, требуется тарифный план</string>
-    <string name="mobile_intelligent_connection_title">Интеллектуальное подключение к мобильной сети</string>
+    <string name="mobile_intelligent_connection_title">Умное подключение к мобильной сети</string>
     <string name="mobile_network_settings_not_available">Настройки мобильных сетей недоступны этому пользователю</string>
     <string name="mobile_networks">Мобильные сети</string>
     <string name="mobile_property">Свойства</string>
@@ -2360,7 +2360,7 @@ UT-интерфейс: %5$s"</string>
     <string name="title_cfu_enabled">Переадресация включена</string>
     <string name="title_convert_fbe">Переход к шифрованию отдельных файлов</string>
     <string name="track_frame_time">Профилировать GPU-отрисовку</string>
-    <string name="traffic_mode_summary">Текущее приложение имеет максимальный приоритет использования сети, это может привести к тому, что фоновые приложения не смогут использовать сеть</string>
+    <string name="traffic_mode_summary">Установите приоритет подключения к мобильной сети для приложений. Подключение для приложений в фоновом режиме может быть ограничено.</string>
     <string name="traffic_mode_switch_title">Экстремальный режим</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
     <string name="transport_title">Протокол</string>
