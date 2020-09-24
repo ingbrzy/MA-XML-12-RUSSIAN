@@ -116,6 +116,7 @@
     <string name="agree">Согласен</string>
     <string name="agree_permissions_request">Разрешить</string>
     <string name="allow">Разрешить</string>
+    <string name="allow_current">Разрешить сейчас</string>
     <string name="app_continue_downloading_text">Продолжить</string>
     <string name="app_download_market_text">Используйте Mi Market для быстрой и безопасной загрузки</string>
     <string name="app_download_now_text">Загрузка</string>
@@ -302,6 +303,8 @@
     <string name="debug_jump_title">Переход на страницу</string>
     <string name="debug_mediation_title">Общий тест sdk</string>
     <string name="debug_mode_toast">Режим отладки включен</string>
+    <string name="deeplink_intrercept_hint">Нажмите всплывающее окно, чтобы открыть приложение</string>
+    <string name="deeplink_intrercept_second_hint">Веб-сайт откроет приложение, которое было заблокировано</string>
     <string name="delete">Удалить</string>
     <string name="delete_bookmark">Удалить</string>
     <string name="delete_bookmark_action_warning">Удалить выбранное?</string>
@@ -369,6 +372,8 @@
     <string name="download_filter_video">Видео</string>
     <string name="download_filter_zip">ZIP</string>
     <string name="download_in_process">Загрузка…</string>
+    <string name="download_intrercept_hint">Нажмите всплывающее окно, чтобы загрузить приложение</string>
+    <string name="download_intrercept_second_hint">Веб-сайт загрузит приложение, которое было заблокировано</string>
     <string name="download_list_open_xl_ok">ОК</string>
     <string name="download_memory_info_avai">" доступно %s|"</string>
     <string name="download_memory_info_total">" всего %s"</string>
@@ -511,10 +516,13 @@
     <string name="hot_word_item_mark_new_text">НОВОЕ</string>
     <string name="hot_word_item_mark_recommend_text">РЕКОМЕНДУЕМ</string>
     <string name="hot_words_item_ads_mark">Реклама</string>
+    <string name="i_know">Понятно</string>
     <string name="ignore_add_pwa_dialog_today">Не показывать сегодня</string>
     <string name="incognito">Инкогнито</string>
     <string name="info_flow_description">Информационный канал</string>
+    <string name="intrercept_dialog_hint">Закрыть всплывающее окно?</string>
     <string name="isReplacePage">Файл уже существует, заменить?</string>
+    <string name="keep_intrercept">Оставить</string>
     <string name="keep_queued_download">Оставить</string>
     <string name="load_error_tip">Ошибка загрузки, нажмите для повтора</string>
     <string name="load_more_footer_status_msg_error_load">Не удалось загрузить. Повторите попытку.</string>
@@ -606,6 +614,7 @@
     <string name="month_september_shortest">С</string>
     <string name="more">Еще</string>
     <string name="more_description">Меню</string>
+    <string name="more_info">Подробности</string>
     <string name="morning">Утро</string>
     <string name="movie_player_3g_tip_retry">Продолжить</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
@@ -1422,6 +1431,9 @@
     <string name="xiaomi_game_reserve_count">Регистрация (%s)</string>
     <string name="xiaomi_game_reserve_now">Забронировать</string>
     <string name="xiaomi_game_reserve_success">Успешная регистрация</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
     <string name="xiaomi_open_game_now">Открыть</string>
     <string name="xiaomi_recommend_games">Рекомендация Xiaomi</string>
     <string name="xiaomi_reserve_game">Бронирование</string>

@@ -35,6 +35,7 @@
     <string name="activity_not_found">Нет приложения для выполнения этого действия</string>
     <string name="activity_not_found_uri">Нет приложения для выполнения этого действия</string>
     <string name="ad_close_button_text">Реклама</string>
+    <string name="ad_notification_title">Маловажные сообщения</string>
     <string name="addBlackList">Блокировать</string>
     <string name="add_attachment">Вложение</string>
     <string name="add_contact">vCard</string>
@@ -652,6 +653,7 @@
     <string name="pref_delivery_ringtone">Звук отчета о доставке</string>
     <string name="pref_edit_smsc_address">Номер SMS центра (SMSC)</string>
     <string name="pref_forward_title">Переслать</string>
+    <string name="pref_group_ad_mms_recognition">Группировать рекламные сообщения</string>
     <string name="pref_hide_verification_code_summary">Автоматически скрывать одноразовые пароли в тексте уведомлений на экране блокировки</string>
     <string name="pref_messages_to_save">Установить количество сообщений в диалоге для хранения</string>
     <string name="pref_mms_settings_title">Мультимедийные сообщения</string>
@@ -669,10 +671,12 @@
     <string name="pref_smart_messages_settings">Умные сообщения</string>
     <string name="pref_sms_storage_title">Хранение</string>
     <string name="pref_sms_theme_title">Отображение</string>
+    <string name="pref_summary_ad_mms_recognition">Размещать рекламные сообщения в отдельной вкладке</string>
     <string name="pref_summary_allow_si_sl_push">Разрешить сообщениям загружать содержимое с сайтов</string>
     <string name="pref_summary_auto_delete">Удалять старые сообщения по мере достижения лимитов</string>
     <string name="pref_summary_collapse_ad_notification">Показывать все рекламные сообщения в отдельной папке шторки уведомлений</string>
     <string name="pref_summary_collapse_ad_notification_mms">Показывать все рекламные сообщения в отдельной вкладке</string>
+    <string name="pref_summary_collapse_ad_notification_mms_new">Группировать рекламные сообщения и помечать их как маловажные в шторке уведомлений.</string>
     <string name="pref_summary_delete_limit">Сообщений в диалоге: %1$s</string>
     <string name="pref_summary_delivery_reports">Показывать отчет о доставке для отправленных сообщений</string>
     <string name="pref_summary_delivery_ringtone">Получать звуковые уведомления о доставке сообщений</string>
@@ -690,6 +694,7 @@
     <string name="pref_summary_wake_up_screen">Включать подсветку экрана при получении нового сообщения</string>
     <string name="pref_switch_sdk_setting">Сменить поставщика Умных сообщений</string>
     <string name="pref_system_title">Система</string>
+    <string name="pref_title_ad_mms_recognition">Распознавать рекламные сообщения</string>
     <string name="pref_title_allow_si_sl_push">Разрешить WAP Push (SI/SL)</string>
     <string name="pref_title_auto_delete">Удалять старые сообщения</string>
     <string name="pref_title_card_format">Формат обмена визитками</string>

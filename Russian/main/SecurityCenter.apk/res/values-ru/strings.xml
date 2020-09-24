@@ -723,6 +723,7 @@
     <string name="boot_time">Включение в %1$s</string>
     <string name="boot_time_day">Включение через %1$d д. в %2$s</string>
     <string name="boot_time_day_tomorrow">Включение завтра в %1$s</string>
+    <string name="bottom_func_guide_default_text">Дополнительные функции</string>
     <string name="brand_diagnostic">Диагностика бренда оператора</string>
     <string name="btn_back">Назад</string>
     <string name="btn_finish_diagnostic">OK</string>
@@ -823,6 +824,8 @@
     <string name="card_main_xspace_title">Клонирование</string>
     <string name="card_tc_failed">Ошибка калибровки</string>
     <string name="cd_back">Назад</string>
+    <string name="cellular_data_auto_check">Проверять автоматически</string>
+    <string name="cellular_package_daily_input">Ввод данных</string>
     <string name="charger_detect_button_ok">Понятно</string>
     <string name="charger_detect_info1">Проверьте правильность подключения адаптера питания и кабеля.</string>
     <string name="charger_detect_info2">Зарядка может быть медленной, если используются нестандартные или старые адаптеры питания и кабели.</string>
@@ -1209,10 +1212,14 @@
     <string name="exception_notify_message">Не удалось подсчитать статистику трафика из-за ошибки. Требуется перезагрузка.</string>
     <string name="exception_titile">Произошла ошибка</string>
     <string name="exit">Выход</string>
+    <string name="exit_dialog_exit">Выход</string>
     <string name="exit_dialog_garbage_clean_message">Количество мусора на вашем устройстве превышает %s. Очистить мусор?</string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Очистка может освободить &lt;font color=#0099ff>%s&lt;/font>. Очистить?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Очистить</string>
     <string name="exit_dialog_garbage_clean_title">Очистите мусор</string>
     <string name="exit_dialog_homepage_optimise_message">Индекс производительности вашего устройства ниже 80 баллов. Оптимизировать его?</string>
+    <string name="exit_dialog_release_memory_positive_button">Закрыть</string>
+    <string name="exit_dialog_release_memory_title"><Data>Ускорение устройства на &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Память устройства заполнена более чем на 80%. Освободите место, удалив неиспользуемые приложения.</string>
     <string name="exit_dialog_release_storage_positive_button">Освободить</string>
     <string name="exit_dialog_release_storage_title">Освободите место</string>
@@ -1361,6 +1368,7 @@
     <string name="first_settings_subtitle">Варианты безопасного обмена:</string>
     <string name="first_settings_title">Защита вашей конфиденциальности</string>
     <string name="five_percent_total_pkg">%s (5%% от месячного лимита)</string>
+    <string name="fixed_cellular_data_quota_monthly">Ежемесячный лимит трафика</string>
     <string name="fixed_package_tips">Ежемесячный фиксированный трафик (за превышение взимается дополнительная плата)</string>
     <string name="fixed_traffic_by_month">Ежемесячный фиксированный трафик</string>
     <string name="fixed_traffic_quota">Фиксированный лимит трафика (необязательно）</string>
@@ -1395,6 +1403,8 @@
     <string name="free_time_traffic_settings">Льготный трафик</string>
     <string name="free_time_traffic_title">Лимит льготного трафика</string>
     <string name="free_traffic_settings">Контроль льготного трафика</string>
+    <string name="full_fill_oprator_and_location">Предоставьте информацию об операторе и местоположении</string>
+    <string name="full_fill_sim_location">Укажите местоположение</string>
     <string name="function_auto_reject_detail">"О функции:
 1. Во время игры, все входящие звонки на SIM-карту без мобильного интернета будут автоматически отклонены.
 2. Вы увидите уведомления о пропущенных звонках, а вызывающий абонент услышит звуковое сообщение о том, что вы сейчас заняты.
@@ -1728,7 +1738,10 @@
     <string name="info_unantispam_phone_sms">Разрешить вызовы и SMS</string>
     <string name="info_unantispam_sms">Разрешить SMS</string>
     <string name="information_setting">Рекомендации</string>
+    <string name="input_available_cellular_data_daily_hint">Введите ежедневный лимит трафика</string>
     <string name="input_aviable_traffic">Лимит трафика</string>
+    <string name="input_celluar_data_quota_hint">Введите лимит трафика</string>
+    <string name="input_cellular_data_warn_hint">Введите порог предупреждения о трафике</string>
     <string name="input_password_hint_text">Введите пароль</string>
     <string name="input_traffic_pkg">Размер пакета</string>
     <string name="input_used_hint">Расход трафика</string>
@@ -1938,6 +1951,7 @@
     <string name="menu_item_notification_antispam_text_avail">Антиспам</string>
     <string name="menu_item_notification_antispam_text_normal">Антиспам</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%d%% занято</string>
     <string name="menu_item_notification_power_text">Заряд</string>
     <string name="menu_item_notification_title">Виджет в шторке уведомлений</string>
     <string name="menu_item_shortcut_summary">Добавление ярлыков на рабочий стол для быстрого доступа к функциям оптимизации</string>
@@ -1971,6 +1985,7 @@
     <string name="menu_summary_power_manager_4">%s до окончания</string>
     <string name="menu_text_antispam">Антиспам</string>
     <string name="menu_text_antivirus">Антивирус</string>
+    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s занято</string>
     <string name="menu_text_garbage_cleanup">Очистка</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_networkassistants">Трафик</string>
@@ -2010,9 +2025,8 @@
     <string name="mixed_recording_intro_header">Введите %1$s-%2$s символов</string>
     <string name="mixed_retry_button_text">Отмена</string>
     <string name="mixed_settings_help_how_to_record">Как задать пароль</string>
-    <string name="modify_password_mode">
-  <u>Способ защиты</u>
-  </string>
+    <string name="modify_cellular_type">Выберите тариф</string>
+    <string name="modify_password_mode"><u>Способ защиты</u></string>
     <string name="modifypassword">Способ защиты</string>
     <string name="monitor_app_add">Добавить</string>
     <string name="monitor_app_more">Еще</string>
@@ -2101,6 +2115,7 @@
     <string name="no_limit_by_month">Безлимитный трафик</string>
     <string name="not_limited_brand">Без ограничений</string>
     <string name="not_set">Не задано</string>
+    <string name="not_settled">Не задано</string>
     <string name="note">Заметка</string>
     <string name="note_call_none">Нет вызовов</string>
     <string name="note_list_none">Список пуст</string>
@@ -3270,6 +3285,12 @@
 
 Во избежание потери данных, сделайте резервную копию на другом носителе.</string>
     <string name="storage_wizard_format_confirm_v2_title">Форматирование</string>
+    <string name="stranger_call_dialog_add_block_list">Блокировать</string>
+    <string name="stranger_call_dialog_add_contacts">Новый контакт</string>
+    <string name="stranger_call_dialog_notification_body">Добавить в контакты или заблокировать этот номер</string>
+    <string name="stranger_call_dialog_notification_title_format">Неизвестный номер %s</string>
+    <string name="stranger_call_dialog_subtitle_format">%s нет среди ваших контактов. Вы можете добавить этот номер телефона в контакты или заблокировать его.</string>
+    <string name="stranger_call_dialog_title">"Неизвестный номер "</string>
     <string name="suggest_app_tolock">Предложения</string>
     <string name="suggest_app_tolock_masked">Содержимое скрыто</string>
     <string name="suggest_app_tolock_unmasked">Содержимое отображается</string>
@@ -3621,6 +3642,7 @@
     <string name="traffic_config_alert_setted">Настройки сохранены</string>
     <string name="traffic_config_alert_title">Корректировка %s</string>
     <string name="traffic_correction_failed">Ошибка получения данных</string>
+    <string name="traffic_correction_failed_tips">Не удалось проверить тарифный план. Убедитесь, что настройки оператора верны, или установите тариф вручную.</string>
     <string name="traffic_correction_start_correction">Запрос данных оператора…</string>
     <string name="traffic_correction_start_correction_failed">Ошибка отправки запроса. Проверьте настройки оператора.</string>
     <string name="traffic_correction_success">Данные трафика обновлены</string>
@@ -3676,6 +3698,7 @@
     <string name="uninstall_danagerous_title">Вредоносное приложение</string>
     <string name="unknown_package">Не знаете, какой у вас пакет?</string>
     <string name="unlike">Нет, спасибо</string>
+    <string name="unlimited_cellular_data_monthly">Безлимитный тариф</string>
     <string name="unlock_failed">Внутренняя ошибка</string>
     <string name="unlock_pattern"><u>Графический ключ</u></string>
     <string name="unlock_pattern_to_bind_fingerprint">Введите пароль для активации отпечатка</string>

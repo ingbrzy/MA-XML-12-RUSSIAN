@@ -160,6 +160,24 @@
     <string name="choose_profile">Выбор профиля</string>
     <string name="clear_adb_keys">Отозвать доступ для USB-отладки</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на устройстве</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="connected_via_app">Подключено через %1$s</string>
@@ -299,10 +317,20 @@ dd.MM"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
+    <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
+    <string name="miuix_appcompat_confirm_description">Подтверждение</string>
+    <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all_description">Выбор всех элементов</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>

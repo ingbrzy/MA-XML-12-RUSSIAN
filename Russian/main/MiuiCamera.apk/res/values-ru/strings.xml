@@ -62,6 +62,7 @@
     <string name="accessibility_camera_ultra_wide_bokeh_on">Полнокадровый режим выключен</string>
     <string name="accessibility_camera_video_960fps_120">120FPS</string>
     <string name="accessibility_camera_video_960fps_240">240FPS</string>
+    <string name="accessibility_camera_video_960fps_480">480FPS</string>
     <string name="accessibility_camera_video_960fps_960">960FPS</string>
     <string name="accessibility_camera_video_fps_120">120FPS</string>
     <string name="accessibility_camera_video_fps_30">30FPS</string>
@@ -297,6 +298,9 @@
     <string name="ai_west_lake">Западное озеро</string>
     <string name="ai_wuhan">Ухань</string>
     <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
+    <string name="aiwatermark_location_absent_hint">Не удалось получить информацию о местоположении</string>
+    <string name="aiwatermark_location_list_title">Местоположение</string>
+    <string name="aiwatermark_location_tips">Разрешите приложению Камера доступ к информации о местоположении для получения актуальных водяных знаков</string>
     <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">О длительной выдержке</string>
     <string name="ambilight_intro_crowd_moving_part1">При съемке на людной улице объект должен стоять на месте. Другие люди будут выглядеть как размытые следы.</string>
@@ -552,6 +556,7 @@
     <string name="face_beauty_intelligent_level_3">Высокий</string>
     <string name="face_beauty_smart">Авто</string>
     <string name="face_score_info">Оценка: %.1f</string>
+    <string name="film_video_e_tip">Поддерживается только пейзажная съемка</string>
     <string name="film_video_tip">Используйте штатив для съемки</string>
     <string name="flash">Вспышка</string>
     <string name="fps960_toast">Съемка в режиме Замедление начнется, когда таймер достигнет белой точки</string>

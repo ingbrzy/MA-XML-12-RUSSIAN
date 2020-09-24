@@ -808,8 +808,15 @@
     <string name="filter_people_sepia">Сепия</string>
     <string name="filter_people_story">История</string>
     <string name="filter_people_tea">Чай</string>
+    <string name="filter_popular_autumn">Осень</string>
     <string name="filter_popular_bluedream">Грезы</string>
+    <string name="filter_popular_coffee">Кофе</string>
+    <string name="filter_popular_coldsmoke">Прохладный туман</string>
+    <string name="filter_popular_comic">Аниме</string>
+    <string name="filter_popular_dream">Мечты</string>
+    <string name="filter_popular_hill">Холмы</string>
     <string name="filter_popular_humanity">Документальный</string>
+    <string name="filter_popular_kamakura">Камакура</string>
     <string name="filter_popular_lnk">Чернила</string>
     <string name="filter_popular_purple">Пурпур</string>
     <string name="filter_popular_shallow_summer">Июнь</string>
@@ -964,6 +971,7 @@
     <string name="input_or_select_a_name">Введите или выберите имя</string>
     <string name="input_relation_name">Введите имя группы</string>
     <string name="install_fail">Не удалось загрузить плагин из-за ошибки.</string>
+    <string name="internal_storage_device">Внутренняя память</string>
     <string name="invalid_invition_url">Неверная ссылка</string>
     <string name="invalid_recipient_message">Проверьте адреса получателей</string>
     <string name="invite_sharer_confirm_button_text">Пригласить</string>
@@ -1280,6 +1288,8 @@
     <string name="operation_move_to_other_albums">Переместить в Другие</string>
     <string name="operation_move_to_rubbish_albums">Переместить в корзину</string>
     <string name="operation_not_show_in_photos_tab">Не показывать в Фото</string>
+    <string name="operation_photo_rename">Переименовать</string>
+    <string name="operation_pic_to_pdf">Создать PDF</string>
     <string name="operation_produce">Творчество</string>
     <string name="operation_projection">Транслировать</string>
     <string name="operation_remove_face">Удалить</string>
@@ -1437,6 +1447,12 @@
     <string name="photo_save_to_msg">Сохранено в %s</string>
     <string name="photo_vlog_module_finish">Видеоредактор загружен</string>
     <string name="photo_vlog_module_loading">Загрузка видеоредактора…</string>
+    <string name="photodetail_failed_already_exist">Файл уже существует</string>
+    <string name="photodetail_rename_failed">Не удалось переименовать</string>
+    <string name="photodetail_rename_invalid">"Имя файла не может содержать: /\\:*?&lt;>|."</string>
+    <string name="photodetail_rename_success">Успешно переименовано</string>
+    <string name="photodetail_rename_title">Переименование</string>
+    <string name="photodetail_rename_too_long">Имя файла слишком длинное</string>
     <string name="photomovie_audio_custom">На устройстве</string>
     <string name="photomovie_audio_default">Память</string>
     <string name="photomovie_audio_kawaii">Романтика</string>
@@ -1471,6 +1487,12 @@
     <string name="photomovie_template_linear">Дорога</string>
     <string name="photomovie_template_soft">Молодость</string>
     <string name="photomovie_template_sport">Энергия</string>
+    <string name="pic_to_pdf_a4_format">Формат A4</string>
+    <string name="pic_to_pdf_all_not_support">Выбранные изображения не могут быть сохранены как PDF</string>
+    <string name="pic_to_pdf_exit_notice">PDF-файл не будет сохранен, если вы выйдете сейчас. Выйти?</string>
+    <string name="pic_to_pdf_not_support_video">Видео не может быть сохранено как PDF</string>
+    <string name="pic_to_pdf_preview_loading">Загрузка предпросмотра…</string>
+    <string name="pic_to_pdf_save_in">Сохранить PDF в %s</string>
     <string name="pick_from_contact">Выбрать из контактов</string>
     <string name="pick_people_cover_fail">Произошла ошибка. Повторите попытку.</string>
     <string name="pick_people_cover_page_title">Выберите обложку</string>
@@ -1628,6 +1650,7 @@
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="save_error_try_a_different_template_msg">Не удалось сохранить. Изображение слишком большое.</string>
     <string name="scan_barcode_guide">Для получения QR-кода альбома нажмите на значок \"Поделиться\".</string>
     <string name="scan_barcode_to_join">Отсканируйте QR-код для добавления альбома</string>
     <string name="scan_qr_code_buttom_text">Отсканируйте QR-код для просмотра альбома</string>
@@ -1700,6 +1723,7 @@
     <string name="search_title_more">Еще</string>
     <string name="search_title_others">Все результаты</string>
     <string name="search_title_people">Лица</string>
+    <string name="search_title_photo_name">Имя файла</string>
     <string name="search_title_recommend">Рекомендуемые</string>
     <string name="search_title_suggestion">Предложения</string>
     <string name="search_title_tag">Объекты</string>
@@ -1999,6 +2023,9 @@
     <string name="to_enable_sync_dialog_message">Включите синхронизацию с Xiaomi Cloud</string>
     <string name="to_enable_sync_dialog_positive_button_text">Настройки</string>
     <string name="to_enable_sync_dialog_title">Синхронизация</string>
+    <string name="toast_invalid_char">Имя файла не может содержать \"%s\"</string>
+    <string name="toast_invalid_prefix">Имя файла не может начинаться с \".\" or \"_\"</string>
+    <string name="toast_rename_exit">Файл уже существует</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="too_many_recipients">Нельзя добавить больше %2$s получателей (Добавлено на данный момент %1$s).</string>
