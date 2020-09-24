@@ -59,13 +59,11 @@
         <item quantity="other">Удалить %s объектов?</item>
         <item quantity="one">Удалить %s объект?</item>
         <item quantity="few">Удалить %s объекта?</item>
-        <item quantity="many">Удалить %s объектов?</item>
     </plurals>
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">Выбрано %s объектов</item>
         <item quantity="one">Выбран %s объект</item>
         <item quantity="few">Выбрано %s объекта</item>
-        <item quantity="many">Выбрано %s объектов</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Размер файла: %.2f Кб</item>
@@ -75,18 +73,30 @@
         <item quantity="other">%2$s результатов для \"%1$s\"</item>
         <item quantity="one">%2$s результат для \"%1$s\"</item>
         <item quantity="few">%2$s результата для \"%1$s\"</item>
-        <item quantity="many">%2$s результатов для \"%1$s\"</item>
     </plurals>
     <plurals name="plus_serval_pictures">
         <item quantity="other">%d изображений</item>
         <item quantity="one">%d изображение</item>
         <item quantity="few">%d изображения</item>
-        <item quantity="many">%d изображений</item>
     </plurals>
     <plurals name="plus_serval_videos">
         <item quantity="other">%d видео</item>
         <item quantity="one">%d видео</item>
     </plurals>    
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Нажмите дважды для перемотки назад на %d секунд</item>
+        <item quantity="one">Нажмите дважды для перемотки назад на %d секунду</item>
+        <item quantity="few">Нажмите дважды для перемотки назад на %d секунды</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Нажмите дважды для перемотки вперед на %d секунд</item>
+        <item quantity="one">Нажмите дважды для перемотки вперед на %d секунду</item>
+        <item quantity="few">Нажмите дважды для перемотки вперед на %d секунды</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s сек.</item>
+        <item quantity="one">%1$s сек.</item>
+    </plurals>	
     <plurals name="subscriber">
         <item quantity="other"> подписчиков</item>
         <item quantity="one"> подписчик</item>
