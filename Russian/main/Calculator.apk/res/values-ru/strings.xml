@@ -107,7 +107,7 @@
     <string name="cos">cos</string>
     <string name="cosDesc">косинус</string>
     <string name="cos_mathematical_value">cos</string>
-    <string name="dialog_privacy_content"><Data>Помимо основных функций, в приложении Калькулятор имеются научный калькулятор и многоцелевой конвертер. Для нормальной работы некоторых функций необходимо подключение к интернету. Используя это приложение, вы принимаете &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.</Data></string>	
+    <string name="currency_dialog_privacy_content"><Data>Конвертеру валют требуется подключение к интернету для получения свежего курса обмена валют. Перед использованием приложения необходимо прочитать и принять &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="currency_update_connect_to_get_data">Курсы валют предоставлены Webull. Подключитесь к сети для получения актуальных данных.</string>
     <string name="currency_update_support">Курсы валют предоставлены Webull.</string>
     <string name="currency_update_time_format">Курсы валют предоставлены Webull (%s)</string>
@@ -129,6 +129,7 @@
     <string name="description_title">О приложении</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="devided_by_zero_reminder_message">Делить на ноль нельзя</string>
+    <string name="dialog_privacy_content"><Data>Помимо основных функций, в приложении Калькулятор имеются научный калькулятор и многоцелевой конвертер. Для нормальной работы некоторых функций необходимо подключение к интернету. Используя это приложение, вы принимаете &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;.</Data></string>
     <string name="dialog_privacy_content">"Помимо базовых функций, Калькулятор содержит научный калькулятор и многоцелевой конвертер. Для нормальной работы некоторых функций требуется подключение к интернету. Используя приложение, вы соглашаетесь с %1$s и %2$s.\u0009"</string>
     <string name="dialog_privacy_title">Условия и положения</string>
     <string name="dialog_rating_desc_ask">Как вы относитесь к калькулятору?</string>

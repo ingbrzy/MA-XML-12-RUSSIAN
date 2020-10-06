@@ -30,6 +30,9 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="about_checking_update">Проверка обновления…</string>
+    <string name="about_go_to_update">Перейти к обновлению</string>
+    <string name="about_lasted_version">Это последняя версия</string>
     <string name="account_add_title">Выберите почтовый сервис</string>
     <string name="account_duplicate_dlg_message_fmt">Это имя пользователя уже используется в аккаунте \"%s\".</string>
     <string name="account_duplicate_dlg_title">Дубликат аккаунта</string>
@@ -45,6 +48,8 @@
     <string name="account_security_verification">Проверка аккаунта</string>
     <string name="account_set_up_change_type_note">Для переключения аккаунта между POP3 и IMAP необходимо удалить аккаунт и настроить новый.</string>
     <string name="account_setting">Аккаунты</string>
+    <string name="account_setting_general_summry">Настройка общих функций электронной почты</string>
+    <string name="account_setting_general_title">Настройка функций</string>
     <string name="account_setting_keywords">Аккаунты;аккаунты почты</string>
     <string name="account_setting_message_body_load_complete">Полное сообщение</string>
     <string name="account_setting_message_body_load_head_abstract">Краткий обзор писем</string>
@@ -54,8 +59,10 @@
     <string name="account_settings_background_attachments_label">Загружать вложения</string>
     <string name="account_settings_background_attachments_summary">Загружать вложения по Wi-Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Загружать вложения по Wi-Fi</string>
+    <string name="account_settings_background_attachments_title">Автозагрузка вложений</string>
     <string name="account_settings_data_usage">Параметры синхронизации</string>
     <string name="account_settings_description_label">Имя аккаунта</string>
+    <string name="account_settings_does_not_support_pop">Протокол POP3 не поддерживает настройку этого пункта</string>
     <string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
     <string name="account_settings_edit_quick_responses_summary">Редактирование быстрых ответов</string>
     <string name="account_settings_enforced_label">Политика</string>
@@ -195,6 +202,7 @@
     <string name="account_sync_settings_settings">Синхронизировать контакты и календарь</string>
     <string name="account_sync_settingstip_description">Синхронизация</string>
     <string name="account_waiting_for_folders_msg">Загрузка папок…</string>
+    <string name="action_filter">Фильтр</string>
     <string name="actionbar_more_option">Дополнительные параметры</string>
     <string name="activity_folder_selection">Выбрать папку</string>
     <string name="activity_mailbox_selection">Выбрать аккаунт</string>
@@ -650,6 +658,8 @@
     <string name="info_switch_title">Акция</string>
     <string name="inline_picture_deleted">Загрузка недостающего изображения…</string>
     <string name="input_password_prompt">Введите пароль</string>
+    <string name="install_mime_encrypt_cert">Установка сертификата шифрования S/MIME</string>
+    <string name="install_mime_sign_cert">Установка сертификата подписи S/MIME</string>
     <string name="interact_with_server_error">Не удалось подключиться к серверу</string>
     <string name="invalid_recipient">Адрес %s неверен.</string>
     <string name="invalid_recipient_title">Неверный получатель</string>
@@ -685,6 +695,7 @@
     <string name="login_failed_tip">"Свяжитесь нами в WeChat для получения помощи: "</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
     <string name="login_mail">Вход</string>
+    <string name="login_manual">Настройка вручную</string>
     <string name="login_qq_psw">Ввести код вручную</string>
     <string name="login_support_tip_text">Поддерживаются все основные сервисы</string>
     <string name="long_press_to_select_tip">Нажмите и удерживайте для выбора диалога, затем добавляйте диалоги нажатием.</string>
@@ -714,6 +725,8 @@
     <string name="mailbox_name_display_starred">Отмеченные</string>
     <string name="mailbox_name_display_trash">Корзина</string>
     <string name="mailbox_name_display_unread">Непрочитанные</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Синхронизация: Откл.</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Синхронизация: Вкл.</string>
     <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Источник синхронизации</string>
@@ -1245,6 +1258,7 @@
     <string name="server_cet_issuer_no_trust">Издатель сертификата не является доверенной организацией.</string>
     <string name="server_cet_subject_cn">"Поддерживаемый домен: "</string>
     <string name="server_cet_title">Сведения о сертификате</string>
+    <string name="server_log">Сервисное соглашение</string>
     <string name="service_protocol_discribe">&lt;u&gt;"Я прочитал и согласен с \"Соглашением почтового сервиса WPS\""&lt;/u&gt;</string>
     <string name="service_protocol_title">Соглашение об обслуживании</string>
     <string name="set_network">Настройка сети</string>
@@ -1406,6 +1420,9 @@
     <string name="wrong_password">Неверный пароль</string>
     <string name="xiaomi_auth_toastbar">Войдите в аккаунт для авторизации устройства</string>
     <string name="xiaomi_email">Почта</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
     <string name="xiaomi_under_certification">Авторизация…</string>
     <string name="yes">Да</string>
     <string name="you_are_in_mobile_network">Использовать мобильный интернет для отправки отчетов?</string>
