@@ -64,6 +64,7 @@
     <string name="afternoon">PM</string>
     <string name="all_resources">Все</string>
     <string name="already_latest_version">Обновлений нет</string>
+    <string name="already_newest_version">Обновление не требуется</string>
     <string name="am">AM</string>
     <string name="anonymous_resource_link_error">Не удалось добавить</string>
     <string name="anonymous_resource_link_hint">Некоторые ресурсы не были добавлены в аккаунт. Добавить сейчас?</string>
@@ -116,6 +117,7 @@
     <string name="both_all_apply_success">Обои установлены</string>
     <string name="browser_local_resource">Ресурсы на устройстве</string>
     <string name="can_not_apply">Не удалось применить</string>
+    <string name="cancel_download">Загрузка отменена</string>
     <string name="card_data_request_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
     <string name="card_loading">Подождите…</string>
     <string name="card_no_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
@@ -208,6 +210,7 @@
     <string name="description_uploadtime">Обновлено</string>
     <string name="description_version">Версия</string>
     <string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
+    <string name="desk_loop_will_change">Внимание</string>
     <string name="desktop_effects">Живые обои</string>
     <string name="desktop_wallpaper">Обои</string>
     <string name="detail_author_attention_head">Подпишитесь на лучших дизайнеров</string>
@@ -358,6 +361,7 @@
     <string name="incompatible_dialog_message">Эта тема несовместима с версией MIUI, установленной на вашем устройстве. Если вы примените эту тему, компоненты MIUI могут работать неправильно.</string>
     <string name="incompatible_dialog_ok">Понятно</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
+    <string name="install_failed">Не удалось установить</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
     <string name="item_resource_audio_optional_alarm_ring">Будильник</string>
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
@@ -543,7 +547,9 @@ mm"</string>
     <string name="network_exception">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">PM</string>
+    <string name="no_cta_agreed">GetApps не имеет CTA-разрешений</string>
     <string name="no_data">Не удалось подключиться к сети</string>
+    <string name="no_install_permission">Отсутствуют разрешения на установку</string>
     <string name="no_net_work_connection">Проверьте настройки сети и повторите попытку.</string>
     <string name="no_network_desc">Не удалось подключиться к сети</string>
     <string name="no_network_please_retry">Проверьте настройки сети и повторите попытку</string>
@@ -572,6 +578,7 @@ mm"</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="playing_ringtone">Воспроизведение</string>
     <string name="pm">PM</string>
+    <string name="pref_lockscreen_magazine_summary">Замена обоев на слайд-шоу изображений из различных категорий</string>
     <string name="pref_privacy_policy">Политика конфиденциальности</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="present_local_fonts">Мои шрифты</string>
@@ -846,6 +853,8 @@ mm"</string>
     <string name="service_btn_text_try">Попробовать</string>
     <string name="set_color_ring_back_tone">Сигнал вызова</string>
     <string name="set_home_wallpaper_failed">"%s. Не удалось применить обои."</string>
+    <string name="set_wallpaper_group_success">"%1$s добавлены.
+Изображения будут меняться каждый час."</string>
     <string name="setting_font_online">Онлайн шрифты</string>
     <string name="settings">Настройки</string>
     <string name="settings_search_keyword_font_free">Бесплатные шрифты</string>
@@ -915,6 +924,12 @@ mm"</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="super_wallpaper">Супер обои</string>
+    <string name="super_wallpaper_list_label">Супер обои</string>
+    <string name="super_wallpaper_setting_apply_success_toast">Успешно применены</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Применить</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Местоположение</string>
+    <string name="super_wallpaper_setting_coordinate_title">Координаты</string>
+    <string name="super_wallpaper_setting_view_height_title">Высота</string>
     <string name="support_theme_store_des">Хорошие темы создаются талантливыми дизайнерами. Наше приложение содержит небольшое количество рекламы, которая позволяет нам поддерживать их работу.</string>
     <string name="support_theme_store_supported">Спасибо за поддержку!</string>
     <string name="support_theme_store_title">Поддержка дизайнеров</string>
@@ -930,7 +945,8 @@ mm"</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Доступ к ID устройства для идентификации</string>
     <string name="system_cta_runtime_perm_desc_storage">Доступ к памяти устройства для сохранения тем и других файлов</string>
     <string name="system_precust">Предустановленные</string>
-    <string name="tag_ad">Ad</string>
+    <string name="tag_ad">Реклама</string>
+    <string name="task_already_exist">Задание уже существует</string>
     <string name="ten_thousand_unit">10 тыс.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
@@ -1124,6 +1140,7 @@ mm"</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
     <string name="unable_connect_network">Не удалось подключиться к сети</string>
     <string name="up_to_the_end">Больше ничего нет</string>
+    <string name="update">Обновление</string>
     <string name="update_btn">ОБНОВИТЬ</string>
     <string name="update_check">Проверить обновления</string>
     <string name="update_checking">Проверка обновлений…</string>
@@ -1164,6 +1181,7 @@ mm"</string>
     <string name="wallpaper_detail_load_page_no_network">Подключитесь к сети и повторите попытку.</string>
     <string name="wallpaper_download_incall_show">Загрузить</string>
     <string name="wallpaper_dynamic">Живые</string>
+    <string name="wallpaper_group_set_loop">Слайд-шоу экрана блокировки с изображениями из одной категории</string>
     <string name="wallpaper_loop_add_success">Обои успешно добавлены</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Добавить в слайд-шоу рабочего стола</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Добавить в слайд-шоу экрана блокировки</string>
@@ -1197,9 +1215,20 @@ mm"</string>
     <string name="wallpaper_set_as_float_wallpaper">Установить в качестве прозрачных обоев</string>
     <string name="wallpaper_set_as_incall_show">Установить как видео профиля</string>
     <string name="wallpaper_set_as_lockscreen">Установить на экран блокировки</string>
+    <string name="wallpaper_set_as_loop_extra_msg">Установить все</string>
     <string name="wallpaper_setting_all">Все обои</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Активный экран</string>
+    <string name="wallpaper_setting_find_more_text">Больше обоев онлайн</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Рабочий стол</string>
     <string name="wallpaper_setting_library">Библиотека</string>
     <string name="wallpaper_setting_live">Живые</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Экран блокировки</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Онлайн обои</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Поиск обоев</string>
+    <string name="wallpaper_setting_online_wallpaper_title">Онлайн обои</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Супер обои</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Еще</string>
+    <string name="wallpaper_setting_title">Обои</string>
     <string name="wallpaper_settings">Обои</string>
     <string name="wallpaper_settings_loading_text">Подождите…</string>
     <string name="wallpaper_settings_no_history">История пуста</string>
@@ -1207,6 +1236,7 @@ mm"</string>
     <string name="wallpaper_settings_page_title">Обои</string>
     <string name="wallpaper_share_alert">Произошла ошибка. Повторите попытку позже.</string>
     <string name="wallpaper_static">Статические</string>
+    <string name="warning_subscribe_wallpaper_group_content">Включено слайд-шоу для рабочего стола. Будут добавлены %1$s.</string>
     <string name="wechat_not_found">Установите WeChat</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
