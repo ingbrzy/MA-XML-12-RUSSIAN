@@ -525,8 +525,15 @@ ID:%s
     <string name="passport_trust_device">Доверять этому устройству</string>
     <string name="passport_trying_read_verify_code_sms">Получение кода подтверждения…</string>
     <string name="passport_uplink_reg">Использовать номер телефона</string>
+    <string name="passport_uplink_send_sms_hint">Нажмите \"Send\" после того, как вы будете перенаправлены на страницу с составленным сообщением.</string>
     <string name="passport_uplink_slot1_reg">Использовать SIM 1</string>
     <string name="passport_uplink_slot2_reg">Использовать SIM 2</string>
+    <string name="passport_uplink_sms_send_cancel">Отменена отправка исходящего SMS</string>
+    <string name="passport_uplink_sms_send_confirm">Отправлено</string>
+    <string name="passport_uplink_sms_send_failed">Не удалось проверить исходящее SMS</string>
+    <string name="passport_uplink_sms_sending">Отправка платного сообщения…</string>
+    <string name="passport_uplink_suggest_dialog_msg">Не удалось получить код. Использовать вместо этого платное SMS-сообщение?</string>
+    <string name="passport_uplink_suggest_dialog_title">Внимание</string>
     <string name="passport_use_generated_pwd_message">Убедитесь, что вы запомнили свой пароль. Вы можете использовать его для подключения к другим сервисам Mi.</string>
     <string name="passport_use_generated_pwd_title">Запомните свой пароль!</string>
     <string name="passport_user_agreement">Условия использования</string>

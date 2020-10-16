@@ -745,6 +745,12 @@
     <string name="privacy_password_title3">Обновите ваш пароль</string>
     <string name="privacy_password_title4">Пароль обновлен</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_state_revoked_cancel">Отмена</string>
+    <string name="privacy_state_revoked_content">Переключая ползунок, вы отзываете свое согласие с Политикой конфиденциальности обмена сообщениями. Мы перестанем собирать вашу личную информацию. Уже собранная и сохраненная личная информация будет удалена в течение определенного периода в соответствии с требованиями действующего законодательства. Mi Message и Smart Messaging, предоставляемые Messaging, должны собирать необходимую личную информацию для предоставления вам основных услуг. Ваш отзыв согласия с Политикой конфиденциальности обмена сообщениями будет рассматриваться как отказ от принятия услуг на основе собранной личной информации, предоставленной Mi Message и Smart Messaging.</string>
+    <string name="privacy_state_revoked_dialog_title">Отзыв согласия</string>
+    <string name="privacy_state_revoked_revoked">Отзыв</string>
+    <string name="privacy_state_revoked_switch">Отзыв согласия</string>
+    <string name="privacy_state_revoked_synopsis">Переключая ползунок, вы отзываете свое согласие с Политикой конфиденциальности обмена сообщениями.</string>
     <string name="privacy_term">Политика конфиденциальности</string>
     <string name="private_entry_available">Отпустите, чтобы открыть приватную папку</string>
     <string name="private_entry_default">Потяните вниз, чтобы открыть приватную папку</string>
@@ -1054,10 +1060,12 @@
     <string name="slide_up_to_cancel">Сдвиньте вверх для отмены</string>
     <string name="slideshow_activity">Слайд-шоу</string>
     <string name="smart_message_title">Умные сообщения</string>
+    <string name="smart_message_upgrade_title">Обновление политики конфиденциальности Smart Messaging</string>
     <string name="smart_messages_network_allow_message">Приложению Mi Сообщения необходимо подключение к интернету для нормальной работы его служб. Разрешить сейчас?</string>
     <string name="smart_messages_network_allow_title">Требуется подключение к интернету</string>
     <string name="smart_msg_main_purpose">Умные сообщения обеспечивают распознавание ID отправителя и услуги интеллектуального меню.</string>
     <string name="smart_msg_privacy_policy">Политика конфиденциальности Умных сообщений</string>
+    <string name="smart_msg_upgrade_main_purpose">Smart Messaging теперь работает с MMS. Вы сможете пользоваться дополнительными услугами, предоставляемыми отправителями, а также получать сообщения в новых форматах.</string>
     <string name="sms_card_partner_label">"SMS партнер: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Содержимое:</string>
@@ -1151,6 +1159,7 @@
     <string name="system_permission_declare_no_say_no">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Если вы не согласны предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать это приложение.</string>
     <string name="system_permission_declare_privacy_declare">%1s для нормальной работы требуются сбор ваших данных и следующие разрешения:</string>
     <string name="system_permission_declare_privacy_declare_new">Приложению для нормальной работы требуются подключение к интернету и следующие разрешения:</string>
+    <string name="system_permission_declare_privacy_link">Чтобы полностью понять ваши права как пользователя, а также способы использования ваших данных, прочтите и согласитесь с нашими %1s.</string>
     <string name="system_permission_declare_revoke_path">Вы можете отменить авторизацию и отключить сервисы в настройках Сообщений.</string>
     <string name="system_permission_declare_single_link">Прочитайте и примите %1s перед использованием этого сервиса.</string>
     <string name="system_permission_declare_triple_link" formatted="false">"%1s. 
@@ -1294,6 +1303,7 @@
     <string name="voice_report_wiredon">Через наушники</string>
     <string name="wap_push_title">[WAP Push] </string>
     <string name="warning_show">Отправка через %d сек.</string>
+    <string name="web_content_invalid_hint">Отображение этого элемента ограничено местными законами и постановлениями.</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
