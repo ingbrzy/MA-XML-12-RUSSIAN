@@ -359,6 +359,7 @@
     <string name="alarm_volume_title">Будильник</string>
     <string name="all_volume_title">Громкость</string>
     <string name="allow">Разрешить</string>
+    <string name="allow_all_rotations_title">Разрешить все положения</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Когда вы создаете виджет, приложение \"%1$s\" получает доступ ко всем его данным.</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Создать виджет и разрешить доступ?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать приложению \"%1$s\" создавать виджеты и получать их данные</string>
@@ -1737,6 +1738,8 @@
     <string name="continue_reset_factory">Сброс к заводским настройкам</string>
     <string name="contributors_title">Авторы</string>
     <string name="control_center">Центр управления</string>
+    <string name="control_center_style">Стиль центра управления</string>
+    <string name="control_center_style_summary">Выберите, как вы хотите отображать переключатели и уведомления</string>
     <string name="control_panel_switch_side">Поменять сторону Центра управления</string>
     <string name="controls_label">Элементы управления</string>
     <string name="controls_subtitle">Режим энергопотребления</string>
@@ -2238,6 +2241,9 @@
     <string name="disconnected">Нет подключения</string>
     <string name="display_advanced_mode_summary">Цветовая гамма</string>
     <string name="display_advanced_mode_title">Расширенные настройки</string>
+    <string name="display_animate_category">Анимированные эффекты</string>
+    <string name="display_animate_content">Уменьшите количество анимационных эффектов, отображаемых при разблокировке устройства.</string>
+    <string name="display_animate_title">Уменьшить анимацию</string>
     <string name="display_auto_rotate_rotate">Вкл.</string>
     <string name="display_auto_rotate_stay_in_current">Откл.</string>
     <string name="display_auto_rotate_stay_in_landscape">Альбомная ориентация</string>
@@ -2359,6 +2365,7 @@
     <string name="doze_always_on_title">Включить \"Активный экран\"</string>
     <string name="doze_summary">Включать экран, когда приходит уведомление</string>
     <string name="doze_title">Автоматич. включение экрана</string>
+    <string name="dpp_qrcode_generator_summary">Отсканируйте этот QR-код с помощью устройства, поддерживающего Easy Connect.</string>
     <string name="draw_overlay">Поверх других приложений</string>
     <string name="dsds_dialog_cancel">Отмена</string>
     <string name="dsds_dialog_confirm">Перезапуск</string>
@@ -3532,6 +3539,8 @@
     <string name="led_pulse_summary">Индикатор будет мигать при получении новых уведомлений</string>
     <string name="led_settings">Световой индикатор</string>
     <string name="left_function_key">Левый ярлык</string>
+    <string name="legacy_control_center_desc">Потяните вниз строку состояния, чтобы просмотреть переключатели и уведомления.</string>
+    <string name="legacy_control_center_title">Старая версия</string>
     <string name="legacy_navigation_summary">Кнопки навигации внизу экрана (Назад, Домой, Недавние приложения)</string>
     <string name="legacy_navigation_title">Кнопки навигации</string>
     <string name="legal_information">Юридическая информация</string>
@@ -3667,6 +3676,7 @@
     <string name="lock_profile_wipe_warning_content_password">Если вы неправильно введете пароль, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Если вы неправильно введете графический ключ, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_profile_wipe_warning_content_pin">Если вы неправильно введете PIN-код, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
+    <string name="lock_screen_action">Элементы, отображаемые на экране блокировки после проведения вниз</string>
     <string name="lock_screen_display_category_name">Экран блокировки</string>
     <string name="lock_screen_intro_skip_dialog_text">Защита устройства не будет активирована. Если телефон потеряется или его украдут, им смогут воспользоваться посторонние.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Защита устройства не будет включена. Если телефон будет потерян или украден либо все его данные будут удалены, его смогут использовать посторонние лица.</string>
@@ -4213,6 +4223,8 @@
     <string name="model_name">Номер модели</string>
     <string name="model_number">Модель устройства</string>
     <string name="model_summary">Модель: %1$s</string>
+    <string name="modern_control_center_desc">Чтобы просмотреть уведомления, потяните вниз строку состояния слева. Потяните вниз строку состояния справа, чтобы открыть Центр управления.</string>
+    <string name="modern_control_center_title">Новая версия</string>
     <string name="modify_default_browser_message">Сторонний браузер, установленный по умолчанию, может собирать историю просмотров и другие данные. Установить в любом случае?</string>
     <string name="modify_instruction_password_settings">Настройки защиты</string>
     <string name="modify_privacy_password">Изменение пароля</string>
@@ -4575,6 +4587,8 @@
     <string name="notification_channels_other">Другие</string>
     <string name="notification_content_block_summary">Не показывать уведомления на фоне или на периферийных устройствах</string>
     <string name="notification_content_block_title">Включить уведомления</string>
+    <string name="notification_control_center">Уведомления &amp; Центр управления</string>
+    <string name="notification_display_settings">Тень уведомления</string>
     <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Малозначимые уведомления помещаются в отдельную папку.</string>
     <string name="notification_fold_description2">MIUI запоминает, какие уведомления вы нажимаете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
     <string name="notification_fold_description3">"Если уведомления, которые вы считаете важными, по-прежнему помещаются в папку уведомлений сообщите нам. Мы будем благодарны за обратную связь."</string>
@@ -4642,6 +4656,7 @@
     <string name="notification_reboot_title_hm">Требуется перезагрузка</string>
     <string name="notification_remind">Уведомления</string>
     <string name="notification_ringtone_title">Звук уведомления по умолчанию</string>
+    <string name="notification_settings">Уведомления</string>
     <string name="notification_settings_work_profile">Доступ к уведомлениям недоступен приложениям в рабочем профиле.</string>
     <string name="notification_shade_shortcut_title">Ярлык настроек</string>
     <string name="notification_show_lights_title">Световая индикация</string>
@@ -5369,6 +5384,7 @@ UT-интерфейс: %5$s"</string>
     <string name="repeat_call">Уведомлять о повторных вызовах</string>
     <string name="repeat_call_info">Не отключать звонок для повторных вызовов в течение 15 минут</string>
     <string name="repeat_title">Повторить</string>
+    <string name="requires_modern_control_center">Работает с новой версией Центра управления</string>
     <string name="reset_aaid">Сброс идентификатора</string>
     <string name="reset_app_preferences">Сбросить настройки приложений</string>
     <string name="reset_app_preferences_button">Сбросить</string>
@@ -6159,6 +6175,7 @@ UT-интерфейс: %5$s"</string>
     <string name="show_all_anrs_summary">Показывать диалог \"Приложение не отвечает\" для всех приложений</string>
     <string name="show_all_apps">Вся информация об использовании</string>
     <string name="show_background_processes">Показать процессы в кеше</string>
+    <string name="show_badge_notifications_short">Значки</string>
     <string name="show_carrier_under_keyguard_title">Оператор на экране блокировки</string>
     <string name="show_connected_devices_summary">Просмотр подключенных устройств</string>
     <string name="show_connected_devices_title">Подключенные устройства</string>
@@ -6769,6 +6786,7 @@ UT-интерфейс: %5$s"</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Кнопка \"Домой\" (новая функция)</string>
     <string name="swipe_up_to_switch_apps_summary">Для перехода между приложениями, проведите вверх по кнопке \"Домой\". Для просмотра всех приложений, проведите вверх еще раз. Для возврата нажмите кнопку \"Назад\".</string>
     <string name="swipe_up_to_switch_apps_title">Навигация</string>
+    <string name="switchNetworkToast">За подключение к мобильным сетям может взиматься дополнительная плата.</string>
     <string name="switch_access_service_on">Переключение доступа</string>
     <string name="switch_off_text">ОТКЛЮЧЕНО</string>
     <string name="switch_on_text">ВКЛЮЧЕНО</string>
@@ -8173,7 +8191,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_switch_to_gsm_message">Подключение к Wi-Fi потеряно. Использовать мобильный интернет?</string>
     <string name="wifi_switch_to_gsm_title">Использовать GSM?</string>
     <string name="wifi_tap_to_sign_in">Нажмите для входа в сеть.</string>
+    <string name="wifi_tether_checkbox_kddi_text">WLAN-модем</string>
     <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Настроить модем WLAN</string>
     <string name="wifi_tether_configure_ap_text">Настройка точки доступа</string>
     <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
     <string name="wifi_tether_configure_subtext">Точка доступа %1$s | %2$s</string>
