@@ -61,9 +61,9 @@
     <string name="agenda_birthday_title">День рождения %1$s</string>
     <string name="agenda_countdown_subtitle">Обратный отсчет | %1$s</string>
     <string name="agenda_credit_payment">%1$s погашение кредита (%2$s)</string>
-    <string name="agenda_default">Календарь событий</string>
+    <string name="agenda_default">Мероприятия</string>
     <string name="agenda_electricity">Счет за электричество</string>
-    <string name="agenda_empty_content">На сегодня нет событий.</string>
+    <string name="agenda_empty_content">Мероприятия отсутствуют</string>
     <string name="agenda_empty_title">Без названия</string>
     <string name="agenda_gas">Счет за газ</string>
     <string name="agenda_i_known">Понятно</string>
@@ -88,7 +88,7 @@
     <string name="agenda_settings_loan">Напоминать о погашении кредита</string>
     <string name="agenda_tip_going">На постоянной основе</string>
     <string name="agenda_today">·сегодня</string>
-    <string name="agenda_view_event">Все события</string>
+    <string name="agenda_view_event">Все мероприятия</string>
     <string name="alipay_cancel">Отмена</string>
     <string name="alipay_confirm_title">Примечание</string>
     <string name="alipay_data_error">Система перегружена, попробуйте позже</string>
@@ -116,7 +116,7 @@
     <string name="already_connect">Соединено</string>
     <string name="already_download">Загружено</string>
     <string name="announce_for_drag">Перетаскивание одного элемента</string>
-    <string name="app_agenda_i_known">Понял</string>
+    <string name="app_agenda_i_known">Понятно</string>
     <string name="app_agenda_need_install_alipay">Перед использованием этой функции установите Alipay.</string>
     <string name="app_bluetooth_device_battery">%1$d%%</string>
     <string name="app_bluetooth_device_empty">Устройство не подключено</string>
@@ -127,14 +127,14 @@
     <string name="app_commute_guide_button_text">Добавить адрес</string>
     <string name="app_commute_location_close">Доступ к местоположению</string>
     <string name="app_commute_location_open">Разрешить</string>
-    <string name="app_commute_location_open_tip">Разрешите хранилищу приложений доступ к вашему местоположению, чтобы видеть здесь маршруты.</string>
+    <string name="app_commute_location_open_tip">Разрешите Ассистенту доступ к местоположению для возможности просмотра и построения маршрутов.</string>
     <string name="app_commute_more_lines">Еще</string>
     <string name="app_commute_no_data">Не удалось построить маршрут</string>
-    <string name="app_commute_no_data_tip">Попробуйте немного изменить точку старта или пункт назначения.</string>
+    <string name="app_commute_no_data_tip">Попробуйте изменить точку старта или пункт назначения.</string>
     <string name="app_commute_real_time_arriving">Прибытие</string>
     <string name="app_commute_real_time_format_1">%1$s · %2$d мин · %3$d остановок</string>
     <string name="app_commute_real_time_format_2">%1$s · %2$s</string>
-    <string name="app_commute_real_time_not_start">Сервис скоро запустится</string>
+    <string name="app_commute_real_time_not_start">Сервис скоро будет запущен</string>
     <string name="app_commute_real_time_suspend">Не работает</string>
     <string name="app_commute_real_time_unknown">Неизвестно</string>
     <string name="app_commute_restriction_text">Ограничение</string>
@@ -166,7 +166,7 @@
     <string name="app_disclaimer_title">Отказ от ответственности</string>
     <string name="app_display_linkage_default">Инновации для всех</string>
     <string name="app_display_setting_edit_hint">Введите текст</string>
-    <string name="app_display_setting_edit_instruction">Заголовки отображаются в верхней части хранилища приложений. Они могут содержать до 14 китайских иероглифов или до 28 букв.</string>
+    <string name="app_display_setting_edit_instruction">Заголовки отображаются в верхней части Ассистента. Они могут содержать до 14 китайских иероглифов или до 28 букв.</string>
     <string name="app_display_setting_edit_toast">Этот заголовок слишком длинный</string>
     <string name="app_display_setting_title">Изменить заголовок</string>
     <string name="app_express_all">Все</string>
@@ -237,7 +237,7 @@
     <string name="app_pa_setting_head_bg_img">Задний план</string>
     <string name="app_pa_setting_head_bg_img_default">Не задано</string>
     <string name="app_pa_setting_head_bg_img_set">Установить</string>
-    <string name="app_pa_setting_head_bg_img_summary">Установить фоновое изображение для заголовка хранилища приложений</string>
+    <string name="app_pa_setting_head_bg_img_summary">Установка фонового изображения заголовка Ассистента</string>
     <string name="app_pa_setting_head_info">Заголовок</string>
     <string name="app_pa_setting_head_info_default">Пусто</string>
     <string name="app_pa_setting_head_info_set">Добавлено</string>
@@ -263,11 +263,11 @@
     <string name="app_pa_setting_service_my_schedule">Календарь событий</string>
     <string name="app_pa_setting_service_my_schedule_summary">События, дни рождения, юбилеи, обратный отсчет и многое другое</string>
     <string name="app_pa_setting_service_my_shopping">Покупки</string>
-    <string name="app_pa_setting_service_my_shopping_summary">Собирайте информацию о своих покупках в хранилище приложений.</string>
+    <string name="app_pa_setting_service_my_shopping_summary">Собирайте информацию о своих покупках в Ассистенте.</string>
     <string name="app_pa_setting_service_news">Новости</string>
     <string name="app_pa_setting_service_news_summary">Последние новости и интересные истории</string>
     <string name="app_pa_setting_service_note">Заметки</string>
-    <string name="app_pa_setting_service_note_summary">Делайте короткие заметки в хранилище приложений</string>
+    <string name="app_pa_setting_service_note_summary">Создавайте короткие заметки в Ассистенте</string>
     <string name="app_pa_setting_service_personal">Персональные услуги</string>
     <string name="app_pa_setting_service_personal_manage_list_summary">Связанный контент</string>
     <string name="app_pa_setting_service_personal_manage_list_title">Связанный контент</string>
@@ -275,7 +275,7 @@
     <string name="app_pa_setting_service_quick_func">Ярлыки</string>
     <string name="app_pa_setting_service_quick_func_summary">Откройте особенности популярных приложений</string>
     <string name="app_pa_setting_service_recent">Недавние элементы</string>
-    <string name="app_pa_setting_service_recent_summary">Быстрые приложения и ярлыки, которые появляются после смахивания вниз в хранилище приложений</string>
+    <string name="app_pa_setting_service_recent_summary">Быстрые приложения и ярлыки, которые появляются после смахивания вниз в Ассистенте</string>
     <string name="app_pa_setting_service_screen_duration">Экранное время</string>
     <string name="app_pa_setting_service_sports">Виды спорта</string>
     <string name="app_pa_setting_service_sports_summary">Последняя информация о командах, за которыми вы следите</string>
@@ -350,7 +350,7 @@
     <string name="app_suggest_setting_brief_detail">Получать рекомендации для приложений и функций, которыми вы можете воспользоваться</string>
     <string name="app_suggest_setting_title">Умные рекомендации</string>
     <string name="app_sure">Подтвердить</string>
-    <string name="app_switch_minus_flavor_to_new">Подтвердите, следует ли переводить умного помощника на новую версию</string>
+    <string name="app_switch_minus_flavor_to_new">Вы уверены, что хотите перейти на новую версию?</string>
     <string name="app_switch_minus_flavor_to_old">Вы уверены, что хотите перейти на старую версию?</string>
     <string name="app_travel_btn_all_travel">Все поездки</string>
     <string name="app_travel_btn_flight_detail">Детали</string>
@@ -558,12 +558,12 @@
     <string name="corpus_hint_apps">Поиск приложений</string>
     <string name="corpus_label_apps">Приложения</string>
     <string name="cta_desc">Все важные функции в одном месте</string>
-    <string name="cta_dialog_all_purpose">Добро пожаловать в хранилище приложений! Это приложение - универсальное место для поиска услуг, связанных с работой, образом жизни и путешествиями.</string>
-    <string name="cta_dialog_desc_calendar">Для отображения календарных событий и запланированных поездок</string>
+    <string name="cta_dialog_all_purpose">Добро пожаловать в Ассистент! Это приложение объединяет сервисы, связанные с работой, образом жизни и путешествиями.</string>
+    <string name="cta_dialog_desc_calendar">Для отображения мероприятий календаря и запланированных поездок</string>
     <string name="cta_dialog_desc_location">Для расчета продолжительности ежедневных поездок на работу</string>
     <string name="cta_dialog_desc_phone_state">Для идентификации вашего устройства по IMEI</string>
-    <string name="cta_dialog_desc_storage">Для сохранения объектов на ваше устройство</string>
-    <string name="cta_dialog_miot_text_all">Чтобы обеспечить нормальное функционирование, Mi Home может потребоваться доступ к сети и вашему местоположению, разрешение на включение Bluetooth, использование сотовой сети, доступ к микрофону, чтение контактов. Разрешить?</string>
+    <string name="cta_dialog_desc_storage">Для сохранения файлов на устройстве</string>
+    <string name="cta_dialog_miot_text_all">Для нормальной работы Mi Home требуется доступ к сети и местоположению, разрешение на включение Bluetooth, использование сотовой сети, доступ к микрофону, чтение контактов. Разрешить?</string>
     <string name="cta_dialog_negative">Выход</string>
     <string name="cta_dialog_positive">Принять</string>
     <string name="cta_dialog_text_all">Чтобы использовать Ассистент необходимо принять %1$s \"Пользовательское соглашение\" %2$s и %3$s \"Политику конфиденциальности\" %4$s. Приложению требуется подключение к интернету и доступ к местоположению. Разрешить?</string>
@@ -1415,12 +1415,12 @@
     <string name="payment_clear_records_failed">Не удалось очистить историю платежей</string>
     <string name="payment_clear_records_success">Очищенная история платежей</string>
     <string name="payment_date_time_picker_dialog_title">Установить дату и время</string>
-    <string name="payment_dialog_notice_message">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в хранилище приложений вручную. Информация об оплате из других приложений может быть экспортирована вручную.</string>
-    <string name="payment_dialog_notice_message_inside">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в хранилище приложений вручную.</string>
+    <string name="payment_dialog_notice_message">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в Ассистент вручную. Информация об оплате из других приложений может быть экспортирована вручную.</string>
+    <string name="payment_dialog_notice_message_inside">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в Ассистент вручную.</string>
     <string name="payment_dialog_notice_ok">Понятно</string>
     <string name="payment_dialog_notice_title">Платежная информация</string>
     <string name="payment_guide_hint">Сбор информации об оплате из Сообщений и других приложений.</string>
-    <string name="payment_guide_hint_link">\"Политика конфиденциальности\" хранилища приложений</string>
+    <string name="payment_guide_hint_link">\"Политика конфиденциальности\" Ассистента</string>
     <string name="payment_method_bank">Дебетовая карточка</string>
     <string name="payment_method_cash">Наличные</string>
     <string name="payment_method_credit">Кредитная карта</string>
@@ -1452,7 +1452,7 @@
     <string name="payment_record_menu_select">Выбрать</string>
     <string name="payment_report_failed_record_dialog_cancel">Отмена</string>
     <string name="payment_report_failed_record_dialog_message">Сообщайте о необработанных счетах, чтобы помочь нам сделать расчет платежей более точным.
-"&lt;b&gt;Данные, которыми вы делитесь, будут использоваться только для улучшения хранилища приложений.&lt;/b&gt;</string>
+"&lt;b&gt;Данные, которыми вы делитесь, будут использоваться только для улучшения Ассистента.&lt;/b&gt;</string>
     <string name="payment_report_failed_record_dialog_ok">Отчёт</string>
     <string name="payment_setting">настройка</string>
     <string name="payment_total_month_desc">Этот месяц</string>
@@ -1630,12 +1630,12 @@
     <string name="shopping_recommend">Рекомендуемые продукты</string>
     <string name="shopping_recommend_coupon">Купон ￥%s</string>
     <string name="shopping_setting_authorize">Разрешить экспорт информации о покупках</string>
-    <string name="shopping_setting_authorize_sub">Хранилище приложений будет иметь доступ к вашим избранным и корзинам товаров.</string>
+    <string name="shopping_setting_authorize_sub">Ассистент будет иметь доступ к вашим избранным и корзинам товаров.</string>
     <string name="shopping_setting_base">Настройки</string>
-    <string name="shopping_setting_brief">Соберите информацию о ваших покупках в хранилище приложений.</string>
-    <string name="shopping_setting_brief_detail">Соберите информацию о ваших покупках из нескольких приложений электронной коммерции в хранилище приложений.</string>
+    <string name="shopping_setting_brief">Храните информацию о покупках в Ассистенте.</string>
+    <string name="shopping_setting_brief_detail">Храните информацию о ваших покупках из различных платежных приложений в Ассистенте.</string>
     <string name="shopping_setting_notification">Уведомлять о новинках</string>
-    <string name="shopping_setting_remove">После того, как вы отмените авторизацию, Хранилище приложений прекратит сбор информации о ваших покупках, и Карта покупок будет удалена. Все равно отменить?</string>
+    <string name="shopping_setting_remove">После того, как вы отмените авторизацию, Ассистент прекратит сбор информации о ваших покупках, и Карта покупок будет удалена. Отменить?</string>
     <string name="shopping_source">От %s</string>
     <string name="shopping_support">Поддерживаемые приложения</string>
     <string name="shortcut">Ярлыки</string>
@@ -1724,7 +1724,7 @@
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sure">Подтвердить</string>
-    <string name="switch_minus_flavor_to_new">Вы уверены, что перейдете на новую версию?</string>
+    <string name="switch_minus_flavor_to_new">Вы уверены, что хотите перейти на новую версию?</string>
     <string name="system_favorite_dialog_link">Безопасность и конфиденциальность</string>
     <string name="system_favorite_dialog_message">Избранное из некоторых приложений и служб будут добавлено в Ассистент. Разрешить?</string>
     <string name="system_favorite_dialog_negative">Выход</string>
