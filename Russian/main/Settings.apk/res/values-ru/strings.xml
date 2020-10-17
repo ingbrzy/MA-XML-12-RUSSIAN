@@ -1739,7 +1739,7 @@
     <string name="contributors_title">Авторы</string>
     <string name="control_center">Центр управления</string>
     <string name="control_center_style">Стиль Центра управления</string>
-    <string name="control_center_style_summary">Выбор стиля отображения переключателей и уведомлений</string>
+    <string name="control_center_style_summary">Выбор стиля переключателей и уведомлений</string>
     <string name="control_panel_switch_side">Поменять сторону Центра управления</string>
     <string name="controls_label">Элементы управления</string>
     <string name="controls_subtitle">Режим энергопотребления</string>
@@ -3539,7 +3539,7 @@
     <string name="led_pulse_summary">Индикатор будет мигать при получении новых уведомлений</string>
     <string name="led_settings">Световой индикатор</string>
     <string name="left_function_key">Левый ярлык</string>
-    <string name="legacy_control_center_desc">Потяните вниз строку состояния для просмотра переключателей и уведомлений.</string>
+    <string name="legacy_control_center_desc">Свайп вниз открывает стандартную шторку уведомлений с переключателями</string>
     <string name="legacy_control_center_title">Старая версия</string>
     <string name="legacy_navigation_summary">Кнопки навигации внизу экрана (Назад, Домой, Недавние приложения)</string>
     <string name="legacy_navigation_title">Кнопки навигации</string>
@@ -3676,7 +3676,7 @@
     <string name="lock_profile_wipe_warning_content_password">Если вы неправильно введете пароль, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Если вы неправильно введете графический ключ, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_profile_wipe_warning_content_pin">Если вы неправильно введете PIN-код, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
-    <string name="lock_screen_action">Элементы, отображаемые на экране блокировки после свайпа вниз</string>
+    <string name="lock_screen_action">Элементы управления на экране блокировки</string>
     <string name="lock_screen_display_category_name">Экран блокировки</string>
     <string name="lock_screen_intro_skip_dialog_text">Защита устройства не будет активирована. Если телефон потеряется или его украдут, им смогут воспользоваться посторонние.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Защита устройства не будет включена. Если телефон будет потерян или украден либо все его данные будут удалены, его смогут использовать посторонние лица.</string>
@@ -4223,7 +4223,7 @@
     <string name="model_name">Номер модели</string>
     <string name="model_number">Модель устройства</string>
     <string name="model_summary">Модель: %1$s</string>
-    <string name="modern_control_center_desc">Для просмотра уведомлений, потяните строку состояния вниз слева. Чтобы открыть Центр управления, потяните строку состояния вниз справа.</string>
+    <string name="modern_control_center_desc">Свайп вниз слева - просмотр уведомлений. Свайп вниз справа - Центр управления.</string>
     <string name="modern_control_center_title">Новая версия</string>
     <string name="modify_default_browser_message">Сторонний браузер, установленный по умолчанию, может собирать историю просмотров и другие данные. Установить в любом случае?</string>
     <string name="modify_instruction_password_settings">Настройки защиты</string>
