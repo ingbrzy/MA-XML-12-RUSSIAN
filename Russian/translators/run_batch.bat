@@ -25,10 +25,11 @@ call routine.bat lmi_stable Settings.apk
 call routine.bat cmi_stable Settings.apk 
 call routine.bat umi_stable Settings.apk 
 ;
+call routine.bat vela Settings.apk 
+;
 call routine.bat cmi MiuiCamera.apk 
 call routine.bat umi MiuiCamera.apk 
-
-;
+;                         ;
 call routine.bat cas MiuiSystemUI.apk 
 call routine.bat cmi MiuiSystemUI.apk 
 call routine.bat lavender MiuiSystemUI.apk 
