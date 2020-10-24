@@ -33,7 +33,6 @@
     <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
     <string name="accessibility_camera_module_picker">CameraModulePicker</string>
-    <string name="accessibility_camera_video_slow_motion_fps">%dFPS</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_description_dolly_zoom_button">Hhddbbjjggnnjjss</string>
     <string name="accessibility_flash_mode_button">FlashButton</string>
@@ -421,7 +420,6 @@
     <string name="app_express_settings_phone_item_desc_1">SIM %d</string>
     <string name="app_health_card_energy">@string/step_cal_unit</string>
     <string name="app_manager_power_consume">%.1f%%</string>
-    <string name="app_memory_info">%1$.1fGB/%2$dGB</string>
     <string name="app_miot">Mi Home</string>
     <string name="app_miot_device_battery_percentage">%1$d%%</string>
     <string name="app_miot_unit" />
@@ -721,7 +719,6 @@
     <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="base_hour12_format_en">hh:mm</string>
     <string name="base_hour24_format_en">HH:mm</string>
-    <string name="base_hour_minute">%1$dh%2$dm</string>
     <string name="base_minute_second">mm:ss</string>
     <string name="battery_meter_bg_path"> </string>
     <string name="battery_meter_charging_mask_path"> </string>
@@ -740,26 +737,8 @@
     <string name="beauty_level_5">5</string>
     <string name="best_warning_dialog_message"> </string>
     <string name="best_warning_dialog_message1"> </string>
-    <string name="bh_b">B</string>
-    <string name="bh_cmcc">China Mobile</string>
-    <string name="bh_ct">China Telecom</string>
-    <string name="bh_cu">China Unicom</string>
-    <string name="bh_day">d</string>
-    <string name="bh_gb">GB</string>
-    <string name="bh_hour">h</string>
-    <string name="bh_kb">KB</string>
-    <string name="bh_mb">MB</string>
-    <string name="bh_minute">m</string>
-    <string name="bh_mm">Mi Mobile</string>
-    <string name="bh_ms">Mi SIM</string>
     <string name="bh_number_info">%1$s (%2$s)</string>
-    <string name="bh_sim">SIM %1$d</string>
-    <string name="bh_sim_1">%1$s (SIM 1)</string>
-    <string name="bh_sim_2">%1$s (SIM 2)</string>
-    <string name="bh_sim_one">SIM 1</string>
-    <string name="bh_sim_two">SIM 2</string>
     <string name="bh_tag">*%1$s</string>
-    <string name="bh_tb">TB</string>
     <string name="bh_yuan">CNY</string>
     <string name="bill_list_card_name_fmt">%1$s | %2$s</string>
     <string name="bill_list_card_num_fmt">**** **** **** %s</string>
@@ -2969,12 +2948,6 @@
     <string name="percent_symbol">%</string>
     <string name="percentage">%1$s%2$s</string>
     <string name="perm_payment_lab">Mi Pay</string>
-    <string name="permission_camera">android.permission-group.CAMERA@1</string>
-    <string name="permission_contacts">android.permission-group.CONTACTS@1</string>
-    <string name="permission_location">android.permission-group.LOCATION@1</string>
-    <string name="permission_microphone">android.permission-group.MICROPHONE@0</string>
-    <string name="permission_phone_state">android.permission-group.PHONE@0</string>
-    <string name="permission_storage">android.permission-group.STORAGE@0</string>
     <string name="person_description">我的</string>
     <string name="person_have_hongbao"> </string>
     <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
@@ -3334,10 +3307,6 @@
     <string name="relationship_default_text">我</string>
     <string name="reply_subject_label">Re:</string>
     <string name="required_permissions"> </string>
-    <string name="residual_time_description">%1$sd%2$sh</string>
-    <string name="residual_time_description2">%1$dh</string>
-    <string name="residual_time_description3">%1$dm</string>
-    <string name="residual_time_description4">%1$dd</string>
     <string name="resolution_300_dpi">300 dpi</string>
     <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>

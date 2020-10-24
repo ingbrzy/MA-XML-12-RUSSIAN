@@ -211,6 +211,7 @@
     <string name="app_health_card_step">Сегодняшние шаги:</string>
     <string name="app_label">Ассистент</string>
     <string name="app_memory_free">Доступно</string>
+    <string name="app_memory_info">%1$.1f ГБ/%2$d ГБ</string>
     <string name="app_memory_title">Память</string>
     <string name="app_miot_add_device">Добавить</string>
     <string name="app_miot_bluetooth_device_support_info">Поддерживаются только выбранные Bluetooth-гарнитуры и динамики.</string>
@@ -393,11 +394,12 @@
     <string name="ball_dialog_title">Сначала установите приложение.</string>
     <string name="ball_football_recent_ing">В процессе</string>
     <string name="ball_hupu">HuPu</string>
-    <string name="base_search_empty">Не удалось найти результаты</string>
+    <string name="base_hour_minute">%1$d ч. %2$d мин.</string>
+    <string name="base_search_empty">Ничего не найдено</string>
     <string name="base_time_just_now">Только что</string>
-    <string name="base_time_month">dd/MM</string>
-    <string name="base_time_year">dd/MM/yyyy</string>
-    <string name="base_year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+    <string name="base_time_month">dd.MM</string>
+    <string name="base_time_year">dd.MM.yyyy</string>
+    <string name="base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
     <string name="base_yesterday">Вчера</string>
     <string name="battery_history">Батарея</string>
     <string name="beijing">Пекин</string>
