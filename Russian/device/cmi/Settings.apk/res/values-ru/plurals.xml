@@ -20,32 +20,32 @@
         <item quantity="one">1 приложение имеет полный доступ к устройству</item>
         <item quantity="few">%1$d приложения имеют полный доступ к устройству</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Сверхкраткая задержка (%1$d мсек.)</item>
-        <item quantity="one">Сверхкраткая задержка (%1$d мсек.)</item>
-    </plurals>
     <plurals name="accessibilty_autoclick_delay_unit_second">
         <item quantity="other">%1$s секунд</item>
         <item quantity="one">%1$s секунда</item>
         <item quantity="few">%1$s секунды</item>
-    </plurals>	
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Сверхкраткая задержка (%1$d мсек.)</item>
+        <item quantity="one">Сверхкраткая задержка (%1$d мсек.)</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Долгая задержка (%1$d мсек.)</item>
-        <item quantity="one">Долгая задержка (%1$d мсек.)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Короткая задержка (%1$d мсек.)</item>
-        <item quantity="one">Короткая задержка (%1$d мсек.)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Очень долгая задержка (%1$d мсек.)</item>
-        <item quantity="one">Очень долгая задержка (%1$d мсек.)</item>
+        <item quantity="other">Долгая задержка (%1$s мсек.)</item>
+        <item quantity="one">Долгая задержка (%1$s мсек.)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
         <item quantity="other">Средняя (%1$s секунд)</item>
         <item quantity="one">Средняя (%1$s секунда)</item>
         <item quantity="few">Средняя (%1$s секунды)</item>
-    </plurals>	
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Короткая задержка (%1$s мсек.)</item>
+        <item quantity="one">Короткая задержка (%1$s мсек.)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Очень долгая задержка (%1$d мсек.)</item>
+        <item quantity="one">Очень долгая задержка (%1$d мсек.)</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
         <item quantity="other">Очень короткая задержка (%1$d мсек.)</item>
         <item quantity="one">Очень короткая задержка (%1$d мсек.)</item>
@@ -54,7 +54,7 @@
         <item quantity="other">Приложению требуется обработать %d ссылок</item>
         <item quantity="one">Приложению требуется обработать %d ссылку</item>
         <item quantity="few">Приложению требуется обработать %d ссылки</item>
-    </plurals>	
+    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Отключены для %d приложений</item>
         <item quantity="one">Отключены для %d приложения</item>
@@ -86,7 +86,7 @@
         <item quantity="other">%d доступных устройств</item>
         <item quantity="few">%d доступных устройства</item>
         <item quantity="one">%d доступное устройство</item>
-    </plurals>	
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
@@ -162,7 +162,7 @@
         <item quantity="other">%d приложений подключено</item>
         <item quantity="one">%d приложение подключено</item>
         <item quantity="few">%d приложения подключено</item>
-    </plurals>	
+    </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">%1$d из %2$d приложений имеют доступ к местоположению</item>
         <item quantity="one">%1$d из %2$d приложений имеют доступ к местоположению</item>
@@ -191,7 +191,7 @@
         <item quantity="other">Используйте как минимум %d нечисловых символов</item>
         <item quantity="one">Используйте как минимум %d нечисловой символ</item>
         <item quantity="few">Используйте как минимум %d нечисловых символа</item>
-    </plurals>	
+    </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">Используйте как минимум %d цифр</item>
         <item quantity="one">Используйте как минимум %d цифру</item>
@@ -272,7 +272,7 @@
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM</item>
         <item quantity="one">%1$d SIM</item>
-    </plurals>	
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d ограничений</item>
         <item quantity="one">%1$d ограничение</item>
@@ -282,17 +282,17 @@
         <item quantity="other">%1$d каналов уведомлений.</item>
         <item quantity="one">%1$d канал уведомлений.</item>
         <item quantity="few">%1$d канала уведомлений.</item>
-    </plurals>	
+    </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d категорий</item>
         <item quantity="one">%d категория</item>
         <item quantity="few">%d категории</item>
-    </plurals>	
+    </plurals>
     <plurals name="notification_history_count">
         <item quantity="other">%d уведомлений</item>
         <item quantity="one">%d уведомление</item>
         <item quantity="few">%d уведомления</item>
-    </plurals>	
+    </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Отключены для %d приложений</item>
         <item quantity="one">Отключены для %d приложения</item>
@@ -306,7 +306,7 @@
         <item quantity="other">~%d уведомлений в неделю</item>
         <item quantity="one">~%d уведомление в неделю</item>
         <item quantity="few">~%d уведомления в неделю</item>
-    </plurals>	
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d активных приложений</item>
         <item quantity="one">%d активное приложение</item>
@@ -316,7 +316,7 @@
         <item quantity="other">%s приложений</item>
         <item quantity="one">1 приложение</item>
         <item quantity="few">%s приложения</item>
-    </plurals>	
+    </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">Предоставлено %d разрешений</item>
         <item quantity="one">Предоставлено %d разрешение</item>
@@ -346,7 +346,7 @@
         <item quantity="other">Выбрано %d элементов</item>
         <item quantity="one">Выбран %d элемент</item>
         <item quantity="few">Выбрано %d элемента</item>
-    </plurals>	
+    </plurals>
     <plurals name="seconds">
         <item quantity="other">%s секунд</item>
         <item quantity="one">%s секунда</item>
@@ -376,7 +376,7 @@
         <item quantity="other">%1$d подключенных устройств</item>
         <item quantity="one">%1$d подключенное устройство</item>
         <item quantity="few">%1$d подключенных устройства</item>
-    </plurals>	
+    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Осталось %1$d шагов до открытия инженерного меню</item>
         <item quantity="one">Остался %1$d шаг до открытия инженерного меню</item>
@@ -560,7 +560,7 @@
         <item quantity="other">%d подписок</item>
         <item quantity="one">1 подписка</item>
         <item quantity="few">%d подписки</item>
-    </plurals>	
+    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d общих сетей</item>
         <item quantity="one">%d общая сеть</item>
@@ -572,9 +572,9 @@
         <item quantity="few">Неверный PIN-код. Осталось %d попытки.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Уведомления от %1$d приложений могут изменить режим \"Не беспокоить\"</item>
+        <item quantity="other">Уведомления от %s приложений могут изменить режим \"Не беспокоить\"</item>
         <item quantity="zero">Нет приложений, которые могут изменить режим \"Не беспокоить\"</item>
-        <item quantity="one">Уведомления от 1 приложения могут изменить режим \"Не беспокоить\"</item>
+        <item quantity="one">Уведомления от %s приложения могут изменить режим \"Не беспокоить\"</item>
     </plurals>
     <plurals name="zen_mode_contacts_count">
         <item quantity="other">%d контактов</item>
@@ -585,12 +585,12 @@
         <item quantity="other">%d диалогов</item>
         <item quantity="one">1 диалог</item>
         <item quantity="few">%d диалога</item>
-    </plurals>	
+    </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
         <item quantity="other">%d часов</item>
         <item quantity="one">1 час</item>
         <item quantity="few">%d часа</item>
-    </plurals>	
+    </plurals>
     <plurals name="zen_mode_settings_summary_on">
         <item quantity="other">%d вкл.</item>
         <item quantity="one">%d вкл.</item>
@@ -604,7 +604,7 @@
         <item quantity="other">еще %d контактов</item>
         <item quantity="one">еще 1 контакт</item>
         <item quantity="few">еще %d контакта</item>
-    </plurals>	
+    </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Изменение сигнала только в течение %1$d часов до %2$s</item>
         <item quantity="one">Изменение сигнала только в течение %1$d часа до %2$s</item>
