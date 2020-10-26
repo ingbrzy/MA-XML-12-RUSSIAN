@@ -1863,8 +1863,10 @@
     <string name="dark_color_mode">Темный режим</string>
     <string name="dark_color_summary_lcd">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим снижает напряжение глаз при использовании устройства в темноте.</string>
     <string name="dark_color_summary_oled">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим уменьшает энергопотребление и снижает напряжение глаз.</string>
+    <string name="dark_mode_apps_header">Отдельные приложения</string>
     <string name="dark_mode_contrast">Авторегулировка контраста</string>
     <string name="dark_mode_contrast_hint">Автоматическая регулировка цвета и уменьшение контраста при уменьшении яркости</string>
+    <string name="dark_mode_font_background_title">Автоматическая настройка текста и фона</string>
     <string name="dark_ui_mode">Темный режим</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">Временно включен из-за режима энергосбережения</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_on">Вкл. / Временно отключен из-за режима энергосбережения</string>
@@ -2464,6 +2466,7 @@
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_text">Включить</string>
     <string name="enable_wifi_display">Беспроводной дисплей</string>
+    <string name="enabled">Вкл.</string>
     <string name="enabled_authorised_apps_summary">Чтобы отозвать разрешение, отключите переключатель.</string>
     <string name="enabled_authorised_apps_title">Приложения с разрешениями.</string>
     <string name="enabled_by_admin">Включено администратором</string>
@@ -2588,6 +2591,7 @@
     <string name="experimental_category_title">Экспериментальная функция</string>
     <string name="experimental_preference">(экспериментальная настройка)</string>
     <string name="extended_power_menu">Расширенное меню питания</string>
+    <string name="exterior">Цветовая схема</string>
     <string name="external_code_size_label">На USB-накопителе</string>
     <string name="external_data_size_label">SD-карта</string>
     <string name="external_source_switch_title">Разрешить установку из этого источника</string>
@@ -3551,6 +3555,7 @@
     <string name="legal_written_offer">Письменное предложение</string>
     <string name="license_title">Лицензия</string>
     <string name="lift_to_wake_title">Активация в вертикальном положении</string>
+    <string name="light_color_mode">Светлый режим</string>
     <string name="lights_title">Световой индикатор</string>
     <string name="line_breaking_summary">Исправить разрывы строк абзаца</string>
     <string name="line_breaking_title">Оптимизация текста</string>
@@ -3752,7 +3757,7 @@
     <string name="lockpassword_choose_your_pin_header_second_space">"Установите PIN-код 
  второго пространства"</string>
     <string name="lockpassword_choose_your_pin_message">Для безопасности установите PIN-код</string>
-    <string name="lockpassword_choose_your_pin_title" formatted="false">Введите от %d до %d цифр</string>
+    <string name="lockpassword_choose_your_pin_title">Введите от %d до %d цифр</string>
     <string name="lockpassword_choose_your_screen_lock_header">Настройте блокировку экрана</string>
     <string name="lockpassword_clear_label">Сбросить</string>
     <string name="lockpassword_confirm_for_second_user">Подтвердите пароль второго пространства</string>
@@ -4232,6 +4237,7 @@
     <string name="module_version">Обновление Google Play</string>
     <string name="more_account_settings_title">Другие аккаунты</string>
     <string name="more_dangerous_option_hint">Включена функция с высоким риском \"%1$s\". Нажмите для изменения настроек.</string>
+    <string name="more_dark_mode_settings">Дополнительные параметры темного режима</string>
     <string name="more_installed_services_title">Загруженные сервисы</string>
     <string name="move_app">Переместить</string>
     <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
@@ -4538,6 +4544,7 @@
     <string name="normal_smartcover_title">Непрозрачная</string>
     <string name="not_allowed">SIM-карта не поддерживает подключение к этой сети.</string>
     <string name="not_battery_optimizing">Энергосбережение отключено</string>
+    <string name="not_enabled">Выкл.</string>
     <string name="not_installed">Не установлено</string>
     <string name="not_set">Не задано</string>
     <string name="notch_and_status_bar_settings">Центр управления и строка состояния</string>
@@ -4755,6 +4762,7 @@ OTG отключается автоматически через 10 минут �
     <string name="other_advanced_settings">Дополнительно</string>
     <string name="other_data">Другие данные</string>
     <string name="other_device_info">Прочее</string>
+    <string name="other_input_method">Другие клавиатуры</string>
     <string name="other_input_settings">Дополнительно</string>
     <string name="other_password">Другие пароли</string>
     <string name="other_personal_settings">Персональные настройки</string>
@@ -6814,6 +6822,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Добро пожаловать в Google Sync.</font>"
 Технология синхронизации Google позволяет получать данные о контактах, встречах в календаре и многом другом с любого устройства."</string>
     <string name="sync_settings">Аккаунты и синхронизация</string>
+    <string name="sync_success">Синхронизировано успешно</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Синхронизация только по Wi-Fi</string>
     <string name="system">Система</string>
@@ -7120,7 +7129,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_password_title">Пароль</string>
     <string name="unlock_set_unlock_pattern_summary">Задайте графический ключ</string>
     <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">Введите от %d до %d цифр</string>
+    <string name="unlock_set_unlock_pin_summary">Введите от %d до %d цифр</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
     <string name="unlock_setup_wizard_fingerprint_details">После включения блокировки экрана, перейдите \"Настройки > Пароли и безопасность\", чтобы добавить отпечаток пальца.</string>
@@ -7281,6 +7290,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_preference">Настройки USB</string>
     <string name="usb_ptp_summary">Позволяет передавать фотографии с помощью программного обеспечения камеры, а также передавать любые файлы на компьютеры, которые не поддерживают MTP</string>
     <string name="usb_ptp_title">Камера (PTP)</string>
+    <string name="usb_reverse_charge">Обратная зарядка</string>
     <string name="usb_summary_MIDI">Использование устройства как MIDI</string>
     <string name="usb_summary_MIDI_power">Режим MIDI и зарядка</string>
     <string name="usb_summary_charging_only">Зарядка этого устройства</string>
@@ -7309,8 +7319,11 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_use_charging_only_desc">Просто зарядка устройства</string>
     <string name="usb_use_file_transfers">Передача файлов</string>
     <string name="usb_use_file_transfers_desc">Передача файлов на другое устройство</string>
+    <string name="usb_use_file_transfers_miui12_5">Передача файлов</string>
+    <string name="usb_use_miui12_5">Использовать USB для</string>
     <string name="usb_use_photo_transfers">Передача фото (PTP)</string>
     <string name="usb_use_photo_transfers_desc">Передача фотографий или файлов, если МТР не поддерживается (PTP)</string>
+    <string name="usb_use_photo_transfers_miui12_5">Перенос фото</string>
     <string name="usb_use_power_only">Подача питания</string>
     <string name="usb_use_tethering">USB модем</string>
     <string name="use_control_panel">Центр управления</string>
@@ -8320,6 +8333,7 @@ UT-интерфейс: %5$s"</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud синхронизирует ваши фото, создает резервные копии приложений и настроек, поможет найти телефон с помощью функции Поиск устройства.</string>
     <string name="xiaomi_cloud_service_disabled">Откл.</string>
     <string name="xiaomi_cloud_service_unknown">Неизвестно</string>
+    <string name="xiaomi_custom_input_method">Настроен для Xiaomi</string>
     <string name="xiaomi_money_service">Центр Mi Credits</string>
     <string name="xiaomi_router_available_notif_summary">Нажмите для просмотра.</string>
     <string name="xiaomi_router_available_notif_title">Доступен Mi роутер</string>
