@@ -1,5 +1,10 @@
 cls
 ;
+if "%~1"=="" (
+  echo WRONG PARAM
+  goto _end_batch
+)
+;
 call run_copy_translation.bat %1 AppIndexProvider
 call run_copy_translation.bat %1 AuthManager
 call run_copy_translation.bat %1 Backup
@@ -118,3 +123,5 @@ call run_copy_translation.bat %1 XMRemoteController
 call run_copy_translation.bat %1 framework-ext-res -rRU
 call run_copy_translation.bat %1 miui -rRU
 call run_copy_translation.bat %1 miuisystem -rRU
+
+:_end_batch

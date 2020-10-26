@@ -28,6 +28,11 @@
         <item quantity="one">%1$d объект в секунду | Оставшееся время: %2$s</item>
         <item quantity="few">%1$d объекта в секунду | Оставшееся время: %2$s</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d дней назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дня назад</item>
+    </plurals>
     <plurals name="dc_group_title_normal">
         <item quantity="other">%1$d шагов для освобождения %2$s</item>
         <item quantity="one">%1$d шаг для освобождения %2$s</item>
@@ -59,11 +64,6 @@
     <plurals name="dc_item_summary_video">
         <item quantity="other">&lt;Data>Найдено &lt;font color=#0097FF>%d&lt;/font> видео&lt;/Data></item>
         <item quantity="one">&lt;Data>Найдено &lt;font color=#0097FF>%d&lt;/font> видео&lt;/Data></item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%1$d дней назад</item>
-        <item quantity="one">%1$d день назад</item>
-        <item quantity="few">%1$d дня назад</item>
     </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">Найдено %d APK, можно удалить ненужные</item>
@@ -110,7 +110,7 @@
         <item quantity="one">Удалить %1$s фото со всех устройств?</item>
         <item quantity="few">Удалить %1$s фото со всех устройств?</item>
     </plurals>
-	<plurals name="global_wa_clean_finish_audio">
+    <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data>Освобождено &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достаточно для &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> треков)&lt;/Data></item>
         <item quantity="one">&lt;Data>Освобождено &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достаточно для &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> трека)&lt;/Data></item>
     </plurals>
@@ -155,7 +155,7 @@
         <item quantity="other">Найдено %d приложений</item>
         <item quantity="one">Найдено %d приложение</item>
         <item quantity="few">Найдено %d приложения</item>
-    </plurals>	
+    </plurals>
     <plurals name="million">
         <item quantity="other">Загрузок: %1$d</item>
         <item quantity="one">Загрузок: %1$d</item>

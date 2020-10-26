@@ -26,7 +26,7 @@
         <item quantity="other">%1$d дней</item>
         <item quantity="one">%1$d день</item>
         <item quantity="few">%1$d дня</item>
-    </plurals>    
+    </plurals>
     <plurals name="minute">
         <item quantity="other">%d мин.</item>
         <item quantity="one">%d мин.</item>
@@ -61,7 +61,7 @@
         <item quantity="other">Интервал повтора изменен на %d минут</item>
         <item quantity="one">Интервал повтора изменен на %d минуту</item>
         <item quantity="few">Интервал повтора изменен на %d минуты</item>
-    </plurals>	
+    </plurals>
     <plurals name="snooze_duration_count">
         <item quantity="other">Сработает %1$s раз</item>
         <item quantity="one">Сработает %1$s раз</item>
@@ -75,7 +75,12 @@
     <plurals name="snooze_duration_min">
         <item quantity="other">Каждые %1$s мин.</item>
         <item quantity="one">Каждую %1$s мин.</item>
-    </plurals>    
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Будильник сработает %2$s раз (каждые %1$s мин.)</item>
+        <item quantity="one">Будильник сработает %2$s раз (%1$s мин.)</item>
+        <item quantity="few">>Будильник сработает %2$s раза (каждые %1$s мин.)</item>
+    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">"Отложить
 на %d минут"</item>
@@ -84,11 +89,6 @@
         <item quantity="few">"Отложить
 на %d минуты"</item>
     </plurals>
-    <plurals name="snooze_duration_summary">
-        <item quantity="other">Будильник сработает %2$s раз (каждые %1$s мин.)</item>
-        <item quantity="one">Будильник сработает %2$s раз (%1$s мин.)</item>
-        <item quantity="few">>Будильник сработает %2$s раза (каждые %1$s мин.)</item>
-    </plurals>    
     <plurals name="stopwatch_running_notification_day">
         <item quantity="other">Секундомер работает %s дней. Нажмите для просмотра.</item>
         <item quantity="one">Секундомер работает %s день. Нажмите для просмотра.</item>
@@ -98,7 +98,7 @@
         <item quantity="other">Секундомер работает %s часов. Нажмите для просмотра.</item>
         <item quantity="one">Секундомер работает %s час. Нажмите для просмотра.</item>
         <item quantity="few">Секундомер работает %s часа. Нажмите для просмотра.</item>
-    </plurals>	
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d часов "</item>
         <item quantity="one">"%1$d час "</item>
@@ -121,5 +121,5 @@
     <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">%s ч. назад</item>
         <item quantity="one">%s ч. назад</item>
-    </plurals>	
+    </plurals>
 </resources>

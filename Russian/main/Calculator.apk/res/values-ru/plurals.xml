@@ -29,7 +29,7 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">%d мин. назад</item>
     </plurals>
-     <plurals name="age_label_days">
+    <plurals name="age_label_days">
         <item quantity="other">%d дней</item>
         <item quantity="one">%d день</item>
         <item quantity="few">%d дня</item>
@@ -49,7 +49,7 @@
         <item quantity="one">%d элемент</item>
         <item quantity="few">%d элемента</item>
     </plurals>
-   <plurals name="half_hour_ago">
+    <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>
     <plurals name="in_a_hour">
@@ -103,5 +103,5 @@
         <item quantity="other">%d лет</item>
         <item quantity="one">%d год</item>
         <item quantity="few">%d года</item>
-    </plurals>	
+    </plurals>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="additional_cbs_channels_strings" />
     <string-array name="alert_reminder_interval_entries">
         <item>Один раз</item>
         <item>Каждые 2 минуты</item>
@@ -7,4 +8,7 @@
         <item>Каждые 15 минут</item>
         <item>Отключить</item>
     </string-array>
+    <array name="emergency_alerts_channels_range_strings" />
+    <array name="public_safety_messages_channels_range_strings" />
+    <array name="state_local_test_alert_range_strings" />
 </resources>

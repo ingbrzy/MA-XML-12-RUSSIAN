@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="health_description_title_suffix">
+        <item quantity="other">" шагов"</item>
+        <item quantity="one">" шаг"</item>
+        <item quantity="few">" шага"</item>
+    </plurals>
     <plurals name="updated_contacts">
         <item quantity="other">Обновлено %s контактов</item>
         <item quantity="one">Обновлен %s контакт</item>
         <item quantity="few">Обновлено %s контакта</item>
         <item quantity="many">Обновлено %s контактов</item>
-    </plurals>
-    <plurals name="view_all_devices">
-        <item quantity="other">Просмотреть все %d устройств</item>
-        <item quantity="one">Просмотреть %d устройство</item>
-        <item quantity="few">Просмотреть все %d устройства</item>
-        <item quantity="many">Просмотреть все %d устройств</item>
     </plurals>
     <plurals name="view_all_apps">
         <item quantity="other">Просмотреть все %d приложений</item>
@@ -23,5 +22,11 @@
         <item quantity="one">Просмотреть %d браузер</item>
         <item quantity="few">Просмотреть все %d браузера</item>
         <item quantity="many">Просмотреть все %d браузеров</item>
+    </plurals>
+    <plurals name="view_all_devices">
+        <item quantity="other">Просмотреть все %d устройств</item>
+        <item quantity="one">Просмотреть %d устройство</item>
+        <item quantity="few">Просмотреть все %d устройства</item>
+        <item quantity="many">Просмотреть все %d устройств</item>
     </plurals>
 </resources>

@@ -108,6 +108,16 @@
         <item quantity="few">через %d г.</item>
         <item quantity="many">через %d л.</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d файлов</item>
+        <item quantity="one">%1$s + %2$d файл</item>
+        <item quantity="few">%1$s + %2$d файла</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Повторите попытку через %d секунд.</item>
+        <item quantity="one">Повторите попытку через 1 секунду.</item>
+        <item quantity="few">Повторите попытку через %d секунды.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">За последние %d дня</item>
         <item quantity="one">За последний %d день</item>

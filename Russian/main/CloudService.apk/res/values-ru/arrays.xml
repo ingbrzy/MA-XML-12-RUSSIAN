@@ -35,7 +35,7 @@
     <string-array name="priv_dialog_finddevice_runtime_perm_desc">
         <item>Для идентификации устройства</item>
         <item>Для поиска устройства и переключения в режим потери</item>
-    </string-array>    
+    </string-array>
     <string-array name="priv_dialog_sync_runtime_perm_desc">
         <item>Для синхронизации событий</item>
         <item>Для синхронизации сообщений</item>
@@ -44,15 +44,17 @@
         <item>Для синхронизации контактов</item>
         <item>Для сохранения файлов на устройстве (изображения, видео, песни и прочее)</item>
     </string-array>
-    <string-array name="settings_search_calendar">
-        <item>Синхронизировать Календарь с Xiaomi Cloud</item>
-        <item>Включить синхронизацию</item>
-        <item>Календарь;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Для идентификации устройства</item>
+        <item>Для поиска устройства и переключения в соответствующий режим в случае утери</item>
     </string-array>
-    <string-array name="settings_search_contacts">
-        <item>Синхронизировать контакты с Xiaomi Cloud</item>
-        <item>Включить/настроить синхронизацию</item>
-        <item>Контакты;История звонков;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Для синхронизации событий</item>
+        <item>Для синхронизации сообщений</item>
+        <item>Для синхронизации сообщений</item>
+        <item>Для синхронизации контактов</item>
+        <item>Для синхронизации контактов</item>
+        <item>Для сохранения файлов на устройстве (изображения, видео, песни и прочее)</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Резервные копии</item>
@@ -68,6 +70,16 @@
         <item>Синхронизировать Браузер с Xiaomi Cloud</item>
         <item>Включить синхронизацию</item>
         <item>Браузер;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Синхронизировать Календарь с Xiaomi Cloud</item>
+        <item>Включить синхронизацию</item>
+        <item>Календарь;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Синхронизировать контакты с Xiaomi Cloud</item>
+        <item>Включить/настроить синхронизацию</item>
+        <item>Контакты;История звонков;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
         <item>Синхронизировать историю звонков с Xiaomi Cloud</item>
@@ -108,7 +120,7 @@
         <item>Синхронизировать быстрые ответы</item>
         <item>Включить синхронизацию</item>
         <item>Быстрые ответы;Буфер обмена;Редактор;Синхронизация;Облачные сервисы</item>
-    </string-array>    
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Синхронизировать записи с Xiaomi Cloud</item>
         <item>Включить/настроить синхронизацию</item>
@@ -153,7 +165,7 @@
         <item>Синхронизировать Wi-Fi настройки с Xiaomi Cloud</item>
         <item>Включить синхронизацию</item>
         <item>Wi-Fi;wifi;WLAN;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
-    </string-array>	
+    </string-array>
     <string-array name="user_detail_fixed_items">
         <item>Просмотр синхронизированных объектов</item>
         <item>Данные хранилища</item>

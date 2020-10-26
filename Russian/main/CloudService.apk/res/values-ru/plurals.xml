@@ -5,49 +5,10 @@
         <item quantity="one">Не удалось синхронизировать %s объект</item>
         <item quantity="few">Не удалось синхронизировать %s объекта</item>
     </plurals>
-    <plurals name="dirty_contacts_count">
-        <item quantity="other">%d контактов</item>
-        <item quantity="one">%d контакт</item>
-        <item quantity="few">%d контакта</item>
-    </plurals>
-    <plurals name="dirty_mms_count">
-        <item quantity="other">%d сообщений</item>
-        <item quantity="one">%d сообщение</item>
-        <item quantity="few">%d сообщения</item>
-    </plurals>
-    <plurals name="dirty_note_count">
-        <item quantity="other">%d заметок</item>
-        <item quantity="one">%d заметка</item>
-        <item quantity="few">%d заметки</item>
-    </plurals>
-    <plurals name="dirty_image_count">
-        <item quantity="other">%d фото</item>
-        <item quantity="one">%d фото</item>
-    </plurals>
-    <plurals name="dirty_callog_count">
-        <item quantity="other">%d записей журнала вызовов</item>
-        <item quantity="one">%d запись журнала вызовов</item>
-        <item quantity="few">%d записи журнала вызовов</item>
-    </plurals>
-    <plurals name="dirty_wlan_count">
-        <item quantity="other">%d сетей Wi-Fi</item>
-        <item quantity="one">%d сеть Wi-Fi</item>
-        <item quantity="few">%d сети Wi-Fi</item>
-    </plurals>
-    <plurals name="dirty_wlan_count_china">
-        <item quantity="other">%d сетей Wi-Fi</item>
-        <item quantity="one">%d сеть Wi-Fi</item>
-        <item quantity="few">%d сети Wi-Fi</item>
-    </plurals>
-    <plurals name="dirty_recorder_count">
-        <item quantity="other">%d записей</item>
-        <item quantity="one">%d запись</item>
-        <item quantity="few">%d записи</item>
-    </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d треков</item>
-        <item quantity="one">%d трек</item>
-        <item quantity="few">%d трека</item>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d записей черного списка</item>
+        <item quantity="one">%d запись черного списка</item>
+        <item quantity="few">%d записи черного списка</item>
     </plurals>
     <plurals name="dirty_browser_count">
         <item quantity="other">%d объектов браузера</item>
@@ -59,10 +20,34 @@
         <item quantity="one">%d объект календаря</item>
         <item quantity="few">%d объекта календаря</item>
     </plurals>
-    <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d записей черного списка</item>
-        <item quantity="one">%d запись черного списка</item>
-        <item quantity="few">%d записи черного списка</item>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d записей журнала вызовов</item>
+        <item quantity="one">%d запись журнала вызовов</item>
+        <item quantity="few">%d записи журнала вызовов</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d контактов</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d сообщений</item>
+        <item quantity="one">%d сообщение</item>
+        <item quantity="few">%d сообщения</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d заметок</item>
+        <item quantity="one">%d заметка</item>
+        <item quantity="few">%d заметки</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d объектов Ленты виджетов</item>
@@ -74,25 +59,40 @@
         <item quantity="one">%d частая фраза</item>
         <item quantity="few">%d частые фразы</item>
     </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d записей</item>
+        <item quantity="one">%d запись</item>
+        <item quantity="few">%d записи</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">Не синхронизировано %d скрытых фото. Выйдите после синхронизации всех объектов, чтобы сохранить их; в противном случае объекты будут удалены.</item>
         <item quantity="one">Не синхронизировано %d скрытое фото. Выйдите после синхронизации всех объектов, чтобы сохранить их; в противном случае объекты будут удалены.</item>
         <item quantity="few">Не синхронизировано %d скрытых фото. Выйдите после синхронизации всех объектов, чтобы сохранить их; в противном случае объекты будут удалены.</item>
         <item quantity="many">Не синхронизировано %d скрытых фото. Выйдите после синхронизации всех объектов, чтобы сохранить их; в противном случае объекты будут удалены.</item>
     </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d сетей Wi-Fi</item>
+        <item quantity="one">%d сеть Wi-Fi</item>
+        <item quantity="few">%d сети Wi-Fi</item>
+    </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d сетей Wi-Fi</item>
+        <item quantity="one">%d сеть Wi-Fi</item>
+        <item quantity="few">%d сети Wi-Fi</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Ожидание синхронизации: %d</item>
         <item quantity="one">Ожидание синхронизации: %d</item>
-    </plurals>
-    <plurals name="last_sync_time_mins_ago">
-        <item quantity="other">%s минут назад</item>
-        <item quantity="one">%s минуту назад</item>
-        <item quantity="few">%s минуты назад</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">%s часов назад</item>
         <item quantity="one">%s час назад</item>
         <item quantity="few">%s часа назад</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s минут назад</item>
+        <item quantity="one">%s минуту назад</item>
+        <item quantity="few">%s минуты назад</item>
     </plurals>
     <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Синхронизация продолжится через %d часов</item>
@@ -104,7 +104,7 @@
         <item quantity="one">Синхронизация продолжится через %d минуту</item>
         <item quantity="few">Синхронизация продолжится через %d минуты</item>
     </plurals>
-        <plurals name="micloud_manual_pause_and_resume">
+    <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">Возобновление синхронизации через %d минут…</item>
         <item quantity="one">Возобновление синхронизации через %d минуту…</item>
         <item quantity="few">Возобновление синхронизации через %d минуты…</item>
@@ -117,5 +117,24 @@
     <plurals name="select_no_more_than">
         <item quantity="other">Нельзя выбрать больше %d объектов</item>
         <item quantity="one">Нельзя выбрать больше %d объекта</item>
-    </plurals>	
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Приглашение приняли %d человек</item>
+        <item quantity="one">Приглашение принял %d человек</item>
+        <item quantity="few">Приглашение приняло %d человека</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s дней</item>
+        <item quantity="one">%1$s день</item>
+        <item quantity="few">%1$s дня</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s часов</item>
+        <item quantity="one">%1$s час</item>
+        <item quantity="few">%1$s часа</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s мин.</item>
+        <item quantity="one">%1$s мин.</item>
+    </plurals>
 </resources>
