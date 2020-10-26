@@ -61,6 +61,92 @@
     <string name="audio_toast_file_invalid">Недопустимый аудиофайл</string>
     <string name="audio_toast_file_undownload">Аудиофайл загружен не полностью или отсутствует</string>
     <string name="audio_toast_network_is_not_available">Не удалось подключиться к сети</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_AirBrush">AirBrush</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_BallpointPen">BallpointPen</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Bamboo1">Bamboo1</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Bamboo1Old">Bamboo1Old</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Bamboo2">Bamboo2</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Calligraphy">Calligraphy</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ColorlessOil">ColorlessOil</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_CombKnife">CombKnife</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Creyon">Creyon</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_FeltPen">FeltPen</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Finger">Finger</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Fish">Fish</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Flowers">Flowers</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_HardEraser">HardEraser</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_HardPastel">HardPastel</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_HardPencil">HardPencil</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageAcrylic">Acrylic</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageAirBrush">AirBrush</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageFish">Fish</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageFlowers">Flowers</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageHardPastel">HardPastel</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageImpress">Impress</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageOil">Oil</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageOilPastel">OilPastel</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImagePen">Pen</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageRenoir">Renoir</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageSeurat">Seurat</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageVanGogh">VanGogh</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageWaterColor">WaterColor</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageWetCanvas">WetCanvas</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_ImageWetSponge">WetSponge</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_InkPen">InkPen</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_InkSpot">InkSpot</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Knife1">Knife1</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Knife2">Knife2</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Oil">Oil</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_OilPastel">OilPastel</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Pastel">Pastel</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Pen">Pen</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_SoftEraser">SoftEraser</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_SoftPencil">SoftPencil</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_Sponge">Sponge</string>
+<!-- ### FROM SOURCE -->
+    <string name="brush_WaterColor">WaterColor</string>
     <string name="btn_next">Далее</string>
     <string name="call_folder_name">Заметки вызовов</string>
     <string name="cancel_alarm_description">Отменить напоминание</string>
@@ -117,6 +203,50 @@
     <string name="dlg_title_use_privacy_password">Пароль защиты личных данных</string>
     <string name="dlg_unhide_message">Отмена скрытия…</string>
     <string name="done">Готово</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_action_enter_immersion_mode">Switch to immersive mode</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_action_exit_immersion_mode">Turned off immersive mode</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_action_hide_tool_panel">Hide tools</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_action_show_tool_panel">Show tools</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_brush_config_alpha">Stroke opacity</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_brush_config_width_level">Stroke width</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_brush_markpen">Marker</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_brush_pen">Pen</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_brush_pencil">Pencil</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_brush_watercolor">Watercolor pen</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_feature">Doodles</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_palette">Color palette</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_save_progress_text">Saving…</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_setting_show_grid_background">Doodle gridlines</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_setting_show_grid_background_desc">Show doodle gridlines</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_text_click_input_text">Tap to enter text</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_tool_eraser">Eraser</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_tool_eraser_element_mode">Stroke eraser</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_tool_eraser_pixel_mode">Pixel eraser</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_tool_picture">Add image</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_tool_text">Add text</string>
+<!-- ### FROM SOURCE -->
+    <string name="doodle_tool_text_hint">Tap to enter text</string>
     <string name="early_morning">Утро</string>
     <string name="edit_header_done_description">Готово</string>
     <string name="edit_header_lock_description">Скрытая заметка</string>
@@ -176,6 +306,22 @@
     <string name="hide_arrow_description">Скрыть</string>
     <string name="hint_cannot_view_hidden_note_content">Нельзя просмотреть содержимое скрытой заметки</string>
     <string name="hint_foler_name">Введите имя папки</string>
+<!-- ### FROM SOURCE -->
+    <string name="image_action_annotate">Add image description</string>
+<!-- ### FROM SOURCE -->
+    <string name="image_action_browse">View image</string>
+<!-- ### FROM SOURCE -->
+    <string name="image_action_delete">Delete image</string>
+<!-- ### FROM SOURCE -->
+    <string name="image_action_save_to_gallery">Save to Gallery</string>
+<!-- ### FROM SOURCE -->
+    <string name="image_action_zoom_in">Zoom in</string>
+<!-- ### FROM SOURCE -->
+    <string name="image_action_zoom_out">Zoom out</string>
+<!-- ### FROM SOURCE -->
+    <string name="image_annotation_edit_hint">Image description</string>
+<!-- ### FROM SOURCE -->
+    <string name="image_annotation_edit_length_warning">Image description can contain up to %d characters</string>
     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
     <string name="loading_text">Подождите…</string>
     <string name="login_sync">ОК</string>
@@ -343,8 +489,20 @@
     <string name="repeat_mode_week">Каждую неделю</string>
     <string name="repeat_mode_year">Каждый год</string>
     <string name="rich_text_bold_description">Жирный</string>
+<!-- ### FROM SOURCE -->
+    <string name="rich_text_bulleted_list_description">Checkbox</string>
     <string name="rich_text_center_description">По центру</string>
     <string name="rich_text_chooser_title">Выберите стиль</string>
+<!-- ### FROM SOURCE -->
+    <string name="rich_text_collapse_description">Hide text format editor</string>
+<!-- ### FROM SOURCE -->
+    <string name="rich_text_expand_description">Show text format editor</string>
+<!-- ### FROM SOURCE -->
+    <string name="rich_text_font_decrease_description">Smaller text</string>
+<!-- ### FROM SOURCE -->
+    <string name="rich_text_font_increase_description">Larger text</string>
+<!-- ### FROM SOURCE -->
+    <string name="rich_text_hightlight_description">Highlights</string>
     <string name="rich_text_italic_description">Курсив</string>
     <string name="rich_text_right_description">По правому краю</string>
     <string name="rich_text_size_description">Размер</string>
@@ -467,9 +625,17 @@
     <string name="theme_title_candy">Конфеты</string>
     <string name="theme_title_dark">Темная</string>
     <string name="theme_title_default">По умолчанию</string>
+<!-- ### FROM SOURCE -->
+    <string name="theme_title_geometry">Geometry</string>
     <string name="theme_title_green">Зеленая</string>
     <string name="theme_title_invitation">Приглашение</string>
+<!-- ### FROM SOURCE -->
+    <string name="theme_title_leaf">Leaves</string>
+<!-- ### FROM SOURCE -->
+    <string name="theme_title_nightsky">Night sky</string>
     <string name="theme_title_red">Красная</string>
+<!-- ### FROM SOURCE -->
+    <string name="theme_title_shadow">Shadows</string>
     <string name="theme_title_star">Звезды</string>
     <string name="theme_title_yellow">Желтая</string>
     <string name="theme_white_description">Белая</string>

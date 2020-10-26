@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">Всего %d треков</item>
+        <item quantity="one">Всего %d трек</item>
+        <item quantity="few">Всего %d трека</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Поиск обложек и текстов (%1$d/%2$d)</item>
+        <item quantity="one">Поиск обложек и текстов (%1$d/%2$d)</item>
+    </plurals>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Ваша подписка заканчивается через %d дней.
+Помочь вам продлить её?"</item>
+        <item quantity="one">"Ваша подписка заканчивается через %d день.
+Помочь вам продлить её?"</item>
+        <item quantity="few">"Ваша подписка заканчивается через %d дня.
+Помочь вам продлить её?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Вы можете загрузить %1$d бесплатных треков. Загрузить %2$s сейчас?</item>
+        <item quantity="one">Вы можете загрузить %1$d бесплатный трек. Загрузить %2$s сейчас?</item>
+        <item quantity="few">Вы можете загрузить %1$d бесплатных трека. Загрузить %2$s сейчас?</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Плеер остановится через %d минут</item>
+        <item quantity="one">Плеер остановится через %d минуту</item>
+        <item quantity="few">Плеер остановится через %d минуты</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Создано %1$s | всего %2$d треков</item>
+        <item quantity="one">Создано %1$s | всего %2$d трек</item>
+        <item quantity="few">Создано %1$s | всего %2$d трека</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d треков добавлено в плейлист</item>
+        <item quantity="one">%d трек добавлен в плейлист</item>
+        <item quantity="few">%d трека добавлено в плейлист</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d треков удалено из плейлиста</item>
+        <item quantity="one">%d трек удален из плейлиста</item>
+        <item quantity="few">%d трека удалено из плейлиста</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d похожих треков</item>
+        <item quantity="one">%d похожий трек</item>
+        <item quantity="few">%d похожих трека</item>
+    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Час назад</item>
     </plurals>
@@ -33,6 +85,11 @@
         <item quantity="other">%d комментариев</item>
         <item quantity="one">%d комментарий</item>
         <item quantity="few">%d комментария</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d дней назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дня назад</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Удалить %d объектов?</item>
@@ -101,57 +158,15 @@
         <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: %d</item>
     </plurals>
-    <plurals name="Nalbum_total_songs">
-        <item quantity="other">Всего %d треков</item>
-        <item quantity="one">Всего %d трек</item>
-        <item quantity="few">Всего %d трека</item>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Загрузка %1$d файлов</item>
+        <item quantity="one">Загрузка %1$d файла</item>
+        <item quantity="few">Загрузка %1$d файлов</item>
     </plurals>
-    <plurals name="Nassociate_songs">
-        <item quantity="other">Поиск обложек и текстов (%1$d/%2$d)</item>
-        <item quantity="one">Поиск обложек и текстов (%1$d/%2$d)</item>
-    </plurals>
-    <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Ваша подписка заканчивается через %d дней.
-Помочь вам продлить её?"</item>
-        <item quantity="one">"Ваша подписка заканчивается через %d день.
-Помочь вам продлить её?"</item>
-        <item quantity="few">"Ваша подписка заканчивается через %d дня.
-Помочь вам продлить её?"</item>
-    </plurals>
-    <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">Вы можете загрузить %1$d бесплатных треков. Загрузить %2$s сейчас?</item>
-        <item quantity="one">Вы можете загрузить %1$d бесплатный трек. Загрузить %2$s сейчас?</item>
-        <item quantity="few">Вы можете загрузить %1$d бесплатных трека. Загрузить %2$s сейчас?</item>
-    </plurals>
-    <plurals name="Nquit_warning">
-        <item quantity="other">Плеер остановится через %d минут</item>
-        <item quantity="one">Плеер остановится через %d минуту</item>
-        <item quantity="few">Плеер остановится через %d минуты</item>
-    </plurals>
-    <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Создано %1$s | всего %2$d треков</item>
-        <item quantity="one">Создано %1$s | всего %2$d трек</item>
-        <item quantity="few">Создано %1$s | всего %2$d трека</item>
-    </plurals>
-    <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d треков добавлено в плейлист</item>
-        <item quantity="one">%d трек добавлен в плейлист</item>
-        <item quantity="few">%d трека добавлено в плейлист</item>
-    </plurals>
-    <plurals name="Ntracks_count">
-        <item quantity="other">%d треков</item>
-        <item quantity="one">%d трек</item>
-        <item quantity="few">%d трека</item>
-    </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d треков удалено из плейлиста</item>
-        <item quantity="one">%d трек удален из плейлиста</item>
-        <item quantity="few">%d трека удалено из плейлиста</item>
-    </plurals>
-    <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d похожих треков</item>
-        <item quantity="one">%d похожий трек</item>
-        <item quantity="few">%d похожих трека</item>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Не удалось загрузить %1$d объектов</item>
+        <item quantity="one">Не удалось загрузить %1$d объект</item>
+        <item quantity="few">Не удалось загрузить %1$d объекта</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут назад</item>

@@ -146,14 +146,14 @@
         <item quantity="other">%d ч.</item>
         <item quantity="one">%d ч.</item>
     </plurals>
-    <plurals name="usage_state_hour_text">
-        <item quantity="other"> ч.</item>
-        <item quantity="one"> ч.</item>
-    </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d часов</item>
         <item quantity="one">%d час</item>
         <item quantity="few">%d часа</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other"> ч.</item>
+        <item quantity="one"> ч.</item>
     </plurals>
     <plurals name="usage_state_minute">
         <item quantity="other">%d мин.</item>

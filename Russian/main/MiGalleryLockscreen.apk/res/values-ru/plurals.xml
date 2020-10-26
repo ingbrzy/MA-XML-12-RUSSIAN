@@ -34,6 +34,15 @@
         <item quantity="other">%1$s обоев</item>
         <item quantity="one">%1$s обои</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s фото</item>
+        <item quantity="one">%s фото</item>
+    </plurals>
     <plurals name="time_day_ago">
         <item quantity="other">%d дней назад</item>
         <item quantity="one">%d день назад</item>
@@ -57,5 +66,5 @@
         <item quantity="one">%d изображение</item>
         <item quantity="few">%d изображения</item>
         <item quantity="many">%d изображений</item>
-    </plurals>    
+    </plurals>
 </resources>

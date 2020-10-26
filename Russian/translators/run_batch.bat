@@ -1,5 +1,9 @@
 cls
 ;
+@echo off
+del D:\Android\XMLCompare\report.txt
+@echo on
+;
 call routine.bat chiron Settings.apk 
 call routine.bat davinci Settings.apk 
 call routine.bat jason Settings.apk 

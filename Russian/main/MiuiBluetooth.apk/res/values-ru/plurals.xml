@@ -8,6 +8,10 @@
         <item quantity="other">Нажмите и удерживайте любую сенсорную область на наушниках в течение %1$d секунд</item>
         <item quantity="one">Нажмите и удерживайте любую сенсорную область на наушниках в течение %1$d секунды</item>
     </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Нажмите и удерживайте в течение %1$d секунд для перезагрузки</item>
+        <item quantity="one">Нажмите и удерживайте в течение %1$d секунды для перезагрузки</item>
+    </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Нажмите и удерживайте кнопку в течение %1$s секунд, когда устройство выключено</item>
         <item quantity="one">Нажмите и удерживайте кнопку в течение %1$s секунды, когда устройство выключено</item>
@@ -16,5 +20,5 @@
         <item quantity="other">Подключено %1$d устройств</item>
         <item quantity="one">Подключено %1$d устройство</item>
         <item quantity="few">Подключено %1$d устройства</item>
-    </plurals>	
+    </plurals>
 </resources>

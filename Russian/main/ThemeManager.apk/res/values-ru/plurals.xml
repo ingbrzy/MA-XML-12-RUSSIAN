@@ -87,6 +87,11 @@
         <item quantity="one">%1$d элемент</item>
         <item quantity="few">%1$d элемента</item>
     </plurals>
+    <plurals name="de_icon_count">
+        <item quantity="other">%1$d иконок</item>
+        <item quantity="one">%1$d иконка</item>
+        <item quantity="few">%1$d иконки</item>
+    </plurals>
     <plurals name="de_more_comment">
         <item quantity="other">Еще %1$d комментариев</item>
         <item quantity="one">Еще %1$d комментарий</item>
@@ -101,7 +106,7 @@
         <item quantity="other">%s наград</item>
         <item quantity="one">%s награда</item>
         <item quantity="few">%s награды</item>
-    </plurals>	
+    </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d часов назад</item>
         <item quantity="one">%d час назад</item>
@@ -118,6 +123,14 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="icon_batch_has_update_text">
+        <item quantity="other">Доступно обновление для %1$d иконок</item>
+        <item quantity="one">Доступно обновление для %1$d иконки</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">Обновление %1$d иконок…</item>
+        <item quantity="one">Обновление %1$d иконки…</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Через час</item>
@@ -155,7 +168,7 @@
         <item quantity="other">Загружено %1$d объектов</item>
         <item quantity="one">Загружен %1$d объект</item>
         <item quantity="few">Загружено %1$d объекта</item>
-    </plurals>	
+    </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f пунктов</item>
         <item quantity="one">%1$.1f пункт</item>
