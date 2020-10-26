@@ -1371,6 +1371,7 @@ d MMMM"</string>
     <string name="mr_dialog_transferable_header">Групповое воспроизведение</string>
     <string name="mr_system_route_name">Система</string>
     <string name="mr_user_route_category_name">Устройства</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Недоступно во время вызова</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="mtrl_picker_cancel">Отмена</string>
     <string name="mtrl_picker_confirm">Сохранить</string>
@@ -1425,6 +1426,7 @@ d MMMM"</string>
     <string name="notification_channel_tv_pip">Картинка в картинке</string>
     <string name="notification_channel_usb">USB</string>
     <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
+    <string name="notification_control_center">Уведомления и Центр управления</string>
     <string name="notification_default_channel_desc">У этого приложения нет категорий уведомлений</string>
     <string name="notification_done">Готово</string>
     <string name="notification_group_collapse_button_text">Свернуть</string>
@@ -1723,6 +1725,9 @@ d MMMM"</string>
     <string name="quick_settings_user_new_user">Новый пользователь</string>
     <string name="quick_settings_user_title">Пользователь</string>
     <string name="quick_settings_vibrate_label">Вибрация</string>
+    <string name="quick_settings_vowifi_label">Wi-Fi вызов</string>
+    <string name="quick_settings_vowifi_sim1_label">Wi-Fi вызов SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Wi-Fi вызов SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Ускорение</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Отмена</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">ОК</string>
