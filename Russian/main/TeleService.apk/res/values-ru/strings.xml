@@ -1074,6 +1074,10 @@
     <string name="fiveg_icon_type1">Тип значка NR :</string>
     <string name="fiveg_infos">Сведения о 5G</string>
     <string name="fiveg_network_config_type1">Тип конфигурации сети :</string>
+    <string name="fiveg_network_mode_default">Автоматически</string>
+    <string name="fiveg_network_mode_nsa">NSA режим</string>
+    <string name="fiveg_network_mode_sa_nsa">SA+NSA режим</string>
+    <string name="fiveg_network_mode_title">Выбор режима сети 5G</string>
     <string name="fiveg_network_title">Сети 5G</string>
     <string name="fiveg_plmn_info_list1">Информация PLMN :</string>
     <string name="fiveg_power_secret_code_tip">управление через приложение Безопасность &gt; Батарея &gt; Энергосбережение для 5G</string>
@@ -1085,6 +1089,7 @@
     <string name="fiveg_sa_switch_title_slot0">SIM 1 SA режим</string>
     <string name="fiveg_sa_switch_title_slot1">SIM 2 SA режим</string>
     <string name="fiveg_sa_switch_warning_toast">Перезагрузите устройство, чтобы изменения вступили в силу.</string>
+    <string name="fiveg_sa_vice_switch_title">Vice card SA режим</string>
     <string name="fiveg_signal_strength1">Сила сигнала 5G :</string>
     <string name="fiveg_switch_status1">Состояние переключателя 5G :</string>
     <string name="fiveg_switch_title">Сеть 5G</string>
@@ -1766,6 +1771,7 @@
     <string name="preference_auto_ip_summary_disable">Откл</string>
     <string name="preference_category_ringtone">Мелодия и вибрация</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена</string>
+    <string name="preference_countrycode_title">Код страны</string>
     <string name="preference_data_usage_summary">Установка тарифного плана для контроля трафика</string>
     <string name="preference_data_usage_title">Настройки трафика</string>
     <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
@@ -1865,6 +1871,7 @@
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM (автоматически)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G предпочтительно)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Предпочтительно 5G</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM (автоматически)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G предпочтительно)</string>
     <string name="preferred_network_type_pref_entries_auto">Автоматически</string>
     <string name="preferred_network_type_pref_entries_global">Глобальный</string>

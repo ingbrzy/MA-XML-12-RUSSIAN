@@ -856,10 +856,10 @@
     <string name="privacy_authorize_revoking">Отмена авторизации…</string>
     <string name="privacy_desc">Политика конфиденциальности (обязательно)</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-    <string name="privacy_request_desc"><Data>Mi Music необходимо собрать необходимую личную информацию, чтобы предоставить вам услуги онлайн-потоковой передачи. Вы можете узнать, как мы обрабатываем информацию, которую мы собираем, в нашем &lt;a href=\"%1$s\">политике конфиденциальности&lt;/a>. Вы можете в любой момент отозвать свое согласие с Политикой конфиденциальности Mi Music в Настройках.
-Прочтите и согласитесь с нашими &lt;a href=\"%2$s\">Пользовательским Соглашением&lt;/a> а также &lt;a href=\"%1$s\">политикой конфиденциальности&lt;/a> перед использованием Mi Music.
-Если вы не согласны использовать вышеупомянутые услуги, вы не сможете использовать некоторые функции этого приложения; однако его базовая функциональность по-прежнему будет вам доступна.</Data></string>
-    <string name="privacy_request_subtitle">Добро пожаловать в Mi Music! Это приложение предоставляет следующие возможности:
+    <string name="privacy_request_desc"><Data>Приложению Музыка требуется согласие на сбор необходимой личной информации для предоставления онлайн-сервисов потокового вещания. Вы можете узнать, как мы обрабатываем собранную информацию в &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Вы можете в любой момент отозвать свое согласие в настройках.
+Перед использованием приложения вы должны принять &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>.
+В случае отказа, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность по-прежнему будет вам доступна.</Data></string>
+    <string name="privacy_request_subtitle">Добро пожаловать в приложение Музыка! Это приложение предоставляет следующие возможности:
 
 - Локальный аудиоплеер
 
@@ -882,14 +882,14 @@
     <string name="remove">Убрать</string>
     <string name="remove_download">Удалить</string>
     <string name="remove_user_privacy_dialog_message">После отмены авторизации приложение Музыка прекратит сбор данных, и все связанные данные будут удалены с серверов. Это может сделать приложение практически непригодным для использования. Все равно отозвать авторизацию?</string>
-    <string name="remove_user_privacy_dialog_message_canuse">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Mi Music. Мы перестанем собирать вашу личную информацию. Уже собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Mi Music необходимо собрать необходимую личную информацию, чтобы предоставить вам онлайн-сервисы потоковой передачи. Ваш отзыв согласия с Политикой конфиденциальности будет рассматриваться как отказ принять вышеупомянутые онлайн-услуги на основе собранной личной информации.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Переключая ползунок, вы отзываете свое согласие с Политикой конфиденциальности приложения Музыка. Сбор вашей личной информации будет прекращен. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Для предоставления онлайн-сервисов потокового вещания, приложению требуется сбор необходимой личной информации. Отзыв согласия будет рассматриваться как отказ от использования вышеупомянутых онлайн-сервисов.</string>
     <string name="remove_user_privacy_dialog_title">Отмена авторизации</string>
     <string name="renew_dialog_title">"Оформите PRO
 Будьте счастливы"</string>
     <string name="repeat_all_notif">Повтор всех треков.</string>
     <string name="repeat_current_notif">Повтор текущего трека.</string>
     <string name="request_overlay_permission_desc">Разрешить приложению отображать плавающие окна.</string>
-    <string name="request_privacy_permission_title">Прочтите и примите условия ниже, чтобы получить доступ ко всем нашим услугам.</string>
+    <string name="request_privacy_permission_title">Прочтите и примите условия ниже для доступа ко всем сервисам.</string>
     <string name="request_share_info">Подождите…</string>
     <string name="request_subscription_status">Подождите…</string>
     <string name="restart_immediate">Перезапуск</string>
@@ -1036,7 +1036,7 @@
     <string name="storage_sd_card">SD карта</string>
     <string name="storage_usb">USB накопитель</string>
     <string name="streamloadingtext">Подключение к %s</string>
-    <string name="summary_command_mode">Включите, чтобы войти в командный режим</string>
+    <string name="summary_command_mode">Включите для входа в режим команд</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
@@ -1126,7 +1126,7 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="time_to_upgrade">Доступно обновление</string>
-    <string name="title_command_mode">Командный режим</string>
+    <string name="title_command_mode">Режим команд</string>
     <string name="title_online_fm_recommend">Популярные радиостанции</string>
     <string name="title_online_recommend">Популярные плейлисты</string>
     <string name="title_search_history">История поиска</string>
@@ -1146,9 +1146,9 @@
     <string name="toast_normal_songs_for_download">Качество загрузок: стандартное</string>
     <string name="toast_normal_songs_for_stream">Качество музыки: стандартное</string>
     <string name="toast_not_pro">Эта функция доступна только PRO подписчикам</string>
-    <string name="toast_playmode_loop_playback">Текущий плейлист зациклен</string>
+    <string name="toast_playmode_loop_playback">Повтор текущего плейлиста</string>
     <string name="toast_playmode_shuffle_play">Воспроизведение в случайном порядке</string>
-    <string name="toast_playmode_single_cycle">Текущая песня зациклена</string>
+    <string name="toast_playmode_single_cycle">Повтор текущей песни</string>
     <string name="toast_uhd_songs_for_download">Качество загрузок: высокое</string>
     <string name="toast_uhd_songs_for_stream">Качество музыки: высокое</string>
     <string name="toast_will_play_list_when_ad_pause">Плейлист начнется после рекламы</string>
