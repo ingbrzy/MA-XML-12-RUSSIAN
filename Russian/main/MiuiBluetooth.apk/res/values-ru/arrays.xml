@@ -17,6 +17,12 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item>Mi VR</item>
+        <item>Xiaomi Wear</item>
+    </string-array>
     <string-array name="ble_profile_mi_band">
         <item>Вибрировать при вызовах</item>
         <item>Вибрировать при получении сообщений</item>
@@ -221,6 +227,14 @@
         <item>Анимация 2x</item>
         <item>Анимация 5x</item>
         <item>Анимация 10x</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>

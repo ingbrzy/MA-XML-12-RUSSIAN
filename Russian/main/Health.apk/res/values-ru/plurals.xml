@@ -28,16 +28,20 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
-    </plurals>	
+    </plurals>
     <plurals name="birthday_format">
         <item quantity="other">" (%1$d лет)"</item>
         <item quantity="one">" (%1$d год)"</item>
         <item quantity="few">" (%1$d года)"</item>
-    </plurals>	
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d раз</item>
         <item quantity="one">%1$d-%2$d раз</item>
         <item quantity="few">%1$d-%2$d раза</item>
+    </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d ккал.</item>
+        <item quantity="one">%1$d ккал.</item>
     </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Старайтесь делать не меньше %1$d шагов в день</item>
@@ -48,6 +52,16 @@
         <item quantity="other">%1$d дней</item>
         <item quantity="one">%1$d день</item>
         <item quantity="few">%1$d дня</item>
+    </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Период: %1$d дней</item>
+        <item quantity="one">Период: %1$d день</item>
+        <item quantity="few">Период: %1$d дня</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Цикл: %1$d дней</item>
+        <item quantity="one">Цикл: %1$d день</item>
+        <item quantity="few">Цикл: %1$d дня</item>
     </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Выбрано %1$d объектов</item>
@@ -67,12 +81,24 @@
         <item quantity="other">%1$d записей</item>
         <item quantity="one">%1$d запись</item>
         <item quantity="few">%1$d записи</item>
-    </plurals>	
+    </plurals>
     <plurals name="dream_talk_segment_unit">
         <item quantity="other">" экземпляров"</item>
         <item quantity="one">" экземпляр"</item>
         <item quantity="few">" экземпляра"</item>
-    </plurals>	
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d ч.</item>
+        <item quantity="one">%1$d ч.</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+    </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Цель: %1$d шагов</item>
         <item quantity="one">Цель: %1$d шаг</item>
@@ -87,6 +113,11 @@
         <item quantity="other">%1$d шагов</item>
         <item quantity="one">%1$d шаг</item>
         <item quantity="few">%1$d шага</item>
+    </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d циклов</item>
+        <item quantity="one">%1$d цикл</item>
+        <item quantity="few">%1$d цикла</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
@@ -119,8 +150,18 @@
         <item quantity="one">%1$d день без взвешивания</item>
         <item quantity="few">%1$d дня без взвешивания</item>
     </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d метров</item>
+        <item quantity="one">%1$d метров</item>
+        <item quantity="few">%1$d метра</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Период, скорее всего, начнется через %1$d дней</item>
+        <item quantity="one">Период, скорее всего, начнется через %1$d дней</item>
+        <item quantity="one">Период, скорее всего, начнется через %1$d дня</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d-дневная менструация</item>
@@ -149,7 +190,7 @@
         <item quantity="other">%d минут назад</item>
         <item quantity="few">%d минуты назад</item>
         <item quantity="one">1 минуту назад</item>
-    </plurals>		
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d новых уведомлений</item>
         <item quantity="one">%d новое уведомление</item>
@@ -159,7 +200,7 @@
         <item quantity="other">%d минут назад</item>
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
-    </plurals>		
+    </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">Цель: %1$d часов</item>
         <item quantity="one">Цель: %1$d час</item>
@@ -257,6 +298,10 @@
         <item quantity="other">" дней"</item>
         <item quantity="one">" день"</item>
         <item quantity="few">" дня"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" циклов"</item>
+        <item quantity="one">" цикл"</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" раз"</item>
