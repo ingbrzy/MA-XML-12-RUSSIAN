@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <plurals name="a_hour_ago">
+    <plurals name="a_hour_ago">
         <item quantity="other">Час назад</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
@@ -28,7 +28,7 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
-    </plurals>	
+    </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">Удалить %1$s объектов?</item>
         <item quantity="one">Удалить %1$s объект?</item>
@@ -48,7 +48,7 @@
         <item quantity="other">%1$d дней до</item>
         <item quantity="one">%1$d день до</item>
         <item quantity="few">%1$d дня до</item>
-    </plurals>    
+    </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s папок</item>
         <item quantity="one">%1$s папка</item>
@@ -93,7 +93,7 @@
         <item quantity="other">%d минут назад</item>
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
-    </plurals>		
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">Осталось %d секунд</item>
         <item quantity="one">Осталась %d секунда</item>
@@ -108,7 +108,7 @@
         <item quantity="other">Отменено скрытие %1$s заметок</item>
         <item quantity="one">Отменено скрытие %1$s заметки</item>
         <item quantity="few">Отменено скрытие %1$s заметок</item>
-    </plurals>    
+    </plurals>
     <plurals name="todo_N_days_after">
         <item quantity="other">Через %1$d дней</item>
         <item quantity="one">Через %1$d день</item>
@@ -133,16 +133,15 @@
         <item quantity="other">Через %1$d дней</item>
         <item quantity="one">Через %1$d день</item>
         <item quantity="few">Через %1$d дня</item>
-    </plurals>    
+    </plurals>
     <plurals name="todo_terms">
         <item quantity="other">%1$s задач</item>
         <item quantity="one">%1$s задачу</item>
         <item quantity="few">%1$s задачи</item>
-    </plurals>	
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d символов</item>
         <item quantity="one">%d символ</item>
         <item quantity="few">%d символа</item>
     </plurals>
-
 </resources>

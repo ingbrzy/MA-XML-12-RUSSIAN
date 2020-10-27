@@ -58,7 +58,7 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-    </string-array>    
+    </string-array>
     <string-array name="contact_entries">
         <item>Имя</item>
         <item>Псевдоним</item>
@@ -77,7 +77,7 @@
         <item>Рекламные сообщения от %s</item>
         <item>Сервисные сообщения от %s</item>
         <item>Финансовые сообщения от %s</item>
-    </string-array>	
+    </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Максимум</item>
         <item>2 дня</item>
@@ -94,6 +94,35 @@
         <item>Предложенная служба сообщений</item>
         <item>SMS, MMS</item>
         <item>RCS чат, RCS передача файлов</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Всегда</item>
@@ -128,9 +157,9 @@
         <item>Отмена</item>
     </string-array>
     <string-array name="recv_type">
-        <item>接收并通知</item>
-        <item>只接收</item>
-        <item>拒收</item>
+        <item>Получать и уведомлять</item>
+        <item>Только получать</item>
+        <item>Отклонять</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>Через MMS</item>

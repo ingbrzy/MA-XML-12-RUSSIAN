@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
     <string-array name="editing_mode_entries">
         <item>Обои</item>
         <item>Виджеты</item>
@@ -40,6 +36,11 @@
         <item>По умолчанию</item>
         <item>Классический</item>
     </string-array>
+    <string-array name="minus_screen_entries">
+        <item>Нет</item>
+        <item>Ассистент</item>
+        <item>Google</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Слайд</item>
         <item>Наложение</item>
@@ -55,9 +56,4 @@
         <item>Выключена (обои слева)</item>
         <item>Выключена (обои справа)</item>
     </string-array>
-    <string-array name="minus_screen_entries">
-        <item>Нет</item>
-        <item>Ассистент</item>
-        <item>Google</item>
-    </string-array>    
 </resources>

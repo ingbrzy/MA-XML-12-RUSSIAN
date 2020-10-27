@@ -171,6 +171,10 @@
         <item quantity="few">%1$d минуты</item>
         <item quantity="many">%1$d минут</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Удалить %d APK</item>
+        <item quantity="one">Удалить %d APK</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Загрузок: %1$d</item>
         <item quantity="one">Загрузок: %1$d</item>
