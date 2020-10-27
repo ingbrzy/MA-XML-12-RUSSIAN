@@ -3591,8 +3591,8 @@
     <string name="locale_not_translated">Может быть недоступен в некоторых приложениях</string>
     <string name="locale_remove_menu">Удалить</string>
     <string name="locale_settings">Регион</string>
-    <string name="location_access_summary">Разрешить приложениям доступ к местоположению</string>
-    <string name="location_access_title">Доступ к местоположению</string>
+    <string name="location_access_summary">Разрешить приложениям запрашивать доступ к местоположению</string>
+    <string name="location_access_title">Местоположение</string>
     <string name="location_agps_apn_choose_dialog_title">Тип APN</string>
     <string name="location_agps_apn_summary">Выберите тип APN</string>
     <string name="location_agps_apn_type">Тип APN</string>
@@ -3619,7 +3619,7 @@
     <string name="location_agps_supl_server_addr">Сервер</string>
     <string name="location_agps_supl_server_port">Порт</string>
     <string name="location_agps_supl_settings">Настройки SUPL</string>
-    <string name="location_app_level_permissions">Разрешения для приложений</string>
+    <string name="location_app_level_permissions">Управление доступом</string>
     <string name="location_app_permission_summary_location_off">Доступ к местоположению отключен</string>
     <string name="location_category_location_services">Службы определения местоположения</string>
     <string name="location_category_recent_location_access">Недавний доступ</string>
@@ -5361,7 +5361,7 @@ UT-интерфейс: %5$s"</string>
     <string name="receiver_clean">Очистить память</string>
     <string name="recent_app_category_title">Недавно открытые приложения</string>
     <string name="recent_apps_label">Недавние приложения</string>
-    <string name="recent_location_requests_summary">Настройка доступа к местоположению для приложений</string>
+    <string name="recent_location_requests_summary">Управление доступом приложений к местоположению</string>
     <string name="recent_location_requests_title">Доступ к местоположению</string>
     <string name="recent_notifications">Недавно отправленные</string>
     <string name="recent_notifications_see_all_title">За последние 7 дней</string>
