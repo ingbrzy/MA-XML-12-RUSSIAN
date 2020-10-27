@@ -64,11 +64,35 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-    </string-array>    
+    </string-array>
     <string-array name="app_commute_tab_array">
         <item>Автомобиль</item>
         <item>Общественный транспорт</item>
         <item>Такси</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>Очень чистый воздух</item>
+        <item>Чистый воздух</item>
+        <item>Легкое загрязнение</item>
+        <item>Умеренное загрязнение</item>
+        <item>Серьезное загрязнение</item>
+        <item>Экстремальное загрязнение</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s загрязнение</item>
+        <item>%1$s загрязнение</item>
+        <item>%1$s загрязнение</item>
+        <item>%1$s загрязнение</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>Воздух %1$s</item>
+        <item>Воздух  %1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
     </string-array>
     <string-array name="base_day_time_space">
         <item>Ночь</item>
@@ -78,6 +102,13 @@
         <item>День</item>
         <item>Вечер</item>
         <item>Вечер</item>
+    </string-array>
+    <string-array name="commute_transit_strategy">
+        <item>Умная рекомендация</item>
+        <item>Минимальное время</item>
+        <item>Меньше пересадок</item>
+        <item>Меньше ходьбы</item>
+        <item>Без метро</item>
     </string-array>
     <string-array name="day_time_space">
         <item>Ночь</item>

@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="a_hour_ago">
+    <plurals name="a_hour_ago">
         <item quantity="other">Час назад</item>
      </plurals>
-     <plurals name="abbrev_a_hour_ago">
+    <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Час назад</item>
      </plurals>
-     <plurals name="abbrev_half_hour_ago">
+    <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Полчаса назад</item>
      </plurals>
-     <plurals name="abbrev_in_a_hour">
+    <plurals name="abbrev_in_a_hour">
         <item quantity="other">Через час</item>
      </plurals>
-     <plurals name="abbrev_in_half_hour">
+    <plurals name="abbrev_in_half_hour">
         <item quantity="other">Через полчаса</item>
      </plurals>
-     <plurals name="abbrev_in_less_than_one_minute">
+    <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Сейчас</item>
      </plurals>
-     <plurals name="abbrev_less_than_one_minute_ago">
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Через %d мин.</item>
+        <item quantity="one">Через 1 мин.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Только что</item>
      </plurals>
-     <plurals name="abbrev_num_minutes_ago">
+    <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
      </plurals>
@@ -50,6 +54,10 @@
         <item quantity="one">Начнется через %1$d минуту</item>
         <item quantity="few">Начнется через %1$d минуты</item>
     </plurals>
+    <plurals name="app_course_to_start">
+        <item quantity="other">Начнется через %1$d мин.</item>
+        <item quantity="one">Начнется через %1$d мин.</item>
+    </plurals>
     <plurals name="app_express_content_title_1">
         <item quantity="other">%d посылок уже в пути</item>
         <item quantity="one">%d посылка уже в пути</item>
@@ -64,7 +72,7 @@
         <item quantity="other">%1$d устройств</item>
         <item quantity="one">%1$d устройство</item>
         <item quantity="few">%1$d устройства</item>
-    </plurals>	
+    </plurals>
     <plurals name="assistant_day">
         <item quantity="other">Через %d дней</item>
         <item quantity="one">Через %d день</item>
@@ -79,36 +87,51 @@
         <item quantity="other">%d минут назад</item>
         <item quantity="one">%d минуту назад</item>
         <item quantity="few">%d минуты назад</item>
-    </plurals>	
+    </plurals>
+    <plurals name="book_start_interval">
+        <item quantity="other">Через %d дней</item>
+        <item quantity="one">Через %d день</item>
+        <item quantity="few">Через %d дня</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d д. назад</item>
+    </plurals>
+    <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Удалить %s элементов?</item>
+        <item quantity="one">Удалить %s элемент?</item>
+        <item quantity="few">Удалить %s элемента?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">Выбрано %s элементов</item>
+        <item quantity="one">Выбран %s элемент</item>
+        <item quantity="few">Выбрано %s элемента</item>
     </plurals>
     <plurals name="express_setting_phone_binded_info">
         <item quantity="other">Добавлено %d телефонных номеров</item>
         <item quantity="one">Добавлен %d телефонный номер</item>
         <item quantity="few">Добавлено %d телефонных номера</item>
-    </plurals>    
-     <plurals name="half_hour_ago">
+    </plurals>
+    <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
-     </plurals>	
+     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d ч. назад</item>
     </plurals>
-     <plurals name="in_a_hour">
+    <plurals name="in_a_hour">
         <item quantity="other">Через час</item>
      </plurals>
-     <plurals name="in_half_hour">
+    <plurals name="in_half_hour">
         <item quantity="other">Через полчаса</item>
      </plurals>
-     <plurals name="in_less_than_one_minute">
+    <plurals name="in_less_than_one_minute">
         <item quantity="other">Сейчас</item>
      </plurals>
-     <plurals name="in_num_minutes">
+    <plurals name="in_num_minutes">
         <item quantity="other">через %d минут</item>
         <item quantity="one">через 1 минуту</item>
         <item quantity="few">через %d минуты</item>
      </plurals>
-     <plurals name="less_than_one_minute_ago">
+    <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
      </plurals>
     <plurals name="main_delete_desc">
@@ -133,7 +156,7 @@
         <item quantity="other">%d минут назад</item>
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
-    </plurals>	
+    </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Удалить %s записей из оплаты?</item>
         <item quantity="one">Удалить %s запись из оплаты?</item>

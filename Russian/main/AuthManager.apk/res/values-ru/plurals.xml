@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Приложению %1$s %2$d раз был автоматически разрешен доступ к буферу обмена</item>
+        <item quantity="one">Приложению %1$s %2$d раз был автоматически разрешен доступ к буферу обмена</item>
+        <item quantity="few">Приложению %1$s %2$d раза был автоматически разрешен доступ к буферу обмена</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">Приложение %1$s %2$d раз обращалось к буферу обмена</item>
+        <item quantity="one">Приложение %1$s %2$d раз обращалось к буферу обмена</item>
+        <item quantity="few">Приложение %1$s %2$d раза обращалось к буферу обмена</item>
+    </plurals>
     <plurals name="days">
         <item quantity="other">%s дней</item>
         <item quantity="one">%s день</item>
         <item quantity="few">%s дня</item>
-        <item quantity="many">%s дней</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%s часов</item>
         <item quantity="one">%s час</item>
         <item quantity="few">%s часа</item>
-        <item quantity="many">%s часов</item>
     </plurals>
     <plurals name="minutes">
         <item quantity="other">%s мин.</item>
         <item quantity="one">%s мин.</item>
     </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">Вы уже %1$d раз разрешили приложению %2$s доступ к буферу обмена. Всегда разрешать %3$s доступ к буферу обмена?</item>
+        <item quantity="one">Вы уже %1$d раз разрешили приложению %2$s доступ к буферу обмена. Всегда разрешать %3$s доступ к буферу обмена?</item>
+        <item quantity="few">Вы уже %1$d раза разрешили приложению %2$s доступ к буферу обмена. Всегда разрешать %3$s доступ к буферу обмена?</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">Вы уже %1$d раз ограничили приложению %2$s доступ к буферу обмена. Ограничить %3$s доступ к буферу обмена навсегда?</item>
+        <item quantity="one">Вы уже %1$d раз ограничили приложению %2$s доступ к буферу обмена. Ограничить %3$s доступ к буферу обмена навсегда?</item>
+        <item quantity="few">Вы уже %1$d раза ограничили приложению %2$s доступ к буферу обмена. Ограничить %3$s доступ к буферу обмена навсегда?</item>
+    </plurals>
     <plurals name="seconds">
         <item quantity="other">%s сек.</item>
         <item quantity="one">%s сек.</item>
-    </plurals>	
+    </plurals>
 </resources>
