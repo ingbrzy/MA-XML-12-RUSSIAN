@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">Срок хранения %1$d видео в чатах WeChat истекает. Выполнить резервное копирование на внутреннюю память устройства?</item>
+        <item quantity="zero">Срок хранения %1$d видео в чатах WeChat истекает. Выполнить резервное копирование на внутреннюю память устройства?</item>
+        <item quantity="one">Срок хранения %1$d видео в чатах WeChat истекает. Выполнить резервное копирование на внутреннюю память устройства?</item>
+        <item quantity="two">Срок хранения %1$d видео в чатах WeChat истекает. Выполнить резервное копирование на внутреннюю память устройства?</item>
+        <item quantity="few">Срок хранения %1$d видео в чатах WeChat истекает. Выполнить резервное копирование на внутреннюю память устройства?</item>
+        <item quantity="many">Срок хранения %1$d видео в чатах WeChat истекает. Выполнить резервное копирование на внутреннюю память устройства?</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Проверка %1$s дней подряд, продолжайте!</item>
+        <item quantity="one">Проверка %1$s день подряд, продолжайте!</item>
+        <item quantity="few">Проверка %1$s дня подряд, продолжайте!</item>
+    </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">Проверка %1$s дней подряд</item>
+        <item quantity="one">Проверка %1$s день подряд</item>
+        <item quantity="few">Проверка %1$s дня подряд</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">Вы получили &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> очков</item>
+        <item quantity="one">Вы получили &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> очко</item>
+        <item quantity="few">Вы получили &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> очка</item>
+    </plurals>
     <plurals name="days_ago">
     <item quantity="other">%1$d дней назад</item>
     <item quantity="one">%1$d день назад</item>
@@ -45,6 +68,11 @@
     <item quantity="one">Найден %1$d новый файл</item>
     <item quantity="few">Найдено %1$d новых файла</item>
   </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s драг. камней</item>
+        <item quantity="one">%1$s драг. камень</item>
+        <item quantity="few">%1$s драг. камня</item>
+    </plurals>
     <plurals name="hours_ago">
     <item quantity="other">%1$d часов назад</item>
     <item quantity="one">%1$d час назад</item>
@@ -60,6 +88,11 @@
     <item quantity="one">%1$d минуту назад</item>
     <item quantity="few">%1$d минуты назад</item>
   </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Соберите еще &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камней, чтобы принять участие в розыгрыше.</item>
+        <item quantity="one">Соберите еще &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камень, чтобы принять участие в розыгрыше.</item>
+        <item quantity="few">Соберите еще &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камня, чтобы принять участие в розыгрыше.</item>
+    </plurals>
     <plurals name="numSelectedFile">
     <item quantity="other">Выбрано: %1$d</item>
     <item quantity="one">Выбрано: %1$d</item>
@@ -69,7 +102,6 @@
     <item quantity="one">%1$s комментарий</item>
     <item quantity="few">%1$s комментария</item>
   </plurals>
-<!-- ### FROM SOURCE -->
     <plurals name="original_user_days">
         <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> дней</item>
         <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> день</item>
