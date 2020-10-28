@@ -44,6 +44,7 @@
     <string name="agree_monitor_use">Для проверки внимания во время онлайн-занятий. Все личные данные будут сохранены локально</string>
     <string name="agree_storage_permission">Для доступа к фото и файлам на устройстве</string>
     <string name="always">Всегда</string>
+    <string name="androidx_camera_default_config_provider" />
     <string name="app_description_content">Приложение позволяет сканировать коды, визитные карточки и документы. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="app_description_title">О приложении</string>
     <string name="app_details">Информация о приложении:</string>
@@ -134,6 +135,7 @@
     <string name="document_grayscale">Монохром</string>
     <string name="document_grayscale_tip_msg">Преобразование в монохром…</string>
     <string name="document_list">Документы</string>
+    <string name="document_list_is_empty">Список документов пуст</string>
     <string name="document_list_rename">Введите имя</string>
     <string name="document_ocr">OCR</string>
     <string name="document_ocr_fail">Не удалось распознать текст. Поверните изображение так, чтобы оно соответствовало ориентации вашего устройства, затем повторите попытку.</string>
@@ -141,6 +143,7 @@
     <string name="document_ocr_result_save">Сохранить</string>
     <string name="document_ocr_result_title">Фото документа</string>
     <string name="document_ocr_tip_msg">Распознавание…</string>
+    <string name="document_read">Прочитать</string>
     <string name="document_recognize_fail_tip">Не удалось распознать документ</string>
     <string name="document_recognize_null_tip">Не удалось распознать документ</string>
     <string name="document_recognize_text">Распознать текст</string>
@@ -148,7 +151,9 @@
     <string name="document_rectify_tip_msg">Обрезка…</string>
     <string name="document_region">Настроить</string>
     <string name="document_rename">Переименовать</string>
+    <string name="document_rnext_step">Далее</string>
     <string name="document_save_succeed_tip">Документ сохранен в %1$s</string>
+    <string name="document_save_text">Сохранить</string>
     <string name="document_spin">Поворот</string>
     <string name="document_take_a_single">Одна страница</string>
     <string name="document_take_multiple_shots">Несколько страниц</string>
@@ -163,6 +168,7 @@
     <string name="drag_crop_to_business_card">Двигайте для обрезки</string>
     <string name="duplicate_file_name_please_rename">Файл с таким именем уже существует</string>
     <string name="email">"Email: "</string>
+    <string name="emails">Email</string>
     <string name="error_camera_disabled">В доступе к камере отказано по соображениям безопасности</string>
     <string name="error_cannot_connect_camera">Не удалось подключиться к камере</string>
     <string name="error_empty_result">Ничего не найдено</string>
@@ -184,6 +190,8 @@
     <string name="feedback_phone">Контактная информация (необязательно)</string>
     <string name="feedback_title">Обратная связь</string>
     <string name="filename_cannot_beempty">Имя файла не может быть пустым</string>
+    <string name="flash_close">close</string>
+    <string name="flash_open">open</string>
     <string name="flight_mode_connecting_to_wifi">Включите Wi-Fi вручную, когда включен Режим полета</string>
     <string name="food_identification_fail_tips">Сканируйте фрукты, овощи и другую еду. Функция также работает с изображениями.</string>
     <string name="food_identification_tip_msg">Распознавание…</string>
@@ -219,6 +227,7 @@
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
     <string name="importFailed">Не удалось импортировать</string>
     <string name="import_contact">Импортировать контакт</string>
+    <string name="import_picture">Импортировать</string>
     <string name="impunity_declaration_content">Приложению требуются разрешения на доступ к камере и съемку фото, подключение к интернету. Используя это приложение, вы принимаете нашу &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Политику конфиденциальности&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="impunity_declaration_negative_text">Выход</string>
     <string name="impunity_declaration_title">Политика конфиденциальности</string>
@@ -397,6 +406,7 @@
     <string name="see_details">Нажмите для информации</string>
     <string name="select_dialog_confirm">OK</string>
     <string name="select_from_album">Галерея</string>
+    <string name="send_email">Отправить email</string>
     <string name="send_mail">Отправить Email</string>
     <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">Всегда спрашивать</string>
@@ -421,6 +431,7 @@
     <string name="store_module_title">Магазин</string>
     <string name="store_no_date">Не удалось идентифицировать магазин</string>
     <string name="store_title">Сканирование знака магазина</string>
+    <string name="study_more">Еще</string>
     <string name="study_rotate_picture">Обработка изображения…</string>
     <string name="study_scan_result">Результат</string>
     <string name="study_searching">Поиск результатов…</string>
@@ -470,6 +481,16 @@
     <string name="translation_type_chat">Чат</string>
     <string name="translation_type_sentence">Фраза</string>
     <string name="translation_type_word">Слово</string>
+    <string name="translation_type_words">Перевести слова</string>
+    <string name="ucrop_crop">Обрезать</string>
+    <string name="ucrop_error_input_data_is_absent">Необходимо указать входной и выходной Uri</string>
+    <string name="ucrop_gif_tag">gif</string>
+    <string name="ucrop_label_edit_photo">Редактирование фото</string>
+    <string name="ucrop_label_original">Оригинал</string>
+    <string name="ucrop_menu_crop">Обрезка</string>
+    <string name="ucrop_mutate_exception_hint">Переопределите ресурс цвета (ucrop_color_toolbar_widget) в своем приложении, чтобы он работал на pre-L устройствах</string>
+    <string name="ucrop_rotate">Поворот</string>
+    <string name="ucrop_scale">Масштаб</string>
     <string name="uninstall_prompt">Если во время установки возникают проблемы, перейдите в Настройки &gt; Приложения &gt; Все приложения &gt; Сканер, нажмите \"Удалить\" и попробуйте установить приложение еще раз.</string>
     <string name="url_is_phish">Подозрение на фишинговый сайт</string>
     <string name="url_is_safety">Этот сайт безопасен</string>

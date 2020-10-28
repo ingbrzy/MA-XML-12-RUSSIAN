@@ -30,8 +30,12 @@
     <string name="abnormal">Аномальный</string>
     <string name="above_speed_km_per_hour">≥%d км/ч</string>
     <string name="above_speed_km_per_hour_1">≥%.1f км/ч</string>
+    <string name="accessibility_add_datasource">Нажмите, чтобы добавить %1$s</string>
+    <string name="accessibility_sync_closed_device">Синхронизация с %1$s отключена</string>
+    <string name="accessibility_unbound_device">Устройство %1$s больше не связано с вашей учетной записью</string>
     <string name="achieve_goals">Цель достигнута</string>
     <string name="achieve_stand_goals">Достигните цели дня</string>
+    <string name="acting">Сила</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activity_title_basic_info">Основная информация</string>
     <string name="activity_title_exercise">Активность</string>
@@ -50,9 +54,12 @@
 Приложение Здоровье поддерживает устройства, ранее добавленные в приложение Mi Home. Если не удается найти устройство, которое хотите добавить, сначала проверьте, добавлено ли оно в Mi Home."</string>
     <string name="add_data_source_login_and_open_sync">Войдите в Mi Аккаунт и включите синхронизацию с облаком для возможности добавлять источники данных.</string>
     <string name="add_data_source_open_sync">Включите синхронизацию с облаком для возможности добавлять источники данных.</string>
+    <string name="add_data_source_process">Как добавить источник данных</string>
     <string name="add_data_source_support_step">Это устройство не генерирует данные о количестве шагов. Попробуйте другое.</string>
+    <string name="add_data_type_datasource">Добавить источник данных (%1$s)</string>
     <string name="add_model_card">"Нажмите на кнопку в левом верхнем углу
 чтобы добавить карточки"</string>
+    <string name="add_owned_device">Доступные устройства</string>
     <string name="add_record">Добавить</string>
     <string name="added_data_source">Добавленные источники</string>
     <string name="afternoon">PM</string>
@@ -80,9 +87,12 @@
     <string name="avg_altitude">Средн. высота</string>
     <string name="avg_day">Средн.</string>
     <string name="avg_finish_stand">Среднее время активности</string>
+    <string name="avg_freq">Средняя частота</string>
     <string name="avg_heart_rate">Средний пульс</string>
     <string name="avg_high_pressure">Средн. систолическое (верхнее)</string>
+    <string name="avg_jump">Средняя высота</string>
     <string name="avg_low_pressure">Средн. диастолическое (нижнее)</string>
+    <string name="avg_pace">Средний темп</string>
     <string name="avg_steps">Шагов в день</string>
     <string name="awake_count">Пробуждения</string>
     <string name="awake_count_abnormal_description">Частые пробуждения.</string>
@@ -153,12 +163,14 @@
     <string name="breaststroke">Брасс</string>
     <string name="butterfly_stroke">Баттерфляй</string>
     <string name="button_record_menstruation">Запись</string>
+    <string name="buy">Купить</string>
     <string name="camera_permission_desc">Для установки фото профиля</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_edit">Отмена</string>
     <string name="cancel_mark_end">Менструация еще не закончилась</string>
     <string name="cancel_mark_start">Удалить запись</string>
     <string name="card_on_using">Добавлено</string>
+    <string name="centimeter_format">%1$d см</string>
     <string name="certain">ОК</string>
     <string name="channel_desc_background">Обеспечение работы в фоновом режиме</string>
     <string name="channel_id_background_service">Фоновые сервисы</string>
@@ -218,6 +230,7 @@
 Вы всегда можете позже удалить сохраненные данные в меню Источники данных."</string>
     <string name="data_safety_tip_title">Удаление данных</string>
     <string name="data_source">Источники данных</string>
+    <string name="data_source_cannot_be_synchronized">Не удалось синхронизировать данные</string>
     <string name="data_source_data_updating">Обновление данных…</string>
     <string name="data_source_list_description">Приложение Здоровье получает данные о состоянии здоровья (%1$s) из этих источников. Если данные дублируются из нескольких источников, будут отображаться данные, которые появляются первыми.</string>
     <string name="data_source_manage">Управление источниками данных</string>
@@ -290,6 +303,7 @@
     <string name="device_description">Эти устройства связаны с Mi Аккаунтом %1$s. Если не удается найти нужное устройство, добавьте сначала его в Mi Fit или Xiaomi Wear.</string>
     <string name="device_list_origin_description">Эти устройства связаны с Mi Аккаунтом %1$s. Если не удается найти нужное устройство, убедитесь, что оно уже добавлено в соответствующее приложение.</string>
     <string name="device_off_sync_description">Данные с этого устройства, не будут синхронизированы</string>
+    <string name="device_unbound_from_account">Это устройство больше не связано с вашим аккаунтом</string>
     <string name="diagnosis_log_send_failed">Ошибка отправки журнала диагностики.</string>
     <string name="diagnosis_log_sent_format">"Журнал диагностики отправлен.
 ID:%s
@@ -361,6 +375,7 @@ ID:%s
     <string name="edit_basic_info_desc">Основная информация</string>
     <string name="edit_immediately">Введите информацию</string>
     <string name="edit_sleep_record_button">Редактирование</string>
+    <string name="elliptical_machine">Эллипсоид</string>
     <string name="emergency_contact">Экстренный контакт</string>
     <string name="empty" />
     <string name="empty_data">-</string>
@@ -368,6 +383,7 @@ ID:%s
     <string name="enable_go_now">Включить</string>
     <string name="enable_not_now">Не сейчас</string>
     <string name="enable_right_now">Отключить</string>
+    <string name="engrgy_format">%1$d Вт</string>
     <string name="enough">Норма</string>
     <string name="enter_mi_health">Открыть приложение Здоровье</string>
     <string name="equivalent_exercise">≈%1$s км ходьбы (%2$s Кал)</string>
@@ -451,6 +467,7 @@ ID:%s
     <string name="fewer">Мало</string>
     <string name="finish">Завершить</string>
     <string name="finish_stand">Завершить</string>
+    <string name="finish_stand2">Завершить</string>
     <string name="finished_rate">Завершено %1$d%%</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -485,10 +502,12 @@ ID:%s
     <string name="go_setting">Настройки</string>
     <string name="go_to_close">Закончить</string>
     <string name="go_to_open">Включить</string>
+    <string name="go_to_upgrade">Обновить</string>
     <string name="goal_daily_exercise">Цель активности</string>
     <string name="goal_sleep_time">Цель для сна</string>
     <string name="goal_title">Оставайтесь здоровыми</string>
     <string name="goto_setting_auto_start">Настройки</string>
+    <string name="group">Циклы</string>
     <string name="guide_data_cloud_sync_tip">Можно отключить синхронизацию в Настройки &gt; Облачные сервисы.</string>
     <string name="guide_exit">Выход</string>
     <string name="guide_exit_description">Мы не предоставляем услуги людям моложе 14 лет. Убедитесь, что вы используете это устройство с разрешения вашего законного опекуна. Нажмите кнопку ниже, чтобы выйти из приложения.</string>
@@ -510,11 +529,14 @@ ID:%s
     <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="health_setting">Настройки</string>
     <string name="heart_rate">ЧСС</string>
+    <string name="height">Высота</string>
     <string name="high">Избыток</string>
     <string name="high2">Высокое</string>
+    <string name="high_freq">Наибольшая частота</string>
     <string name="high_intensity">Высокая</string>
     <string name="high_intensity_description">Частое дыхание, можно говорить прерывистыми фразами</string>
     <string name="high_pressure">Систолическое (верхнее)</string>
+    <string name="highest_jump">Наивысший прыжок</string>
     <string name="history_statistics">Статистика</string>
     <string name="home_page_card_setting">Карточки</string>
     <string name="home_tip_open_data_sync">Включить синхронизацию с облаком</string>
@@ -524,11 +546,16 @@ ID:%s
     <string name="hour"> ч.</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
-    <string name="hr_choose_detect_state">В каком вы состоянии сейчас?</string>
+    <string name="hr_camera_permission_desc">Получение частоты изменения света, проходящего через палец с помощью камеры, для определения ЧСС</string>
+    <string name="hr_choose_detect_state">Укажите состояние при измерении</string>
+    <string name="hr_cover_to_red">"Полностью закройте камеру пальцем.
+Подождите, пока круг не станет красным."</string>
     <string name="hr_detect">Измерение ЧСС</string>
     <string name="hr_detect_desc">При измерениях вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС будет определен на основе анализа повторяющихся паттернов в кровотоке.</string>
     <string name="hr_detect_finished">Готово!</string>
-    <string name="hr_detect_principle_desc_1">Вы можете измерить ЧСС, просто прикрыв пальцем вспышку и камеру телефона. Вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС будет определен на основе анализа повторяющихся паттернов в кровотоке.</string>
+    <string name="hr_detect_fps_jitter">Не удалось измерить пульс. Попробуйте снова.</string>
+    <string name="hr_detect_paused">Приостановлено</string>
+    <string name="hr_detect_principle_desc_1">Вы можете измерить ЧСС, прикрыв пальцем вспышку и камеру телефона. Вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС будет определен на основе анализа повторяющихся паттернов в кровотоке.</string>
     <string name="hr_detect_principle_desc_2">Многочисленные тесты показывают, что погрешность этого метода составляет около 2 ударов в минуту.</string>
     <string name="hr_detect_principle_desc_3">Обратите внимание, что такие факторы, как температура, оттенок кожи или движение, могут привести к неточностям в измерении. Выполните несколько измерений, чтобы убедиться, что текущие показания точны. Представленные результаты предназначены только для справки, данный метод измерения не может заменить профессиональное медицинское оборудование.</string>
     <string name="hr_detect_principle_title">Измерение ЧСС</string>
@@ -552,6 +579,9 @@ ID:%s
 одним пальцем"</string>
     <string name="hr_pre_detect_finger">Проверка…</string>
     <string name="hr_pre_detect_finger_desc">Проверка, полностью ли закрыты вспышка и камера. Не шевелите пальцем.</string>
+    <string name="hr_re_detect_title">Начать сначала</string>
+    <string name="hr_report_active_desc">Измерение ЧСС сразу после тренировки может помочь вам скорректировать свои привычки к тренировкам, поскольку тренировки разной интенсивности имеют разные оптимальные зоны частоты пульса. Слишком высокая ЧСС может нанести вред вашему здоровью, привести к головокружению, стеснению в груди или другим рискам. Низкая ЧСС может быть признаком низкой эффективности конкретной тренировки.</string>
+    <string name="hr_report_common_desc">Нормальная ЧСС колеблется от 60 до 100 ударов в минуту у взрослых. ЧСС ниже 60 ударов в минуту является признаком брадикардии, ЧСС выше 100 ударов в минуту является признаком тахикардии.</string>
     <string name="hr_see_report">Посмотреть отчет</string>
     <string name="hr_start_detect">Начать</string>
     <string name="hr_state">Состояние ЧСС</string>
@@ -561,6 +591,11 @@ ID:%s
     <string name="hr_state_regular">Обычное состояние</string>
     <string name="hr_state_resting">Отдых</string>
     <string name="hr_state_slow">Низкая</string>
+    <string name="hr_strength_high">Высокая</string>
+    <string name="hr_strength_higher">Самая высокая</string>
+    <string name="hr_strength_lower_mid">Низкая</string>
+    <string name="hr_strength_lowest">Самая низкая</string>
+    <string name="hr_strength_mid">Средняя</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="improve_step_target">Вы легко достигаете цели. Повысьте планку.</string>
     <string name="improve_your_health_default_tips">Тренируйтесь и высыпайтесь, чтобы оставаться здоровым.</string>
@@ -572,7 +607,10 @@ ID:%s
     <string name="inquire_recover_data_subtitle">Похоже, имеются данные о состоянии здоровья, связаные с Вашим Mi Аккаунтом (%1$s). Включить синхронизацию с облаком и восстановить данные?</string>
     <string name="instructions_provider">Инструкции предоставлены Miao Health</string>
     <string name="insufficient">Мало</string>
+    <string name="internal_training">HIIT</string>
+    <string name="jump_freq">Частота прыжков</string>
     <string name="jump_over">Пропустить</string>
+    <string name="jump_rope_count_minutes">" об/мин"</string>
     <string name="just_recently">Только что</string>
     <string name="keep_edit">Отмена</string>
     <string name="key_sedentary_toggle">переключатель</string>
@@ -626,6 +664,7 @@ ID:%s
     <string name="low_intensity">Низкая</string>
     <string name="low_intensity_description">Спокойное дыхание, можно говорить длинными предложениями</string>
     <string name="low_pressure">Диастолическое (нижнее)</string>
+    <string name="lowest_jump">Самый низкий прыжок</string>
     <string name="manage_home">Начальная страница</string>
     <string name="manual_add">Добавить вручную</string>
     <string name="manual_adjust">Изменить</string>
@@ -657,6 +696,27 @@ ID:%s
     <string name="member_name_select">Выберите имя пользователя</string>
     <string name="member_name_select_purpose">Синхронизация данных из %1$s</string>
     <string name="member_name_select_purpose2">Выберите имя пользователя для синхронизации</string>
+    <string name="mens_avg_menstrual_period">Ср. период</string>
+    <string name="mens_avg_period">Ср. цикл</string>
+    <string name="mens_cancel_mark">Отмена</string>
+    <string name="mens_day_in_guess_menstrual_period">Расчетный %1$d день периода</string>
+    <string name="mens_day_in_guess_ovu_period">Расчетный %1$d день овуляции</string>
+    <string name="mens_day_in_ovu_period">%3$d день цикла (%1$s-%2$s). Высокая вероятность овуляции.</string>
+    <string name="mens_day_in_phy_period">%3$d день цикла (%1$s-%2$s)</string>
+    <string name="mens_day_in_predict_menstrual_period">Расчетный %1$d день периода</string>
+    <string name="mens_day_in_predict_ovu_period">Расчетный %1$d день овуляции</string>
+    <string name="mens_day_in_predict_period">Расчетный %3$d день цикла (%1$s-%2$s)</string>
+    <string name="mens_guess_day_ovulation">Похоже, у вас овуляция</string>
+    <string name="mens_guess_menstrual_period_end">Похоже, у вас закончились месячные</string>
+    <string name="mens_guess_not_in_menstrual_period">Похоже, у вас нет менструации</string>
+    <string name="mens_not_in_menstrual_period">Нет менструации</string>
+    <string name="mens_period_days">Длительность цикла</string>
+    <string name="mens_period_ovulation">Овуляция</string>
+    <string name="mens_period_start">Начало</string>
+    <string name="mens_predict_day_ovulation">Похоже, у вас овуляция</string>
+    <string name="mens_predict_not_in_menstrual_period">Похоже, у вас нет менструации</string>
+    <string name="mens_record_and_predict_more">Не забывайте делать записи</string>
+    <string name="mens_tip_prepare_sth">Не забывайте делать записи</string>
     <string name="menses_auto_start_description">Включив уведомления, вы разрешите приложению Здоровье автозапуск.</string>
     <string name="menses_features_description">Записывайте свои периоды и получайте напоминания</string>
     <string name="menstrual_assistant">Менструация</string>
@@ -751,6 +811,7 @@ ID:%s
     <string name="month_september_shortest">С</string>
     <string name="more">Еще</string>
     <string name="more_card">Доступные</string>
+    <string name="more_questions">Еще</string>
     <string name="morning">"AM "</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
@@ -772,9 +833,11 @@ ID:%s
     <string name="network_not_available">Сеть недоступна. Повторите попытку позже.</string>
     <string name="next_step">Далее</string>
     <string name="night">PM</string>
+    <string name="no_available_data_source">Нет доступных источников данных</string>
     <string name="no_available_device">Нет устройств</string>
     <string name="no_body_weight_record">Нет записей</string>
     <string name="no_data">Нет данных</string>
+    <string name="no_device_bound_to_the_account">Устройство не связано с вашим аккаунтом. Добавьте его.</string>
     <string name="no_records">Нет записей</string>
     <string name="no_snore">Вы не храпели и не разговаривали во сне</string>
     <string name="no_snore_1">Ничего нет</string>
@@ -793,6 +856,7 @@ ID:%s
     <string name="not_support_step">Устройство не поддерживает подсчет шагов</string>
     <string name="not_up_to_standard">Ниже нормы</string>
     <string name="number_divided">%1$d/%2$d</string>
+    <string name="oar_time">Время в пути</string>
     <string name="oauth_account_failed">Не удалось получить информацию об аккаунте</string>
     <string name="oauth_account_failed_desc">Для добавления источников данных Xiaomi Health требуется вход в Mi Аккаунт.</string>
     <string name="ok">OK</string>
@@ -803,9 +867,13 @@ ID:%s
     <string name="open_sync">Включить синхронизацию</string>
     <string name="open_sync_and_enter_app">Включить синхронизацию</string>
     <string name="open_unrestricted_permissions">Для более точного контроля сна разрешите приложению Здоровье работать в фоновом режиме.</string>
+    <string name="optional_data_source">Доступные источники данных</string>
     <string name="organ_donation_volunteer">Добровольный донор органов</string>
     <string name="origin">Источник</string>
     <string name="other_can_add_data_source">Доступные источники</string>
+    <string name="other_optional_data_sources">Другие доступные источники данных</string>
+    <string name="other_question">Другое</string>
+    <string name="outdoor_hiking">Хайкинг</string>
     <string name="outdoor_riding">Велосипед</string>
     <string name="outdoor_running">Бег</string>
     <string name="outdoor_walking">Ходьба</string>
@@ -815,9 +883,11 @@ ID:%s
     <string name="passport_oauth_sucess_tip">Вход выполнен</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pause">Пауза</string>
+    <string name="per_count_minutes1">%d об/мин</string>
     <string name="per_time_minutes">%d в минуту</string>
     <string name="per_time_minutes1">" в минуту"</string>
     <string name="per_time_minutes_heart_rate">" уд/мин"</string>
+    <string name="period">Период</string>
     <string name="permission_check_result">Готово</string>
     <string name="permission_check_result_failed">Произошла ошибка</string>
     <string name="permission_manage">Управление разрешениями</string>
@@ -850,6 +920,11 @@ ID:%s
     <string name="prompt_sleep_time_noon">Дневной сон</string>
     <string name="protein_rate">Белок</string>
     <string name="protein_rate_descripe_content">Процент белка - доля белка в общей массе тела. Он важен для выявления дисбаланса в питании и поддержания здорового питания.</string>
+    <string name="pull_or_lay_oars">Вождение и отдых</string>
+    <string name="question_data_source_unable_add">Не удается добавить источники данных</string>
+    <string name="question_data_synchronization_not_timely">Данные не синхронизируются или не синхронизируются вовремя</string>
+    <string name="question_device_not_found">Не удается найти устройства</string>
+    <string name="question_multiple_same_name_data_sources">Почему источники данных имеют одно и то же имя?</string>
     <string name="rate_bit_high">Избыток</string>
     <string name="rate_bit_low">Недостаток</string>
     <string name="rate_bone_mass_reduce">Снижение костной массы</string>
@@ -896,10 +971,14 @@ ID:%s
     <string name="remind_weight_title">Взвешивание</string>
     <string name="remove">Удалить</string>
     <string name="repeat_mode">Повтор</string>
+    <string name="rest_time_between_sets">Отдых</string>
     <string name="resting_heart_rate">ЧСС в состоянии покоя</string>
     <string name="resting_heart_rate_desc">Нормальная частота сердечных сокращений (ЧСС) у взрослых в состоянии покоя колеблется от 60 до 100 ударов в минуту. ЧСС может варьироваться в зависимости от возраста, пола, тренированности и других факторов.</string>
+    <string name="retraction_time">Время восстановления</string>
     <string name="retry">Повтор</string>
     <string name="revert_to_default">Восстановить по умолчанию</string>
+    <string name="rope_skipping">Скакалка</string>
+    <string name="rowing_machine">Гребля</string>
     <string name="run">Бег</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -1049,6 +1128,7 @@ ID:%s
     <string name="sleep_track">Отслеживание сна</string>
     <string name="sleep_turn_over_times_title">Повороты</string>
     <string name="sleep_week">Неделя</string>
+    <string name="slide_freq">Частота гребков</string>
     <string name="slow">медленно</string>
     <string name="slow2">Низкое</string>
     <string name="snore">Храп</string>
@@ -1166,6 +1246,7 @@ ID:%s
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="supported_data_type">Доступные данные: %1$s</string>
     <string name="sustain_title">"Вы не двигались "</string>
     <string name="swim">Плавание</string>
     <string name="swim_type">Стиль</string>
@@ -1259,6 +1340,7 @@ ID:%s
     <string name="tb_home_weight_card">Вес. %1$.1f кг. Время взвешивания: %2$s. Статус: %3$s.</string>
     <string name="tb_home_weight_card_no_data">Вес. Нет данных.</string>
     <string name="tb_manage_home">Здесь вы можете удалить или переставить карточки, отображаемые на стартовой странице.</string>
+    <string name="tb_mens_mark_success">Успешно отмечено</string>
     <string name="tb_mens_month_date_selected">Выбрано %1$s</string>
     <string name="tb_mens_month_date_unselected">%1$s. Нажмите для выбора даты.</string>
     <string name="tb_mens_month_expected_date_selected">%1$s. День %2$d прогнозируемого цикла. Выбран.</string>
@@ -1271,6 +1353,8 @@ ID:%s
     <string name="tb_mens_month_panel_title">%1$s. Нажмите, чтобы изменить дату.</string>
     <string name="tb_mens_month_period_date_selected">%1$s. День %2$d менструального цикла. Выбран.</string>
     <string name="tb_mens_month_period_date_unselected">%1$s. День %2$d менструального цикла. Нажмите, чтобы выбрать дату.</string>
+    <string name="tb_mens_select_column">Цикл начинается %1$s.%2$s.%3$s.</string>
+    <string name="tb_mens_unmark_success">Успешно отменено</string>
     <string name="tb_month_dialog_go_today">Выбрано сегодня</string>
     <string name="tb_month_dialog_select_date">Выбрано %1$s</string>
     <string name="tb_month_dialog_select_date_with_snore" formatted="false">Выбран %1$s, %s</string>
@@ -1406,8 +1490,10 @@ ID:%s
     <string name="tomorrow">завтра</string>
     <string name="too_little">Слишком мало</string>
     <string name="total">Всего</string>
+    <string name="total_beats">Количество прыжков</string>
     <string name="total_consumption_label">Всего сожжено</string>
     <string name="total_distance_label">Общее расстояние</string>
+    <string name="total_slip">Количество гребков</string>
     <string name="total_time_label">Общее время</string>
     <string name="tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
     <string name="tracking_progress_labe_refreshed">обновление завершено</string>
@@ -1421,6 +1507,9 @@ ID:%s
     <string name="turn_count">Поворотов</string>
     <string name="turn_on_necessary_permissions">Для контроля сна требуются разрешения.</string>
     <string name="unable_record_future_menstruation">Не удается создать запись о следующей менструации</string>
+    <string name="unbound">Удалено</string>
+    <string name="unit_centimeter">" cm"</string>
+    <string name="unit_count">" раз(а)"</string>
     <string name="unit_day"> дн.</string>
     <string name="unit_hour"> ч.</string>
     <string name="unit_kilo_calorie"> ккал</string>
@@ -1435,6 +1524,7 @@ ID:%s
     <string name="unknown_birthday">Данных нет</string>
     <string name="unknown_full_name">Данных нет</string>
     <string name="unknown_gender">Данных нет</string>
+    <string name="unknown_state">Неизвестный статус</string>
     <string name="update_notify_dialog_ignore">Позже</string>
     <string name="update_notify_dialog_msg">"Доступно обновление: %1$s. 
 Список изменений:
@@ -1443,9 +1533,11 @@ ID:%s
     <string name="update_notify_dialog_msg2">Доступно обновление: %1$s. Обновить?</string>
     <string name="update_notify_dialog_title">Доступно обновление</string>
     <string name="update_notify_no_update_log">Ничего нет</string>
+    <string name="upgrade_suggestion">Обновите приложение Здоровье до последней версии и попробуйте еще раз.</string>
     <string name="user_age_unit">л.</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="user_birthday_display_format">dd.MM.yyyy</string>
+    <string name="user_center">Центр пользователя</string>
     <string name="user_invalid_value">--</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
@@ -1485,4 +1577,5 @@ ID:%s
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
     <string name="year">Год</string>
     <string name="yesterday">Вчера</string>
+    <string name="yoga">Йога</string>
 </resources>
