@@ -387,6 +387,8 @@
     <string name="cannot_connect_camera_volte_call">Идет видеовызов, повторите попытку позже.</string>
     <string name="cannot_move_warning_message">Не двигайте устройство при съемке</string>
     <string name="capture_back_pressed_hint">Нажмите ещё раз для выхода</string>
+    <string name="capture_shortcut_long">Селфи</string>
+    <string name="capture_shortcut_short">Селфи</string>
     <string name="ccc_temperature_warning_msg">Устройство перегрето. Камера будет закрыта через %d секунд. Ваши фото или видео будут сохранены автоматически.</string>
     <string name="ccc_temperature_warning_title">Перегрев устройства</string>
     <string name="clone_do_not_move_phone">Не двигайте устройство</string>
@@ -507,6 +509,8 @@
     <string name="dialog_ok_time">ОК (%d сек.)</string>
     <string name="dirty_tip_toast">Объектив загрязнен, протрите его.</string>
     <string name="do_not_remind_me">Больше не показывать</string>
+    <string name="doc_shortcut_long">Документ</string>
+    <string name="doc_shortcut_short">Документ</string>
     <string name="document_blackwhite">Ч/Б</string>
     <string name="document_blur_warn">Текст размыт</string>
     <string name="document_mode_use_hint_text_body">"Автоматически выравнивать и улучшать
@@ -595,6 +599,7 @@
     <string name="film_timefreeze">включено</string>
     <string name="film_timefreeze_hint">Не двигайте устройство %d сек.</string>
     <string name="film_timefreeze_reset">сброшено</string>
+    <string name="film_video_b_tip">Снимайте при слабом освещении</string>
     <string name="film_video_e_tip">Поддерживается только пейзажная съемка</string>
     <string name="film_video_tip">Используйте штатив для съемки</string>
     <string name="flash">Вспышка</string>
@@ -979,6 +984,7 @@
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
     <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
+    <string name="pref_a_c_f">Карта</string>
     <string name="pref_advance_settings">Дополнительные настройки</string>
     <string name="pref_ai_detect">AI обнаружение сцены</string>
     <string name="pref_audio_chart">Карта</string>
@@ -1393,6 +1399,8 @@
     <string name="pref_document_mode">Документы</string>
     <string name="pref_dual_camera_video">Фронтальная и основная</string>
     <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
+    <string name="pref_e_c_p_k">Удалить</string>
+    <string name="pref_e_c_t_j">Оригинал</string>
     <string name="pref_effect_comparison_title">Сравнение эффектов</string>
     <string name="pref_face_beauty_title">Улучшение</string>
     <string name="pref_fingerprint_capture_title">Съемка отпечатком пальца</string>
@@ -1413,6 +1421,8 @@
     <string name="pref_hdr_value_default">Откл.</string>
     <string name="pref_histogram_off">Откл.</string>
     <string name="pref_histogram_on">Вкл.</string>
+    <string name="pref_k_h">Караоке</string>
+    <string name="pref_k_s_i">Когда гарнитура подключена</string>
     <string name="pref_karaoke">Караоке</string>
     <string name="pref_karaoke_summary">Когда гарнитура подключена</string>
     <string name="pref_lens_dirty_detect_summary">Разрешить уведомления о загрязнении объектива</string>
@@ -1430,8 +1440,9 @@
     <string name="pref_new_slow_motion_video_quality_960_720only">Вы можете записать с 960fps только видео 720p</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
-    <string name="pref_noise_setting_off">Отклю</string>
+    <string name="pref_noise_setting_off">Откл.</string>
     <string name="pref_noise_setting_on">Вкл.</string>
+    <string name="pref_p_d_e">ПРО</string>
     <string name="pref_photo_assistance_tips_off">Откл.</string>
     <string name="pref_photo_assistance_tips_on">Вкл.</string>
     <string name="pref_pic_flaw_tip_summary">Получать уведомления в режиме реального времени, когда люди в кадре закрывают глаза или объектив частично перекрыт во время съемки</string>
@@ -1446,6 +1457,7 @@
     <string name="pref_retain_camera_common_mode_summary">Открывать последний использованный режим камеры вместо \"Фото\"</string>
     <string name="pref_retain_camera_mode_summary">При запуске камеры переключаться в последний используемый режим</string>
     <string name="pref_retain_camera_mode_title">Сохранять предыдущий режим</string>
+    <string name="pref_s_n_r_s_c">При записи</string>
     <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
     <string name="pref_scan_qrcode_title">Сканировать QR-коды</string>
     <string name="pref_setting_title">Настройки</string>
@@ -1519,6 +1531,8 @@
     <string name="preparing_sd">Подготовка SD карты…</string>
     <string name="preview_back_pressed_hint">Нажмите еще раз, чтобы вернуться к предпросмотру</string>
     <string name="pro_color_mode">Продвинутый цветовой режим</string>
+    <string name="professional_shortcut_long">ПРО</string>
+    <string name="professional_shortcut_short">ПРО</string>
     <string name="recommend_macro_mode">Попробуйте режим Макро</string>
     <string name="recommend_portrait">Попробуйте Портретный режим</string>
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
@@ -1680,6 +1694,8 @@
     <string name="video_hdr10_tip">HDR10</string>
     <string name="video_hdr10plus_tip">HDR10+</string>
     <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
+    <string name="video_shortcut_long">Видео</string>
+    <string name="video_shortcut_short">Видео</string>
     <string name="video_tag_flag_title">Тег</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>

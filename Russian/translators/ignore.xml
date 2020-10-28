@@ -3156,6 +3156,7 @@
     <string name="pref_front_mirror_entryvalue_off">off</string>
     <string name="pref_front_mirror_entryvalue_on">on</string>
     <string name="pref_google_lens_default">true</string>
+    <string name="pref_i_n_r_b">Noise_r</string>
     <string name="pref_intelligent_noise_reduction">Noise_r</string>
     <string name="pref_key_apps">all_apps</string>
     <string name="pref_key_buffer_size">buffer_size</string>
@@ -3168,6 +3169,7 @@
     <string name="pref_live_volumekey_function_default">volume</string>
     <string name="pref_mi_front_video_quality_default">6</string>
     <string name="pref_mtk_video_quality_default">10</string>
+    <string name="pref_n_s_a">sound_s</string>
     <string name="pref_noise_setting">sound_s</string>
     <string name="pref_noise_setting_title">sound_s</string>
     <string name="pref_operator_setting">%1$s %2$s</string>
@@ -3539,6 +3541,7 @@
     <string name="slow_shutter_tip2">slowshutter_c</string>
     <string name="slow_shutter_tip3">slowshutter_e</string>
     <string name="slow_shutter_tip4">slowshutter_f</string>
+    <string name="slow_shutter_tip5">slowshutter_g</string>
     <string name="slow_shutter_title1">0%d</string>
     <string name="slow_shutter_title2">slowshutter_a</string>
     <string name="slow_shutter_title3">0%d</string>
@@ -4323,9 +4326,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-    <string name="pref_i_n_r_b">Noise_r</string>
-    <string name="pref_n_s_a">sound_s</string>
-<!-- ### FROM SOURCE -->
-    <string name="slow_shutter_tip5">slowshutter_g</string>
-
 </resources>

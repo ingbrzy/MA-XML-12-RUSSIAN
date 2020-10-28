@@ -61,6 +61,7 @@
     <string-array name="bluetooth_a2dp_codec_sample_rate_values"></string-array>
     <string-array name="bluetooth_a2dp_codec_values"></string-array>
     <string-array name="bluetooth_avrcp_version_values"></string-array>
+    <string-array name="bluetooth_map_version_values"></string-array>
     <integer-array name="body_water_line_chart_default_y"></integer-array>
     <integer-array name="bone_mass_line_chart_default_y"></integer-array>
     <string-array name="broadcast_locales"></string-array>
@@ -69,6 +70,8 @@
     <array name="bt_icon_fg_colors"></array>
     <string-array name="buffer_size_names"></string-array>
     <string-array name="buffer_size_values"></string-array>
+    <string-array name="cached_apps_freezer_entries"></string-array>
+    <string-array name="cached_apps_freezer_values"></string-array>
     <string-array name="call_waiting_tone_entries"></string-array>
     <string-array name="call_waiting_tone_entry_values"></string-array>
     <string-array name="callrecordview_menu_show_values"></string-array>
@@ -98,9 +101,13 @@
     <string-array name="commute_navigation_choice_item"></string-array>
     <string-array name="commute_navigation_dialog_item"></string-array>
     <array name="config_countries_to_enable_shortcut_view" />
+    <integer-array name="config_defaultNotificationVibePattern"></integer-array>
     <string-array name="config_load_only_fiveg_apns"></string-array>
+    <string-array name="config_rcs_provision_error_on_publish_response"></string-array>
+    <string-array name="config_simless_emergency_rtt_supported_countries"></string-array>
     <array name="config_support_tdscdma_roaming_on_networks" />
     <string-array name="config_systemUIServiceComponents"></string-array>
+    <string-array name="config_volte_provision_error_on_publish_response"></string-array>
     <string-array name="connect_disconnect_vibrate_entries"></string-array>
     <string-array name="connect_disconnect_vibrate_entry_values"></string-array>
     <string-array name="contact_infotype_entries"></string-array>
@@ -120,6 +127,7 @@
     <integer-array name="default_vibration_pattern"></integer-array>
     <array name="desktop_lyric_seekbar_track_color"></array>
     <string-array name="detailed_am_pms"></string-array>
+    <string-array name="device_support_pickup_by_MTK"></string-array>
     <string-array name="device_use_camera_one"></string-array>
     <string-array name="di_zhi"></string-array>
     <array name="dialog_delete_finish_res"></array>
@@ -349,6 +357,8 @@
     <string-array name="settings_atmospheric_pressure_unit_detail"></string-array>
     <string-array name="settings_atmospheric_pressure_unit_values"></string-array>
     <string-array name="show_non_rect_clip_values"></string-array>
+    <string-array name="show_style_entries"></string-array>
+    <string-array name="show_style_values"></string-array>
     <string-array name="simulate_color_space_entries"></string-array>
     <string-array name="simulate_color_space_values"></string-array>
     <string-array name="sip_call_options_entries"></string-array>
@@ -463,11 +473,4 @@
     <string-array name="wind_power_setting_unit_values"></string-array>
     <string-array name="window_animation_scale_values"></string-array>
     <string-array name="xiaoai_tips"></string-array>
-    <string-array name="device_support_pickup_by_MTK"></string-array>
-    <string-array name="show_style_entries"></string-array>
-    <string-array name="show_style_values"></string-array>
-    <string-array name="bluetooth_map_version_values"></string-array>
-    <string-array name="cached_apps_freezer_entries"></string-array>
-    <string-array name="cached_apps_freezer_values"></string-array>
-	
 </resources>
