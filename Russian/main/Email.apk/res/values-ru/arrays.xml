@@ -14,6 +14,66 @@
         <item>Ноя</item>
         <item>Дек</item>
     </string-array>
+    <string-array name="alphabet_chars">
+        <item>★</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_chars2">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Сегодня вечером</item>
         <item>Завтра</item>
@@ -60,6 +120,23 @@
         <item>более старые</item>
         <item>по порядку</item>
     </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Блог:</item>
+        <item>Сайт:</item>
+        <item>Email:</item>
+        <item>Мобильный:</item>
+        <item>Телефон:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Тел:</item>
+        <item>Факс:</item>
+        <item>Почта:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Адрес:</item>
         <item>Телефон:</item>
@@ -69,6 +146,15 @@
         <item>WeChat:</item>
         <item>Факс:</item>
         <item>Почтовый индекс:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Отказ от ответственности:</item>
+        <item>Email отказ от ответственности</item>
+        <item>Отправлено через WPSMail</item>
+        <item>Отправлено с моего</item>
+        <item>Отправлено с</item>
+        <item>Спасибо,</item>
+        <item>С уважением,</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Спасибо,</item>
