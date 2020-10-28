@@ -6477,7 +6477,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_notification_use_app_icon">Использовать иконки приложений</string>
     <string name="status_bar_settings_qs_layout">Вид сетки переключателей</string>
     <string name="status_bar_settings_show_lte_for_4g">Показывать LTE вместо 4G</string>
-    <string name="status_bar_settings_show_weather">Показывать погоду в панели уведомлений</string>
+    <string name="status_bar_settings_show_weather">Показывать информацию о погоде</string>
     <string name="status_bar_settings_status_bar">Строка состояния</string>
     <string name="status_bar_title">Центр управления и строка состояния</string>
     <string name="status_bt_address">Адрес Bluetooth</string>
@@ -6810,7 +6810,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sync_enable">Включить синхронизацию</string>
     <string name="sync_enabled">Синхронизация включена</string>
     <string name="sync_error">Ошибка синхронизации</string>
-    <string name="sync_failed">Ошибка синхронизации</string>
+    <string name="sync_failed">Ошибка синхронизации. Повторите попытку позже.</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_in_progress">Синхронизация…</string>
     <string name="sync_is_failing">Проблемы с синхронизацией. Скоро все заработает.</string>
@@ -7323,7 +7323,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_use_miui12_5">Использовать USB для</string>
     <string name="usb_use_photo_transfers">Передача фото (PTP)</string>
     <string name="usb_use_photo_transfers_desc">Передача фотографий или файлов, если МТР не поддерживается (PTP)</string>
-    <string name="usb_use_photo_transfers_miui12_5">Перенос фото</string>
+    <string name="usb_use_photo_transfers_miui12_5">Передача фото</string>
     <string name="usb_use_power_only">Подача питания</string>
     <string name="usb_use_tethering">USB модем</string>
     <string name="use_control_panel">Центр управления</string>
