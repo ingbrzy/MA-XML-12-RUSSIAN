@@ -69,10 +69,10 @@
     <string name="alert_weather_enable_settings_title">Предупреждения о погоде</string>
     <string name="already_voted_toast">Вы уже голосовали сегодня</string>
     <string name="app_name">Погода</string>
-    <string name="aqi_15_days_desc">15-дневный прогноз ИКВ</string>
-    <string name="aqi_24_hours_desc">24-часовой прогноз ИКВ</string>
-    <string name="aqi_48_hours_desc">48-часовой прогноз ИКВ</string>
-    <string name="aqi_5_days_desc">5-дневный прогноз ИКВ</string>
+    <string name="aqi_15_days_desc">%d-дневный прогноз ИКВ</string>
+    <string name="aqi_24_hours_desc">%d-часовой прогноз ИКВ</string>
+    <string name="aqi_48_hours_desc">%d-часовой прогноз ИКВ</string>
+    <string name="aqi_5_days_desc">%d-дневный прогноз ИКВ</string>
     <string name="aqi_alert_channel_name">Индекс качества воздуха</string>
     <string name="aqi_data_source">Поддержка: Colorful Clouds</string>
     <string name="aqi_desc">Индекс качества воздуха</string>
@@ -477,7 +477,7 @@
     <string name="weather_list_info">Актуальная информация</string>
     <string name="weather_list_title">Погодные заголовки</string>
     <string name="weather_main_aqi_desc">ИКВ</string>
-    <string name="weather_main_minute_hour">2-часовые осадки</string>
+    <string name="weather_main_minute_hour">%d-часовые осадки</string>
     <string name="weather_main_speak_tips">Голосовое оповещение о погоде</string>
     <string name="weather_permission_agree">Принять</string>
     <string name="weather_service_channel_name">Фоновые сервисы</string>

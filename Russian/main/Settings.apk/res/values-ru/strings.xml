@@ -1863,10 +1863,10 @@
     <string name="dark_color_mode">Темный режим</string>
     <string name="dark_color_summary_lcd">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим снижает напряжение глаз при использовании устройства в темноте.</string>
     <string name="dark_color_summary_oled">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим уменьшает энергопотребление и снижает напряжение глаз.</string>
-    <string name="dark_mode_apps_header">Отдельные приложения</string>
+    <string name="dark_mode_apps_header">Выбранные приложения</string>
     <string name="dark_mode_contrast">Авторегулировка контраста</string>
     <string name="dark_mode_contrast_hint">Автоматическая регулировка цвета и уменьшение контраста при уменьшении яркости</string>
-    <string name="dark_mode_font_background_title">Автоматическая настройка текста и фона</string>
+    <string name="dark_mode_font_background_title">Автонастройка текста и фона</string>
     <string name="dark_ui_mode">Темный режим</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">Временно включен из-за режима энергосбережения</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_on">Вкл. / Временно отключен из-за режима энергосбережения</string>
@@ -2591,7 +2591,7 @@
     <string name="experimental_category_title">Экспериментальная функция</string>
     <string name="experimental_preference">(экспериментальная настройка)</string>
     <string name="extended_power_menu">Расширенное меню питания</string>
-    <string name="exterior">Цветовая схема</string>
+    <string name="exterior">Режим</string>
     <string name="external_code_size_label">На USB-накопителе</string>
     <string name="external_data_size_label">SD-карта</string>
     <string name="external_source_switch_title">Разрешить установку из этого источника</string>
@@ -5564,7 +5564,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Выбор приложений</string>
     <string name="screen_dark_mode_smart_dark_summary">Применить темный режим к сторонним приложениям. Некоторые приложения могут иметь проблемы с отображением.</string>
     <string name="screen_dark_mode_smart_dark_title">Глобальный темный режим</string>
-    <string name="screen_dark_mode_time_title">Расписание</string>
+    <string name="screen_dark_mode_time_title">Расписание темного режима</string>
     <string name="screen_effect">Тон и контрастность</string>
     <string name="screen_fps_summary_power_save">Использование фиксированной частоты обновления кадров уменьшает энергопотребление</string>
     <string name="screen_fps_summary_smooth">Некоторые приложения автоматически увеличивают частоту обновления кадров для улучшения качества изображения</string>
