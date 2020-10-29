@@ -300,6 +300,11 @@
         <item quantity="other">%d добавлено</item>
         <item quantity="one">%d добавлен</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Wi-Fi будет автоматически включен при обнаружении сохраненных сетей поблизости, и выключен через %d минут, если соединение не установлено</item>
+        <item quantity="one">Wi-Fi будет автоматически включен при обнаружении сохраненных сетей поблизости, и выключен через %d минуту, если соединение не установлено</item>
+        <item quantity="few">Wi-Fi будет автоматически включен при обнаружении сохраненных сетей поблизости, и выключен через %d минуты, если соединение не установлено</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM</item>
         <item quantity="one">%1$d SIM</item>
@@ -376,6 +381,11 @@
         <item quantity="one">Включена %1$d служба печати</item>
         <item quantity="few">Включены %1$d службы печати</item>
     </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d приоритетных диалогов</item>
+        <item quantity="one">%d приоритетный диалог</item>
+        <item quantity="few">%d приоритетных диалога</item>
+    </plurals>
     <plurals name="restricted_app_summary">
         <item quantity="other">Ограничено использование батареи для %1$d приложений</item>
         <item quantity="one">Ограничено использование батареи для %1$d приложения</item>
@@ -404,6 +414,10 @@
         <item quantity="other">Настроено %1$d отпечатков</item>
         <item quantity="one">Настроен %1$d отпечаток</item>
         <item quantity="few">Настроено %1$d отпечатка</item>
+    </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">Просмотр всех %1$d приложений</item>
+        <item quantity="one">Просмотр приложений</item>
     </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">Показать %d скрытых объектов</item>
@@ -658,6 +672,11 @@
         <item quantity="other">%d часов</item>
         <item quantity="one">1 час</item>
         <item quantity="few">%d часа</item>
+    </plurals>
+<!-- ### FROM SOURCE -->
+    <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">%s могут прерывать режим</item>
+        <item quantity="one">%s может прерывать режим</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
         <item quantity="other">%d вкл.</item>
