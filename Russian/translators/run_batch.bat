@@ -24,17 +24,6 @@ call routine.bat dipper Settings.apk
 call routine.bat lavender Settings.apk 
 call routine.bat cas Settings.apk 
 ;
-call routine.bat cepheus_stable Settings.apk 
-call routine.bat crux_stable Settings.apk 
-call routine.bat davinci_stable Settings.apk 
-call routine.bat phoenix_stable Settings.apk 
-call routine.bat picasso_stable Settings.apk 
-call routine.bat raphael_stable Settings.apk 
-;
-call routine.bat lmi_stable Settings.apk 
-call routine.bat cmi_stable Settings.apk 
-call routine.bat umi_stable Settings.apk 
-;
 call routine.bat vela Settings.apk 
 ;
 call routine.bat cmi MiuiCamera.apk 

@@ -845,6 +845,7 @@
     <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cc_attribution">Копия: %1$s&lt;br&gt;</string>
     <string name="celcius_symbol">℃</string>
+    <string name="cell_broadcast_receiver_package">com.android.cellbroadcastreceiver.module</string>
     <string name="certificate_com_android_camera">27196e386b875e76adf700e7ea84e4c6eee33dfa</string>
     <string name="certificate_com_xiaomi_wearable">1da20e2bdfa678ae888e81e5ca0ec4744ebbbbbd</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
@@ -1364,6 +1365,8 @@
     <string name="condition_summary">%1$d</string>
     <string name="config_UsbDeviceConnectionHandling_component">@null</string>
     <string name="config_activityRecognitionHardwarePackageName">@null</string>
+    <string name="config_aosp_emergency_intent_action">android.settings.EDIT_EMERGENCY_INFO</string>
+    <string name="config_aosp_emergency_package_name">com.android.emergency</string>
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
     <string name="config_bandwidthEstimateSource">carrier_config</string>
     <string name="config_batterymeterBoltPath">M5,17.5 V12 H3 L7,4.5 V10 h2 L5,17.5 z</string>
@@ -1439,6 +1442,7 @@
     <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
     <string name="config_networkLocationProviderPackageNameGms">com.google.android.gms</string>
     <string name="config_networkOverLimitComponent">com.android.systemui/com.android.systemui.net.NetworkOverLimitActivity</string>
+    <string name="config_non_public_slice_query_uri" />
     <string name="config_ntpServer">time.android.com</string>
     <string name="config_package_installer_package_name">com.android.packageinstaller</string>
     <string name="config_platformVpnConfirmDialogComponent">com.android.vpndialogs/com.android.vpndialogs.PlatformVpnConfirmDialog</string>
@@ -1446,6 +1450,8 @@
     <string name="config_rawContactsLocalAccountName">default</string>
     <string name="config_rawContactsLocalAccountType">com.android.contacts.default</string>
     <string name="config_recentsComponentName">com.miui.home/com.miui.home.recents.RecentsActivity</string>
+    <string name="config_rtt_setting_intent_action" />
+    <string name="config_rtt_setting_package_name" />
     <string name="config_schedules_provider_caller_package">com.android.settings</string>
     <string name="config_screenRecorderComponent">com.android.systemui/com.android.systemui.screenrecord.ScreenRecordDialog</string>
     <string name="config_screenshotErrorReceiverComponent">com.android.systemui/com.android.systemui.screenshot.ScreenshotServiceErrorReceiver</string>
@@ -2519,6 +2525,7 @@
     <string name="light_snow">小雪</string>
     <string name="light_snow_tradition">小雪</string>
     <string name="link_privacy_policy">http://www.miui.com/res/doc/privacy.html?lang=%s</string>
+    <string name="link_speed">%1$d Мбит/с</string>
     <string name="link_user_agreement">http://www.miui.com/res/doc/eula.html?lang=%s</string>
     <string name="list_delimeter">", "</string>
     <string name="load_attachment">@string/load_more</string>
@@ -2954,6 +2961,7 @@
     <string name="open_fast_open_mode">Режим быстрого получения</string>
     <string name="open_fast_open_mode_summary">Быстрое получение красного конверта</string>
     <string name="open_xiangkan_view_all">打开想看APP阅读全文</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="page_search_result" formatted="false">%d/%d</string>
     <string name="pairing_ui_package">com.android.settings</string>
@@ -3367,6 +3375,10 @@
     <string name="retrocession_day_tradition">光復節</string>
     <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
     <string name="rlz_access_point">Y1</string>
+    <string name="rtt_settings_always_visible" />
+    <string name="rtt_settings_no_visible" />
+    <string name="rtt_settings_title" />
+    <string name="rtt_settings_visible_during_call" />
     <string name="sa_channel_key_class_1">sa_channel_key_class_1</string>
     <string name="sa_channel_key_class_2">sa_channel_key_class_2</string>
     <string name="sa_channel_key_class_3">sa_channel_key_class_3</string>
@@ -4031,6 +4043,7 @@
     <string name="summary_font_size">%1$s</string>
     <string name="summary_placeholder"> </string>
     <string name="summary_range_symbol_combination">с %1$s по %2$s</string>
+    <string name="summary_separator">" / "</string>
     <string name="summer_begins">立夏</string>
     <string name="summer_begins_tradition">立夏</string>
     <string name="summer_solstice">夏至</string>
@@ -4326,27 +4339,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-    <string name="order_alphabet">A-Z</string>
-<!-- ### FROM SOURCE -->
-    <string name="rtt_settings_always_visible" />
-<!-- ### FROM SOURCE -->
-    <string name="rtt_settings_no_visible" />
-<!-- ### FROM SOURCE -->
-    <string name="rtt_settings_title" />
-<!-- ### FROM SOURCE -->
-    <string name="rtt_settings_visible_during_call" />
-<!-- ### FROM SOURCE -->
-    <string name="summary_separator">" / "</string>
-<!-- ### FROM SOURCE -->
-    <string name="cell_broadcast_receiver_package">com.android.cellbroadcastreceiver.module</string>
-<!-- ### FROM SOURCE -->
-    <string name="config_aosp_emergency_intent_action">android.settings.EDIT_EMERGENCY_INFO</string>
-<!-- ### FROM SOURCE -->
-    <string name="config_aosp_emergency_package_name">com.android.emergency</string>	
-<!-- ### FROM SOURCE -->
-    <string name="config_non_public_slice_query_uri" />
-<!-- ### FROM SOURCE -->
-    <string name="config_rtt_setting_intent_action" />
-<!-- ### FROM SOURCE -->
-    <string name="config_rtt_setting_package_name" />	
 </resources>
