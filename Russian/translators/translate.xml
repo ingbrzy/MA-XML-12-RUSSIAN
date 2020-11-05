@@ -670,6 +670,32 @@ mm"</string>
     <string name="usb_audio_disable_routing">Отключить передачу звука по USB</string>
     <string name="usb_audio_disable_routing_summary">Отключить автоматическую передачу звука на внешние USB-устройства</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
+    <string name="user_add_profile_item_summary">Профиль с ограниченным доступом к приложениям и контенту</string>
+    <string name="user_add_profile_item_title">Ограниченный профиль</string>
+    <string name="user_add_user_item_summary">Отдельные приложения и контент для каждого пользователя</string>
+    <string name="user_add_user_item_title">Пользователь</string>
+    <string name="user_add_user_message_long">"Устройством могут пользоваться несколько человек, для каждого пользователя создается собственное пространство со своими настройками и набором приложений. Настройки параметров устройства, такие как Wi-Fi, являются общими для всех.
+
+Каждый новый пользователь должен настроить свое пространство.
+
+Любой пользователь может обновлять приложения для всех остальных пользователей. Настройки специальных возможностей и служб являются индивидуальными."</string>
+    <string name="user_add_user_message_short">"Каждый новый пользователь должен настроить свое пространство.
+
+Любой пользователь может обновлять приложения для всех остальных пользователей."</string>
+    <string name="user_add_user_title">Добавить нового пользователя?</string>
+    <string name="user_add_user_type_title">Добавить</string>
+    <string name="user_guest">Гость</string>
+    <string name="user_info_settings_title">Информация о пользователе</string>
+    <string name="user_need_lock_message">Перед созданием ограниченного профиля необходимо настроить блокировку экрана для защиты приложений и персональных данных.</string>
+    <string name="user_new_profile_name">Новый профиль</string>
+    <string name="user_new_user_name">Новый пользователь</string>
+    <string name="user_set_lock_button">Установить блокировку</string>
+    <string name="user_setup_button_setup_later">Не сейчас</string>
+    <string name="user_setup_button_setup_now">Настроить</string>
+    <string name="user_setup_dialog_message">Новый пользователь должен настроить свое пространство</string>
+    <string name="user_setup_dialog_title">Настроить пространство?</string>
+    <string name="user_setup_profile_dialog_message">Настроить профиль?</string>
+    <string name="user_switch_to_user">Переключиться на %s</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_apps_over_usb_summary">Выполнять проверку безопасности приложений при установке через ADB/ADT</string>
@@ -724,6 +750,8 @@ mm"</string>
     <string name="wifi_disconnected">Не подключено</string>
     <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
+    <string name="wifi_enhanced_mac_randomization">Расширенная рандомизация MAC-адреса</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к Wi-Fi сети, в которой доступна рандомизация MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
     <string name="wifi_is_off">Wi-Fi отключен</string>
@@ -732,6 +760,7 @@ mm"</string>
     <string name="wifi_no_internet">Нет подключения к интернету</string>
     <string name="wifi_no_internet_no_reconnect">Нет подключения к интернету</string>
     <string name="wifi_not_in_range">Недоступно</string>
+    <string name="wifi_passpoint_expired">Срок действия истек</string>
     <string name="wifi_remembered">Сохранено</string>
     <string name="wifi_scan_throttling">Ограничивать поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и улучшает работу сети</string>
