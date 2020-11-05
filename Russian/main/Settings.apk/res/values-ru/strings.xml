@@ -5298,6 +5298,7 @@ OTG отключается автоматически через 10 минут �
     <string name="ping_test_label">Выполнить тест ping</string>
     <string name="please_select_phase2">2-й этап аутентификации</string>
     <string name="please_type_passphrase">Пароль сети</string>
+    <string name="plmn_failure_radio_off">Сбой выбора сети. Радиомодуль выключен или недоступен.</string>
     <string name="poco_launcher_privacy_policy">Политика конфиденциальности POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Пользовательское соглашение POCO Launcher</string>
     <string name="pointer_location">Местоположение указателя</string>
@@ -6062,7 +6063,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_projection_example_game_title">Игры</string>
     <string name="screen_projection_help">Помощь</string>
     <string name="screen_projection_sample_summary">Трансляция документов, игр, фото и видео</string>
-    <string name="screen_projection_sample_title">Гид по функциям</string>
+    <string name="screen_projection_sample_title">Демонстрация</string>
     <string name="screen_projection_title">Трансляция</string>
     <string name="screen_reader_category_title">Программы чтения с экрана</string>
     <string name="screen_reader_mode_input_type_summary">Выберите жест для активации ввода текста при включенном TalkBack</string>
@@ -6608,6 +6609,12 @@ UT-интерфейс: %5$s"</string>
     <string name="share_remote_bugreport_dialog_message_finished">Администратор запросил отчет об ошибке, чтобы устранить неполадку. Он может получить доступ к приложениям и данным.</string>
     <string name="share_remote_bugreport_dialog_title">Разрешить доступ к информации об ошибке?</string>
     <string name="share_this_wifi">Расширение покрытия Wi-Fi</string>
+    <string name="shared_data_delete_failure_text">Произошла ошибка при удалении общих данных</string>
+    <string name="shared_data_no_accessors_dialog_text">Для этих общих данных нет договоров аренды. Удалить их?</string>
+    <string name="shared_data_no_blobs_text">Для этого пользователя нет общих данных</string>
+    <string name="shared_data_query_failure_text">Произошла ошибка при извлечении общих данных. Повторите попытку.</string>
+    <string name="shared_data_summary">Просмотр и изменение общих данных</string>
+    <string name="shared_data_title">Общие данные</string>
     <string name="sharing_remote_bugreport_dialog_message">Администратору предоставлен доступ к отчету об ошибке. Обратитесь к нему за дополнительной информацией.</string>
     <string name="short_summary_font_size">Увеличение или уменьшение размера шрифта</string>
     <string name="show_all_anrs">Показывать все ANR</string>
