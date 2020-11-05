@@ -36,7 +36,10 @@
     <string name="afternoon">PM</string>
     <string name="align_type">Расположение</string>
     <string name="always_style">Всегда</string>
+    <string name="always_style_symmary">Повышенный расход батареи</string>
     <string name="am">AM</string>
+    <string name="ambient_display_screen_title">Активный экран</string>
+    <string name="ambient_display_screen_title_sp">Активный экран</string>
     <string name="animation_clock_panel">Волны</string>
     <string name="aod_close_color_inversion">Эта функция не совместима с инверсией цвета. Сначала отключите инверсию цвета.</string>
     <string name="aod_component">Отображение</string>
@@ -229,6 +232,8 @@ dd.MM"</string>
     <string name="notification_anim_star">Звездный свет</string>
     <string name="notification_nothing">Ничего не делать</string>
     <string name="notification_screen_on">Включить экран</string>
+    <string name="off">Откл.</string>
+    <string name="on">Вкл.</string>
     <string name="only_show_bg_description">Не показывать время, дату и другие элементы</string>
     <string name="only_show_bg_title">Показывать только фон</string>
     <string name="open_aod_mode">Включить</string>
@@ -248,6 +253,7 @@ dd.MM"</string>
     <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
     <string name="scheduled_mode_msg">Активный период: %s</string>
     <string name="scheduled_style">По расписанию</string>
+    <string name="scheduled_style_summary">Настройка расписания</string>
     <string name="scope_des">Каждый калейдоскоп содержит 5 различных шаблонов, которые будут отображаться по очереди каждый раз, когда загорается экран.</string>
     <string name="scope_icon">Стиль калейдоскопа</string>
     <string name="scope_time">Калейдоскоп</string>
@@ -307,6 +313,7 @@ dd.M"</string>
     <string name="super_wallpaper_date_lunar">"YY 
 N e"</string>
     <string name="temporary_style">В течение 10 секунд</string>
+    <string name="temporary_style_summary">Рекомендуемое</string>
     <string name="text_color">Цвет текста</string>
     <string name="text_length_exceed_limit_alert">*Введенный текст слишком длинный</string>
     <string name="text_size">Размер текста</string>

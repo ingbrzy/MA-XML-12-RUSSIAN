@@ -5,7 +5,7 @@
     <string name="account_or_password_incorrect">Неверный идентификатор учетной записи или пароль</string>
     <string name="action_mode_deselect_all">Отменить выбор</string>
     <string name="action_mode_select_all">Выбрать все</string>
-    <string name="action_mode_title_empty">Выберите элементы</string>
+    <string name="action_mode_title_empty">Выберите данные</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="actionbar_immersion_button_more_description">Ещё</string>
     <string name="activate">Активировать</string>
@@ -15,6 +15,7 @@
     <string name="afternoon">PM</string>
     <string name="antispam">Список блокировок</string>
     <string name="app_name">Mi Mover</string>
+    <string name="appname_app_data_suffix">Данные приложения %1$s</string>
     <string name="audio">Аудио</string>
     <string name="audio_video_document">Аудио, видео и документы</string>
     <string name="back">Назад</string>
@@ -86,7 +87,7 @@
     <string name="connect_icloud_fail">Не удалось подключиться к iCloud</string>
     <string name="connect_icloud_fail_tips">Убедитесь, что ваша учетная запись iCloud активирована. Иначе, перейдите на icloud.com и следуйте инструкциям, чтобы активировать свою учетную запись. </string>
     <string name="connect_wifi">Подключиться к Wi-Fi</string>
-    <string name="connect_wifi_tip">Не удалось подключиться к сети. Подключитесь к Wi-Fi, чтобы импортировать элементы из iCloud.</string>
+    <string name="connect_wifi_tip">Не удалось подключиться к сети. Подключитесь к Wi-Fi, чтобы импортировать данные из iCloud.</string>
     <string name="connecting">Подключение…</string>
     <string name="connection_tips_activity_label">Исправление проблем</string>
     <string name="connection_tips_other_message">1. Убедитесь, что на вашем старом устройстве установлена последняя версия Mi Mover. Вы можете скачать последнюю версию Mi Mover в GetApps или воспользоваться этой ссылкой: %1$s.
@@ -98,7 +99,7 @@
     <string name="contacts">Контакты</string>
     <string name="copyright">Авторские права</string>
     <string name="current_user_not_supported_summary">Текущие настройки системы ограничивают передачу данных с помощью Mi Mover.</string>
-    <string name="current_user_not_supported_title">Не получается перенести элементы</string>
+    <string name="current_user_not_supported_title">Не удалось перенести данные</string>
     <string name="date_picker_dialog_title">Установить дату</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_done">Готово</string>
@@ -158,6 +159,7 @@
     <string name="error_title">Не удалось синхронизировать</string>
     <string name="error_unauthorized">Синхронизация отключена из-за слишком большого количества попыток входа.</string>
     <string name="evening">PM</string>
+    <string name="fail_list_tips">Следующие данные не могут быть перенесены на новое устройство.</string>
     <string name="failed_description">Неуспешно</string>
     <string name="faq">FAQ</string>
     <string name="finished">Завершено</string>
@@ -175,6 +177,8 @@
     <string name="friday_shortest">Пт</string>
     <string name="get_known_tip">Попробуйте еще раз</string>
     <string name="group_info_scanning">Подсчёт…</string>
+    <string name="guest_connect_dialog_ensure_text">Подключиться</string>
+    <string name="guest_connect_dialog_fail_message">Не удалось подключиться. Повторите попытку.</string>
     <string name="guest_hint_connect_new_device">Выберите новое устройство для подключения.</string>
     <string name="guest_install_app_hint_ensure">Загрузить</string>
     <string name="guest_install_app_hint_summary">Новая версия Mi Mover не совместима с установленной на этом устройстве. Загрузите и установите новую версию.</string>
@@ -203,6 +207,7 @@
     <string name="host_dialog_known_button">Готово</string>
     <string name="host_dialog_message">Убедитесь, что на другом устройстве установлена последняя версия Mi Mover, в противном случае оба устройства не смогут подключиться.</string>
     <string name="host_dialog_title">Не удалось подключиться</string>
+    <string name="host_install_hint">Mi Mover не установлен?</string>
     <string name="host_manual_connect_link_text">Если старое устройство слишком долго не может найти точку доступа, попробуйте подключиться вручную.</string>
     <string name="host_memory_insuff_cancel">Отмена</string>
     <string name="host_memory_insuff_confirm">Повторите выбор</string>
@@ -224,12 +229,12 @@
     <string name="hybrid_provider">Предоставлено %1$s</string>
     <string name="icloud_data_importing">Импорт…</string>
     <string name="icloud_how_to_backup_tip_steps">Внимание
-1. Чтобы импортировать элементы с устройства iOS, используйте последнюю резервную копию или синхронизируйте все элементы перед началом передачи.</string>
+1. Чтобы импортировать данные с устройства iOS, используйте последнюю резервную копию или синхронизируйте все данные перед передачей.</string>
     <string name="icloud_how_to_backup_tip_steps_two">2. Ваш Apple ID и пароль будут использоваться только для входа в систему. Они не будут сохраняться или записываться Mi Mover.</string>
     <string name="icloud_login_title">Войти в iCloud</string>
-    <string name="icloud_need_sync">Выберите элементы для импорта</string>
-    <string name="icloud_need_traffic_message">Вы не подключены к Wi-Fi сейчас. Использовать мобильные данные для импорта элементов из iCloud?»</string>
-    <string name="icloud_need_traffic_title">Использовать мобильные данные</string>
+    <string name="icloud_need_sync">Выберите данные для импорта</string>
+    <string name="icloud_need_traffic_message">Вы не подключены к Wi-Fi сейчас. Использовать мобильный интернет для импорта данных из iCloud?»</string>
+    <string name="icloud_need_traffic_title">Использовать мобильный интернет</string>
     <string name="icloud_need_wifi_message">Вы не подключены к Wi-Fi сейчас. Чтобы импортировать данные из iCloud, подключитесь к Wi-Fi.</string>
     <string name="icloud_need_wifi_new_message">Подключитесь к Wi-Fi для импортирования данных с iPhone.</string>
     <string name="icloud_need_wifi_new_title">Подключение к Wi-Fi</string>
@@ -277,6 +282,10 @@
     <string name="main_chooser_item_android_others">Импорт с другого телефона Android</string>
     <string name="main_chooser_item_ios">Импорт с iPhone</string>
     <string name="main_chooser_title">Выберите старое устройство</string>
+    <string name="main_receiver_summary">Нажмите для получения</string>
+    <string name="main_receiver_title">Новое</string>
+    <string name="main_sender_summary">Нажмите для отправки</string>
+    <string name="main_sender_title">Старое</string>
     <string name="manual_connection_content1">1. Нажмите \"Подключиться вручную\" на старом устройстве.</string>
     <string name="manual_connection_content2">2. Выберите указанную точку доступа Wi-Fi.</string>
     <string name="manual_connection_content3">3. Введите этот пароль на старом устройстве для подключения.</string>
@@ -341,7 +350,7 @@
     <string name="need_more_memory_cacel">Отмена</string>
     <string name="need_more_memory_confirm">Очистка</string>
     <string name="need_more_memory_summary">"Недостаточно места. Mi Mover требуется %1$s дополнительного пространства для хранения, чтобы создать сжатые пакеты перед передачей
-1. Попробуйте перенести только важные элементы.
+1. Попробуйте перенести только важные данные.
 2. Не выбирайте приложения с большим количеством данных.
 3. Используйте Очистку, чтобы освободить место."</string>
     <string name="need_more_memory_title">Недостаточно места</string>
@@ -474,6 +483,10 @@
     <string name="qq_app_send_fail">Не удалось отправить QQ</string>
     <string name="qq_data_external">QQ данные SD-карты</string>
     <string name="quit_now">Выход</string>
+    <string name="receiver_finish_detail_button">Подробности</string>
+    <string name="receiver_finish_detail_fail">Не удалось передать</string>
+    <string name="receiver_finish_detail_success">Переданные данные</string>
+    <string name="receiver_finish_title">Все готово!</string>
     <string name="reconnect">Подключиться снова</string>
     <string name="recreate_soft_ap_tips">Нажмите кнопку ниже, чтобы повторить попытку.</string>
     <string name="restore_data_to_device_content">"Ваши данные были синхронизированы с Xiaomi Cloud.
@@ -510,8 +523,12 @@
     <string name="searching_for_new_device">Поиск устройств поблизости…</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_all_description">Выбрать все</string>
-    <string name="select_empty">Выберите элементы для импорта в первую очередь</string>
-    <string name="select_item">Выберите элементы</string>
+    <string name="select_android_summary">Huawei, OPPO, vivo и другие</string>
+    <string name="select_android_title">Android</string>
+    <string name="select_apple_summary">iPhone</string>
+    <string name="select_apple_title">Apple</string>
+    <string name="select_empty">Выберите данные для импорта в первую очередь</string>
+    <string name="select_item">Выберите данные</string>
     <string name="select_item_calendar">Календарь</string>
     <string name="select_item_contacts">Контакты</string>
     <string name="select_item_empty_summary">Ничего нет</string>
@@ -519,12 +536,17 @@
     <string name="select_item_photos">Фото</string>
     <string name="select_item_remind">Напоминания</string>
     <string name="select_item_summary_loading">Подождите…</string>
+    <string name="select_mi_summary">Xiaomi и Redmi</string>
+    <string name="select_mi_title">Xiaomi</string>
+    <string name="select_old_device_title">Старые модели устройств</string>
     <string name="selected">Выбранные</string>
     <string name="send">Отправить</string>
     <string name="send_sms_for_sync_notice">Для активации данной услуги может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="send_sms_for_sync_title">Предупреждение</string>
     <string name="send_verification_code_fail">Не удалось отправить код подтверждения</string>
     <string name="send_verification_code_fail_tips">Убедитесь, что вы вошли в эту учетную запись на своем устройстве Apple. В противном случае вы не сможете получить код.</string>
+    <string name="sender_finish_bottom_tips">Перед удалением данных на этом устройстве убедитесь, что вы создали резервные копии всех важных данных.</string>
+    <string name="sender_finish_title">Успешно передано</string>
     <string name="settings_phone">Настройки телефона</string>
     <string name="settings_powerkeeper">Данные счетчика шагов</string>
     <string name="settings_sms">Настройки сообщений</string>
@@ -650,12 +672,13 @@
     <string name="trans_receive_time_remained">Получено: %1$s | Осталось: %2$s</string>
     <string name="trans_send_time_remained">Отправлено: %1$s | Осталось: %2$s</string>
     <string name="trans_show_qr_code_label">Подключиться к старому устройству</string>
-    <string name="trans_sync_transfer_data_list">Выберите элементы для передачи на старое устройство</string>
+    <string name="trans_sync_transfer_data_list">Выберите данные для передачи на старое устройство</string>
     <string name="trans_time_format_second">Менее 1 минуты</string>
     <string name="trans_time_spent">Время: %s</string>
     <string name="transfer_bottom_tip">Вы не сможете использовать Wi-Fi или Bluetooth во время передачи. Не покидайте эту страницу.</string>
     <string name="transfer_connect_fail_summary">Нажмите кнопку ниже для подключения вручную</string>
-    <string name="transfer_finish_bottom_tip">Если вы больше не собираетесь использовать старое устройство, вы можете стереть все данные на нем после подтверждения того, что все важные элементы были успешно переданы.</string>
+    <string name="transfer_finish_bottom_tip">Если вы больше не собираетесь использовать старое устройство, вы можете стереть все данные на нем после подтверждения того, что все необходимые данные были успешно переданы.</string>
+    <string name="transfer_finish_summary">Передано %1$s (%2$s)</string>
     <string name="transfer_lose_connect_summary">Похоже, соединение было прервано. Подключитесь снова.</string>
     <string name="transfer_lose_connect_title">Соединение было прервано</string>
     <string name="transfer_multi_connect_summary">Ваш перенос был прерван из-за соображений безопасности. Вы можете нажать \"Подключиться снова\", чтобы продолжить в любом случае.</string>
