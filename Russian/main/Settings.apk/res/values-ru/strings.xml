@@ -3270,6 +3270,8 @@
     <string name="gxzw_dialog_ok">Понятно</string>
     <string name="gxzw_dialog_title">Об экранном сканере отпечатков</string>
     <string name="gxzw_enroll_again">Поднимите палец и приложите снова к сканеру отпечатков</string>
+    <string name="gxzw_lowlight_open_summary">Уменьшить яркость значка отпечатка пальца при низкой освещенности. Когда эта функция включена, устройство может разблокироваться медленнее.</string>
+    <string name="gxzw_lowlight_open_title">Разблокировка при низкой освещенности</string>
     <string name="gxzw_quick_open_enable_summary">Использовать ярлыки для запуска приложений или их функций при разблокировке</string>
     <string name="gxzw_quick_open_enable_title">Ярлыки отпечатка пальца</string>
     <string name="gxzw_quick_open_fast_summary">Проведите по значку отпечатка пальца для запуска ярлыка при разблокировке.</string>
@@ -3509,7 +3511,7 @@
     <string name="ims_reg_status_not_registered">Не зарегистрирована</string>
     <string name="ims_reg_status_registered">Зарегистрирована</string>
     <string name="ims_reg_title">Состояние регистрации IMS</string>
-    <string name="imsi_protection_warning">Этой сети доступен уникальный ID, который можно использовать для отслеживания местоположения устройства.. <annotation id="url">Подробнее</annotation></string>
+    <string name="imsi_protection_warning">Этой сети доступен уникальный ID, который можно использовать для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>

@@ -218,8 +218,20 @@
     <string name="app_behavior_camera_single">Доступ к камере</string>
     <string name="app_behavior_clipboard">%1s - доступ к буферу обмена</string>
     <string name="app_behavior_clipboard_bg">%1s - доступ к буферу обмена в фоновом режиме</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_behavior_clipboard_bg_new">%1s copied items to the clipboard in the background</string>
     <string name="app_behavior_clipboard_bg_single">Доступ к буферу обмена в фоновом режиме</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_behavior_clipboard_bg_single_new">This app copied items to the clipboard in the background</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_behavior_clipboard_new">%1s copied items to the clipboard</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_behavior_clipboard_read_bg_single">This app accessed items in the clipboard in the background</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_behavior_clipboard_read_single">This app accessed items in the clipboard</string>
     <string name="app_behavior_clipboard_single">Доступ к буферу обмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_behavior_clipboard_single_new">This app copied items to the clipboard</string>
     <string name="app_behavior_contacts">%1s - доступ к контактам</string>
     <string name="app_behavior_contacts_bg">%1s - доступ к контактам в фоновом режиме</string>
     <string name="app_behavior_contacts_bg_single">Доступ к контактам в фоновом режиме</string>
@@ -286,6 +298,10 @@
     <string name="app_behavior_phonestate">%1s - доступ к информации об устройстве</string>
     <string name="app_behavior_phonestate_single">Доступ к информации об устройстве</string>
     <string name="app_behavior_privacy_manager">Уведомления о действиях</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_behavior_read_clipboard">%1s accessed items in the clipboard</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_behavior_read_clipboard_bg">%1s accessed items in the clipboard in the background</string>
     <string name="app_behavior_recognition">%1s - доступ к данным о здоровье и активности</string>
     <string name="app_behavior_recognition_single">Доступ к данным о здоровье и активности</string>
     <string name="app_behavior_search">Поиск</string>
@@ -2398,6 +2414,8 @@
     <string name="perm_intercept_privacy_content">Это может привести к раскрытию ваших личных данных. Разрешить приложению %1s?</string>
     <string name="perm_intercept_title">Предоставление приложению %1s доступа к истории использования, позволит ему</string>
     <string name="perm_intercept_unknown_title">Предоставление приложению %1s разрешения устанавливать приложения из неизвестных источников может привести к тому, что</string>
+<!-- ### FROM SOURCE -->
+    <string name="perm_list_header_title">Apps</string>
     <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
     <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
     <string name="permgroupdesc_calendar">Доступ к календарю</string>
@@ -2412,6 +2430,8 @@
     <string name="permgroupdesc_sms">Отправлять и просматривать SMS-сообщения</string>
     <string name="permgroupdesc_storage">Доступ к файлам на устройстве</string>
     <string name="permission_action_accept">Разрешить</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_action_ai_prompt">Notify when permission is used</string>
     <string name="permission_action_always">Разрешать всегда</string>
     <string name="permission_action_desc">Разрешить, но отправить пустую информацию для защиты конфиденциальности</string>
     <string name="permission_action_desc_always">Разрешение предоставляется всегда</string>
@@ -2484,6 +2504,8 @@
     <string name="permission_upgrade_virtual">Чтобы не предоставлять приложениям доступ к контактам или журналу вызовов, можно выбрать \"Отправить пустую информацию\" при запросе соответствующего разрешения.</string>
     <string name="permission_with_SMS_and_MMS">Доступ к SMS и MMS</string>
     <string name="permission_with_call_and_contact">Доступ к контактам и вызовам</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_with_read_write_clipboard">Allow apps to access and save items to the clipboard</string>
     <string name="permit_running_network">Фоновое подключение</string>
     <string name="person_hotpot">Мобильные точки доступа</string>
     <string name="phone">Телефон</string>
@@ -2937,6 +2959,20 @@
     <string name="privacy_special_permission_summary">Управление специальным доступом</string>
     <string name="privacy_special_permission_title">Специальный доступ</string>
     <string name="privacy_summary">Узнайте о защите конфиденциальности в MIUI 12</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_thumbnail_blur_category_financial">Finance</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_thumbnail_blur_category_other">Other</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_thumbnail_blur_category_photography">Photo &amp; video</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_thumbnail_blur_category_tip">Recommended</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_thumbnail_blur_search_empty">"Couldn't find results"</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_thumbnail_blur_title">Blur previews</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_thumbnail_blur_top_tip">Select apps for which previews will be blurred in Recents</string>
     <string name="privacy_type_open">Вкл.</string>
     <string name="privacy_using_camera">Доступ к камере</string>
     <string name="privacy_using_location">Доступ к местоположению</string>
@@ -2969,6 +3005,22 @@
     <string name="reach_daily_limit_value_body">Ограничьте использование интернета.</string>
     <string name="reach_daily_limit_value_title">Достигнут лимит трафика</string>
     <string name="read_all_sms">Прочитать все</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_and_write_clipboard">Access and save items to the clipboard</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_clipboard_ai_close_no">Not now</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_clipboard_ai_close_tip">"You will no longer receive notifications when apps access the clipboard. Instead, they'll be allowed to use this permission only while you're using the app. Adjust permissions?"</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_clipboard_ai_close_yes">Adjust</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_clipboard_op_content">"Instead of giving the permission only when you're using the app, you'll receive a notification every time apps access your clipboard."</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_clipboard_op_title">Notify when apps access items in the clipboard</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_clipboard_tip_content">This permission allows apps to read any content you copy, which may include private information (e.g. account details, bank card numbers, and passwords).</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_clipboard_tip_title">Accessing items in the clipboard</string>
     <string name="receive_now">Получить</string>
     <string name="recently_reject_message">Отклонен запрос на установку %1$s и %2$d других</string>
     <string name="recently_reject_message_one">Отклонен запрос на установку %1$s</string>
@@ -3879,9 +3931,29 @@
     <string name="vb_video_effects_display_style">Стиль</string>
     <string name="vb_video_effects_setting_black_white">Ч/Б</string>
     <string name="vb_video_effects_setting_cinema">Кино</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_girl">Blush</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_gorgeous">Vibrant</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_green_orange">Orange</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_grim">Cool</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_hdr">HDR</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_knight">Metal</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_mecha">Robot</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_nostalgia">Nostalgic</string>
     <string name="vb_video_effects_setting_old_movie">Ретро</string>
     <string name="vb_video_effects_setting_outside">Улица</string>
     <string name="vb_video_effects_setting_raw">Оригинал</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_solar">Fade</string>
+<!-- ### FROM SOURCE -->
+    <string name="vb_video_effects_setting_warmth">Warm</string>
     <string name="vb_video_effects_settings_liquid">Четкость</string>
     <string name="vb_video_effects_settings_stereo">Громкость</string>
     <string name="vb_video_effects_srs_premium_sound">Звук</string>
@@ -4042,6 +4114,10 @@
     <string name="wlan_change_protection_title">Не переключать сети</string>
     <string name="wlan_optimization_summary">Уменьшение задержки в сети Wi-Fi</string>
     <string name="wlan_optimization_title">Оптимизация Wi-Fi</string>
+<!-- ### FROM SOURCE -->
+    <string name="write_clipboard_tip_content">This permission allows apps to save items to the clipboard. Spam messages may affect your normal use of the clipboard.</string>
+<!-- ### FROM SOURCE -->
+    <string name="write_clipboard_tip_title">Saving items to the clipboard</string>
     <string name="wrong_password">Неверный пароль</string>
     <string name="xunyou_net_booster">Ускорение сети</string>
     <string name="xunyou_net_booster_detail">Использовать сервисы ускорения Xunyou для игр</string>

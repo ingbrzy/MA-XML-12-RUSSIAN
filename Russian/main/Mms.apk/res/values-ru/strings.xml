@@ -418,12 +418,18 @@
     <string name="menu_unlock">Удалить из избранных</string>
     <string name="menu_view_contact">Просмотреть контакт</string>
     <string name="menu_view_group_info">Информация о группе</string>
+    <string name="message_cannot_send_air_mode">"Не удалось отправить сообщения.
+Отключите режим полета."</string>
+    <string name="message_cannot_send_sim_unavailable">"Не удалось отправить сообщения.
+Проверьте SIM-карту."</string>
     <string name="message_class_label">"Класс сообщения: "</string>
     <string name="message_contact">Контакт:</string>
     <string name="message_details_title">Информация о сообщении</string>
     <string name="message_download_failed_title">Сообщение не загружено</string>
     <string name="message_expired">Просрочено</string>
     <string name="message_failed">Ошибка</string>
+    <string name="message_failed_and_cotanct_operator">Произошла ошибка. <font color="#1c86ee">Свяжитесь с вашим оператором связи</font>.</string>
+    <string name="message_failed_and_feedback">Произошла ошибка. <font color="#1c86ee">Сообщите о проблеме</font>.</string>
     <string name="message_failed_body">Нажмите для просмотра сообщения и повторите попытку.</string>
     <string name="message_number">Номер телефона:</string>
     <string name="message_pending">Отправка</string>
@@ -445,9 +451,20 @@
     <string name="mi_message_title">Mi сообщения</string>
     <string name="midnight">Ночь</string>
     <string name="millionbyte">МБ</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
+    <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизировано с облаком</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
+    <string name="miuix_appcompat_confirm_description">Подтверждение</string>
+    <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
+    <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all_description">Выбор всех элементов</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
