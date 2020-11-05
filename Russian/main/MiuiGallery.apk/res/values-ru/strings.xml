@@ -553,8 +553,12 @@
     <string name="download_title">Подготовка файлов…</string>
     <string name="download_type_origin">Исходные файлы</string>
     <string name="download_type_origin_desc">Исходные файлы</string>
+    <string name="download_type_origin_subtitle_china">Исходные изображения занимают больше места для хранения и могут быть загружены только через Wi-Fi</string>
+    <string name="download_type_origin_title">Исходные изображения</string>
     <string name="download_type_thumbnail">Высокое качество</string>
     <string name="download_type_thumbnail_desc">Высокое качество</string>
+    <string name="download_type_thumbnail_subtitle">Изображения высокого качества выглядят почти так же, как и исходные, но занимают меньше места</string>
+    <string name="download_type_thumbnail_title">Высокое качество</string>
     <string name="download_type_title">Качество загрузок</string>
     <string name="download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным расходам. Загрузить?</string>
     <string name="download_with_metered_network_title">Мобильный интернет</string>
@@ -1209,6 +1213,7 @@
     <string name="need_to_turn_on_sync_first">Включите синхронизацию с облаком</string>
     <string name="need_to_turn_on_wlan">Подключитесь к Wi-Fi</string>
     <string name="network_connected_rescan">Не удалось подключиться к сети</string>
+    <string name="new_album_invalid_byte">Имя слишком длинное</string>
     <string name="new_album_invalid_char">Имя альбома не может содержать \"%s\", введите букву или цифру.</string>
     <string name="new_album_invalid_name">Альбом \"%s\" является системным, введите другое имя.</string>
     <string name="new_album_invalid_prefix">Имя альбома не может начинаться с \".\" или \"_\"</string>
@@ -1228,6 +1233,7 @@
     <string name="not_remind_again">Больше не показывать</string>
     <string name="not_remind_any_more">Больше не показывать</string>
     <string name="not_set">Не задано</string>
+    <string name="notice_click_lock_orientation">Нажмите, чтобы заблокировать ориентацию</string>
     <string name="ocr_abnormal">Не удалось распознать текст</string>
     <string name="ocr_abnormal_pic_format">Не удалось распознать текст. Этот формат изображения не поддерживается.</string>
     <string name="ocr_abnormal_pic_too_large">Не удалось распознать текст. Это изображение слишком большое.</string>
@@ -1299,6 +1305,9 @@
     <string name="operation_remove_rubbish">Восстановить</string>
     <string name="operation_remove_secret">Удалить из приватного альбома</string>
     <string name="operation_rename">Переименовать</string>
+    <string name="operation_replace_album_cover">Сменить обложку альбома</string>
+    <string name="operation_replace_album_cover_custom_mode">Пользовательская</string>
+    <string name="operation_replace_album_cover_default_mode">По умолчанию</string>
     <string name="operation_save">Сохранить</string>
     <string name="operation_send">Отправить</string>
     <string name="operation_set_contact_photo">Установить как фото контакта</string>
@@ -1431,6 +1440,7 @@
     <string name="photo_movie_module_finish">Модуль Клип успешно загружен</string>
     <string name="photo_movie_module_loading">Загрузка модуля Клип…</string>
     <string name="photo_movie_select_image_range">Клипы могут содержать от 3 до 20 фото</string>
+    <string name="photo_page_lock_screen">Заблокировать ориентацию</string>
     <string name="photo_page_rotate_screen">Поворот экрана</string>
     <string name="photo_page_save_uri_image_fail">Не удалось сохранить в Галерее</string>
     <string name="photo_page_save_uri_image_ok">Фото сохранено в Галерее</string>
@@ -2025,6 +2035,7 @@
     <string name="to_enable_sync_dialog_title">Синхронизация</string>
     <string name="toast_invalid_char">Имя файла не может содержать \"%s\"</string>
     <string name="toast_invalid_prefix">Имя файла не может начинаться с \".\" or \"_\"</string>
+    <string name="toast_orientation_locked">Ориентация успешно заблокирована</string>
     <string name="toast_rename_exit">Файл уже существует</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
@@ -2358,6 +2369,7 @@
     <string name="vlog_video_selected_not_support">Редактирование не поддерживается</string>
     <string name="vlog_video_trans_code_cons">Обработка файла высокого разрешения…</string>
     <string name="voice_assistant">Голосовой ввод</string>
+    <string name="watch_all_photo">Галерея</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
