@@ -71,6 +71,7 @@ call run_copy_translation.bat %1 MiuiHome
 call run_copy_translation.bat %1 MiuiPackageInstaller
 call run_copy_translation.bat %1 MiuiScanner
 call run_copy_translation.bat %1 MiuiScreenRecorder
+call run_copy_translation.bat %1 MiuiScreenshot
 call run_copy_translation.bat %1 MiuiSystemUI
 call run_copy_translation.bat %1 MiuiSystemUIPlugin
 call run_copy_translation.bat %1 MiuiVideoGlobal
@@ -113,6 +114,7 @@ call run_copy_translation.bat %1 WallpaperCropper
 call run_copy_translation.bat %1 Weather
 call run_copy_translation.bat %1 WeatherProvider
 call run_copy_translation.bat %1 WfdService
+call run_copy_translation.bat %1 wps-lite
 call run_copy_translation.bat %1 XiaomiAccount
 call run_copy_translation.bat %1 XiaomiEUExt
 call run_copy_translation.bat %1 XiaomiServiceFramework
