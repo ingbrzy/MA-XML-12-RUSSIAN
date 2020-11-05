@@ -43,7 +43,7 @@
     <string name="ble_waiting_verify_code">Проверка кода…</string>
     <string name="ble_waiting_verify_code_error">Введен некорректный код</string>
     <string name="btn_got_it">Понятно</string>
-    <string name="btn_install_complete">Установлено. Начать перенос.</string>
+    <string name="btn_install_complete">Установлено</string>
     <string name="btn_mi_cloud_install_complete">Приложение уже установлено</string>
     <string name="btn_restore_data_to_device_complete">Войти</string>
     <string name="btn_sync_data_to_mi_cloud_complete">Успешно синхронизировано</string>
@@ -179,7 +179,7 @@
     <string name="group_info_scanning">Подсчёт…</string>
     <string name="guest_connect_dialog_ensure_text">Подключиться</string>
     <string name="guest_connect_dialog_fail_message">Не удалось подключиться. Повторите попытку.</string>
-    <string name="guest_hint_connect_new_device">Выберите новое устройство для подключения.</string>
+    <string name="guest_hint_connect_new_device">Выберите новое устройство</string>
     <string name="guest_install_app_hint_ensure">Загрузить</string>
     <string name="guest_install_app_hint_summary">Новая версия Mi Mover не совместима с установленной на этом устройстве. Загрузите и установите новую версию.</string>
     <string name="guest_install_app_hint_title">Загрузить новую версию Mi Mover</string>
@@ -514,13 +514,13 @@
     <string name="scanner_send_dialog_btn">Понятно</string>
     <string name="scanner_send_dialog_message">Не выключайте Wi-Fi и не переключайтесь между сетями во время передачи.</string>
     <string name="scanner_size_selected">Выбрано: %s</string>
-    <string name="scanner_time_remained">Расчетное время: %s</string>
+    <string name="scanner_time_remained">Расчетное время передачи: %s</string>
     <string name="scanner_title_tip">Данные для передачи</string>
     <string name="scanner_wechat_overwrite_hit">Из-за ограничений сторонних приложений, история чатов и другие данные приложения на новом устройстве будут заменены данными со старого, после завершения передачи.</string>
     <string name="search_action_mode_cancel">Отмена</string>
     <string name="search_input_description">Поиск</string>
     <string name="search_mode_button_back_description">Назад</string>
-    <string name="searching_for_new_device">Поиск устройств поблизости…</string>
+    <string name="searching_for_new_device">Поиск нового устройства…</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_all_description">Выбрать все</string>
     <string name="select_android_summary">Huawei, OPPO, vivo и другие</string>
