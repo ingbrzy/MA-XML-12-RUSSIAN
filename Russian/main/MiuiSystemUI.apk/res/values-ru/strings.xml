@@ -425,7 +425,7 @@
     <string name="biometric_dialog_wrong_password">Неверный графический ключ</string>
     <string name="biometric_dialog_wrong_pattern">Неверный пароль</string>
     <string name="biometric_dialog_wrong_pin">Неверный PIN-код</string>
-    <string name="blob_expires_text">Истекает %s</string>
+    <string name="blob_expires_text">Истекает: %s</string>
     <string name="blob_id_text">ID общих данных: %d</string>
     <string name="block">Блокировать все уведомления</string>
     <string name="block_notification_content_text">Уведомления от %1$s больше не будут отображаться. Для изменения перейдите в Настройки.</string>
@@ -2077,6 +2077,7 @@ d MMMM"</string>
     <string name="torch_closed">Фонарик выключен</string>
     <string name="torch_high_temperature_warning">Устройство перегрелось. Фонарик недоступен.</string>
     <string name="torch_opened">Фонарик включен</string>
+    <string name="touch_filtered_warning">Настройки не могут проверить ваш ответ, потому что приложение скрывает запрос на разрешение.</string>
     <string name="track_frame_time">Профилировать HWUI-отрисовку</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
     <string name="tts_default_lang_summary">Выбор языка по умолчанию для синтезатора речи</string>
@@ -2296,6 +2297,16 @@ d MMMM"</string>
     <string name="wifi_connected_no_internet">Подключено, без доступа в интернет</string>
     <string name="wifi_coverage_extend">Расширение покрытия Wi-Fi</string>
     <string name="wifi_coverage_extend_summary">Расширение покрытия Wi-Fi с использованием точки доступа</string>
+    <string name="wifi_debugging_allow">Разрешить</string>
+    <string name="wifi_debugging_always">Всегда разрешать для этой сети</string>
+    <string name="wifi_debugging_message">"Имя сети (SSID)
+%1$s
+
+Адрес Wi-Fi (BSSID)
+%2$s"</string>
+    <string name="wifi_debugging_secondary_user_message">Текущий пользователь не может включить беспроводную отладку. Чтобы использовать эту функцию, переключитесь на основного пользователя.</string>
+    <string name="wifi_debugging_secondary_user_title">Беспроводная отладка запрещена</string>
+    <string name="wifi_debugging_title">Разрешить беспроводную отладку для этой сети?</string>
     <string name="wifi_disabled_by_recommendation_provider">Не подключено из-за низкого качества сети</string>
     <string name="wifi_disabled_generic">Отключено</string>
     <string name="wifi_disabled_network_failure">Ошибка конфигурации IP</string>
