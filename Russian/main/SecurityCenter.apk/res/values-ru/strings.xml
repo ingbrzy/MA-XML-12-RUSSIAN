@@ -204,10 +204,10 @@
     <string name="app_behavior_audio_single">Доступ к микрофону</string>
     <string name="app_behavior_autostart">%1s - автозапуск</string>
     <string name="app_behavior_autostart_single">Автозапуск</string>
-    <string name="app_behavior_calendar">%1s - доступ к событиям календаря</string>
-    <string name="app_behavior_calendar_bg">%1s - доступ к событиям календаря в фоновом режиме</string>
-    <string name="app_behavior_calendar_bg_single">Доступ к событиям календаря в фоновом режиме</string>
-    <string name="app_behavior_calendar_single">Доступ к событиям календаря</string>
+    <string name="app_behavior_calendar">%1s - доступ к календарю</string>
+    <string name="app_behavior_calendar_bg">%1s - доступ к календарю в фоновом режиме</string>
+    <string name="app_behavior_calendar_bg_single">Доступ к календарю в фоновом режиме</string>
+    <string name="app_behavior_calendar_single">Доступ к календарю</string>
     <string name="app_behavior_calllog">%1s - доступ к журналу вызовов</string>
     <string name="app_behavior_calllog_bg">%1s - доступ к журналу вызовов в фоновом режиме</string>
     <string name="app_behavior_calllog_bg_single">Доступ к журналу вызовов в фоновом режиме</string>
@@ -264,8 +264,8 @@
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s и %2s используют микрофон</string>
     <string name="app_behavior_notification_camera_one">%1s - используется камера</string>
     <string name="app_behavior_notification_camera_two" formatted="false">%1s и %2s используют камеру</string>
-    <string name="app_behavior_notification_location_one">%1s - используется доступ к местоположению</string>
-    <string name="app_behavior_notification_location_two" formatted="false">%1s и %2s используют доступ к местоположению</string>
+    <string name="app_behavior_notification_location_one">%1s - используется местоположение</string>
+    <string name="app_behavior_notification_location_two" formatted="false">%1s и %2s используют местоположение</string>
     <string name="app_behavior_notification_title_calllog_read">%1s - чтение журнала вызовов в фоновом режиме</string>
     <string name="app_behavior_notification_title_calllog_write">%1s - изменение журнала вызовов в фоновом режиме</string>
     <string name="app_behavior_notification_title_clipboard_read">%1s - чтение буфера обмена в фоновом режиме</string>
@@ -276,7 +276,7 @@
     <string name="app_behavior_notification_title_just_location">%1s - доступ к местоположению в фоновом режиме</string>
     <string name="app_behavior_notification_title_multi">Действия приложений</string>
     <string name="app_behavior_notification_title_now_audio">%1s - используется микрофон в фоновом режиме</string>
-    <string name="app_behavior_notification_title_now_location">%1s - используется доступ к местоположению в фоновом режиме</string>
+    <string name="app_behavior_notification_title_now_location">%1s - используется местоположение в фоновом режиме</string>
     <string name="app_behavior_notification_title_single_group">%1s - выполнено несколько действий</string>
     <string name="app_behavior_notification_title_storage">%1s - изменены файлы в фоновом режиме</string>
     <string name="app_behavior_now_running">Запущено</string>
@@ -301,7 +301,7 @@
     <string name="app_behavior_sensor_single">Доступ к данным датчиков о состоянии организма</string>
     <string name="app_behavior_settings_category_perm">Уведомление об использовании</string>
     <string name="app_behavior_settings_category_privacy">Защита личной информации</string>
-    <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует доступ к местоположению, микрофон или камеру в фоновом режиме</string>
+    <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует местоположение, микрофон или камеру в фоновом режиме</string>
     <string name="app_behavior_settings_privacy_tips">Уведомлять, когда приложение получает доступ к контактам, журналу вызовов или выполняет конфиденциальные действия</string>
     <string name="app_behavior_sms_read">%1s - чтение SMS</string>
     <string name="app_behavior_sms_read_single">Чтение SMS</string>
@@ -328,7 +328,7 @@
     <string name="app_behavior_wakepath_single">Запуск приложения %2s</string>
     <string name="app_behavior_warning_audio_title">%1s - используется микрофон в фоновом режиме</string>
     <string name="app_behavior_warning_content">Завершить процесс, если разрешение отсутствует</string>
-    <string name="app_behavior_warning_location_title">%1s - используется доступ к местоположению</string>
+    <string name="app_behavior_warning_location_title">%1s - используется местоположение</string>
     <string name="app_bg_restrict_dialog_message">Ограничение фоновых подключений может помешать нормальной работе приложения. Например, оно больше не сможет получать сообщения или обновлять данные.</string>
     <string name="app_check_no_issue">Проблемы с питанием не найдены. Отлично!</string>
     <string name="app_detail">Подробности</string>
@@ -485,9 +485,9 @@
     <string name="app_running_tip_dialog_text">Закройте приложение %1$s, чтобы избежать его работы в фоновом режиме. Это ускорит работу устройства и снизит энергопотребление.</string>
     <string name="app_running_tip_dialog_title">Закрытие приложения</string>
     <string name="app_running_tip_uninstall">Удалить приложение</string>
-    <string name="app_statusbar_audio_now">Доступ к микрофону</string>
-    <string name="app_statusbar_camera_now">Доступ к камере</string>
-    <string name="app_statusbar_location_now">Доступ к местоположению</string>
+    <string name="app_statusbar_audio_now">Используется микрофон</string>
+    <string name="app_statusbar_camera_now">Используется камера</string>
+    <string name="app_statusbar_location_now">Используется местоположение</string>
     <string name="app_summary">Поддержка личных и групповых красных пакетов</string>
     <string name="app_usage_never">Работало давно</string>
     <string name="app_usage_recently">Работало недавно</string>
@@ -1803,7 +1803,7 @@
     <string name="intl_perm_intro_message">Нажмите для настройки разрешений, чтобы избежать утечки данных</string>
     <string name="intl_perm_notification_content">Настройка разрешений</string>
     <string name="intl_perm_notification_title">Защита конфиденциальности</string>
-    <string name="intl_perm_privacy_control_calendar">Приложение сможет получать доступ или редактировать элементы календаря только когда вы используете его</string>
+    <string name="intl_perm_privacy_control_calendar">Приложение сможет получать доступ или редактировать календарь только когда вы используете его</string>
     <string name="intl_perm_privacy_control_calllog">Приложение сможет получать доступ или редактировать журнал вызовов только когда вы используете его</string>
     <string name="intl_perm_privacy_control_camera">Приложение сможет получать доступ к камере только когда вы используете его</string>
     <string name="intl_perm_privacy_control_contact">Приложение сможет получать доступ или редактировать контакты только когда вы используете его</string>
@@ -2468,7 +2468,7 @@
     <string name="permission_instruction_read_notify_sms">Это разрешение позволяет приложениям читать текстовые сообщения с уведомлениями, хранящиеся на устройстве или на SIM-карте.</string>
     <string name="permission_instruction_read_phone_state">Это разрешение позволяет приложениям получать доступ к вашему номеру телефона, IMEI, IMSI и другим идентификаторам устройства. Приложения обычно используют это разрешение для определения перенаправления вызовов. Если используется виртуальный идентификатор устройства, приложения не смогут получить доступ к фактическим идентификаторам устройства.</string>
     <string name="permission_instruction_read_sms">Это разрешение позволяет приложениям читать все текстовые сообщения, хранящиеся на вашем устройстве или SIM-карте. Такие сообщения могут содержать пароли, реквизиты банковского счета и другую личную информацию.</string>
-    <string name="permission_instruction_read_write_calendar">Это разрешение позволяет приложениям получать доступ к вашему календарю, а также читать, добавлять, удалять, редактировать, отправлять и сохранять события календаря. Вредоносные программы могут использовать это разрешение для отправки сообщений от вашего имени или редактирования событий календаря без вашего согласия.</string>
+    <string name="permission_instruction_read_write_calendar">Это разрешение позволяет приложениям получать доступ к вашему календарю, а также читать, добавлять, удалять, редактировать, отправлять и сохранять события календаря. Вредоносные программы могут использовать это разрешение для отправки сообщений от вашего имени или редактирования календаря без вашего согласия.</string>
     <string name="permission_instruction_receive_mms">Это разрешение позволяет приложениям читать все мультимедийные сообщения, хранящиеся на вашем устройстве или SIM-карте. Такие сообщения могут содержать пароли, реквизиты банковского счета и другую личную информацию.</string>
     <string name="permission_instruction_record_audio">Это разрешение позволяет приложениям использовать микрофон для записи звука. Помните, что это разрешение позволяет приложениям записывать все, что угодно, включая ваши разговоры с другими. Лучше всего разрешить приложениям использовать это разрешение только тогда, когда вы используете приложения.</string>
     <string name="permission_instruction_running_background">Это разрешение позволяет приложениям работать в фоновом режиме. При этом приложения могут собирать данные и предоставлять услуги. Помните, что такие действия увеличивают энергопотребление.</string>
@@ -2874,12 +2874,12 @@
     <string name="privacy_dialog_ok">Понятно</string>
     <string name="privacy_dialog_ok_with_num">Понятно (%s сек.)</string>
     <string name="privacy_dialog_open">Включить</string>
-    <string name="privacy_empty_call">Доступа к журналу вызовов сегодня не было</string>
-    <string name="privacy_empty_contact">Доступа к контактам сегодня не было</string>
-    <string name="privacy_empty_location">Доступа к местоположению сегодня не было</string>
-    <string name="privacy_empty_record">Доступа к микрофону сегодня не было</string>
-    <string name="privacy_empty_storage">Доступа к памяти сегодня не было</string>
-    <string name="privacy_guide_permission_guide_text">Показывать уведомления в строке состояния, когда приложения используют доступ к местоположению, микрофону или камере в фоновом режиме.</string>
+    <string name="privacy_empty_call">Нет записей</string>
+    <string name="privacy_empty_contact">Нет записей</string>
+    <string name="privacy_empty_location">Нет записей</string>
+    <string name="privacy_empty_record">Нет записей</string>
+    <string name="privacy_empty_storage">Нет записей</string>
+    <string name="privacy_guide_permission_guide_text">Показывать уведомления в строке состояния, когда приложения используют местоположение, микрофон или камеру в фоновом режиме.</string>
     <string name="privacy_guide_permission_use_text">MIUI будет собирать статистику использования приложениями конфиденциальных разрешений, включая доступ к местоположению, контактам, журналу вызовов, микрофону и памяти устройства. Данная статистика может быть использована для более тонкой настройки разрешений.</string>
     <string name="privacy_informed_title">Статистика</string>
     <string name="privacy_location_info_summary">Управление доступом к местоположению</string>
@@ -2911,11 +2911,11 @@
     <string name="privacy_permission_summary_none">Нет приложений с постоянным доступом</string>
     <string name="privacy_permission_use_times">Статистика приложений, использующих разрешения для конфиденциальных действий</string>
     <string name="privacy_permission_use_warning">Уведомления об использовании</string>
-    <string name="privacy_pop_call">Доступ к журналу вызовов сегодня</string>
-    <string name="privacy_pop_contact">Доступ к контактам сегодня</string>
-    <string name="privacy_pop_location">Доступ к местоположению сегодня</string>
-    <string name="privacy_pop_record">Использование микрофона сегодня</string>
-    <string name="privacy_pop_storage">Доступ к памяти устройства сегодня</string>
+    <string name="privacy_pop_call">Журнал вызовов использовался</string>
+    <string name="privacy_pop_contact">Контакты использовались</string>
+    <string name="privacy_pop_location">Местоположение использовалось</string>
+    <string name="privacy_pop_record">Микрофон использовался</string>
+    <string name="privacy_pop_storage">Доступ к памяти использовался</string>
     <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для обновления статистики трафика.</string>
     <string name="privacy_prompt_traffic_adjust_message">"После начала калибровки MIUI подключится к сети, зашифрует данные об операторе, номере телефона, IMEI и Mi Аккаунте, и загрузит их на серверы Xiaomi. Это нужно для получения от оператора шаблона калибровки и определения возможности покупки данных в вашем расположении.
 
