@@ -16,7 +16,7 @@
     <string name="HIPS_Perm_Body_Sensors">Нательные датчики</string>
     <string name="HIPS_Perm_Body_Sensors_Desc">Доступ к нательным датчикам (например, к монитору сердечного ритма)</string>
     <string name="HIPS_Perm_Calendar">Календарь</string>
-    <string name="HIPS_Perm_Calendar_Desc">Чтение записей календаря</string>
+    <string name="HIPS_Perm_Calendar_Desc">Доступ к календарю</string>
     <string name="HIPS_Perm_Call">Вызовы</string>
     <string name="HIPS_Perm_CallLog">Журнал вызовов</string>
     <string name="HIPS_Perm_CallLog_Desc">Доступ к журналу вызовов и изменение записей</string>
@@ -98,8 +98,8 @@
     <string name="HIPS_Perm_read_clipboard_Desc">Разрешить приложению чтение буфера обмена</string>
     <string name="HIPS_Perm_read_notification_sms">Сервисные SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Чтение сервисных SMS</string>
-    <string name="HIPS_Perm_recognition">Доступ к информации об активности</string>
-    <string name="HIPS_Perm_recognition_Desc">Разрешить приложению доступ к информации об активности</string>
+    <string name="HIPS_Perm_recognition">Информация об активности</string>
+    <string name="HIPS_Perm_recognition_Desc">Доступ к данным о здоровье и активности</string>
     <string name="HIPS_Perm_service_foreground">Приоритетные сервисы</string>
     <string name="HIPS_Perm_service_foreground_Desc">Приоритетные сервисы</string>
     <string name="HIPS_Perm_show_when_locked">Экран блокировки</string>

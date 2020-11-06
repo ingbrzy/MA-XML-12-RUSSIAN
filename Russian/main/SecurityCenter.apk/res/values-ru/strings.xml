@@ -2481,7 +2481,7 @@
     <string name="permission_instruction_use_sip">Это разрешение позволяет приложениям использовать видеосервисы SIP.</string>
     <string name="permission_instruction_vr_assistant">Это разрешение позволяет приложениям использовать службы помощника VR.</string>
     <string name="permission_instruction_write_calllog">Это разрешение позволяет приложениям редактировать журнал вызовов, который может содержать подробную информацию о входящих и исходящих вызовах. Вредоносные программы могут использовать это разрешение для очистки или редактирования журнала вызовов.</string>
-    <string name="permission_instruction_write_clipboard">Это разрешение позволяет приложениям запись в буфер обмена. Спам-сообщения могут повлиять на ваше обычное использование буфера обмена.</string>
+    <string name="permission_instruction_write_clipboard">Это разрешение позволяет приложениям запись в буфер обмена. Спам-сообщения могут повлиять на использование буфера обмена.</string>
     <string name="permission_instruction_write_contacts">Это разрешение позволяет приложениям редактировать, добавлять и удалять информацию о контактах, хранящуюся на вашем устройстве. Эта информация может содержать частоту вашего общения с определенными контактами посредством звонков, электронной почты и других методов. Это разрешение также позволяет приложениям удалять ваши контакты.</string>
     <string name="permission_instruction_write_settings">Это разрешение позволяет приложениям изменять системные настройки. Вредоносные программы могут использовать это разрешение в настройках вашей системы и повлиять на нормальное использование вашего устройства.</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Приложения не будут запрашивать разрешение на доступ к камере или микрофону, контактам, журналу вызовов или на изменение настроек системы. Вы можете включить эту функцию в настройках разрешений.</string>
@@ -2494,7 +2494,7 @@
     <string name="permission_upgrade_virtual">Чтобы не предоставлять приложениям доступ к контактам или журналу вызовов, можно выбрать \"Отправить пустую информацию\" при запросе соответствующего разрешения.</string>
     <string name="permission_with_SMS_and_MMS">Доступ к SMS и MMS</string>
     <string name="permission_with_call_and_contact">Доступ к контактам и вызовам</string>
-    <string name="permission_with_read_write_clipboard">Разрешить приложениям чтение и запись в буфер обмена</string>
+    <string name="permission_with_read_write_clipboard">Доступ к буферу обмена и изменение содержимого</string>
     <string name="permit_running_network">Фоновое подключение</string>
     <string name="person_hotpot">Мобильные точки доступа</string>
     <string name="phone">Телефон</string>
@@ -2987,7 +2987,7 @@
     <string name="reach_daily_limit_value_body">Ограничьте использование интернета.</string>
     <string name="reach_daily_limit_value_title">Достигнут лимит трафика</string>
     <string name="read_all_sms">Прочитать все</string>
-    <string name="read_and_write_clipboard">Чтение и запись в буфер обмена</string>
+    <string name="read_and_write_clipboard">Буфер обмена</string>
     <string name="read_clipboard_ai_close_no">Не сейчас</string>
     <string name="read_clipboard_ai_close_tip">Вы больше не будете получать уведомления, когда приложения обращаются к буферу обмена. Приложения автоматически получат разрешение только во время использования. Настроить разрешения?</string>
     <string name="read_clipboard_ai_close_yes">Настроить</string>
