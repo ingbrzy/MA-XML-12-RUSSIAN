@@ -1391,7 +1391,7 @@
     <string name="photo_editor_miui_beauty_no_face">Не удалось найти лицо</string>
     <string name="photo_editor_mosaic">Мозаика</string>
     <string name="photo_editor_navigator_cancel">Отменить</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">Загрузка %s потребует примерно 4 МБ мобильного трафика. Загрузить?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Загрузка %s потребует примерно %2$d МБ мобильного трафика. Загрузить?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Предупреждение о трафике</string>
     <string name="photo_editor_navigator_export">Сохранить</string>
     <string name="photo_editor_navigator_module_download_failed">Не удалось загрузить %s</string>
