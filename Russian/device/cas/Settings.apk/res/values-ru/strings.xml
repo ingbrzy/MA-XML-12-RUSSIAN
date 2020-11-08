@@ -109,7 +109,7 @@
     <string name="accessibility_hearingaid_adding_summary">Добавить слуховой аппарат</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Продолжить</string>
     <string name="accessibility_hearingaid_not_connected_summary">Нет подключенных слуховых аппаратов</string>
-    <string name="accessibility_hearingaid_pair_instructions_first_message">Для подключения слухового аппарата, выберите его на следующем экране..</string>
+    <string name="accessibility_hearingaid_pair_instructions_first_message">Для подключения слухового аппарата, выберите его на следующем экране.</string>
     <string name="accessibility_hearingaid_pair_instructions_message">Чтобы выполнить сопряжение слуховых аппаратов, найдите и коснитесь своего устройства на следующем экране. Убедитесь, что слуховые аппараты находятся в режиме сопряжения.</string>
     <string name="accessibility_hearingaid_pair_instructions_second_message">Убедитесь, что слуховые аппараты находятся в режиме сопряжения.</string>
     <string name="accessibility_hearingaid_title">Слуховые аппараты</string>
@@ -2071,7 +2071,7 @@
     <string name="dark_ui_activation_on_auto">Включить до рассвета</string>
     <string name="dark_ui_activation_on_custom">Включить до %1$s</string>
     <string name="dark_ui_activation_on_manual">Включить</string>
-    <string name="dark_ui_auto_mode_auto">Включиь от заката до рассвета</string>
+    <string name="dark_ui_auto_mode_auto">Включить от заката до рассвета</string>
     <string name="dark_ui_auto_mode_custom">Включить по расписанию</string>
     <string name="dark_ui_auto_mode_never">Нет</string>
     <string name="dark_ui_auto_mode_title">Расписание</string>
@@ -3270,7 +3270,7 @@
     <string name="gxzw_dialog_ok">Понятно</string>
     <string name="gxzw_dialog_title">Об экранном сканере отпечатков</string>
     <string name="gxzw_enroll_again">Поднимите палец и приложите снова к сканеру отпечатков</string>
-    <string name="gxzw_lowlight_open_summary">Уменьшить яркость значка отпечатка пальца при низкой освещенности. Когда эта функция включена, устройство может разблокироваться медленнее.</string>
+    <string name="gxzw_lowlight_open_summary">Уменьшить яркость значка отпечатка пальца при низкой освещенности. Когда эта функция включена, разблокировка устройства может работать медленнее.</string>
     <string name="gxzw_lowlight_open_title">Разблокировка при низкой освещенности</string>
     <string name="gxzw_quick_open_enable_summary">Использовать ярлыки для запуска приложений или их функций при разблокировке</string>
     <string name="gxzw_quick_open_enable_title">Ярлыки отпечатка пальца</string>
@@ -3508,6 +3508,11 @@
     <string name="importance_low">Средняя</string>
     <string name="importance_min">Низкая</string>
     <string name="importance_title">Важность</string>
+    <string name="important_bubble">Приоритетные всплывающие уведомления</string>
+    <string name="important_conversation_behavior_summary">Приоритетные диалоги будут отображаться в верхней части шторки уведомлений. Вы можете задать для них отображение в виде всплывающих уведомлений и прерывание режима \"Не беспокоить\".</string>
+    <string name="important_conversations">Приоритетные диалоги</string>
+    <string name="important_conversations_summary">Показывать приоритетные диалоги вверху</string>
+    <string name="important_conversations_summary_bubbles">Показывать приоритетные диалоги вверху и отображать в виде всплывающих уведомлений</string>
     <string name="ims_reg_status_not_registered">Не зарегистрирована</string>
     <string name="ims_reg_status_registered">Зарегистрирована</string>
     <string name="ims_reg_title">Состояние регистрации IMS</string>
@@ -3601,6 +3606,27 @@
     <string name="intent_sender_resource_label">Ресурс:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
     <string name="intent_sender_startactivity_text">Начать activity</string>
+    <string name="interact_across_profiles_app_detail_title">Подключенные рабочие и личные приложения</string>
+    <string name="interact_across_profiles_consent_dialog_app_data_summary">Это приложение может получить доступ к данным приложения %1$s в вашем личном профиле.</string>
+    <string name="interact_across_profiles_consent_dialog_app_data_title">Данные приложения</string>
+    <string name="interact_across_profiles_consent_dialog_permissions_summary">Это приложение может использовать разрешения приложения %1$s из вашего личного профиля, например, доступ к местоположению, памяти устройства или контактам.</string>
+    <string name="interact_across_profiles_consent_dialog_permissions_title">Разрешения</string>
+    <string name="interact_across_profiles_consent_dialog_summary">Подключайте приложения только в том случае, если вы доверяете им работу с личными данными, которые могут быть доступны ИТ-администратору.</string>
+    <string name="interact_across_profiles_consent_dialog_title">Доверить приложению %1$s работу с вашими личными данными?</string>
+    <string name="interact_across_profiles_empty_text">Нет подключенных приложений</string>
+    <string name="interact_across_profiles_install_app_summary">Нажмите для установки</string>
+    <string name="interact_across_profiles_install_personal_app_title">Чтобы подключить эти приложения, установите %1$s в личном профиле</string>
+    <string name="interact_across_profiles_install_work_app_title">Чтобы подключить эти приложения, установите %1$s в рабочем профиле</string>
+    <string name="interact_across_profiles_keywords">объединение профилей; подключенное приложение; приложения; рабочие и личные данные</string>
+    <string name="interact_across_profiles_number_of_connected_apps_none">Нет подключенных приложений</string>
+    <string name="interact_across_profiles_summary_1">Подключенные приложения имеют общие разрешения и могут получать доступ к данным друг друга.</string>
+    <string name="interact_across_profiles_summary_2">Подключайте приложения только в том случае, если вы доверяете им работу с личными данными, которые могут быть доступны ИТ-администратору.</string>
+    <string name="interact_across_profiles_summary_3">Вы можете в любой момент отключить приложения в настройках конфиденциальности устройства.</string>
+    <string name="interact_across_profiles_summary_allowed">Подключено</string>
+    <string name="interact_across_profiles_summary_not_allowed">Не подключено</string>
+    <string name="interact_across_profiles_switch_disabled">Подключить приложения</string>
+    <string name="interact_across_profiles_switch_enabled">Подключено</string>
+    <string name="interact_across_profiles_title">Подключенные рабочие и личные приложения</string>
     <string name="interaction_control_category_title">Интерактивное управление</string>
     <string name="internal_memory">Внутренний накопитель</string>
     <string name="internal_storage">Внутр. накопитель</string>
@@ -4250,7 +4276,7 @@
 "</string>
     <string name="master_clear_all">Удалить все данные из внутренней памяти телефона? Это необратимое действие!</string>
     <string name="master_clear_apply_step_1"><b>Сброс настроек удалит все данные с телефона</b>, включая изображения, музыку, заметки и прочие персональные данные. Убедитесь, что важная информация сохранена на вашем компьютере.</string>
-    <string name="master_clear_apply_step_2">Убедитесь, что все важные объекты сохранены на вашем компьютере. Все данные на этом устройстве будут удалены при сбросе.<b> Вы не сможете восстановить несохраненные объекты.</b></string>
+    <string name="master_clear_apply_step_2">Убедитесь, что все важные данные сохранены на компьютере. Все данные на этом устройстве будут удалены при сбросе.<b> Вы не сможете восстановить несохраненные данные.</b></string>
     <string name="master_clear_apply_title">Внимание</string>
     <string name="master_clear_button_text">Удалить</string>
     <string name="master_clear_confirm_title">Удалить все данные?</string>
@@ -4303,6 +4329,11 @@
     <string name="media_output_default_summary">Это устройство</string>
     <string name="media_output_disconnected_status">%1$s (отключено)</string>
     <string name="media_output_group">Группа</string>
+    <string name="media_output_group_panel_multiple_devices_summary">Выбрано устройств: %1$d</string>
+    <string name="media_output_group_panel_single_device_summary">Выбрано устройств: 1</string>
+    <string name="media_output_group_panel_title">Добавить устройства</string>
+    <string name="media_output_label_title">Воспроизвести %s на</string>
+    <string name="media_output_panel_stop_casting_button">Прекратить трансляцию</string>
     <string name="media_output_panel_summary_of_playing_device">Воспроизводится на %1$s</string>
     <string name="media_output_panel_title">Сменить аудиовыход</string>
     <string name="media_output_summary">Телефон</string>
@@ -4640,7 +4671,7 @@
     <string name="multi_face_input_success_name_title">Имя</string>
     <string name="multi_face_list">Управление данными</string>
     <string name="multi_face_name_prefix">"Face "</string>
-    <string name="multi_face_number_reach_limit">Нельзя добавить данные больше чем для 2 лиц</string>
+    <string name="multi_face_number_reach_limit">Нельзя добавить данные больше, чем для 2 лиц</string>
     <string name="multi_network_acceleration_app_settings">Ускорение сети для приложений</string>
     <string name="multi_touch_points_category_title">Мультитач</string>
     <string name="multi_touch_points_preference">Изменения вступят в силу после перезагрузки устройства</string>
@@ -4934,17 +4965,17 @@
     <string name="notification_channel_summary_high">Всплывающее окно</string>
     <string name="notification_channel_summary_low">Беззвучный режим</string>
     <string name="notification_channel_summary_min">Только в панели уведомлений</string>
-    <string name="notification_channel_summary_priority">Отображается в верхней части диалога и в виде плавающего пузыря, на экране блокировки отображается картинка профиля</string>
+    <string name="notification_channel_summary_priority">Отображается в начале списка, в виде всплывающего уведомления, на экране блокировки отображается картинка профиля</string>
     <string name="notification_channel_title">Категория уведомления</string>
     <string name="notification_channels">Категории</string>
     <string name="notification_channels_other">Другие</string>
-    <string name="notification_content_block_summary">Не показывать уведомления на фоне или на периферийных устройствах</string>
+    <string name="notification_content_block_summary">Не показывать уведомления в шторке или на связанных устройствах</string>
     <string name="notification_content_block_title">Включить уведомления</string>
     <string name="notification_control_center">Уведомления и Центр управления</string>
     <string name="notification_conversation_add_to_home">Добавить на рабочий стол</string>
     <string name="notification_conversation_important">Приоритет</string>
     <string name="notification_conversation_summary">%1$s • %2$s</string>
-    <string name="notification_conversation_summary_low">Звук и вибрация отключены, отображается в нижей части диалога</string>
+    <string name="notification_conversation_summary_low">Звук и вибрация отключены, отображается в списке ниже</string>
     <string name="notification_display_settings">Шторка уведомлений</string>
     <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Малозначимые уведомления помещаются в отдельную папку.</string>
     <string name="notification_fold_description2">MIUI запоминает, какие уведомления вы нажимаете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
@@ -5296,6 +5327,12 @@ OTG отключается автоматически через 10 минут �
     <string name="picture_in_picture_title">Картинка в картинке</string>
     <string name="pin_failed">Не удалось разблокировать SIM-карту</string>
     <string name="ping_test_label">Выполнить тест ping</string>
+    <string name="platform_compat_dashboard_summary">Переключение совместимости приложений</string>
+    <string name="platform_compat_dashboard_title">Совместимость приложений</string>
+    <string name="platform_compat_default_disabled_title">Изменения по умолчанию отключены</string>
+    <string name="platform_compat_default_enabled_title">Изменения по умолчанию включены</string>
+    <string name="platform_compat_selected_app_summary">%1$s targetSdkVersion %2$d</string>
+    <string name="platform_compat_target_sdk_title">Включено для targetSdkVersion > %d</string>
     <string name="please_select_phase2">2-й этап аутентификации</string>
     <string name="please_type_passphrase">Пароль сети</string>
     <string name="plmn_failure_radio_off">Сбой выбора сети. Радиомодуль выключен или недоступен.</string>
@@ -5350,6 +5387,17 @@ OTG отключается автоматически через 10 минут �
     <string name="power_key_start_enjoy">Узнать больше о Google Ассистенте</string>
     <string name="power_key_start_guide">Запуск Google Ассистента кнопкой питания на полноэкранных устройствах</string>
     <string name="power_label">Меню питания</string>
+    <string name="power_menu_cards_passes">Показать карты и пропуска</string>
+    <string name="power_menu_cards_passes_device_controls">Показать карты, пропуска и элементы управления устройством</string>
+    <string name="power_menu_device_controls">Показать элементы управления устройством</string>
+    <string name="power_menu_lock_screen_category">Экран блокировки</string>
+    <string name="power_menu_none">Скрывать все содержимое</string>
+    <string name="power_menu_privacy">Конфиденциальные данные</string>
+    <string name="power_menu_privacy_hide">Скрыть карты и элементы управления при блокировке</string>
+    <string name="power_menu_privacy_not_secure">Сначала настройте блокировку экрана</string>
+    <string name="power_menu_privacy_show">Показывать карты и элементы управления при блокировке</string>
+    <string name="power_menu_privacy_show_cards">Показывать карты при блокировке</string>
+    <string name="power_menu_privacy_show_controls">Показывать элементы управления при блокировке</string>
     <string name="power_menu_setting_name">Меню питания</string>
     <string name="power_menu_setting_title">Кнопка меню питания</string>
     <string name="power_menu_under_keyguard_summary">Доступ к меню питания на экране блокировки</string>
@@ -5451,7 +5499,7 @@ OTG отключается автоматически через 10 минут �
     <string name="preferred_network_mode_nr_lte_tdscdma_summary">Предпочтительный режим: NR/LTE/TDSCDMA</string>
     <string name="preferred_network_mode_nr_lte_tdscdma_wcdma_summary">Preferred network mode: NR/LTE/TDSCDMA/WCDMA</string>
     <string name="preferred_network_mode_nr_lte_wcdma_summary">Предпочтительный режим: NR/LTE/WCDMA</string>
-    <string name="preferred_network_mode_nr_only_summary">Предпочтительный режим: NR only</string>
+    <string name="preferred_network_mode_nr_only_summary">Предпочтительный режим: только NR</string>
     <string name="preferred_network_mode_summary">Изменение режима работы сети</string>
     <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Предпочтительный режим: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_tdscdma_gsm_summary">Предпочтительный режим: TDSCDMA/GSM</string>
@@ -6042,6 +6090,23 @@ UT-интерфейс: %5$s"</string>
 3. Нажмите \"Обзор\".
 
 4. Проведите по экрану вверх и коснитесь значка булавки."</string>
+    <string name="screen_pinning_dialog_message">"Когда приложение закреплено: 
+
+•\u0009\u0009Могут быть доступны ваши личные данные
+\u0009\u0009(например, контакты и содержимое электронной почты). 
+•\u0009\u0009Закрепленное приложение может запускать другие приложения. 
+
+Используйте функцию только с теми людьми, которым доверяете."</string>
+    <string name="screen_pinning_guest_user_description">"Закрепление приложения позволяет держать приложение на виду, пока вы не открепите его. Эту функцию можно использовать, например, чтобы позволить доверенному человеку играть в определенную игру. 
+
+Закрепленное приложение может запускать другие приложения, а также могут быть доступны ваши личные данные. 
+
+Для безопасности и конфиденциальности рекомендуется использовать режим Гостя. 
+
+Чтобы закрепить приложение: \u0009
+1.\u0009Включите закрепление \u0009
+2.\u0009Выберите приложение \u0009
+3.\u0009Нажмите "\Закрепить"\"</string>
     <string name="screen_pinning_title">Блокировка в приложении</string>
     <string name="screen_pinning_unlock_none">Блокировать устройство при откл. блокировки в приложении</string>
     <string name="screen_pinning_unlock_password">Запрашивать пароль для отключения блокировки в приложении</string>
@@ -6671,7 +6736,7 @@ UT-интерфейс: %5$s"</string>
     <string name="silent_mode_summary">Отключить звуки вызовов, уведомлений и медиа</string>
     <string name="silent_mode_title">Режим \"Без звука\"</string>
     <string name="silent_mode_toggle_title">Режим \"Без звука\"</string>
-    <string name="silent_notifications_status_bar">Скрыть уведомления режима \"Без звука\" в строке стостояния</string>
+    <string name="silent_notifications_status_bar">Скрыть уведомления режима \"Без звука\" в строке состояния</string>
     <string name="silent_off">Откл.</string>
     <string name="silent_settings">Без звука | Не беспокоить</string>
     <string name="silent_standard">Без звука</string>
@@ -6745,7 +6810,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_selection_required_pref">Выберите SIM-карту</string>
     <string name="sim_settings_title">SIM-карты</string>
     <string name="sim_setup_wizard_title">SIM-карты</string>
-    <string name="sim_signal_strength">%1$d дБмВт, asu: %2$d</string>
+    <string name="sim_signal_strength">%1$d дБ мВт, asu: %2$d</string>
     <string name="sim_slot_empty">Пустая SIM-карта</string>
     <string name="sim_status_title">Статус SIM карты</string>
     <string name="sim_status_title_sim_slot">Статус SIM (слот %1$d)</string>
@@ -7510,7 +7575,7 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_on_torch">Фонарик</string>
     <string name="turn_update_keyguard_password_wait_dialog">Изменение пароля…</string>
     <string name="twilight_mode_launch_location">Настройки местоположения</string>
-    <string name="twilight_mode_location_off_dialog_message">Инфромация о местоположении устройства необходима для определения времени заката и восхода.</string>
+    <string name="twilight_mode_location_off_dialog_message">Информация о местоположении устройства необходима для определения времени заката и восхода.</string>
     <string name="twohours">1 час</string>
     <string name="tx_link_speed">%1$d Мбит/с</string>
     <string name="tx_link_speed_label">Скорость передачи:</string>
@@ -7826,7 +7891,7 @@ UT-интерфейс: %5$s"</string>
     <string name="user_add_max_count">Вы можете добавить до %1$d пользователей</string>
     <string name="user_add_on_lockscreen_menu">Доб. пользов. на заблок. экране</string>
     <string name="user_add_profile_item_summary">Вы можете ограничить доступ к приложениям и контенту из вашего аккаунта</string>
-    <string name="user_add_profile_item_title">Профиль с огр. доступом</string>
+    <string name="user_add_profile_item_title">Профиль с огранич. доступом</string>
     <string name="user_add_user_item_summary">У пользователей есть свои приложения и контент</string>
     <string name="user_add_user_item_title">Добавить пользователя</string>
     <string name="user_add_user_menu">Добавить пользователя</string>
@@ -8273,7 +8338,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_avoid_poor_network_detection_summary">Использовать только сети с сильным сигналом</string>
     <string name="wifi_band_24ghz">2,4 ГГц</string>
     <string name="wifi_band_5ghz">5 ГГц</string>
-    <string name="wifi_band_60ghz">60 GHz</string>
+    <string name="wifi_band_60ghz">60 ГГц</string>
     <string name="wifi_calling_mode_cellular_preferred_summary">Использовать Wi-Fi, если мобильная сеть недоступна</string>
     <string name="wifi_calling_mode_dialog_title">Приоритет сети</string>
     <string name="wifi_calling_mode_ims_preferred_summary">Использовать 2G/3G, если LTE или Wi-Fi недоступны</string>
