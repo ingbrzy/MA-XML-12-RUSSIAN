@@ -57,6 +57,16 @@
         <item quantity="one">Пропущен | %1$d гудок</item>
         <item quantity="few">Пропущен | %1$d гудка</item>
      </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d номеров</item>
+        <item quantity="one">%d номер</item>
+        <item quantity="few">%d номера</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Удалить %d номеров?</item>
+        <item quantity="one">Удалить %d номер?</item>
+        <item quantity="few">Удалить %d номера?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">Не синхронизировано %1$d контактов</item>
         <item quantity="one">Не синхронизирован %1$d контакт</item>
@@ -235,6 +245,11 @@
         <item quantity="other">Найдено: %d</item>
         <item quantity="one">Найдено: %d</item>
      </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s результатов</item>
+        <item quantity="one">%s результат</item>
+        <item quantity="few">%s результата</item>
+    </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Выберите не более %1$d, нельзя выбрать все</item>
         <item quantity="one">Выберите не более %1$d, нельзя выбрать все</item>

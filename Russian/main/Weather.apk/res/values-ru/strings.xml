@@ -40,7 +40,7 @@
     <string name="act_find_city_hot_attractions_title">Популярные места</string>
     <string name="act_find_city_hot_city_title">Популярные города</string>
     <string name="act_location_error_to_find_city">Не удалось определить местоположение. Вы можете добавить город вручную.</string>
-    <string name="act_set_city_find_side">Поиск местоположения…</string>
+    <string name="act_set_city_find_side">Определение местоположения…</string>
     <string name="act_set_city_find_side_error">Местоположение не определено</string>
     <string name="act_weather_find_city_added">Добавлено</string>
     <string name="act_weather_find_city_click_retry">Повторить</string>
@@ -49,9 +49,9 @@
     <string name="act_weather_find_city_searching">Поиск…</string>
     <string name="activity_alert_detail_title" />
     <string name="activity_find_city_dialog_cancel">Отмена</string>
-    <string name="activity_find_city_dialog_message">Разрешите Погоде доступ к вашему местоположению для получения точных данных.</string>
-    <string name="activity_find_city_dialog_message_global">Разрешите Погоде доступ к вашему местоположению и переключение в режим высокой точности для получения актуальных данных.</string>
-    <string name="activity_find_city_dialog_message_location_service">Для актуальной информации о погоде, разрешите приложению определение вашего местоположения.</string>
+    <string name="activity_find_city_dialog_message">Разрешите Погоде доступ к местоположению для получения точных данных.</string>
+    <string name="activity_find_city_dialog_message_global">Разрешите Погоде доступ к местоположению и переключение в режим высокой точности для получения актуальных данных.</string>
+    <string name="activity_find_city_dialog_message_location_service">Для актуальной информации о погоде, разрешите приложению определение местоположения.</string>
     <string name="activity_find_city_dialog_set">Настройки</string>
     <string name="activity_find_city_dialog_title">Доступ к местоположению</string>
     <string name="activity_main_clickable">&gt;</string>
