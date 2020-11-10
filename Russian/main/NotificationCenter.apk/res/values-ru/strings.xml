@@ -29,11 +29,15 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="aggregate_title">Правила группировки уведомлений</string>
     <string name="am">AM</string>
     <string name="app_name">Уведомления</string>
     <string name="back">Назад</string>
     <string name="cancel">Отмена</string>
     <string name="category_other">Другое</string>
+    <string name="channel_keyguard_hide_content">Показывать все уведомления, скрывать содержимое</string>
+    <string name="channel_keyguard_show_content">Показывать все уведомления и их содержимое</string>
+    <string name="channel_keyguard_show_nothing">Не показывать уведомления</string>
     <string name="channel_name_aggregation">Сгруппированные уведомления</string>
     <string name="channel_name_notification">Уведомления приложения</string>
     <string name="channel_name_recovered">Восстановленные уведомления</string>
@@ -80,6 +84,10 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fold_importance_default">Рекомендуемые</string>
+    <string name="fold_importance_important">Важные</string>
+    <string name="fold_importance_unimportant">Маловажные</string>
+    <string name="fold_title">Правила гуппировки уведомлений</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -204,6 +212,9 @@
     <string name="notification_display_style">Стиль уведомлений</string>
     <string name="notification_fold_summary">Все неважные уведомления будут появляться в отдельной папке</string>
     <string name="notification_fold_title">Фильтр уведомлений</string>
+    <string name="notification_keyguard_hide_content">Показывать уведомления, но скрывать содержимое</string>
+    <string name="notification_keyguard_show_content">Показывать уведомления и их содержимое</string>
+    <string name="notification_keyguard_show_nothing">Не показывать уведомления на экране блокировки</string>
     <string name="notification_manager">Уведомления</string>
     <string name="notification_setting_menu_feedback_text">"Это уведомление не должно быть здесь?
 Сообщите об этой проблеме &gt;"</string>
@@ -214,6 +225,7 @@
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
+    <string name="rule_keyguard_display">Отображение</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -247,6 +259,8 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="status_bar_setting">Строка состояния</string>
+    <string name="summary_aggregate_default">Рекламные и контентные push-уведомления будут сгруппированы</string>
+    <string name="summary_aggregate_home">Push-уведомления не будут группироваться</string>
     <string name="summary_disable_float_notification">Всплывающие окна отключены</string>
     <string name="summary_disable_lockscreen_notification">Уведомления на экране блокировки отключены</string>
     <string name="summary_disable_show_badge_notification">Счетчик на иконке отключен</string>
@@ -254,6 +268,9 @@
     <string name="summary_enable_lockscreen_notification">Уведомления на экране блокировки включены</string>
     <string name="summary_enable_show_badge_notification">Счетчик на иконке включен</string>
     <string name="summary_float_enable_notification_first">Включите уведомления для отображения всплывающих окон</string>
+    <string name="summary_fold_importance_default">Отображение уведомлений по выбору MIUI</string>
+    <string name="summary_fold_importance_important">Уведомления появятся в шторке уведомлений</string>
+    <string name="summary_fold_importance_unimportant">Уведомления появятся в отдельной папке</string>
     <string name="summary_lock_screen_enable_notification_first">Включите уведомления для их отображения на экране блокировки</string>
     <string name="summary_show_badge_enable_notification_first">Включите уведомления для отображения счетчика</string>
     <string name="sunday">Воскресенье</string>
@@ -309,6 +326,8 @@
     <string name="tip_feedback_success">Успешно отправлено</string>
     <string name="tip_feedback_thanks">Спасибо за отзыв!</string>
     <string name="tip_select_category">Выберите категорию уведомлений</string>
+    <string name="title_aggregate_default">Группировать уведомления</string>
+    <string name="title_aggregate_home">Не группировать уведомления</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="tuesday">Вторник</string>

@@ -132,6 +132,8 @@
     <string name="auto_clean_time_three_day">Каждые 3 дня</string>
     <string name="auto_cleaner_open">Включить</string>
     <string name="back">Назад</string>
+    <string name="browser_scan_history_desc">Журнал посещений</string>
+    <string name="browser_search_history_desc">История поиска</string>
     <string name="btn_text_done">Готово</string>
     <string name="btn_text_quick_cleanup">Очистить</string>
     <string name="btn_text_quick_cleanup_apk">Удалить выбранные пакеты %1$s</string>
@@ -177,6 +179,7 @@
     <string name="cache_title_empty_folder2">Пустые папки</string>
     <string name="cache_title_system_cache">Системный кэш</string>
     <string name="cached_garbage">Кэш</string>
+    <string name="call_log">Журнал вызовов</string>
     <string name="cancel">Отмена</string>
     <string name="cd_back">Назад</string>
     <string name="cd_check_box_checked">Проверено</string>
@@ -206,6 +209,8 @@
     <string name="clear_bigfiles">Удаление больших файлов, дубликатов фото и других устаревших объектов</string>
     <string name="clear_immediately">Очистить</string>
     <string name="clear_safe_notify">Виджет в шторке уведомлений</string>
+    <string name="clip_board_history_desc">История буфера обмена</string>
+    <string name="clipboard">Буфер обмена</string>
     <string name="close">Закрыть</string>
     <string name="confirm_auto_cleaner">OK</string>
     <string name="conn_of_function_safe">Сетевое подключение приложения \"Безопасность\"</string>
@@ -427,7 +432,7 @@
     <string name="hints_installed_app_never">Не использовались</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
-    <string name="hints_latest_garbage_cleanup_date">Последняя очистка: %d дн. назад</string>
+    <string name="hints_latest_garbage_cleanup_date">Последняя очистка: %d д. назад</string>
     <string name="hints_latest_garbage_cleanup_never">Очистка не производилась</string>
     <string name="hints_latest_garbage_cleanup_today">Последняя очистка: сегодня</string>
     <string name="hints_latest_garbage_cleanup_yesterday">Последняя очистка: вчера</string>
@@ -671,7 +676,8 @@
     <string name="permission_dialog_storage_content">Функции Очистка для нормальной работы требуется разрешение на доступ к внутренней памяти. Нажмите \"Настройки\" для управления разрешениями.</string>
     <string name="permission_dialog_storage_title">Требуются разрешения</string>
     <string name="petabyteShort">" ПБ"</string>
-    <string name="positive_confirm">OK</string>
+    <string name="phone_search">Поиск Google</string>
+    <string name="positive_confirm">ОК</string>
     <string name="pref_about_privacy_title">Политика конфиденциальности</string>
     <string name="pref_category_title_auto_clean_settings">Напоминания об очистке</string>
     <string name="pref_category_title_auto_update_cleanup_db">Дополнительные настройки</string>
@@ -708,6 +714,7 @@
     <string name="privacy_app_desc_message">Аккаунт, пароли и сообщения</string>
     <string name="privacy_app_desc_search">Аккаунт, пароли и история поиска</string>
     <string name="privacy_app_desc_setting">Аккаунт, пароли и настройки</string>
+    <string name="privacy_appdata_chrome_history_des">Посещенные сайты</string>
     <string name="privacy_browser_desc">Поисковые запросы</string>
     <string name="privacy_cache_desc">Аккаунт, пароль, история, настройки и т.д.</string>
     <string name="privacy_cache_empty">Нет личных данных</string>
@@ -741,6 +748,7 @@
     <string name="sc_allow_network_dialog_button">Разрешить</string>
     <string name="sc_allow_network_dialog_message">Разрешить приложению подключаться к интернету для получения обновлений?</string>
     <string name="scanning">Проверка…</string>
+    <string name="search_history">История поиска</string>
     <string name="search_menu_title">Поиск</string>
     <string name="security_center_slogan">Безопасность. Всегда на защите.</string>
     <string name="see_more">Еще</string>

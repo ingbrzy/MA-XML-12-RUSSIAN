@@ -2111,6 +2111,9 @@
     <string name="network_connected_exception_title">Диагностика сети</string>
     <string name="network_control">Сетевые подключения</string>
     <string name="network_diagnostics">Диагностика сети</string>
+    <string name="network_disable_dialog_btn_text">Понятно</string>
+    <string name="network_disable_dialog_content">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="network_disable_dialog_title">Не удалось подключиться к сети</string>
     <string name="network_mobile_exception_detail">"Устройство не может подключиться к интернету:
 
 1. Убедитесь, что не превышен лимит трафика, установленный мобильным оператором.
@@ -2867,6 +2870,9 @@
     <string name="privacy_dialog_call_title">Защита вызовов</string>
     <string name="privacy_dialog_camera_message">Чтобы защитить вашу конфиденциальность, MIUI не позволяет приложениям использовать камеру в фоновом режиме.</string>
     <string name="privacy_dialog_camera_title">Ограничение фонового использования камеры</string>
+    <string name="privacy_dialog_content_part1">Добро пожаловать в Безопасность! Это приложение проверяет устройство на наличие мусора и вирусов, позволяет управлять приложениями, контролировать использование мобильного интернета, блокировать звонки и сообщения и т.д.</string>
+    <string name="privacy_dialog_content_part2"><Data>Для предоставления необходимых сервисов и их улучшения, приложению требуется сбор необходимой личной информации. Вы можете узнать, как мы используем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Вы можете отозвать свое согласие с Политикой конфиденциальности в любое время в настройках.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>"Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. В случае несогласия с вышеупомянутым, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему вам доступна."</Data></string>
     <string name="privacy_dialog_danger_mission_message">В Android имеются небезопасные разрешения (например, разрешение на отправку вам push-уведомлений). Для защиты вашей конфиденциальности MIUI будет запрашивать подтверждение разрешений с вариантами их ограничения.</string>
     <string name="privacy_dialog_danger_mission_title">Небезопасные разрешения</string>
     <string name="privacy_dialog_feedback">Обратная связь</string>
@@ -2874,6 +2880,8 @@
     <string name="privacy_dialog_ok">Понятно</string>
     <string name="privacy_dialog_ok_with_num">Понятно (%s сек.)</string>
     <string name="privacy_dialog_open">Включить</string>
+    <string name="privacy_dialog_revoking">Отзыв согласия…</string>
+    <string name="privacy_dialog_title">Условия и положения</string>
     <string name="privacy_empty_call">Нет записей</string>
     <string name="privacy_empty_contact">Нет записей</string>
     <string name="privacy_empty_location">Нет записей</string>

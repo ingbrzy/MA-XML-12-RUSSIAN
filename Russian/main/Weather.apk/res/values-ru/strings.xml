@@ -65,8 +65,8 @@
     <string name="add_city">Добавить</string>
     <string name="alert_detail_title">Подробности оповещения</string>
     <string name="alert_warning">Оповещения о погоде</string>
-    <string name="alert_weather_enable_settings_summary">Получать предупреждения о погоде</string>
-    <string name="alert_weather_enable_settings_title">Предупреждения о погоде</string>
+    <string name="alert_weather_enable_settings_summary">Получать штормовые предупреждения</string>
+    <string name="alert_weather_enable_settings_title">Штормовые предупреждения</string>
     <string name="already_voted_toast">Вы уже голосовали сегодня</string>
     <string name="app_name">Погода</string>
     <string name="aqi_15_days_desc">%d-дневный прогноз ИКВ</string>
@@ -167,11 +167,14 @@
     <string name="daily_forecast_no_data">"Не удалось получить данные
 Потяните вниз для обновления или проверьте настройки сети"</string>
     <string name="data_provided_by">Данные предоставлены</string>
+    <string name="dialog_internet_error_title">Произошла ошибка</string>
     <string name="dialog_msg_score_midrop">Что вы думаете о приложении Погода?</string>
     <string name="dialog_msg_score_not_good">Могли бы вы дать отзыв?</string>
     <string name="dialog_msg_score_perfect">Отлично! Оцените приложение в Play Store?</string>
     <string name="dialog_title_score">Оценить приложение</string>
     <string name="dislike_alert_dialog_title">Почему вы не хотите видеть этот контент?</string>
+    <string name="download_rsc_tips">Загрузка фонового аудио…</string>
+    <string name="dynamic_weather">Погода</string>
     <string name="edit_city">Выбор городов</string>
     <string name="empty_view_net_loading">Обновление…</string>
     <string name="empty_view_net_unavailable">"Не удалось подключиться к сети"</string>
@@ -307,8 +310,10 @@
     <string name="night_not_disturb_settings_summary">Блокировать оповещения с 23:00 до 7:00</string>
     <string name="night_not_disturb_settings_title">Не беспокоить ночью</string>
     <string name="no_data">Данных нет</string>
+    <string name="no_internet_message">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="no_network_btn">Повторить</string>
     <string name="no_vote_ratio">Против %1$s%%</string>
+    <string name="non_wifi_environment">Подключитесь к Wi-Fi для загрузки звуковых эффектов</string>
     <string name="not_set">Не задано</string>
     <string name="notif_aqi_title">Индекс в %2$s сегодня %1$d</string>
     <string name="notif_weather_title">Сегодня %1$s в %2$s</string>
@@ -341,6 +346,8 @@
     <string name="privacy_grant_or_revoke_settings">Доступ к личным данным</string>
     <string name="privacy_grant_success">Разрешение успешно предоставлено</string>
     <string name="privacy_policy">Политику конфиденциальности</string>
+    <string name="privacy_policy_msg"><Data>Приложение содержит следующие функции:&lt;br/>• Информация о погоде для вашего местоположения&lt;br/>• Прогноз погоды&lt;br/>• Штормовые предупреждения&lt;br/>&lt;br/>Для предоставления перечисленных функций, приложению требуется сбор необходимой личной информации. Вы можете узнать, как мы используем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. Вы можете отозвать свое согласие с Политикой конфиденциальности в любое время в настройках.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Приложение содержит следующие функции:&lt;br/>• Информация о погоде для вашего местоположения&lt;br/>• Прогноз погоды&lt;br/>• Штормовые предупреждения&lt;br/>&lt;br/>Для предоставления перечисленных функций, приложению требуется сбор необходимой личной информации, включая информацию о местоположении, даже если приложение закрыто или не используется. Вы можете узнать, как мы используем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. Вы можете отозвать свое согласие с Политикой конфиденциальности в любое время в настройках.</Data></string>
     <string name="privacy_revoke_failed">Не удалось отозвать разрешение. Подождите немного и повторите попытку.</string>
     <string name="privacy_revoke_success">Разрешение успешно отозвано</string>
     <string name="privacy_settings">Политика конфиденциальности</string>
@@ -371,6 +378,11 @@
     <string name="request_permission_read_phone_state_dialog_content">Для идентификации устройства</string>
     <string name="request_permission_storage_dialog_content">Для обмена информацией о погоде в формате изображения</string>
     <string name="retry">Повторить</string>
+    <string name="revoke_fail">Не удалось подключиться к сети</string>
+    <string name="revoke_privacy_policy_title">Отзыв согласия</string>
+    <string name="save_to_gallery_failure_message">Не удалось сохранить в Галерее</string>
+    <string name="save_to_gallery_icon_name">Сохранить в Галерее</string>
+    <string name="save_to_gallery_success_message">Успешно сохранено</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_weather">Погода</string>
     <string name="search_weather_keywords">Температура;Прогноз погоды;Погода;Качество воздуха;Степень загрязнения;Влажность</string>
@@ -473,14 +485,17 @@
     <string name="warning_weather_day_and_night_settings_summary">Получать ежедневные сводки о погоде в 7:00 и 19:00</string>
     <string name="warning_weather_day_and_night_settings_title">Ежедневные сводки</string>
     <string name="weather_alert_channel_name">Оповещения</string>
+    <string name="weather_aqi_full_air_quality_forcast">Полный прогноз качества воздуха</string>
     <string name="weather_introduce">Всегда с тобой, в дождь или в ясную погоду.</string>
     <string name="weather_list_info">Актуальная информация</string>
     <string name="weather_list_title">Погодные заголовки</string>
     <string name="weather_main_aqi_desc">ИКВ</string>
     <string name="weather_main_minute_hour">%d-часовые осадки</string>
     <string name="weather_main_speak_tips">Голосовое оповещение о погоде</string>
+    <string name="weather_more_air_quality">Подробнее о качестве воздуха</string>
     <string name="weather_permission_agree">Принять</string>
     <string name="weather_service_channel_name">Фоновые сервисы</string>
+    <string name="welcome_app_title">Добро пожаловать в Погоду!</string>
     <string name="wind_direction_no_data">Ветер</string>
     <string name="wind_unit">%1$s км/ч</string>
     <string name="xiaomi_weather_description_content">Приложение дает вам точную информацию о погоде. Виджеты \"Погода\" в строке состояния и на рабочем столе не будут работать без него должным образом. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
