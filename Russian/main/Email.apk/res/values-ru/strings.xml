@@ -730,7 +730,8 @@
     <string name="mail_login_help_details2">2. Сторонние коды авторизации могут использоваться для входа в сторонние почтовые клиенты, когда включены службы POP3/IMAP/SMTP.</string>
     <string name="mail_login_help_title">Пароль электронной почты / Сторонний клиент:</string>
     <string name="mail_outlook_login_tips">Вы будете перенаправлены на страницу Microsoft для ввода пароля</string>
-    <string name="mail_outlook_oauth_login">Войти с OAuth</string>
+    <string name="mail_outlook_oauth_login">"Войти с OAuth
+(Пользователям Outlook будет недоступна синхронизация календарей при входе с помощью OAuth)"</string>
     <string name="mail_outlook_psw_login">Войти с паролем</string>
     <string name="mailbox_list_account_selector_combined_view">Совмещенный аккаунт</string>
     <string name="mailbox_name_display_ad">Реклама</string>
