@@ -79,6 +79,7 @@
     <string name="account_settings_notifications">Уведомления</string>
     <string name="account_settings_notify_label">Уведомления о письмах</string>
     <string name="account_settings_notify_summary">Показывать уведомления при получении новых писем</string>
+    <string name="account_settings_only_notify_inbox">Только уведомлять о наличии новых писем</string>
     <string name="account_settings_param">Настройки аккаунта</string>
     <string name="account_settings_policies">Политика безопасности</string>
     <string name="account_settings_preference_add_account">Новый аккаунт</string>
@@ -297,6 +298,8 @@
     <string name="body_forward_email_text">[Переслать]</string>
     <string name="body_hint">Написать письмо</string>
     <string name="body_inline_pic_text">[Изображение]</string>
+    <string name="bottom_bar_more_pdf">Экспорт в PDF</string>
+    <string name="bottom_bar_more_pdf_exporting">Экспорт…</string>
     <string name="bottom_bar_more_quickreply">Быстрый ответ</string>
     <string name="bottom_bar_more_share">Отправить</string>
     <string name="bottom_bar_no_quickreply_toast">Нет быстрого ответа</string>
@@ -384,6 +387,7 @@
     <string name="contact_list_title">Контакты</string>
     <string name="contact_permission_error">Доступ к контактам запрещен</string>
     <string name="contact_select">Выбрать контакты</string>
+    <string name="contain_view_all_body">Посмотреть полный текст сообщения</string>
     <string name="content_description">%1$s о %2$s, %3$s в %4$s, %5$s</string>
     <string name="content_description_today">%1$s о %2$s, %3$s в %4$s, %5$s</string>
     <string name="contextmenu_add">Добавить в контакты</string>
@@ -424,6 +428,7 @@
     <string name="conversation_view">Цепочка сообщений</string>
     <string name="conversation_view_keywords">цепочка сообщений;диалог почты</string>
     <string name="copied">Скопировано</string>
+    <string name="copy">Копировать</string>
     <string name="copy_email">Копировать электронный адрес</string>
     <string name="copy_number">Копировать номер телефона</string>
     <string name="create_action">Создать</string>
@@ -496,6 +501,10 @@
     <string name="drawer_close">Закрыть почту</string>
     <string name="drawer_contacts">Контакты</string>
     <string name="drawer_open">Открыть почту</string>
+    <string name="drive_card_button_tips">Скопируйте извлеченный код для доступа к контенту</string>
+    <string name="drive_card_code">Извлечение кода</string>
+    <string name="drive_card_tips">Доступна ссылка для обмена от %s</string>
+    <string name="drive_card_title">Ссылка на диск</string>
     <string name="dtend">Конец</string>
     <string name="dtstart">Начало</string>
     <string name="due">В срок</string>
@@ -526,6 +535,7 @@
     <string name="exception_updated">Детали этого события были изменены на: %s</string>
     <string name="exchange_name">Корпоративный</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="expand_recipient_details">Показать информацию</string>
     <string name="expand_slide">Показать боковое меню</string>
     <string name="fail_get_email_message">Не удалось получить сообщение</string>
@@ -663,6 +673,13 @@
     <string name="interact_with_server_error">Не удалось подключиться к серверу</string>
     <string name="invalid_recipient">Адрес %s неверен.</string>
     <string name="invalid_recipient_title">Неверный получатель</string>
+    <string name="invoice_card_amount">сумма</string>
+    <string name="invoice_card_buyer">покупатель</string>
+    <string name="invoice_card_date">дата</string>
+    <string name="invoice_card_open">открыть счет</string>
+    <string name="invoice_card_save">сохранить счет</string>
+    <string name="invoice_card_seller">продавец</string>
+    <string name="invoice_card_title">электронный счет</string>
     <string name="kilobytes">%s КБ</string>
     <string name="list_empty_to_fresh">Пока нет писем.</string>
     <string name="load_from_remote">Поиск на сервере</string>
@@ -690,6 +707,8 @@
     <string name="login_des_yahoo">Войти в Yahoo Mail</string>
     <string name="login_des_yangdex">Войти в Yandex Mail</string>
     <string name="login_err_message">Используйте авторизованный код доступа для входа в %1$s, если этот параметр был выбран ранее. Перейдите на https://email.163.com/ для сброса пароля или кода доступа.</string>
+    <string name="login_err_outlook_msg">"%s
+Проверьте, включен ли пароль приложения. Если пароль приложения включен, перейдите на веб-сайт Microsoft, чтобы его."</string>
     <string name="login_err_sina_message">Используйте авторизованный код доступа для входа в %1$s, если этот параметр был выбран ранее. Перейдите на https://mail.sina.com.cn/ для сброса пароля или кода доступа.</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_tip">"Свяжитесь нами в WeChat для получения помощи: "</string>
@@ -812,6 +831,7 @@
     <string name="menu_search">Поиск</string>
     <string name="menu_settings">Настройки</string>
     <string name="merged_mailbox_compose_select_account">Выбрать аккаунт</string>
+    <string name="message_all_body">Полный текст</string>
     <string name="message_body_load_set_description">Загружать почту через мобильный интернет</string>
     <string name="message_compose_insert_quick_response_list_title">Вставить быстрый ответ</string>
     <string name="message_count_spacer">  </string>
@@ -846,6 +866,7 @@
     <string name="mute">Без звука</string>
     <string name="navigation_menu">Меню навигации</string>
     <string name="need_get_qq_mail">Требуется QQ Mail</string>
+    <string name="net_error">Ошибка сети, повторите попытку позже</string>
     <string name="network_error">Нет соединения</string>
     <string name="network_invaild">Не удалось подключиться к сети</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
@@ -873,6 +894,7 @@
     <string name="no_recognize_describe">"Не удалось найти письма, содержащие билеты или бронь.
 Выберите другой почтовый ящик."</string>
     <string name="no_search_results">Искать на сервере</string>
+    <string name="not_set">Не задано</string>
     <string name="not_subject">(Без темы)</string>
     <string name="not_synced_title">Аккаунт не синхронизирован</string>
     <string name="note_text">При отправке SMS для авторизации может взиматься дополнительная плата оператором.</string>
@@ -979,6 +1001,9 @@
     <string name="pdf_has_signature_prompt_cancel">Открыть исходный файл</string>
     <string name="pdf_has_signature_prompt_confirm">Открыть копию</string>
     <string name="pdf_has_signature_prompt_message">Обнаружена подписанная копия этого вложения. Открыть?</string>
+    <string name="pdf_save_error">Содержимое слишком велико, не удалось экспортировать в PDF</string>
+    <string name="pdf_save_no_body">Дождитесь загрузки текста и повторите попытку</string>
+    <string name="pdf_save_to">Сохранить в</string>
     <string name="pdf_signature_create_title">Создать подпись</string>
     <string name="pdf_signature_manager_max_count">Достигнуто максимальное количество подписей, удалите существующую подпись и повторите попытку</string>
     <string name="pdf_signature_manager_title">Менеджер подписи</string>
@@ -1043,6 +1068,7 @@
     <string name="policy_screen_timeout">Требовать блокировку экрана</string>
     <string name="policy_text_truncation">Ограничить размер сообщения</string>
     <string name="pop3_name">Почта (POP3)</string>
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="preference_eas_tips">Нажмите \"Активировать\" для настройки почтового сервера.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">При использовании POP3 вложения будут загружаться автоматически. Это может повысить расход трафика.</string>
@@ -1331,8 +1357,11 @@
     <string name="toast_bar_send_fail_remind">Не удалось отправить письмо. Сохранено в папке «Исходящие».</string>
     <string name="toast_bar_sync_failed_client_cert">Не удалось синхронизировать из-за отсутствия сертификата. Нажмите, чтобы снова добавить сертификат.</string>
     <string name="toast_bar_sync_failed_mi_authority">Войдите в аккаунт для авторизации устройства</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Чтобы синхронизировать расписание и контакты, предоставьте приложению Почта необходимые разрешения в Настройках</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Чтобы синхронизировать данные календаря и контакты, предоставьте приложению Почта необходимые разрешения в Настройках</string>
+    <string name="toastbar_calendar_permission_switch_allow_only_using">Чтобы синхронизировать расписание, предоставьте приложению Почта необходимые разрешения в Настройках</string>
     <string name="toastbar_calendar_permission_switch_close">Чтобы получать напоминания календаря, предоставьте приложению Почта необходимые разрешения в Настройках</string>
+    <string name="toastbar_contacts_permission_switch_allow_only_using">Чтобы синхронизировать контакты, предоставьте приложению Почта необходимые разрешения в Настройках</string>
     <string name="toastbar_contacts_permission_switch_close">Чтобы добавить контакты, предоставьте приложению Почта необходимые разрешения в Настройках</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Включите синхронизацию, чтобы синхронизировать календарь и контакты</string>
     <string name="toastbar_local_calendar_sync_switch_close">Включите синхронизацию календаря, чтобы получать напоминания</string>
@@ -1346,6 +1375,12 @@
     <string name="toolbar_part_symbol">Символ абзаца</string>
     <string name="topic_merge">Группировать сообщения</string>
     <string name="topic_merge_summary">Группировать сообщения по теме</string>
+    <string name="train_card_title">Билет куплен успешно</string>
+    <string name="train_card_title_alternate">Ожидание билета</string>
+    <string name="train_card_title_change">Билет успешно изменен</string>
+    <string name="train_card_title_change_arrival">Билет успешно изменен</string>
+    <string name="train_card_title_refund">Возврат билета выполнен успешно</string>
+    <string name="train_travel_refund_info" formatted="false">Комиссия за возврат ¥%s，возврат ¥%s</string>
     <string name="translation_loading">Подождите…</string>
     <string name="translation_no_result">Нет результатов</string>
     <string name="translation_pronunciation_am">AmE</string>
@@ -1397,6 +1432,8 @@
     <string name="user_privacy_settings_path">Совет: Вы можете отозвать свое согласие в Настройки > Настройки конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_summary">Мы будем использовать ваш Android ID (зашифрованный как ваш уникальный идентификатор пользователя с помощью MI Mail) и журнал операций. Вы можете в любое время отозвать свое согласие в настройках конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_title">Напоминание о конфиденциальности MI Mail</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="validation_failed_prompt">Невозможно подтвердить аккаунт, проверьте настройки сервера %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
@@ -1423,6 +1460,9 @@
     <string name="wipe_account_fail_description">Разрешить</string>
     <string name="wipe_account_fail_description_remind">Из-за ограничения прав доступа к данным, могут оставаться остаточные данные в календаре и контактах после удаления учетной записи, удалите их вручную.</string>
     <string name="wipe_account_fail_title">Ошибка удаления личных данных</string>
+    <string name="wps_card_button_tips">Открыть документ Kingsoft</string>
+    <string name="wps_card_tips">Доступна ссылка от \"%s\"</string>
+    <string name="wps_card_title">Документ Kingsoft</string>
     <string name="wrong_password">Неверный пароль</string>
     <string name="xiaomi_auth_toastbar">Войдите в аккаунт для авторизации устройства</string>
     <string name="xiaomi_email">Почта</string>
