@@ -31,14 +31,16 @@
     <string name="app_name">Наушники</string>
     <string name="apply_sound">Применить</string>
     <string name="can_you_here">Вы слышите звук?</string>
+    <string name="choose_bluetooth_device">Выбор устройства</string>
     <string name="complete_dialog_button">Понятно</string>
-    <string name="complete_dialog_message">"Тест успешно завершен."</string>
+    <string name="complete_dialog_message">Тест успешно завершен</string>
     <string name="complete_dialog_title">Результаты теста</string>
     <string name="copy">Копировать</string>
     <string name="customization_complete">Готово</string>
     <string name="customization_continue">Продолжить</string>
     <string name="customization_pause_tip">Прервать тест? Подключите наушники для продолжения.</string>
     <string name="customization_quit">Выход</string>
+    <string name="end_wireless_transmission">Остановить</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_blues">Блюз</string>
     <string name="eq_cancel">Отмена</string>
@@ -210,7 +212,13 @@
     <string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_phone">Это устройство</string>
     <string name="switch_audio_dialog_title">Переключение звука</string>
+    <string name="switch_bluetooth_device">Переключить устройство</string>
     <string name="third_note">Найдите тихое место.</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="wireless_transmission">Беспроводная передача</string>
+    <string name="wireless_transmission_cancel">Отмена</string>
+    <string name="wireless_transmission_confirm">Начать</string>
+    <string name="wireless_transmission_definition">Звук с микрофона устройства будет передаваться на устройство Bluetooth</string>
+    <string name="wireless_transmission_prompt">Для беспроводной передачи звука необходимо включить Bluetooth. Включить?</string>
 </resources>

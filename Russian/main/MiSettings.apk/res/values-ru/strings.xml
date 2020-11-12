@@ -413,11 +413,16 @@
     <string name="usage_new_home_unused">Не использовалось</string>
     <string name="usage_new_home_update">Изменить</string>
     <string name="usage_new_home_usage_detail">Статистика использования</string>
+    <string name="usage_new_home_week_average_count">В среднем: %s</string>
     <string name="usage_new_home_week_category_title">Категории приложений</string>
     <string name="usage_new_home_week_compare_text1">- на %.2f больше, чем неделей ранее</string>
+    <string name="usage_new_home_week_compare_text1_new">(на %s%% больше, чем неделей ранее)</string>
     <string name="usage_new_home_week_compare_text2">- на %.2f меньше, чем неделей ранее</string>
+    <string name="usage_new_home_week_compare_text2_new">(на %s%% меньше, чем неделей ранее)</string>
     <string name="usage_new_home_week_equals_text">- как и неделей ранее</string>
     <string name="usage_new_home_week_title">Неделя</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(на %.2f меньше, чем неделей ранее)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(на %.2f больше, чем неделей ранее)</string>
     <string name="usage_new_home_week_unlock_equals_text">как и неделей ранее</string>
     <string name="usage_new_home_week_usage_title">Приложения</string>
     <string name="usage_new_home_which_week">%d неделя</string>
@@ -537,8 +542,10 @@
     <string name="usage_stats_experience_text">Нажмите, чтобы попробовать (1 мин)</string>
     <string name="usage_stats_limit_time_accuracy_title">Оценка времени</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Точность до минуты (повышенный расход батареи)</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">Точность до минуты (увеличение расхода батареи)</string>
     <string name="usage_stats_limit_time_high_accuracy_title">Высокая точность</string>
     <string name="usage_stats_limit_time_low_accuracy_summary">Точность до минуты только последние 2 часа</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">Точность до минуты только последние %d ч. (экономия батареи) </string>
     <string name="usage_stats_limit_time_low_accuracy_title">Низкая точность</string>
     <string name="usage_stats_limit_time_warn">Предупреждать о лимите</string>
     <string name="usage_stats_limit_time_warn_summary">Показывать оставшееся время в шторке уведомлений</string>

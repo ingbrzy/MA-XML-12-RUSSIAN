@@ -273,6 +273,7 @@
     <string name="launcher">Отображение домашнего экрана</string>
     <string name="less_than_1_minute">Меньше минуты</string>
     <string name="loading_data">Подождите…</string>
+    <string name="location_permission_request">Для сопряжения и подключения к другому устройству</string>
     <string name="login">Войти</string>
     <string name="login_failed">Не удаётся войти. Попробуйте ещё раз.</string>
     <string name="logining">Вход в систему…</string>
@@ -479,6 +480,7 @@
     <string name="prompt_before_transmission_message4_title">Сохранение подключения</string>
     <string name="prompt_before_transmission_message5_summary">Беспроводная передача больших объемов данных может приводить к нагреву устройства, что является нормальным.</string>
     <string name="prompt_before_transmission_message5_title">Нагрев устройства</string>
+    <string name="provision_receiver_finish_button">Далее</string>
     <string name="qq_app_receive_fail">Не удалось получить QQ</string>
     <string name="qq_app_send_fail">Не удалось отправить QQ</string>
     <string name="qq_data_external">QQ данные SD-карты</string>
@@ -653,6 +655,8 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="time_spent">Время: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
+    <string name="title_open_wlan">Включите Wi-Fi</string>
+    <string name="title_request_alert_window_perm">Разрешить плавающие окна</string>
     <string name="title_request_package_stats_perm">Требуются разрешения</string>
     <string name="title_request_write_settings_perm">Требуется разрешение на изменение настроек системы</string>
     <string name="today">Сегодня</string>
@@ -724,7 +728,8 @@
     <string name="user_name_null">Apple ID не может быть пустой</string>
     <string name="video">Видео</string>
     <string name="view_password_description">Показать пароль</string>
-    <string name="waiting_restore_desktop">Перенос приложений для восстановления элементов рабочего стола…</string>
+    <string name="waiting_restore_aod">После переноса всех приложений Активный экран возобновит работу.</string>
+    <string name="waiting_restore_desktop">Перенос приложений для восстановления макета рабочего стола…</string>
     <string name="web_sso_login_fail">Вам нужно войти снова</string>
     <string name="web_sso_login_message">Вход…</string>
     <string name="website">Веб-сайт</string>

@@ -173,6 +173,11 @@
         <item quantity="one">%d разблокировку</item>
         <item quantity="few">%d разблокировки</item>
     </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">В среднем %.2f раз</item>
+        <item quantity="one">В среднем %.2f раз</item>
+        <item quantity="few">В среднем %.2f раза</item>
+    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Выходные дни: %d часов</item>
         <item quantity="one">Выходные дни: %d час</item>
