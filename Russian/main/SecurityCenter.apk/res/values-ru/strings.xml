@@ -2868,8 +2868,8 @@
     <string name="privacy_dialog_call_message">По умолчанию MIUI не позволяет сторонним приложениям выполнять следующие действия:</string>
     <string name="privacy_dialog_call_result">Вы по-прежнему сможете нормально использовать сторонние приложения и службы. Если у вас возникнут какие-либо проблемы, вы можете связаться с нами.</string>
     <string name="privacy_dialog_call_title">Защита вызовов</string>
-    <string name="privacy_dialog_camera_message">Чтобы защитить вашу конфиденциальность, MIUI не позволяет приложениям использовать камеру в фоновом режиме.</string>
-    <string name="privacy_dialog_camera_title">Ограничение фонового использования камеры</string>
+    <string name="privacy_dialog_camera_message">В целях защиты конфиденциальности MIUI не разрешает приложениям использовать камеру в фоновом режиме</string>
+    <string name="privacy_dialog_camera_title">Запрет камеры в фоновом режиме</string>
     <string name="privacy_dialog_content_part1">Добро пожаловать в Безопасность! Это приложение проверяет устройство на наличие мусора и вирусов, позволяет управлять приложениями, контролировать использование мобильного интернета, блокировать звонки и сообщения и т.д.</string>
     <string name="privacy_dialog_content_part2"><Data>Для предоставления необходимых сервисов и их улучшения, приложению требуется сбор необходимой личной информации. Вы можете узнать, как мы используем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Вы можете отозвать свое согласие с Политикой конфиденциальности в любое время в настройках.</Data></string>
     <string name="privacy_dialog_content_part3"><Data>"Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. В случае несогласия с вышеупомянутым, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему вам доступна."</Data></string>
@@ -2891,7 +2891,7 @@
     <string name="privacy_guide_permission_use_text">MIUI будет собирать статистику использования приложениями конфиденциальных разрешений, включая доступ к местоположению, контактам, журналу вызовов, микрофону и памяти устройства. Данная статистика может быть использована для более тонкой настройки разрешений.</string>
     <string name="privacy_informed_title">Статистика</string>
     <string name="privacy_location_info_summary">Управление доступом к местоположению</string>
-    <string name="privacy_location_info_title">Доступ к местоположению</string>
+    <string name="privacy_location_info_title">Местоположение</string>
     <string name="privacy_look_all_permission_status">Все разрешения</string>
     <string name="privacy_look_all_permission_times">Все действия</string>
     <string name="privacy_manage_title">Управление</string>
@@ -2907,7 +2907,7 @@
     <string name="privacy_other_permission_manage_title">Другие разрешения</string>
     <string name="privacy_permission_call">Журнал вызовов</string>
     <string name="privacy_permission_call_title">Защита вызовов</string>
-    <string name="privacy_permission_camera_title">Ограничение фонового использования камеры</string>
+    <string name="privacy_permission_camera_title">Запрет камеры в фоновом режиме</string>
     <string name="privacy_permission_contacts">Контакты</string>
     <string name="privacy_permission_location">Местоположение</string>
     <string name="privacy_permission_management">Управление разрешениями</string>
@@ -2953,8 +2953,8 @@
     <string name="privacy_search_key_9">Виртуальный ID</string>
     <string name="privacy_show_password">Показывать пароли</string>
     <string name="privacy_show_password_summary">Ненадолго показывать символы при вводе</string>
-    <string name="privacy_special_permission_summary">Управление специальным доступом</string>
-    <string name="privacy_special_permission_title">Специальный доступ</string>
+    <string name="privacy_special_permission_summary">Управление специальными разрешениями</string>
+    <string name="privacy_special_permission_title">Специальные разрешения</string>
     <string name="privacy_summary">Узнайте о защите конфиденциальности в MIUI 12</string>
     <string name="privacy_thumbnail_blur_category_financial">Финансовые</string>
     <string name="privacy_thumbnail_blur_category_other">Другие</string>

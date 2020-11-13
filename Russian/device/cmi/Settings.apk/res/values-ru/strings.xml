@@ -5521,22 +5521,22 @@ OTG отключается автоматически через 10 минут �
     <string name="preferred_sms_warning_message">Использование \"%1$s\" по умолчанию для сообщений может увеличить мобильный трафик или подвергнуть опасности ваши личные данные.</string>
     <string name="preferred_sms_warning_use_system">Отмена</string>
     <string name="premium_sms_access">Доступ к платным SMS</string>
-    <string name="premium_sms_none">Установленные приложения не запрашивали доступ к платным SMS</string>
-    <string name="premium_sms_warning">Внимание, после предоставления разрешения, приложению будет доступна отправка платных SMS.</string>
+    <string name="premium_sms_none">Нет приложений с доступом к платным SMS</string>
+    <string name="premium_sms_warning">Внимание, приложение с этим разрешением может отправлять платные SMS</string>
     <string name="prevent_ringing_option_mute">Без звука</string>
     <string name="prevent_ringing_option_mute_summary">Включено (без звука)</string>
-    <string name="prevent_ringing_option_none">Не изменять</string>
+    <string name="prevent_ringing_option_none">Не менять настройки</string>
     <string name="prevent_ringing_option_none_summary">Выключено</string>
     <string name="prevent_ringing_option_vibrate">Вибрация</string>
     <string name="prevent_ringing_option_vibrate_summary">Включено (вибросигнал)</string>
     <string name="preview_page_indicator_content_description">Предпросмотр, страница %1$d из %2$d</string>
     <string name="preview_pager_content_description">Просмотр</string>
     <string name="previous_connected_see_all">Показать все</string>
-    <string name="print_blocked_state_title_template">Задание \"%1$s\" заблокировано</string>
+    <string name="print_blocked_state_title_template">Принтер заблокирован %1$s</string>
     <string name="print_cancel">Отмена</string>
-    <string name="print_cancelling_state_title_template">Отмена задания %1$s…</string>
+    <string name="print_cancelling_state_title_template">Отмена %1$s…</string>
     <string name="print_configuring_state_title_template">Настройка %1$s</string>
-    <string name="print_failed_state_title_template">Ошибка задания \"%1$s\"</string>
+    <string name="print_failed_state_title_template">Ошибка печати %1$s</string>
     <string name="print_feature_state_off">Откл.</string>
     <string name="print_feature_state_on">Вкл.</string>
     <string name="print_job_summary">"%1$s
@@ -6947,7 +6947,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_work_settings">Сигналы в рабочем профиле</string>
     <string name="speaker">Динамик</string>
     <string name="speaker_clean">Очистка динамика</string>
-    <string name="special_access">Специальный доступ</string>
+    <string name="special_access">Специальные разрешения</string>
     <string name="special_access_more">Еще</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
@@ -7332,7 +7332,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sync_is_failing">Проблемы с синхронизацией. Скоро все заработает.</string>
     <string name="sync_menu_sync_cancel">Отменить синхронизацию</string>
     <string name="sync_menu_sync_now">Синхронизировать</string>
-    <string name="sync_now">Синхронизировать</string>
+    <string name="sync_now">Синхр-ть</string>
     <string name="sync_one_time_sync">"Нажмите, чтобы синхронизировать
 %1$s"</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Добро пожаловать в Google Sync.</font>"
