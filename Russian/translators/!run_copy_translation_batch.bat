@@ -74,6 +74,7 @@ call run_copy_translation.bat %1 MiuiScreenRecorder
 call run_copy_translation.bat %1 MiuiScreenshot
 call run_copy_translation.bat %1 MiuiSystemUI
 call run_copy_translation.bat %1 MiuiSystemUIPlugin
+call run_copy_translation.bat %1 MiuiTelecomOverlay
 call run_copy_translation.bat %1 MiuiVideoGlobal
 call run_copy_translation.bat %1 MiWallpaper
 call run_copy_translation.bat %1 Mms
