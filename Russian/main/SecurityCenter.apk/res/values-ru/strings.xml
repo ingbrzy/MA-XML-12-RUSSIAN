@@ -2999,9 +2999,9 @@
     <string name="read_clipboard_ai_close_no">Не сейчас</string>
     <string name="read_clipboard_ai_close_tip">Вы больше не будете получать уведомления, когда приложения обращаются к буферу обмена. Приложения автоматически получат разрешение только во время использования. Настроить разрешения?</string>
     <string name="read_clipboard_ai_close_yes">Настроить</string>
-    <string name="read_clipboard_op_content">Вы будете получать уведомление каждый раз, когда приложения обращаются к вашему буферу обмена.</string>
-    <string name="read_clipboard_op_title">Уведомлять о доступе к буферу обмена</string>
-    <string name="read_clipboard_tip_content">Это разрешение позволяет приложениям читать любой контент, который вы копируете в буфер обмена. Контент может включать личную информацию (например, данные счета, номера банковских карт и пароли).</string>
+    <string name="read_clipboard_op_content">Уведомлять каждый раз, когда приложения обращаются к буферу обмена</string>
+    <string name="read_clipboard_op_title">Уведомлять о доступе</string>
+    <string name="read_clipboard_tip_content">Это разрешение позволяет приложениям читать содержимое буфера обмена, в котором может содержаться скопированная личная информация (например, данные счета, номера банковских карт и пароли).</string>
     <string name="read_clipboard_tip_title">Чтение из буфера обмена</string>
     <string name="receive_now">Получить</string>
     <string name="recently_reject_message">Отклонен запрос на установку %1$s и %2$d других</string>
