@@ -77,6 +77,15 @@
     <string name="audio_record_perm_description">Запись храпа и сна</string>
     <string name="audio_record_permission_description">Для записи разговора во сне и храпа</string>
     <string name="auth_description">Разрешить %1$s синхронизировать данные со следующих устройств</string>
+    <string name="auth_dialog_description">"Включить рекомендации?
+
+Для предоставления рекомендаций тренировок, мы передадим ваши личные данные сторонним поставщикам услуг. Данные включают личную информацию (возраст, пол), статистику здоровья (рост, вес, режим тренировки), информацию о тренировках (время начала и окончания, продолжительность).
+
+Мы обработаем эти данные таким образом, чтобы сторонние поставщики услуг не могли идентифицировать вас.
+
+В случае отказа от рекомендаций, вам будут доступны стандартные тренировки."</string>
+    <string name="auth_dialog_link">Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Политику конфиденциальности&lt;/a>&lt;/font>.</string>
+    <string name="auth_dialog_title">Рекомендации тренировок</string>
     <string name="auto_start_fail">Не удалось предоставить разрешение</string>
     <string name="auto_start_success">Разрешение успешно предоставлено</string>
     <string name="auto_start_tips">Нажмите \"Настройки\" ниже, чтобы открыть настройки приложения Здоровье и предоставить ему необходимые разрешения.</string>
@@ -164,6 +173,7 @@
     <string name="butterfly_stroke">Баттерфляй</string>
     <string name="button_record_menstruation">Запись</string>
     <string name="buy">Купить</string>
+    <string name="calories">калории</string>
     <string name="camera_permission_desc">Для установки фото профиля</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_edit">Отмена</string>
@@ -290,6 +300,8 @@
     <string name="delete_wear_data_toast">Не удалось удалить данные, предоставленные %1$s</string>
     <string name="description">Подробности</string>
     <string name="detail_format">%1$.1f</string>
+    <string name="detail_record_pace_describe">Темп (мин/км)</string>
+    <string name="detail_record_pace_title">Распределение темпа</string>
     <string name="detection_has_no_data">Данных нет</string>
     <string name="detection_not_start">Отслеживание не началось</string>
     <string name="detection_not_start_detail">Не засиживайтесь допоздна</string>
@@ -313,6 +325,7 @@ ID:%s
     <string name="dialog_account_perm_desc">Для доступа и входа в системный аккаунт</string>
     <string name="dialog_agree">Согласен</string>
     <string name="dialog_agree_and_continue">Согласен</string>
+    <string name="dialog_agree_permission">Разрешить</string>
     <string name="dialog_allow">Разрешить</string>
     <string name="dialog_auto_start_detail">"Разрешите приложению Здоровье автозапуск, чтобы получать уведомления.
 Приложение будет уведомлять только о важном."</string>
@@ -343,9 +356,11 @@ ID:%s
     <string name="dialog_ok">ОК</string>
     <string name="dialog_open">Разрешить</string>
     <string name="dialog_permission_loading_msg">Проверка…</string>
+    <string name="dialog_permission_title">Требуются разрешения</string>
     <string name="dialog_privacy_policy_statement">Положение Политики конфиденциальности</string>
     <string name="dialog_privacy_title">Условия использования</string>
     <string name="dialog_read_phone_perm_desc">Для определения функций устройства с помощью OAID или Android ID</string>
+    <string name="dialog_reject">Отмена</string>
     <string name="dialog_request_network">Пожалуйста, согласитесь с Application Networking</string>
     <string name="dialog_sleep_goal_setting">Задать продолжительность сна</string>
     <string name="dialog_sleep_goal_subtitle">Старайтесь спать 7-9 часов каждый день</string>
@@ -451,6 +466,10 @@ ID:%s
     <string name="exercise_sum">Отчёт о тренировке</string>
     <string name="exercise_time">Длительность</string>
     <string name="exercise_walk_description">Согласно диетическим рекомендациям для жителей Китая, активная физическая активность должна длиться не менее 40 минут в день, что эквивалентно ходьбе 6000 шагов. Здесь будут суммироваться все ваши шаги (ходьба, бег, подъем по лестнице).</string>
+    <string name="exit_running_tips_cancel">Да</string>
+    <string name="exit_running_tips_confirm">Нет</string>
+    <string name="exit_running_tips_desc">Похоже, вы еще не начали тренировку. Завершить?</string>
+    <string name="exit_running_tips_title">Завершение тренировки</string>
     <string name="expand_all">Показать все</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
@@ -507,6 +526,10 @@ ID:%s
     <string name="goal_sleep_time">Цель для сна</string>
     <string name="goal_title">Оставайтесь здоровыми</string>
     <string name="goto_setting_auto_start">Настройки</string>
+    <string name="gps">GPS</string>
+    <string name="gps_no_signal_hint">Текущий сигнал GPS не позволяет отслеживать тренировку и записывать трек. Выйдите на ровную открытую местность.</string>
+    <string name="gps_unauthorized">Требуются разрешение для GPS</string>
+    <string name="gps_unopened">GPS отключен</string>
     <string name="group">Циклы</string>
     <string name="guide_data_cloud_sync_tip">Можно отключить синхронизацию в Настройки &gt; Облачные сервисы.</string>
     <string name="guide_exit">Выход</string>
@@ -551,13 +574,13 @@ ID:%s
     <string name="hr_cover_to_red">"Полностью закройте камеру пальцем.
 Подождите, пока круг не станет красным."</string>
     <string name="hr_detect">Измерение ЧСС</string>
-    <string name="hr_detect_desc">При измерениях вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС будет определен на основе анализа повторяющихся паттернов в кровотоке.</string>
+    <string name="hr_detect_desc">При измерениях вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
     <string name="hr_detect_finished">Готово!</string>
     <string name="hr_detect_fps_jitter">Не удалось измерить пульс. Попробуйте снова.</string>
     <string name="hr_detect_paused">Приостановлено</string>
-    <string name="hr_detect_principle_desc_1">Вы можете измерить ЧСС, прикрыв пальцем вспышку и камеру телефона. Вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС будет определен на основе анализа повторяющихся паттернов в кровотоке.</string>
-    <string name="hr_detect_principle_desc_2">Многочисленные тесты показывают, что погрешность этого метода составляет около 2 ударов в минуту.</string>
-    <string name="hr_detect_principle_desc_3">Обратите внимание, что такие факторы, как температура, оттенок кожи или движение, могут привести к неточностям в измерении. Выполните несколько измерений, чтобы убедиться, что текущие показания точны. Представленные результаты предназначены только для справки, данный метод измерения не может заменить профессиональное медицинское оборудование.</string>
+    <string name="hr_detect_principle_desc_1">Вы можете измерить ЧСС, прикрыв пальцем вспышку и камеру телефона. Вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
+    <string name="hr_detect_principle_desc_2">Тесты показывают, что погрешность этого метода составляет около 2 ударов в минуту.</string>
+    <string name="hr_detect_principle_desc_3">Обратите внимание, что такие факторы, как температура, оттенок кожи или движение, могут привести к неточностям в измерении. Выполните несколько измерений, чтобы убедиться, что текущие показания точны. Результаты предназначены только для справки, данный метод измерения не может заменить профессиональное медицинское оборудование.</string>
     <string name="hr_detect_principle_title">Измерение ЧСС</string>
     <string name="hr_detect_report_title">Отчет</string>
     <string name="hr_detect_state_after_activity">После активности</string>
@@ -567,7 +590,19 @@ ID:%s
     <string name="hr_detect_state_reseting">Отдых</string>
     <string name="hr_detect_state_reseting_desc">Вы полностью расслаблены или только что проснулись.</string>
     <string name="hr_disturb_detect">Измерение прервано</string>
-    <string name="hr_disturb_detect_desc">Начать сначала. Старайтесь не шевелить пальцем во время измерения.</string>
+    <string name="hr_disturb_detect_desc">Начать сначала. Не шевелите пальцем во время измерения.</string>
+    <string name="hr_finger_permission_desc">Xiaomi Health требуется доступ к сканеру отпечатков пальцев для измерения ЧСС. Разрешить?</string>
+    <string name="hr_fp_area">Сканер отпечатков</string>
+    <string name="hr_fp_detect_desc">При измерениях используется свет в области сканера отпечатков пальцев под экраном. ЧСС определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
+    <string name="hr_fp_detect_principle_desc">"Кровь не полностью прозрачна, свет может проходить через нее. При каждом ударе сердца кровь приливает к пальцам и блокирует больше света, чем в паузах между ударами. Для измерений используется свет в области сканера отпечатков пальцев под экраном. ЧСС определяется на основе анализа повторяющихся паттернов в кровотоке."</string>
+    <string name="hr_fp_detect_principle_desc_2">"Примечание: убедитесь, что ваш палец полностью закрывает значок отпечатка во время измерения. Не нажимайте сильно, это может заблокировать кровоток в кончике пальца и сделать результаты неточными. Результаты предназначены только для справки, данный метод измерения не может заменить профессиональное медицинское оборудование."</string>
+    <string name="hr_fp_detect_principle_desc_3">Тесты показывают, что погрешность этого метода составляет не более 3 ударов в минуту.</string>
+    <string name="hr_fp_detect_start_desc">"Поместите палец на значок отпечатка.
+Не шевелите пальцем."</string>
+    <string name="hr_fp_detecting">Измерение…</string>
+    <string name="hr_fp_not_put_well">"Вы пошевелили пальцем.
+Начать сначала."</string>
+    <string name="hr_fp_report_common_desc">Нормальная ЧСС колеблется от 60 до 100 ударов в минуту у взрослых. ЧСС ниже 60 ударов в минуту является признаком брадикардии, ЧСС выше 100 ударов в минуту является признаком тахикардии.</string>
     <string name="hr_heart_rate_unit">ЧСС (уд/мин)</string>
     <string name="hr_in_detect">Измерение ЧСС. Не шевелите пальцем.</string>
     <string name="hr_input_heart_rate">Запись</string>
@@ -658,6 +693,17 @@ ID:%s
     <string name="light_sleep_time_increase_description">Ваш легкий сон слишком длинный</string>
     <string name="light_sleep_time_normal_description">У вас достаточная длительность легкого сна</string>
     <string name="load_failed">Ошибка загрузки, повторите попытку позже</string>
+    <string name="loading">Подождите…</string>
+    <string name="location_permission_dialog_content">Разрешите Xiaomi Health доступ к местоположению в \"Xiaomi Health\" > \"Управление разрешениями\", чтобы записывать тренировки на открытом воздухе.</string>
+    <string name="location_permission_dialog_negative">Не сейчас</string>
+    <string name="location_permission_dialog_positive">Разрешить</string>
+    <string name="location_permission_dialog_title">Доступ к местоположению</string>
+    <string name="location_service_dialog_content">Включите службы определения местоположения в настройках, чтобы записывать тренировки на открытом воздухе.</string>
+    <string name="location_service_dialog_negative">Не сейчас</string>
+    <string name="location_service_dialog_positive">Включить</string>
+    <string name="location_service_dialog_title">Службы определения местоположения отключены</string>
+    <string name="location_service_ntfc_content">Xiaomi Health</string>
+    <string name="location_service_ntfc_title">Поиск GPS…</string>
     <string name="login_and_open_sync">Войти и включить синхронизацию</string>
     <string name="login_and_open_sync2">Войти и включить синхронизацию</string>
     <string name="low">Низкий</string>
@@ -751,10 +797,20 @@ ID:%s
     <string name="min_pace">Минимальный темп</string>
     <string name="minimum">Минимум</string>
     <string name="minute"> мин.</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
+    <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
+    <string name="miuix_appcompat_confirm_description">Подтверждение</string>
+    <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all_description">Выбор всех элементов</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -831,6 +887,7 @@ ID:%s
     <string name="need_unrestricted_permission">Для получения более точной статистики разрешите приложению Здоровье работать в фоновом режиме.</string>
     <string name="network_connect_failure">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_not_available">Сеть недоступна. Повторите попытку позже.</string>
+    <string name="network_not_available2">Не удалось подключиться к сети</string>
     <string name="next_step">Далее</string>
     <string name="night">PM</string>
     <string name="no_available_data_source">Нет доступных источников данных</string>
@@ -892,12 +949,21 @@ ID:%s
     <string name="permission_check_result_failed">Произошла ошибка</string>
     <string name="permission_manage">Управление разрешениями</string>
     <string name="permission_tip">Предоставьте приложению Здоровье следующие разрешения для получения более точной статистики сна</string>
+    <string name="personal_course_recommend_subtitle">Получите доступ к тренировкам, рекомендованным вам на основе вашей личной информации, статистики здоровья и предпочтений</string>
+    <string name="personal_course_recommend_title">Рекомендации тренировок</string>
     <string name="phone_detection">Обнаружение</string>
     <string name="photograph">Камера</string>
     <string name="picker_day">Выбранный день: %1$d. Взмахните вверх чтобы выбрать.</string>
     <string name="picker_month">Выбранный месяц: %1$d. Взмахните вверх чтобы выбрать.</string>
     <string name="picker_year">Выбранный год: %1$d. Взмахните вверх чтобы выбрать.</string>
+    <string name="placement_tips_recommend">Рекомендуется</string>
+    <string name="placement_tips_recommend_1">Рюкзак</string>
+    <string name="placement_tips_recommend_2">Поясная сумка</string>
+    <string name="placement_tips_title">Где будет устройство?</string>
+    <string name="placement_tips_warn">Не рекомендуется</string>
+    <string name="placement_tips_warn_1">Беговая дорожка</string>
     <string name="play">Воспроизведение</string>
+    <string name="please_choose">Выберите</string>
     <string name="pm">PM</string>
     <string name="pool_swimming">Бассейн</string>
     <string name="predict_menstruation">Предположительные дни</string>
@@ -915,6 +981,7 @@ ID:%s
     <string name="preference_update_find_new_version">Проверить обновления</string>
     <string name="preference_update_find_newer_version">Доступно обновление: %1$s</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_setting">Конфиденциальность</string>
     <string name="prompt_more_than_3h">Более 3 часов</string>
     <string name="prompt_sleep_time_night">Ночной сон</string>
     <string name="prompt_sleep_time_noon">Дневной сон</string>
@@ -1010,11 +1077,14 @@ ID:%s
     <string name="setting_avatar">Фото профиля</string>
     <string name="setting_birthday">Дата рождения</string>
     <string name="setting_blood_type">Группа крови</string>
+    <string name="setting_cycling_goals">Задать цель</string>
     <string name="setting_data_cloud_sync_tip">Используйте эту функцию для резервного копирования и синхронизации данных с других устройств</string>
     <string name="setting_gender">Пол</string>
+    <string name="setting_running_goals">Задать цель</string>
     <string name="setting_sedentary_off">ОТКЛ.</string>
     <string name="setting_sedentary_on">ВКЛ.</string>
     <string name="setting_sedentary_title">Напоминание двигаться</string>
+    <string name="setting_walking_goals">Задать цель</string>
     <string name="severe_abnormal">Гипертонический криз</string>
     <string name="severe_abnormal_tip">Каждый день после пробуждения, после обеда и перед сном</string>
     <string name="share">Поделиться</string>
@@ -1025,6 +1095,9 @@ ID:%s
     <string name="sleep_chart_empty">Нет данных</string>
     <string name="sleep_chart_loading">Подождите…</string>
     <string name="sleep_day">День</string>
+    <string name="sleep_day_multi_short_title">Дневной сон %1$d</string>
+    <string name="sleep_day_single_short_title">Дневной сон</string>
+    <string name="sleep_day_title">Дневной сон</string>
     <string name="sleep_deep">Глубокий сон</string>
     <string name="sleep_deep_light_analysis">Легкий сон и глубокий сон</string>
     <string name="sleep_deep_light_close_tip">Анализ глубокого сна выключен</string>
@@ -1087,6 +1160,7 @@ ID:%s
     <string name="sleep_need_auto_start">Разрешите приложению Здоровье автозапуск для более точных данных о вашем сне</string>
     <string name="sleep_need_background_run">Выберите \"Без ограничений\" в контроле активности для более точных данных о сне</string>
     <string name="sleep_need_necessary_permissions">Предоставьте необходимые разрешения для получения более точных данных о вашем сне</string>
+    <string name="sleep_night_title">Ночной сон</string>
     <string name="sleep_no_data_info">"Пройдите полный\u000d
 цикл сна"</string>
     <string name="sleep_no_deep_light_data_tip">Почему не записывается легкий и глубокий сон?</string>
@@ -1117,6 +1191,8 @@ ID:%s
     <string name="sleep_snore_detection_desc">Отслеживайте свой сон</string>
     <string name="sleep_sober">Пробуждение</string>
     <string name="sleep_sober_times_title">Пробуждения</string>
+    <string name="sleep_state_this_month">В этом месяце</string>
+    <string name="sleep_state_this_week">На этой неделе</string>
     <string name="sleep_status">Статистика сна</string>
     <string name="sleep_time_edit">Редактирование</string>
     <string name="sleep_time_standard_pattern">Норма: %1$d ч.</string>
@@ -1138,15 +1214,16 @@ ID:%s
     <string name="snore_detection_abnormal_state">Сессия была прервана</string>
     <string name="snore_detection_abnormal_state_description">Микрофон выключен</string>
     <string name="snore_detection_close_prompt">Отслеживание храпа и разговора во сне отключено</string>
+    <string name="snore_detection_close_prompt_desc">Запись храпа и разговора во сне отключена для энергосбережения. Нажмите для настройки.</string>
     <string name="snore_detection_close_title">Отключить обнаружение храпа и разговора?</string>
     <string name="snore_detection_enable">Обнаружение храпа и разговора</string>
-    <string name="snore_detection_guide_one_description">Звук будет записан во время сна. Машинное обучение позволяет приложению Здоровье обнаруживать храп, разговоры и громкие шумы и сохранять записи на вашем устройстве.</string>
-    <string name="snore_detection_guide_one_title">Запись звука с помощью микрофона</string>
-    <string name="snore_detection_guide_schedule_suggest">Микрофон будет включаться и выключаться в соответствии с вашим графиком сна. Установите график сна, чтобы он работал &gt;</string>
-    <string name="snore_detection_guide_schedule_suggest_details">Микрофон будет включен во время сна, чтобы проанализировать ваш цикл сна. Чтобы сделать статистику более точной, установите время сна в часах.</string>
-    <string name="snore_detection_guide_three_description">Убедитесь, что устройство достаточно заряжено, прежде чем ложиться спать. Низкий заряд батареи может прервать запись звука.</string>
-    <string name="snore_detection_guide_three_title">Держите устройство заряженным</string>
-    <string name="snore_detection_guide_two_description">Микрофон будет включен и выключен в соответствии с вашим графиком сна.</string>
+    <string name="snore_detection_guide_one_description">Во время сна будут записываться все звуки. Машинное обучение позволяет приложению Здоровье обнаруживать храп, разговор и шум, сохранять записи на устройстве.</string>
+    <string name="snore_detection_guide_one_title">Запись через микрофон</string>
+    <string name="snore_detection_guide_schedule_suggest">Микрофон будет включаться и выключаться по расписанию вашего режима сна. Установите расписание &gt;</string>
+    <string name="snore_detection_guide_schedule_suggest_details">Микрофон будет включен во время сна для анализа вашего цикла сна. Чтобы сделать статистику более точной, установите время сна в часах.</string>
+    <string name="snore_detection_guide_three_description">Убедитесь, что устройство достаточно заряжено, прежде чем ложиться спать. Низкий заряд батареи может прервать запись.</string>
+    <string name="snore_detection_guide_three_title">Проверьте уровень заряда</string>
+    <string name="snore_detection_guide_two_description">Микрофон будет включаться и выключаться по расписанию вашего режима сна.</string>
     <string name="snore_detection_guide_two_title">Отслеживать звуки автоматически</string>
     <string name="snore_detection_model_hint">Алгоритмы обнаружения храпа и разговора предоставлены Snail Sleep</string>
     <string name="snore_detection_normal_notification_title">Обнаружение храпа и разговора</string>
@@ -1199,7 +1276,62 @@ ID:%s
     <string name="splash_title">"В приложении Здоровье можно задать цели активности
 и получить советы
 на основе введенных личных данных."</string>
+    <string name="sport_btn_continue">Возобновить</string>
+    <string name="sport_btn_finish">Завершить</string>
+    <string name="sport_btn_lock">Заблокировать</string>
+    <string name="sport_btn_pause">Пауза</string>
+    <string name="sport_btn_unlock">Разблокировать</string>
+    <string name="sport_counter_begin">Начать</string>
+    <string name="sport_home_begin">Начать</string>
+    <string name="sport_home_set_goal">Задать цель</string>
+    <string name="sport_invalid_dialog_distance_content">Расстояние, которое вы преодолели во время этой тренировки, слишком мало для создания записи. Все равно завершить тренировку?</string>
+    <string name="sport_invalid_dialog_time_content">Эта тренировка длилась менее 5 секунд. Завершить без записи?</string>
+    <string name="sport_invalid_dialog_title">Слишком быстро!</string>
+    <string name="sport_menu_share">Отправить</string>
+    <string name="sport_no_internet_toast">Плохой сигнал. Не удается определить точное местоположение.</string>
+    <string name="sport_pace_chart_last_km">Менее 1 км</string>
+    <string name="sport_pace_step_unit">Об/мин</string>
+    <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
+    <string name="sport_pref_category_voice">Аудио</string>
+    <string name="sport_pref_gps_voice_title">Голосовые подсказки сигнала GPS</string>
+    <string name="sport_pref_voice_assist_summary">Получать информацию и рекомендации во время тренировки</string>
+    <string name="sport_pref_voice_assist_title">Голосовые подсказки</string>
+    <string name="sport_settings_title">Тренировки</string>
+    <string name="sport_share_fail">Не удалось отправить. Повторите попытку.</string>
+    <string name="sport_share_save_local">Успешно сохранено</string>
+    <string name="sport_share_save_local_fail">Не удалось сохранить. Повторите попытку.</string>
+    <string name="sport_share_save_local_success">Успешно сохранено</string>
+    <string name="sport_share_success">Успешно отправлено</string>
+    <string name="sport_share_title">Отправить</string>
+    <string name="sport_step_average_frequency">Средняя</string>
+    <string name="sport_step_max_frequency">Максимальная</string>
+    <string name="sport_step_min_frequency">Минимальная</string>
+    <string name="sport_title_step_frequency">Каденс</string>
+    <string name="sport_tts_begin_riding">Начать</string>
+    <string name="sport_tts_begin_running">Начать бег</string>
+    <string name="sport_tts_begin_walking">Начать ходьбу</string>
+    <string name="sport_tts_finish_by_user">Хорошая тренировка!</string>
+    <string name="sport_tts_goal_finish">Вы достигли цели! Поздравляем!</string>
+    <string name="sport_tts_goal_finish_half">Вы преодолели полпути! Продолжайте!</string>
+    <string name="sport_tts_last_km_spent">Вы преодолели последний километр за %s</string>
+    <string name="sport_tts_pause_by_user">Тренировка приостановлена</string>
     <string name="sport_type">Тип тренировки</string>
+    <string name="sporting_content_speed">Текущий темп: %1$s %2$s на километр</string>
+    <string name="sporting_content_time">Продолжительность тренировки: %1$s %2$s</string>
+    <string name="sporting_goal">Цель</string>
+    <string name="sporting_hint_exit_map">Закрытие карты</string>
+    <string name="sporting_hint_long_press">Нажмите и удерживайте для завершения</string>
+    <string name="sporting_hint_switch_to_map">Отображение карты</string>
+    <string name="sporting_key_calories">ккал</string>
+    <string name="sporting_key_km">КМ</string>
+    <string name="sporting_key_speed">Темп</string>
+    <string name="sporting_key_step">Шаги</string>
+    <string name="sporting_key_time">Длительность</string>
+    <string name="sporting_location">Местоположение</string>
+    <string name="sporting_title_outdoor_riding">Велосипед</string>
+    <string name="sporting_title_pause">Пауза</string>
+    <string name="sporting_title_running">Бег</string>
+    <string name="sporting_title_waking">Ходьба</string>
     <string name="stand">Разминка</string>
     <string name="stand_assistant">Разминка</string>
     <string name="stand_detection">Обнаружение активности</string>
@@ -1219,6 +1351,9 @@ ID:%s
     <string name="stand_stop_reminding">Отключить напоминания</string>
     <string name="standard_format">(по умолчанию: %1s)</string>
     <string name="standing_already">Разминка уже была</string>
+    <string name="start_cycling">Начать</string>
+    <string name="start_running">Начать</string>
+    <string name="start_walking">Начать</string>
     <string name="state_agree">Согласен</string>
     <string name="state_auto_run_disenable">Откл.</string>
     <string name="state_auto_run_enable">Вкл.</string>
@@ -1501,6 +1636,7 @@ ID:%s
     <string name="tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
     <string name="tracking_progress_labe_up_nodata">нет данных</string>
     <string name="tracking_progress_labe_up_refresh">потяните для обновления</string>
+    <string name="treadmill">Беговая дорожка</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>

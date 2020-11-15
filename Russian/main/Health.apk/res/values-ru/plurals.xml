@@ -126,6 +126,11 @@
         <item quantity="other">%1$d ч.</item>
         <item quantity="one">%1$d ч.</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">Осталось %1$d секунд</item>
+        <item quantity="one">Осталась %1$d секунда</item>
+        <item quantity="few">Осталось %1$d секунды</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Через час</item>
     </plurals>
@@ -141,14 +146,14 @@
         <item quantity="few">через %d минуты</item>
     </plurals>
     <plurals name="last_measure_date_interval">
-        <item quantity="other">%1$d дней без взвешивания</item>
-        <item quantity="one">%1$d день без взвешивания</item>
-        <item quantity="few">%1$d дня без взвешивания</item>
+        <item quantity="other">Вы не взвешивались %1$d дней</item>
+        <item quantity="one">Вы не взвешивались %1$d день</item>
+        <item quantity="few">Вы не взвешивались %1$d дня</item>
     </plurals>
     <plurals name="last_measure_day_body_weight">
-        <item quantity="other">%1$d дней без взвешивания</item>
-        <item quantity="one">%1$d день без взвешивания</item>
-        <item quantity="few">%1$d дня без взвешивания</item>
+        <item quantity="other">Вы не взвешивались %1$d дней</item>
+        <item quantity="one">Вы не взвешивались %1$d день</item>
+        <item quantity="few">Вы не взвешивались %1$d дня</item>
     </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d метров</item>
@@ -159,9 +164,9 @@
         <item quantity="other">Только что</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
-        <item quantity="other">Период, скорее всего, начнется через %1$d дней</item>
-        <item quantity="one">Период, скорее всего, начнется через %1$d дней</item>
-        <item quantity="one">Период, скорее всего, начнется через %1$d дня</item>
+        <item quantity="other">Период, возможно, начнется через %1$d дней</item>
+        <item quantity="one">Период, возможно, начнется через %1$d дней</item>
+        <item quantity="few">Период, возможно, начнется через %1$d дня</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d-дневная менструация</item>
@@ -210,6 +215,78 @@
         <item quantity="other">Текущие настройки не гарантируют вам %1$d часов сна в день. Вам нужно больше.</item>
         <item quantity="one">Текущие настройки не гарантируют вам %1$d час сна в день. Вам нужно больше.</item>
         <item quantity="few">Текущие настройки не гарантируют вам %1$d часа сна в день. Вам нужно больше.</item>
+    </plurals>
+    <plurals name="sport_tts_goal_consume">	
+        <item quantity="other">Осталось сжечь еще %s ккал до достижения цели</item>
+        <item quantity="one">Осталось сжечь еще %s ккал до достижения цели</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">Осталось еще %s км до достижения цели</item>
+        <item quantity="one">Остался еще %s км до достижения цели</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">Осталось еще %s мин. до достижения цели</item>
+        <item quantity="one">Осталась еще %s мин. до достижения цели</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">Вы проехали %s км</item>
+        <item quantity="one">Вы проехали %s км</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">Вы пробежали %s км</item>
+        <item quantity="one">Вы пробежали %s км</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">Вы сожгли %s ккал</item>
+        <item quantity="one">Вы сожгли %s ккал</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">Вы прошли %s км</item>
+        <item quantity="one">Вы прошли %s км</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">Вы уже сожгли %1$s ккал</item>
+        <item quantity="one">Вы уже сожгли %1$s ккал</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d минут</item>
+        <item quantity="one">%1$d минута</item>
+        <item quantity="few">%1$d минуты</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">Вы уже проехали %s км</item>
+        <item quantity="one">Вы уже проехали %s км</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">Вы уже пробежали %s км</item>
+        <item quantity="one">Вы уже пробежали %s км</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунды</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">Вы уже прошли %s км</item>
+        <item quantity="one">Вы уже прошли %s км</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">Вы уже прошли %1$s шагов</item>
+        <item quantity="one">Вы уже прошли %1$s шаг</item>
+        <item quantity="few">Вы уже прошли %1$s шага</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d ккал</item>
+        <item quantity="one">%1$d ккал</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s км</item>
+        <item quantity="one">%1$s км</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">шагов</item>
+        <item quantity="one">шаг</item>
+        <item quantity="few">шага</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d шагов</item>
@@ -302,6 +379,28 @@
     <plurals name="unit_group">
         <item quantity="other">" циклов"</item>
         <item quantity="one">" цикл"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" ч. "</item>
+        <item quantity="one">" ч. "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" часов "</item>
+        <item quantity="one">" час "</item>
+        <item quantity="few">" часа "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" мин. "</item>
+        <item quantity="one">" мин. "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" минут "</item>
+        <item quantity="one">" минуту "</item>
+        <item quantity="few">" минуты "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" cек. "</item>
+        <item quantity="one">" cек. "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" раз"</item>

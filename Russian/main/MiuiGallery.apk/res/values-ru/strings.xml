@@ -45,7 +45,7 @@
     <string name="add_to_album_success">Успешно добавлено</string>
     <string name="add_to_album_tip">Фото из облака</string>
     <string name="add_to_favorites_failed">Ошибка добавления в Избранные</string>
-    <string name="add_to_secret_exist">Этот элемент уже в приватном альбоме</string>
+    <string name="add_to_secret_exist">Этот файл уже в приватном альбоме</string>
     <string name="add_to_secret_fail">Ошибка добавления в приватный альбом</string>
     <string name="add_to_secret_failed_with_reason">Ошибка добавления в приватный альбом. %1$s.</string>
     <string name="add_to_secret_successful">Добавлено в приватный альбом</string>
@@ -216,10 +216,10 @@
     <string name="backup_cloud_space_low_desc">%1$s в Xiaomi Cloud | Доступно %2$s</string>
     <string name="backup_cloud_space_low_title">Недостаточно места в Xiaomi Cloud</string>
     <string name="backup_cta_not_allow_btn_text">Разрешить</string>
-    <string name="backup_cta_not_allow_desc">Разрешите автоматическую выгрузку элементов.</string>
+    <string name="backup_cta_not_allow_desc">Разрешение автоматической выгрузки файлов</string>
     <string name="backup_cta_not_allow_title">Сеть недоступна</string>
     <string name="backup_detail_page_empty">Нет фото или видео в ожидании выгрузки</string>
-    <string name="backup_detail_page_title">Синхронизированные элементы</string>
+    <string name="backup_detail_page_title">Синхронизированные файлы</string>
     <string name="backup_device_space_low_btn_text">Очистить</string>
     <string name="backup_device_space_low_desc">Освободите место для продолжения выгрузки</string>
     <string name="backup_device_space_low_title">Недостаточно места</string>
@@ -230,10 +230,10 @@
     <string name="backup_need_sync_desc">Нажмите для продолжения</string>
     <string name="backup_need_sync_title">Выгрузка остановлена</string>
     <string name="backup_no_network_btn_text">Настройки</string>
-    <string name="backup_no_network_desc">Подключитесь к сети для выгрузки элементов</string>
+    <string name="backup_no_network_desc">Подключитесь к сети</string>
     <string name="backup_no_network_title">Нет связи с Xiaomi Cloud</string>
     <string name="backup_no_wifi_btn_text">Продолжить</string>
-    <string name="backup_no_wifi_desc">Также можно выгружать элементы через мобильный интернет</string>
+    <string name="backup_no_wifi_desc">Доступна выгрузка файлов через мобильный интернет</string>
     <string name="backup_no_wifi_title">Выгрузка возобновится после подключения к Wi-Fi</string>
     <string name="backup_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="backup_only_in_wifi_summary">Никогда не использовать мобильный интернет для синхронизации фото или видео</string>
@@ -408,9 +408,9 @@
     <string name="cloud_storage_extend">Получить больше места</string>
     <string name="cloud_storage_ok_append_desc">Доступно %s</string>
     <string name="cloud_storage_ok_desc">Всего %s</string>
-    <string name="cloud_storage_ok_title">Места в Xiaomi Cloud достаточно</string>
+    <string name="cloud_storage_ok_title">В Xiaomi Cloud достаточно места</string>
     <string name="cloud_storage_photo_title">Фото</string>
-    <string name="cloud_storage_subtitle">Все элементы выгружены в Xiaomi Cloud</string>
+    <string name="cloud_storage_subtitle">Все файлы выгружены в Xiaomi Cloud</string>
     <string name="cloud_storage_title">Хранилище Xiaomi Cloud</string>
     <string name="cloud_storage_video_title">Видео</string>
     <string name="cloud_storage_warn_desc">Приобретите VIP-членство для получения места</string>
@@ -514,10 +514,10 @@
     <string name="delete_album_msg_format_local">Удалить %1$s %2$s?</string>
     <string name="delete_album_success">Альбом удален</string>
     <string name="delete_from_all_devices_and_cloud">со всех устройств и из Xiaomi Cloud</string>
-    <string name="delete_from_cloud">Удалить элементы из Xiaomi Cloud</string>
+    <string name="delete_from_cloud">Удалить файлы из Xiaomi Cloud</string>
     <string name="delete_from_this_album_and_cloud">из этого альбома и из Xiaomi Cloud</string>
-    <string name="delete_in_album">Выбранные элементы будут удалены из облака и на всех подключенных устройствах и сохранены в облачной корзине в течение 30 дней, если у вас есть бесплатный план хранения в облаке. Удалить?</string>
-    <string name="delete_in_home_page">Выбранные элементы будут удалены из облака и на всех подключенных устройствах и сохранены в облачной корзине в течение 30 дней, если у вас есть бесплатный план хранения в облаке. Удалить?</string>
+    <string name="delete_in_album">Выбранные файлы будут удалены из облака и на всех подключенных устройствах и сохранены в облачной корзине в течение 30 дней, если у вас есть бесплатный план хранения в облаке. Удалить?</string>
+    <string name="delete_in_home_page">Выбранные файлы будут удалены из облака и на всех подключенных устройствах и сохранены в облачной корзине в течение 30 дней, если у вас есть бесплатный план хранения в облаке. Удалить?</string>
     <string name="delete_in_process">Удаление…</string>
     <string name="delete_origin">Удалить из исходного альбома</string>
     <string name="delete_other_shared_images">Нельзя удалить фото других пользователей</string>
@@ -567,9 +567,9 @@
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Вы можете выбрать качество загруженных изображений или отключить автоматическую загрузку в Настройках.</string>
     <string name="downloading_title">Загрузка фото из Xiaomi Cloud</string>
-    <string name="downloading_title_file">Загрузка элементов из Xiaomi Cloud…</string>
+    <string name="downloading_title_file">Загрузка файлов из Xiaomi Cloud…</string>
     <string name="drag_failed_because_baby_album_cant_sort">Не удалось скрыть детский альбом</string>
-    <string name="drag_failed_because_not_custom_sort">Изменение порядка элементов доступно только при выборе пользовательской сортировки</string>
+    <string name="drag_failed_because_not_custom_sort">Изменение порядка файлов доступно только при пользовательской сортировке</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">Нельзя удалить или скрыть альбом \"Скриншоты\"</string>
     <string name="drag_failed_because_share_album_cant_sort">Нельзя удалить альбомы, опубликованные другими</string>
     <string name="drag_view_tip_sub_title">Нажмите и удерживайте альбом, чтобы изменить порядок</string>
@@ -593,7 +593,7 @@
     <string name="empty_album_other_list_title">Нет альбомов</string>
     <string name="empty_album_rubbish_list_title">Нет альбомов</string>
     <string name="empty_description_conditions">Сохраните важные моменты</string>
-    <string name="empty_description_conditions_new">Убедитесь, что вы сделали достаточно фотографий. Подключите зарядное устройство и выключите экран, чтобы элементы появились здесь как можно раньше.</string>
+    <string name="empty_description_conditions_new">Убедитесь, что вы сделали достаточно фото. Подключите зарядное устройство и выключите экран, чтобы фото появились здесь как можно раньше.</string>
     <string name="empty_description_no_cards">Сохраните важные моменты</string>
     <string name="empty_query_text_msg">Не заданы условия поиска…</string>
     <string name="empty_recommend_back">Назад</string>
@@ -681,9 +681,9 @@
     <string name="exit_share_successfully">Вы вышли из альбома \"%1$s\"</string>
     <string name="exit_video_play">Выход</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="expand_desc">Еще</string>
-    <string name="expand_people">Показать другие лица</string>
-    <string name="ext_sdcard_first_entrance_request_failed_text">Галерея будет сохранять элементы во внутреннюю память. Для изменения перейдите в Настройки &gt; Хранилище &gt; Настройки памяти.</string>
+    <string name="expand_desc">Другие альбомы</string>
+    <string name="expand_people">Другие люди</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Галерея будет сохранять файлы во внутреннюю память. Для изменения перейдите в Настройки &gt; Хранилище &gt; Настройки памяти.</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">Не удалось дать разрешения.</string>
     <string name="ext_sdcard_guide_first_page_button_text">Далее</string>
     <string name="ext_sdcard_guide_last_page_button_text">Дать разрешения</string>
@@ -722,8 +722,8 @@
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
-    <string name="file_cannot_print">"Не удается распечатать этот элемент"</string>
-    <string name="file_cannot_screen_throw">"Не удается транслировать этот элемент"</string>
+    <string name="file_cannot_print">Не удается распечатать этот файл</string>
+    <string name="file_cannot_screen_throw">Не удается транслировать этот файл</string>
     <string name="file_sending">Передача файлов…</string>
     <string name="filter_bi_bw">Ч/Б</string>
     <string name="filter_bi_dusk">Сумерки</string>
@@ -862,7 +862,7 @@
     <string name="filter_sky_dynamic_duoyun">Облачность</string>
     <string name="filter_sky_dynamic_jiyun">Кучевые облака</string>
     <string name="filter_sky_dynamic_muguang">Сумерки</string>
-    <string name="filter_sky_dynamic_note">Элементы с этим фильтром будут сохранены как видео</string>
+    <string name="filter_sky_dynamic_note">Изображения с этим фильтром будут сохранены как видео</string>
     <string name="filter_sky_dynamic_qingtian">Ясное небо</string>
     <string name="filter_sky_dynamic_rain">Дождь</string>
     <string name="filter_sky_dynamic_saving">Создание видео</string>
@@ -995,7 +995,7 @@
     <string name="limit_height">Высота должна быть &gt; 0</string>
     <string name="limit_width">Ширина должна быть &gt; 0</string>
     <string name="live_photo">Живые фото</string>
-    <string name="load_complete">Больше нет элементов</string>
+    <string name="load_complete">Больше ничего нет</string>
     <string name="load_failed">Не удалось загрузить данные, нажмите для повтора</string>
     <string name="load_relations">Подождите…</string>
     <string name="loading">Подождите…</string>
@@ -1206,7 +1206,7 @@
     <string name="movie_video_long">Длинное видео</string>
     <string name="movie_video_short">Короткое видео</string>
     <string name="multi_view_tip_button_text">Понятно</string>
-    <string name="multi_view_tip_sub_title">Разведите или сведите два пальца, чтобы изменить размер отображаемых элементов.</string>
+    <string name="multi_view_tip_sub_title">Разведите или сведите два пальца, чтобы изменить размер отображения</string>
     <string name="multi_view_tip_title">Увеличение и уменьшение</string>
     <string name="must_pick_file">Выберите фото</string>
     <string name="name_split">, </string>
@@ -1317,7 +1317,7 @@
     <string name="operation_set_video_wallpaper">Установить как видео обои</string>
     <string name="operation_set_wallpaper">Установить как обои</string>
     <string name="operation_share">Поделиться</string>
-    <string name="operation_share_manage">Управление общими элементами</string>
+    <string name="operation_share_manage">Управление общими файлами</string>
     <string name="operation_show_in_photos_tab">Показывать в Фото</string>
     <string name="operation_show_on_map">Показать на карте</string>
     <string name="operation_show_time">Показать даты</string>
@@ -1350,7 +1350,7 @@
     <string name="permission_contacts_desc">Для назначения контактов людям на фотографиях</string>
     <string name="permission_contacts_name">Контакты</string>
     <string name="permission_optional_category">Необязательные разрешения</string>
-    <string name="permission_phone_desc">Для назначения соответствующих устройств недавно удаленным элементам в Xiaomi Cloud</string>
+    <string name="permission_phone_desc">Для синхронизации на связанных устройствах недавно удаленных файлов в Xiaomi Cloud</string>
     <string name="permission_phone_name">Устройство</string>
     <string name="permission_require_category">Обязательные разрешения</string>
     <string name="permission_storage_desc">Для хранения, отображения, редактирования, синхронизации и загрузки ваших фото и видео</string>
@@ -1697,7 +1697,7 @@
     <string name="search_failed_mark_feedback_false_positive">Ошибка удаления</string>
     <string name="search_feedback_contribute">Добавить фото в базу данных</string>
     <string name="search_feedback_false_negative_text">Добавить фото в \"%s\"?</string>
-    <string name="search_feedback_false_negative_title">Выбранные элементы \"%s\"</string>
+    <string name="search_feedback_false_negative_title">Выбранные файлы \"%s\"</string>
     <string name="search_feedback_false_positive_text">Удалить фото из \"%s\"?</string>
     <string name="search_feedback_false_positive_title">Похоже, что это \"%s\"</string>
     <string name="search_feedback_likely_check_title">Проверить</string>
@@ -1773,7 +1773,7 @@
     <string name="send_public_url">Отправить ссылку на альбом</string>
     <string name="send_secret_file_failed">Не удалось отправить</string>
     <string name="send_secret_file_space_low">Недостаточно места</string>
-    <string name="send_too_many_files_error">За один раз можно отправить %d элементов</string>
+    <string name="send_too_many_files_error">За один раз можно отправить до %d файлов</string>
     <string name="service_is_provided_by_miui_cloud_service">Сервис предоставляется Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Установить как обои экрана блокировки</string>
     <string name="set_as_slide_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
@@ -1810,7 +1810,7 @@
     <string name="signature_dialog_clear">Очистить</string>
     <string name="signature_manage_dialog_title_string">Подпись</string>
     <string name="signature_view_add_signature_String">Добавить подпись</string>
-    <string name="signature_view_max_signature_limit_string">Удалите старые элементы перед добавлением новых</string>
+    <string name="signature_view_max_signature_limit_string">Удалите старые файлы перед добавлением новых</string>
     <string name="signature_view_signature_with_finger">Подписать</string>
     <string name="similar_keep_clear">Оставить лучшие снимки</string>
     <string name="sky_dynamic">Динамичное</string>
@@ -1908,7 +1908,7 @@
     <string name="story_option_menu_delete">Удалить историю</string>
     <string name="story_option_menu_rename">Переименовать</string>
     <string name="story_photo_downloading">Загрузка…</string>
-    <string name="story_remove_confirm_message">Удаленные элементы больше не появятся в этой истории.</string>
+    <string name="story_remove_confirm_message">Удаленные фото больше не появятся в этой истории.</string>
     <string name="story_remove_confirm_positive">Удалить</string>
     <string name="story_remove_confirm_title">Удаление фото</string>
     <string name="story_rename_invalid_char">"Нельзя использовать \"%s\" в заголовке истории. Используйте буквы, цифры и китайские иероглифы."</string>

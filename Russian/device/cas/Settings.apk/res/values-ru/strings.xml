@@ -769,8 +769,8 @@
     <string name="autofill_confirmation_message">&lt;b>Убедитесь, что это приложение безопасно&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> анализирует содержимое экрана и находит поля, которые можно заполнить автоматически.</string>
     <string name="autofill_keywords">автоматически, заполнять, автозаполнение</string>
     <string name="autofill_logging_level_title">Уровень журналирования</string>
-    <string name="autofill_max_partitions">Максимальное количество запросов за сеанс</string>
-    <string name="autofill_max_visible_datasets">Максимальное количество видимых наборов данных</string>
+    <string name="autofill_max_partitions">Лимит запросов за сеанс</string>
+    <string name="autofill_max_visible_datasets">Лимит видимых наборов данных</string>
     <string name="autofill_reset_developer_options">Установить значения по умолчанию</string>
     <string name="autofill_reset_developer_options_complete">Автозаполнение параметров разработчика сброшено</string>
     <string name="automatic_brightness">Автояркость</string>
@@ -950,7 +950,7 @@
     <string name="battery_last_full_charge">Последняя полная зарядка</string>
     <string name="battery_level_title">Уровень заряда батареи</string>
     <string name="battery_light_summary">Индикатор будет гореть во время зарядки устройства</string>
-    <string name="battery_light_title">Включать при зарядке</string>
+    <string name="battery_light_title">При зарядке</string>
     <string name="battery_manager_off">ОТКЛ.</string>
     <string name="battery_manager_on">ВКЛ. / Контроль разряда батареи</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -1102,7 +1102,7 @@
 на нем должен отображаться этот код доступа: 
 %2$s"</string>
     <string name="bluetooth_connect_failed">Не удалось подключиться. Повторите попытку.</string>
-    <string name="bluetooth_connect_settings">Настройки подключения</string>
+    <string name="bluetooth_connect_settings">Настройки Bluetooth-соединения</string>
     <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
@@ -1171,7 +1171,7 @@
 %1$s 
 введите код %2$s, 
 затем нажмите клавишу Return или Enter"</string>
-    <string name="bluetooth_display_settings">Настройки дисплея</string>
+    <string name="bluetooth_display_settings">Настройки Bluetooth-дисплея</string>
     <string name="bluetooth_dock_settings">Настройки док-станции</string>
     <string name="bluetooth_dock_settings_a2dp">Для музыки и мультимедиа</string>
     <string name="bluetooth_dock_settings_headset">Для громкой связи</string>
@@ -1226,10 +1226,10 @@
     <string name="bluetooth_max_connected_audio_devices_string">Число Bluetooth аудиоустройств</string>
     <string name="bluetooth_menu_advanced">Дополнительно</string>
     <string name="bluetooth_mi_fast_connect">Сопряжение с устройствами</string>
-    <string name="bluetooth_mi_fast_connect_summary">Подключение к совместимым устройствам поблизости с использованием упрощенного способа сопряжения</string>
+    <string name="bluetooth_mi_fast_connect_summary">Подключать совместимые устройства поблизости упрощенным способом</string>
     <string name="bluetooth_middle_name">Чехол</string>
     <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
-    <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены.</string>
+    <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
     <string name="bluetooth_not_visible_to_other_devices">Не виден другим устройствам</string>
     <string name="bluetooth_notif_message">Нажмите, чтобы установить соединение с устройством \"%1$s\".</string>
     <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
@@ -1337,8 +1337,8 @@
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Настройка подключений, видимости и имени устройства</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
-    <string name="bluetooth_show_devices_without_names">Показывать Bluetooth устройства без имен</string>
-    <string name="bluetooth_show_devices_without_names_summary">Bluetooth устройства будут отображены без имен (только MAC-адреса)</string>
+    <string name="bluetooth_show_devices_without_names">Скрывать имена</string>
+    <string name="bluetooth_show_devices_without_names_summary">Показывать Bluetooth-устройства без имен (только MAC-адреса)</string>
     <string name="bluetooth_show_files_received_via_bluetooth">Файлы, полученные по Bluetooth</string>
     <string name="bluetooth_show_received_files">Полученные файлы</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
@@ -2492,8 +2492,8 @@
     <string name="display_auto_rotate_stay_in_portrait">Книжная ориентация</string>
     <string name="display_auto_rotate_title">Автоповорот экрана</string>
     <string name="display_category_title">Экран</string>
-    <string name="display_cutout_emulation">Экран с вырезом</string>
-    <string name="display_cutout_emulation_keywords">Экран с вырезом, вырез</string>
+    <string name="display_cutout_emulation">Вырез экрана</string>
+    <string name="display_cutout_emulation_keywords">Вырез экрана, вырез</string>
     <string name="display_dashboard_nowallpaper_summary">Спящий режим, размер шрифта</string>
     <string name="display_dashboard_summary">Обои, спящий режим, размер шрифта</string>
     <string name="display_dashboard_summary_with_style">Стили, обои, таймаут экрана, размер шрифта</string>
@@ -2693,8 +2693,8 @@
     <string name="enable_compatibility">Масштабировать приложения</string>
     <string name="enable_freeform_support">Окна произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить поддержку экспериментальной функции создания окон произвольной формы</string>
-    <string name="enable_gnss_raw_meas_full_tracking">Отслеживать измерения GNSS</string>
-    <string name="enable_gnss_raw_meas_full_tracking_summary">Отслеживать все GNSS группировки и частоты вне дежурного цикла</string>
+    <string name="enable_gnss_raw_meas_full_tracking">Полные измерения GNSS</string>
+    <string name="enable_gnss_raw_meas_full_tracking_summary">Отслеживать все группировки GNSS и частоты без дежурного цикла</string>
     <string name="enable_gpu_debug_layers">Отладочный слой GPU</string>
     <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
     <string name="enable_mms_notification_channel_title">MMS-сообщение</string>
@@ -4836,13 +4836,13 @@
 %d. Не удается добавить или пополнить карту NFC.
 %d. Карта NFC не работает.
 %d. Не работают другие функции NFC."</string>
-    <string name="nfc_repair_fail_desc">Произошла ошибка, препятствующая восстановлению функциональности NFC. Попробуйте еще раз.</string>
+    <string name="nfc_repair_fail_desc">Произошла ошибка, препятствующая восстановлению функций NFC. Попробуйте еще раз.</string>
     <string name="nfc_repair_fail_title">Ошибка восстановления</string>
     <string name="nfc_repair_ongoing">Восстановление… Не покидайте эту страницу.</string>
-    <string name="nfc_repair_pass_desc">Перезагрузите устройство, чтобы применить изменения.</string>
+    <string name="nfc_repair_pass_desc">Перезагрузите устройство для примения изменений</string>
     <string name="nfc_repair_pass_title">Успешное восстановление</string>
-    <string name="nfc_repair_summary">Устраните проблемы, которые мешают использовать функции NFC</string>
-    <string name="nfc_repair_title">Восстановление функциональности NFC</string>
+    <string name="nfc_repair_summary">Устранение проблем, мешающих использованию NFC</string>
+    <string name="nfc_repair_title">Восстановление функций NFC</string>
     <string name="nfc_se_route_title">Расположение элемента безопасности</string>
     <string name="nfc_se_wallet_title">Кошелек по умолчанию</string>
     <string name="nfc_secure_settings_title">Безопасное использование NFC</string>
@@ -4853,9 +4853,9 @@
     <string name="night_display_activation_on_custom">Включить до %1$s</string>
     <string name="night_display_activation_on_manual">Включить</string>
     <string name="night_display_activation_on_twilight">Включить до рассвета</string>
-    <string name="night_display_auto_mode_custom">Мое расписание</string>
+    <string name="night_display_auto_mode_custom">В выбранное время</string>
     <string name="night_display_auto_mode_never">Никогда</string>
-    <string name="night_display_auto_mode_title">Включать автоматически</string>
+    <string name="night_display_auto_mode_title">По расписанию</string>
     <string name="night_display_auto_mode_twilight">От заката до рассвета</string>
     <string name="night_display_end_time_title">Время отключения</string>
     <string name="night_display_not_currently_on">Ночной режим выключен</string>
@@ -5052,7 +5052,7 @@
     <string name="notification_many_channel_count_summary">Каналов уведомлений: %1$d. Нажмите, чтобы перейти к настройкам.</string>
     <string name="notification_people_strip_title">Показать полосу недавних диалогов</string>
     <string name="notification_priority_title">Приоритет</string>
-    <string name="notification_pulse_title">Мигать при уведомлениях</string>
+    <string name="notification_pulse_title">При уведомлениях</string>
     <string name="notification_reboot_btn">Перезагрузка</string>
     <string name="notification_reboot_summary_hm">Нажмите для перезагрузки.</string>
     <string name="notification_reboot_title">Требуется перезагрузка</string>
@@ -5940,7 +5940,7 @@ UT-интерфейс: %5$s"</string>
     <string name="right_function_key">Правый ярлык</string>
     <string name="ring_to_you">Рингтон вызова</string>
     <string name="ring_to_you_info">Установите свой рингтон, который услышат вызывающие абоненты</string>
-    <string name="ring_volume_option_title">Мелодия</string>
+    <string name="ring_volume_option_title">Рингтон и мелодии</string>
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringer_mode_setting_summary">Отключить звук для входящих вызовов и уведомлений</string>
     <string name="ringer_mode_setting_title">Режим \"Без звука\"</string>
@@ -6357,7 +6357,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_security_privacy_settings_title">Конфиденциальность;Безопасность;Неизвестные источники;Показать пароль;Подпись приложения;Сертификаты приложения;Очистить сертификаты;Очистить учетные данные</string>
     <string name="search_security_settings">Настройки конфиденциальности;Безопасность;Конфиденциальность</string>
     <string name="search_settings">Поиск</string>
-    <string name="search_silent_mode_title">Бесшумный режим;тишина;без звука;отключить звук</string>
+    <string name="search_silent_mode_title">Режим без звука;Беззвучный режим;Без звука;Отключить звук</string>
     <string name="search_sim_management_title">Мобильные сети;Мобильные данные;Сотовая связь;Данные;Международный роуминг;Роуминг;Всегда принимать MMS;Сотовые сети;</string>
     <string name="search_sim_status_title">Статус SIM;SIM</string>
     <string name="search_slot_status_title">Информация об IMEI;IMEI</string>
@@ -7428,8 +7428,8 @@ UT-интерфейс: %5$s"</string>
     <string name="tether_use_wifi6_title">Поддержка стандарта 6го поколения</string>
     <string name="tethering_footer_info">Используйте точку доступа или режим модема для предоставления другим устройствам доступа в интернет через Wi-Fi или мобильное соединение.</string>
     <string name="tethering_footer_info_sta_ap_concurrency">Используйте точку доступа или режим модема для предоставления другим устройствам доступа в интернет через Wi-Fi или мобильное соединение. Приложения также могут создавать точки доступа для обмена контентом с соседними устройствами.</string>
-    <string name="tethering_hardware_offload">Аппаратное ускорение модема</string>
-    <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение модема, если доступно</string>
+    <string name="tethering_hardware_offload">Ускорение для режима модема</string>
+    <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение в режиме модема, если доступно</string>
     <string name="tethering_help_button_text">Справка</string>
     <string name="tethering_interface_options">Режим модема</string>
     <string name="tethering_settings_not_available">Измените настройки модема в первом пространстве</string>
@@ -8000,10 +8000,10 @@ UT-интерфейс: %5$s"</string>
     <string name="version_text">Версия %1$s</string>
     <string name="vibrate_category_title">Вибрация</string>
     <string name="vibrate_in_normal_title">Вибрация при вызове</string>
-    <string name="vibrate_in_silent_title">Вибрация в режиме \"Без звука\"</string>
+    <string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
     <string name="vibrate_input_devices">Виброотклик</string>
     <string name="vibrate_input_devices_summary">Включать виброотклик на игровом контроллере</string>
-    <string name="vibrate_on_touch_summary">Виброотклик при нажатии и др.</string>
+    <string name="vibrate_on_touch_summary">Виброотклик при нажатиях и прочих действиях</string>
     <string name="vibrate_on_touch_title">Виброотклик</string>
     <string name="vibrate_title">Вибрация</string>
     <string name="vibrate_when_ringing_option_always_vibrate">Вибрировать всегда</string>
@@ -8254,7 +8254,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wfd_menu_search">Поиск устройств</string>
     <string name="wfd_menu_searching">Поиск…</string>
     <string name="wfd_menu_teardown">Остановить</string>
-    <string name="wfd_settings_description">Вывод изображения на дисплей по сети Wi-Fi</string>
+    <string name="wfd_settings_description">Вывод изображения на дисплей по Wi-Fi</string>
     <string name="wfd_settings_title">Беспроводной дисплей</string>
     <string name="wfd_status_dialog_disconnect">Отключить</string>
     <string name="wfd_status_dialog_message">Содержимое экрана отображается на другом устройстве через беспроводное соединение</string>
@@ -8661,7 +8661,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_scan_notify_text">Для повышения точности определения местоположения, системные приложения и сервисы продолжат искать сети Wi-Fi. Вы можете отключить эту функцию в LINK_BEGINнастройках сканированияLINK_END.</string>
     <string name="wifi_scan_notify_text_scanning_off">Для повышения точности определения местоположения, включите поиск сетей Wi-Fi в LINK_BEGINнастройкахLINK_END.</string>
     <string name="wifi_scan_throttling">Ограничить поиск сетей Wi-Fi</string>
-    <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и улучшает работу сети</string>
+    <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и повышает производительность сети</string>
     <string name="wifi_security">Защита</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>

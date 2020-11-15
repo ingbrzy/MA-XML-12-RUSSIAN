@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="HomePageTabTitle">
+        <item>Здоровье</item>
+        <item>Тренировки</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Бег</item>
+        <item>Ходьба</item>
+        <item>Велосипед</item>
+        <item>Беговая дорожка</item>
+        <item>Тренировка</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
