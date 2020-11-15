@@ -409,8 +409,8 @@
     <string name="guide_virus_dialog_title">Проверка на вирусы</string>
     <string name="header_optimizer">Используя эту функцию, вы принимаете %s.</string>
     <string name="hint_clean_select_items">Удаление дубликатов…</string>
-    <string name="hints_ad_header_left">Бесполезные файлы</string>
-    <string name="hints_apk_header_left">Пакеты</string>
+    <string name="hints_ad_header_left">Файлы рекламы</string>
+    <string name="hints_apk_header_left">Установочные APK</string>
     <string name="hints_apk_version">" Версия: %s"</string>
     <string name="hints_app_uninstall_residual">Очистить остатки данных?</string>
     <string name="hints_cache_header_left">Файлы кэша</string>
@@ -921,9 +921,9 @@
     <string name="whatsapp_group_voice">Голосовые сообщения</string>
     <string name="whatsapp_group_wallpaper">Обои</string>
     <string name="whatsapp_title">Очистка WhatsApp</string>
-    <string name="white_list_ad_header">Бесполезные файлы: %d</string>
+    <string name="white_list_ad_header">Файлы рекламы: %d</string>
     <string name="white_list_apk_header">Установочные APK: %d</string>
-    <string name="white_list_cache_header">Файлы данных: %d</string>
+    <string name="white_list_cache_header">Файлы кэша: %d</string>
     <string name="white_list_large_file_header">Большие файлы и видео: %d</string>
     <string name="white_list_residual_header">Остатки данных: %d</string>
     <string name="white_list_title">Исключения</string>
