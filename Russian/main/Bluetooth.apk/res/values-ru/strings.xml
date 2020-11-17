@@ -37,6 +37,8 @@
     <string name="bluetooth_sap_notif_message">Попросить клиента отключиться?</string>
     <string name="bluetooth_sap_notif_ticker">Доступ к SIM-карте через Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Доступ к SIM-карте через Bluetooth</string>
+    <string name="bt_audio_share_notification_content">Параметры</string>
+    <string name="bt_audio_share_notification_title">Передача аудио</string>
     <string name="bt_enable_cancel">Отмена</string>
     <string name="bt_enable_line1">Чтобы использовать службы Bluetooth, включите адаптер Bluetooth.</string>
     <string name="bt_enable_line2">Включить Bluetooth?</string>
@@ -99,6 +101,7 @@
     <string name="not_exist_file">Нет файла</string>
     <string name="not_exist_file_desc">"Файл не существует. 
 "</string>
+    <string name="notice_audio_share_disconnected">Соединение прервано, передача аудио прекращена</string>
     <string name="notification_received">Получено по Bluetooth: %1$s</string>
     <string name="notification_received_fail">Файл не передан: %1$s</string>
     <string name="notification_receiving">Передача по Bluetooth: %1$s</string>
