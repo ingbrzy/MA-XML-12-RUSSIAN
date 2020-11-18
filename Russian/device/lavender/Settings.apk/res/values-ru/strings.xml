@@ -1430,10 +1430,10 @@
     <string name="bootloader_status_locked">Заблокирован</string>
     <string name="bootloader_status_locked_info">Загрузчик заблокирован</string>
     <string name="bootloader_status_locked_summary">Устройство защищено</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock для нормальной работы требуется доступ к вашему Mi Аккаунту, CPU ID, IMEI, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s. Вы согласны?</string>
+    <string name="bootloader_status_privacy_dialog_message">Mi Unlock для нормальной работы требуется доступ к вашему Mi Аккаунту, CPU ID, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s. Вы согласны?</string>
     <string name="bootloader_status_privacy_dialog_no">Отмена</string>
     <string name="bootloader_status_privacy_dialog_title">Требуются разрешения</string>
-    <string name="bootloader_status_privacy_dialog_url_text">Политика конфиденциальности</string>
+    <string name="bootloader_status_privacy_dialog_url_text">Политикой конфиденциальности</string>
     <string name="bootloader_status_privacy_dialog_yes">Согласен</string>
     <string name="bootloader_status_summary">Проверка блокировки загрузчика</string>
     <string name="bootloader_status_unlocked">Разблокирован</string>
@@ -5388,7 +5388,7 @@ OTG отключается автоматически через 10 минут �
     <string name="power_idle">Режим ожидания</string>
     <string name="power_key_how_power_force_off">Принудительная перезагрузка</string>
     <string name="power_key_how_power_force_off_detail">Удерживайте кнопку питания, пока устройство не перезагрузится</string>
-    <string name="power_key_how_power_off">Открытие меню кнопки питания</string>
+    <string name="power_key_how_power_off">Меню питания</string>
     <string name="power_key_how_power_off_detail">Удерживайте кнопку питания в течение 3 с</string>
     <string name="power_key_how_start">Запуск Google Ассистента</string>
     <string name="power_key_how_start_detail">Удерживайте кнопку питания в течение 0.5 с. Отпустите и говорите.</string>
@@ -8025,7 +8025,7 @@ UT-интерфейс: %5$s"</string>
     <string name="version_text">Версия %1$s</string>
     <string name="vibrate_category_title">Вибрация</string>
     <string name="vibrate_in_normal_title">Вибрация при вызове</string>
-    <string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
+    <string name="vibrate_in_silent_title">Вибрация в режиме \"Без звука\"</string>
     <string name="vibrate_input_devices">Виброотклик</string>
     <string name="vibrate_input_devices_summary">Включать виброотклик на игровом контроллере</string>
     <string name="vibrate_on_touch_summary">Виброотклик при нажатиях и прочих действиях</string>

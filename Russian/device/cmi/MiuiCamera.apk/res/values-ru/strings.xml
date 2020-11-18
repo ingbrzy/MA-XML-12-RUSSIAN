@@ -156,10 +156,11 @@
     <string name="accessibility_preview_effect_button">Предпросмотр эффекта</string>
     <string name="accessibility_preview_expand">Увеличить</string>
     <string name="accessibility_preview_front">Предпросмотр</string>
-    <string name="accessibility_preview_select_tip">Выбор: %1$d</string>
+    <string name="accessibility_preview_remote">Удаленный предпросмотр</string>
+    <string name="accessibility_preview_select_tip">Позиция: %1$d</string>
     <string name="accessibility_preview_selected">Выбрано</string>
     <string name="accessibility_preview_shrink">Уменьшить</string>
-    <string name="accessibility_preview_zoom_tip">%1$.1f предпросмотр увеличения</string>
+    <string name="accessibility_preview_zoom_tip">Предпросмотр увеличения %1$.1f</string>
     <string name="accessibility_pro_video_simple_mode">Облегченный режим</string>
     <string name="accessibility_protrait">Портрет</string>
     <string name="accessibility_pull_down_to_open_camera">Проведите вниз для открытия камеры</string>
@@ -310,6 +311,7 @@
     <string name="aiwatermark_location_absent_hint">Не удалось получить информацию о местоположении</string>
     <string name="aiwatermark_location_list_title">Местоположение</string>
     <string name="aiwatermark_location_tips">Разрешите приложению Камера доступ к информации о местоположении для получения актуальных водяных знаков</string>
+    <string name="altitude_text">Высота</string>
     <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">О длительной выдержке</string>
     <string name="ambilight_intro_crowd_moving_part1">При съемке на людной улице объект должен стоять на месте. Другие люди будут выглядеть как размытые следы.</string>
@@ -523,6 +525,7 @@
     <string name="download_cancel_hint">Отменить загрузку %1$s?</string>
     <string name="download_confirm">Загрузка</string>
     <string name="download_hint">Для загрузки потребуется %1$s MB мобильного трафика. Загрузить?</string>
+    <string name="download_in_progress">Загрузка…</string>
     <string name="download_title">Мобильный трафик</string>
     <string name="dual_camera_lens_covered_toast">Объектив закрыт</string>
     <string name="dual_camera_lowlight_toast">Похоже, что здесь слишком темно</string>
@@ -635,9 +638,11 @@
     <string name="id_card_mode_use_hint_text_body">"Объедините обе стороны удостоверения в одно изображение.
 Распечатайте копию по беспроводной сети на бумаге формата А4."</string>
     <string name="id_card_mode_use_hint_text_title">Сканирование удостоверения</string>
+    <string name="ijkplayer_dummy" />
     <string name="install_confirmed">Установить</string>
     <string name="joyeuse_parent">excalibur</string>
     <string name="kaleidoscope_fragment_tab_name">Калейдоскоп</string>
+    <string name="latitude_text">Широта</string>
     <string name="lens_dirty_detected_content">"Объектив вашей камеры загрязнен.
 Очистите объектив для улучшения снимков."</string>
     <string name="lens_dirty_detected_title_back">Основная камера загрязнена</string>
@@ -712,6 +717,7 @@
     <string name="location_permission_not_ask_again">Разрешите камере доступ к вашему местоположению в настройках.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Разрешить</string>
     <string name="log_format">LOG</string>
+    <string name="longitude_text">Долгота</string>
     <string name="lpl_dialog_item_name_burst">Серийная съёмка</string>
     <string name="lpl_dialog_item_name_record">Запись видео</string>
     <string name="lpl_dialog_title">При удержании затвора</string>
@@ -1403,6 +1409,7 @@
     <string name="pref_dual_camera_video">Фронтальная и основная</string>
     <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
     <string name="pref_e_c_t_j">Оригинал</string>
+    <string name="pref_e_p_k">синий</string>
     <string name="pref_e_p_s_n">Доступ</string>
     <string name="pref_effect_comparison_title">Сравнение эффектов</string>
     <string name="pref_face_beauty_title">Улучшение</string>
@@ -1439,6 +1446,7 @@
     <string name="pref_module_settings">Режимы</string>
     <string name="pref_more_mode_style_title">Режимы камеры</string>
     <string name="pref_multi_camera_dual_video_front">Передняя камера</string>
+    <string name="pref_multi_camera_dual_video_remote">Удаленная камера</string>
     <string name="pref_n_s_o_l">Включить</string>
     <string name="pref_n_s_o_m">Отключить</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Вы можете записать с 240fps только видео 720p</string>
@@ -1616,6 +1624,7 @@
     <string name="timbre_normal">Оригинал</string>
     <string name="timbre_robot">Робот</string>
     <string name="time_lapse_error">Нельзя снять ускоренное видео в данном разрешении</string>
+    <string name="time_stamp_date_format">dd.MM.yyyy</string>
     <string name="timer_burst">Таймер серийной съемки</string>
     <string name="timer_burst_manu_param_interval">Интервал без выдержки</string>
     <string name="timer_burst_param_interval">Интервал</string>
