@@ -168,6 +168,7 @@
     <string name="can_heard_not_download">Песни могут быть только прослушаны, загрузка недоступна…</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_delay_stop">Отключить таймер</string>
+    <string name="cancel_free_equity">Отмена</string>
     <string name="cancel_running_download">Отмена</string>
     <string name="cannot_comment_try_scroll">Песня не может быть прокомментирована, попробуйте прокрутить</string>
     <string name="cannot_reply">"Не могу ответить на этот комментарий сейчас."</string>
@@ -394,6 +395,8 @@ ID:%s
     <string name="enable_auto_payment_success_message">Включено автоматическое продление. Следующий платеж %s.</string>
     <string name="enabled">Включено</string>
     <string name="enter_garbage_clean">Clean up internal storage.</string>
+    <string name="eras_ad">н. э.</string>
+    <string name="eras_bc">до н. э.</string>
     <string name="error_dup_binded_email">Этот адрес электронной почты связан с другим Mi Аккаунтом.</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
     <string name="evening">После полудня</string>
@@ -456,6 +459,7 @@ ID:%s
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="font_family">miui</string>
     <string name="for_diagnosis_usage_only">Используется только для обнаружения проблем.</string>
     <string name="format_unsupported_or_corrupted">Этот формат не поддерживается или файл поврежден</string>
     <string name="fragment_title_artist_album">Альбомы</string>
@@ -913,7 +917,7 @@ ID:%s
     <string name="paused_waiting_to_retry">Ожидание повтора</string>
     <string name="pay_now">Текущий сервис</string>
     <string name="pending_apk">Ожидание…</string>
-    <string name="personal_radio_favorite">Favorited,recommend similar songs</string>
+    <string name="personal_radio_favorite">Избранные</string>
     <string name="phone_bind_too_many">Этот телефон был связан с несколькими учетными записями Mi Аккаунт за короткий период времени. Попробуйте использовать другой номер телефона.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
@@ -930,7 +934,9 @@ ID:%s
     <string name="play_mode_normal_hint">Воспроизведение по порядку</string>
     <string name="play_mode_normal_title">Воспроизвести все</string>
     <string name="play_mode_shuffle">Перемешать</string>
+    <string name="play_mode_shuffle_title">Перемешивание</string>
     <string name="play_mode_single">По одному</string>
+    <string name="play_mode_single_title">Повтор</string>
     <string name="play_next">Следующий</string>
     <string name="play_song_continue">Продолжить</string>
     <string name="play_speed">Скорость</string>
@@ -1077,13 +1083,13 @@ ID:%s
     <string name="settings_search_title_main">Музыка</string>
     <string name="settings_search_title_notification">Music notifications</string>
     <string name="settings_search_title_vip_service">Premium songs</string>
-    <string name="share_append_text">From @MIUI</string>
+    <string name="share_append_text">От @MIUI</string>
     <string name="share_choice">Выбрать</string>
-    <string name="share_chooser_title">Share using</string>
-    <string name="share_description">From Mi Music</string>
-    <string name="share_end_note">From Mi Music</string>
+    <string name="share_chooser_title">Отправить через</string>
+    <string name="share_description">От Mi Music</string>
+    <string name="share_end_note">От Mi Music</string>
     <string name="share_image_error">"Couldn't share image due to a download error"</string>
-    <string name="share_text_list">"Playlist from Mi Music: "</string>
+    <string name="share_text_list">"Плейлист от Mi Music: "</string>
     <string name="share_text_song">"Song in Mi Music: "</string>
     <string name="shortcut_name">Mi Music stations</string>
     <string name="show_download_manager">Загрузки</string>
@@ -1143,6 +1149,7 @@ ID:%s
     <string name="sort">Сортировка</string>
     <string name="sort_by_name">Имя</string>
     <string name="sort_by_time">Дата</string>
+    <string name="spaces"> </string>
     <string name="spammy_contents">Спам</string>
     <string name="speed">"Скорость "</string>
     <string name="splash_bottom_hint">by Xiaomi Music</string>
@@ -1196,6 +1203,7 @@ ID:%s
     <string name="talkback_login">Вход</string>
     <string name="talkback_mode_repeat_all">По кругу</string>
     <string name="talkback_mode_repeat_current">Повтор</string>
+    <string name="talkback_mode_repeat_none">Последовательно</string>
     <string name="talkback_mode_repeat_shuffle">Случайный порядок</string>
     <string name="talkback_more">Еще</string>
     <string name="talkback_more_function">Еще</string>
@@ -1333,6 +1341,7 @@ ID:%s
     <string name="upgrade_music">Обновление Музыки</string>
     <string name="upgrade_music_message">Обновление готово. Перезапустите для обновления.</string>
     <string name="upload_error_log">Отправить журнал</string>
+    <string name="use_again">Не отменять</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_id_hint">Электронная почта/Телефон</string>
@@ -1369,5 +1378,8 @@ Tap %s to start this download the next time you're connected to a Wi-Fi network.
     <string name="xiaoai_install_title">Install Mi AI voice assistant</string>
     <string name="xiaoai_update_message">Looks like Mi AI voice engine is too old. You can update it now.</string>
     <string name="xiaoai_update_title">Обновление Mi AI</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
     <string name="yesterday">Вчера</string>
 </resources>

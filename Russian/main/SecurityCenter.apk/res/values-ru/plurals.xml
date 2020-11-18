@@ -326,6 +326,21 @@
         <item quantity="one">Трафик не учитывается для %d приложения</item>
         <item quantity="few">Трафик не учитывается для %d приложений</item>
     </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Удалить %d изображений навсегда?</item>
+        <item quantity="one">Удалить %d изображение навсегда?</item>
+        <item quantity="few">Удалить %d изображения навсегда?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d изображений будут удалены навсегда после того, как вы покинете эту страницу. Удалить?</item>
+        <item quantity="one">%d изображение будет удалено навсегда после того, как вы покинете эту страницу. Удалить?</item>
+        <item quantity="few">%d изображения будут удалены навсегда после того, как вы покинете эту страницу. Удалить?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Удалите %d изображений</item>
+        <item quantity="one">Удалите %d изображение</item>
+        <item quantity="few">Удалите %d изображения</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">Добавлено %d игр</item>
         <item quantity="one">Добавлена %d игра</item>
@@ -601,6 +616,11 @@
         <item quantity="one">Устройство выключится через %d секунду. Подключите зарядное устройство.</item>
         <item quantity="few">Устройство выключится через %d секунды. Подключите зарядное устройство.</item>
     </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s раз</item>
+        <item quantity="one">%s раз</item>
+        <item quantity="few">%s раза</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">СКРЫТО: %d</item>
         <item quantity="one">СКРЫТО: %d</item>
@@ -618,6 +638,61 @@
         <item quantity="other">%s раз</item>
         <item quantity="one">%s раз</item>
         <item quantity="few">%s раза</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d приложений</item>
+        <item quantity="one">%d приложение</item>
+        <item quantity="few">%d приложения</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">Предоставлено %d разрешений с высоким риском</item>
+        <item quantity="one">Предоставлено %d разрешение с высоким риском</item>
+        <item quantity="few">Предоставлено %d разрешения с высоким риском</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">Найдено %d небезопасных приложений</item>
+        <item quantity="one">Найдено %d небезопасное приложение</item>
+        <item quantity="few">Найдено %d небезопасных приложения</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">Найдено %d рисков раскрытия информации о местоположении</item>
+        <item quantity="one">Найдено %d риск раскрытия информации о местоположении</item>
+        <item quantity="few">Найдено %d риска раскрытия информации о местоположении</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">Найдено %d рисков</item>
+        <item quantity="one">Найден %d риск</item>
+        <item quantity="few">Найдено %d риска</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">Найдено %d возможных рисков</item>
+        <item quantity="one">Найден %d возможный риск</item>
+        <item quantity="few">Найдено %d возможных риска</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d фотографий могут содержать личную или конфиденциальную информацию</item>
+        <item quantity="one">%d фотография может содержать личную или конфиденциальную информацию</item>
+        <item quantity="few">%d фотографии могут содержать личную или конфиденциальную информацию</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d функций защиты конфиденциальности отключены</item>
+        <item quantity="one">%d функция защиты конфиденциальности отключена</item>
+        <item quantity="few">%d функции защиты конфиденциальности отключены</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">Предоставлено %d  конфиденциальных разрешений</item>
+        <item quantity="one">Предоставлено %d  конфиденциальное разрешение</item>
+        <item quantity="few">Предоставлено %d  конфиденциальных разрешения</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Удалить %d приложений</item>
+        <item quantity="one">Удалить %d приложение</item>
+        <item quantity="few">Удалить %d приложения</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d объектов нуждаются в дополнительной защите</item>
+        <item quantity="one">%d объект нуждается в дополнительной защите</item>
+        <item quantity="few">%d объекта нуждаются в дополнительной защите</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d проблем с питанием</item>

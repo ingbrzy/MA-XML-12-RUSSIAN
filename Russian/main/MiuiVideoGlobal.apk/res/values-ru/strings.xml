@@ -364,6 +364,7 @@ ID: %s
     <string name="feedback_tag_title">Категории</string>
     <string name="feedback_text_empty_toast">Введите текст отзыва.</string>
     <string name="file_cant_rename">Файл с таким именем (%1$s) уже существует. Задайте другое имя.</string>
+    <string name="file_space_not_enough_tip">Недостаточно места. Освободите как минимум %d МБ и запустите приложение заново.</string>
     <string name="find_psw">Забыли пароль?</string>
     <string name="finish">Готово</string>
     <string name="firework_privacy">Политика конфиденциальности Firework</string>
@@ -412,6 +413,7 @@ ID: %s
     <string name="galleryplus_already_cloud_member">Используется VIP-подписка для воспроизведения</string>
     <string name="galleryplus_check_network">Настройки</string>
     <string name="galleryplus_chose_play_speed">Скорость воспроизведения: %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">Скорость воспроизведения: %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">Не удалось изменить скорость воспроизведения</string>
     <string name="galleryplus_click_to_higher_definition">Нажмите дважды для предпросмотра в HD</string>
     <string name="galleryplus_copyright_unsported_audio">Невозможно воспроизвести звуковую дорожку видео из-за ограничений авторских прав</string>
@@ -469,6 +471,7 @@ ID: %s
     <string name="galleryplus_subtitle_edit_edit">Редактирование</string>
     <string name="galleryplus_subtitle_edit_hide">Скрыть субтитры</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Изменить текст</string>
+    <string name="galleryplus_subtitle_edit_reminder">Текст слишком длинный</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">Не удалось распознать речь во время записи</string>
     <string name="galleryplus_v_agree">Согласен</string>
     <string name="galleryplus_v_cancel">Отмена</string>
@@ -1269,6 +1272,8 @@ ID: %s
     <string name="toast_request_too_frequently">Не так быстро!</string>
     <string name="toast_share_failed">Не удалось поделиться. Повторите попытку позже.</string>
     <string name="today">Сегодня</string>
+    <string name="tool_bar_notification_setting_sub_title">Отображать панель инструментов в шторке уведомлений</string>
+    <string name="tool_bar_notification_setting_title">Панель инструментов</string>
     <string name="top_bar_game_desc">Откройте для себя новые игры</string>
     <string name="top_bar_game_title">Игровой канал</string>
     <string name="tuesday">Вторник</string>
