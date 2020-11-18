@@ -769,6 +769,8 @@
     <string name="wifi_status_no_internet">Интернет отсутствует</string>
     <string name="wifi_status_sign_in_required">Требуется вход</string>
     <string name="wifi_unmetered_label">Не измерен</string>
+    <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
+    <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi-Fi указывать в журнале RSSI для каждого SSID</string>
     <string name="wifi_wapi_as_certificate">AS сертификат</string>
@@ -778,6 +780,8 @@
     <string name="wifi_wapi_fail_to_init">Не получается открыть сертификаты WAPI.  Похоже, хранилище учетных данных не включено.</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging - быстрая передача</string>
+    <string name="wifi_whitelist_roaming_summary">Разрешить роуминг между разными SSID AP WPA/WPA2-PSK с одинаковым MAC-адресом шлюза</string>
     <string name="window_animation_scale_title">Анимация окон</string>
     <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключен.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник %1$s. Чтобы услышать сигнал, включите звук.</string>

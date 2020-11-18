@@ -2666,6 +2666,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_status_no_internet">Нет подключения к Интернету</string>
     <string name="wifi_status_sign_in_required">Требуется выполнить вход.</string>
     <string name="wifi_unmetered_label">Сеть без тарификации</string>
+    <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
+    <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi-Fi указывать в журнале RSSI для каждого SSID</string>
     <string name="wifi_wapi_as_certificate">Сертификат AS</string>
@@ -2676,6 +2678,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wapi_fail_to_init">Не удалось открыть сертификаты WAPI</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging - быстрая передача</string>
+    <string name="wifi_whitelist_roaming_summary">Разрешить роуминг между разными SSID AP WPA/WPA2-PSK с одинаковым MAC-адресом шлюза</string>
     <string name="wificall_switch_summary">Ваше устройство будет переключаться между Wi-Fi и VoLTE при плохом качестве соединения</string>
     <string name="wificall_switch_title">Вызовы через Wi-Fi</string>
     <string name="wild_prompt_str">Заменить универсальный символ на</string>
