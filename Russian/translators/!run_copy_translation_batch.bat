@@ -111,6 +111,7 @@ call run_copy_translation.bat %1 TouchAssistant
 call run_copy_translation.bat %1 Traceur
 call run_copy_translation.bat %1 Updater
 call run_copy_translation.bat %1 VpnDialogs
+call run_copy_translation.bat %1 VsimCore
 call run_copy_translation.bat %1 WallpaperCropper
 call run_copy_translation.bat %1 Weather
 call run_copy_translation.bat %1 WeatherProvider
