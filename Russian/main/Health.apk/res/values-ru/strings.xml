@@ -551,7 +551,7 @@ ID:%s
     <string name="health_score">Оценка состояния здоровья</string>
     <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="health_setting">Настройки</string>
-    <string name="heart_rate">ЧСС</string>
+    <string name="heart_rate">Измерение ЧСС</string>
     <string name="height">Высота</string>
     <string name="high">Избыток</string>
     <string name="high2">Высокое</string>
@@ -574,11 +574,11 @@ ID:%s
     <string name="hr_cover_to_red">"Полностью закройте камеру пальцем.
 Подождите, пока круг не станет красным."</string>
     <string name="hr_detect">Измерение ЧСС</string>
-    <string name="hr_detect_desc">При измерениях вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
+    <string name="hr_detect_desc">Вспышка камеры используется в качестве источника света, камера детектирует изменения в кровотоке. ЧСС определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
     <string name="hr_detect_finished">Готово!</string>
     <string name="hr_detect_fps_jitter">Не удалось измерить пульс. Попробуйте снова.</string>
     <string name="hr_detect_paused">Приостановлено</string>
-    <string name="hr_detect_principle_desc_1">Вы можете измерить ЧСС, прикрыв пальцем вспышку и камеру телефона. Вспышка используется в качестве источника света, а камера - для детектирования изменений в кровотоке. ЧСС определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
+    <string name="hr_detect_principle_desc_1">Вы можете измерить ЧСС, прикрыв пальцем вспышку и камеру телефона. Вспышка камеры используется в качестве источника света, камера детектирует изменения в кровотоке. ЧСС определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
     <string name="hr_detect_principle_desc_2">Тесты показывают, что погрешность этого метода составляет около 2 ударов в минуту.</string>
     <string name="hr_detect_principle_desc_3">Обратите внимание, что такие факторы, как температура, оттенок кожи или движение, могут привести к неточностям в измерении. Выполните несколько измерений, чтобы убедиться, что текущие показания точны. Результаты предназначены только для справки, данный метод измерения не может заменить профессиональное медицинское оборудование.</string>
     <string name="hr_detect_principle_title">Измерение ЧСС</string>
@@ -745,18 +745,18 @@ ID:%s
     <string name="mens_avg_menstrual_period">Ср. период</string>
     <string name="mens_avg_period">Ср. цикл</string>
     <string name="mens_cancel_mark">Отмена</string>
-    <string name="mens_day_in_guess_menstrual_period">Расчетный %1$d день периода</string>
-    <string name="mens_day_in_guess_ovu_period">Расчетный %1$d день овуляции</string>
+    <string name="mens_day_in_guess_menstrual_period">- %1$d расчетный день периода</string>
+    <string name="mens_day_in_guess_ovu_period">- %1$d расчетный день овуляции</string>
     <string name="mens_day_in_ovu_period">%3$d день цикла (%1$s-%2$s). Высокая вероятность овуляции.</string>
     <string name="mens_day_in_phy_period">%3$d день цикла (%1$s-%2$s)</string>
-    <string name="mens_day_in_predict_menstrual_period">Расчетный %1$d день периода</string>
-    <string name="mens_day_in_predict_ovu_period">Расчетный %1$d день овуляции</string>
-    <string name="mens_day_in_predict_period">Расчетный %3$d день цикла (%1$s-%2$s)</string>
-    <string name="mens_guess_day_ovulation">Похоже, у вас овуляция</string>
-    <string name="mens_guess_menstrual_period_end">Похоже, у вас закончились месячные</string>
-    <string name="mens_guess_not_in_menstrual_period">Похоже, у вас нет менструации</string>
+    <string name="mens_day_in_predict_menstrual_period">- %1$d расчетный день периода</string>
+    <string name="mens_day_in_predict_ovu_period">- %1$d расчетный день овуляции</string>
+    <string name="mens_day_in_predict_period">%3$d расчетный день цикла (%1$s-%2$s)</string>
+    <string name="mens_guess_day_ovulation">- овуляция</string>
+    <string name="mens_guess_menstrual_period_end">- месячные закончились</string>
+    <string name="mens_guess_not_in_menstrual_period">- нет менструации</string>
     <string name="mens_not_in_menstrual_period">Нет менструации</string>
-    <string name="mens_period_days">Длительность цикла</string>
+    <string name="mens_period_days">Цикл</string>
     <string name="mens_period_ovulation">Овуляция</string>
     <string name="mens_period_start">Начало</string>
     <string name="mens_predict_day_ovulation">Похоже, у вас овуляция</string>
@@ -770,7 +770,7 @@ ID:%s
     <string name="menstruation_cycle">Менструальный цикл</string>
     <string name="menstruation_cycle_description">Интервал между датами начала 
 двух последовательных циклов</string>
-    <string name="menstruation_days">Длительность</string>
+    <string name="menstruation_days">Период</string>
     <string name="menstruation_days_description">Длительность менструации</string>
     <string name="menstruation_last_start_date">Предыдущая менструация началась</string>
     <string name="menstruation_record">Записи циклов</string>
@@ -966,7 +966,7 @@ ID:%s
     <string name="please_choose">Выберите</string>
     <string name="pm">PM</string>
     <string name="pool_swimming">Бассейн</string>
-    <string name="predict_menstruation">Предположительные дни</string>
+    <string name="predict_menstruation">Ожидаемые</string>
     <string name="preference_about">О приложении</string>
     <string name="preference_basic_info">Информация</string>
     <string name="preference_click_login">Вход</string>
@@ -1009,7 +1009,7 @@ ID:%s
     <string name="record_body_weight_button">Сохранить</string>
     <string name="record_detail_page_title">Сведения</string>
     <string name="record_more">Дополнительные сведения</string>
-    <string name="recorded_menstruation">Указанные даты</string>
+    <string name="recorded_menstruation">Указанные</string>
     <string name="reference"> Информация</string>
     <string name="relationship_with_contact">Доверенный контакт</string>
     <string name="rem_Duration_increase_description">Ваш быстрый сон слишком длинный</string>
