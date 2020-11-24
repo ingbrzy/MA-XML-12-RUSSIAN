@@ -5818,7 +5818,7 @@ UT-интерфейс: %5$s"</string>
     <string name="receiver_clean">Очистить память</string>
     <string name="recent_app_category_title">Недавно открытые приложения</string>
     <string name="recent_apps_label">Недавние приложения</string>
-    <string name="recent_location_requests_summary">Управление доступом приложений к местоположению</string>
+    <string name="recent_location_requests_summary">Доступ приложений к местоположению</string>
     <string name="recent_location_requests_title">Доступ к местоположению</string>
     <string name="recent_notifications">Недавно отправленные</string>
     <string name="recent_notifications_see_all_title">За последние 7 дней</string>
@@ -5903,6 +5903,10 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_title">Сброс</string>
     <string name="resetting_second_space_passwd">Сброс пароля второго пространства</string>
     <string name="resident_timezone_summary">Вторые часы</string>
+    <string name="resolution_fhd">FHD+ (Full HD)</string>
+    <string name="resolution_fhd_summary">2400×1080</string>
+    <string name="resolution_qhd">QHD+ (Quad HD)</string>
+    <string name="resolution_qhd_summary">3200×1440 (повышенный расход батареи)</string>
     <string name="resolver_settings_label">Сортировка</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию…</string>
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
@@ -6003,6 +6007,8 @@ UT-интерфейс: %5$s"</string>
     <string name="rx_wifi_speed">Скорость приема</string>
     <string name="safety_and_regulatory_info">Безопасность и соответствие стандартам</string>
     <string name="save">Сохранить</string>
+    <string name="save_battery_mode">Энергосбережение с QHD+</string>
+    <string name="save_battery_mode_summary">Автопереключение разрешения для энергосбережения</string>
     <string name="saved_network">Сохранено %1$s</string>
     <string name="saved_wifi">Сохраненные сети</string>
     <string name="saved_wifi_delete">Удалить</string>

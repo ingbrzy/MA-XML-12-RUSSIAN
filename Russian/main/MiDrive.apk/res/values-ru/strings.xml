@@ -142,6 +142,7 @@
     <string name="exception_move_file_exist">Перемещаемый файл уже находится в папке назначения</string>
     <string name="exception_move_sub_path">Нельзя переместить файлы в ту же папку</string>
     <string name="exception_net_not_available">Не удалось подключиться к сети</string>
+    <string name="exception_not_support_modify_for_overseas_user">Эта функция недоступна за пределами Китая</string>
     <string name="exception_param_error">Произошла ошибка. Повторите попытку позже.</string>
     <string name="exception_rename_conflict">Не удалось переименовать. Файл с таким именем уже существует.</string>
     <string name="exception_rename_illegal_char">Имя файла не может содержать специальные символы</string>
@@ -230,6 +231,7 @@
     <string name="navigation_tips">500+</string>
     <string name="navigation_transport">Загрузки</string>
     <string name="not_set">Не задано</string>
+    <string name="not_support_upload_file_for_overseas_users">Загрузка недоступна за пределами Китая</string>
     <string name="notification_channel_remind">Напоминания</string>
     <string name="notification_channel_service">Сервисы</string>
     <string name="operation_copy">Копировать</string>
@@ -316,6 +318,8 @@
     <string name="speed_unit_mb">%s МБ/сек.</string>
     <string name="start_download">Начало загрузки…</string>
     <string name="start_upload">Начало загрузки…</string>
+    <string name="stay_tuned">Следите за обновлениями</string>
+    <string name="stay_tuned_sub_desc">В настоящее время этот сервис доступен только в Китае</string>
     <string name="storage_internal">Внутренняя память</string>
     <string name="storage_manage_list_title">Xiaomi Cloud</string>
     <string name="storage_manage_list_title_action">Еще</string>
