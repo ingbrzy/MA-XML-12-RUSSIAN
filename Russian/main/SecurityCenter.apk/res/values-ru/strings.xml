@@ -794,7 +794,7 @@
     <string name="button_text_trust">Доверять этой сети</string>
     <string name="button_text_update_now">Обновить</string>
     <string name="button_to_setting">Настройки</string>
-    <string name="byteShort"> Б</string>
+    <string name="byteShort">" Б"</string>
     <string name="call_address">Регионы</string>
     <string name="call_and_contact">Контакты и вызовы</string>
     <string name="call_blacklist">Вызовы</string>
@@ -1678,7 +1678,7 @@
     <string name="gdpr_msg"><Data>Для возможности обнаружения угроз безопасности и защиты ваших данных, нам необходимо собрать информацию о вашем устройстве. Перед использованием наших сервисов прочтите и примите Политику конфиденциальности. В случае отказа предоставить необходимую информацию, вы все равно сможете использовать это приложение, но некоторые функции будут недоступны.</Data></string>
     <string name="get_detail_by_click">Подробности</string>
     <string name="get_sys_info">Получение данных…</string>
-    <string name="gigabyteShort"> ГБ</string>
+    <string name="gigabyteShort">" ГБ"</string>
     <string name="global_wa_setting_alert_dialog_content">Можно освободить %s</string>
     <string name="global_wa_setting_alert_dialog_title">Очистка WhatsApp</string>
     <string name="gmscore_support_remind">Включите эту функцию, если у вас возникли проблемы с использованием Gmail, Карт Google и других приложений Google. Это немного повысит расход заряда батареи.</string>
@@ -1848,8 +1848,8 @@
     <string name="item_usb_debug">Отладка по USB</string>
     <string name="item_virus_lib">Автообновление сигнатур</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
-    <string name="kilobyteShort"> КБ</string>
-    <string name="kilobyte_per_second"> КБ/с</string>
+    <string name="kilobyteShort">" КБ"</string>
+    <string name="kilobyte_per_second">" КБ/с"</string>
     <string name="label_callwait">Сигнал ожидания вызова</string>
     <string name="label_mi_stats">Mi Аналитика</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
@@ -1993,13 +1993,13 @@
     <string name="mark_time_setting_dialog_title">Отметить номер</string>
     <string name="mark_time_text">%d</string>
     <string name="marked_by_user">"Вы отметили как "</string>
-    <string name="megabyteShort"> МБ</string>
-    <string name="megabyte_per_second"> МБ/с</string>
+    <string name="megabyteShort">" МБ"</string>
+    <string name="megabyte_per_second">" МБ/с"</string>
     <string name="memory_check_content">Освобождено: %s</string>
     <string name="memory_clean_memory_size_tip">Память</string>
     <string name="memory_clean_no_need_clean">Всё в порядке</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">Освобождено %s. 
-Устройство теперь на %d%% быстрее.</string>
+Ускорено на %d%%.</string>
     <string name="memory_clear_unused">Память очищена (%s)</string>
     <string name="memory_title">Доступно: %1$s  Всего: %2$s</string>
     <string name="menu_add">Добавить</string>
@@ -2062,10 +2062,10 @@
     <string name="menu_text_networkassistants">Трафик</string>
     <string name="menu_text_networkassistants_danger">Более %s</string>
     <string name="menu_text_networkassistants_remain">Осталось %s</string>
-    <string name="menu_text_networkassistants_unit_b">Б</string>
-    <string name="menu_text_networkassistants_unit_gb">ГБ</string>
-    <string name="menu_text_networkassistants_unit_kb">КБ</string>
-    <string name="menu_text_networkassistants_unit_mb">МБ</string>
+    <string name="menu_text_networkassistants_unit_b">" Б"</string>
+    <string name="menu_text_networkassistants_unit_gb">" ГБ"</string>
+    <string name="menu_text_networkassistants_unit_kb">" КБ"</string>
+    <string name="menu_text_networkassistants_unit_mb">" МБ"</string>
     <string name="menu_text_optimize_manage">Ускорение</string>
     <string name="menu_text_optimize_manage_1">Ускорение</string>
     <string name="menu_text_power_manager">Батарея</string>
@@ -3329,12 +3329,12 @@
     <string name="sim_not_ready_toast">SIM карта не готова</string>
     <string name="sim_state_exception_summary">Статус SIM карты свидетельствует о возможных проблемах SIM карты.</string>
     <string name="sip_phone">SIP телефон</string>
-    <string name="size_byte">Б</string>
-    <string name="size_giga_byte">ГБ</string>
-    <string name="size_kilo_byte">КБ</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_peta_byte">ПБ</string>
-    <string name="size_tera_byte">ТБ</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" MB"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="skin_change_close_toast">Изменения вступят в силу при следующем запуске Безопасности</string>
     <string name="sms_address">Регионы</string>
     <string name="sms_blacklist">Сообщения</string>
@@ -3678,8 +3678,8 @@
     <string name="sys_app_prot_cracked_confirm">Понятно</string>
     <string name="sys_cpu_title">Загрузка ЦП</string>
     <string name="sys_freememory_title">Память</string>
-    <string name="sys_title_gamebooster_unit_gb">ГБ</string>
-    <string name="sys_title_gamebooster_unit_mb">МБ</string>
+    <string name="sys_title_gamebooster_unit_gb">" ГБ"</string>
+    <string name="sys_title_gamebooster_unit_mb">" МБ"</string>
     <string name="system_app">Системные приложения</string>
     <string name="system_application">Системное приложение</string>
     <string name="system_permission_declare_agree">Согласен</string>

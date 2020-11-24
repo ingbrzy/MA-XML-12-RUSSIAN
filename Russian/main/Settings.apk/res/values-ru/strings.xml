@@ -1535,7 +1535,7 @@
     <string name="button_text_ok_timer">OK (%d)</string>
     <string name="button_text_reboot_now">Перезагрузка</string>
     <string name="button_text_reject">Отклонить</string>
-    <string name="byteShort">Б</string>
+    <string name="byteShort">" Б"</string>
     <string name="ca_certificate">Сертификат ЦС</string>
     <string name="ca_certificate_warning_description">"Сертификаты ЦС используются веб-сайтами, приложениями и VPN для шифрования. Устанавливайте сертификаты ЦС только от доверенных организаций. 
 
@@ -4355,8 +4355,8 @@
     <string name="media_volume_option_title">Мультимедиа</string>
     <string name="media_volume_summary">Настроить громкость музыки и видео</string>
     <string name="media_volume_title">Мультимедиа</string>
-    <string name="megabyteShort">МБ</string>
-    <string name="megabyte_per_second">МБ/с</string>
+    <string name="megabyteShort">" МБ"</string>
+    <string name="megabyte_per_second">" МБ/с"</string>
     <string name="meid_multi_sim">MEID (слот %1$d)</string>
     <string name="mem_details_title">Подробности</string>
     <string name="memory">ОЗУ</string>
@@ -6849,12 +6849,12 @@ UT-интерфейс: %5$s"</string>
     <string name="single_key_use">Управление одной кнопкой</string>
     <string name="single_key_use_summary">Использовать кнопку \"Домой\" для действий, выполняемых другими двумя кнопками</string>
     <string name="single_press_AI_button">Нажмите AI кнопку</string>
-    <string name="size_byte">Б</string>
-    <string name="size_giga_byte">ГБ</string>
-    <string name="size_kilo_byte">КБ</string>
-    <string name="size_mega_byte">МБ</string>
-    <string name="size_peta_byte">ПБ</string>
-    <string name="size_tera_byte">ТБ</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="skip_anyway_button_label">Все равно пропустить</string>
     <string name="skip_label">Далее</string>
     <string name="skip_lock_screen_confirm_msg">Уведомления, элементы управления плеером и ярлыки не будут отображаться на экране блокировки.</string>
