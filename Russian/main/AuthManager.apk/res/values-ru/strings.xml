@@ -123,6 +123,7 @@
     <string name="app_name">Разрешения</string>
     <string name="background_location_access_reminder_notification_content">Приложение имеет разрешение всегда получать доступ к местоположению. Нажмите для изменения разрешения.</string>
     <string name="background_location_access_reminder_notification_title">Приложение %s использовало доступ к местоположению</string>
+    <string name="blur_location_now_tip">Включено нечеткое позиционирование</string>
     <string name="clipboard_ai_allow_once">Приложению %1$s был автоматически разрешен доступ к буферу обмена</string>
     <string name="clipboard_data">Буфер обмена</string>
     <string name="clipboard_data_request">Приложение %1$s пытается получить доступ к буферу обмена</string>
@@ -134,6 +135,7 @@
     <string name="current_permission_template">%1$s из %2$s</string>
     <string name="default_permission_description">выполнение неизвестных действий</string>
     <string name="go_perm_manager">Управление разрешениями</string>
+    <string name="go_setting">Настройки</string>
     <string name="grant_dialog_button_allow">Разрешить</string>
     <string name="grant_dialog_button_allow_always">Разрешать всегда</string>
     <string name="grant_dialog_button_allow_background">Разрешить в любом режиме</string>
@@ -204,6 +206,8 @@
     <string name="permission_warning_template">Разрешить приложению %1$s %2$s?</string>
     <string name="permission_warning_template_ask">Приложение %1$s запрашивает следующее разрешение:</string>
     <string name="permisson_reject_notice_toast_text2">нет разрешения на %1$s.</string>
+    <string name="real_location_off">Нечеткое позиционирование: отключено</string>
+    <string name="real_location_on">Нечеткое позиционирование: включено</string>
     <string name="screen_overlay_button">Перейти</string>
     <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и безопасность &gt;  Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
     <string name="screen_overlay_title">Обнаружено наложение экранов</string>
