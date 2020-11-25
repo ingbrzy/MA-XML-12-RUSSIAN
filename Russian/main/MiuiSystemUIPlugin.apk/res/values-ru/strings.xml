@@ -102,14 +102,15 @@
     <string name="friday_shortest">Пт</string>
     <string name="loading">Неизвестно</string>
     <string name="midnight">Ночь</string>
-    <string name="miui_dnd_count_down">Таймер \"Не беспокоить\"</string>
-    <string name="miui_dnd_count_down_time">"Таймер \"Не беспокоить\"
+    <string name="miui_dnd_count_down">Таймер</string>
+    <string name="miui_dnd_count_down_time">"Таймер
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Настройки</string>
     <string name="miui_guide_dialog_button_positive_text">Понятно</string>
     <string name="miui_guide_dialog_message">Звуки мультимедиа (музыка, видео и т.д.) будут по-прежнему воспроизводиться в режиме \"Без звука\". Для изменения перейдите в Настройки.</string>
     <string name="miui_ringer_count_down">Таймер</string>
-    <string name="miui_ringer_standard">Без звука</string>
+    <string name="miui_ringer_standard">"Без 
+звука"</string>
     <string name="miui_ringer_standard_description">Отключить звук для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_status_close">Откл.</string>
     <string name="miui_ringer_status_open">Вкл.</string>
@@ -296,10 +297,10 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="wireless_charging_connected_message">Обратная беспроводная зарядка недоступна, когда устройство заряжается по беспроводной сети</string>
-    <string name="wireless_charging_low_battery_level_message">Обратная беспроводная зарядка недоступна при уровне заряда менее 30%.</string>
+    <string name="wireless_charging_low_battery_level_message">Обратная беспроводная зарядка недоступна при уровне заряда менее %d%%</string>
     <string name="wireless_charging_ok">Понятно</string>
     <string name="wireless_charging_saver_cancel">Отключить</string>
-    <string name="wireless_charging_saver_message">Включено энергосбережение. Оставить обратную беспроводную зарядку?</string>
+    <string name="wireless_charging_saver_message">Включена экономия заряда. Оставить обратную беспроводную зарядку?</string>
     <string name="wireless_charging_saver_ok">Оставить</string>
     <string name="wireless_charging_tips_disable">Больше не показывать</string>
     <string name="wireless_charging_tips_message">Разместите устройства, поддерживающие беспроводную зарядку Qi (телефоны, аксессуары и т.д.), на задней панели этого устройства.</string>

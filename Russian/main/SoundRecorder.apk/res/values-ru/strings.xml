@@ -349,8 +349,8 @@
     <string name="trash_box">Недавно удаленные файлы</string>
     <string name="trash_box_close_tip">Закрыть</string>
     <string name="trash_box_delete_all">Удалить все файлы из корзины?</string>
-    <string name="uninstall_warning_content">Диктофон - это системное приложение. После удаления вы не сможете записывать и расшифровывать аудио и голосовые вызовы.</string>
-    <string name="uninstall_warning_title">Удалить рекордер?</string>
+    <string name="uninstall_warning_content">Диктофон является системным приложением. После удаления вы не сможете записывать и транскрибировать аудио и голосовые вызовы.</string>
+    <string name="uninstall_warning_title">Удалить Диктофон?</string>
     <string name="usage_description">Транскрибирование аудио и синхронизация элементов с облаком</string>
     <string name="user_feedback">Обратная связь</string>
     <string name="v7_preference_off">ОТКЛ.</string>
@@ -364,7 +364,7 @@
     <string name="webview_try_again">Повторите попытку</string>
     <string name="wifi_recommended_body" formatted="false">Использование мобильного интернета для загрузки этого файла (%s) увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату. Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi.</string>
     <string name="wifi_recommended_title">Предупреждение о трафике</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
 </resources>

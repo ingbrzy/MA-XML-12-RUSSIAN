@@ -49,7 +49,7 @@
     <string name="add_blacklist">Заблокировать</string>
     <string name="add_blacklist_dialog_message">Блокировать вызовы и сообщения от этого номера?</string>
     <string name="add_blacklist_dialog_title">Заблокировать этот номер?</string>
-    <string name="add_connection_button">Добавить соц. сеть</string>
+    <string name="add_connection_button">Добавить соцсеть</string>
     <string name="add_contact_dlg_message_fmt">Добавить \"%s\" в контакты?</string>
     <string name="add_display_photo_entry">Добавить фото профиля</string>
     <string name="add_field">Добавить поле</string>
@@ -592,8 +592,8 @@
     <string name="data_already_used">Использованный трафик</string>
     <string name="data_charge">Пополнение трафика</string>
     <string name="data_left">Остаток трафика</string>
-    <string name="data_unit_gb">ГБ</string>
-    <string name="data_unit_mb">МБ</string>
+    <string name="data_unit_gb">" ГБ"</string>
+    <string name="data_unit_mb">" МБ"</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
@@ -1779,7 +1779,7 @@
     <string name="time_picker_label_minute">М</string>
     <string name="titleJoinContactDataWith">Объединить контакты</string>
     <string name="title_finished_order">Готово</string>
-    <string name="title_other_devices">Другие доступные устройства</string>
+    <string name="title_other_devices">Доступные устройства</string>
     <string name="title_paired_devices">Подключенные устройства</string>
     <string name="title_processing_order">Обработка…</string>
     <string name="toast_call_detail_error">Не удалось получить информацию о вызове</string>

@@ -338,7 +338,7 @@
     <string name="activity_check_title">Подключение к интернету</string>
     <string name="activity_not_found">Приложение не установлено на телефоне.</string>
     <string name="activity_picker_label">Выбор действия</string>
-    <string name="activity_title_power_manager">Энергосбережение;Экономия батареи</string>
+    <string name="activity_title_power_manager">Экономия заряда;Энергосбережение;Экономия батареи</string>
     <string name="ad_service">Рекламные сервисы</string>
     <string name="adaptive_sleep_contextual_slice_summary">Держать экран включенным, пока вы смотрите на него</string>
     <string name="adaptive_sleep_contextual_slice_title">Включение функции \"Внимание к экрану\"</string>
@@ -476,8 +476,8 @@
     <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать приложению \"%1$s\" создавать виджеты и получать их данные</string>
     <string name="allow_data_usage_title">Передавать данные в роуминге</string>
     <string name="allow_device_id_access">Приложения с доступом к ID устройства</string>
-    <string name="allow_float_summary">Разрешить всплывающие окна</string>
-    <string name="allow_float_title">Всплывающие окна</string>
+    <string name="allow_float_summary">Разрешить плавающие окна</string>
+    <string name="allow_float_title">Плавающие окна</string>
     <string name="allow_interruption">Исключения</string>
     <string name="allow_interruption_summary">Разрешить приложению звук, вибрацию, и/или всплывающие уведомления</string>
     <string name="allow_keyguard_summary">Показывать уведомления на экране блокировки</string>
@@ -585,8 +585,8 @@
     <string name="app_factory_reset">Удалить обновления</string>
     <string name="app_factory_reset_dlg_text">Все обновления этого системного приложения будут удалены.</string>
     <string name="app_factory_reset_dlg_title">Удалить обновления?</string>
-    <string name="app_floating_window_dlg_disable">Отключение всплывающих окон для \"%1$s\" требует перезапуска приложения.</string>
-    <string name="app_floating_window_dlg_enable">Включение всплывающих окон для \"%1$s\" требует перезапуска приложения.</string>
+    <string name="app_floating_window_dlg_disable">Отключение плавающих окон для \"%1$s\" требует перезапуска приложения</string>
+    <string name="app_floating_window_dlg_enable">Включение плавающих окон для \"%1$s\" требует перезапуска приложения</string>
     <string name="app_forward_locked">Приложение защищено от копирования.</string>
     <string name="app_function">Функция приложения</string>
     <string name="app_info_storage_title">Занятое пространство</string>
@@ -961,30 +961,30 @@
     <string name="battery_percentage">Уровень заряда батареи</string>
     <string name="battery_percentage_description">Показывать уровень заряда батареи в строке состояния</string>
     <string name="battery_power_management">Управление питанием</string>
-    <string name="battery_saver">Режим энергосбережения</string>
+    <string name="battery_saver">Режим экономии заряда</string>
     <string name="battery_saver_auto_no_schedule">Без расписания</string>
     <string name="battery_saver_auto_percentage">На основе уровня заряда</string>
     <string name="battery_saver_auto_percentage_summary">Включать при уровне заряда %1$s</string>
     <string name="battery_saver_auto_routine">На основе истории подзарядок</string>
-    <string name="battery_saver_auto_routine_summary">Включать энергосбережение, если заряда батареи может не хватит до времени подзарядки</string>
+    <string name="battery_saver_auto_routine_summary">Включать экономию заряда, если батареи может не хватит до времени подзарядки</string>
     <string name="battery_saver_auto_title">Автовключение</string>
     <string name="battery_saver_button_turn_off">Выключить</string>
     <string name="battery_saver_button_turn_on">Включить</string>
     <string name="battery_saver_desc_turn_on_auto_never">Не включать автоматически</string>
     <string name="battery_saver_desc_turn_on_auto_pct">Включать при уровне заряда %1$s</string>
-    <string name="battery_saver_master_switch_title">Использовать режим энергосбережения</string>
+    <string name="battery_saver_master_switch_title">Использовать режим экономии заряда</string>
     <string name="battery_saver_off_scheduled_summary">Автовключение при уровне заряда %1$s</string>
     <string name="battery_saver_off_summary">Откл.</string>
     <string name="battery_saver_on_summary">Вкл.</string>
     <string name="battery_saver_schedule_settings_title">Включить расписание</string>
     <string name="battery_saver_seekbar_title">%1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Включить</string>
-    <string name="battery_saver_sticky_description_new">Энергосбережение будет отключено при уровне заряда %1$s</string>
+    <string name="battery_saver_sticky_description_new">Экономия заряда будет отключена при уровне заряда %1$s</string>
     <string name="battery_saver_sticky_title_new">Отключить при полном уровне заряда</string>
     <string name="battery_saver_turn_on_automatically_never">Никогда</string>
     <string name="battery_saver_turn_on_automatically_pct">При уровне заряда %1$s</string>
-    <string name="battery_saver_turn_on_automatically_title">Автоматическое включение</string>
-    <string name="battery_saver_turn_on_summary">Продление срока службы батареи</string>
+    <string name="battery_saver_turn_on_automatically_title">Автовключение</string>
+    <string name="battery_saver_turn_on_summary">Продление работы батареи</string>
     <string name="battery_screen_usage">Использование экрана: ^1</string>
     <string name="battery_settings">Батарея</string>
     <string name="battery_settings_title">Батарея</string>
@@ -1003,7 +1003,7 @@
     <string name="battery_status_title">Состояние батареи</string>
     <string name="battery_sugg_apps_gps">Выберите режим экономии заряда батареи</string>
     <string name="battery_sugg_apps_info">Остановите или удалите приложение</string>
-    <string name="battery_sugg_apps_settings">В программе могут быть настройки режима энергосбережения</string>
+    <string name="battery_sugg_apps_settings">В программе могут быть настройки режима экономии заряда</string>
     <string name="battery_sugg_bluetooth_basic">Отключите канал Bluetooth, если он не используется</string>
     <string name="battery_sugg_bluetooth_headset">Попробуйте подключиться к другому Bluetooth-устройству</string>
     <string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
@@ -1018,20 +1018,20 @@
     <string name="battery_tip_dialog_message_footer">Фоновые процессы с высоким энергопотреблением</string>
     <string name="battery_tip_dialog_summary_message">Приложения расходуют заряд батареи нормально. При повышенном расходе вы получите рекомендации.
 
-При низком заряде батареи можно включить энергосбережение.</string>
+При низком заряде батареи можно включить экономию заряда.</string>
     <string name="battery_tip_early_heads_up_done_summary">Некоторые функции могут быть ограничены</string>
-    <string name="battery_tip_early_heads_up_done_title">Энергосбережение включено</string>
+    <string name="battery_tip_early_heads_up_done_title">Экономия заряда включена</string>
     <string name="battery_tip_early_heads_up_summary">Батарея может разрядиться раньше обычного</string>
-    <string name="battery_tip_early_heads_up_title">Включение энергосбережения</string>
+    <string name="battery_tip_early_heads_up_title">Включение экономии заряда</string>
     <string name="battery_tip_high_usage_summary">Батарея может разрядиться раньше обычного</string>
     <string name="battery_tip_high_usage_title">Устройство используется больше обычного</string>
     <string name="battery_tip_low_battery_summary">Батарея не может обеспечить хорошее время работы</string>
     <string name="battery_tip_low_battery_title">Низкая емкость батареи</string>
-    <string name="battery_tip_restrict_app_dialog_message">Для энергосбережения ограничьте работу приложения %1$s в фоновом режиме. Это может повлиять на его функциональность и вызвать задержку уведомлений.</string>
+    <string name="battery_tip_restrict_app_dialog_message">Для экономии заряда ограничьте работу приложения %1$s в фоновом режиме. Это может повлиять на его функциональность и вызвать задержку уведомлений.</string>
     <string name="battery_tip_restrict_app_dialog_ok">Ограничить</string>
-    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">Для энергосбережения ограничьте работу приложений в фоновом режиме. Это может повлиять на их функциональность и вызвать задержку уведомлений.
+    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">Для экономии заряда ограничьте работу приложений в фоновом режиме. Это может повлиять на их функциональность и вызвать задержку уведомлений.
 Приложения:</string>
-    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">Для энергосбережения ограничьте работу приложений в фоновом режиме. Это может повлиять на их функциональность и вызвать задержку уведомлений.
+    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">Для экономии заряда ограничьте работу приложений в фоновом режиме. Это может повлиять на их функциональность и вызвать задержку уведомлений.
 Приложения:
 %1$s."</string>
     <string name="battery_tip_smart_battery_summary">Включить менеджер батареи</string>
@@ -1535,7 +1535,7 @@
     <string name="button_text_ok_timer">OK (%d)</string>
     <string name="button_text_reboot_now">Перезагрузка</string>
     <string name="button_text_reject">Отклонить</string>
-    <string name="byteShort">Б</string>
+    <string name="byteShort">" Б"</string>
     <string name="ca_certificate">Сертификат ЦС</string>
     <string name="ca_certificate_warning_description">"Сертификаты ЦС используются веб-сайтами, приложениями и VPN для шифрования. Устанавливайте сертификаты ЦС только от доверенных организаций. 
 
@@ -1801,7 +1801,7 @@
     <string name="condition_airplane_summary">Wi-Fi, Bluetooth и мобильная сеть отключены. Вы не сможете позвонить или подключиться к Интернету.</string>
     <string name="condition_airplane_title">Режим полета включен</string>
     <string name="condition_battery_summary">Производительность снижена. Геолокация и фоновый режим отключены.</string>
-    <string name="condition_battery_title">Режим энергосбережения включен</string>
+    <string name="condition_battery_title">Режим экономии заряда включен</string>
     <string name="condition_bg_data_summary">Для обмена данными в фоновом режиме требуется подключение к сети Wi-Fi. Когда она недоступна, некоторые сервисы и приложения не будут работать.</string>
     <string name="condition_bg_data_title">Экономия трафика включена</string>
     <string name="condition_cellular_summary">Интернет доступен только через Wi-Fi</string>
@@ -2084,8 +2084,8 @@
     <string name="dark_ui_auto_mode_never">Нет</string>
     <string name="dark_ui_auto_mode_title">Расписание</string>
     <string name="dark_ui_mode">Темный режим</string>
-    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Временно включен из-за режима энергосбережения</string>
-    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Вкл. / Временно отключен из-за режима энергосбережения</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Временно включен из-за режима экономии заряда</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Вкл. / Временно отключен из-за режима экономии заряда</string>
     <string name="dark_ui_mode_title">Темный режим</string>
     <string name="dark_ui_settings_dark_summary">Поддерживаемые приложения будут переключены в темный режим</string>
     <string name="dark_ui_settings_dialog_acknowledge">Понятно</string>
@@ -2639,7 +2639,7 @@
     <string name="dual_wifi">Двухдиапазонный Wi-Fi</string>
     <string name="dual_wifi_acceleration">Ускорение</string>
     <string name="dual_wifi_auto_disable">Автоматическое отключение ускорения</string>
-    <string name="dual_wifi_auto_disable_summary">Отключение от вспомогательной сети Wi-Fi при выключенном экране для энергосбережения</string>
+    <string name="dual_wifi_auto_disable_summary">Отключение от вспомогательной сети Wi-Fi при выключенном экране для экономии заряда</string>
     <string name="dual_wifi_avaliable_slave_wifi">Доступны вспомогательные сети</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Доступны вспомогательные сети (2.4 ГГц)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Доступны вспомогательные сети (5 ГГц)</string>
@@ -3050,8 +3050,8 @@
     <string name="flash_drive_backup_enable">Используйте USB-накопитель для резервного копирования</string>
     <string name="flash_drive_backup_restore">USB-накопитель</string>
     <string name="flash_drive_backup_restore_summary">Подключите USB-накопитель</string>
-    <string name="floating_window_switch_label">Всплывающие окна</string>
-    <string name="floating_window_switch_label_disable">Скрыть всплывающие окна</string>
+    <string name="floating_window_switch_label">Плавающие окна</string>
+    <string name="floating_window_switch_label_disable">Отключить плавающие окна</string>
     <string name="fluency_mode">Системные анимации</string>
     <string name="fluency_mode_confirm_and_reboot">Перезагрузить</string>
     <string name="fold_title">Правила групповых уведомлений</string>
@@ -3157,7 +3157,7 @@
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
     <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
 	
-• Потяните вниз панель действий всплывающего окна.
+• Потяните вниз панель действий плавающего окна.
 • Нажмите кнопку \"Плавающие окна\" в Недавних приложениях для выбора приложения.
 • Зажмите миниатюру приложения в Недавних приложениях и нажмите значок \"Плавающего окна\"."</string>
     <string name="frequently_fragment_delete">Удалить</string>
@@ -3442,7 +3442,7 @@
     
 Эту функцию можно отключить в \"Настройки > Приложения и уведомления\"."</string>
     <string name="high_power_prompt_title">Разрешить приложению запуск в фоновом режиме?</string>
-    <string name="high_power_system">Энергосбережение недоступно</string>
+    <string name="high_power_system">Экономия заряда недоступна</string>
     <string name="hint_unadjustable_text">Ручная регулировка цветовой температуры недоступна. Включена авторегулировка.</string>
     <string name="history_details_title">Подробная история</string>
     <string name="history_toggled_on_summary">Здесь будут отображаться недавние и отложенные уведомления</string>
@@ -3884,7 +3884,7 @@
     <string name="led_settings">Световой индикатор</string>
     <string name="left_edge">Левый край</string>
     <string name="left_function_key">Левый ярлык</string>
-    <string name="legacy_control_center_desc">Свайп вниз открывает стандартную шторку уведомлений с переключателями</string>
+    <string name="legacy_control_center_desc">Свайп вниз - стандартная шторка с переключателями и уведомлениями</string>
     <string name="legacy_control_center_title">Старая версия</string>
     <string name="legacy_navigation_summary">Кнопки навигации внизу экрана (Назад, Домой, Недавние приложения)</string>
     <string name="legacy_navigation_title">Кнопки навигации</string>
@@ -4355,8 +4355,8 @@
     <string name="media_volume_option_title">Мультимедиа</string>
     <string name="media_volume_summary">Настроить громкость музыки и видео</string>
     <string name="media_volume_title">Мультимедиа</string>
-    <string name="megabyteShort">МБ</string>
-    <string name="megabyte_per_second">МБ/с</string>
+    <string name="megabyteShort">" МБ"</string>
+    <string name="megabyte_per_second">" МБ/с"</string>
     <string name="meid_multi_sim">MEID (слот %1$d)</string>
     <string name="mem_details_title">Подробности</string>
     <string name="memory">ОЗУ</string>
@@ -4925,7 +4925,7 @@
     <string name="normal_info">Все звуки разрешены</string>
     <string name="normal_smartcover_title">Непрозрачная</string>
     <string name="not_allowed">SIM-карта не поддерживает подключение к этой сети.</string>
-    <string name="not_battery_optimizing">Энергосбережение отключено</string>
+    <string name="not_battery_optimizing">Экономия заряда отключена</string>
     <string name="not_enabled">Выкл.</string>
     <string name="not_installed">Не установлено</string>
     <string name="not_set">Не задано</string>
@@ -4970,7 +4970,7 @@
     <string name="notification_channel_badge_title">Показывать значок уведомления</string>
     <string name="notification_channel_sound_title">Звук</string>
     <string name="notification_channel_summary_default">Звук и вибрация</string>
-    <string name="notification_channel_summary_high">Всплывающее окно</string>
+    <string name="notification_channel_summary_high">Всплывающее уведомление</string>
     <string name="notification_channel_summary_low">Беззвучный режим</string>
     <string name="notification_channel_summary_min">Только в панели уведомлений</string>
     <string name="notification_channel_summary_priority">Отображается в начале списка, в виде всплывающего уведомления, на экране блокировки отображается картинка профиля</string>
@@ -5364,7 +5364,7 @@ OTG отключается автоматически через 10 минут �
     <string name="popup_title_yingyan">Кондор</string>
     <string name="popup_voice_summary">Воспроизводить звук, когда передняя камера появляется и убирается</string>
     <string name="popup_voice_title">Звуковой эффект</string>
-    <string name="popup_window">Ограничение всплывающих окон</string>
+    <string name="popup_window">Запретить всплывающие уведомления</string>
     <string name="power_autorun_apps_empty">Пусто</string>
     <string name="power_autorun_empty">Пусто</string>
     <string name="power_bluetooth">Bluetooth</string>
@@ -5818,7 +5818,7 @@ UT-интерфейс: %5$s"</string>
     <string name="receiver_clean">Очистить память</string>
     <string name="recent_app_category_title">Недавно открытые приложения</string>
     <string name="recent_apps_label">Недавние приложения</string>
-    <string name="recent_location_requests_summary">Управление доступом приложений к местоположению</string>
+    <string name="recent_location_requests_summary">Доступ приложений к местоположению</string>
     <string name="recent_location_requests_title">Доступ к местоположению</string>
     <string name="recent_notifications">Недавно отправленные</string>
     <string name="recent_notifications_see_all_title">За последние 7 дней</string>
@@ -5903,6 +5903,10 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_title">Сброс</string>
     <string name="resetting_second_space_passwd">Сброс пароля второго пространства</string>
     <string name="resident_timezone_summary">Вторые часы</string>
+    <string name="resolution_fhd">FHD+ (Full HD)</string>
+    <string name="resolution_fhd_summary">2400×1080</string>
+    <string name="resolution_qhd">QHD+ (Quad HD)</string>
+    <string name="resolution_qhd_summary">3200×1440 (повышенный расход батареи)</string>
     <string name="resolver_settings_label">Сортировка</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию…</string>
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
@@ -6003,6 +6007,8 @@ UT-интерфейс: %5$s"</string>
     <string name="rx_wifi_speed">Скорость приема</string>
     <string name="safety_and_regulatory_info">Безопасность и соответствие стандартам</string>
     <string name="save">Сохранить</string>
+    <string name="save_battery_mode">Экономия заряда с QHD+</string>
+    <string name="save_battery_mode_summary">Автопереключение разрешения для экономии заряда</string>
     <string name="saved_network">Сохранено %1$s</string>
     <string name="saved_wifi">Сохраненные сети</string>
     <string name="saved_wifi_delete">Удалить</string>
@@ -6051,7 +6057,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_fps_summary_smooth">Некоторые приложения автоматически увеличивают частоту обновления кадров для улучшения качества изображения</string>
     <string name="screen_fps_title">Частота обновления</string>
     <string name="screen_fps_unit">%d Гц</string>
-    <string name="screen_fps_unit_power_save">%d Гц (энергосбережение)</string>
+    <string name="screen_fps_unit_power_save">%d Гц (экономия заряда)</string>
     <string name="screen_fps_unit_smooth">%d Гц (качество изображения)</string>
     <string name="screen_key_long_press">Долгое нажатие кнопок</string>
     <string name="screen_key_long_press_action">Функция нажатия</string>
@@ -6357,7 +6363,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_pointer_speed">Скорость указателя</string>
     <string name="search_power_checker">Мониторинг питания</string>
     <string name="search_power_hide_mode_title">Контроль активности;Использование батареи приложением;Управление питанием;Состояние батареи</string>
-    <string name="search_power_mode">Режим питания;Энергосбережение</string>
+    <string name="search_power_mode">Режим питания;Экономия заряда;Энергосбережение</string>
     <string name="search_power_optimize">Оптимизация питания;Экономия заряда</string>
     <string name="search_power_usage_summary_title">Батарея;Батарея и производительность;Питание и производительность;Питание;производительность;Энергосбережение;Экономия заряда</string>
     <string name="search_pref_edge_handgrip">Управление по краю</string>
@@ -6843,12 +6849,12 @@ UT-интерфейс: %5$s"</string>
     <string name="single_key_use">Управление одной кнопкой</string>
     <string name="single_key_use_summary">Использовать кнопку \"Домой\" для действий, выполняемых другими двумя кнопками</string>
     <string name="single_press_AI_button">Нажмите AI кнопку</string>
-    <string name="size_byte">Б</string>
-    <string name="size_giga_byte">ГБ</string>
-    <string name="size_kilo_byte">КБ</string>
-    <string name="size_mega_byte">МБ</string>
-    <string name="size_peta_byte">ПБ</string>
-    <string name="size_tera_byte">ТБ</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="skip_anyway_button_label">Все равно пропустить</string>
     <string name="skip_label">Далее</string>
     <string name="skip_lock_screen_confirm_msg">Уведомления, элементы управления плеером и ярлыки не будут отображаться на экране блокировки.</string>
@@ -7002,7 +7008,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_awake_time">Время работы</string>
     <string name="status_bar_app_des_separator">", "</string>
     <string name="status_bar_app_disable_notification">Отключено</string>
-    <string name="status_bar_app_enable_floating">Всплывающие окна</string>
+    <string name="status_bar_app_enable_floating">Всплывающие уведомления</string>
     <string name="status_bar_app_enable_keyguard">Экран блокировки</string>
     <string name="status_bar_app_enable_message">Счетчик на иконке</string>
     <string name="status_bar_carrier_settings_no_sim_card">Нет SIM-карты</string>
@@ -8038,7 +8044,7 @@ UT-интерфейс: %5$s"</string>
     <string name="video_calling_settings_title">Настройки видеовызова</string>
     <string name="video_tool_box_title">Панель инструментов видео</string>
     <string name="view_saved_network">Выберите сохраненную сеть для просмотра</string>
-    <string name="vip_list">Разрешить входящие вызовы</string>
+    <string name="vip_list">Входящие вызовы</string>
     <string name="virtual_keyboard_category">Виртуальная клавиатура</string>
     <string name="virtual_keyboards_for_work_title">Виртуальная клавиатура</string>
     <string name="virtual_sim_category_title">Mi Роуминг</string>
@@ -8815,9 +8821,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_subscribed_access_points_tab">Подписки</string>
     <string name="wifi_subscription">Подписка</string>
     <string name="wifi_subscription_summary">Просмотр или изменение подписки</string>
-    <string name="wifi_suspend_efficiency_title">Энергосбережение</string>
+    <string name="wifi_suspend_efficiency_title">Экономия заряда</string>
     <string name="wifi_suspend_optimizations">Оптимизация Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">Режим энергосбережения при подключении к сети Wi-Fi</string>
+    <string name="wifi_suspend_optimizations_summary">Режим экономии заряда при подключении к сети Wi-Fi</string>
     <string name="wifi_switch_away_when_unvalidated">Подключаться к мобильной сети при потере подключения к Интернету по Wi-Fi</string>
     <string name="wifi_switch_to_gsm_message">Подключение к Wi-Fi потеряно. Использовать мобильный интернет?</string>
     <string name="wifi_switch_to_gsm_title">Использовать GSM?</string>

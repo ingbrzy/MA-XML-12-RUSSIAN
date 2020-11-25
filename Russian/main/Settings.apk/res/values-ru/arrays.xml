@@ -1393,16 +1393,10 @@
         <item>USB накопитель</item>
     </string-array>
     <string-array name="vip_mode_text">
-        <item>Все</item>
-        <item>Только контакты</item>
-        <item>Избранные контакты</item>
-        <item>Нет</item>
-    </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
+        <item>Все вызовы</item>
+        <item>Только от контактов</item>
+        <item>От избранных контактов</item>
+        <item>Не отображать</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
         <item>Не используется</item>

@@ -52,7 +52,7 @@
     <string name="can_not_delete_when_calling">Удаление пространства во время вызова запрещено</string>
     <string name="can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
     <string name="can_not_switch_when_green_kid_active">Переход во второе пространство запрещен родительским контролем</string>
-    <string name="can_not_switch_when_super_power_active">"Переключение пространства при максимальном энергосбережении недоступно"</string>
+    <string name="can_not_switch_when_super_power_active">Переключение пространства при максимальной экономии заряда недоступно</string>
     <string name="cancelClosePassword">Не отключать</string>
     <string name="cancel_button">Отмена</string>
     <string name="changePassword">Изменение пароля</string>
@@ -181,7 +181,7 @@
     <string name="experience_more_features">Добавьте устройство для просмотра всех функций</string>
     <string name="facebook_login">Войти с помощью Facebook</string>
     <string name="facebook_send">Отправить в Facebook</string>
-    <string name="finger_print_num">Отпечаток пальца %d</string>
+    <string name="finger_print_num">Отпечаток %d</string>
     <string name="finger_print_of_use">Применение отпечатка</string>
     <string name="fingerprint_number_upper_limit">Слишком много неудачных попыток</string>
     <string name="fingerprint_removal_failed">Ошибка удаления отпечатка</string>
@@ -340,7 +340,7 @@
 для входа в него с экрана блокировки"</string>
     <string name="scanner_fingerprint_error_tips_desc">Отпечатки не найдены. Добавить отпечаток второго пространства?</string>
     <string name="scanner_fingerprint_error_tips_title">Отпечатки не найдены</string>
-    <string name="scanner_fingerprint_tips_desc">Выберите существующий отпечаток пальца для входа во второе пространство. Вы не сможете использовать его в первом пространстве.</string>
+    <string name="scanner_fingerprint_tips_desc">Выберите существующий отпечаток для входа во второе пространство. Вы не сможете использовать его в первом пространстве.</string>
     <string name="scanner_fingerprint_tips_title">Используйте существующий отпечаток</string>
     <string name="scanner_second_space_fingerprint">Отсканируйте отпечаток</string>
     <string name="sdcardfs_dialog_message">Это обновление включает в себя новую файловую систему. Старые данные могут быть несовместимы с ней. Для решения этой проблемы выполните действия по установке обновления. В ходе обновления ваше устройство будет дважды перезагружено.</string>
@@ -359,7 +359,7 @@
     <string name="second_space_desktop_tips_dialog_message">Иконки для перемещения данных и управления вторым пространством после обновления не будут отображаться на рабочем столе. Вы сможете получить доступ к соответствующим функциям в Настройках.</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Понятно</string>
     <string name="second_space_desktop_tips_dialog_title">Важное обновление</string>
-    <string name="second_space_finger_printf_desc">Добавьте отпечаток пальца для входа во второе пространство</string>
+    <string name="second_space_finger_printf_desc">Добавьте отпечаток для входа во второе пространство</string>
     <string name="second_space_finger_printf_title">Отпечаток второго пространства</string>
     <string name="secondspace_homepage">"Установите отдельную блокировку экрана для второго пространства.
 Разделяйте и защищайте свои данные."</string>

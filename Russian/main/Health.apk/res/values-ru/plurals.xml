@@ -164,13 +164,13 @@
         <item quantity="other">Только что</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
-        <item quantity="other">Период, возможно, начнется через %1$d дней</item>
-        <item quantity="one">Период, возможно, начнется через %1$d дней</item>
-        <item quantity="few">Период, возможно, начнется через %1$d дня</item>
+        <item quantity="other">Ожидается через %1$d дней</item>
+        <item quantity="one">Ожидается %1$d дней</item>
+        <item quantity="few">Ожидается через %1$d дня</item>
     </plurals>
     <plurals name="menstruation_sum_days">
-        <item quantity="other">%1$d-дневная менструация</item>
-        <item quantity="one">%1$d-дневная менструация</item>
+        <item quantity="other">%1$d-дн. менструация</item>
+        <item quantity="one">%1$d-дн. менструация</item>
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
         <item quantity="other">%1$d день 
@@ -183,9 +183,9 @@
         <item quantity="one">%1$d день</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Следующий период через %1$d дней</item>
-        <item quantity="one">Следующий период через %1$d день</item>
-        <item quantity="few">Следующий период через %1$d дня</item>
+        <item quantity="other">След. через %1$d дней</item>
+        <item quantity="one">След. через %1$d день</item>
+        <item quantity="few">След. через %1$d дня</item>
     </plurals>
     <plurals name="minutes">
         <item quantity="other">%1$d мин.</item>
