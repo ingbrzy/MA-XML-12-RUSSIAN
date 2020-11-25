@@ -428,6 +428,16 @@
         <item quantity="other">Удалить %d APK</item>
         <item quantity="one">Удалить %d APK</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d проблем с энергопотреблением</item>
+        <item quantity="one">%d проблема с энергопотреблением</item>
+        <item quantity="few">%d проблемы с энергопотреблением</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Оптимизируйте %d объектов для экономии заряда</item>
+        <item quantity="one">Оптимизируйте %d объект для экономии заряда</item>
+        <item quantity="few">Оптимизируйте %d объекта для экономии заряда</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d дней с момента последней проверки</item>
         <item quantity="one">%d день с момента последней проверки</item>
@@ -558,9 +568,31 @@
         <item quantity="other">Загрузок: %1$d</item>
         <item quantity="one">Загрузок: %1$d</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">раз</item>
+        <item quantity="one">раз</item>
+        <item quantity="few">раза</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d проблем с расходом заряда</item>
+        <item quantity="one">%d проблема с расходом заряда</item>
+        <item quantity="few">%d проблемы с расходом заряда</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d д. "</item>
         <item quantity="one">"%d д. "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ч."</item>
+        <item quantity="one">" ч."</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" мин."</item>
+        <item quantity="one">" мин."</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Для точной статистики, полностью зарядите устройство не менее %2$d раз</item>
+        <item quantity="one">Для точной статистики, полностью зарядите устройство не менее %2$d раза</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ч. "</item>
@@ -569,6 +601,31 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d мин. "</item>
         <item quantity="one">"%d мин. "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Исправить %d проблем с расходом заряда</item>
+        <item quantity="one">Исправить %d проблему с расходом заряда</item>
+        <item quantity="few">Исправить %d проблемы с расходом заряда</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Можно исправить %d проблем с расходом заряда</item>
+        <item quantity="one">Можно исправить %d проблему с расходом заряда</item>
+        <item quantity="few">Можно исправить %d проблемы с расходом заряда</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" можно оптимизировать %d объектов"</item>
+        <item quantity="one">" можно оптимизировать %d объект"</item>
+        <item quantity="few">" можно оптимизировать %d объекта"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Оптимизируйте %d объектов для экономии заряда</item>
+        <item quantity="one">Оптимизируйте %d объект для экономии заряда</item>
+        <item quantity="few">Оптимизируйте %d объекта для экономии заряда</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Можно оптимизировать %d объектов для экономии заряда</item>
+        <item quantity="one">Можно оптимизировать %d объект для экономии заряда</item>
+        <item quantity="few">Можно оптимизировать %d объекта для экономии заряда</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>
@@ -610,6 +667,16 @@
         <item quantity="other">Устройство выключится через %d секунд. Подключите зарядное устройство.</item>
         <item quantity="one">Устройство выключится через %d секунду. Подключите зарядное устройство.</item>
         <item quantity="few">Устройство выключится через %d секунды. Подключите зарядное устройство.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d приложений часто используют автозапуск</item>
+        <item quantity="one">%d приложение часто использует автозапуск</item>
+        <item quantity="few">%d приложения часто используют автозапуск</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d приложений разряжают батарею</item>
+        <item quantity="one">%d приложение разряжает батарею</item>
+        <item quantity="few">%d приложения разряжают батарею</item>
     </plurals>
     <plurals name="pp_times">
         <item quantity="other">%s раз</item>
