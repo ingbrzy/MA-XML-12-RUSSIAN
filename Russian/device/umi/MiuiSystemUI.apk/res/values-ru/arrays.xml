@@ -126,6 +126,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (по умолчанию)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Отключено</item>
         <item>Включен фильтр</item>
@@ -173,6 +178,22 @@
         <item>Проверять только DRM-контент</item>
         <item>Всегда проверять</item>
     </string-array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>+</item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+    </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Рекомендуемый контент</item>
+        <item>Реклама</item>
+    </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Откл</item>
         <item>30 минут</item>
@@ -206,7 +227,6 @@
         <item>4K (масштаб, защита)</item>
         <item>720p, 1080p (два экрана)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Отключен</item>
         <item>64 КБ</item>

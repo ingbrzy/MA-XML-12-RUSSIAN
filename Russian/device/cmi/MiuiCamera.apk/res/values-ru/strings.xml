@@ -498,7 +498,7 @@
     <string name="custom_tint_color_champagne">Шампань</string>
     <string name="custom_tint_color_light_orange">Оранжевый</string>
     <string name="custom_tint_color_lilac">Сирень</string>
-    <string name="custom_tint_color_select">Изменить цвета</string>
+    <string name="custom_tint_color_select">Цветовая тема</string>
     <string name="custom_tint_color_sky_blue">Синий</string>
     <string name="custom_tint_color_sky_cyan">Голубой</string>
     <string name="custom_watermark_contains_senstive_words">"Водяные знаки не могут использовать запрещенные термины (%1$s)"</string>
@@ -860,13 +860,13 @@
     <string name="module_name_edit_favorite_title">Начальный экран</string>
     <string name="module_name_edit_full_toast">Начальный экран заполнен</string>
     <string name="module_name_edit_sub_title">Нажмите и удерживайте элементе для перемещения</string>
-    <string name="module_name_edit_title">Функции</string>
-    <string name="module_name_edit_unfavorite_title">Дополнительно</string>
+    <string name="module_name_edit_title">Режимы камеры</string>
+    <string name="module_name_edit_unfavorite_title">Другие режимы</string>
     <string name="module_name_fun">Видеоклип</string>
     <string name="module_name_fun_ar">Стикеры аватаров</string>
     <string name="module_name_manual">Ручной</string>
     <string name="module_name_more">Ещё</string>
-    <string name="module_name_multi_camera">Фронтальная &amp; основная</string>
+    <string name="module_name_multi_camera">Фронтальная и основная</string>
     <string name="module_name_new_slow_motion">Замедление</string>
     <string name="module_name_panorama">Панорама</string>
     <string name="module_name_portrait">Портрет</string>
@@ -877,7 +877,7 @@
     <string name="module_name_vlog">ВЛОГ</string>
     <string name="moive_frame">Кадр</string>
     <string name="moon">Луна</string>
-    <string name="more_mode_style">Расположение всех режимов камеры</string>
+    <string name="more_mode_style">Расположение дополнительных режимов</string>
     <string name="more_mode_style_popup">Панель \"Еще\"</string>
     <string name="more_mode_style_tab">Вкладка \"Ещё\"</string>
     <string name="multi_window_mode_not_supported">Камера не может работать в многооконном режиме</string>
@@ -1022,7 +1022,7 @@
     <string name="pref_camera_auto_capture_when_stable_title">Автосъемка при фокусе</string>
     <string name="pref_camera_auto_chroma_flash_title">Комбо вспышка</string>
     <string name="pref_camera_auto_hibernation">Съемка с выключенным экраном</string>
-    <string name="pref_camera_auto_hibernation_description">Выключить экран через %d мин. съемки для энергосбережения</string>
+    <string name="pref_camera_auto_hibernation_description">Выключить экран через %d мин. съемки для экономии заряда</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенный</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Средний кадр</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Точечный замер</string>
@@ -1401,10 +1401,10 @@
     <string name="pref_camera_zsl_entry_off">Откл.</string>
     <string name="pref_camera_zsl_entry_on">Вкл.</string>
     <string name="pref_capture_settings">Съемка фото</string>
-    <string name="pref_custom_feature_layout_title">Режимы</string>
-    <string name="pref_custom_shutter_sound_title">Звук</string>
-    <string name="pref_custom_tint_title">Цвета</string>
-    <string name="pref_customization_title">Настройка</string>
+    <string name="pref_custom_feature_layout_title">Режимы камеры</string>
+    <string name="pref_custom_shutter_sound_title">Звук затвора</string>
+    <string name="pref_custom_tint_title">Цветовая тема</string>
+    <string name="pref_customization_title">Персонализация</string>
     <string name="pref_document_mode">Документы</string>
     <string name="pref_dual_camera_video">Фронтальная и основная</string>
     <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
@@ -1444,7 +1444,7 @@
     <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
     <string name="pref_module_settings">Режимы</string>
-    <string name="pref_more_mode_style_title">Режимы камеры</string>
+    <string name="pref_more_mode_style_title">Расположение режимов</string>
     <string name="pref_multi_camera_dual_video_front">Передняя камера</string>
     <string name="pref_multi_camera_dual_video_remote">Удаленная камера</string>
     <string name="pref_n_s_o_l">Включить</string>
