@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_extreme_mode">Максимальное энегосбережение</string>
     <string name="about_hide_mode">О контроле активности</string>
-    <string name="accessibility_service_description">Умное энергосбережение</string>
+    <string name="accessibility_service_description">Умная экономия заряда</string>
     <string name="active_classify">Сортировать по активности</string>
     <string name="adaptive_battery_summary">"Ограничение использования батареи для редко запускаемых приложений"</string>
     <string name="adaptive_battery_title">Адаптивный режим</string>
@@ -54,7 +54,7 @@
     <string name="config_no_restrict_title">Нет ограничений</string>
     <string name="config_restrict_function_description">Может влиять на некоторые функции (например, уведомления), но приложения не будут закрыты</string>
     <string name="config_restrict_function_title">Мягкое ограничение</string>
-    <string name="config_restrict_running_description">Работающие приложения могут быть закрыты для энергосбережения</string>
+    <string name="config_restrict_running_description">Работающие приложения могут быть закрыты для экономии заряда</string>
     <string name="config_restrict_running_title">Жесткое ограничение</string>
     <string name="config_restrict_running_warning">Фоновые приложения будут закрыты. Возможно нарушение их работы.</string>
     <string name="config_scenario_policies_title">Сценарии</string>
@@ -65,21 +65,21 @@
     <string name="copy">Копировать</string>
     <string name="current_cloud_addr_is">Адрес сервера облачного управления:</string>
     <string name="dark_mode">Темный режим</string>
-    <string name="dark_mode_summary">Использовать темную цветовую палитру для энергосбережения</string>
+    <string name="dark_mode_summary">Использовать темную цветовую палитру для экономии заряда</string>
     <string name="empty_title_apps_container_list">Нет приложений</string>
-    <string name="enable_sleep_mode">Включите режим сна для энергосбережения ночью</string>
+    <string name="enable_sleep_mode">Включите режим сна для экономии заряда ночью</string>
     <string name="error_filename_too_long">Имя файла слишком длинное.</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="extreme_add_white_list_summary">Можно добавить до 4 приложений</string>
     <string name="extreme_add_white_list_title">Исключения</string>
     <string name="extreme_mode_max_item_alert">Можно выбрать до 4 приложений для работы в фоновом режиме</string>
-    <string name="extreme_power_config_mode_category">Экстремальное энергосбережение</string>
-    <string name="extreme_power_config_mode_desc">Экстремальное энергосбережение отключает синхронизацию, Bluetooth, GPS, NFC, двойные нажатия, подсветку кнопок и световую индикацию. Экран при получении уведомлений не включается.</string>
-    <string name="extreme_power_config_mode_summary">Экстремальное энергосбережение ограничивает фоновую активность и останавливает синхронизацию.</string>
-    <string name="extreme_power_config_mode_title">Экстремальное энергосбережение</string>
+    <string name="extreme_power_config_mode_category">Экстремальная экономия заряда</string>
+    <string name="extreme_power_config_mode_desc">Экстремальная экономия заряда отключает синхронизацию, Bluetooth, GPS, NFC, двойные нажатия, подсветку кнопок и световую индикацию. Экран при получении уведомлений не включается.</string>
+    <string name="extreme_power_config_mode_summary">Экстремальная экономия заряда ограничивает фоновую активность и останавливает синхронизацию.</string>
+    <string name="extreme_power_config_mode_title">Экстремальная экономия заряда</string>
     <string name="extreme_power_settings_title">Настройки</string>
     <string name="failure">Ошибка</string>
-    <string name="hide_mode_desc"><font color="#000000">Когда приложение работает в фоновом режиме, его активность контролируется для энергосбережения. Эта функция будет получать и использовать личные данные в соответствии с %s.</font></string>
+    <string name="hide_mode_desc"><font color="#000000">Когда приложение работает в фоновом режиме, его активность контролируется для экономии заряда. Эта функция будет получать и использовать личные данные в соответствии с %s.</font></string>
     <string name="hide_system_app">Скрыть системные приложения</string>
     <string name="high_temp_state">Перегрев</string>
     <string name="high_temp_state_message">Устройство перегрелось. Мобильный интернет, точка доступа Wi-Fi, GPS и камера будут отключены.</string>
@@ -96,12 +96,12 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
-    <string name="nonui_mode_config_description">Когда MIUI определяет, что устройство не используется, световой индикатор, сканер отпечатков и сенсорное управление отключаются для энергосбережения. Экран при получении уведомлений не включается.</string>
+    <string name="nonui_mode_config_description">Когда MIUI определяет, что устройство не используется, световой индикатор, сканер отпечатков и сенсорное управление отключаются для экономии заряда. Экран при получении уведомлений не включается.</string>
     <string name="nonui_mode_config_title">Неинтерактивный режим</string>
     <string name="not_set">Не задано</string>
     <string name="notification_exit_extreme_mode_text">Батарея заряжена более чем на %s</string>
-    <string name="notification_exit_extreme_mode_title">Экстремальное энергосбережение отключено</string>
-    <string name="notification_open_extreme_mode_text">Экстремальное энергосбережение включено</string>
+    <string name="notification_exit_extreme_mode_title">Экстремальная экономия заряда отключена</string>
+    <string name="notification_open_extreme_mode_text">Экстремальная экономия заряда включена</string>
     <string name="open_dark_mode">Переключиться в Темный режим</string>
     <string name="open_dark_mode_tip">Качество отображения некоторых функций в Темном режиме может ухудшиться. При выходе из режима оно вернется к нормальному состоянию. Переключиться?</string>
     <string name="performance_category">Производительность</string>
@@ -128,15 +128,15 @@
     <string name="power_consume_abnormal_night">Батарея разряжается ночью</string>
     <string name="power_hide_mode_app_list_summary">Список управляемых приложений</string>
     <string name="power_hide_mode_title">Батарея</string>
-    <string name="power_mode">Настройки энергосбережения</string>
+    <string name="power_mode">Настройки экономии заряда</string>
     <string name="power_tools_current">Ток</string>
     <string name="power_tools_fps">Частота</string>
     <string name="power_usage">Использование батареи</string>
     <string name="pref_config_title">Оптимизация производительности</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy">Политика конфиденциальности</string>
-    <string name="scenario_policies_summary">Различные стратегии энергосбережения для разных сценариев использования устройства</string>
-    <string name="scenario_policies_title">Сценарии энергосбережения</string>
+    <string name="scenario_policies_summary">Различные стратегии экономии заряда для разных сценариев использования устройства</string>
+    <string name="scenario_policies_title">Сценарии экономии заряда</string>
     <string name="scenario_policies_warmcontrol">Контроль температуры</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Поиск</string>

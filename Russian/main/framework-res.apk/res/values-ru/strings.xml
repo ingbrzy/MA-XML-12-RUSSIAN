@@ -333,16 +333,16 @@
     <string name="badPuk">Введен неверный PUK-код.</string>
     <string name="battery_saver_charged_notification_summary">Устройство заряжено достаточно. Функции больше не ограничиваются.</string>
     <string name="battery_saver_charged_notification_title">Устройство заряжено на %1$s</string>
-    <string name="battery_saver_description">"Чтобы продлить время работы устройства от батареи, в режиме энергосбережения снижается производительность, а также ограничивается использование вибрации, геолокации и фоновой передачи данных. Данные, требующие синхронизации, могут обновляться только когда вы откроете приложение.
+    <string name="battery_saver_description">"Чтобы продлить время работы устройства от батареи, в режиме экономии заряда снижается производительность, а также ограничивается использование вибрации, геолокации и фоновой передачи данных. Данные, требующие синхронизации, могут обновляться только когда вы откроете приложение.
 
-Режим энергосбережения автоматически отключается во время зарядки устройства."</string>
-    <string name="battery_saver_description_with_learn_more">Чтобы продлить время работы от батареи, в режиме энергосбережения ограничивается работа приложений и отключаются некоторые функции. Подробнее…</string>
-    <string name="battery_saver_notification_channel_name">Энергосбережение</string>
-    <string name="battery_saver_off_alternative_notification_summary">Энергосбережение отключено. Функции больше не ограничиваются.</string>
-    <string name="battery_saver_off_notification_summary">Энергосбережение отключено. Функции больше не ограничиваются.</string>
-    <string name="battery_saver_off_notification_title">Энергосбережение отключено</string>
-    <string name="battery_saver_sticky_disabled_notification_summary">Батарея заряжена достаточно. Энергосбережение будет включено снова при низком уровне заряда батареи.</string>
-    <string name="battery_saver_sticky_disabled_notification_title">Энергосбережение будет включено снова при низком уровне заряда батареи.</string>
+Режим экономии заряда автоматически отключается во время зарядки устройства."</string>
+    <string name="battery_saver_description_with_learn_more">Чтобы продлить время работы от батареи, в режиме экономии заряда ограничивается работа приложений и отключаются некоторые функции. Подробнее…</string>
+    <string name="battery_saver_notification_channel_name">Экономия заряда</string>
+    <string name="battery_saver_off_alternative_notification_summary">Экономия заряда отключена. Функции больше не ограничиваются.</string>
+    <string name="battery_saver_off_notification_summary">Экономия заряда отключена. Функции больше не ограничиваются.</string>
+    <string name="battery_saver_off_notification_title">Экономия заряда отключена</string>
+    <string name="battery_saver_sticky_disabled_notification_summary">Батарея заряжена достаточно. Экономия заряда будет включена снова при низком уровне заряда батареи.</string>
+    <string name="battery_saver_sticky_disabled_notification_title">Экономия заряда будет включена снова при низком уровне заряда батареи.</string>
     <string name="beforeOneMonthDurationPast">Более месяца назад</string>
     <string name="biometric_dialog_default_title">Подтвердите, что это вы</string>
     <string name="biometric_error_canceled">Аутентификация отменена</string>
@@ -598,8 +598,8 @@
     <string name="dump_heap_system_text">Процесс \"%1$s\" превысил допустимый объем памяти (%2$s). Вы можете отправить дамп кучи разработчику. Обратите внимание, файл может содержать личные данные, доступные процессу, например введенный вами текст.</string>
     <string name="dump_heap_text">Процесс \"%1$s\" превысил объем памяти (%2$s). При необходимости отправьте созданный дамп кучи разработчику. Обратите внимание, файл может содержать личные данные, доступные приложению.</string>
     <string name="dump_heap_title">Отправить дамп кучи?</string>
-    <string name="dynamic_mode_notification_channel_name">Уведомление об энергосбережении</string>
-    <string name="dynamic_mode_notification_summary">Чтобы увеличить время работы от батареи, был включен режим энергосбережения.</string>
+    <string name="dynamic_mode_notification_channel_name">Уведомление об экономии заряда</string>
+    <string name="dynamic_mode_notification_summary">Чтобы увеличить время работы от батареи, был включен режим экономии заряда.</string>
     <string name="dynamic_mode_notification_title">Батарея может разрядиться раньше обычного</string>
     <string name="editTextMenuTitle">Операции с текстом</string>
     <string name="edit_accessibility_shortcut_menu_button">Редактировать ярлыки</string>
