@@ -386,22 +386,22 @@
     <string name="add_account_label">Добавить аккаунт</string>
     <string name="add_auto_startup_application">Добавить приложение с автозапуском</string>
     <string name="add_back_fingerprint_instruction_msg">Приложите палец к сканеру</string>
-    <string name="add_broadsize_fingerprint_instruction_msg">Сканер отпечатков пальцев расположен на правом краю устройства</string>
+    <string name="add_broadsize_fingerprint_instruction_msg">Сканер отпечатков расположен на правом краю устройства</string>
     <string name="add_device_admin">Активировать</string>
     <string name="add_device_admin_msg">Администратор устройства</string>
     <string name="add_facerecoginition_text">Добавить данные лица</string>
     <string name="add_fingerprint_cancel_button_text">Назад</string>
     <string name="add_fingerprint_dirty_fingerprint">Убедитесь, что поверхность экрана чистая. Повторите попытку записи отпечатка.</string>
-    <string name="add_fingerprint_done_msg">Теперь вы можете разблокировать устройство отпечатком пальца.</string>
+    <string name="add_fingerprint_done_msg">Теперь вы можете разблокировать устройство отпечатком</string>
     <string name="add_fingerprint_done_title">Всё готово!</string>
     <string name="add_fingerprint_edge_instruction_msg">Сместите палец для записи краев вашего отпечатка</string>
     <string name="add_fingerprint_edge_instruction_title">Немного сместите палец</string>
-    <string name="add_fingerprint_failed_retry_text">Не удалось добавить отпечаток пальца</string>
+    <string name="add_fingerprint_failed_retry_text">Не удалось добавить отпечаток</string>
     <string name="add_fingerprint_finished_button_text">Готово</string>
     <string name="add_fingerprint_instruction_msg">Сканер отпечатков встроен в кнопку \"Домой\" вашего устройства</string>
     <string name="add_fingerprint_instruction_title">Добавление отпечатка</string>
     <string name="add_fingerprint_move_fast">Держите палец на экране немного дольше</string>
-    <string name="add_fingerprint_name_suggest_text">Имя отпечатка пальца</string>
+    <string name="add_fingerprint_name_suggest_text">Имя отпечатка</string>
     <string name="add_fingerprint_put_finger_edge_msg">Немного сместите палец и снова приложите его к сканеру для добавления всех частей отпечатка</string>
     <string name="add_fingerprint_put_finger_msg">Прикладывайте палец к сканеру и убирайте после вибрации</string>
     <string name="add_fingerprint_put_finger_title">Добавление отпечатка</string>
@@ -1719,8 +1719,8 @@
     <string name="close_aod">Эта функция несовместима с \"Активным экраном\". Сначала отключите его.</string>
     <string name="close_app">Закрытие приложения</string>
     <string name="close_demo_mode">Отмена</string>
-    <string name="close_fod">Вы не сможете разблокировать устройство с помощью отпечатка пальца, когда экран выключен. Разблокировка отпечатком будет работать только при включенном экране.</string>
-    <string name="close_fod_aod">Вы не сможете разблокировать устройство с помощью отпечатка пальца, когда экран выключен. \"Активный экран\" также будет недоступен. Разблокировка отпечатком будет работать только при включенном экране.</string>
+    <string name="close_fod">Вы не сможете разблокировать устройство с помощью отпечатка, когда экран выключен. Разблокировка отпечатком будет работать только при включенном экране.</string>
+    <string name="close_fod_aod">Вы не сможете разблокировать устройство с помощью отпечатка, когда экран выключен. \"Активный экран\" также будет недоступен. Разблокировка отпечатком будет работать только при включенном экране.</string>
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_miui_optimization_title">Отключение оптимизации MIUI</string>
     <string name="close_optimization_message">Отключение этой функции может повлиять на разметку текста, аккаунты и другие компоненты MIUI.</string>
@@ -1851,7 +1851,7 @@
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
     <string name="confirm_erase">Удалить</string>
-    <string name="confirm_fingerprint">Проверка отпечатка пальца</string>
+    <string name="confirm_fingerprint">Проверка отпечатка</string>
     <string name="confirm_fingerprint_icon_content_description">Чтобы продолжить, используйте цифровой отпечаток</string>
     <string name="confirm_fingerprint_msg">Приложите палец к сканеру</string>
     <string name="confirm_frp_credential_message">Настройки устройства были сброшены. Вы можете разблокировать его с помощью своего предыдущего пароля.</string>
@@ -1859,10 +1859,10 @@
     <string name="confirm_frp_credential_title">Разблокировка после сброса</string>
     <string name="confirm_lock_pattern_header_text">Введите графический ключ</string>
     <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
-    <string name="confirm_password_with_fingerprint">Используйте отпечаток пальца</string>
+    <string name="confirm_password_with_fingerprint">Используйте отпечаток</string>
     <string name="confirm_password_with_password">Введите пароль</string>
     <string name="confirm_privacy_password">Введите пароль защиты личных данных</string>
-    <string name="confirm_privacy_password_fingerprint">"Отсканируйте отпечаток пальца или 
+    <string name="confirm_privacy_password_fingerprint">"Отсканируйте отпечаток или 
 введите пароль защиты личных данных"</string>
     <string name="confirm_reset_aaid">OK</string>
     <string name="confirm_sim_deletion_description">Подтверждение вашей личности перед очисткой SIM-карты</string>
@@ -2303,7 +2303,7 @@
     <string name="delete_fingerprint_confirm_title">Внимание</string>
     <string name="delete_fingerprint_text">Удалить отпечаток</string>
     <string name="delete_legacy_fingerprint">Удалить</string>
-    <string name="delete_or_keep_legacy_passwords_confirm_msg">Удалить отпечатки пальцев?</string>
+    <string name="delete_or_keep_legacy_passwords_confirm_msg">Удалить отпечатки?</string>
     <string name="delete_rule">Удаление расписания</string>
     <string name="delete_saved_network">Удаление сохраненных сетей</string>
     <string name="delete_sound_effect">Звук удаления</string>
@@ -2624,7 +2624,7 @@
     <string name="dsds_switch_string">Включить DSDS</string>
     <string name="dsu_is_running">DSU запущено</string>
     <string name="dsu_loader_description">Загрузка образа динамического обновления системы</string>
-    <string name="dsu_loader_loading">Загрузка...</string>
+    <string name="dsu_loader_loading">Загрузка…</string>
     <string name="dsu_loader_title">Загрузчик DSU</string>
     <string name="dtmf_tone_enable_title">Звук набора номера</string>
     <string name="dual_cdma_sim_warning_notification_channel_title">Комбинация SIM</string>
@@ -2972,12 +2972,12 @@
     <string name="find_my_device_disable">Откл.</string>
     <string name="find_my_device_enable">Вкл.</string>
     <string name="find_my_device_summary">Требуется вход в Mi аккаунт</string>
-    <string name="fingerprint_add_max">Максимальное количество отпечатков пальца, которые можно добавить: %d</string>
-    <string name="fingerprint_add_title">Добавить отпечаток пальца</string>
+    <string name="fingerprint_add_max">Максимальное количество отпечатков, которые можно добавить: %d</string>
+    <string name="fingerprint_add_title">Добавить отпечаток</string>
     <string name="fingerprint_and_password_entrance_title">Защита устройства и биометрия</string>
     <string name="fingerprint_apply_to_privacy_password">Пароль защиты личных данных</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Пароль защиты личных данных защищает сообщения, фотографии, файлы, заметки и приложения</string>
-    <string name="fingerprint_delete_message">Удалить отпечаток пальца?</string>
+    <string name="fingerprint_delete_message">Удалить отпечаток?</string>
     <string name="fingerprint_delete_title">"Удалить '%1$s'?"</string>
     <string name="fingerprint_enable_keyguard_toggle_title">блокировка экрана</string>
     <string name="fingerprint_enroll_button_add">Добавить еще</string>
@@ -2990,12 +2990,12 @@
     <string name="fingerprint_identify_msg">Чтение отпечатка…</string>
     <string name="fingerprint_identify_try_again_msg">Отпечаток не распознан, повторите попытку</string>
     <string name="fingerprint_intro_error_max">Вы уже добавили максимальное количество отпечатков</string>
-    <string name="fingerprint_intro_error_unknown">Больше нельзя добавить отпечатки пальцев</string>
+    <string name="fingerprint_intro_error_unknown">Больше нельзя добавить отпечатки</string>
     <string name="fingerprint_last_delete_confirm">Удалить</string>
     <string name="fingerprint_last_delete_message">Вы больше не сможете использовать отпечатки для разблокировки телефона, подтверждения покупок и входа в приложения.</string>
     <string name="fingerprint_last_delete_message_profile_challenge">Вы больше не сможете использовать отпечатки для разблокировки рабочего профиля, подтверждения покупок и входа в рабочие приложения.</string>
-    <string name="fingerprint_last_delete_title">Удалить отпечатки пальцев?</string>
-    <string name="fingerprint_list_title">Отпечаток пальца</string>
+    <string name="fingerprint_last_delete_title">Удалить отпечатки?</string>
+    <string name="fingerprint_list_title">Отпечаток</string>
     <string name="fingerprint_lock_first">Разблокировать первое пространство</string>
     <string name="fingerprint_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки отпечатком необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
     <string name="fingerprint_lock_second">Разблокировать второе пространство</string>
@@ -3003,19 +3003,19 @@
     <string name="fingerprint_manage_category_title">Управление отпечатками</string>
     <string name="fingerprint_manage_tittle">Управление отпечатками</string>
     <string name="fingerprint_not_identified_msg">Отпечаток не распознан. Введите пароль.</string>
-    <string name="fingerprint_not_recognized">Отпечаток не опознан</string>
+    <string name="fingerprint_not_recognized">Отпечаток не распознан</string>
     <string name="fingerprint_others_title">Прочее</string>
     <string name="fingerprint_payment">Подтверждение платежей</string>
     <string name="fingerprint_removal_failed">Ошибка удаления отпечатка, повторите попытку позже</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Быстрый просмотр уведомлений</string>
-    <string name="fingerprint_swipe_for_notifications_summary">Чтобы увидеть уведомления, проведите вниз по сканеру отпечатков пальцев на задней панели телефона</string>
+    <string name="fingerprint_swipe_for_notifications_summary">Чтобы увидеть уведомления, проведите вниз по сканеру отпечатков на задней панели телефона</string>
     <string name="fingerprint_swipe_for_notifications_title">Использовать сканер отпечатков для просмотра уведомлений</string>
     <string name="fingerprint_unlock_press_type">Нажатие</string>
-    <string name="fingerprint_unlock_set_unlock_password">Отпечатки пальцев и пароль</string>
-    <string name="fingerprint_unlock_set_unlock_pattern">Отпечатки пальцев и графический ключ</string>
-    <string name="fingerprint_unlock_set_unlock_pin">Отпечатки пальцев и PIN-код</string>
+    <string name="fingerprint_unlock_set_unlock_password">Отпечаток и пароль</string>
+    <string name="fingerprint_unlock_set_unlock_pattern">Отпечаток и графический ключ</string>
+    <string name="fingerprint_unlock_set_unlock_pin">Отпечаток и PIN-код</string>
     <string name="fingerprint_unlock_skip_fingerprint">Продолжить без настройки отпечатка</string>
-    <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка пальца. В целях безопасности вам нужно будет установить PIN-код, графический ключ или пароль.</string>
+    <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка. В целях безопасности вам нужно будет установить PIN-код, графический ключ или пароль.</string>
     <string name="fingerprint_unlock_touch_type">Касание</string>
     <string name="fingerprint_unlock_type">Метод распознавания отпечатков</string>
     <string name="fingerprint_usage_category_title">Для чего использовать</string>
@@ -3266,25 +3266,29 @@
     <string name="gxzw_add_fingerprint_put_finger_title">Нажмите и отпустите после вибрации</string>
     <string name="gxzw_add_fingerprint_title">Добавление отпечатка</string>
     <string name="gxzw_anim_aurora">Аврора</string>
+    <string name="gxzw_anim_dialog_cancel_enroll">Отмена</string>
+    <string name="gxzw_anim_dialog_enroll">ОК</string>
+    <string name="gxzw_anim_dialog_message">Добавьте отпечаток, для отображения его анимации. Добавить?</string>
+    <string name="gxzw_anim_dialog_title">Добавление отпечатка</string>
     <string name="gxzw_anim_light">Неон</string>
     <string name="gxzw_anim_pulse">Пульс</string>
     <string name="gxzw_anim_rhythm">Ритм</string>
     <string name="gxzw_anim_star">Звезды</string>
     <string name="gxzw_anim_title">Анимация отпечатка</string>
-    <string name="gxzw_aod_show_summary">Поднимите устройство или коснитесь экрана, чтобы появился значок отпечатка пальца. Эта функция увеличивает расход батареи.</string>
+    <string name="gxzw_aod_show_summary">Поднимите устройство или коснитесь экрана, чтобы появился значок отпечатка. Эта функция увеличивает расход батареи.</string>
     <string name="gxzw_aod_show_tittle">Показывать значок отпечатка при выключенном экране</string>
     <string name="gxzw_dialog_message">Для нормальной работы экранного сканера отпечатков не используйте средства защиты экрана. Если вы считаете, что защита экрана всё же необходима, выберите один из совместимых вариантов.</string>
     <string name="gxzw_dialog_not_show_again">Больше не показывать</string>
     <string name="gxzw_dialog_ok">Понятно</string>
     <string name="gxzw_dialog_title">Об экранном сканере отпечатков</string>
     <string name="gxzw_enroll_again">Поднимите палец и приложите снова к сканеру отпечатков</string>
-    <string name="gxzw_lowlight_open_summary">Уменьшить яркость значка отпечатка пальца при низкой освещенности. Когда эта функция включена, разблокировка устройства может работать медленнее.</string>
+    <string name="gxzw_lowlight_open_summary">Уменьшить яркость значка отпечатка при низкой освещенности. Когда эта функция включена, разблокировка устройства может работать медленнее.</string>
     <string name="gxzw_lowlight_open_title">Разблокировка при низкой освещенности</string>
     <string name="gxzw_quick_open_enable_summary">Использовать ярлыки для запуска приложений или их функций при разблокировке</string>
-    <string name="gxzw_quick_open_enable_title">Ярлыки отпечатка пальца</string>
-    <string name="gxzw_quick_open_fast_summary">Проведите по значку отпечатка пальца для запуска ярлыка при разблокировке.</string>
+    <string name="gxzw_quick_open_enable_title">Ярлыки отпечатка</string>
+    <string name="gxzw_quick_open_fast_summary">Проведите по значку отпечатка для запуска ярлыка при разблокировке.</string>
     <string name="gxzw_quick_open_fast_title">Быстрый свайп</string>
-    <string name="gxzw_quick_open_slow_summary">Нажмите и удерживайте значок отпечатка пальца для контекстного меню. Проведите для запуска ярлыка.</string>
+    <string name="gxzw_quick_open_slow_summary">Нажмите и удерживайте значок отпечатка для контекстного меню. Проведите для запуска ярлыка.</string>
     <string name="gxzw_quick_open_slow_title">Нажатие и удерживание</string>
     <string name="gxzw_quick_open_title">Ярлыки</string>
     <string name="handy_mode">Управление одной рукой</string>
@@ -3321,7 +3325,12 @@
     <string name="header_category_system">Система</string>
     <string name="header_category_wireless_networks">Беспроводные сети</string>
     <string name="header_data_and_synchronization">Синхронизация данных</string>
+    <string name="headset_connectiong">Подключение…</string>
+    <string name="headset_remove_message">Удалить это устройство из аккаунта?</string>
+    <string name="headset_remove_message_indicate">Все устройства, связанные с аккаунтом Xiaomi, будут удалены</string>
     <string name="headset_settings_title">Звуковые эффекты</string>
+    <string name="headset_unsaved_device">Удалить устройство</string>
+    <string name="headset_unsaved_devices">Не сохранять, подключить в аккаунте на другом устройстве</string>
     <string name="hearing_aids_category">Вспомогательные инструменты</string>
     <string name="heavy_weight_stop_description">Если закрыть это приложение, можно потерять несохраненные данные.</string>
     <string name="help_and_feedback_title">Сервисы и обратная связь</string>
@@ -4427,6 +4436,42 @@
     <string name="micloud_service_summary">Синхронизация списка приложений, резервное копирование настроек системы и рабочего стола</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Центральная область</string>
+    <string name="miheadet_up_music">выше</string>
+    <string name="miheadset_Box">Чехол</string>
+    <string name="miheadset_LeftEar">Левое ухо</string>
+    <string name="miheadset_RightEar">Правое ухо</string>
+    <string name="miheadset_active">активно</string>
+    <string name="miheadset_bright">яркость</string>
+    <string name="miheadset_call_assist">помощник вызовов</string>
+    <string name="miheadset_cancel_device">Отмена</string>
+    <string name="miheadset_checkUpdate">Проверка обновлений</string>
+    <string name="miheadset_closeAnc">Откл.</string>
+    <string name="miheadset_connectHeadsetForFw">Подключите наушники для просмотра версии прошивки</string>
+    <string name="miheadset_connect_play_music">Автовоспроизведение при подключении наушников</string>
+    <string name="miheadset_define_self">автоопределение</string>
+    <string name="miheadset_disconnect">Отключить</string>
+    <string name="miheadset_disconnect_device">Отключить устройство?</string>
+    <string name="miheadset_double_click_left">Дважды коснитесь левого наушника</string>
+    <string name="miheadset_double_click_right">Дважды коснитесь правого наушника</string>
+    <string name="miheadset_enhence_high">прибавить высокие частоты</string>
+    <string name="miheadset_enhence_low">прибавить низкие частоты</string>
+    <string name="miheadset_equalizer">Эквалайзер</string>
+    <string name="miheadset_formal">оставить</string>
+    <string name="miheadset_game_mode">Игровой режим</string>
+    <string name="miheadset_game_mode_summary">Уменьшение задержки звука во время игр</string>
+    <string name="miheadset_ignore">Удалить устройство</string>
+    <string name="miheadset_in_ear_check">Автоопределение</string>
+    <string name="miheadset_in_ear_check_summary">Автоматическая пауза и возобновление воспроизведения при снятии и надевании наушников или гарнитуры</string>
+    <string name="miheadset_last_version">Обновление не требуется</string>
+    <string name="miheadset_moreSettingsInAi">Дополнительные настройки</string>
+    <string name="miheadset_next">следующий</string>
+    <string name="miheadset_ok_device">ОК</string>
+    <string name="miheadset_openAnc">Шумоподавление</string>
+    <string name="miheadset_play_pause">воспроизведение/пауза</string>
+    <string name="miheadset_rename">Переименовать</string>
+    <string name="miheadset_rename_device">Переименовать</string>
+    <string name="miheadset_soft">мягкий</string>
+    <string name="miheadset_transparent">Прозрачность</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Разное</string>
     <string name="misc_files_selected_count">Выбрано: %1$d из %2$d</string>
@@ -4799,10 +4844,10 @@
     <string name="networks_title">Мобильные сети</string>
     <string name="never">Никогда</string>
     <string name="new_backup_pw_prompt">Введите новый пароль</string>
-    <string name="new_password_to_new_fingerprint_dialog_msg">Добавьте отпечаток пальца для разблокировки устройства с его помощью.</string>
+    <string name="new_password_to_new_fingerprint_dialog_msg">Добавьте отпечаток для разблокировки устройства</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Отмена</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Добавить</string>
-    <string name="new_password_to_new_fingerprint_dialog_tittle">Добавьте отпечаток пальца</string>
+    <string name="new_password_to_new_fingerprint_dialog_tittle">Добавление отпечатка</string>
     <string name="next_button_label">Далее</string>
     <string name="next_label">Далее</string>
     <string name="nfc_and_payment_settings_no_payment_installed_summary">Для использования сначала установите платежное приложение</string>
@@ -5640,7 +5685,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_title">Пароль конфиденциальности</string>
     <string name="privacy_password_toggle_summary">Запрашивать пароль при каждом доступе к приватным данным</string>
     <string name="privacy_password_transparent_tiltle" />
-    <string name="privacy_password_use_finger_dialog_mess">Вы можете использовать отпечаток пальца с паролем конфиденциальности</string>
+    <string name="privacy_password_use_finger_dialog_mess">Вы можете использовать отпечаток с паролем конфиденциальности</string>
     <string name="privacy_password_use_finger_dialog_open">Настройки</string>
     <string name="privacy_password_use_finger_dialog_title">Отпечаток</string>
     <string name="privacy_password_use_finger_success">Включено</string>
@@ -6091,7 +6136,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_paper_mode_global_summary">Включить режим чтения для всех приложений</string>
     <string name="screen_paper_mode_global_title">Все приложения</string>
     <string name="screen_paper_mode_hdr_toast">Режим чтения будет автоматически отключаться во время воспроизведения HDR-видео и включаться по окончанию.</string>
-    <string name="screen_paper_mode_hdr_toast_new">Режим чтения будет автоматически отключаться во время воспроизведения HDR-видео или проверки отпечатков пальцев и включаться по окончанию.</string>
+    <string name="screen_paper_mode_hdr_toast_new">Режим чтения будет автоматически отключаться во время воспроизведения HDR-видео или проверки отпечатков и включаться по окончанию.</string>
     <string name="screen_paper_mode_local_summary">Включение режима чтения для избранных приложений</string>
     <string name="screen_paper_mode_local_title">Избранные приложения</string>
     <string name="screen_paper_mode_off_apps_title">Отключить режим чтения</string>
@@ -6451,7 +6496,7 @@ UT-интерфейс: %5$s"</string>
     <string name="secondspace_category">Второе пространство</string>
     <string name="secondspace_delete_space_title">Удалить второе пространство</string>
     <string name="secspace_fod_finger_tips">Ошибка проверки. Повторите попытку.</string>
-    <string name="secspace_fod_finger_title">Подтвердите отпечаток пальца</string>
+    <string name="secspace_fod_finger_title">Подтвердите отпечаток</string>
     <string name="secspace_fod_use_password">Введите пароль</string>
     <string name="secure_keyguard_business_title">Защита устройства</string>
     <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надежность защиты зашифрованных данных может быть снижена.</string>
@@ -6564,24 +6609,24 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_enroll_dialog_delete">Удалить</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Название</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">ОК</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">Добавьте отпечаток пальца, чтобы только вы смогли разблокировать телефон, совершать покупки и открывать приложения. <annotation id="url">Подробнее…</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">Добавьте отпечаток, чтобы только вы смогли разблокировать телефон, совершать покупки и открывать приложения. <annotation id="url">Подробнее…</annotation></string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Настройка блокировки экрана отключена. За дополнительной информацией обращайтесь к администратору. "<annotation id="admin_details">Подробнее…</annotation>"
 
-Вы по-прежнему можете совершать покупки и открывать приложения с помощью отпечатка пальца. "<annotation id="url">Подробнее…</annotation></string>
+Вы по-прежнему можете совершать покупки и открывать приложения с помощью отпечатка. "<annotation id="url">Подробнее…</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Готово</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Позже</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Отпечаток не добавлен</string>
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Не удалось добавить отпечаток. Повторите попытку или попробуйте сохранить отпечаток другого пальца.</string>
     <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Превышен срок ожидания. Повторите попытку</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">На этом рисунке показано, где находится сканер</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message">Найдите сканер отпечатков пальцев на задней поверхности телефона.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Найдите сканер отпечатков на задней поверхности телефона.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Найдите сканер</string>
-    <string name="security_settings_fingerprint_enroll_finish_message">Этот значок сообщает, что вы можете подтверждать покупки и проходить идентификацию с помощью отпечатка пальца.</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Этот значок сообщает, что вы можете подтверждать покупки и проходить идентификацию с помощью отпечатка.</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Отпечаток добавлен!</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">Отмена</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Пропустить</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Продолжить</string>
-    <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Добавить отпечаток пальца</string>
+    <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Добавить отпечаток</string>
     <string name="security_settings_fingerprint_enroll_introduction_message">"Чтобы разблокировать телефон, подтвердить покупку или войти в приложение, приложите палец к сканеру отпечатков. Сохраните на устройстве отпечатки тех, кому вы доверяете, и они тоже смогут это делать.
 
 Учтите, что распознавание отпечатков защищает не так надежно, как графический ключ или PIN-код."</string>
@@ -6591,8 +6636,8 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Чтобы подтвердить покупку или войти в приложение, приложите палец к сканеру. Сохраните на устройстве отпечатки пользователей, которым доверяете, и они тоже смогут это делать.
 
 Помните, что сканер нельзя использовать для разблокировки этого устройства. За подробной информацией обратитесь к системному администратору."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">Сканер отпечатков пальцев</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Сканер отпечатков пальцев</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Сканер отпечатков</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Сканер отпечатков</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Поднимите палец и снова приложите его к сканеру</string>
     <string name="security_settings_fingerprint_enroll_repeat_message">Немного перемещайте палец, чтобы получить полный отпечаток.</string>
     <string name="security_settings_fingerprint_enroll_repeat_title">Нажмите ещё раз</string>
@@ -6600,9 +6645,9 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_enroll_start_message">Приложите палец к сканеру и удерживайте, пока не почувствуете вибрацию.</string>
     <string name="security_settings_fingerprint_enroll_start_title">Начало работы</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Он точно есть на устройстве. Найдите его!</string>
-    <string name="security_settings_fingerprint_enroll_touch_dialog_title">Мимо! Это не сканер отпечатков пальцев…</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_title">Мимо! Это не сканер отпечатков…</string>
     <string name="security_settings_fingerprint_preference_summary_none" />
-    <string name="security_settings_fingerprint_preference_title">Отпечатки пальцев</string>
+    <string name="security_settings_fingerprint_preference_title">Отпечатки</string>
     <string name="security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="security_settings_title">Безопасность</string>
     <string name="security_status">Состояние защиты</string>
@@ -6684,11 +6729,11 @@ UT-интерфейс: %5$s"</string>
     <string name="setup_choose_unlock_pattern">Графический ключ</string>
     <string name="setup_choose_unlock_pattern_title">Задайте графический ключ</string>
     <string name="setup_choose_unlock_type_title">Настройки защиты</string>
-    <string name="setup_fingerprint_enroll_enrolling_skip_message">Для разблокировки телефона вы выбрали сканирование отпечатка пальца. Настройка займет около минуты. Если вы пропустите ее сейчас, вам все равно придется сделать это позже.</string>
-    <string name="setup_fingerprint_enroll_enrolling_skip_title">Не настраивать доступ по отпечаткам?</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message">Вы выбрали разблокировку отпечатком. Настройка займет около минуты. Если вы пропустите ее сейчас, вам все равно придется сделать это позже.</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_title">Пропустить добавление отпечатков?</string>
     <string name="setup_fingerprint_enroll_finish_message">Чтобы разблокировать устройство, приложите палец к сканеру.</string>
     <string name="setup_fingerprint_enroll_finish_message_secondary">Этот значок означает, что вы можете подтверждать покупки и входить в приложения.</string>
-    <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">Добавление отпечатков пальцев занимает 1 или 2 минуты. Вы можете добавить их позже в настройках.</string>
+    <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">Добавление отпечатков занимает 1-2 минуты. Вы можете добавить их позже в настройках.</string>
     <string name="setup_fingerprint_enroll_skip_title">Пропустить добавление отпечатков?</string>
     <string name="setup_lock_settings_options_button_label">Параметры блокировки экрана</string>
     <string name="setup_lock_settings_options_dialog_title">Параметры блокировки экрана</string>
@@ -7304,11 +7349,11 @@ UT-интерфейс: %5$s"</string>
     <string name="sud_more_button_label">Еще</string>
     <string name="sud_next_button_label">Далее</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Совместимы с полноэкранным режимом</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Разблокируйте устройство с помощью отпечатка пальца</string>
-    <string name="suggested_fingerprint_lock_settings_title">Используйте отпечаток пальца</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Разблокируйте устройство с помощью отпечатка</string>
+    <string name="suggested_fingerprint_lock_settings_title">Используйте отпечаток</string>
     <string name="suggested_lock_settings_summary">Защитите устройство</string>
     <string name="suggested_lock_settings_title">Блокировка экрана</string>
-    <string name="suggestion_additional_fingerprints">Добавьте ещё один отпечаток</string>
+    <string name="suggestion_additional_fingerprints">Дополнительный отпечаток</string>
     <string name="suggestion_additional_fingerprints_summary">Добавьте отпечаток другого пальца</string>
     <string name="suggestion_button_close">Закрыть</string>
     <string name="suggestion_button_text">ОК</string>
@@ -7592,8 +7637,8 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_off_keyguard_password_title">Отключить блокировку экрана</string>
     <string name="turn_off_keyguard_password_wait_dialog">Отключение защиты…</string>
     <string name="turn_off_keyguard_password_with_face_confirm_msg">После отключения защиты все данные лица будут удалены. Вы не сможете разблокировать устройство по лицу.</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">После отключения защиты все отпечатки пальцев будут удалены. Вы не сможете разблокировать устройство с помощью отпечатка пальца.</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">После отключения защиты все отпечатки пальцев и данные лица будут удалены. Вы не сможете разблокировать устройство по лицу или с помощью отпечатка пальца.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">После отключения защиты все отпечатки будут удалены. Вы не сможете разблокировать устройство с помощью отпечатка.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">После отключения защиты все отпечатки и данные лица будут удалены. Вы не сможете разблокировать устройство по лицу или с помощью отпечатка.</string>
     <string name="turn_off_security_lock">Отключение защиты</string>
     <string name="turn_on_keyguard_password">Включить защиту</string>
     <string name="turn_on_keyguard_password_alert">Запомните свой пароль. Если вы его забудете, то не сможете восстановить.</string>
@@ -7633,35 +7678,35 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_disable_frp_warning_content_password">Без пароля не будет работать защита устройства.</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Без пароля не будет работать защита устройства.
 
-Сохраненные отпечатки пальцев будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
+Сохраненные отпечатки будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Без пароля защита профиля работать не будет.
 
-Сохраненные отпечатки пальцев также перестанут действовать: вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
+Сохраненные отпечатки также перестанут действовать: вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_password_profile">Без пароля защита профиля работать не будет.</string>
     <string name="unlock_disable_frp_warning_content_pattern">Без графического ключа не будет работать защита устройства.</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Без графического ключа не будет работать защита устройства.
 
-Сохраненные отпечатки пальцев будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
+Сохраненные отпечатки будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Без графического ключа защита профиля работать не будет.
 
-Сохраненные отпечатки пальцев также будут удалены: вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
+Сохраненные отпечатки также будут удалены: вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_pattern_profile">Без графического ключа защита профиля работать не будет.</string>
     <string name="unlock_disable_frp_warning_content_pin">Без PIN-кода не будет работать защита устройства.</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Без PIN-кода не будет работать защита устройства.
 
-Сохраненные отпечатки пальцев будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
+Сохраненные отпечатки будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Без PIN-кода защита профиля работать не будет.
 
-Сохраненные отпечатки пальцев также будут удалены: вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
+Сохраненные отпечатки также будут удалены: вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Без PIN-кода защита профиля работать не будет.</string>
     <string name="unlock_disable_frp_warning_content_profile">После отключения блокировки экрана функции защиты профиля работать не будут.</string>
     <string name="unlock_disable_frp_warning_content_unknown">Без блокировки экрана не будет работать защита устройства.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Без блокировки экрана не будет работать защита устройства.
 
-Сохраненные отпечатки пальцев будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
+Сохраненные отпечатки будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Без блокировки экрана защита профиля работать не будет.
 	
-Сохраненные отпечатки пальцев будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
+Сохраненные отпечатки будут удалены, поэтому вы больше не сможете снимать блокировку, совершать покупки и входить в приложения с их помощью."</string>
     <string name="unlock_disable_frp_warning_content_unknown_profile">Без блокировки экрана защита профиля работать не будет.</string>
     <string name="unlock_disable_frp_warning_ok">Да, отключить</string>
     <string name="unlock_disable_frp_warning_title">Отключить защиту устройства?</string>
@@ -7704,7 +7749,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_pin_summary">Введите от %1$d до %2$d цифр</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
-    <string name="unlock_setup_wizard_fingerprint_details">После включения блокировки экрана, перейдите \"Настройки > Пароли и безопасность\", чтобы добавить отпечаток пальца.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">После включения блокировки экрана, перейдите \"Настройки > Пароли и безопасность\", чтобы добавить отпечаток.</string>
     <string name="unlock_type_category_title">Метод распознавания</string>
     <string name="unlogin_account_summary">Все Mi сервисы. Один Mi Аккаунт</string>
     <string name="unlogin_account_title">Вход в Mi Аккаунт</string>
@@ -8564,7 +8609,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_hotspot_footer_info_regular">Создайте сеть Wi-Fi, включив точку доступа, чтобы другие устройства могли использовать мобильный интернет. За трафик может взиматься дополнительная плата.</string>
     <string name="wifi_hotspot_message">%1$s требует входа в аккаунт, чтобы подключить устройство к сети.</string>
     <string name="wifi_hotspot_name_summary_connected">Другие устройства могут подключаться к %1$s</string>
-    <string name="wifi_hotspot_name_summary_connecting">Включение %1$s...</string>
+    <string name="wifi_hotspot_name_summary_connecting">Включение %1$s…</string>
     <string name="wifi_hotspot_name_title">Имя точки доступа</string>
     <string name="wifi_hotspot_no_password_subtext">Пароль не задан</string>
     <string name="wifi_hotspot_off_subtext">Нет доступа к интернет-подключению через точку доступа</string>
