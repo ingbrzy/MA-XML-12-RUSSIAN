@@ -547,7 +547,7 @@
     <string name="document_provider_guide_step_1">1. Нажмите кнопку \"Еще\".</string>
     <string name="document_provider_guide_step_2">2. Нажмите \"Показать внутреннюю память\".</string>
     <string name="document_provider_guide_step_3">3. Нажмите кнопку бокового меню.</string>
-    <string name="document_provider_guide_step_4">4. Выберите \"SD карта\".</string>
+    <string name="document_provider_guide_step_4">4. Выберите \"SD-карта\".</string>
     <string name="document_provider_guide_step_5">5. Нажмите \"Выбрать\".</string>
     <string name="double_tap_for_hr_preview_108m">Нажмите дважды еще раз для предпросмотра 108MP</string>
     <string name="double_tap_to_higher_definition">Нажмите дважды для просмотра в HD</string>
@@ -633,7 +633,7 @@
     <string name="error_download_tip">Ошибка загрузки</string>
     <string name="error_external_sdcard_write_action">Сменить хранилище</string>
     <string name="error_external_sdcard_write_msg">Перейдите в Настройки &gt; Хранилище, смените хранилище и повторите попытку.</string>
-    <string name="error_external_sdcard_write_tip">Невозможно сохранить на SD карту.</string>
+    <string name="error_external_sdcard_write_tip">Невозможно сохранить на SD-карту.</string>
     <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi Аккаунтом.</string>
     <string name="error_install_connect_fail">Не удалось загрузить плагин. Проверьте подключение к сети.</string>
     <string name="error_install_sdcard_not_available">Не удалось загрузить плагин из-за ошибки SD-карты.</string>
@@ -695,12 +695,12 @@
     <string name="ext_sdcard_first_entrance_request_failed_title">Не удалось дать разрешения.</string>
     <string name="ext_sdcard_guide_first_page_button_text">Далее</string>
     <string name="ext_sdcard_guide_last_page_button_text">Дать разрешения</string>
-    <string name="ext_sdcard_guide_text">Галерее требуется разрешение на доступ к SD карте. Вот что вы можете сделать:</string>
-    <string name="ext_sdcard_operation_failed_text">Галерее требуется разрешение на доступ к SD карте.</string>
+    <string name="ext_sdcard_guide_text">Галерее требуется доступ к SD-карте. Варианты действий:</string>
+    <string name="ext_sdcard_operation_failed_text">Галерее требуется доступ к SD-карте.</string>
     <string name="ext_sdcard_operation_failed_title">Не удалось завершить операцию</string>
     <string name="ext_sdcard_permission_request_button_text">Понятно</string>
-    <string name="ext_sdcard_permission_request_reason">Галерее требуется разрешение на доступ к SD карте. Это позволит вам удалять и редактировать фото и видео, хранящиеся на SD карте.</string>
-    <string name="ext_sdcard_permission_request_title">Разрешите Галерее доступ к SD карте</string>
+    <string name="ext_sdcard_permission_request_reason">Галерее требуется доступ к SD-карте. Это позволит вам удалять и редактировать фото и видео, хранящиеся на SD-карте.</string>
+    <string name="ext_sdcard_permission_request_title">Предоставьте Галерее доступ к SD-карте</string>
     <string name="ext_sdcard_request_failed_button_text">OK</string>
     <string name="ext_sdcard_request_succeed_toast_text">Всё готово!</string>
     <string name="face_album_empty">"Недостаточно фото для распознавания лиц.
@@ -1916,7 +1916,7 @@
     <string name="sticker_summer">Лето</string>
     <string name="sticker_words">Слова</string>
     <string name="storage_description_primary">Внутренняя память</string>
-    <string name="storage_description_sdcard">SD карта</string>
+    <string name="storage_description_sdcard">SD-карта</string>
     <string name="storage_description_usb">USB накопитель</string>
     <string name="storage_description_xspace">Данные клонов</string>
     <string name="storage_no_space">Недостаточно места</string>

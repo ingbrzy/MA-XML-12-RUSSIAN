@@ -420,23 +420,23 @@
         <item quantity="few">Разряд %2$d%% за последние %1$d минуты</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d приложений, включая %1$s, разряжают батарею</item>
-        <item quantity="one">%2$d приложение, включая %1$s, разряжают батарею</item>
-        <item quantity="few">%2$d приложения, включая %1$s, разряжают батарею</item>
+        <item quantity="other">%2$d приложений, включая %1$s, расходуют заряд</item>
+        <item quantity="one">%2$d приложение, включая %1$s, расходуют заряд</item>
+        <item quantity="few">%2$d приложения, включая %1$s, расходуют заряд</item>
     </plurals>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Удалить %d APK</item>
         <item quantity="one">Удалить %d APK</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d проблем с энергопотреблением</item>
-        <item quantity="one">%d проблема с энергопотреблением</item>
-        <item quantity="few">%d проблемы с энергопотреблением</item>
+        <item quantity="other">%d проблем с питанием</item>
+        <item quantity="one">%d проблема с питанием</item>
+        <item quantity="few">%d проблемы с питанием</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
-        <item quantity="other">Оптимизируйте %d объектов для экономии заряда</item>
-        <item quantity="one">Оптимизируйте %d объект для экономии заряда</item>
-        <item quantity="few">Оптимизируйте %d объекта для экономии заряда</item>
+        <item quantity="other">Оптимизируйте %d пунктов для экономии заряда</item>
+        <item quantity="one">Оптимизируйте %d пункт для экономии заряда</item>
+        <item quantity="few">Оптимизируйте %d пункта для экономии заряда</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d дней с момента последней проверки</item>
@@ -483,9 +483,9 @@
         <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d приложений разряжают батарею</item>
-        <item quantity="one">%d приложение разряжают батарею</item>
-        <item quantity="few">%d приложения разряжают батарею</item>
+        <item quantity="other">%d приложений расходуют заряд</item>
+        <item quantity="one">%d приложение расходует заряд</item>
+        <item quantity="few">%d приложения расходуют заряд</item>
     </plurals>
     <plurals name="pc_battery_history_hour">
         <item quantity="other">" ч."</item>
@@ -574,9 +574,9 @@
         <item quantity="few">раза</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d проблем с расходом заряда</item>
-        <item quantity="one">%d проблема с расходом заряда</item>
-        <item quantity="few">%d проблемы с расходом заряда</item>
+        <item quantity="other">%d проблем с питанием</item>
+        <item quantity="one">%d проблема с питанием</item>
+        <item quantity="few">%d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d д. "</item>
@@ -603,19 +603,19 @@
         <item quantity="one">"%d мин. "</item>
     </plurals>
     <plurals name="power_center_battery_problem">
-        <item quantity="other">Исправить %d проблем с расходом заряда</item>
-        <item quantity="one">Исправить %d проблему с расходом заряда</item>
-        <item quantity="few">Исправить %d проблемы с расходом заряда</item>
+        <item quantity="other">Исправить %d проблем с питанием</item>
+        <item quantity="one">Исправить %d проблему с питанием</item>
+        <item quantity="few">Исправить %d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Можно исправить %d проблем с расходом заряда</item>
-        <item quantity="one">Можно исправить %d проблему с расходом заряда</item>
-        <item quantity="few">Можно исправить %d проблемы с расходом заряда</item>
+        <item quantity="other">Можно исправить %d проблем с питанием</item>
+        <item quantity="one">Можно исправить %d проблему с питанием</item>
+        <item quantity="few">Можно исправить %d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
-        <item quantity="other">" можно оптимизировать %d объектов"</item>
-        <item quantity="one">" можно оптимизировать %d объект"</item>
-        <item quantity="few">" можно оптимизировать %d объекта"</item>
+        <item quantity="other">" %d пунктов можно оптимизировать"</item>
+        <item quantity="one">" %d пункт можно оптимизировать"</item>
+        <item quantity="few">" %d пункта можно оптимизировать"</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
         <item quantity="other">Оптимизируйте %d объектов для экономии заряда</item>
@@ -674,9 +674,9 @@
         <item quantity="few">%d приложения часто используют автозапуск</item>
     </plurals>
     <plurals name="power_optimize_close_app_summary">
-        <item quantity="other">%d приложений разряжают батарею</item>
-        <item quantity="one">%d приложение разряжает батарею</item>
-        <item quantity="few">%d приложения разряжают батарею</item>
+        <item quantity="other">%d приложений расходуют заряд</item>
+        <item quantity="one">%d приложение расходует заряд</item>
+        <item quantity="few">%d приложения расходуют заряд</item>
     </plurals>
     <plurals name="pp_times">
         <item quantity="other">%s раз</item>

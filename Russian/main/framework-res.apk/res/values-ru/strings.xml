@@ -1249,7 +1249,7 @@
     <string name="notification_channel_device_admin">Управление устройством</string>
     <string name="notification_channel_do_not_disturb">Режим \"Не беспокоить\"</string>
     <string name="notification_channel_emergency_callback">Режим экстренных вызовов</string>
-    <string name="notification_channel_foreground_service">Расход заряда батареи</string>
+    <string name="notification_channel_foreground_service">Расход батареи</string>
     <string name="notification_channel_heavy_weight_app">Приложение запущено</string>
     <string name="notification_channel_mobile_data_status">Состояние мобильного Интернета</string>
     <string name="notification_channel_network_alert">Оповещения</string>
@@ -1314,7 +1314,7 @@
     <string name="permdesc_accessBackgroundLocation">Приложение сможет получить доступ к местоположению в фоновом режиме.</string>
     <string name="permdesc_accessCoarseLocation">Приложение сможет получать сведения о вашем местоположении от сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геоданные.</string>
     <string name="permdesc_accessDrmCertificates">Приложение сможет синхронизировать и использовать сертификаты DRM (разрешение актуально только для специальных приложений).</string>
-    <string name="permdesc_accessFineLocation">Приложение сможет получать сведения о вашем местоположении от GPS-датчика или сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геоданные. Может увеличиться расход заряда батареи.</string>
+    <string name="permdesc_accessFineLocation">Приложение сможет получать сведения о вашем местоположении от GPS-датчика или сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геоданные. Это может увеличить расход батареи.</string>
     <string name="permdesc_accessImsCallService">Приложение сможет совершать звонки с помощью службы IMS без вашего вмешательства.</string>
     <string name="permdesc_accessLocationExtraCommands">Доступ к дополнительным командам управления источниками геоданных и вмешательство в работу системы GPS или других источников геоданных.</string>
     <string name="permdesc_accessNetworkConditions">Приложение сможет использовать данные о состоянии сети. Это разрешение обычно используется только специальными приложениями.</string>
@@ -1398,11 +1398,11 @@
     <string name="permdesc_removeDrmCertificates">Удаление сертификатов DRM. Большинству приложений это разрешение не требуется.</string>
     <string name="permdesc_reorderTasks">Приложение сможет переключать активный и фоновый режимы выполнения задач без вашего ведома.</string>
     <string name="permdesc_requestDeletePackages">Приложение сможет запрашивать разрешения на удаление пакетов.</string>
-    <string name="permdesc_requestIgnoreBatteryOptimizations">Разрешает приложению игнорировать ограничение на расход заряда батареи.</string>
+    <string name="permdesc_requestIgnoreBatteryOptimizations">Разрешает приложению игнорировать ограничение на расход батареи.</string>
     <string name="permdesc_requestInstallPackages">Приложение сможет запрашивать разрешения на установку пакетов.</string>
     <string name="permdesc_requestPasswordComplexity">Приложение сможет узнавать уровень сложности (высокий, средний, низкий или нет) и тип блокировки экрана, длину пароля, а также предлагать изменение уровня сложности, с возможностью игнорирования этого действия. Пароль не хранится в открытом виде и не доступен приложению.</string>
     <string name="permdesc_route_media_output">Приложение сможет направлять поток мультимедиа на другие внешние устройства.</string>
-    <string name="permdesc_runInBackground">Приложению разрешено работать в фоновом режиме. Заряд батареи может расходоваться быстрее.</string>
+    <string name="permdesc_runInBackground">Приложению разрешено работать в фоновом режиме. Батарея может расходоваться быстрее.</string>
     <string name="permdesc_sdcardRead">Приложение сможет считывать данные на SD-карте.</string>
     <string name="permdesc_sdcardWrite">Приложение сможет записывать данные на SD-карту.</string>
     <string name="permdesc_sendSms">Приложение сможет отправлять SMS. Учтите, что вредоносные программы смогут отправлять сообщения без уведомления, что может привести к непредвиденным расходам.</string>

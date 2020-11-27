@@ -132,7 +132,7 @@
 Включите эту функцию и нажмите иконку человечка на панели экранных кнопок."</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
     <string name="accessibility_menu_service_name">Дополнительные ярлыки</string>
-    <string name="accessibility_menu_summary">Дополнительные ярлыки для управления устройством</string>
+    <string name="accessibility_menu_summary">Доступ к дополнительным ярлыкам управления устройством на панели экранных кнопок</string>
     <string name="accessibility_more_settings">Дополнительные настройки</string>
     <string name="accessibility_no_service_selected">Сервис не выбран</string>
     <string name="accessibility_no_services_installed">Сервисы не установлены</string>
@@ -888,23 +888,23 @@
     <string name="battery_auto_restriction_title">Менеджер батареи</string>
     <string name="battery_desc_apps">Использование батареи приложением</string>
     <string name="battery_desc_bluetooth">Использование батареи модулем Bluetooth</string>
-    <string name="battery_desc_camera">Заряд батареи, израсходованный камерой</string>
+    <string name="battery_desc_camera">Расход батареи камерой</string>
     <string name="battery_desc_display">Использование батареи для подсветки экрана</string>
-    <string name="battery_desc_flashlight">Заряд батареи, израсходованный на вспышку</string>
+    <string name="battery_desc_flashlight">Расход батареи на вспышку</string>
     <string name="battery_desc_overcounted">Преувеличенное энергопотребление</string>
-    <string name="battery_desc_radio">Расход заряда батареи на поддержание связи с сетью в режиме ожидания</string>
-    <string name="battery_desc_standby">Расход заряда батареи в режиме ожидания</string>
-    <string name="battery_desc_unaccounted">Неучтенный расход заряда батареи</string>
+    <string name="battery_desc_radio">Расход батареи на поддержание связи с сетью в режиме ожидания</string>
+    <string name="battery_desc_standby">Расход батареи в режиме ожидания</string>
+    <string name="battery_desc_unaccounted">Неучтенный расход батареи</string>
     <string name="battery_desc_users">Использование батареи пользователем</string>
     <string name="battery_desc_voice">Использование батареи для голосовых вызовов</string>
     <string name="battery_desc_wifi">Потребление модулем Wi-Fi</string>
     <string name="battery_detail_background">В фоновом режиме</string>
     <string name="battery_detail_foreground">В активном режиме</string>
     <string name="battery_detail_info_title">С момента полной зарядки</string>
-    <string name="battery_detail_manage_title">Управление расходом заряда батареи</string>
-    <string name="battery_detail_power_usage">Расход заряда батареи</string>
+    <string name="battery_detail_manage_title">Управление питанием</string>
+    <string name="battery_detail_power_usage">Расход батареи</string>
     <string name="battery_detail_since_full_charge">Использование с момента полной зарядки</string>
-    <string name="battery_details_title">Расход заряда батареи</string>
+    <string name="battery_details_title">Расход батареи</string>
     <string name="battery_footer_summary">Оставшееся время работы указано приблизительно и может меняться в зависимости от интенсивности использования</string>
     <string name="battery_full_charge_last">Полная зарядка длится около</string>
     <string name="battery_header_title_alternate">^1&lt;small&gt; &lt;font size="20"&gt;%&lt;/font&gt;&lt;/small&gt;</string>
@@ -956,7 +956,7 @@
     <string name="battery_manager_off">ОТКЛ.</string>
     <string name="battery_manager_on">ВКЛ. / Контроль разряда батареи</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="battery_msg_unaccounted">Данные о расходе заряда батареи отдельными приложениями являются приблизительными и не включают всех возможных потребителей энергии. Этот показатель энергопотребления соответствует разнице между расчетным энергопотреблением и фактическим расходом заряда батареи.</string>
+    <string name="battery_msg_unaccounted">Данные о расходе заряда батареи отдельными приложениями являются приблизительными и не включают все возможные потребители энергии. Этот показатель соответствует разнице между расчетным энергопотреблением и фактическим расходом заряда батареи.</string>
     <string name="battery_overall_usage">%1$s заряда батареи</string>
     <string name="battery_percentage">Уровень заряда батареи</string>
     <string name="battery_percentage_description">Показывать уровень заряда батареи в строке состояния</string>
@@ -988,8 +988,8 @@
     <string name="battery_screen_usage">Использование экрана: ^1</string>
     <string name="battery_settings">Батарея</string>
     <string name="battery_settings_title">Батарея</string>
-    <string name="battery_since_reset">Расход заряда батареи с момента перезагрузки</string>
-    <string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
+    <string name="battery_since_reset">Расход батареи с момента перезагрузки</string>
+    <string name="battery_since_unplugged">Расход батареи с момента отключения от сети питания</string>
     <string name="battery_stats_camera_on_label">Камера включена</string>
     <string name="battery_stats_charging_label">Зарядка батареи</string>
     <string name="battery_stats_duration">%1$s с момента отключения от питания</string>
@@ -2389,7 +2389,7 @@
     <string name="device_screen_resolution">Разрешение экрана</string>
     <string name="device_screen_size">Экран</string>
     <string name="device_screen_usage">Использование экрана с момента полной зарядки</string>
-    <string name="device_sd_memory">SD карта</string>
+    <string name="device_sd_memory">SD-карта</string>
     <string name="device_share_loading">Создание изображения…</string>
     <string name="device_status">Общая информация</string>
     <string name="device_status_activity_title">Общая информация</string>
@@ -2830,8 +2830,8 @@
     <string name="erase_optional">Очистка по желанию</string>
     <string name="erase_personal_data">Все файлы на телефоне</string>
     <string name="erase_personal_data_description">Все файлы и данные, включая аккаунты, контакты, фото и приложения</string>
-    <string name="erase_sd_data">Очистка SD карты</string>
-    <string name="erase_sd_data_description">Будут удалены все файлы и данные с SD карты</string>
+    <string name="erase_sd_data">Очистка SD-карты</string>
+    <string name="erase_sd_data_description">Будут удалены все файлы и данные с SD-карты</string>
     <string name="erase_sure">Принудительная очистка</string>
     <string name="error_adding_apn_type">Оператор запретил добавление точки доступа этого типа (%s).</string>
     <string name="error_apn_empty">Необходимо указать APN</string>
@@ -2894,7 +2894,7 @@
     <string name="face_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
     <string name="face_unlock">Сканер лица</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
-    <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включается при уведомлениях. Возможен повышенный расход заряда батареи.</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включается при уведомлениях. Возможен повышенный расход батареи.</string>
     <string name="face_unlock_by_notification_screen_on_title">Разблокировка при уведомлениях</string>
     <string name="face_unlock_category_title">Параметры экрана блокировки</string>
     <string name="face_unlock_check_failed">Не удалось распознать</string>
@@ -3447,7 +3447,7 @@
     <string name="high_power_filter_on">Не экономят заряд</string>
     <string name="high_power_off">Экономия заряда включена</string>
     <string name="high_power_on">Не экономит заряд</string>
-    <string name="high_power_prompt_body">"Если приложение \"%1$s\" сможет запускаться в фоновом режиме, это увеличит расход заряда батареи.
+    <string name="high_power_prompt_body">"Если приложение \"%1$s\" сможет запускаться в фоновом режиме, это увеличит расход батареи.
     
 Эту функцию можно отключить в \"Настройки > Приложения и уведомления\"."</string>
     <string name="high_power_prompt_title">Разрешить приложению запуск в фоновом режиме?</string>
@@ -3511,7 +3511,7 @@
     <string name="ignore_optimizations_off_desc">Рекомендуется для увеличения времени работы устройства от батареи.</string>
     <string name="ignore_optimizations_on">Не экономить</string>
     <string name="ignore_optimizations_on_desc">Батарея может разрядиться быстрее.</string>
-    <string name="ignore_optimizations_title">Не ограничивать расход заряда батареи в приложении \"%s\"?</string>
+    <string name="ignore_optimizations_title">Не ограничивать расход батареи приложением \"%s\"?</string>
     <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
     <string name="ime_security_warning_global">Методы ввода могут собирать весь вводимый вами текст, включая такие личные данные, как пароли и номера кредитных карт. Использовать %1$s?</string>
     <string name="ime_security_warning_title_global">Включение клавиатуры</string>
@@ -3715,7 +3715,7 @@
     <string name="keywords_assist_input">по умолчанию, ассистент</string>
     <string name="keywords_auto_rotate">Поворот;Поворот экрана;Ориентация;Ориентация экрана;Книжная ориентация;Альбомная ориентация;вертикальный;горизонтальный</string>
     <string name="keywords_backup">создать резервную копию</string>
-    <string name="keywords_battery">расход заряда батареи, зарядка</string>
+    <string name="keywords_battery">расход батареи, расход заряда, батарея, зарядка</string>
     <string name="keywords_battery_saver_schedule">программа, расписание, энергосбережение, экономия заряда, батарея, автоматически, процент</string>
     <string name="keywords_battery_saver_sticky">энергосбережение, экономия заряда, батарея</string>
     <string name="keywords_bluetooth">Bluetooth;bluetooth;блютус</string>
@@ -3975,8 +3975,8 @@
     <string name="location_category_recent_location_access">Недавний доступ</string>
     <string name="location_category_recent_location_requests">Недавние запросы</string>
     <string name="location_gps">По спутникам GPS</string>
-    <string name="location_high_battery_use">Высокий расход заряда батареи</string>
-    <string name="location_low_battery_use">Низкий расход заряда батареи</string>
+    <string name="location_high_battery_use">Высокий расход батареи</string>
+    <string name="location_low_battery_use">Низкий расход батареи</string>
     <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильную сеть для определения местоположения</string>
     <string name="location_mode_battery_saving_title">По координатам сети</string>
     <string name="location_mode_high_accuracy_description">Использовать GPS, Wi-Fi и мобильную сеть для определения местоположения</string>
@@ -4031,7 +4031,7 @@
     <string name="lock_profile_wipe_warning_content_password">Если вы неправильно введете пароль, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Если вы неправильно введете графический ключ, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_profile_wipe_warning_content_pin">Если вы неправильно введете PIN-код, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
-    <string name="lock_screen_action">Элементы управления на экране блокировки</string>
+    <string name="lock_screen_action">Доступ на экране блокировки</string>
     <string name="lock_screen_display_category_name">Экран блокировки</string>
     <string name="lock_screen_intro_skip_dialog_text">Защита устройства не будет активирована. Если телефон потеряется или его украдут, им смогут воспользоваться посторонние.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Защита устройства не будет включена. Если телефон будет потерян или украден либо все его данные будут удалены, его смогут использовать посторонние лица.</string>
@@ -5331,7 +5331,7 @@ OTG отключается автоматически через 10 минут �
     <string name="password_turned_on_text">Защита включена</string>
     <string name="password_unlock_title">Защита</string>
     <string name="payment_summary">По умолчанию: %1$s</string>
-    <string name="peak_refresh_rate_summary">Автоматически увеличивать частоту обновления экрана с 60 до 90 Гц для некоторого контента. Увеличивает расход заряда батареи.</string>
+    <string name="peak_refresh_rate_summary">Автоматически увеличивать частоту обновления экрана с 60 до 90 Гц для некоторого контента. Увеличивает расход батареи.</string>
     <string name="peak_refresh_rate_title">Плавный экран</string>
     <string name="peek_notification_icon_title">Значки уведомлений</string>
     <string name="performance_category">Производительность</string>
@@ -5614,7 +5614,7 @@ OTG отключается автоматически через 10 минут �
     <string name="printer_info_desc">Подробные сведения о принтере</string>
     <string name="priority_conversation_count_zero">Приоритетных диалогов нет</string>
     <string name="priority_storage_app_settings">Данные приложения %1$s</string>
-    <string name="priority_storage_settings_summary">При отсутствии SD карты данные будут автоматически сохраняться во внутреннюю память</string>
+    <string name="priority_storage_settings_summary">При отсутствии SD-карты данные будут автоматически сохраняться во внутреннюю память</string>
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
     <string name="priority_storage_title">Данные приложений</string>
     <string name="priority_summary">Показывать уведомления в начале списка</string>
@@ -6113,7 +6113,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_locking_sounds_title">Звук блокировки экрана</string>
     <string name="screen_max_aspect_ratio_desc">Разрешить выбранным приложениям работать в полноэкранном режиме</string>
     <string name="screen_max_aspect_ratio_title">Полноэкранный режим</string>
-    <string name="screen_monochrome_mode_apps_loading">Секунду…</string>
+    <string name="screen_monochrome_mode_apps_loading">Подождите…</string>
     <string name="screen_monochrome_mode_apps_title">Использовать монохромный режим</string>
     <string name="screen_monochrome_mode_global_summary">Использовать монохромный режим для всех приложений</string>
     <string name="screen_monochrome_mode_global_title">Все приложения</string>
@@ -6130,7 +6130,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_optimize">Контрастность</string>
     <string name="screen_optimize_disabled">Настройка в режиме чтения недоступна</string>
     <string name="screen_paper_mode_adjust_level">Уровень</string>
-    <string name="screen_paper_mode_apps_loading">Секунду…</string>
+    <string name="screen_paper_mode_apps_loading">Подождите…</string>
     <string name="screen_paper_mode_apps_title">Режим чтения</string>
     <string name="screen_paper_mode_description">Режим чтения регулирует цвета и текстуру на экране, позволяет глазам расслабиться</string>
     <string name="screen_paper_mode_global_summary">Включить режим чтения для всех приложений</string>
@@ -6190,7 +6190,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_pinning_unlock_pin">PIN-код для отключения</string>
     <string name="screen_projection">Трансляция</string>
     <string name="screen_projection_characteristics">Специальные функции</string>
-    <string name="screen_projection_characteristics_off_screen_summary">Трансляция с выключенным экраном уменьшает расход заряда батареи.</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Трансляция с выключенным экраном уменьшает расход батареи.</string>
     <string name="screen_projection_characteristics_off_screen_title">Трансляция с выключенным экраном</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">Запрет отображения всплывающих уведомлений, входящих вызовов и другой личной информации на внешнем мониторе.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Скрытие личной информации</string>
@@ -6337,7 +6337,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_cloud_restore_section_title">Восстановление из Xiaomi Cloud;Xiaomi Cloud;Облачные бэкапы</string>
     <string name="search_connection_and_sharing">Дополнительные функции;Беспроводной</string>
     <string name="search_copyright_title">Авторские права</string>
-    <string name="search_credentials_install">Установка с SD карты;Прямая установка;Установить APK</string>
+    <string name="search_credentials_install">Установка с SD-карты;Прямая установка;Установить APK</string>
     <string name="search_date_and_time_settings_title">Дата и время;Дата и время;Дата;Время</string>
     <string name="search_description">Настройки поиска</string>
     <string name="search_development_settings_title">Для разработчиков;Помощь</string>
@@ -7059,9 +7059,9 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_carrier_settings_no_sim_card">Нет SIM-карты</string>
     <string name="status_bar_key_position_custom">Изменить положение кнопок</string>
     <string name="status_bar_settings">Уведомления</string>
-    <string name="status_bar_settings_all_app_display_loading">Секунду…</string>
+    <string name="status_bar_settings_all_app_display_loading">Подождите…</string>
     <string name="status_bar_settings_manage_notification">Уведомления приложений</string>
-    <string name="status_bar_settings_notification_bar">Панель уведомлений</string>
+    <string name="status_bar_settings_notification_bar">Шторка уведомлений</string>
     <string name="status_bar_settings_notification_use_app_icon">Использовать иконки приложений</string>
     <string name="status_bar_settings_qs_layout">Вид сетки переключателей</string>
     <string name="status_bar_settings_show_lte_for_4g">Показывать LTE вместо 4G</string>
@@ -8926,7 +8926,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wapi_cert_delet_subdir">Выберите папку сертификата</string>
     <string name="wifi_wapi_cert_install">Установка сертификата WAPI</string>
     <string name="wifi_wapi_cert_install_button">Установить</string>
-    <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD карта не содержит AS сертификатов.</string>
+    <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD-карта не содержит AS сертификатов.</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неверный формат сертификата</string>
     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Не удалось создать папку.</string>

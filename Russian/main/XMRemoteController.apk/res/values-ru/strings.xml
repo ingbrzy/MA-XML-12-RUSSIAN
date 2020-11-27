@@ -195,7 +195,7 @@
     <string name="disagree_confirm">ОК</string>
     <string name="disagree_legal_terms_warning">После отмены авторизации некоторые важные функции могут стать недоступными. Отменить авторизацию?</string>
     <string name="download_assistant">Трансляция на экран</string>
-    <string name="download_path_fail">Не удалось загрузить. Проверьте SD карту или USB накопитель.</string>
+    <string name="download_path_fail">Не удалось загрузить. Проверьте SD-карту или USB накопитель.</string>
     <string name="download_times">Загрузок: %1$d</string>
     <string name="downloading">Загрузка…</string>
     <string name="dpad_down">Вниз</string>
@@ -395,11 +395,11 @@
     <string name="less_than_10m">&lt;10 м</string>
     <string name="living_room">Гостиная</string>
     <string name="loading_brand">Получение данных…</string>
-    <string name="loading_brand_info">Секунду…</string>
-    <string name="loading_device_type_info">Секунду…</string>
-    <string name="loading_get">Секунду…</string>
-    <string name="loading_hint">Секунду…</string>
-    <string name="loading_ir_data">Секунду…</string>
+    <string name="loading_brand_info">Подождите…</string>
+    <string name="loading_device_type_info">Подождите…</string>
+    <string name="loading_get">Подождите…</string>
+    <string name="loading_hint">Подождите…</string>
+    <string name="loading_ir_data">Подождите…</string>
     <string name="loading_more">Подождите…</string>
     <string name="locate_current_place">Найти текущее местоположение</string>
     <string name="location_select">Переименовать устройство</string>
@@ -659,8 +659,8 @@
     <string name="passport_getting_verify_code">Получение…</string>
     <string name="passport_i_know">Понятно</string>
     <string name="passport_identification_expired">Срок действия кода истек, начните сначала</string>
-    <string name="passport_imei_permission_denied_message">Мы запрашиваем доступ к IMEI вашего устройства. Mi аккаунт использует IMEI устройства, чтобы обеспечить безопасность ваших данных.</string>
-    <string name="passport_imei_permission_denied_title">Разрешение на доступ к IMEI</string>
+    <string name="passport_imei_permission_denied_message">Мы запрашиваем разрешение на доступ к IMEI устройства. Mi аккаунт использует IMEI устройства для обеспечения безопасности ваших данных.</string>
+    <string name="passport_imei_permission_denied_title">Доступ к IMEI</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
     <string name="passport_input_password_for_login">Этот номер связан с существующим аккаунтом, введите пароль</string>
     <string name="passport_input_password_hint">Введите пароль</string>
@@ -974,7 +974,7 @@
     <string name="suggest_use_wifi_rc">* Wi-Fi пульт также поддерживает функции передачи видео, приложений и т. д.</string>
     <string name="supported_by_kookong">Техническая поддержка Kookong</string>
     <string name="supporting_soon">Появится в скором времени</string>
-    <string name="swipe_loading">Секунду…</string>
+    <string name="swipe_loading">Подождите…</string>
     <string name="switch_login"><u>Сменить аккаунт</u></string>
     <string name="switch_place">Выбрать город</string>
     <string name="tab_live">Live TV</string>
