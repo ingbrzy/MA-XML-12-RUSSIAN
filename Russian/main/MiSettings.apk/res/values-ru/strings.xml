@@ -78,7 +78,7 @@
     <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year_month">MM.yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">d MMMM</string>
+    <string name="fmt_date_short_month_day">d.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="focus_mode_custom_time">Задать длительность</string>
@@ -415,7 +415,7 @@
     <string name="usage_new_home_unused">Не использовалось</string>
     <string name="usage_new_home_update">Изменить</string>
     <string name="usage_new_home_usage_detail">Статистика использования</string>
-    <string name="usage_new_home_week_average_count">В среднем: %s</string>
+    <string name="usage_new_home_week_average_count">в среднем: %s</string>
     <string name="usage_new_home_week_category_title">Категории приложений</string>
     <string name="usage_new_home_week_compare_text1">- на %.2f больше, чем неделей ранее</string>
     <string name="usage_new_home_week_compare_text1_new">(на %s%% больше, чем неделей ранее)</string>
