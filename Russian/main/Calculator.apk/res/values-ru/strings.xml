@@ -37,7 +37,7 @@
     <string name="age_label_today_date">Сегодня</string>
     <string name="age_label_total_summary">Резюме</string>
     <string name="age_label_weeks">Недели</string>
-    <string name="allow">Согласен</string>
+    <string name="allow">Принимаю</string>
     <string name="am">AM</string>
     <string name="angle">deg</string>
     <string name="app_name">Калькулятор</string>
@@ -107,7 +107,7 @@
     <string name="cos">cos</string>
     <string name="cosDesc">косинус</string>
     <string name="cos_mathematical_value">cos</string>
-    <string name="currency_dialog_privacy_content"><Data>Конвертеру валют требуется подключение к интернету для получения свежего курса обмена валют. Перед использованием приложения необходимо прочитать и принять &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
+    <string name="currency_dialog_privacy_content"><Data>Конвертеру валют требуется подключение к интернету для получения свежего курса обмена валют. Перед использованием приложения необходимо прочитать и принять &lt;a href='%1$s'>Пользовательское соглашение&lt;/a> и &lt;a href='%2$s'>Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="currency_update_connect_to_get_data">Курсы валют предоставлены Webull. Подключитесь к сети для получения актуальных данных.</string>
     <string name="currency_update_support">Курсы валют предоставлены Webull.</string>
     <string name="currency_update_time_format">Курсы валют предоставлены Webull (%s)</string>
@@ -129,7 +129,7 @@
     <string name="description_title">О приложении</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="devided_by_zero_reminder_message">Делить на ноль нельзя</string>
-    <string name="dialog_privacy_content">"Помимо основных функций, в приложении Калькулятор имеются научный калькулятор и многоцелевой конвертер. Для нормальной работы некоторых функций требуется подключение к интернету. Используя приложение, вы соглашаетесь с %1$s и %2$s.\u0009"</string>
+    <string name="dialog_privacy_content">Помимо основных функций, в приложении Калькулятор имеются научный калькулятор и многоцелевой конвертер.  &lt;br>&lt;br>Для нормальной работы некоторых функций требуется подключение к интернету. Используя приложение, вы принимаете наши &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Пользовательское соглашение&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Политику конфиденциальности&lt;/font&gt;&lt;/a&gt; &lt;br>&lt;br></string>
     <string name="dialog_privacy_title">Условия и положения</string>
     <string name="dialog_rating_desc_ask">Как вы относитесь к калькулятору?</string>
     <string name="dialog_rating_desc_less">Могли бы вы оставить свой отзыв?</string>
@@ -486,8 +486,8 @@
     <string name="preference_user_feedback_title">Обратная связь</string>
     <string name="privacy_disagree">После отзыва соглашения с условиями политики конфиденциальности, приложение Калькулятор прекратит сбор данных, и все связанные с ними данные будут удалены с серверов. Возможно, вы не сможете использовать определенные функции в приложении. Отозвать соглашение?</string>
     <string name="privacy_policy">Политикой конфиденциальности</string>
-    <string name="privacy_switch">Согласен с политикой конфиденциальности</string>
-    <string name="privacy_switch_disagree">Не согласен</string>
+    <string name="privacy_switch">Принимаю Политику конфиденциальности</string>
+    <string name="privacy_switch_disagree">Отмена</string>
     <string name="radDesc">Радиан</string>
     <string name="radian">rad</string>
     <string name="rate_data_provider">Процентные ставки предоставлены hexun.com</string>

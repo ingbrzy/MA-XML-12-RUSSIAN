@@ -323,8 +323,8 @@ ID:%s
     <string name="dialog_abandon">Выход</string>
     <string name="dialog_abandon_sleep_edit">Отменить изменения?</string>
     <string name="dialog_account_perm_desc">Для доступа и входа в системный аккаунт</string>
-    <string name="dialog_agree">Согласен</string>
-    <string name="dialog_agree_and_continue">Согласен</string>
+    <string name="dialog_agree">Принимаю</string>
+    <string name="dialog_agree_and_continue">Принимаю</string>
     <string name="dialog_agree_permission">Разрешить</string>
     <string name="dialog_allow">Разрешить</string>
     <string name="dialog_auto_start_detail">"Разрешите приложению Здоровье автозапуск, чтобы получать уведомления.
@@ -494,7 +494,7 @@ ID:%s
     <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year_month">MM.yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_month_day">d.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="for_diagnosis_usage_only">Использовать эту информацию только для диагностики</string>
@@ -640,7 +640,7 @@ ID:%s
     <string name="indoor_running">Беговая дорожка</string>
     <string name="input_body_weight">Введите данные о весе, чтобы получить советы</string>
     <string name="inquire_recover_data">Восстановить данные о состоянии здоровья?</string>
-    <string name="inquire_recover_data_subtitle">Похоже, имеются данные о состоянии здоровья, связаные с Вашим Mi Аккаунтом (%1$s). Включить синхронизацию с облаком и восстановить данные?</string>
+    <string name="inquire_recover_data_subtitle">Похоже, имеются данные о состоянии здоровья, связаные с Вашим Mi Аккаунтом (%1$s). Синхронизировать с облаком и восстановить данные?</string>
     <string name="instructions_provider">Инструкции предоставлены Miao Health</string>
     <string name="insufficient">Мало</string>
     <string name="internal_training">HIIT</string>
@@ -705,8 +705,8 @@ ID:%s
     <string name="location_service_dialog_title">Службы определения местоположения отключены</string>
     <string name="location_service_ntfc_content">Xiaomi Health</string>
     <string name="location_service_ntfc_title">Поиск GPS…</string>
-    <string name="login_and_open_sync">Войти и включить синхронизацию</string>
-    <string name="login_and_open_sync2">Войти и включить синхронизацию</string>
+    <string name="login_and_open_sync">Войти и синхронизировать</string>
+    <string name="login_and_open_sync2">Войти и синхронизировать</string>
     <string name="low">Низкий</string>
     <string name="low_intensity">Низкая</string>
     <string name="low_intensity_description">Спокойное дыхание, можно говорить длинными предложениями</string>
@@ -922,8 +922,8 @@ ID:%s
     <string name="open_data_sync_description">Включите синхронизацию с облаком для синхронизации данных о состоянии здоровья из других источников.</string>
     <string name="open_stand_assistant">Нажмите чтобы открыть ассистента активности</string>
     <string name="open_swimming">Плавание в открытой воде</string>
-    <string name="open_sync">Включить синхронизацию</string>
-    <string name="open_sync_and_enter_app">Включить синхронизацию</string>
+    <string name="open_sync">Синхронизировать</string>
+    <string name="open_sync_and_enter_app">Синхронизировать</string>
     <string name="open_unrestricted_permissions">Для более точного контроля сна разрешите приложению Здоровье работать в фоновом режиме.</string>
     <string name="optional_data_source">Доступные источники данных</string>
     <string name="organ_donation_volunteer">Добровольный донор органов</string>
@@ -1355,7 +1355,7 @@ ID:%s
     <string name="start_cycling">Начать</string>
     <string name="start_running">Начать</string>
     <string name="start_walking">Начать</string>
-    <string name="state_agree">Согласен</string>
+    <string name="state_agree">Принимаю</string>
     <string name="state_auto_run_disenable">Откл.</string>
     <string name="state_auto_run_enable">Вкл.</string>
     <string name="state_disagree">Доступ ограничен</string>

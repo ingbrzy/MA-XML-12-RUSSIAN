@@ -122,9 +122,9 @@
     <string name="miui_feedback_edit_select_upload_log_select_desc">Выбрано \"Добавить журналы\"</string>
     <string name="miui_feedback_edit_storage_permission_name">Доступ к памяти устройства</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">Отмена</string>
-    <string name="miui_feedback_edit_submit_dialog_confirm">Согласен</string>
-    <string name="miui_feedback_edit_submit_dialog_content">Нажав \"Согласен\", вы принимаете Политику конфиденциальности и Пользовательское соглашение. Информация о проблемах, включая вложения (могут содержать личные данные, информацию об устройстве и сети), будет отправлена на серверы MIUI. Это поможет нам найти решение этих проблем.</string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">Ваш отчет вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы MIUI. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Согласен\", вы принимаете Политику конфиденциальности и Пользовательское соглашение.</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">Принимаю</string>
+    <string name="miui_feedback_edit_submit_dialog_content">Нажав \"Принимаю\", вы соглашаетесь с Политикой конфиденциальности и Пользовательским соглашением. Информация о проблемах, включая вложения (могут содержать личные данные, информацию об устройстве и сети), будет отправлена на серверы MIUI. Это поможет нам найти решение этих проблем.</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">Ваш отчет вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы MIUI. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Принимаю\", вы соглашаетесь с Политикой конфиденциальности и Пользовательским соглашением.</string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Больше не показывать</string>
     <string name="miui_feedback_edit_submit_dialog_title">Отправка отчета</string>
     <string name="miui_feedback_edit_submit_directly">Отправить</string>
@@ -237,8 +237,8 @@
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
-    <string name="permission_agree">Согласен</string>
-    <string name="permission_china_version_msg">&lt;Data&gt;Нажав \"Согласен\", вы принимаете &lt;a href=%1$s&gt;Условия использования&lt;/a&gt; и &lt;a href=%2$s&gt;Политику конфиденциальности&lt;/a&gt;. Для правильной работы приложению также необходимо подключение к интернету.&lt;/Data&gt;</string>
+    <string name="permission_agree">Принимаю</string>
+    <string name="permission_china_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href='%1$s'&gt;Условиями использования&lt;/a&gt; и &lt;a href='%2$s'&gt;Политикой конфиденциальности&lt;/a&gt;. Для правильной работы приложению также необходимо подключение к интернету.&lt;/Data&gt;</string>
     <string name="permission_complete">Готово</string>
     <string name="permission_contacts_info">Доступ к информации об аккаунте</string>
     <string name="permission_contacts_introduce">Для входа через Mi аккаунт</string>
@@ -252,7 +252,7 @@
     <string name="permission_location_introduce">Для отображения ближайших пунктов обслуживания</string>
     <string name="permission_main_purpose">Демонстрация функций MIUI, отправка отзывов и подача заявок на послепродажное обслуживание.</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
-    <string name="permission_region_version_msg">&lt;Data&gt;Нажав \"Согласен\", вы принимаете &lt;a href=%1$s&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=%2$s&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="permission_region_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href='%1$s'&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href='%2$s'&gt;Политикой конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="permission_select_all">Выбрать все</string>
     <string name="permission_storage">Память</string>
     <string name="permission_storage_introduce">Для сохранения файлов на вашем устройстве</string>
