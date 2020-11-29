@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MediaControlView_ad_remaining_time">Реклама · %1$s</string>
+    <string name="MediaControlView_ad_skip_wait_time">Пропустить через %1$d сек.</string>
+    <string name="MediaControlView_ad_text">Рекламодатель</string>
+    <string name="MediaControlView_audio_track_none_text">Нет</string>
+    <string name="MediaControlView_audio_track_number_text">Дорожка %1$d</string>
+    <string name="MediaControlView_audio_track_text">Звуковая дорожка</string>
+    <string name="MediaControlView_custom_playback_speed_text">%1$.2fx</string>
+    <string name="MediaControlView_playback_speed_normal">Нормальная</string>
+    <string name="MediaControlView_playback_speed_text">Скорость воспроизведения</string>
+    <string name="MediaControlView_subtitle_off_text">Откл.</string>
+    <string name="MediaControlView_subtitle_track_number_and_lang_text">Дорожка %1$d - %2$s</string>
+    <string name="MediaControlView_subtitle_track_number_text">Дорожка %1$d</string>
+    <string name="MediaControlView_time_placeholder">00:00:00</string>
+    <string name="MediaControlView_video_quality_auto_text">Авто</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -68,6 +82,7 @@
     <string name="allergic_drugs_hint">Укажите препараты, на которые есть аллергия, и реакцию</string>
     <string name="allow_notice_periods">Разрешить напоминания о периоде</string>
     <string name="altitude">Высота</string>
+    <string name="altitude_pressure_hint">*Рассчитано по давлению воздуха, может быть погрешность</string>
     <string name="altitude_range">Высота</string>
     <string name="am">AM</string>
     <string name="app_name">plugin.health.analyze</string>
@@ -99,9 +114,9 @@
     <string name="avg_freq">Средн. частота</string>
     <string name="avg_heart_rate">Средн. пульс</string>
     <string name="avg_high_pressure">Средн. систолическое (верхнее)</string>
-    <string name="avg_jump">Средняя высота</string>
+    <string name="avg_jump">Средн. высота</string>
     <string name="avg_low_pressure">Средн. диастолическое (нижнее)</string>
-    <string name="avg_pace">Средний темп</string>
+    <string name="avg_pace">Средн. темп</string>
     <string name="avg_steps">Шагов в день</string>
     <string name="awake_count">Пробуждения</string>
     <string name="awake_count_abnormal_description">Частые пробуждения.</string>
@@ -115,6 +130,7 @@
     <string name="back_stroke">На спине</string>
     <string name="background_run_tips">Нажмите \"Настройки\" ниже, чтобы открыть настройки приложения Здоровье и разрешить ему запуск в фоновом режиме.</string>
     <string name="backtrack">Назад</string>
+    <string name="base_dpi">по умолчанию 360dp</string>
     <string name="basic_info_label_age">Возраст</string>
     <string name="basic_info_label_birthday">Дата рождения</string>
     <string name="basic_info_label_gender">Пол</string>
@@ -254,6 +270,7 @@
     <string name="date_format_m_d_2">dd.MM</string>
     <string name="date_format_m_d_3">dd.MM</string>
     <string name="date_format_m_d_h_m">dd.MM HH:mm</string>
+    <string name="date_format_m_s">mm:ss</string>
     <string name="date_format_mm_dd">d MMM</string>
     <string name="date_format_mm_dd_2">dd.MM</string>
     <string name="date_format_y">yyyy</string>
@@ -281,6 +298,7 @@
     <string name="deep_sleep_duration_description">Когда люди спят, происходят периодические быстрые движения глаз. Сон можно разделить на сон с быстрым движением глаз (REM) и сон с медленным движением глаз (NREM). Глубокий сон происходит во время периодов медленного сна, составляя от 20 до 25%% от общей продолжительности сна. Ваш мозг отдыхает во время глубокого сна, демонстрируя низкий уровень сознательной активности, поэтому просыпаться нелегко.</string>
     <string name="deep_sleep_duration_increase_description">Ваш глубокий сон слишком длинный</string>
     <string name="deep_sleep_duration_normal_description">У вас достаточная длительность глубокого сна</string>
+    <string name="default_notification_channel_name">Сейчас играет</string>
     <string name="delete">Удалить</string>
     <string name="delete_aid_file">Удалить</string>
     <string name="delete_aid_file_desc">Удаление экстренного медицинского паспорта с устройства</string>
@@ -401,6 +419,12 @@ ID:%s
     <string name="engrgy_format">%1$d Вт</string>
     <string name="enough">Норма</string>
     <string name="enter_mi_health">Открыть приложение Здоровье</string>
+    <string name="environment_detection_again">Повтор</string>
+    <string name="environment_detection_fail">Слишком шумно</string>
+    <string name="environment_detection_fail_hint">Попробуйте еще раз в тихом месте</string>
+    <string name="environment_detection_hint_one">Избегайте шумных мест для более точного подсчета</string>
+    <string name="environment_detection_hint_two">Тренировка будет приостановлена или возобновлена автоматически в зависимости от звуков</string>
+    <string name="environment_detection_ing">Проверка окружения…</string>
     <string name="equivalent_exercise">≈%1$s км ходьбы (%2$s Кал)</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
@@ -551,6 +575,8 @@ ID:%s
     <string name="health_score">Оценка состояния здоровья</string>
     <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="health_setting">Настройки</string>
+    <string name="health_uninstall_dialog_content">Приложение \"Здоровье\" является системным. После удаления будут недоступны подсчет шагов, отслеживание сна, периодов и веса, синхронизация статистики с облаком. </string>
+    <string name="health_uninstall_dialog_title">Удалить \"Здоровье\"?</string>
     <string name="heart_rate">Пульс</string>
     <string name="height">Высота</string>
     <string name="high">Избыток</string>
@@ -617,6 +643,11 @@ ID:%s
     <string name="hr_pre_detect_finger_desc">Проверка, полностью ли закрыты вспышка и камера. Не шевелите пальцем.</string>
     <string name="hr_re_detect_title">Начать сначала</string>
     <string name="hr_report_active_desc">Измерение пульса сразу после тренировки может помочь вам скорректировать свои привычки к тренировкам, поскольку тренировки разной интенсивности имеют разные оптимальные зоны частоты пульса. Слишком высокий пульс может нанести вред вашему здоровью, привести к головокружению, стеснению в груди или другим рискам. Низкий пульс может быть признаком низкой эффективности конкретной тренировки.</string>
+    <string name="hr_report_active_high_desc">Высокая интенсивность и частота пульса. Стимуляция сердечно-легочной функции.</string>
+    <string name="hr_report_active_higher_desc">Очень высокая интенсивность и частота пульса. Сильная стимуляция сердечно-легочной функции. В случае любого физического дискомфорта прекратите упражнение.</string>
+    <string name="hr_report_active_lower_mid_desc">Невысокая интенсивность и частота пульса. Разогрев. Для людей со слабым здоровьем рекомендуются упражнения с низкой или средней интенсивностью.</string>
+    <string name="hr_report_active_lowest_desc">Низкая интенсивность и частота пульса. Воздействие на организм невысокое.</string>
+    <string name="hr_report_active_mid_desc">Умеренная интенсивность и частота пульса. Большинству здоровых взрослых рекомендуется выполнять упражнения средней или высокой интенсивности до 150 минут в неделю.</string>
     <string name="hr_report_common_desc">Нормальная частота пульса колеблется от 60 до 100 ударов в минуту у взрослых. Частота пульса ниже 60 ударов в минуту является признаком брадикардии. Частота пульса выше 100 ударов в минуту является признаком тахикардии.</string>
     <string name="hr_see_report">Посмотреть отчет</string>
     <string name="hr_start_detect">Начать</string>
@@ -711,6 +742,7 @@ ID:%s
     <string name="low_intensity">Низкая</string>
     <string name="low_intensity_description">Спокойное дыхание, можно говорить длинными предложениями</string>
     <string name="low_pressure">Диастолическое (нижнее)</string>
+    <string name="lowest_freq">Мин. частота</string>
     <string name="lowest_jump">Самый низкий прыжок</string>
     <string name="manage_home">Начальная страница</string>
     <string name="manual_add">Добавить вручную</string>
@@ -722,12 +754,34 @@ ID:%s
     <string name="manual_record">Запись вручную</string>
     <string name="mark_end">Менструация закончилась</string>
     <string name="mark_start">Начало менструации</string>
-    <string name="max_altitude">Наибольшая высота</string>
+    <string name="max_altitude">Макс. высота</string>
     <string name="max_heart_rate">Макс. пульс</string>
     <string name="max_high_pressure">Макс. систолическое (верхнее)</string>
     <string name="max_low_pressure">Макс. диастолическое (нижнее)</string>
     <string name="maximum">Максимум</string>
-    <string name="maximum_pace">Наивысший темп</string>
+    <string name="maximum_pace">Макс. темп</string>
+    <string name="mcv2_back_button_desc">Назад</string>
+    <string name="mcv2_cc_is_off">Субтитры откл. Нажмите для отображения.</string>
+    <string name="mcv2_cc_is_on">Субтитры вкл. Нажмите для скрытия.</string>
+    <string name="mcv2_error_dialog_button">ОК</string>
+    <string name="mcv2_ffwd_button_desc">На 30 сек. вперед</string>
+    <string name="mcv2_full_screen_button_desc">Полноэкранный</string>
+    <string name="mcv2_launch_button_desc">Перейти</string>
+    <string name="mcv2_music_artist_unknown_text">Неизвестный исполнитель</string>
+    <string name="mcv2_music_title_unknown_text">Название неизвестно</string>
+    <string name="mcv2_next_button_desc">Следующий</string>
+    <string name="mcv2_non_music_title_unknown_text">Название неизвестно</string>
+    <string name="mcv2_overflow_left_button_desc">Предыд. кнопки</string>
+    <string name="mcv2_overflow_right_button_desc">Еще</string>
+    <string name="mcv2_pause_button_desc">Пауза</string>
+    <string name="mcv2_play_button_desc">Воспроизведение</string>
+    <string name="mcv2_playback_error_text">Не удалось воспроизвести</string>
+    <string name="mcv2_previous_button_desc">Предыдущий</string>
+    <string name="mcv2_replay_button_desc">Повтор</string>
+    <string name="mcv2_rewind_button_desc">На 10 сек. назад</string>
+    <string name="mcv2_seek_bar_desc">Прогресс</string>
+    <string name="mcv2_settings_button_desc">Настройки</string>
+    <string name="mcv2_video_quality_button_desc">Качество видео</string>
     <string name="measure_date">Время измерения</string>
     <string name="measure_time">Время измерения</string>
     <string name="medical_file_desc1">Информация для экстренной помощи в чрезвычайной ситуации</string>
@@ -786,6 +840,9 @@ ID:%s
     <string name="mi_health">Здоровье</string>
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sports">Mi Fit</string>
+    <string name="miao_course_info">%1$d/%2$d %3$s</string>
+    <string name="miao_course_progress_info">%1$d/%2$d</string>
+    <string name="miao_course_progress_info_2">"%1$d/%2$d''"</string>
     <string name="middle">Средняя</string>
     <string name="middle_intensity_description">Учащенное дыхание, можно говорить короткими предложениями</string>
     <string name="midnight">AM</string>
@@ -820,6 +877,11 @@ ID:%s
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
+    <string name="miuix_search_action_mode_cancel">Отмена</string>
+    <string name="miuix_search_history_clear">Очистить историю поиска</string>
+    <string name="miuix_search_history_default_title">История поиска</string>
+    <string name="miuix_search_recommendation_default_title">Вам может быть интересно</string>
+    <string name="miuix_search_recommendation_item_del_des">Удалить</string>
     <string name="model_card_setting">Настройки карточек</string>
     <string name="moderately_abnormal">2 стадия гипертонии</string>
     <string name="moderately_abnormal_tip">Каждый день после пробуждения и перед сном</string>
@@ -941,6 +1003,7 @@ ID:%s
     <string name="passport_oauth_sucess_tip">Вход выполнен</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pause">Пауза</string>
+    <string name="pause_button_content_description">Пауза</string>
     <string name="per_count_minutes1">%d об/мин</string>
     <string name="per_time_minutes">%d в минуту</string>
     <string name="per_time_minutes1">" в минуту"</string>
@@ -952,6 +1015,7 @@ ID:%s
     <string name="permission_tip">Предоставьте приложению Здоровье следующие разрешения для получения более точной статистики сна</string>
     <string name="personal_course_recommend_subtitle">Получите доступ к тренировкам, рекомендованным вам на основе вашей личной информации, статистики здоровья и предпочтений</string>
     <string name="personal_course_recommend_title">Рекомендации тренировок</string>
+    <string name="personal_recommend">Персонализированные рекомендации</string>
     <string name="phone_detection">Обнаружение</string>
     <string name="photograph">Камера</string>
     <string name="picker_day">Выбранный день: %1$d. Взмахните вверх чтобы выбрать.</string>
@@ -964,6 +1028,7 @@ ID:%s
     <string name="placement_tips_warn">Не рекомендуется</string>
     <string name="placement_tips_warn_1">Беговая дорожка</string>
     <string name="play">Воспроизведение</string>
+    <string name="play_button_content_description">Воспроизведение</string>
     <string name="please_choose">Выберите</string>
     <string name="pm">PM</string>
     <string name="pool_swimming">Бассейн</string>
@@ -1046,13 +1111,14 @@ ID:%s
     <string name="retry">Повтор</string>
     <string name="revert_to_default">Восстановить по умолчанию</string>
     <string name="rope_skipping">Скакалка</string>
+    <string name="rope_skipping_environment_warning">Избегайте шумного окружения</string>
+    <string name="rope_skipping_ways">Определять скакалку по звуку</string>
     <string name="rowing_machine">Гребля</string>
     <string name="run">Бег</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="save">Сохранить</string>
-    <string name="search_menu_title">Поиск</string>
     <string name="sedentary_detail_title">Не сидите слишком долго</string>
     <string name="sedentary_enhance_remind">С вибрацией</string>
     <string name="sedentary_enhance_remind_content">Данная функция работает, когда режим \"Не беспокоить\" отключен</string>
@@ -1090,6 +1156,26 @@ ID:%s
     <string name="severe_abnormal_tip">Каждый день после пробуждения, после обеда и перед сном</string>
     <string name="share">Поделиться</string>
     <string name="skip">Пропустить</string>
+    <string name="skip_to_next_item_button_content_description">Перейти к следующему</string>
+    <string name="skip_to_previous_item_button_content_description">Перейти к предыдущему</string>
+    <string name="skipping_count">Прыжки</string>
+    <string name="skipping_detection_no">Не удалось определить тип тренировки</string>
+    <string name="skipping_detection_no_hint">Избегайте шумных мест и держите устройство поблизости</string>
+    <string name="skipping_kcal">Калории</string>
+    <string name="skipping_pause">Таймаут</string>
+    <string name="skipping_pause_tips">Пауза | Возобновить тренировку</string>
+    <string name="skipping_ready">Можно начать тренировку</string>
+    <string name="skipping_ready_hint_one">Держите устройство не дальше 1 метра</string>
+    <string name="skipping_ready_hint_two">Тренировка будет приостановлена или возобновлена автоматически в зависимости от звуков</string>
+    <string name="skipping_ready_toast">Громкость увеличена для лучшей слышимости инструкций</string>
+    <string name="skipping_reset_time">Отдых</string>
+    <string name="skipping_start_counting">Начать</string>
+    <string name="skipping_time">Длительность</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Принять и загрузить</string>
+    <string name="skipping_upload_dialog_msg">Чтобы обеспечить более точный подсчет, Xiaomi Health загрузит запись прыжков со скакалкой по Wi-Fi для улучшения распознавания прыжков. Для защиты вашей конфиденциальности, записи будут зашифрованы.</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Отклонить и больше не спрашивать</string>
+    <string name="skipping_upload_dialog_title">Загрузка запись прыжков со скакалкой для улучшения распознавания</string>
+    <string name="skipping_upload_tips">Загрузите запись прыжков со скакалкой для улучшения распознавания прыжков</string>
     <string name="sleep">Сон</string>
     <string name="sleep_and_get_up_time">График сна</string>
     <string name="sleep_auto_start_perm_grant">Разрешения предоставлены</string>
@@ -1277,6 +1363,9 @@ ID:%s
     <string name="splash_title">"В приложении Здоровье можно задать цели активности
 и получить советы
 на основе введенных личных данных."</string>
+    <string name="sport_audio_permission_dialog_content">Приложению требуется разрешение на запись звука, для распознавания и отслеживания тренировок на основе издаваемых звуков</string>
+    <string name="sport_audio_permission_dialog_desc">Отслеживание тренировок на основе издаваемых звуков</string>
+    <string name="sport_audio_permission_dialog_title">Требуются разрешения</string>
     <string name="sport_btn_continue">Возобновить</string>
     <string name="sport_btn_finish">Завершить</string>
     <string name="sport_btn_lock">Заблокировать</string>
@@ -1290,6 +1379,7 @@ ID:%s
     <string name="sport_invalid_dialog_title">Слишком быстро!</string>
     <string name="sport_menu_share">Отправить</string>
     <string name="sport_no_internet_toast">Плохой сигнал. Не удается определить точное местоположение.</string>
+    <string name="sport_outdoor_running">Бег</string>
     <string name="sport_pace_chart_last_km">Менее 1 км</string>
     <string name="sport_pace_step_unit">Об/мин</string>
     <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
@@ -1386,6 +1476,8 @@ ID:%s
     <string name="sustain_title">"Вы не двигались "</string>
     <string name="swim">Плавание</string>
     <string name="swim_type">Стиль</string>
+    <string name="swipe_right_to_end">Проведите вправо до конца</string>
+    <string name="swipe_up_to_end">Проведите вверх до конца</string>
     <string name="sync_health_data">Синхронизация данных</string>
     <string name="sync_immediately">Начать</string>
     <string name="sync_is_not_closed">Синхронизация включена</string>
@@ -1404,7 +1496,8 @@ ID:%s
     <string name="tb_blood_pressure_item">%1$s. Систолическое давление: %2$d мм рт.ст. | Диастолическое давление: %3$d мм рт.ст.</string>
     <string name="tb_blood_pressure_wm_card">Средн. систолическое давление: %1$d мм рт.ст. | Средн. диастолическое давление: %2$d мм рт.ст. | Макс. систолическое давление: %3$d мм рт.ст. | Макс. диастолическое давление: %4$d мм рт.ст. | Мин. систолическое давление: %5$d мм рт.ст. | Мин. диастолическое давление: %6$d мм рт.ст.</string>
     <string name="tb_card_on_using_list">Добавлено</string>
-    <string name="tb_click_finish_stand">Незавершенные активности в течение почти 1 часа, нажмите, чтобы закончить активность</string>
+    <string name="tb_clear_history">Очистить историю поиска</string>
+    <string name="tb_click_finish_stand">Нажмите, чтобы закончить активность, которая длится уже больше часа</string>
     <string name="tb_current_select">%1$s выбран</string>
     <string name="tb_date_label_info">%1$s выбран. Нажмите, чтобы изменить дату.</string>
     <string name="tb_deep_light_detection_main">Об анализе цикла сна: %1$s. Проведите пальцем по горизонтали в верхней части экрана, чтобы перейти на следующую страницу.</string>
@@ -1544,6 +1637,7 @@ ID:%s
     <string name="tb_weight_pre_time">Пред. взвешивание</string>
     <string name="tb_weight_result">Ожидаемый результат: %s</string>
     <string name="temporary_not_available">Временно не доступно</string>
+    <string name="test">по умолчанию 360dp</string>
     <string name="text_edit_exercise_goal">Изменить цель</string>
     <string name="text_no_value">--</string>
     <string name="text_save_exercise_goal">Готово</string>
@@ -1638,6 +1732,7 @@ ID:%s
     <string name="tracking_progress_labe_up_nodata">нет данных</string>
     <string name="tracking_progress_labe_up_refresh">потяните для обновления</string>
     <string name="treadmill">Беговая дорожка</string>
+    <string name="try_again">Повтор</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
@@ -1681,6 +1776,7 @@ ID:%s
     <string name="value_error_correct">Измените запись</string>
     <string name="visceral_fat">Висцеральный жир</string>
     <string name="visceral_fat_descripe_content">Висцеральный жир необходим для стабилизации и защиты внутренних органов. Однако высокий уровень висцерального жира увеличивает риск сердечно-сосудистых и метаболических заболеваний.</string>
+    <string name="voice_remind">Громкость увеличена для лучшей слышимости инструкций</string>
     <string name="walk">Ходьба</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="MediaControlView_playback_speeds"></string-array>
     <string-array name="absent_num"></string-array>
     <string-array name="account_providers"></string-array>
     <string-array name="account_settings_check_frequency_entries"></string-array>
@@ -268,6 +269,7 @@
     <string-array name="luckymoney_sound"></string-array>
     <string-array name="map_keyword"></string-array>
     <string-array name="map_title"></string-array>
+    <integer-array name="media2_widget_speed_multiplied_by_100"></integer-array>
     <string-array name="mediasize_to_standard_map"></string-array>
     <string-array name="message_sending_method_value"></string-array>
     <string-array name="message_type"></string-array>
