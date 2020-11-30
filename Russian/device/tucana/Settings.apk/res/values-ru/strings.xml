@@ -2040,7 +2040,7 @@
     <string name="custom_gesture_title">Выбор жестов</string>
     <string name="custom_wifi_name_title">Wi-Fi сеть</string>
     <string name="customize_function">Доступные шаблоны</string>
-    <string name="customize_knock_gesture"/>
+    <string name="customize_knock_gesture">Пользовательские жесты суставом пальца</string>
     <string name="cutout_mode_always">Всегда показывать</string>
     <string name="cutout_mode_default">Автоматически</string>
     <string name="cutout_mode_settings_title">Некоторые приложения могут отображаться неправильно в случае изменения способа отображения выреза.</string>
@@ -2601,8 +2601,8 @@
     <string name="done">Готово</string>
     <string name="done_button">Готово</string>
     <string name="double_click_power_key">Двойное нажатие \"Питание\"</string>
-    <string name="double_click_volume_down_when_lock">Двойное нажатие кнопки уменьшения громкости при заблокированном экране</string>
-    <string name="double_knock"/>
+    <string name="double_click_volume_down_when_lock">Двойное нажатие \"Уменьшение громкости\" при блокировке</string>
+    <string name="double_knock">Двойной тап суставом пальца</string>
     <string name="double_tap_power_for_camera_suggestion_title">Быстрый доступ к камере</string>
     <string name="double_tap_power_for_camera_summary">Включение камеры двойным нажатием кнопки питания в любом приложении</string>
     <string name="double_tap_power_for_camera_title">Быстрый доступ к камере</string>
@@ -2652,7 +2652,7 @@
     <string name="dual_wifi_switching_not_remind">Больше не показывать</string>
     <string name="dual_wifi_switching_prompt">Переключение между сетями</string>
     <string name="dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети вспомогательная сеть будет отключена.</string>
-    <string name="dump_log">Сбор журналов проблем</string>
+    <string name="dump_log">Сбор журналов</string>
     <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Бета версиях MIUI. Используйте ее с осторожностью.
 Вы можете просмотреть созданные журналы в Проводнике."</string>
     <string name="dump_log_title">Об этой функции</string>
@@ -3819,17 +3819,17 @@
     <string name="kid_space_settings">Детский режим</string>
     <string name="kilobyteShort">" КБ"</string>
     <string name="kilobyte_per_second">" КБ/с"</string>
-    <string name="knock_edge_area_invalid"/>
-    <string name="knock_guide_dialog_title"/>
-    <string name="knock_guide_drive_desc"/>
-    <string name="knock_guide_launch_desc"/>
-    <string name="knock_guide_set_screenshot"/>
-    <string name="knock_guide_set_voiceassist"/>
-    <string name="knock_guide_sub_title"/>
-    <string name="knock_guide_title"/>
-    <string name="knock_long_press_horizontal_slid"/>
-    <string name="knock_slide_shape"/>
-    <string name="knock_slide_v"/>
+    <string name="knock_edge_area_invalid">Жест не работает у краев экрана</string>
+    <string name="knock_guide_dialog_title">Выберите действие для жеста. Вы можете изменить его позже в Настройки > Дополнительно > Функции жестов.</string>
+    <string name="knock_guide_drive_desc">Скриншот во время вождения</string>
+    <string name="knock_guide_launch_desc">Запуск Mi AI, когда устройство лежит экраном вверх</string>
+    <string name="knock_guide_set_screenshot">Скриншот</string>
+    <string name="knock_guide_set_voiceassist">Mi AI</string>
+    <string name="knock_guide_sub_title">Вы можете запустить Mi AI или сделать скриншот нажатием на экран суставом пальца</string>
+    <string name="knock_guide_title">Двойной тап суставом пальца</string>
+    <string name="knock_long_press_horizontal_slid">Нажмите и проведите горизонтально суставом пальца</string>
+    <string name="knock_slide_shape">Нарисуйте окружность суставом пальца</string>
+    <string name="knock_slide_v">Нарисуйте 'V' суставом пальца</string>
     <string name="label_available">Доступные сети</string>
     <string name="label_mi_stats">Mi аналитика</string>
     <string name="language_and_input_for_work_category_title">Клавиатура и инструменты</string>
@@ -4974,7 +4974,7 @@
     <string name="not_enabled">Выкл.</string>
     <string name="not_installed">Не установлено</string>
     <string name="not_set">Не задано</string>
-    <string name="notch_and_status_bar_settings">Центр управления и строка состояния</string>
+    <string name="notch_and_status_bar_settings">Строка состояния</string>
     <string name="notch_force_black_desc">Включите для затемнения области вокруг выреза</string>
     <string name="notch_force_black_title">Скрытие выреза</string>
     <string name="notch_settings">Вырез</string>
@@ -5502,7 +5502,7 @@ OTG отключается автоматически через 10 минут �
     <string name="pref_show_lunar_calendar_title">Традиционный китайский календарь на экране блокировки</string>
     <string name="pref_title_network_details">Сведения о сети</string>
     <string name="pref_title_update_notification">Виджет в панели уведомлений</string>
-    <string name="pref_volume_launch_camera_summary">Двойное нажатие кнопки уменьшения громкости в спящем режиме запустит камеру</string>
+    <string name="pref_volume_launch_camera_summary">Двойное нажатие \"Уменьшение громкости\"</string>
     <string name="pref_volume_launch_camera_title">Запуск камеры</string>
     <string name="pref_volume_wake_summary">Нажатие кнопок громкости в спящем режиме разбудит устройство</string>
     <string name="pref_volume_wake_title">Пробуждать кнопками громкости</string>
@@ -7067,7 +7067,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_show_lte_for_4g">Показывать LTE вместо 4G</string>
     <string name="status_bar_settings_show_weather">Показывать информацию о погоде</string>
     <string name="status_bar_settings_status_bar">Строка состояния</string>
-    <string name="status_bar_title">Центр управления и строка состояния</string>
+    <string name="status_bar_title">Строка состояния</string>
     <string name="status_bt_address">Адрес Bluetooth</string>
     <string name="status_data_network_type">Передача данных</string>
     <string name="status_data_state">Передача данных в моб. сети</string>
