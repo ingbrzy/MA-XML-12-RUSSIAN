@@ -37,4 +37,6 @@ call routine.bat vela Settings.apk
 call routine.bat wayne Settings.apk 
 call routine.bat whyred Settings.apk 
 ;
+call routine.bat curtana_stable Settings.apk 
+;
 call routine.bat lavender MiuiSystemUI.apk 
