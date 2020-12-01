@@ -423,6 +423,8 @@
     <string name="additional_system_update_menu" />
     <string name="additional_system_update_settings_list_item_title">Дополнительные обновления</string>
     <string name="adjust_3d_depth_title">Регулировка глубины 3D в играх</string>
+    <string name="adjust_font_size_answer_cn">Настройте размер и толщину шрифта с помощью ползунков ниже</string>
+    <string name="adjust_font_size_answer_global">Настройте размер шрифта с помощью ползунка ниже</string>
     <string name="adjust_temperature_title">Цветовой тон</string>
     <string name="admin_device_owner_message">Администратор может контролировать настройки, приложения, разрешения и параметры доступа к корпоративным ресурсам на этом устройстве, а также связанные с ним данные, например сведения о местоположении или действиях в сети.</string>
     <string name="admin_disabled_other_options">Другие настройки отключены администратором</string>
@@ -3056,6 +3058,9 @@
     <string name="fluency_mode_confirm_and_reboot">Перезагрузить</string>
     <string name="fold_title">Правила групповых уведомлений</string>
     <string name="following_us_title">Подпишитесь на нас</string>
+    <string name="font_settings_jump">Спец. возможности > Масштаб изображения</string>
+    <string name="font_settings_recommend_title">Размер шрифта недостаточно велик?</string>
+    <string name="font_settings_summary_cn">Размер шрифта</string>
     <string name="font_size_exhuge">Громадный</string>
     <string name="font_size_huge">Огромный</string>
     <string name="font_size_kddi">Средний</string>
@@ -3464,6 +3469,7 @@
     <string name="homepage_all_settings">Все настройки</string>
     <string name="homepage_condition_footer_content_description">Свернуть</string>
     <string name="homepage_personal_settings">Рекомендации</string>
+    <string name="how_adjust_font_size">Как настроить размер шрифта?</string>
     <string name="how_backup_content">"Доступно 3 вида резервных копий: 
 
 • Локальные резервные копии.
@@ -4463,6 +4469,7 @@
     <string name="miheadset_in_ear_check">Автоопределение</string>
     <string name="miheadset_in_ear_check_summary">Автоматическая пауза и возобновление воспроизведения при снятии и надевании наушников или гарнитуры</string>
     <string name="miheadset_last_version">Обновление не требуется</string>
+    <string name="miheadset_local_ota">Локальное обновление</string>
     <string name="miheadset_moreSettingsInAi">Дополнительные настройки</string>
     <string name="miheadset_next">следующий</string>
     <string name="miheadset_ok_device">ОК</string>
@@ -5360,6 +5367,7 @@ OTG отключается автоматически через 10 минут �
     <string name="personal_device_admin_title">Личный</string>
     <string name="personal_profile_app_subtext">Личный</string>
     <string name="personal_section_title">Персонализация</string>
+    <string name="personalize_title">Обои и персонализация</string>
     <string name="phone_backup_summary">Резервное копирование и восстановление на этом устройстве</string>
     <string name="phone_backup_title">Мобильное устройство</string>
     <string name="phone_call_noise_suppression">Подавление шумов во время разговора</string>
@@ -7537,6 +7545,7 @@ UT-интерфейс: %5$s"</string>
     <string name="title_font2">Шрифт</string>
     <string name="title_font_current">Системный шрифт</string>
     <string name="title_font_current2">Шрифты</string>
+    <string name="title_font_settings">Настройки шрифта</string>
     <string name="title_font_size">Размер шрифта</string>
     <string name="title_hdmi_color_calibration">Коррекция цвета</string>
     <string name="title_layout_current">Размер текста</string>
@@ -7546,6 +7555,7 @@ UT-интерфейс: %5$s"</string>
     <string name="title_miui_music_mute_by_user">Режим \"Без звука\"</string>
     <string name="title_of_auto_launch_manage">Автозапуск</string>
     <string name="to_close">Отключить</string>
+    <string name="toast_apply_font_fail">Не удалось установить шрифт</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
     <string name="toast_need_login">Войдите в Mi Аккаунт</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"Передача недоступна, если установлено Wi-Fi соединение и включена точка доступа."</string>
@@ -9012,6 +9022,7 @@ UT-интерфейс: %5$s"</string>
     <string name="xiaomi_cloud_service_disabled">Откл.</string>
     <string name="xiaomi_cloud_service_unknown">Неизвестно</string>
     <string name="xiaomi_custom_input_method">Настроен для Xiaomi</string>
+    <string name="xiaomi_lanting_title">MiLan Pro</string>
     <string name="xiaomi_money_service">Центр Mi Credits</string>
     <string name="xiaomi_router_available_notif_summary">Нажмите для просмотра.</string>
     <string name="xiaomi_router_available_notif_title">Доступен Mi роутер</string>

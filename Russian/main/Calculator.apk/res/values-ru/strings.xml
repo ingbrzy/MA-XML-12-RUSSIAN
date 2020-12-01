@@ -114,6 +114,7 @@
     <string name="currency_update_updating">Обновление курсов…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
+    <string name="date_format">dd MMM, yyyy</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
@@ -130,6 +131,9 @@
     <string name="deselect_all">Снять выбор</string>
     <string name="devided_by_zero_reminder_message">Делить на ноль нельзя</string>
     <string name="dialog_privacy_content">Помимо основных функций, в приложении Калькулятор имеются научный калькулятор и многоцелевой конвертер.  &lt;br>&lt;br>Для нормальной работы некоторых функций требуется подключение к интернету. Используя приложение, вы принимаете наши &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Пользовательское соглашение&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Политику конфиденциальности&lt;/font&gt;&lt;/a&gt; &lt;br>&lt;br></string>
+    <string name="dialog_privacy_disagree_msg">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности приложения Калькулятор. Сбор вашей личной информации будет прекращен. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Для предоставления основных сервисов, приложению Калькулятор требуется сбор необходимой личной информации. Отзыв согласия будет рассматриваться как отказ от использования сервисов.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Отозвать</string>
+    <string name="dialog_privacy_revoke_title">Отзыв согласия</string>
     <string name="dialog_privacy_title">Условия и положения</string>
     <string name="dialog_rating_desc_ask">Как вы относитесь к калькулятору?</string>
     <string name="dialog_rating_desc_less">Могли бы вы оставить свой отзыв?</string>
@@ -259,6 +263,7 @@
     <string name="item_title_vel_conversion">Скорость</string>
     <string name="item_title_volume_conversion">Объем</string>
     <string name="item_title_weight_conversion">Масса</string>
+    <string name="l_name_discount">Скидка %s</string>
     <string name="label_about">О приложении</string>
     <string name="label_clear_history">Очистить все</string>
     <string name="label_date_difference">Разница</string>
@@ -436,6 +441,7 @@
     <string name="network_confirm_title">Требуются разрешения</string>
     <string name="network_privacy">Приложению требуются подключение к интернету и разрешение для сбора личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
     <string name="network_purpose">Добро пожаловать в Калькулятор! Калькулятор позволяет конвертировать валюты, рассчитывать выплаты по ипотечным кредитам и многое другое.</string>
+    <string name="new_privacy_string"><Data>"Добро пожаловать в Калькулятор!&lt;br/>Приложение содержит следующие функции:&lt;br/>• Общий калькулятор&lt;br/>• Научный калькулятор&lt;br/>• Конвертер (валюта, единицы измерения и т. д.)&lt;br/>• Шаблоны расчетов для кредитов, вкладов, EMI и др.&lt;br/>Для предоставления основных сервисов, приложению Калькулятор требуется сбор необходимой личной информаци. Вы можете узнать, как мы обрабатываем собранную информацию в &lt;a href= \"%1$s\">Политике конфиденциальности&lt;/a>. Перед использованием приложения Калькулятор вы должны принять &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. Вы можете отозвать свое согласие с Политикой конфиденциальности Калькулятора в настройках в любое время. Если вы не согласны с нашей Политикой конфиденциальности, вы не сможете использовать некоторые функции этого приложения, однако, его основные функции все равно будут доступны для вас."</Data></string>
     <string name="night">PM</string>
     <string name="none">Нет</string>
     <string name="noon">PM</string>
@@ -484,8 +490,11 @@
     <string name="preference_use_voice_summary">Включите, чтобы использовать речевой вывод во время вычислений</string>
     <string name="preference_use_voice_title">Речевой вывод</string>
     <string name="preference_user_feedback_title">Обратная связь</string>
+    <string name="privacy_dialog_title">Конфиденциальность</string>
     <string name="privacy_disagree">После отзыва соглашения с условиями политики конфиденциальности, приложение Калькулятор прекратит сбор данных, и все связанные с ними данные будут удалены с серверов. Возможно, вы не сможете использовать определенные функции в приложении. Отозвать соглашение?</string>
     <string name="privacy_policy">Политикой конфиденциальности</string>
+    <string name="privacy_revoke_error">Не удалось отозвать согласие. Повторите попытку.</string>
+    <string name="privacy_revoke_progress">Отзыв согласия…</string>
     <string name="privacy_switch">Принимаю Политику конфиденциальности</string>
     <string name="privacy_switch_disagree">Отмена</string>
     <string name="radDesc">Радиан</string>
@@ -1052,6 +1061,7 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">Обновление калькулятора…</string>
     <string name="user_agreement">Пользовательским соглашением</string>
+    <string name="user_experience_program_title">Программа пользовательского опыта</string>
     <string name="view_float_window_move">Перемещение калькулятора</string>
     <string name="voiceDesc">Голосовое управление</string>
     <string name="voice_guide_text">Вы можете здесь включить речевой вывод</string>
@@ -1062,6 +1072,7 @@
     <string name="weight_prompt">Вес</string>
     <string name="wf_word_figure">Финансовые иероглифы</string>
     <string name="wife">Жена</string>
+    <string name="withdraw_network_error">Для отзыва авторизации требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_wan">"万 "</string>

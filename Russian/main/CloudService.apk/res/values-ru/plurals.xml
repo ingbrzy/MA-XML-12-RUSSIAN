@@ -80,6 +80,10 @@
         <item quantity="one">%d сеть Wi-Fi</item>
         <item quantity="few">%d сети Wi-Fi</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Попробуйте снова через %d сек.</item>
+        <item quantity="one">Попробуйте снова через %d сек.</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Ожидание синхронизации: %d</item>
         <item quantity="one">Ожидание синхронизации: %d</item>

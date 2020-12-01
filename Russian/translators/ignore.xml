@@ -1490,6 +1490,7 @@
     <string name="config_wwan_network_service_package">com.android.phone</string>
     <string name="config_xiaoaiComponent">com.miui.voiceassist/com.xiaomi.voiceassistant.VoiceService</string>
     <string name="confirm">OK</string>
+    <string name="content_desktop_uninstall">content_desktop_uninstall</string>
     <string name="control_quick_settings_tiles_default"> </string>
     <string name="control_quick_settings_tiles_stock"> </string>
     <string name="conversation_content_provider">Поставщик материалов для разговоров</string>
@@ -2181,6 +2182,7 @@
     <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
     <string name="greeting_weather_desc_from_to">%1$s to %2$s</string>
     <string name="group_have_hongbao"> </string>
+    <string name="gst_percentage">%s</string>
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
     <string name="header_category_general">@string/header_label_general_preferences</string>
@@ -2280,6 +2282,16 @@
     <string name="ks_key_status">ks_key_status</string>
     <string name="ks_key_udpate_time">ks_key_udpate_time</string>
     <string name="ks_key_version">ks_key_version</string>
+    <string name="l_digit0">%d</string>
+    <string name="l_digit1">%d</string>
+    <string name="l_digit2">%d</string>
+    <string name="l_digit3">%d</string>
+    <string name="l_digit4">%d</string>
+    <string name="l_digit5">%d</string>
+    <string name="l_digit6">%d</string>
+    <string name="l_digit7">%d</string>
+    <string name="l_digit8">%d</string>
+    <string name="l_digit9">%d</string>
     <string name="label">MIUI SDK</string>
     <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="labour_day">劳动节</string>
@@ -2548,6 +2560,7 @@
     <string name="list_delimeter">", "</string>
     <string name="load_attachment">@string/load_more</string>
     <string name="loan_type_summary_base">@string/base_rate</string>
+    <string name="localised_number">%d</string>
     <string name="lock_intro_message">Lock_intro_message</string>
     <string name="lock_pattern_view_aspect">square</string>
     <string name="lock_screen_business_hongbao_message"> </string>
@@ -3276,6 +3289,7 @@
     <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
     <string name="preference_key_optimize_manage">key_module_optimize_manage</string>
     <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
+    <string name="preference_key_qqclean_scan_engine">key_qqclean_scan_engine</string>
     <string name="preference_key_scan_engine">key_scan_engine</string>
     <string name="preference_key_settings_input_method">key_settings_input_method</string>
     <string name="preference_key_settings_monitor">key_settings_monitor</string>
@@ -4152,6 +4166,7 @@
     <string name="time_line_format_12_hours_smaller_than_10">@string/time_format_12_hours_smaller_than_10</string>
     <string name="time_picker_mode">clock</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_desktop_uninstall">title_desktop_uninstall</string>
     <string name="today_hot_search">今日热搜</string>
     <string name="trans_intro_title">FAQ</string>
     <string name="translation_authority">com.android.quicksearchbox.translation</string>
