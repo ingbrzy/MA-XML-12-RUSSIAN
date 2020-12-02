@@ -517,8 +517,8 @@ mm"</string>
     <string name="passport_unknow_error">Ошибка сети</string>
     <string name="passport_unknow_host_network_error">Проверьте настройки сети и повторите попытку</string>
     <string name="passport_unknow_network_error">Ошибка сети</string>
-    <string name="passport_user_agreement_link">"Я прочитал и принимаю &lt;a href='%1$s'&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href='%2$s'&gt;Политику конфиденциальности&lt;/a&gt; Xiaomi"</string>
-    <string name="passport_user_agreement_link_more">"Я прочитал и принимаю &lt;a href='%1$s'&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href='%4$s'&gt;Политику конфиденциальности&lt;/a&gt;, &lt;a href='%2$s'&gt;'%3$s'&lt;/a&gt; Xiaomi"</string>
+    <string name="passport_user_agreement_link">"Я прочитал и принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt; Xiaomi"</string>
+    <string name="passport_user_agreement_link_more">"Я прочитал и принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%4$s\"&gt;Политику конфиденциальности&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt; Xiaomi"</string>
     <string name="passport_user_id_intro">Войти в %1$s</string>
     <string name="passport_v_code_error">Неверный код подтверждения</string>
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
@@ -718,8 +718,8 @@ mm"</string>
     <string name="subscribe_success_content_per_unlock">Обновлять при разблокировке</string>
     <string name="subscribe_update_time_setting">Установить другой интервал</string>
     <string name="summary">"Для просмотра онлайн контента необходимо принять нашу &lt;a href='%s'&gt;Политику конфиденциальности&lt;/a&gt; В случае отказа будут доступны только локальные обои."</string>
-    <string name="summary2">"Используя это приложение, вы принимаете наши &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Пользовательское соглашение&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Политику конфиденциальности&lt;/font&gt;&lt;/a&gt;. Приложению для нормальной работы необходимо подключение к интернету.​"</string>
-    <string name="summary_international">"Используя это приложение, вы принимаете наши &lt;a href ='%1$s'&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href='%2$s'&gt;Политику конфиденциальности&lt;/a&gt;. Приложению для нормальной работы необходимо подключение к интернету.​"</string>
+    <string name="summary2">"Используя это приложение, вы принимаете наши &lt;font color='#37A5FF'&gt;&lt;a href =\"%1$s\"&gt;Пользовательское соглашение&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/font&gt;&lt;/a&gt;. Приложению для нормальной работы необходимо подключение к интернету.​"</string>
+    <string name="summary_international">"Используя это приложение, вы принимаете наши &lt;a href =\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;. Приложению для нормальной работы необходимо подключение к интернету.​"</string>
     <string name="sure_close_gallery">Отключить Карусель обоев?</string>
     <string name="sure_close_gallery_des">Вы не сможете получать обновляемые обои на рабочий стол и экран блокировки, если отключите Карусель обоев. Выключить?</string>
     <string name="system_default">По умолчанию</string>
