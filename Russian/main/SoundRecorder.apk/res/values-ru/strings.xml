@@ -43,6 +43,8 @@
     <string name="call_record_list_group_connected">Подключенные</string>
     <string name="call_record_list_group_unconnected">Не подключенные</string>
     <string name="cancel_rename">Отмена</string>
+    <string name="clear_data_dialog_content">Кэшированные элементы, данные приложений и пользовательские настройки будут удалены, но ваши записи останутся на месте</string>
+    <string name="clear_data_dialog_title">Очистить данные?</string>
     <string name="clear_records">Удаление записей из Xiaomi Cloud</string>
     <string name="cloud_record_open">Синхронизация записей</string>
     <string name="cloud_record_tip">Синхронизировать записи с Xiaomi Cloud.</string>
@@ -189,6 +191,7 @@
     <string name="pay_error_unknown">Неизвестная ошибка</string>
     <string name="playback_delete_records">Удалить запись</string>
     <string name="playback_share_records">Отправить запись</string>
+    <string name="preference_clear_data">Очистка данных</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preference_enable_earpiece_summary">Использовать разговорный динамик для воспроизведения</string>
     <string name="preference_enable_earpiece_title">Разговорный динамик</string>

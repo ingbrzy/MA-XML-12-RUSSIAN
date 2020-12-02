@@ -255,6 +255,7 @@
     <string name="app_behavior_key_camera">Доступ к камере</string>
     <string name="app_behavior_key_location">Доступ к местоположению</string>
     <string name="app_behavior_key_protect">Включить уведомления</string>
+    <string name="app_behavior_link_start">Цепной запуск</string>
     <string name="app_behavior_list_load_more">Загрузка…</string>
     <string name="app_behavior_location">%1s - доступ к местоположению</string>
     <string name="app_behavior_location_bg">%1s - доступ к местоположению в фоновом режиме</string>
@@ -316,6 +317,8 @@
     <string name="app_behavior_settings_category_privacy">Защита личной информации</string>
     <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует местоположение, микрофон или камеру в фоновом режиме</string>
     <string name="app_behavior_settings_privacy_tips">Уведомлять о доступе к контактам, журналу вызовов или выполнении конфиденциальных действий</string>
+    <string name="app_behavior_share_file">Отправка файла</string>
+    <string name="app_behavior_share_picture">Отправка изображения</string>
     <string name="app_behavior_sms_read">%1s - чтение SMS</string>
     <string name="app_behavior_sms_read_single">Чтение SMS</string>
     <string name="app_behavior_sms_send">%1s - отправка SMS</string>
@@ -2556,7 +2559,7 @@
     <string name="phone_manage_system_tool_summary">Системные инструменты</string>
     <string name="phone_manage_system_tool_title">Инструменты</string>
     <string name="pkg_traffic">Лимит трафика</string>
-    <string name="pm_auto_start_by_other">Взаимный запуск</string>
+    <string name="pm_auto_start_by_other">Цепной запуск</string>
     <string name="pm_auto_start_by_other_app">Разрешение запускать другие приложения</string>
     <string name="pm_auto_start_by_system">Автозапуск</string>
     <string name="pm_auto_start_by_system_event">Разрешение запускаться автоматически</string>
@@ -2635,7 +2638,7 @@
     <string name="power_center_scan_item_title_GPS">Точность GPS</string>
     <string name="power_center_scan_item_title_abnormal">Расход батареи</string>
     <string name="power_center_scan_item_title_abnormal_apps">Приложения, разряжающие батарею</string>
-    <string name="power_center_scan_item_title_auto_invoke">Взаимный запуск</string>
+    <string name="power_center_scan_item_title_auto_invoke">Цепной запуск</string>
     <string name="power_center_scan_item_title_auto_start">Автозапуск</string>
     <string name="power_center_scan_item_title_battery_details">Информация о батарее</string>
     <string name="power_center_scan_item_title_brightness">Яркость экрана</string>
