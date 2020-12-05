@@ -1438,6 +1438,9 @@
     <string name="config_mass_storage_function_name">mass_storage</string>
     <string name="config_mediaProjectionPermissionDialogComponent">com.android.systemui/com.android.systemui.media.MediaProjectionPermissionActivity</string>
     <string name="config_mtp_function_name">mtp</string>
+    <string name="config_navBarLayoutHandle">back[40AC];home_handle;ime_switcher[40AC]</string>
+    <string name="config_navBarLayoutQuickstep">back[1.7WC];home;contextual[1.7WC]</string>
+    <string name="config_navBarLayout_reverse">left[.5W],back[1WC];home;recent[1WC],right[.5W]</string>
     <string name="config_nearby_devices_slice_uri">content://com.google.android.gms.nearby.fastpair/device_status_list_item</string>
     <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
     <string name="config_networkLocationProviderPackageNameGms">com.google.android.gms</string>
@@ -1449,7 +1452,9 @@
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_rawContactsLocalAccountName">default</string>
     <string name="config_rawContactsLocalAccountType">com.android.contacts.default</string>
+    <string name="config_recentsComponent">com.android.systemui.recents.OverviewProxyRecentsImpl</string>
     <string name="config_recentsComponentName">com.miui.home/com.miui.home.recents.RecentsActivity</string>
+    <string name="config_rounded_mask">M8,0C3.6,0,0,3.6,0,8</string>
     <string name="config_rtt_setting_intent_action" />
     <string name="config_rtt_setting_package_name" />
     <string name="config_schedules_provider_caller_package">com.android.settings</string>
@@ -1469,6 +1474,7 @@
     <string name="config_systemGallery">com.android.gallery3d</string>
     <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
     <string name="config_systemUIServiceComponent">com.android.systemui/com.android.systemui.SystemUIService</string>
+    <string name="config_systemUIVendorServiceComponent">com.android.systemui.MiuiVendorServices</string>
     <string name="config_system_install_component">com.android.settings/com.android.settings.security.CredentialStorage</string>
     <string name="config_timeZoneRulesUpdaterPackage">com.android.timezone.updater</string>
     <string name="config_usbAccessoryUriActivity">com.android.systemui/com.android.systemui.usb.UsbAccessoryUriActivity</string>
@@ -2202,6 +2208,7 @@
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
+    <string name="high_temp_alarm_help_url">help_uri_usb_warm</string>
     <string name="hints_header_left">%d</string>
     <string name="history_item_sub">%s…</string>
     <string name="hksar_establishment_day">香港特别行政区成立纪念日</string>
@@ -2305,6 +2312,7 @@
     <string name="language_value_spanish">spanish</string>
     <string name="lantern_festival">元宵节</string>
     <string name="lantern_festival_tradition">元宵節</string>
+    <string name="launcher_overlayable_package">com.android.launcher3</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
     <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_playback_time_separator">/</string>
@@ -2801,10 +2809,17 @@
     <string name="miui_m_com_tencent_tmgp_pubgmhd">和平精英</string>
     <string name="miui_m_com_tencent_tmgp_sgame">王者荣耀</string>
     <string name="miui_m_com_tencent_tmgp_speedmobile">QQ飞车手游</string>
+    <string name="miui_notification_menu_snooze_title">@string/miui_notification_menu_snooze</string>
+    <string name="miui_notification_menu_title_aggregate_feedback">@string/miui_notification_menu_aggregate_feedback</string>
+    <string name="miui_notification_menu_title_fold">@string/miui_notification_menu_fold</string>
     <string name="miui_privacy_policy_url" formatted="false">https://www.miui.com/res/doc/privacy.html?region=%s&amp;lang=%s</string>
+    <string name="miui_quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+    <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode,workmode</string>
     <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_user_agreement_url">https://www.miui.com/res/doc/eula/%s.html</string>
     <string name="mms">MMS</string>
+    <string name="mobile_carrier_text_format">%1$s, %2$s</string>
+    <string name="mobile_data_text_format">%1$s — %2$s</string>
     <string name="mobile_network_settings_class">com.android.phone.MobileNetworkSettings</string>
     <string name="mobile_network_settings_package">com.android.phone</string>
     <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Crashes &amp; reboots\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Heating\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobile networks\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Other errors\",\"categoryId\":10,\"order\":2}]</string>
@@ -2973,6 +2988,7 @@
     <string name="not_available"> </string>
     <string name="notelist_string_info">…</string>
     <string name="notice_header"/>
+    <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
     <string name="notification_group_divider_symbol">%1$s • %2$s</string>
     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_importance_divider">%1$s: %2$s</string>
@@ -3635,6 +3651,7 @@
     <string name="status_bar_mute">mute</string>
     <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_nfc">nfc</string>
+    <string name="status_bar_no_sim">no_sim</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
     <string name="status_bar_phone_signal">phone_signal</string>
@@ -4147,6 +4164,7 @@
     <string name="the_spring_festival_tradition">春節</string>
     <string name="theme_id">com_7idear.framework.theme</string>
     <string name="theme_name">%1$s</string>
+    <string name="themepicker_overlayable_package">com.android.wallpaper</string>
     <string name="three_gesture_down">screen_shot</string>
     <string name="three_gesture_down_def_function">screen_shot</string>
     <string name="three_gesture_long_press">partial_screen_shot</string>
