@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cancel">Отмена</string>
     <string name="doc_photo_adjust_section_title">Перетащите для изменения</string>
     <string name="doc_photo_cancel">Отмена</string>
     <string name="doc_photo_confirm">Выход</string>
@@ -13,6 +14,8 @@
     <string name="doc_photo_idcard_portrait">Лицевая сторона</string>
     <string name="doc_photo_not_support">Не удается отредактировать изображение как документ</string>
     <string name="doc_photo_view_effect">Предпросмотр</string>
+    <string name="exit_alert_msg">Все несохраненные изменения будут потеряны.</string>
+    <string name="exit_alert_title">Отменить изменения?</string>
     <string name="extra_photo_common_permission_name">Боке</string>
     <string name="extra_photo_common_save_fail">Не удалось сохранить</string>
     <string name="extra_photo_common_saving">Сохранение…</string>

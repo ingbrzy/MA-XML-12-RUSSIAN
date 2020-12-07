@@ -870,6 +870,8 @@
     <string name="help_url_people_add"/>
     <string name="help_url_people_edit"/>
     <string name="help_url_people_main"/>
+    <string name="hide_app_description_content">Приложение \"Контакты\" является системным, удалить его нельзя. Будет удален ярлык приложения с Рабочего стола. Запуск по-прежнему будет доступен через приложение \"Телефон\".</string>
+    <string name="hide_app_description_title">Удалить \"Контакты\" с рабочего стола?</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">Найти контакты</string>
     <string name="hint_more_contact">Объедините дубликаты контактов</string>
@@ -1494,6 +1496,10 @@
     <string name="residual_time_description2">%1$d ч.</string>
     <string name="residual_time_description3">%1$d мин.</string>
     <string name="residual_time_description4">%1$d д.</string>
+    <string name="restore_app_btn_cancel">Отмена</string>
+    <string name="restore_app_btn_restore">ОК</string>
+    <string name="restore_app_description_content">Добавление ярлыка на рабочий стол для быстрого доступа к контактам</string>
+    <string name="restore_app_description_title">Добавить \"Контакты\" на рабочий стол?</string>
     <string name="restore_nickname">Восстановить</string>
     <string name="ret_sign">"
 "</string>

@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Час назад</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Час назад</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Через час</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через полчаса</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Через %d мин.</item>
+        <item quantity="one">Через 1 мин.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">1 мин. назад</item>
+    </plurals>
     <plurals name="clipboard_ai_allow_more">
         <item quantity="other">Приложению %1$s %2$d раз был автоматически разрешен доступ к буферу обмена</item>
         <item quantity="one">Приложению %1$s %2$d раз был автоматически разрешен доступ к буферу обмена</item>
@@ -20,14 +49,39 @@
         <item quantity="one">%s день</item>
         <item quantity="few">%s дня</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%s часов</item>
         <item quantity="one">%s час</item>
         <item quantity="few">%s часа</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Через час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Через полчаса</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d минут</item>
+        <item quantity="one">через 1 минуту</item>
+        <item quantity="few">через %d минуты</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+    </plurals>
     <plurals name="minutes">
         <item quantity="other">%s мин.</item>
         <item quantity="one">%s мин.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">1 минуту назад</item>
+        <item quantity="few">%d минуты назад</item>
     </plurals>
     <plurals name="perm_manager_suggest_allow_content">
         <item quantity="other">Вы уже %1$d раз разрешили приложению %2$s доступ к буферу обмена. Всегда разрешать %3$s доступ к буферу обмена?</item>
