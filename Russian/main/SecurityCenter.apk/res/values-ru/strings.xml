@@ -208,7 +208,7 @@
 • доступ к журналу вызовов
 • доступ к SMS и вызовы
 
-Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Сервисы и обратная связь\"."</string>
+Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Обратная связь\"."</string>
     <string name="app_behavior_about_negative">Сообщить о неточностях</string>
     <string name="app_behavior_about_positive">ОК</string>
     <string name="app_behavior_allowed">Разрешить</string>
@@ -1240,8 +1240,8 @@
     <string name="ew_subscribe_title">Предупреждение о землетрясении | Землетрясение силой %2$s произошло в %1$s, может ощущаться в %3$s</string>
     <string name="examination_score_100">Всё в порядке</string>
     <string name="examination_score_60_0">Требуется оптимизация</string>
-    <string name="examination_score_80_100">Есть объекты для оптимизации</string>
-    <string name="examination_score_80_60">Есть объекты для оптимизации</string>
+    <string name="examination_score_80_100">Рекомендуется оптимизация</string>
+    <string name="examination_score_80_60">Рекомендуется оптимизация</string>
     <string name="examination_score_has_virus">Обнаружены подозрительные приложения</string>
     <string name="exception_dialog_message">Не удалось подсчитать статистику трафика из-за ошибки. Без точной статистики Безопасность не сможет контролировать использование данных. Перезагрузить устройство?</string>
     <string name="exception_dialog_ok_button">Перезагрузить</string>
@@ -2779,7 +2779,7 @@
     <string name="power_save_low_battery_seekbar_title">Переключать режим, когда заряда менее %1$d%%</string>
     <string name="power_save_low_battery_title">Автопереключение</string>
     <string name="power_save_mode">Экономия заряда</string>
-    <string name="power_save_mode_auto_exit_summary">Автоматически отключать экономию заряда при заряде 60% и более</string>
+    <string name="power_save_mode_auto_exit_summary">Автоматически отключать экономию заряда при уровне 60% и более</string>
     <string name="power_save_mode_auto_exit_title">Автоотключение</string>
     <string name="power_save_mode_close_aod_display_summary">Отключать Активный экран при экономии заряда</string>
     <string name="power_save_mode_close_aod_display_title">Отключать Активный экран</string>
@@ -3344,7 +3344,7 @@
     <string name="section_title_security_defend">Безопасность</string>
     <string name="section_title_system">Система</string>
     <string name="security_bottom_guide_to_pm_text">Отпустите для открытия утилит</string>
-    <string name="security_center_slogan">Безопасность и производительность</string>
+    <string name="security_center_slogan">Безопасность</string>
     <string name="security_guide_bubble_text">Открыть</string>
     <string name="security_guide_summary">Единое место для инструментов и утилит</string>
     <string name="security_guide_title">Набор утилит MIUI</string>

@@ -5,6 +5,11 @@
         <item quantity="one">Приложению %1$s %2$d раз был автоматически разрешен доступ к буферу обмена</item>
         <item quantity="few">Приложению %1$s %2$d раза был автоматически разрешен доступ к буферу обмена</item>
     </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">Приложению %1$s %2$d раз отказано в доступе к буферу обмена</item>
+        <item quantity="one">Приложению %1$s %2$d раз отказано в доступе к буферу обмена</item>
+        <item quantity="few">Приложению %1$s %2$d раза отказано в доступе к буферу обмена</item>
+    </plurals>
     <plurals name="clipboard_read_allow_more">
         <item quantity="other">Приложение %1$s %2$d раз обращалось к буферу обмена</item>
         <item quantity="one">Приложение %1$s %2$d раз обращалось к буферу обмена</item>
