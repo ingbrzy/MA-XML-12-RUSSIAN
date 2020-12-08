@@ -1192,7 +1192,7 @@ mm"</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
     <string name="unable_connect_network">Не удалось подключиться к сети</string>
     <string name="uninstall_theme">Удалить \"Темы\" с рабочего стола?</string>
-    <string name="uninstall_theme_description">Приложение \"Темы\" является системным, обеспечивает выбор обоев и персонализацию интерфейса, удалить его нельзя. Будет удален ярлык приложения с Рабочего стола. Запуск приложения по-прежнему будет доступен в настройках.</string>
+    <string name="uninstall_theme_description">Приложение \"Темы\" является системным, удалить его нельзя. Будет удален ярлык приложения с Рабочего стола. Запуск приложения по-прежнему будет доступен в Настройках.</string>
     <string name="up_to_the_end">Больше ничего нет</string>
     <string name="update">Обновление</string>
     <string name="update_btn">ОБНОВИТЬ</string>
@@ -1303,8 +1303,8 @@ mm"</string>
     <string name="xiaoai_speech_not_installed_download">Загрузить</string>
     <string name="xiaoai_speech_not_installed_message">Для продолжения загрузите и установите голосовой помощник Mi AI.</string>
     <string name="xiaoai_speech_not_installed_title">Голосовой помощник Mi AI не установлен</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="yesterday">Вчера</string>
 </resources>

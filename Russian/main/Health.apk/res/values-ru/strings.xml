@@ -233,7 +233,14 @@
     <string name="copy">Копировать</string>
     <string name="copy_done">Скопировано</string>
     <string name="copyright_statement">Авторское право © Xiaomi Inc. Все права защищены.</string>
+    <string name="course_consume_title">Расход</string>
+    <string name="course_consume_unit">" ккал."</string>
+    <string name="course_deatil_time">%1$d мин.</string>
+    <string name="course_description">%1$s·%2$s·%3$s</string>
+    <string name="course_detail_consume">%1$d ккал.</string>
+    <string name="course_download_error">Ошибка загрузки. Повторите попытку.</string>
     <string name="course_time_unit">" мин." </string>
+    <string name="course_train_count">%1$d раз.</string>
     <string name="cousume_unit_float_format">%1$.2f ккал.</string>
     <string name="cross_hiking">Пеший туризм</string>
     <string name="cumulative_decline">Потеря высоты</string>
@@ -1075,6 +1082,9 @@ ID:%s
     <string name="rb_gender_female">Пол: женский</string>
     <string name="rb_gender_male">Пол: мужской</string>
     <string name="reach_standard">Норма</string>
+    <string name="recent_train">Недавние</string>
+    <string name="recent_train_course_count">Всего: %1$d</string>
+    <string name="recent_trained">Законченные</string>
     <string name="recommand_body_weight_msg">Рекомендуемый целевой вес %1$.1f кг (ИМТ %2$.1f)</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
     <string name="record_blood_pressure">Запись измерений</string>
@@ -1127,7 +1137,12 @@ ID:%s
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="save">Сохранить</string>
+    <string name="search_cancel">Отмена</string>
+    <string name="search_course_name_hint">Название курса</string>
+    <string name="search_history">История поиска</string>
+    <string name="search_key_null_description">Поле не может быть пустым</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="search_train_course_hint">Поиск тренировочных курсов</string>
     <string name="sedentary_detail_title">Не сидите слишком долго</string>
     <string name="sedentary_enhance_remind">С вибрацией</string>
     <string name="sedentary_enhance_remind_content">Данная функция работает, когда режим \"Не беспокоить\" отключен</string>

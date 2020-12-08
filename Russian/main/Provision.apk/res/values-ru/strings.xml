@@ -106,8 +106,9 @@
     <string name="next_fingerprint">Далее</string>
     <string name="note_introduction">Это приложение позволяет создавать, просматривать и редактировать заметки.</string>
     <string name="other_settings">Дополнительные настройки</string>
-    <string name="other_settings_ad_dialog_content">"После отключения этой функции, вы больше не будете получать персонализированную рекламу. Однако вы все равно будете получать объявления, которые не имеют отношения к вашим интересам. Вы можете узнать больше о персонализированной рекламе в Политике конфиденциальности Xiaomi.
-Отключить?"</string>
+    <string name="other_settings_ad_dialog_agree">Включить</string>
+    <string name="other_settings_ad_dialog_content">"После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы. Однако реклама больше не будет актуальной, поскольку не будет основываться на ваших личных предпочтениях."</string>
+    <string name="other_settings_ad_dialog_disagree">Отключить</string>
     <string name="other_settings_ad_disable_summary">Включить персонализированную рекламу</string>
     <string name="other_settings_ad_enable">Персонализированная реклама</string>
     <string name="other_settings_ad_enable_summary">Персонализированная реклама на основе ваших предпочтений</string>
@@ -267,6 +268,15 @@
 2. При прослушивании музыки с выключенным экраном."</string>
     <string name="voice_assist_desp">Скажите \"Mi AI\" своему телефону. Mi AI распознает ваш голос и сможет управлять вашим устройством.</string>
     <string name="voice_assist_title">Голосовой помощник</string>
+    <string name="wc_dialog_agree">Принимаю</string>
+    <string name="wc_dialog_reject">Отмена</string>
+    <string name="wc_dialog_summary">Ежедневно обновляемые великолепные изображения и захватывающие истории на экране блокировки</string>
+    <string name="wc_dialog_title">Обновленный экран блокировки</string>
+    <string name="wc_double_check_agree">Попробовать</string>
+    <string name="wc_double_check_reject">Нет, спасибо</string>
+    <string name="wc_double_check_summary">Попробуйте Карусель обоев. Всегда можете включить или отключить эту функцию в Настройки > Экран блокировки.</string>
+    <string name="wc_double_check_title">Попробовать \"Карусель обоев\"</string>
+    <string name="wc_notice_link_announcement_summary">"Перед использованием прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> стороннего поставщика контента."</string>
     <string name="welcome">Добро пожаловать</string>
     <string name="zone_picker_title">Выберите часовой пояс</string>
 </resources>

@@ -354,6 +354,7 @@
     <string name="android_common_name_conjunctions">@android:string/common_name_conjunctions</string>
     <string name="android_common_name_prefixes">@android:string/common_name_prefixes</string>
     <string name="android_common_name_suffixes">@android:string/common_name_suffixes</string>
+    <string name="android_config_provision_app_timeout_ms">86400000</string>
     <string name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</string>
     <string name="android_force_close">@android:string/force_close</string>
     <string name="android_forward_intent_to_owner">@android:string/forward_intent_to_owner</string>
@@ -2983,6 +2984,16 @@
     <string name="news_footer_full">已显示全部内容</string>
     <string name="news_header_title">为你推荐</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
+    <string name="ng_haokan_glance_user_agreement">https://hksocial-cdn.levect.com/html/app_h5_user_agreement_ms.html</string>
+    <string name="ng_haokan_privacy_policy">https://hksocial-cdn.levect.com/html/privacy_policy_ms.html</string>
+    <string name="ng_id_glance_privacy_policy">https://in.api.glance.inmobi.com/api/v0/glance/xiaomi/privacy?lang=%1$s_region=%2$s</string>
+    <string name="ng_id_glance_user_agreement">https://in.api.glance.inmobi.com/api/v0/glance/xiaomi/eula?lang=%1$s_region=%2$s</string>
+    <string name="ng_mailru_privacy_policy">https://help.mail.ru/feed/policy</string>
+    <string name="ng_mailru_user_agreement">https://help.mail.ru/feed/UA</string>
+    <string name="ng_wuli_privacy_policy">https://news.lockscreenapi.com/sl/fiyuYz</string>
+    <string name="ng_wuli_user_agreement">https://news.lockscreenapi.com/sl/BfMnQf</string>
+    <string name="ng_xiaomi_privacy_policy">https://h5.app.intl.miui.com/gallery/privacy.html?lang=%1$s_%2$s</string>
+    <string name="ng_xiaomi_user_agreement">https://h5.app.intl.miui.com/gallery/eula.html?lang=%1$s_%2$s</string>
     <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_lucky_money"> </string>
     <string name="not_available"> </string>
@@ -3198,6 +3209,7 @@
     <string name="pref_camera_zoom_mode_entryvalue_wide">wide</string>
     <string name="pref_camera_zsl_value_off">off</string>
     <string name="pref_camera_zsl_value_on">on</string>
+    <string name="pref_default_popup_alert_value">none</string>
     <string name="pref_exposure_default">0</string>
     <string name="pref_face_beauty_advanced">a:1</string>
     <string name="pref_face_beauty_close">i:0</string>

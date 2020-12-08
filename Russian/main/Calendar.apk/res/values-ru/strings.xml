@@ -360,7 +360,11 @@
     <string name="hotel_detail_title">Информация об отеле</string>
     <string name="hotel_event_delete_successfully">Бронирование успешно удалено</string>
     <string name="hotel_event_title">Пребывание в отеле:</string>
+    <string name="icon_add_description">Добавить ярлык на рабочий стол</string>
     <string name="icon_content_description">Иконка диалога</string>
+    <string name="icon_remove_confirm">Удалить</string>
+    <string name="icon_remove_description_content">Приложение \"Календарь\" является системным, удалить его нельзя. Будет удален ярлык приложения с Рабочего стола. Вы по-прежнему сможете использовать Календарь через виджеты рабочего стола или в Ассистенте.</string>
+    <string name="icon_remove_description_title">Удалить \"Календарь\" с рабочего стола?</string>
     <string name="ics_file_not_found">Нет файлов календаря для импорта</string>
     <string name="ics_import_from_local_file">Импорт файлов календаря</string>
     <string name="ics_import_from_url">Подписка по ссылке</string>
@@ -666,7 +670,6 @@
     <string name="pm">PM</string>
     <string name="portrait_week_view">Портретная ориентация</string>
     <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
-    <string name="pref_default_popup_alert_value">умные</string>
     <string name="pref_reminder_time">Время напоминания</string>
     <string name="pref_title_alarm_remind">Напоминать мелодией</string>
     <string name="pref_title_no_remind">Не напоминать</string>
