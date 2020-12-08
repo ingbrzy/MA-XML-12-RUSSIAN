@@ -3625,6 +3625,7 @@
     <string name="instruction_privacy_password">Защищаемые объекты</string>
     <string name="instruction_title">Информация о безопасности</string>
     <string name="insufficient_storage">Недостаточно места.</string>
+    <string name="intelligence_suppression_title">Авто (рекомендуется)</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
     <string name="intent_sender_action_label">Действие:</string>
     <string name="intent_sender_data_label">Данные:</string>
@@ -6096,20 +6097,23 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_enhance_engine_ai_open">Улучшение изображений</string>
     <string name="screen_enhance_engine_ai_pic_summary">Идентификация объектов (например, растений, изображений, зданий) и динамическая настройка эффектов отображения. Эта функция немного увеличивает энергопотребление.</string>
     <string name="screen_enhance_engine_ai_title">AI улучшение изображения</string>
+    <string name="screen_enhance_engine_memc_note">Улучшение видео при суперразрешении недоступно. Включение улучшения отключит суперразрешение.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">Добавление дополнительных кадров для плавности картинки и переходов между видео</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">AI HDR улучшение</string>
-    <string name="screen_enhance_engine_s2h_pic_summary">Обработка видео с использованием HDR, для повышения детализации и яркости картинки. Эта функция поддерживается некоторыми приложениями.</string>
+    <string name="screen_enhance_engine_s2h_pic_summary">Обработка видео с использованием HDR, для повышения детализации и яркости картинки. Функция поддерживается не всеми приложениями.</string>
     <string name="screen_enhance_engine_s2h_title">AI HDR улучшение</string>
     <string name="screen_enhance_engine_sr_for_pic">Улучшение изображений</string>
     <string name="screen_enhance_engine_sr_for_video">Улучшение видео</string>
-    <string name="screen_enhance_engine_sr_pic_summary">Увеличение разрешения изображений или видео до 1440p. Эта функция поддерживается некоторыми приложениями и немного увеличивает энергопотребление.</string>
+    <string name="screen_enhance_engine_sr_for_video_note">Суперразрешение при улучшении видео недоступно. Включение суперразрешения отключит улучшение видео.</string>
+    <string name="screen_enhance_engine_sr_pic_summary">Увеличение разрешения изображений или видео до 1440p. Функция поддерживается не всеми приложениями и немного увеличивает расход заряда.</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">Увеличение разрешения видео до 1440p. Функция поддерживается не всеми приложениями и немного увеличивает расход заряда.</string>
     <string name="screen_enhance_engine_sr_title">Суперразрешение</string>
     <string name="screen_enhance_engine_title">AI обработка изображений</string>
     <string name="screen_enhance_status_disable">Откл.</string>
     <string name="screen_enhance_status_enable">Вкл.</string>
-    <string name="screen_fps_summary_power_save">Использование фиксированной частоты обновления кадров уменьшает энергопотребление</string>
+    <string name="screen_fps_summary_power_save">Использование фиксированной частоты обновления кадров экономит заряд</string>
     <string name="screen_fps_summary_smooth">Некоторые приложения автоматически увеличивают частоту обновления кадров для улучшения качества изображения</string>
     <string name="screen_fps_title">Частота обновления</string>
     <string name="screen_fps_unit">%d Гц</string>
@@ -8272,6 +8276,10 @@ UT-интерфейс: %5$s"</string>
     <string name="wake_suppression_title">Маленькая область</string>
     <string name="wakeup_and_sleep_settings_category_name">Настройки экрана блокировки</string>
     <string name="wakeup_for_keyguard_notification_title">Включать при уведомлениях</string>
+    <string name="wallet_reset">Вы можете удалить свои банковские карты Mi Pay, транспортные карты и карты-ключи только в приложении Mi Кошелек. Открыть Mi Кошелек?</string>
+    <string name="wallet_reset_cancel_btn">Отмена</string>
+    <string name="wallet_reset_ok_btn">Открыть</string>
+    <string name="wallet_reset_title">Удаление карт</string>
     <string name="wallpaper_attributions">Обои</string>
     <string name="wallpaper_attributions_values">"Спутниковые фотографии:
 © CNES 2014/Astrium, DigitalGlobe, Bluesky"</string>
