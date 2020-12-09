@@ -85,3 +85,7 @@ IF EXIST %_mnt%%_dir%arrays.xml (
   copy %_mnt%%_dir%arrays.xml %_dst%%_DEVICE%%_dir% 
 )
 
+IF EXIST %_mnt%%_dir%dimens.xml (
+  echo copying dimens.xml >> %report%
+  copy %_mnt%%_dir%dimens.xml %_dst%%_DEVICE%%_dir% 
+)
