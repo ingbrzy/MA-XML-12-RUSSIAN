@@ -478,6 +478,14 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'Ч'"</string>
+    <string name="fmt_time_24hour">"HH 'Ч'"</string>
+    <string name="fmt_time_millis">"S'мс'"</string>
+    <string name="fmt_time_minute">"m'мин'"</string>
+    <string name="fmt_time_minute_second">"m'мин' s'с'"</string>
+    <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
+    <string name="fmt_time_second">"s'с'"</string>
+    <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="forward_description">Следующий</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -526,6 +534,9 @@
     <string name="isReplacePage">Файл уже существует, заменить?</string>
     <string name="keep_intrercept">Оставить</string>
     <string name="keep_queued_download">Оставить</string>
+    <string name="leto_permission_rationale_ask">Приложение может работать некорректно без запрошенных разрешений</string>
+    <string name="leto_permission_rationale_ask_again">Приложение может работать некорректно без запрошенных разрешений. Откройте настройки приложения для изменения разрешений.</string>
+    <string name="leto_permission_title_settings_dialog">Требуются разрешения</string>
     <string name="load_error_tip">Ошибка загрузки, нажмите для повтора</string>
     <string name="load_more_footer_status_msg_error_load">Не удалось загрузить. Повторите попытку.</string>
     <string name="load_more_footer_status_msg_error_no_network">Не удалось подключиться к сети</string>
@@ -826,6 +837,7 @@
     <string name="not_set">Не задано</string>
     <string name="notif_install_successful">Загрузка завершена</string>
     <string name="notification_channel_name_local_push">Уведомления браузера</string>
+    <string name="ok">ОК</string>
     <string name="open_app_confirm_message">Разрешить этой странице открывать %s?</string>
     <string name="open_cloud_sync">Включить синхронизацию с облаком</string>
     <string name="open_cloud_sync_desc">Закладка успешно добавлена. Включите синхронизацию с облаком, чтобы синхронизировать закладки, добавленные на других устройствах. Войти и включить?</string>

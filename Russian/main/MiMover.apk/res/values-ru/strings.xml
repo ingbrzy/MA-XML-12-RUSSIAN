@@ -138,6 +138,7 @@
     <string name="dialog_wechat_data_transfer_fail_title">Ошибка переноса данных WeChat</string>
     <string name="document">Документы</string>
     <string name="early_morning">AM</string>
+    <string name="email">Email</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="err_authentication_failed">Не удалось подтвердить</string>
@@ -174,6 +175,14 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'Ч'"</string>
+    <string name="fmt_time_24hour">"HH 'Ч'"</string>
+    <string name="fmt_time_millis">"S'мс'"</string>
+    <string name="fmt_time_minute">"m'мин'"</string>
+    <string name="fmt_time_minute_second">"m'мин' s'с'"</string>
+    <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
+    <string name="fmt_time_second">"s'с'"</string>
+    <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -303,6 +312,7 @@
     <string name="miui_wait_link_message_1">Кнопка \"Я отправитель\" находится на начальной странице Mi Mover.</string>
     <string name="miui_wait_link_title_1">%d. Нажмите \"Я отправитель\" и немного подождите.</string>
     <string name="miui_wait_link_title_2">%d. Выберите эту точку доступа на вашем старом устройстве для подключения.</string>
+    <string name="mms">MMS</string>
     <string name="mms_contacts_calllog">Сообщения, контакты и журнал вызовов</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
@@ -423,6 +433,7 @@
     <string name="notification_trans_running_title">Mi Mover работает…</string>
     <string name="notification_trans_send_message">Отправка данных. Не выключайте Wi-Fi и не переключайтесь между сетями.</string>
     <string name="notification_trans_send_title">Отправка данных…</string>
+    <string name="ok">ОК</string>
     <string name="old_app_name">Старая версия</string>
     <string name="old_task_cleared">Старые задачи успешно удалены</string>
     <string name="old_wait_link">Выберите данные для переноса на старое устройство</string>

@@ -315,6 +315,14 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'Ч'"</string>
+    <string name="fmt_time_24hour">"HH 'Ч'"</string>
+    <string name="fmt_time_millis">"S'мс'"</string>
+    <string name="fmt_time_minute">"m'мин'"</string>
+    <string name="fmt_time_minute_second">"m'мин' s'с'"</string>
+    <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
+    <string name="fmt_time_second">"s'с'"</string>
+    <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="fortune_birthday">День рождения</string>
     <string name="fortune_card_caiwei">Финансовое положение:</string>
     <string name="fortune_card_set_bazi">Дата рождения</string>
@@ -453,6 +461,8 @@
     <string name="login_caldav">Добавить</string>
     <string name="login_failed_toast">Не удалось войти, обновите и повторите попытку</string>
     <string name="logining_caldav_account">Добавление…</string>
+    <string name="lottery_blue_ball_tip">Синий шар</string>
+    <string name="lottery_red_ball_tip">Красный шар</string>
     <string name="lunar_date">Лунная дата</string>
     <string name="lunar_date_content_desc">Дата по традиционному китайскому календарю</string>
     <string name="lunar_day" />

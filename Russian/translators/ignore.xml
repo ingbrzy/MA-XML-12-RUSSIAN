@@ -1496,7 +1496,6 @@
     <string name="config_wwan_data_service_package">com.android.phone</string>
     <string name="config_wwan_network_service_package">com.android.phone</string>
     <string name="config_xiaoaiComponent">com.miui.voiceassist/com.xiaomi.voiceassistant.VoiceService</string>
-    <string name="confirm">OK</string>
     <string name="content_desktop_uninstall">content_desktop_uninstall</string>
     <string name="control_quick_settings_tiles_default"> </string>
     <string name="control_quick_settings_tiles_stock"> </string>
@@ -1919,7 +1918,6 @@
     <string name="elapsed_time_format">+</string>
     <string name="elided_padding_token"> </string>
     <string name="ellipsis">…</string>
-    <string name="email">Email</string>
     <string name="email_feedback_uri"/>
     <string name="email_package_name">com.android.email</string>
     <string name="email_suggestions_authority">com.android.email.provider</string>
@@ -2060,7 +2058,6 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -2068,16 +2065,9 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -2502,9 +2492,6 @@
     <string name="leto_no_content">暂无内容</string>
     <string name="leto_pay_product_desc">很好</string>
     <string name="leto_payment_ext">" "</string>
-    <string name="leto_permission_rationale_ask">This app may not work correctly without the requested permissions.</string>
-    <string name="leto_permission_rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
-    <string name="leto_permission_title_settings_dialog">Permissions Required</string>
     <string name="leto_recently_played">最近在玩的游戏</string>
     <string name="leto_retry">重试</string>
     <string name="leto_share">分享</string>
@@ -2582,8 +2569,6 @@
     <string name="long_press_menu_key_def_function">show_menu</string>
     <string name="long_press_menu_key_when_lock">turn_on_torch</string>
     <string name="long_press_menu_key_when_lock_def_function">turn_on_torch</string>
-    <string name="lottery_blue_ball_tip">Синий шар</string>
-    <string name="lottery_red_ball_tip">Красный шар</string>
     <string name="lucky_activity"> </string>
     <string name="lucky_alarm"> </string>
     <string name="lucky_alarm_app"> </string>
@@ -2675,7 +2660,6 @@
     <string name="mi_sync_erroe_toast_other_details">-ERR:unknown_error</string>
     <string name="mibi_app_name">Mi Coin</string>
     <string name="mibi_balance_payment_title">Mi Coin</string>
-    <string name="mibi_button_count_down_finish">OK(%1$s)</string>
     <string name="mibi_button_count_down_reget">%1$s</string>
     <string name="mibi_colon">": "</string>
     <string name="mibi_denomination_mibi_unit">MI</string>
@@ -2818,7 +2802,6 @@
     <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode,workmode</string>
     <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_user_agreement_url">https://www.miui.com/res/doc/eula/%s.html</string>
-    <string name="mms">MMS</string>
     <string name="mobile_carrier_text_format">%1$s, %2$s</string>
     <string name="mobile_data_text_format">%1$s — %2$s</string>
     <string name="mobile_network_settings_class">com.android.phone.MobileNetworkSettings</string>
@@ -3009,7 +2992,6 @@
     <string name="number_tag_divider">" ｜ "</string>
     <string name="numbers">0123456789</string>
     <string name="oem_preferred_feedback_reporter"/>
-    <string name="ok">OK</string>
     <string name="olympic_vs">VS</string>
     <string name="online_reminder_header_text">提醒</string>
     <string name="open_bluetooth">开启</string>

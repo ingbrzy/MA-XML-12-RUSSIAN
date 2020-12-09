@@ -481,6 +481,7 @@
     <string name="config_export_file_prefix"/>
     <string name="config_export_file_suffix"/>
     <string name="config_prohibited_phone_number_regexp"/>
+    <string name="confirm">ОК</string>
     <string name="confirm_call_log_dial_summary">Запрос подтверждения набора номера из журнала вызовов для предотвращения случайного вызова.</string>
     <string name="confirm_call_log_dial_title">Подтверждение набора из журнала</string>
     <string name="confirm_delete_cloud_all_call_logs">Удалить всю историю вызовов, связанную с %s, как из облака, так и с этого устройства?</string>
@@ -829,6 +830,14 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'Ч'"</string>
+    <string name="fmt_time_24hour">"HH 'Ч'"</string>
+    <string name="fmt_time_millis">"S'мс'"</string>
+    <string name="fmt_time_minute">"m'мин'"</string>
+    <string name="fmt_time_minute_second">"m'мин' s'с'"</string>
+    <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
+    <string name="fmt_time_second">"s'с'"</string>
+    <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="force_touch_miprofile">Визитка</string>
     <string name="force_touch_new_contact">Новый контакт</string>
     <string name="four_letter">GHI</string>
