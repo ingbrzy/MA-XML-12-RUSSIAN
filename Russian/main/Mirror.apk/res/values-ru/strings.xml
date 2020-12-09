@@ -62,6 +62,14 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'Ч'"</string>
+    <string name="fmt_time_24hour">"HH 'Ч'"</string>
+    <string name="fmt_time_millis">"S'мс'"</string>
+    <string name="fmt_time_minute">"m'мин'"</string>
+    <string name="fmt_time_minute_second">"m'мин' s'с'"</string>
+    <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
+    <string name="fmt_time_second">"s'с'"</string>
+    <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -129,6 +137,7 @@
     <string name="notify_connected_action_button">Отключить</string>
     <string name="notify_connected_message">Вы можете передавать файлы и взаимодействовать с устройством, используя компьютер</string>
     <string name="notify_connected_title">Подключено к %1$s</string>
+    <string name="ok">ОК</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_all_purpose">Добро пожаловать в Screen Combo! Это приложение позволяет передавать файлы и взаимодействовать с устройством, используя компьютер.</string>
     <string name="privacy_describe_change_wifi_state">Для подключения устройств и передачи файлов по Wi-Fi</string>

@@ -152,7 +152,7 @@
     <string name="app_name">Разрешения</string>
     <string name="background_location_access_reminder_notification_content">Приложение имеет разрешение всегда получать доступ к местоположению. Нажмите для изменения разрешения.</string>
     <string name="background_location_access_reminder_notification_title">Приложение %s использовало доступ к местоположению</string>
-    <string name="blur_location_now_tip">Включено нечеткое позиционирование</string>
+    <string name="blur_location_now_tip">Включено нечеткое местоположение</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clipboard_ai_allow_once">Приложению %1$s был автоматически разрешен доступ к буферу обмена</string>
     <string name="clipboard_ai_allow_tip">Приложению %1$s разрешено чтение %2$s из буфера обмена</string>
@@ -180,6 +180,14 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'Ч'"</string>
+    <string name="fmt_time_24hour">"HH 'Ч'"</string>
+    <string name="fmt_time_millis">"S'мс'"</string>
+    <string name="fmt_time_minute">"m'мин'"</string>
+    <string name="fmt_time_minute_second">"m'мин' s'с'"</string>
+    <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
+    <string name="fmt_time_second">"s'с'"</string>
+    <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="forbid_notice_me">Больше не уведомлять</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -322,8 +330,8 @@
     <string name="permission_warning_template">Разрешить приложению %1$s %2$s?</string>
     <string name="permission_warning_template_ask">Приложение %1$s запрашивает следующее разрешение:</string>
     <string name="permisson_reject_notice_toast_text2">нет разрешения на %1$s.</string>
-    <string name="real_location_off">Нечеткое позиционирование: отключено</string>
-    <string name="real_location_on">Нечеткое позиционирование: включено</string>
+    <string name="real_location_off">Нечеткое местоположение включено</string>
+    <string name="real_location_on">Нечеткое местоположение отключено</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
