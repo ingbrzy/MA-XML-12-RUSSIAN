@@ -94,6 +94,16 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Найдено %1$s заметок</item>
+        <item quantity="one">Найдена %1$s заметка</item>
+        <item quantity="few">Найдено %1$s заметки</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Найдено %1$s задач</item>
+        <item quantity="one">Найдена %1$s задача</item>
+        <item quantity="few">Найдено %1$s задачи</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">Осталось %d секунд</item>
         <item quantity="one">Осталась %d секунда</item>

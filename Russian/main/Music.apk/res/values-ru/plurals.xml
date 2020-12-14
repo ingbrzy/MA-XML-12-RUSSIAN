@@ -154,6 +154,16 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d подписчиков</item>
+        <item quantity="one">%d подписчик</item>
+        <item quantity="few">%d подписчика</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">%d подписок</item>
+        <item quantity="one">%d подписка</item>
+        <item quantity="few">%d подписки</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: %d</item>

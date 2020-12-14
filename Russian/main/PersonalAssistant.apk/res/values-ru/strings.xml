@@ -520,11 +520,15 @@
     <string name="card_expand_note_clear_all">Очистить все</string>
     <string name="card_expand_note_dialog_button">Понятно</string>
     <string name="card_expand_note_dialog_message">Новая заметка создается каждый раз, когда вы нажимаете кнопку \"Сохранить\" в Ассистенте</string>
+    <string name="card_expand_note_dialog_message_new">Новая заметка создается каждый раз, когда вы нажимаете кнопку \"Сохранить\" в Ассистенте</string>
     <string name="card_expand_note_dialog_title">Сохранение заметок</string>
+    <string name="card_expand_note_dialog_title_new">Сохранение заметок</string>
     <string name="card_expand_note_sure_clear_all">Очистить сейчас</string>
     <string name="card_expand_note_toast_clear_null">Успешно очищено</string>
     <string name="card_expand_note_toast_install">Установите Заметки</string>
-    <string name="card_expand_note_toast_save_done">Сохранено в Заметки </string>
+    <string name="card_expand_note_toast_install_new">Установите Заметки</string>
+    <string name="card_expand_note_toast_save_done">Сохранено в Заметки</string>
+    <string name="card_expand_note_toast_save_done_new">Сохранено в Заметки</string>
     <string name="card_expand_note_toast_save_dup">Успешно сохранено</string>
     <string name="card_expand_note_toast_share_null">Пустая заметка</string>
     <string name="card_hint_noteboard">Нажмите для создания заметки</string>
@@ -1582,6 +1586,7 @@
     <string name="saturday_shortest">Сб</string>
     <string name="save">Сохранить</string>
     <string name="save_edit">Сохранить изменения</string>
+    <string name="save_to_note_new">Сохранено в Заметки</string>
     <string name="scan">Сканер</string>
     <string name="scan_app">Сканер</string>
     <string name="scan_card">Визитка</string>
@@ -1860,6 +1865,7 @@
     <string name="toast_function_add_limit">Можно добавить не более %d ярлыков</string>
     <string name="toast_function_remove_not_allowed">Необходимо добавить хотя бы 1 ярлык</string>
     <string name="toast_reach_text_limit_truncate">Заметка слишком длинная. Часть содержимого обрезана.</string>
+    <string name="toast_reach_text_limit_truncate_new">Заметка слишком длинная. Часть содержимого обрезана.</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="total_month_desc_text">Этот месяц</string>
