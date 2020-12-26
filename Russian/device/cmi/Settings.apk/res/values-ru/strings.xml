@@ -480,8 +480,8 @@
     <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать приложению \"%1$s\" создавать виджеты и получать их данные</string>
     <string name="allow_data_usage_title">Передавать данные в роуминге</string>
     <string name="allow_device_id_access">Приложения с доступом к ID устройства</string>
-    <string name="allow_float_summary">Разрешить плавающие окна</string>
-    <string name="allow_float_title">Плавающие окна</string>
+    <string name="allow_float_summary">Разрешить всплывающие уведомления</string>
+    <string name="allow_float_title">Всплывающие уведомления</string>
     <string name="allow_interruption">Исключения</string>
     <string name="allow_interruption_summary">Разрешить приложению звук, вибрацию, и/или всплывающие уведомления</string>
     <string name="allow_keyguard_summary">Показывать уведомления на экране блокировки</string>
@@ -1642,8 +1642,8 @@
     <string name="carrier_settings_euicc">Оператор</string>
     <string name="carrier_settings_title">Настройки оператора</string>
     <string name="carrier_settings_version">Версия настроек</string>
-    <string name="category_personal">Личные данные</string>
-    <string name="category_work">Работа</string>
+    <string name="category_personal">Личный профиль</string>
+    <string name="category_work">Рабочий профиль</string>
     <string name="cbrs_data_switch_string">Данные Cbrs</string>
     <string name="cdma_lte_data_service">Настройка службы данных</string>
     <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
@@ -2888,7 +2888,7 @@
     <string name="face_data_manage_delete_msg">Удалить данные лица</string>
     <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете разблокировать устройство по лицу.</string>
     <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите пальцем вверх для разблокировки устройства по лицу.</string>
-    <string name="face_data_manage_unlock_msg">Разблокировка устройства по лицу</string>
+    <string name="face_data_manage_unlock_msg">Использовать разблокировку по лицу</string>
     <string name="face_data_manage_unlock_slide_msg">Заменить действия слайдера разблокировкой по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
@@ -2900,8 +2900,8 @@
     <string name="face_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
     <string name="face_unlock">Сканер лица</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
-    <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включается при уведомлениях. Возможен повышенный расход батареи.</string>
-    <string name="face_unlock_by_notification_screen_on_title">Разблокировка при уведомлениях</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Разрешить разблокировку по лицу, когда экран включается при уведомлениях. Возможен повышенный расход батареи.</string>
+    <string name="face_unlock_by_notification_screen_on_title">Разблокировать при уведомлениях</string>
     <string name="face_unlock_category_title">Параметры экрана блокировки</string>
     <string name="face_unlock_check_failed">Не удалось распознать</string>
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
@@ -2932,9 +2932,9 @@
     <string name="face_unlock_success_show_message_dialog_positive_btn">Разрешить</string>
     <string name="face_unlock_success_show_message_dialog_title">Уведомления на экране блокировки</string>
     <string name="face_unlock_success_show_message_msg">Показывать содержимое уведомлений полностью только после распознавания по лицу</string>
-    <string name="face_unlock_success_show_message_title">Скрытие содержимого</string>
+    <string name="face_unlock_success_show_message_title">Скрывать содержимое</string>
     <string name="face_unlock_success_show_message_toast">Уведомления будут отображаться на экране блокировки</string>
-    <string name="face_unlock_success_stay_screen_msg">Оставаться на экране блокировки после распознавания по лицу. Для разблокировки необходимо будет провести по экрану вверх.</string>
+    <string name="face_unlock_success_stay_screen_msg">Оставаться на экране блокировки после распознавания по лицу. Для перехода на рабочий стол используется свайп вверх.</string>
     <string name="face_unlock_success_stay_screen_title">Оставаться на экране блокировки</string>
     <string name="face_unlock_title">Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль.</string>
     <string name="factory_reset_summary">Удалить все данные из внутренней памяти телефона</string>

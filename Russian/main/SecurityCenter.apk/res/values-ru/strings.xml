@@ -2861,8 +2861,8 @@
     <string name="power_wifi">Wi-Fi</string>
     <string name="pp_app_behavior_record_detail">Записи действий приложений</string>
     <string name="pp_app_del_img_intercept_detail">Уведомлять об удалении файлов из галереи без подтверждения</string>
-    <string name="pp_app_gets_dangerous_permission_reminder">Уведомление о разрешениях с высоким риском</string>
-    <string name="pp_app_gets_dangerous_permission_reminder_detail">Уведомление и варианты действий при использовании разрешений с высоким риском</string>
+    <string name="pp_app_gets_dangerous_permission_reminder">Уведомления о разрешениях с высоким риском</string>
+    <string name="pp_app_gets_dangerous_permission_reminder_detail">Уведомлять и предлагать варианты действий при использовании разрешений с высоким риском</string>
     <string name="pp_app_lock_introduction">Дополнительная блокировка для защиты приложений</string>
     <string name="pp_app_permission_settings">Конфиденциальные разрешения</string>
     <string name="pp_app_permission_settings_detail">Управление конфиденциальными разрешениями приложения</string>
@@ -2873,7 +2873,7 @@
     <string name="pp_call_phone_msg">Журнал вызовов</string>
     <string name="pp_capability_approved_title">Наши меры защиты конфиденциальности были протестированы и сертифицированы ведущими экспертами</string>
     <string name="pp_chain_start_is_prohibited">Ограничение цепного запуска</string>
-    <string name="pp_chain_start_is_prohibited_detail">Контроль цепного запуска приложений и доступа к личной информации</string>
+    <string name="pp_chain_start_is_prohibited_detail">Контролировать цепной запуск приложений и доступ к личной информации</string>
     <string name="pp_clipboard">Буфер обмена</string>
     <string name="pp_comprehensive_privacy_management">Комплексная защита конфиденциальности от перехвата данных</string>
     <string name="pp_contacts_msg">Контакты</string>
@@ -2907,7 +2907,7 @@
     <string name="pp_private_photo_album">Частные фото и видео</string>
     <string name="pp_private_photo_album_detail">Шифрование и защита файлов с помощью блокировки экрана</string>
     <string name="pp_prohibit_use_camera_in_background">Запрет использования камеры в фоновом режиме</string>
-    <string name="pp_prohibit_use_camera_in_background_detail">По умолчанию приложения не смогут использовать камеру в фоновом режиме</string>
+    <string name="pp_prohibit_use_camera_in_background_detail">По умолчанию приложениям недоступно использование камеры в фоновом режиме</string>
     <string name="pp_record_msg">Запись аудио</string>
     <string name="pp_safe_box">Личное пространство</string>
     <string name="pp_safe_box_detail">Чтобы защитить конфиденциальность, MIUI предоставляет контроль доступа приложений к вашим фото и видео, истории чатов в соц. сетях</string>
