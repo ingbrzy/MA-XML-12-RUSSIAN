@@ -1802,6 +1802,7 @@
     <string name="def_alarm_alert">/system/media/audio/alarms/Fireflies.ogg</string>
     <string name="def_backup_transport">com.google.android.gms/.backup.BackupTransportService</string>
     <string name="def_bluetooth_disabled_profiles">0</string>
+    <string name="def_calendar_alert">/system/media/audio/ui/StoneSkimming_preview.ogg</string>
     <string name="def_car_dock_sound">/system/media/audio/ui/Dock.ogg</string>
     <string name="def_car_undock_sound">/system/media/audio/ui/Undock.ogg</string>
     <string name="def_charging_started_sound">/system/media/audio/ui/charging.ogg</string>
@@ -1811,6 +1812,7 @@
     <string name="def_device_name_simple">%1$s</string>
     <string name="def_lock_sound">/system/media/audio/ui/Lock.ogg</string>
     <string name="def_low_battery_sound">/system/media/audio/ui/LowBattery.ogg</string>
+    <string name="def_notes_alert">/system/media/audio/ui/StoneSkimming_preview.ogg</string>
     <string name="def_notification_sound">/system/media/audio/ui/WaterDrop_preview.ogg</string>
     <string name="def_ntp_server_2">persist.vendor.ntp.svr_2</string>
     <string name="def_ringtone">/system/media/audio/ringtones/MiRemix.ogg</string>
@@ -1935,6 +1937,7 @@
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Мбит/с</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exposure_notification_package">com.google.android.gms</string>
     <string name="express_add">添加</string>
     <string name="express_add_tel">添加电话</string>
     <string name="express_complete_flag">3</string>

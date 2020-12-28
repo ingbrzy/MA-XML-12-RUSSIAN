@@ -226,6 +226,8 @@
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_length_format">%1$s назад</string>
+    <string name="chip_text">Текст</string>
+    <string name="chip_text">Текст</string>
     <string name="choose_profile">Выбор профиля</string>
     <string name="clear_adb_keys">Отозвать доступ для USB-отладки</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
@@ -275,6 +277,7 @@
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="date_picker_lunar">Лунный календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="debug_app">Выбрать приложение для отладки</string>
     <string name="debug_app_not_set">Приложение для отладки не задано</string>
     <string name="debug_app_set">Отладка приложения \"%1$s\"</string>
@@ -509,10 +512,13 @@ mm"</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех элементов</string>
+    <string name="miuix_appcompat_select_item">Выберите элементы</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -745,6 +751,12 @@ mm"</string>
     <string name="show_silently">Показывать без звука</string>
     <string name="show_touches">Отображать касания</string>
     <string name="show_touches_summary">Визуализировать касания и жесты</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>

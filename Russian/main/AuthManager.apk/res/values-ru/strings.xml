@@ -152,7 +152,9 @@
     <string name="app_name">Разрешения</string>
     <string name="background_location_access_reminder_notification_content">Приложение имеет разрешение всегда получать доступ к местоположению. Нажмите для изменения разрешения.</string>
     <string name="background_location_access_reminder_notification_title">Приложение %s использовало доступ к местоположению</string>
+    <string name="blur_location_is_on_tip">Приложение %1$s запустило службу нечеткого местоположения. Оставить службу включенной?</string>
     <string name="blur_location_now_tip">Включено нечеткое местоположение</string>
+    <string name="blur_location_title">Нечеткое местоположение</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clipboard_ai_allow_once">Приложению %1$s был автоматически разрешен доступ к буферу обмена</string>
     <string name="clipboard_ai_allow_tip">Приложению %1$s разрешено чтение %2$s из буфера обмена</string>
@@ -195,6 +197,8 @@
     <string name="go_behavior_record">Действия</string>
     <string name="go_perm_manager">Управление разрешениями</string>
     <string name="go_setting">Настройки</string>
+    <string name="gold_master_dialog_reject">Отклонить (%d)</string>
+    <string name="gold_master_dialog_title">Приложение %1$s хочет прочесть буфер обмена</string>
     <string name="grant_dialog_button_allow">Разрешить</string>
     <string name="grant_dialog_button_allow_always">Разрешать всегда</string>
     <string name="grant_dialog_button_allow_background">Разрешить в любом режиме</string>
@@ -207,6 +211,7 @@
     <string name="grant_dialog_storage_category_title">Приложению требуется доступ к галерее и сообщениям соцсетей</string>
     <string name="grant_dialog_storage_gallery_title">Галерея</string>
     <string name="grant_dialog_storage_sociality_title">Сообщения соцсетей</string>
+    <string name="keep_blur_location">Оставить</string>
     <string name="keep_notice_me">Уведомлять</string>
     <string name="location_settings">Настройки местоположения</string>
     <string name="location_warning">Приложение %1$s является поставщиком сервиса определения местоположения. Изменить поставщика можно в настройках.</string>
@@ -218,10 +223,13 @@
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех элементов</string>
+    <string name="miuix_appcompat_select_item">Выберите элементы</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -363,6 +371,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="stop_blur_location">Отключить</string>
     <string name="storage_policy_notify_both_title">Приложению %1$s запрещен доступ к галерее и сообщениям соцсетей</string>
     <string name="storage_policy_notify_content">Нажмите, чтобы настроить разрешения</string>
     <string name="storage_policy_notify_gallery_title">Приложению %1$s запрещен доступ к галерее</string>

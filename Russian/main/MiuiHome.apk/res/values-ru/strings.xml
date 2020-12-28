@@ -331,8 +331,11 @@
     <string name="home_screen">Рабочий стол</string>
     <string name="home_slide_up_action">Свайп вверх на рабочем столе</string>
     <string name="home_switch_personal_assistant">Экран слева</string>
+    <string name="icon_customize_summary">Выберите стиль и размер</string>
+    <string name="icon_form">Иконки</string>
     <string name="icon_reorganize_channel">Упорядочить иконки</string>
     <string name="icon_size">Размер иконок</string>
+    <string name="icon_style">Стиль</string>
     <string name="image_too_small_message">Размер изображения слишком мал</string>
     <string name="install">Установить</string>
     <string name="invalid_contact_shortcut">Недопустимый контакт</string>
@@ -351,6 +354,7 @@
     <string name="launcher_slide_up_title">Свайп вверх</string>
     <string name="launcher_sliding_up_gesture">Поиск свайпом вверх</string>
     <string name="launcher_title">Рабочий стол</string>
+    <string name="lib_name">Filament Android</string>
     <string name="like">Добавить в избранные</string>
     <string name="liked">Добавлено в избранные</string>
     <string name="loading_desktop">Подождите…</string>
@@ -531,6 +535,8 @@
     <string name="recommend_loading">Загрузка…</string>
     <string name="recommend_refresh">Обновить</string>
     <string name="recommend_xout">Не показывать</string>
+    <string name="remove_dialog_message">Выбранные приложения содержат важные системные функции. Вы можете удалить только их ярлыки с рабочего стола.</string>
+    <string name="remove_dialog_title_format">Удалить \"%s\" с рабочего стола?</string>
     <string name="remove_invalidate_gadget_tips">Один из используемых виджетов больше не доступен. Вы можете добавить другой.</string>
     <string name="reset_cate_tip_content">Будут восстановлены категории по умолчанию. Продолжить?</string>
     <string name="reset_cate_tip_title">Сброс категорий</string>

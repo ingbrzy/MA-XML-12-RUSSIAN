@@ -197,6 +197,7 @@ ID вашего аккаунта: %s"</string>
     <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
 ID:%s
 Отправьте этот код руководителю."</string>
+    <string name="download_file">Загрузка %s…</string>
     <string name="empty_device_list_notice">Нет устройств</string>
     <string name="ep_unsupported">Устройство не поддерживает вход в аккаунт Xiaomi</string>
     <string name="error_dup_binded_email">Этот адрес электронной почты связан с другим Mi Аккаунтом.</string>
@@ -426,6 +427,7 @@ ID:%s
     <string name="passport_login_instead_reg">Использовать этот номер</string>
     <string name="passport_login_instead_reg_with_email">Использовать этот Email</string>
     <string name="passport_login_other_account">Другой аккаунт</string>
+    <string name="passport_login_other_phone">Другой аккаунт</string>
     <string name="passport_login_prompt">Один Mi Аккаунт. Все Mi сервисы.</string>
     <string name="passport_login_recycle_account_no">Нет</string>
     <string name="passport_login_recycle_account_yes">Да</string>
@@ -443,6 +445,10 @@ ID:%s
     <string name="passport_prev">Назад</string>
     <string name="passport_privacy_policy">Политика конфиденциальности</string>
     <string name="passport_privacy_policy_required">Политика конфиденциальности (обязательно)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">Ваши личные данные будут храниться в соответствии с законами и правилами выбранного региона.</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> символов, не менее <xliff id="min_pwd_type" refersto="2">%3$d</xliff> символов следующих типов: буквы, цифры, специальные символы</string>
     <string name="passport_pwd_generate_failure">Не удалось создать пароль</string>
     <string name="passport_pwd_generating">Создание пароля…</string>
     <string name="passport_querying_phone_info">Запрос данных аккаунта…</string>
@@ -479,6 +485,7 @@ ID:%s
     <string name="passport_register_restricted_title">Невозможно использовать номер</string>
     <string name="passport_register_using_other_ways">Другие способы регистрации</string>
     <string name="passport_registered_phone_num">Телефон: %s</string>
+    <string name="passport_registered_phone_num_v2">Телефон</string>
     <string name="passport_registered_phone_user_ID">ID пользователя: %s</string>
     <string name="passport_registered_phone_user_name">Имя пользователя: %s</string>
     <string name="passport_reject_recycle_account">Нет</string>
@@ -564,6 +571,9 @@ ID:%s
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="provision_back">Назад</string>
+    <string name="provision_next">Далее</string>
+    <string name="provision_skip_underline">Пропустить</string>
     <string name="push_notification_content">Получить код</string>
     <string name="push_notification_title">Вы вошли в Mi Аккаунт с неизвестного устройства</string>
     <string name="push_notify_dialog_message">Произведен вход в ваш Mi Аккаунт с неизвестного устройства. Введите код подтверждения на этом устройстве. Если это были не вы, немедленно смените пароль от вашего Mi аккаунта. Не показывайте код подтверждения посторонним лицам.</string>

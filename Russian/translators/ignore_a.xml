@@ -38,6 +38,7 @@
     <string-array name="aritst_area_filter_api"></string-array>
     <string-array name="aritst_gender_filter"></string-array>
     <string-array name="aritst_gender_filter_api"></string-array>
+    <array name="assume_strong_biometrics_prefixes" />
     <array name="audio_recording_disclosure_exempt_apps" />
     <string-array name="auto_answer_delay_entries"></string-array>
     <string-array name="auto_answer_delay_entry_values"></string-array>
@@ -116,6 +117,7 @@
     <string-array name="config_canSendSubstituteNotificationPackages"></string-array>
     <string-array name="config_canSendSubstituteNotificationPackages"></string-array>
     <string-array name="config_canShowBadgePackages"></string-array>
+    <string-array name="config_charge_supportWirelessStrongSuper"></string-array>
     <array name="config_controlsPreferredPackages" />
     <array name="config_countries_to_enable_shortcut_view" />
     <integer-array name="config_defaultNotificationVibePattern"></integer-array>
@@ -145,6 +147,8 @@
     <string-array name="contact_infotype_entries"></string-array>
     <string-array name="contact_values"></string-array>
     <string-array name="country_codes_5ghz_supported"></string-array>
+    <string-array name="crypto_fingerprint_fallback_prefixes"></string-array>
+    <string-array name="crypto_fingerprint_fallback_vendors"></string-array>
     <string-array name="cta_permissions"></string-array>
     <string-array name="current_ticks"></string-array>
     <string-array name="current_units"></string-array>
@@ -202,6 +206,7 @@
     <string-array name="enhanced_4g_lte_mode_sumary_variant"></string-array>
     <string-array name="enhanced_4g_lte_mode_title_variant"></string-array>
     <string-array name="entries_mms_validity_period_value"></string-array>
+    <string-array name="entries_pref_key_voice_report"></string-array>
     <string-array name="entries_sms_validity_period_value"></string-array>
     <string-array name="eras"></string-array>
     <string-array name="etws_alerts_range_strings"></string-array>
@@ -237,6 +242,7 @@
     <string-array name="global_elderly_man_like_apps"></string-array>
     <string-array name="hdcp_checking_values"></string-array>
     <string-array name="heavenly_stems"></string-array>
+    <string-array name="hide_fingerprint_instantly_prefixes"></string-array>
     <string-array name="hide_installed_packages"></string-array>
     <string-array name="hide_packages"></string-array>
     <string-array name="hide_path"></string-array>
@@ -535,6 +541,7 @@
     <string-array name="usb_configuration_values"></string-array>
     <string-array name="user_detail_fixed_item_click_action"></string-array>
     <array name="user_detail_fixed_item_icons"></array>
+    <string-array name="values_pref_key_voice_report"></string-array>
     <integer-array name="vibration_recorder_major_action"></integer-array>
     <integer-array name="vibration_recorder_minor_action"></integer-array>
     <integer-array name="vibration_recorder_rewind"></integer-array>
