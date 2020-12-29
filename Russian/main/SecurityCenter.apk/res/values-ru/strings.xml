@@ -146,7 +146,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
     <string name="adjust_traffic_data">Расход трафика</string>
     <string name="after_the_lock_screen">Блокировать вместе с экраном</string>
-    <string name="ai_allow_all">Уведомлять, когда разрешение используется для всех</string>
+    <string name="ai_allow_all">По выбору системы</string>
     <string name="alert_back_diving_mode_summary">Отключить режим погружения?</string>
     <string name="alert_back_diving_mode_title">Режим погружения</string>
     <string name="alert_back_milink_hangup_tips_content">"Трансляция не будет прервана, пока вы делаете вызов. Чтобы включить экран, нажмите кнопку питания."</string>
@@ -212,6 +212,10 @@
 Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Обратная связь\"."</string>
     <string name="app_behavior_about_negative">Сообщить о неточностях</string>
     <string name="app_behavior_about_positive">ОК</string>
+    <string name="app_behavior_access_gallery">%1s - доступ к Галерее</string>
+    <string name="app_behavior_access_gallery_single">Доступ к Галерее</string>
+    <string name="app_behavior_access_sociality">%1s - доступ к сообщениям соцсетей</string>
+    <string name="app_behavior_access_sociality_single">Доступ к сообщениям соцсетей</string>
     <string name="app_behavior_allowed">Разрешить</string>
     <string name="app_behavior_audio">%1s - доступ к микрофону</string>
     <string name="app_behavior_audio_bg">%1s - доступ к микрофону в фоновом режиме</string>
@@ -245,6 +249,8 @@
     <string name="app_behavior_contacts_bg">%1s - доступ к контактам в фоновом режиме</string>
     <string name="app_behavior_contacts_bg_single">Доступ к контактам в фоновом режиме</string>
     <string name="app_behavior_contacts_single">Доступ к контактам</string>
+    <string name="app_behavior_delete_pic">%1s - удаление файлов из Галереи</string>
+    <string name="app_behavior_delete_pic_single">Удаление файлов из Галереи</string>
     <string name="app_behavior_denied">Отклонить</string>
     <string name="app_behavior_desc_allow_once">Разрешено в %1$s</string>
     <string name="app_behavior_desc_deny_once">Отклонено в %1$s</string>
@@ -319,8 +325,8 @@
     <string name="app_behavior_settings_category_privacy">Защита личной информации</string>
     <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует местоположение, микрофон или камеру в фоновом режиме</string>
     <string name="app_behavior_settings_privacy_tips">Уведомлять о доступе к контактам, журналу вызовов или выполнении конфиденциальных действий</string>
-    <string name="app_behavior_share_file">Отправка файла</string>
-    <string name="app_behavior_share_picture">Отправка изображения</string>
+    <string name="app_behavior_share_file">Отправка файлов</string>
+    <string name="app_behavior_share_picture">Отправка изображений</string>
     <string name="app_behavior_sms_read">%1s - чтение SMS</string>
     <string name="app_behavior_sms_read_single">Чтение SMS</string>
     <string name="app_behavior_sms_send">%1s - отправка SMS</string>
@@ -1007,11 +1013,19 @@
     <string name="dialog_restrict_all_wlan_title">Ограничение Wi-Fi</string>
     <string name="dialog_restrict_negative">Ограничить</string>
     <string name="dialog_restrict_positive">Отмена</string>
-    <string name="dialog_roaming_message">Ваш оператор связи может взимать дополнительную плату за использование данных в роуминге.</string>
-    <string name="dialog_roaming_title">Разрешить интернет в роуминге?</string>
+    <string name="dialog_roaming_message">Ваш оператор связи может взимать дополнительную плату за интернет-роуминг</string>
+    <string name="dialog_roaming_title">Разрешить интернет-роуминг?</string>
     <string name="dialog_roaming_warning_checkbox">Больше не показывать</string>
-    <string name="dialog_roaming_warning_message">После включения интернета в роуминге оператор будет взимать с вас плату. Включить его?</string>
+    <string name="dialog_roaming_warning_message">После включения интернет-роуминга оператор будет взимать с вас плату. Включить?</string>
     <string name="dialog_roaming_warning_ok">Включить</string>
+    <string name="dialog_skt_roaming_warning_cancel">Отмена</string>
+    <string name="dialog_skt_roaming_warning_message">"Для использования интернет-роуминга прочтите и примите условия ниже. За международный интернет-роуминг может взиматься плата. При отсутствии тарифного плана могут быть большие расходы, связанные с приложениями соцсетей, электронной почты и погоды.
+ * В случае несогласия, интернет-роуминг будет отключен.
+ * HD Voice используется по умолчанию в поддерживаемых сетях.
+ * Интернет-роуминг 5G доступен только в партнерских сетях.
+"</string>
+    <string name="dialog_skt_roaming_warning_ok">Принимаю</string>
+    <string name="dialog_skt_roaming_warning_title">Соглашение интернет-роуминга</string>
     <string name="dialog_title_attention">Внимание</string>
     <string name="dialog_title_auto_start_declare">Об автозапуске</string>
     <string name="dialog_title_stop_virus_scan">Остановка проверки</string>
@@ -1320,6 +1334,7 @@
     <string name="fast_open_list_open_title">Включено для %s приложений</string>
     <string name="fast_open_noti_summary">%s отправил красный конверт</string>
     <string name="fast_open_summary">Быстрое получение красного конверта</string>
+    <string name="file_confirm_start_activity">Приложение %s запрашивает доступ к Галерее и сообщениям соцсетей. Разрешить?</string>
     <string name="finger_remind_message">Добавьте отпечаток пальца. Нажмите для открытия Настроек.</string>
     <string name="fingerprint_identify_msg">Разблокировка отпечатком</string>
     <string name="fingerprint_not_identified_msg">Отпечаток не распознан. Введите пароль.</string>
@@ -1468,7 +1483,7 @@
     <string name="fw_blocked_join">" и "</string>
     <string name="fw_oversea">Блокировать вызовы из-за границы</string>
     <string name="fw_oversea_content">Блокировать входящие вызовы с иностранных номеров</string>
-    <string name="gallery_confirm_start_activity">Приложение %s пытается получить доступ к изображениям через другое приложение. Разрешить?</string>
+    <string name="gallery_confirm_start_activity">Приложение %s хочет получить доступ к Галерее и приложениям соцсетей. Разрешить?</string>
     <string name="game_ad_recommendation">Игры для всех</string>
     <string name="game_anti_disturb_msg">Не беспокоить</string>
     <string name="game_booster">Ускорение игр</string>
@@ -1619,7 +1634,7 @@
     <string name="gb_msg_transparent_dispaly">Уведомления с прозрачным фоном</string>
     <string name="gb_msg_transparent_dispaly_summary">Прозрачные</string>
     <string name="gb_network_status_bad">Произошла ошибка подключения.</string>
-    <string name="gb_new_feature">Новая возможность</string>
+    <string name="gb_new_feature">Новая функция</string>
     <string name="gb_operat_frequently">Не так быстро!</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
     <string name="gb_sign_gift">Отмечайтесь и получайте награды</string>
@@ -1631,50 +1646,49 @@
     <string name="gb_signed_title">Отметились в этом месяце</string>
     <string name="gb_sound_audition">Попробовать</string>
     <string name="gb_storage_game_uninstall">Удаление игр</string>
-    <string name="gb_storage_summary">Не показывать на рабочем столе игры, которые добавлены в Ускорении игр</string>
+    <string name="gb_storage_summary">Не показывать на рабочем столе игры, которые добавлены в Ускорение игр</string>
     <string name="gb_storage_title">Скрытие игр</string>
-    <string name="gb_voice_change_settinged">Синтезатор включен</string>
+    <string name="gb_voice_change_settinged">Синтезатор голоса включен</string>
     <string name="gb_voice_changer_cartoon">Мультик</string>
-    <string name="gb_voice_changer_dialog_upgrade_vip">Продлите подписку для возможности использовать обратную связь в реальном времени.</string>
+    <string name="gb_voice_changer_dialog_upgrade_vip">Продлите подписку для обратной связи в реальном времени</string>
     <string name="gb_voice_changer_dlg_button_agree">Разрешить</string>
     <string name="gb_voice_changer_dlg_button_refuse">Запретить</string>
     <string name="gb_voice_changer_dlg_title">Синтезатор голоса</string>
     <string name="gb_voice_changer_free">Бесплатно</string>
     <string name="gb_voice_changer_gender_female">Женский</string>
     <string name="gb_voice_changer_gender_man">Мужской</string>
-    <string name="gb_voice_changer_headset">Подключите наушники, чтобы использовать обратную связь в реальном времени</string>
+    <string name="gb_voice_changer_headset">Подключите наушники для обратной связи в реальном времени</string>
     <string name="gb_voice_changer_lady">Женщина</string>
     <string name="gb_voice_changer_loli">Девочка</string>
     <string name="gb_voice_changer_men">Мужчина</string>
     <string name="gb_voice_changer_normal">Оригинал</string>
-    <string name="gb_voice_changer_permission_dlg_msg">Синтезатору для нормальной работы требуется разрешение на запись звука.</string>
+    <string name="gb_voice_changer_permission_dlg_msg">Для нормальной работы Синтезатору голоса требуется разрешение на запись звука</string>
     <string name="gb_voice_changer_permission_dlg_title">Требуется разрешение</string>
     <string name="gb_voice_changer_recommend">Рекомендуемые</string>
-    <string name="gb_voice_changer_renew_dailog">Продлите подписку для возможности использования этого эффекта.</string>
+    <string name="gb_voice_changer_renew_dailog">Продлите подписку для возможности использования этого эффекта</string>
     <string name="gb_voice_changer_robot">Робот</string>
     <string name="gb_voice_changer_setting_account_title">Mi аккаунт</string>
     <string name="gb_voice_changer_setting_become_vip">Подписаться</string>
     <string name="gb_voice_changer_setting_gender_subtitle">Настройте эффекты и рекомендации для выбранного пола</string>
     <string name="gb_voice_changer_setting_gender_title">Пол</string>
-    <string name="gb_voice_changer_setting_realtime_subtitle">Проверьте, как изменяется ваш голос в реальном времени</string>
+    <string name="gb_voice_changer_setting_realtime_subtitle">Попробуйте изменение голоса в реальном времени</string>
     <string name="gb_voice_changer_setting_realtime_title">Обратная связь в реальном времени</string>
     <string name="gb_voice_changer_setting_rights">Условия использования и политика конфиденциальности</string>
-    <string name="gb_voice_changer_toast_window_bubble_tips">"Попробуйте Voice Changer прямо сейчас,
-чтобы получить 3-дневную бесплатную пробную версию! "</string>
-    <string name="gb_voice_changer_toast_window_new_tips">"Попробуйте Voice Changer!
+    <string name="gb_voice_changer_toast_window_bubble_tips">"Попробуйте 3-дневную пробную
+версию Синтезатора голоса!"</string>
+    <string name="gb_voice_changer_toast_window_new_tips">"Попробуйте Синтезатор голоса!
 Переключайтесь между разными персонажами и спецэффектами".</string>
     <string name="gb_voice_changer_toast_window_open">Включен эффект \"%s\"</string>
-    <string name="gb_voice_changer_toast_window_vip_expire">Срок действия вашей подписки скоро истечет. Продлите подписку сейчас, чтобы получить преимущества!</string>
-    <string name="gb_voice_changer_trial_gender_dialog">Получена бесплатная пробная версия! Выберите пол, чтобы соответствующим образом скорректировать эффекты и рекомендации.</string>
-    <string name="gb_voice_changer_trial_gender_dialog_title">Бесплатная пробная версия</string>
-    <string name="gb_voice_changer_trial_progress_dialog_message">Получение бесплатной пробной версии…</string>
+    <string name="gb_voice_changer_trial_gender_dialog">Загружена пробная версия! Выберите пол для соответствующих эффектов и рекомендаций.</string>
+    <string name="gb_voice_changer_trial_gender_dialog_title">Пробная версия</string>
+    <string name="gb_voice_changer_trial_progress_dialog_message">Загрузка пробной версии…</string>
     <string name="gb_voice_changer_user_status_expired">Срок действия подписки истек</string>
-    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Получите %d-дневную бесплатную пробную версию
-и познакомьтесь с Voice Changer!"</string>
+    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Загрузите %d-дневную пробную версию
+для ознакомления с Синтезатором голоса!"</string>
     <string name="gb_voice_changer_user_status_no_login">Войдите в Mi аккаунт</string>
     <string name="gb_voice_changer_user_status_remain_time">Оставшееся время: %s</string>
     <string name="gb_voice_changer_user_status_renew">Возобновить</string>
-    <string name="gb_voice_changer_user_tips_info_vip_expire">Срок действия ваших подписок истек. Продлите подписку сейчас, чтобы получить преимущества!</string>
+    <string name="gb_voice_changer_user_tips_info_vip_expire">Срок действия подписки истек. Продлите подписку!</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">Записывайте ключевые моменты ваших игровых сессий</string>
     <string name="gb_wonderful_video_cancel">Отмена</string>
     <string name="gb_wonderful_video_checkall">Выбрать все</string>
@@ -1833,7 +1847,7 @@
     <string name="install_title">Установка через USB</string>
     <string name="installing">Установка</string>
     <string name="international_Ad">Ad</string>
-    <string name="international_roaming_setting">Интернет в роуминге</string>
+    <string name="international_roaming_setting">Роуминг данных</string>
     <string name="intl_app_manager_card_permission_title">Конфиденциальность и разрешения</string>
     <string name="intl_perm_intro_message">Нажмите для настройки разрешений, чтобы избежать утечки данных</string>
     <string name="intl_perm_notification_content">Настройка разрешений</string>
@@ -2470,7 +2484,7 @@
     <string name="permgroupdesc_sms">Отправлять и просматривать SMS-сообщения</string>
     <string name="permgroupdesc_storage">Доступ к файлам на устройстве</string>
     <string name="permission_action_accept">Разрешить</string>
-    <string name="permission_action_ai_prompt">Спрашивать разрешение</string>
+    <string name="permission_action_ai_prompt">По выбору системы</string>
     <string name="permission_action_always">Разрешать всегда</string>
     <string name="permission_action_desc">Разрешить, но отправить пустую информацию для защиты конфиденциальности</string>
     <string name="permission_action_desc_always">Предоставлять разрешение всегда</string>
@@ -2878,7 +2892,7 @@
     <string name="pp_comprehensive_privacy_management">Комплексная защита конфиденциальности от перехвата данных</string>
     <string name="pp_contacts_msg">Контакты</string>
     <string name="pp_data_rights_realization">Права на данные</string>
-    <string name="pp_fuzzy_positioning">Нечеткое местоположение</string>
+    <string name="pp_fuzzy_positioning">Неточное местоположение</string>
     <string name="pp_fuzzy_positioning_detail">Предоставление приложениям информации о местоположении пониженной точности</string>
     <string name="pp_grant_permission_only_during_app_use">Разрешение только на время использования приложения</string>
     <string name="pp_grant_permission_only_during_app_use_detail">Запрет приложениям использовать местоположение, микрофон и контакты в фоновом режиме и установка разрешения только на время использования</string>
@@ -2926,7 +2940,7 @@
     <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
     <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>
     <string name="pref_adjust_traffic_data">Израсходованный трафик</string>
-    <string name="pref_allow_connect_network_title">Интернет в роуминге</string>
+    <string name="pref_allow_connect_network_title">Интернет-роуминг</string>
     <string name="pref_auto_adjust_traffic">Автообновление статистики</string>
     <string name="pref_automatic_adjust">Синхронизация трафика с оператором</string>
     <string name="pref_avaible_traffic">Месячный лимит</string>
@@ -3215,6 +3229,9 @@
     <string name="prompt_unknown">Не определено</string>
     <string name="protocol_exception_title">Диагностика сетевого протокола</string>
     <string name="protocol_loop_back_exception_summary">Ошибка диагностики. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
+    <string name="provision_back">Назад</string>
+    <string name="provision_next">Далее</string>
+    <string name="provision_skip_underline">Пропустить</string>
     <string name="qucick_replay_instrument">Использовать быстрые ответы в уведомлениях выбранных мессенджеров (например, WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Проверка…</string>
     <string name="quick_optimize_no_fix_issue_subtitle">Автономность не увеличена</string>
@@ -3235,13 +3252,16 @@
     <string name="reach_daily_limit_value_title">Достигнут лимит трафика</string>
     <string name="read_all_sms">Прочитать все</string>
     <string name="read_and_write_clipboard">Буфер обмена</string>
+    <string name="read_clipboard_ai_action_desc">Получать уведомления каждый раз, когда доступ разрешен или ограничен</string>
     <string name="read_clipboard_ai_close_no">Не сейчас</string>
     <string name="read_clipboard_ai_close_tip">Вы больше не будете получать уведомления, когда приложения обращаются к буферу обмена. Приложения автоматически получат разрешение только во время использования. Настроить разрешения?</string>
     <string name="read_clipboard_ai_close_yes">Настроить</string>
-    <string name="read_clipboard_op_content">Уведомлять о доступе к буферу обмена</string>
+    <string name="read_clipboard_op_content">Получать уведомления каждый раз, когда доступ разрешен или ограничен</string>
     <string name="read_clipboard_op_title">Уведомлять о доступе</string>
     <string name="read_clipboard_tip_content">Это разрешение позволяет приложениям читать содержимое буфера обмена, в котором может содержаться скопированная личная информация (например, данные счета, номера банковских карт и пароли).</string>
     <string name="read_clipboard_tip_title">Чтение из буфера обмена</string>
+    <string name="real_location_off">Неточное местоположение включено</string>
+    <string name="real_location_on">Неточное местоположение отключено</string>
     <string name="receive_now">Получить</string>
     <string name="recently_reject_message">Отклонен запрос на установку %1$s и %2$d других</string>
     <string name="recently_reject_message_one">Отклонен запрос на установку %1$s</string>
@@ -3289,15 +3309,15 @@
     <string name="risk_app_install_item_des">Версия: %1$s</string>
     <string name="risk_app_install_manager">Приложения с возможными рисками</string>
     <string name="risk_count_suffix" />
-    <string name="roaming_allow_network_dialog_title">Интернет в роуминге</string>
+    <string name="roaming_allow_network_dialog_title">Интернет-роуминг</string>
     <string name="roaming_limit_dialog_message">Достигнут суточный лимит трафика в роуминге.</string>
     <string name="roaming_limit_network_notification_body">Нажмите для просмотра доступных сетей</string>
     <string name="roaming_limit_notification_title">Достигнут лимит трафика</string>
     <string name="roaming_limit_warning_notification_body">Нажмите для просмотра.</string>
     <string name="roaming_not_start_body">Нажмите для просмотра настроек роуминга.</string>
-    <string name="roaming_not_start_title">Интернет в роуминге</string>
+    <string name="roaming_not_start_title">Интернет-роуминг</string>
     <string name="roaming_start_body">Нажмите для просмотра списка исключений.</string>
-    <string name="roaming_start_title">Интернет в роуминге</string>
+    <string name="roaming_start_title">Интернет-роуминг</string>
     <string name="root">ROOT доступ</string>
     <string name="root_apply_step_1">Разрешить ROOT доступ приложению \"%s\"?</string>
     <string name="root_apply_step_2">ROOT доступ может привести к нестабильной работе системы.</string>
@@ -4251,6 +4271,7 @@
     <string name="videobox_settings_switch_desc">Спецэффекты и функции воспроизведения видео</string>
     <string name="videobox_settings_switch_title">Панель инструментов видео</string>
     <string name="videobox_settings_title">Панель инструментов видео</string>
+    <string name="view_traffic_detail">Подробности</string>
     <string name="virus_auto_update_engine">Обновлять автоматически: %s</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_update_tips_title">Предупреждение</string>

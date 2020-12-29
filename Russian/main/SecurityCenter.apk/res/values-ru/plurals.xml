@@ -226,27 +226,33 @@
         <item quantity="one">Отметились %d раз</item>
         <item quantity="few">Отметились %d дня подряд</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Попробуйте %d-дневную пробную 
+версию Синтезатора голоса"</item>
+        <item quantity="one">"Попробуйте %d-дневную пробную 
+версию Синтезатора голоса"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
-        <item quantity="other">Не удалось получить %d-дневную бесплатную пробную версию</item>
-        <item quantity="one">Не удалось получить %d-дневную бесплатную пробную версию</item>
+        <item quantity="other">Не удалось получить %d-дневную пробную версию</item>
+        <item quantity="one">Не удалось получить %d-дневную пробную версию</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_success">
-        <item quantity="other">%d-дневная бесплатная пробная версия успешно получена</item>
-        <item quantity="one">%d-дневная бесплатная пробная версия успешно получена</item>
+        <item quantity="other">%d-дневная пробная версия успешно получена</item>
+        <item quantity="one">%d-дневная пробная версия успешно получена</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_trial_card">
-        <item quantity="other">Получите %d-дневную бесплатную пробную версию</item>
-        <item quantity="one">Получите %d-дневную бесплатную пробную версию</item>
+        <item quantity="other">Получите %d-дневную пробную версию</item>
+        <item quantity="one">Получите %d-дневную пробную версию</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
-        <item quantity="other">"Срок действия подписок истек.
-Можно получить %d-дневную бесплатную пробную версию сейчас!"</item>
-        <item quantity="one">"Your subscriptions expired.
-Можно получить %d-дневную бесплатную пробную версию сейчас!"</item>
+        <item quantity="other">"Срок действия подписки истек.
+Можно получить %d-дневную пробную версию сейчас!"</item>
+        <item quantity="one">"Срок действия подписки истек.
+Можно получить %d-дневную пробную версию сейчас!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
-        <item quantity="other">Получите %d-дневную бесплатную пробную версию</item>
-        <item quantity="one">Получите %d-дневную бесплатную пробную версию</item>
+        <item quantity="other">Получите %d-дневную пробную версию</item>
+        <item quantity="one">Получите %d-дневную пробную версию</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d символов</item>
@@ -293,14 +299,12 @@
         <item quantity="one">%d</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d приложений без интернета в роуминге</item>
-        <item quantity="one">%d приложение без интернета в роуминге</item>
-        <item quantity="few">%d приложения без интернета в роуминге</item>
+        <item quantity="other">Интернет-роуминг недоступен %d приложениям</item>
+        <item quantity="one">Интернет-роуминг недоступен %d приложению</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d приложений с интернетом в роуминге</item>
-        <item quantity="one">%d приложение с интернетом в роуминге</item>
-        <item quantity="few">%d приложения с интернетом в роуминге</item>
+        <item quantity="other">Интернет-роуминг доступен %d приложениям</item>
+        <item quantity="one">Интернет-роуминг доступен %d приложению</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">Найдено: %d</item>
@@ -360,6 +364,11 @@
         <item quantity="other">Соедините не менее %d точек</item>
         <item quantity="one">Соедините не менее %d точки</item>
         <item quantity="few">Соедините не менее %d точек</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Соедините не менее %s точек</item>
+        <item quantity="one">Соедините не менее %s точки</item>
+        <item quantity="few">Соедините не менее %s точек</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Подождите %d сек. и повторите попытку. "</item>
@@ -860,6 +869,16 @@
         <item quantity="other">Не добавлено %d игр</item>
         <item quantity="one">Не добавлена %d игра</item>
         <item quantity="few">Не добавлено %d игры</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Соедините не менее %s точек</item>
+        <item quantity="one">Соедините не менее %s точки</item>
+        <item quantity="few">Соедините не менее %s точек</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Введите %s цифр</item>
+        <item quantity="one">Введите %s цифру</item>
+        <item quantity="few">Введите %s цифры</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d приложений</item>
