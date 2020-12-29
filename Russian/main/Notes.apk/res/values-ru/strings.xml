@@ -33,6 +33,7 @@
     <string name="action_mode_switcher_grid_description">Плитка</string>
     <string name="action_mode_switcher_list_description">Список</string>
     <string name="action_settings_description">Настройки</string>
+    <string name="action_to_link">Открыть URL</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="actionbar_close_description">Закрыть</string>
     <string name="actionbar_home_description">Назад</string>
@@ -41,13 +42,14 @@
     <string name="alarm_bar_title">Напоминание</string>
     <string name="alert_action_edit_anyway">Продолжить</string>
     <string name="alert_message_delete">Удаление: %1$s.</string>
-    <string name="alert_message_delete_note">Удалить эту заметку?</string>
+    <string name="alert_message_delete_excerpt">Удалить заметку? Выдержка также будет удалена.</string>
+    <string name="alert_message_delete_note">Удалить заметку?</string>
     <string name="alert_message_edit_anyway">Редактирование может привести к потере данных.</string>
     <string name="alert_message_restore">Не удалось открыть заметку. Восстановите её для возможности редактирования содержимого.</string>
     <string name="alert_title_delete">Удаление заметок</string>
     <string name="alert_title_edit_anyway">Содержимое не поддерживается</string>
     <string name="alert_title_hidden_note">Напоминание о скрытой заметке</string>
-    <string name="alert_title_restore">Восстановите заметку</string>
+    <string name="alert_title_restore">Восстановление заметки</string>
     <string name="all_folder_name">Все заметки</string>
     <string name="all_terms">%1$s и %2$s</string>
     <string name="am">AM</string>
@@ -71,6 +73,8 @@
     <string name="cloud_trash_bin_title">Удаленные заметки в облаке</string>
     <string name="confirm_cancel">Отмена</string>
     <string name="confirm_ok">Принимаю</string>
+    <string name="continuous_default_hint">Копируйте текст, сохраняйте изображения и скриншоты как выдержки</string>
+    <string name="continuous_new_excerpt_title">Новая выдержка</string>
     <string name="copy">Копировать</string>
     <string name="cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте дополнительные разрешения для использования всех функций.</string>
     <string name="cta_confirm_cancel">Не разрешать</string>
@@ -131,13 +135,20 @@
     <string name="doodle_action_exit_immersion_mode">Выход из режима погружения</string>
     <string name="doodle_action_hide_tool_panel">Скрыть инструменты</string>
     <string name="doodle_action_show_tool_panel">Показать инструменты</string>
+    <string name="doodle_background_dot">Пунктирный</string>
+    <string name="doodle_background_white">Белый</string>
     <string name="doodle_brush_config_alpha">Непрозрачность</string>
     <string name="doodle_brush_config_width_level">Ширина</string>
     <string name="doodle_brush_markpen">Маркер</string>
     <string name="doodle_brush_pen">Ручка</string>
     <string name="doodle_brush_pencil">Карандаш</string>
     <string name="doodle_brush_watercolor">Кисть</string>
-    <string name="doodle_feature">Наброски</string>
+    <string name="doodle_feature">Эскизы</string>
+    <string name="doodle_guide_brush_config_hint">Нажмите еще раз, чтобы настроить ширину штриха и прозрачность</string>
+    <string name="doodle_guide_dialog_confirm">ОК</string>
+    <string name="doodle_guide_dialog_skip">Пропустить</string>
+    <string name="doodle_guide_dialog_title">Эскизы</string>
+    <string name="doodle_guide_quick_shape_hint" formatted="false">Нажмите и удерживайте эскиз в течение %d - %d секунд для автоматической настройки штрихов</string>
     <string name="doodle_palette">Цветовая палитра</string>
     <string name="doodle_save_progress_text">Сохранение…</string>
     <string name="doodle_saving">Сохранение</string>
@@ -173,15 +184,23 @@
     <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
     <string name="evening">После полудня</string>
     <string name="exceed_todo_text_limitation">Описание слишком длинное.</string>
+    <string name="excerpt">Создать выдержку</string>
+    <string name="excerpt_bubble_tips">Скопированный текст и изображения будут сохранены в Заметках</string>
+    <string name="excerpt_link_bubble_tips">Нажмите, чтобы сохранить в Заметках</string>
+    <string name="excerpt_note">Мои выдержки</string>
+    <string name="excerpted_to_note">Сохранено в Заметках</string>
+    <string name="excerpting">Создание выдержки…</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="first_enter_custom_folder_hint">Вы можете переименовать или удалить папки</string>
+    <string name="float_note_empty">Ничего нет</string>
+    <string name="float_note_title">Заметки</string>
     <string name="float_todo_guide_cancel">Отмена</string>
     <string name="float_todo_guide_message">Ярлык на рабочем столе позволяет использовать жест от края экрана для просмотра и создания задач. Создать ярлык?</string>
-    <string name="float_todo_guide_message_v2">Ярлык для жеста позволяет использовать жест от края экрана для просмотра и создания задач. Вы можете включить и выключить эту функцию в настройках.</string>
+    <string name="float_todo_guide_message_v2">Ярлык жестов позволяет использовать жест от края экрана для просмотра и создания задач. Вы можете включить и выключить эту функцию в настройках.</string>
     <string name="float_todo_guide_ok">Создать</string>
     <string name="float_todo_guide_ok_v2">Включить</string>
     <string name="float_todo_guide_title">Ярлык на рабочем столе</string>
-    <string name="float_todo_guide_title_v2">Ярлык для жеста</string>
+    <string name="float_todo_guide_title_v2">Ярлык жестов</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -207,6 +226,7 @@
     <string name="format_move_note_to_folder">Перемещено в %1$s</string>
     <string name="format_move_notes_out_folder">Перемещено: %1$s</string>
     <string name="format_move_notes_to_folder">Перемещено в %2$s: %1$s</string>
+    <string name="frequently_click_tips">Слишком быстро! Повторите попытку позже.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -228,6 +248,7 @@
     <string name="image_annotation_edit_hint">Описание изображения</string>
     <string name="image_annotation_edit_length_warning">Описание изображения может содержать не более %d символов</string>
     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
+    <string name="last_excerpt_unfinish_hint">Последняя выдержка неполная</string>
     <string name="loading_text">Подождите…</string>
     <string name="login_sync">ОК</string>
     <string name="lunar_day">Лунный %1$s</string>
@@ -244,7 +265,9 @@
     <string name="menu_more_description">Eще</string>
     <string name="menu_move_parent_folder">Назад</string>
     <string name="menu_move_to">Переместить</string>
+    <string name="menu_new_display_open">Открыть в новом окне</string>
     <string name="menu_new_folder">Новая папка</string>
+    <string name="menu_pc_open">Открыть на ПК</string>
     <string name="menu_restore">Восстановить</string>
     <string name="menu_send_as_image">Отправить как изображение</string>
     <string name="menu_send_as_text">Отправить как текст</string>
@@ -259,6 +282,7 @@
     <string name="menu_unstick">Открепить</string>
     <string name="merge_to_folder">Создать папку</string>
     <string name="midnight">Ночь</string>
+    <string name="mind_note_first_enter_guide">Нажмите, чтобы создать ментальную карту</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -339,6 +363,7 @@
     <string name="note_gesture_guide_step1">Для создания голосовой заметки нажмите и удерживайте кнопку \"Создать\" </string>
     <string name="note_gesture_guide_step2">Для создания папки нажмите и удерживайте заметку, затем перетащите ее на другую заметку</string>
     <string name="note_gesture_guide_step3">Чтобы переместить заметку в папку, нажмите и удерживайте ее, затем перетащите на папку</string>
+    <string name="note_header_first_enter_guide">Потяните вниз, чтобы посмотреть больше</string>
     <string name="note_invalid_mindnote_hint">Ментальные карты в этой версии недоступны. Обновите приложение.</string>
     <string name="note_link_email">Написать письмо</string>
     <string name="note_link_other">Открыть с помощью карт</string>
@@ -374,11 +399,11 @@
     <string name="pc_note_dual_screen_dialog_content">Похоже, вы сейчас редактируете заметки на устройстве. Чтобы избежать конфликтов при правках, закройте приложение Заметки на устройстве.</string>
     <string name="pc_note_edit_blank_view_tips">Перетащите сюда изображение для создания заметки</string>
     <string name="pc_note_edit_create_time">"Создано: "</string>
-    <string name="pc_note_edit_insert_doodle_by_phone">Создайте набросок</string>
+    <string name="pc_note_edit_insert_doodle_by_phone">Создайте эскиз</string>
     <string name="pc_note_edit_insert_picture_from_pc">Выберите изображение на компьютере</string>
     <string name="pc_note_edit_insert_picture_from_phone">Выберите изображение на устройстве</string>
     <string name="pc_note_edit_last_modified_time">"Изменено: "</string>
-    <string name="pc_note_edit_lock_dialog_doodle_by_phone">Создание наброска…</string>
+    <string name="pc_note_edit_lock_dialog_doodle_by_phone">Создание эскиза…</string>
     <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Съемка…</string>
     <string name="pc_note_edit_take_photo_by_phone">Сделайте фото</string>
     <string name="pc_note_edit_text_format_body">Текст заметки</string>
@@ -399,19 +424,25 @@
     <string name="permission_phone_state_desc">Для остановки записи голосовых заметок во время вызовов</string>
     <string name="permission_read_contact_desc">Связывание заметок, созданных во время вызовов, с контактами</string>
     <string name="permission_storage_desc">Для сохранения заметок в виде изображений</string>
+    <string name="permission_storage_desc_v12">Добавление изображений в заметки и сохранение заметок в виде изображений</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI сохранит ваши голосовые записи и ID устройства для транскрибирования и создания голосовых заметок. Узнайте больше в Mi AI о &amp;lt;a href=\"%1$s\"&amp;gt;Политике конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
     <string name="pm">PM</string>
+    <string name="pref_category_title_quick_func">Быстрые функции</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Используйте свайп двумя пальцами вверх для удаления заметок без подтверждения.</string>
     <string name="pref_desc_todo_float_mode">Проведите от края экрана, чтобы открыть панель инструментов задач</string>
+    <string name="pref_excerpt_link_float">Предлагать создать выдержку каждый раз, когда копируется URL-адрес</string>
+    <string name="pref_quick_note_desc">Используйте ярлык жестов для создания заметок и задач, а также сохранения скопированных URL-адресов, текста и изображений в Заметках.</string>
     <string name="pref_remind_type_summary">Воспроизведение звука напоминания в режиме \"Без звука\"</string>
     <string name="pref_remind_type_summary_new">Игнорировать режим \"Без звука\" и продолжать воспроизводить звук, пока будильник не будет отключен</string>
     <string name="pref_remind_type_title">Игнорировать режим \"Без звука\"</string>
     <string name="pref_remind_type_title_new">Высокоприоритетные напоминания</string>
     <string name="pref_title_cloud_trash_bin">Удаленные заметки в облаке</string>
     <string name="pref_title_common">Дополнительные настройки</string>
+    <string name="pref_title_excerpt_remind">Напоминания выдержек</string>
     <string name="pref_title_font_size">Размер шрифта</string>
     <string name="pref_title_note_style">Стиль</string>
+    <string name="pref_title_quick_note">Быстрые заметки</string>
     <string name="pref_title_show_root_folder_in_homepage">Показывать только быстрые заметки на главной странице</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Удаление жестом</string>
     <string name="pref_title_todo_float_mode">Панель инструментов задач</string>
@@ -420,7 +451,9 @@
     <string name="privacy_note_content_empty">Ничего нет</string>
     <string name="private_entry_available">Отпустите, чтобы открыть приватную папку</string>
     <string name="private_entry_default">Потяните вниз, чтобы открыть приватную папку</string>
-    <string name="recover_notes_hint">Произошла ошибка, посетите i.mi.com для восстановления заметок.</string>
+    <string name="quick_note_link_default_text">URL</string>
+    <string name="quick_note_new_user_guide">Быстрые заметки позволяют создавать заметки и выдержки</string>
+    <string name="recover_notes_hint">Произошла ошибка, посетите i.mi.com для восстановления заметок</string>
     <string name="redo">Вернуть</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Дождитесь загрузки заметки и повторите попытку</string>
     <string name="refuse_to_share_as_pic_because_of_content">Эта заметка слишком большая</string>
@@ -464,6 +497,7 @@
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="save_single_excerpt">Сохранить</string>
     <string name="save_to_gallery_failure_message">Ошибка сохранения</string>
     <string name="save_to_gallery_icon_name">Сохранить в Галерее</string>
     <string name="save_to_gallery_success_message">Сохранено</string>
@@ -478,6 +512,8 @@
     <string name="set_alarm_description">Установить напоминание</string>
     <string name="setting_other">ПРОЧЕЕ</string>
     <string name="setting_privacy">Политика конфиденциальности</string>
+    <string name="single_link_excerpt_saving">Сохранение…</string>
+    <string name="single_new_excerpt_title">Выдержки</string>
     <string name="snippet_audio_stub">Аудиофайл</string>
     <string name="snippet_image_stub">Изображение</string>
     <string name="snippet_image_template">[Изображение %1$s]</string>
@@ -596,6 +632,10 @@
     <string name="time_picker_label_hour">ч.</string>
     <string name="time_picker_label_minute">мин.</string>
     <string name="toast_cancel_to_insert_image">Не удалось добавить изображение</string>
+    <string name="toast_excerpt_end">Выдержка создана</string>
+    <string name="toast_excerpt_no_content">Ничего нет</string>
+    <string name="toast_excerpt_open_note">Открыта заметка с выдержкой</string>
+    <string name="toast_excerpt_saved">Сохранение выдержки в Заметках…</string>
     <string name="toast_message_add_image_fail">Не удалось добавить изображение</string>
     <string name="toast_notes_delete_success">Удаление завершено</string>
     <string name="toast_notes_hidden_count">Скрыто: %1$s</string>
@@ -617,6 +657,7 @@
 Разрешить Заметкам чтение состояния телефона и идентификацию."</string>
     <string name="toast_refuse_to_use_record_audio">"Доступ к микрофону ограничен. 
 Разрешить Заметкам запись аудио."</string>
+    <string name="toast_refuse_to_use_storage_in_excerpt">Разрешите приложению Заметки доступ к памяти устройства для возможности добавления изображений в заметки</string>
     <string name="today">Сегодня</string>
     <string name="todo_alert_title_delete">Удалить завершенные задачи</string>
     <string name="todo_audio_default_content">"[Голосовые задачи] "</string>
@@ -702,6 +743,7 @@
     <string name="unknown_source">Неизвестный источник</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="view_all_notes">Показать все</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

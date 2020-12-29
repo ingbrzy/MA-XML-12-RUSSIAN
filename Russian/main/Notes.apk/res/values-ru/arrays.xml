@@ -63,6 +63,11 @@
         <item>Камера</item>
         <item>Галерея</item>
     </string-array>
+    <string-array name="common_folder_operations">
+        <item>Создать</item>
+        <item>Переименовать</item>
+        <item>Удалить</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Имя</item>
         <item>Псевдоним</item>
@@ -107,5 +112,8 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Голосовые заметки</item>
         <item>Теперь вы можете создавать голосовые заметки. Нажмите на значок, запишите свой голос и прикрепите аудиофайл к заметке.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>Создать</item>
     </string-array>
 </resources>
