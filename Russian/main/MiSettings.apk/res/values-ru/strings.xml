@@ -246,63 +246,36 @@
     <string name="hsv_space_color_value">Значение</string>
     <string name="intelligent_recognition_item_summary">Используйте назначенный рингтон для звонков из служб доставки или такси. Эта функция будет работать, если %s установлен в качестве рингтона по умолчанию.</string>
     <string name="intelligent_recognition_item_title">Идентификация сервисов</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_artiodactyla">Even-toed ungulates</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_buddhism">Coraciiformes</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_chick">Galliformes</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_crane_form">Gruiformes</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_hayabusa">Falconidae</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_long_nose">Proboscidea</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_marsupial">Marsupials</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_meat">Carnivora</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_monopore">Monotremes</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_parrot">Parrots</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_perissodactyla">Odd-toed ungulates</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_primates">Primates</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_quolls">Dasyuromorphia</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_trichome">Pilosa</string>
-<!-- ### FROM SOURCE -->
-    <string name="item_whale">Cetaceans</string>
-<!-- ### FROM SOURCE -->
-    <string name="jaguar">Jaguar</string>
-<!-- ### FROM SOURCE -->
-    <string name="jaguar_info">The jaguar is largely a solitary, stalk-and-ambush predator at the top of the food chain.</string>
-<!-- ### FROM SOURCE -->
-    <string name="kinkajou">Kinkajou</string>
-<!-- ### FROM SOURCE -->
-    <string name="kinkajou_info">The kinkajou is known for its nocturnal habits and a fully prehensile tail.</string>
-<!-- ### FROM SOURCE -->
-    <string name="koala">Koala</string>
-<!-- ### FROM SOURCE -->
-    <string name="laughing_kookaburra">Kookaburra</string>
-<!-- ### FROM SOURCE -->
-    <string name="laughing_kookaburra_info">Kookaburras are known for their unique sounds and are good at hunting snakes and other reptiles.</string>
-<!-- ### FROM SOURCE -->
-    <string name="leopard">Leopard</string>
-<!-- ### FROM SOURCE -->
-    <string name="lion">Lion</string>
-<!-- ### FROM SOURCE -->
-    <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
+    <string name="item_artiodactyla">Парнокопытные</string>
+    <string name="item_buddhism">Ракшеобразные</string>
+    <string name="item_chick">Курообразные</string>
+    <string name="item_crane_form">Журавлеобразные</string>
+    <string name="item_hayabusa">Соколиные</string>
+    <string name="item_long_nose">Хоботные</string>
+    <string name="item_marsupial">Сумчатые</string>
+    <string name="item_meat">Хищные</string>
+    <string name="item_monopore">Однопроходные</string>
+    <string name="item_parrot">Попугаи</string>
+    <string name="item_perissodactyla">Непарнокопытные</string>
+    <string name="item_primates">Приматы</string>
+    <string name="item_quolls">Хищные сумчатые</string>
+    <string name="item_trichome">Неполнозубые</string>
+    <string name="item_whale">Китообразные</string>
+    <string name="jaguar">Ягуар</string>
+    <string name="jaguar_info">Ягуар - одинокий хищник, который выслеживает и устраивает засады</string>
+    <string name="kinkajou">Кинкажу</string>
+    <string name="kinkajou_info">Кинкаджу известен своими ночными привычками и цепким хвостом</string>
+    <string name="koala">Коала</string>
+    <string name="laughing_kookaburra">Кукабарра</string>
+    <string name="laughing_kookaburra_info">Кукабарры известны своими уникальными звуками, хорошо охотятся на змей и других рептилий</string>
+    <string name="leopard">Леопард</string>
+    <string name="lion">Лев</string>
+    <string name="lion_info">Львы - свирепые и сильные хищники. Они живут группами и имеют сильное чувство территории.</string>
     <string name="lock_summary">Защитите личную информацию</string>
-<!-- ### FROM SOURCE -->
-    <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
+    <string name="long_tai1ed_iaeger">Длиннохвостый поморник</string>
     <string name="low_fps_description">Низкая частота обновления экрана. Пониженное энергопотребление.</string>
     <string name="low_light_preview">Предпросмотр</string>
-<!-- ### FROM SOURCE -->
-    <string name="marabou_stork">Marabou stork</string>
+    <string name="marabou_stork">Африканский марабу</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -315,18 +288,12 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
-<!-- ### FROM SOURCE -->
-    <string name="mix_match_random">Random</string>
-<!-- ### FROM SOURCE -->
-    <string name="mix_match_submit">Apply</string>
-<!-- ### FROM SOURCE -->
-    <string name="mix_match_type_bird">Birds</string>
-<!-- ### FROM SOURCE -->
-    <string name="mix_match_type_land">Land</string>
-<!-- ### FROM SOURCE -->
-    <string name="mix_match_type_polar">Polar</string>
-<!-- ### FROM SOURCE -->
-    <string name="mix_match_type_rare">Rare</string>
+    <string name="mix_match_random">Случайные</string>
+    <string name="mix_match_submit">Применить</string>
+    <string name="mix_match_type_bird">Птицы</string>
+    <string name="mix_match_type_land">Сухопутные</string>
+    <string name="mix_match_type_polar">Полярные</string>
+    <string name="mix_match_type_rare">Редкие</string>
     <string name="mms">Сообщения</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
@@ -367,27 +334,19 @@
     <string name="month_september">Сентябрь</string>
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">Сен</string>
-<!-- ### FROM SOURCE -->
-    <string name="moose">Moose</string>
+    <string name="moose">Лось</string>
     <string name="more">Еще</string>
     <string name="more_ringtone">Все мелодии</string>
-<!-- ### FROM SOURCE -->
-    <string name="more_ringtones">More ringtones</string>
+    <string name="more_ringtones">Еще</string>
     <string name="more_settings">Настройки</string>
     <string name="morning">Утро</string>
     <string name="most_unlock_week_day">"Чаще всего: "</string>
-<!-- ### FROM SOURCE -->
-    <string name="mus_ox">Muskox</string>
-<!-- ### FROM SOURCE -->
-    <string name="narwhal">Narwhal</string>
-<!-- ### FROM SOURCE -->
-    <string name="narwhal_info">Narwhals possess a large tusk and feed on benthic prey, mostly flatfish.</string>
-<!-- ### FROM SOURCE -->
-    <string name="native_hen_info">"Tasmanian native hens live close to water and aren't good at flying."</string>
-<!-- ### FROM SOURCE -->
-    <string name="nature_mix">Nature mix</string>
-<!-- ### FROM SOURCE -->
-    <string name="nature_mix_summary">Create a custom mix</string>
+    <string name="mus_ox">Овцебык</string>
+    <string name="narwhal">Нарвал</string>
+    <string name="narwhal_info">Нарвалы обладают большим бивнем и питаются донной добычей, в основном камбалой.</string>
+    <string name="native_hen_info">Тасманийские куры живут близко к воде и плохо летают</string>
+    <string name="nature_mix">Миксы природы</string>
+    <string name="nature_mix_summary">Создайте свой микс звуков природы</string>
     <string name="network_error">Ошибка подключения к сети. Проверьте подключение и повторите попытку.</string>
     <string name="night">Вечер</string>
     <string name="nine_banded_armadillo">Броненосец</string>
@@ -407,35 +366,24 @@
     <string name="other_parameter">Другие</string>
     <string name="p3_color_region">P3</string>
     <string name="p3_color_region_summary">Отображение в цветовой гамме P3</string>
-<!-- ### FROM SOURCE -->
-    <string name="parasitic_jaeger">Parasitic jaeger</string>
-<!-- ### FROM SOURCE -->
-    <string name="personality_hint_ringtone">Personalized sounds</string>
-<!-- ### FROM SOURCE -->
-    <string name="petaurus_breviceps">Sugar glider</string>
-<!-- ### FROM SOURCE -->
-    <string name="pied_crow">Pied crow</string>
-<!-- ### FROM SOURCE -->
-    <string name="plains_zebra">Zebra</string>
-<!-- ### FROM SOURCE -->
-    <string name="platpus_info">"The platypus is an important subject in the study of evolutionary biology. It's also one of the few species of venomous mammals."</string>
-<!-- ### FROM SOURCE -->
-    <string name="platypus">Platypus</string>
+    <string name="parasitic_jaeger">Короткохвостый поморник</string>
+    <string name="personality_hint_ringtone">Персонализированные звуки</string>
+    <string name="petaurus_breviceps">Сумчатая летяга</string>
+    <string name="pied_crow">Пегий ворон</string>
+    <string name="plains_zebra">Зебра</string>
+    <string name="platpus_info">Утконос - важный предмет изучения эволюционной биологии. Это также один из немногих видов ядовитых млекопитающих.</string>
+    <string name="platypus">Утконос</string>
     <string name="pm">PM</string>
-<!-- ### FROM SOURCE -->
-    <string name="polar_bear">Polar bear</string>
-<!-- ### FROM SOURCE -->
-    <string name="pomarine_jaeger">Pomarine jaeger</string>
+    <string name="polar_bear">Полярный медведь</string>
+    <string name="pomarine_jaeger">Средний поморник</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preview">Предварительный просмотр</string>
     <string name="primary_color_region">Оригинальная</string>
     <string name="primary_color_region_chinese_only">Натуральная</string>
     <string name="primary_color_region_summary">Автоопределение цветовой гаммы с помощью калибровки</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-<!-- ### FROM SOURCE -->
-    <string name="puffin">Atlantic puffin</string>
-<!-- ### FROM SOURCE -->
-    <string name="red_billed_hornbill">Red-billed hornbill</string>
+    <string name="puffin">Тупик</string>
+    <string name="red_billed_hornbill">Красноклювый токо</string>
     <string name="reset_edit">Отменить изменения</string>
     <string name="restore_default">Восстановить по умолчанию</string>
     <string name="retry">Повтор</string>
@@ -443,22 +391,17 @@
     <string name="rgb_space_color_B">B</string>
     <string name="rgb_space_color_G">G</string>
     <string name="rgb_space_color_R">R</string>
-<!-- ### FROM SOURCE -->
-    <string name="rhinoceros_info">"White rhino is a mighty herbivore with a gentle temperament. Quite rare today, it's on the verge of extinction."</string>
+    <string name="rhinoceros_info">Белый носорог-могучее травоядное животное с мягким темпераментом. Довольно редкий сегодня, находится на грани исчезновения.</string>
     <string name="ringtone_slot_setting_title">Рингтоны SIM</string>
     <string name="ringtone_sound">Рингтоны</string>
     <string name="ringtone_title">Рингтоны</string>
-<!-- ### FROM SOURCE -->
-    <string name="sacred_ibis">African sacred ibis</string>
-<!-- ### FROM SOURCE -->
-    <string name="sanderling">Sanderling</string>
+    <string name="sacred_ibis">Священный ибис</string>
+    <string name="sanderling">Песчанка</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
-<!-- ### FROM SOURCE -->
-    <string name="scarlet_macaw">Macaw</string>
-<!-- ### FROM SOURCE -->
-    <string name="scarlet_macaw_info">Macaws are long-tailed, often colorful, New World parrots.</string>
+    <string name="scarlet_macaw">Ара</string>
+    <string name="scarlet_macaw_info">Ара - длиннохвостые, часто разноцветные попугаи Нового Света.</string>
     <string name="screen_cancel">Отмена</string>
     <string name="screen_confirm">Включить</string>
     <string name="screen_fps_summary_power_save">Фиксированная частота обновления экономит заряд</string>
@@ -591,15 +534,11 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="title_activity_easy_mode">Простой режим</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_mix_match_sound">Nature mix</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_mix_match_tips">Tap animals to listen to demos. You can add up to 5 animals to the mix.</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_submit_mix_match">Tap \"Apply\" to set a general ringtone.</string>
+    <string name="title_mix_match_sound">Миксы природы</string>
+    <string name="title_mix_match_tips">Нажмите на животных, чтобы прослушать. Вы можете добавить в микс до 5 животных.</string>
+    <string name="title_submit_mix_match">Нажмите \"Применить\", чтобы установить общий рингтон.</string>
     <string name="to_authorize">Разрешить</string>
-<!-- ### FROM SOURCE -->
-    <string name="toco_toucan">Toco toucan</string>
+    <string name="toco_toucan">Большой тукан</string>
     <string name="today">Сегодня</string>
     <string name="today_usage_title">Сегодня</string>
     <string name="today_use_time">Время экрана: %1$s</string>
