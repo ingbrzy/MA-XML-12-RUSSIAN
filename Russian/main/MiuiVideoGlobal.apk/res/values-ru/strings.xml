@@ -31,6 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="access_denied_info">Слишком много попыток. Повторите попытку позже.</string>
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -67,6 +68,8 @@
     <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
     <string name="activity_not_found_notice">Приложение не найдено</string>
     <string name="ad">Реклама</string>
+    <string name="ad_bar_notification_setting_sub_title">Показывать события в шторке уведомлений</string>
+    <string name="ad_bar_notification_setting_title">События</string>
     <string name="ad_buy">Покупка</string>
     <string name="ad_download">Загрузка</string>
     <string name="ad_join">Присоединиться</string>
@@ -148,6 +151,7 @@
     <string name="cast_tracks_chooser_dialog_ok">ОК</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Субтитры</string>
     <string name="cast_unmute">Включить звук</string>
+    <string name="catchplay_video">Catchplay</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Сменить пароль</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
@@ -449,6 +453,8 @@ ID: %s
     <string name="galleryplus_online_cta_disagree">Выход</string>
     <string name="galleryplus_online_cta_title">Условия и положения</string>
     <string name="galleryplus_online_video_loading">Подождите…</string>
+    <string name="galleryplus_orientation_lock">Автоповорот выключен</string>
+    <string name="galleryplus_orientation_unlock">Автоповорот включен</string>
     <string name="galleryplus_permission_content">Предоставьте приложению Mi Видео необходимые разрешения, чтобы использовать эту функцию.</string>
     <string name="galleryplus_permission_content2">"Чтобы использовать эту функцию, предоставьте приложению следующие разрешения:
 
@@ -505,6 +511,7 @@ ID: %s
     <string name="history_local_video">Локальные</string>
     <string name="history_online_video">Онлайн</string>
     <string name="hot">Популярные</string>
+    <string name="i_know">Понятно</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Идентификация</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
@@ -717,7 +724,9 @@ ID: %s
     <string name="my_feedback_title">Мой отзыв</string>
     <string name="need_update_app">Обновите Mi Видео для использования всех функций</string>
     <string name="network_connect_info">Ошибка подключения к сети. Проверьте настройки и повторите попытку.</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки и повторите попытку.</string>
     <string name="network_failed">Ошибка подключения к сети</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="neverthink_player_loading">Загрузка видео с Neverthink…</string>
     <string name="new_channel_tip">Взгляните на новые каналы!</string>
     <string name="next">Далее</string>
@@ -751,6 +760,7 @@ ID: %s
     <string name="off_tip_firework_recommend">Вы больше не будете получать персонализированные рекомендации по контенту от Firework.</string>
     <string name="ok">ОК</string>
     <string name="on_tip_firework_recommend">Включены персонализированные рекомендации по контенту от Firework</string>
+    <string name="open_settings">Настройки</string>
     <string name="order_recently_subscribe">Новые подписки</string>
     <string name="order_recently_updated">Недавние</string>
     <string name="ovp_alert_dialog_download_install_task">Загрузка HD плагина…</string>
@@ -996,6 +1006,7 @@ ID: %s
     <string name="plus_menu_delete_popup_text">Удалить?</string>
     <string name="plus_menu_properties">Свойства</string>
     <string name="plus_menu_rename">Переименовать</string>
+    <string name="plus_menu_rename_cant_empty">Имя файла не может быть пустым</string>
     <string name="plus_menu_rename_fail">"Имя файла не может содержать \"/\""</string>
     <string name="plus_menu_share">Поделиться</string>
     <string name="plus_mine_gallery">Мои альбомы</string>
@@ -1091,6 +1102,7 @@ ID: %s
     <string name="plus_sort_type_time">Время</string>
     <string name="plus_tab_gallery">Папки</string>
     <string name="plus_tab_time">Временная шкала</string>
+    <string name="progressbar_title">Проверка на наличие проблем безопасности…</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Войти с паролем</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Потяните вверх для обновления…</string>
@@ -1129,6 +1141,7 @@ ID: %s
     <string name="report_content_violence">Разжигание ненависти</string>
     <string name="report_fail">Произошла ошибка. Повторите попытку.</string>
     <string name="report_success">Отчет успешно отправлен</string>
+    <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с соответствующими законами и постановлениями. Для нормальной работы приложению необходимы следующие разрешения:&lt;br>&lt;br>&lt;b>Камера (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не согласитесь предоставить такие разрешения, вы не сможете использовать некоторые функции приложения, однако его основные функции все равно будут вам доступны. Вы всегда можете ограничить разрешения или отозвать свою авторизацию в настройках."</string>
     <string name="resend_active_email">Повторить</string>
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что сообщение не попало в папку со спамом.</string>
     <string name="resend_email_reach_limit_title">Слишком много попыток</string>
@@ -1231,6 +1244,7 @@ ID: %s
     <string name="sync_favorites_limit">В избранном более 500 видео. Чтобы продолжить синхронизацию, нам придется удалить несколько старых видео.</string>
     <string name="sync_favorites_message">Синхронизировать избранное на этом устройстве с вашим аккаунтом? Более не доступные объекты будут удалены.</string>
     <string name="sync_favorites_title">Синхронизировать избранное</string>
+    <string name="system_error_info">Система занята. Повторите попытку позже.</string>
     <string name="t_check_hide_file">Выберите объекты для скрытия</string>
     <string name="t_check_unhide_file">Выберите объекты для отображения</string>
     <string name="t_downloading">Загрузка:</string>
@@ -1286,6 +1300,7 @@ ID: %s
     <string name="ugc_no_net">Ошибка подключения к сети. Проверьте настройки и повторите попытку.</string>
     <string name="ui_log_tip">Нажмите на эту область для скрытия, нажмите и удерживайте для очистки старых журналов. Перетаскивайте журналы вручную.</string>
     <string name="unknow">Неизвестно</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="update">Обновить</string>
     <string name="update_email_address_dialog_message">Перед изменением электронной почты для восстановления необходимо подтвердить вашу личность.</string>
     <string name="update_email_address_dialog_title">Обновить адрес электронной почты для восстановления</string>
