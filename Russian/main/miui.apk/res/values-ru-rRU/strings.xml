@@ -100,12 +100,16 @@
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Заметки</string>
     <string name="com_miui_screenrecorder">Запись экрана</string>
+<!-- ### FROM SOURCE -->
+    <string name="com_miui_virtualsim">Mi Roaming</string>
     <string name="com_miui_weather2">Погода</string>
     <string name="com_xiaomi_drivemode">Режим вождения</string>
     <string name="com_xiaomi_gamecenter">Игры</string>
     <string name="com_xiaomi_jr">Mi Finance</string>
     <string name="com_xiaomi_scanner">Сканер</string>
     <string name="com_xiaomi_shop">Mi Store</string>
+<!-- ### FROM SOURCE -->
+    <string name="com_xiaomi_vipaccount">Mi Community</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">Подтвердить</string>
     <string name="copyright">Авторские права</string>
@@ -372,6 +376,8 @@
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Синхронизация отключена из-за большого количества попыток входа в систему.</string>
     <string name="evening">PM</string>
+<!-- ### FROM SOURCE -->
+    <string name="experience_new_system_app">Check out the new features!</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -564,6 +570,8 @@
     <string name="system_app_restore_failed">Произошла ошибка</string>
     <string name="system_app_restore_failed_detail">Не удалось восстановить системные приложения. Проверьте настройки сети, не перезагружайте и не выключайте устройство до тех пор, пока приложения не будут полностью восстановлены. Нажмите кнопку ниже, чтобы повторить попытку.</string>
     <string name="system_restore">Восстановить</string>
+<!-- ### FROM SOURCE -->
+    <string name="tap_to_update_system_app">Tap to update system apps</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -618,6 +626,8 @@
     <string name="user_agreement">Условия использования</string>
     <string name="user_experience_program">Программа улучшения качества</string>
     <string name="user_manual">Руководство пользователя</string>
+<!-- ### FROM SOURCE -->
+    <string name="wait_for_wlan_china">Wait for WLAN</string>
     <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
     <string name="web_sso_login_message">Авторизация…</string>
     <string name="website">Сайт</string>
