@@ -487,9 +487,15 @@
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="copy">Копировать</string>
     <string name="cta_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
+    <string name="cta_perm_cam">Камера</string>
+    <string name="cta_perm_cam_desc">Съемка фото и видео</string>
     <string name="cta_perm_dec">Добавление информации о местоположении съемки в фото и видео</string>
     <string name="cta_perm_loc">Местоположение</string>
+    <string name="cta_perm_storage">Память устройства</string>
+    <string name="cta_perm_storage_desc">Чтение и запись файлов</string>
     <string name="cta_perm_type">Для работы дополнительных функций во время их использования</string>
+    <string name="cta_perm_voice">Микрофон</string>
+    <string name="cta_perm_voice_desc">Запись звука во время съемки видео</string>
     <string name="cta_user_tips">Чтобы полностью понять ваши права как пользователя, а также то, как мы используем ваши данные, прочтите и примите наши &lt;font color='#37A5FF'&gt;&lt;a href =\"%1$s\"&gt;Пользовательское соглашение&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/font&gt;&lt;/a&gt;.</string>
     <string name="custom_sound_art">Ретро</string>
     <string name="custom_sound_default">По умолчанию</string>
@@ -729,6 +735,7 @@
 на фото были большими</string>
     <string name="macro_mode_use_hint_text_title">Макро</string>
     <string name="makeup_reset_toast">Эффекты макияжа успешно удалены</string>
+    <string name="manual_picture_style">Стиль</string>
     <string name="manually_raw_hint">RAW</string>
     <string name="masterfilter_description_title">Описание</string>
     <string name="message_snap_double_confirm">Долгое нажатие кнопки громкости запускает NFC. Заменить эту функцию?</string>
@@ -784,6 +791,9 @@
     <string name="mimoji_detect_skincolor_failed">Не удалось определить цвет кожи</string>
     <string name="mimoji_detect_tips">Держите лицо в кадре</string>
     <string name="mimoji_detect_unknow_failed">Неизвестная ошибка</string>
+    <string name="mimoji_download_material_hint">Чтобы создать/отредактировать антропоморфное изображение, необходимо загрузить ресурсы</string>
+    <string name="mimoji_download_material_title">Загрузка ресурсов</string>
+    <string name="mimoji_downloading">Загрузка</string>
     <string name="mimoji_ear">Уши</string>
     <string name="mimoji_earring">Серьги</string>
     <string name="mimoji_edit_abandon_alert">Отменить все изменения?</string>
@@ -1426,6 +1436,7 @@
     <string name="pref_google_lens_summary">Направьте камеру на контактную информацию, URL-адреса и QR-коды, чтобы просмотреть доступные функции</string>
     <string name="pref_google_lens_title">Предложения от Google Lens</string>
     <string name="pref_groupshot_with_primitive_title">Сохранять оригиналы снимков</string>
+    <string name="pref_hdr10_hdr10plus_video_mode_description">Оптимизация цвета для 4K (HDR10+) и 8K (HDR10) видео. Эта функция работает только на устройствах, совместимых с HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Автоматическая оптимизация цвета и контрастности для 4K и 8K видео. Оптимизированное видео может воспроизведено только на устройствах, совместимых с HDR10</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">Оптимизация цвета и контрастности для 4K и 8K видео. Оптимизированное видео может воспроизведено только на устройствах, совместимых с HDR10 HDR10+</string>
@@ -1553,6 +1564,7 @@
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
     <string name="recommend_super_night">Попробуйте Ночной режим</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
+    <string name="reset_manual_picture_style_toast">Параметры стиля сброшены</string>
     <string name="reset_manually_parameter_confirmed">ОК</string>
     <string name="reset_manually_parameter_hint">Сброс</string>
     <string name="screen_on_proximity_sensor_hint">Для отключения этой функции одновременно нажмите кнопки \"Громкость+\" и \"Назад\".</string>
