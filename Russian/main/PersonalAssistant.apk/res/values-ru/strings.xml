@@ -1427,9 +1427,9 @@
     <string name="music_setting_brief">Подключите наушники для прослушивания музыки или радио с того места, где вы остановились.</string>
     <string name="navigation_network_location_enable">Принять</string>
     <string name="navigation_network_location_enable_later">Отмена</string>
-    <string name="navigation_network_location_enabled">Службы определения местоположения включены. Вы можете изменить это в настройках.</string>
-    <string name="navigation_network_location_not_enabled_summary">Подключиться к сети и включить службы определения местоположения. Согласны?</string>
-    <string name="navigation_network_location_not_enabled_title">Включить службы определения местоположения</string>
+    <string name="navigation_network_location_enabled">Определение местоположения включено. Вы можете изменить это в настройках.</string>
+    <string name="navigation_network_location_not_enabled_summary">Подключиться к сети и включить определение местоположения</string>
+    <string name="navigation_network_location_not_enabled_title">Определение местоположения</string>
     <string name="navigation_search_automatically_positioned_city">Текущее местоположение</string>
     <string name="navigation_search_current_city">Текущий город:</string>
     <string name="navigation_search_default_hint">Искать здесь</string>
@@ -1437,7 +1437,7 @@
     <string name="navigation_search_positioning">Получение информации о местоположении…</string>
     <string name="navigation_search_positioning_failed">Не удалось определить местоположение, выберите город вручную</string>
     <string name="net_unavailable">Не удалось подключиться к сети</string>
-    <string name="network_access_denied">Не удается подключиться к сети, сначала согласитесь с Условиями пользования</string>
+    <string name="network_access_denied">Не удается подключиться к сети, сначала примите Условия пользования</string>
     <string name="network_error">Сетевая ошибка</string>
     <string name="network_tip">Не удалось подключиться к сети</string>
     <string name="network_unavaliable">Не удается получить информацию, проверьте сетевое подключение</string>
@@ -1510,7 +1510,7 @@
     <string name="payment_pref_source_mms_summary">Получить информацию об оплате из текстовых сообщений</string>
     <string name="payment_pref_source_wechat_summary">Получить информацию об оплате от WeChat</string>
     <string name="payment_privacy_dialog_cancel">Выход</string>
-    <string name="payment_privacy_dialog_ok">Согласен</string>
+    <string name="payment_privacy_dialog_ok">Принимаю</string>
     <string name="payment_privacy_dialog_title">\"Мои платежи\" Политика Конфиденциальности</string>
     <string name="payment_record_add">Добавить платеж</string>
     <string name="payment_record_delete">Удалить из платежей</string>

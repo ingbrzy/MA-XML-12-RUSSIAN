@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_enabled">Помощник включен.</string>
     <string name="agree">Принять</string>
     <string name="agree_and_next">Принять</string>
@@ -20,6 +47,9 @@
     <string name="application_permissions">Разрешения приложений</string>
     <string name="back">Назад</string>
     <string name="backup_introduction">Вы можете использовать это приложение для сохранения резервных копий на устройстве и восстановления из них.</string>
+    <string name="boot_video_desc" />
+    <string name="boot_video_replay">Повтор</string>
+    <string name="boot_video_skip">Пропустить</string>
     <string name="calculator_introduction">Вы можете использовать это приложение для расчетов, конвертации единиц и валют, оценки выплат по ипотеке.</string>
     <string name="camera_introduction">Вы можете использовать приложение Камера для съемки фотографий и видео.</string>
     <string name="carrier_introduction">"Для предоставления качественных услуг, устройство может периодически отправлять информацию о версии устройства, идентификационные данные устройства (включая IMEI/IMSI/MSISDN/MAC-адрес, MEID/ICCID) и приблизительную информацию о местоположении (включая идентификатор базовой станции) оператору через Wi-Fi, мобильную сеть передачи данных или бесплатное SMS. Оператор обязуется анализировать соответствующую информацию только для улучшения качества услуг или предоставления индивидуальных услуг или технологий, и не раскрывать соответствующую информацию третьим лицам в любой форме, которая идентифицирует вас лично. Конкретное заявление оператора имеет преимущественную силу. Проконсультируйтесь с вашим оператором относительно стоимости использования этой услуги."</string>
@@ -76,6 +106,7 @@
     <string name="install_preinstall_app">Загрузка приложений…</string>
     <string name="item_fingerprint">Отпечаток пальца</string>
     <string name="item_lock_screen_password">Только блокировка экрана</string>
+    <string name="item_lock_screen_password_only">Блокировка экрана</string>
     <string name="ktlocation_U">(Агент обслуживания KT)</string>
     <string name="ktposition_header">Обмен информацией о местоположении с аварийно-спасательными службами</string>
     <string name="language_picker_other_languages_title">Другие языки</string>
@@ -97,6 +128,8 @@
     <string name="move_data_dialog_cancel">Отмена</string>
     <string name="move_data_dialog_title">Вы можете ограничить использование мобильного интернета в настройках позже</string>
     <string name="move_data_dialog_use">Использовать</string>
+    <string name="msim_setting_default_data">Интернет</string>
+    <string name="msim_setting_default_voice">Вызовы</string>
     <string name="multisim_settings_category">Настройки SIM карт</string>
     <string name="multisim_settings_title">Обнаружено 2 SIM карты</string>
     <string name="navigation_picker_gesture_guide">Руководство по жестам</string>
@@ -178,13 +211,17 @@
     <string name="pref_title_voice_slot">SIM карта для вызовов</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="protect_persoanl_info_statement">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
+    <string name="provision_back">Назад</string>
     <string name="provision_inputmethod_policy_description">"
 Просмотрите Политику конфиденциальности выбранной клавиатуры."</string>
     <string name="provision_inputmethod_policy_description1">Политика конфиденциальности</string>
+    <string name="provision_next">Далее</string>
+    <string name="provision_skip_underline">Пропустить</string>
     <string name="recorder_introduction">Вы можете использовать это приложение для записи аудио и резервного копирования записей в облако.</string>
     <string name="require_authority_statement">Для возможности предоставления основных услуг, необходимы следующие разрешения для сбора вашей личной информации:</string>
     <string name="require_network_authority_statement">Для возможности предоставления основных услуг, необходимы подключение к Интернету и следующие разрешения для сбора вашей личной информации:</string>
     <string name="screen_recording_introduction">Это приложение позволяет записывать происходящее на экране.</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="security_introduction">Вы можете использовать это приложение для очистки мусора на устройстве, поиска и удаления вирусов, оптимизации производительности для игр, экономии заряда, управления приложениями и разрешениями, и многого другого.</string>
     <string name="security_mobile_account_introduction">Для входа в учетные записи и управления ими</string>
     <string name="service_agreement">Я прочитал и принимаю условия и положения.</string>

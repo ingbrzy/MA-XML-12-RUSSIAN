@@ -443,9 +443,9 @@
         <item quantity="few">%d проблемы с питанием</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
-        <item quantity="other">Оптимизируйте %d пунктов для экономии заряда</item>
-        <item quantity="one">Оптимизируйте %d пункт для экономии заряда</item>
-        <item quantity="few">Оптимизируйте %d пункта для экономии заряда</item>
+        <item quantity="other">Можно оптимизировать %d пунктов</item>
+        <item quantity="one">Можно оптимизировать %d пункт</item>
+        <item quantity="few">Можно оптимизировать %d пункта</item>	
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d дней с момента последней проверки</item>
@@ -622,19 +622,19 @@
         <item quantity="few">Можно исправить %d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
-        <item quantity="other">" %d пунктов можно оптимизировать"</item>
-        <item quantity="one">" %d пункт можно оптимизировать"</item>
-        <item quantity="few">" %d пункта можно оптимизировать"</item>
+        <item quantity="other">Можно оптимизировать %d пунктов</item>
+        <item quantity="one">Можно оптимизировать %d пункт</item>
+        <item quantity="few">Можно оптимизировать %d пункта</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
-        <item quantity="other">Оптимизируйте %d объектов для экономии заряда</item>
-        <item quantity="one">Оптимизируйте %d объект для экономии заряда</item>
-        <item quantity="few">Оптимизируйте %d объекта для экономии заряда</item>
+        <item quantity="other">Оптимизируйте %d пунктов для экономии заряда</item>
+        <item quantity="one">Оптимизируйте %d пункт для экономии заряда</item>
+        <item quantity="few">Оптимизируйте %d пункта для экономии заряда</item>
     </plurals>
     <plurals name="power_center_battery_suggest_result">
-        <item quantity="other">Можно оптимизировать %d объектов для экономии заряда</item>
-        <item quantity="one">Можно оптимизировать %d объект для экономии заряда</item>
-        <item quantity="few">Можно оптимизировать %d объекта для экономии заряда</item>
+        <item quantity="other">Можно оптимизировать %d пунктов</item>
+        <item quantity="one">Можно оптимизировать %d пункт</item>
+        <item quantity="few">Можно оптимизировать %d пункта</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>
