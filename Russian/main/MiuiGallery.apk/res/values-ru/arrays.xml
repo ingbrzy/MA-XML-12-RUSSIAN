@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_category_color_description">
+        <item>Белый</item>
+        <item>Темно-синий</item>
+        <item>Светло-синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Розовый</item>
+        <item>Коричневый</item>
+        <item>Серый</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Выберите изображение</item>
+        <item>Прозрачный фон</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Особенный день</item>
         <item>Памятный день</item>
@@ -138,6 +152,89 @@
     <string-array name="last_year_group_people">
         <item>Новые друзья и старые приятели</item>
         <item>Прошлогодние встречи</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Досуг</item>
+        <item>Бриз</item>
+        <item>Мечты</item>
+        <item>Облака</item>
+        <item>Мысли</item>
+        <item>Бутоны</item>
+        <item>Метаморфозы</item>
+        <item>Глубина</item>
+        <item>Отражения</item>
+        <item>Минимализм</item>
+        <item>Тайна</item>
+        <item>Туман</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Превратите фон в наброски</item>
+        <item>Фон в стиле акварели</item>
+        <item>Киберпанк-ретро</item>
+        <item>Вертикальные сегменты</item>
+        <item>Расплывчатые очертания</item>
+        <item>Футуристический вид</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Наброски</item>
+        <item>Акварель</item>
+        <item>RGB</item>
+        <item>Сегменты</item>
+        <item>Туманное окно</item>
+        <item>Техно</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Цветной контур</item>
+        <item>Пунктирный контур</item>
+        <item>Флуоресцентный контур</item>
+        <item>Цветная тень</item>
+        <item>Электрическая волна</item>
+        <item>Текущий</item>
+        <item>Текст</item>
+        <item>Крылья</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Общие</item>
+        <item>Путешествие</item>
+        <item>Работа</item>
+        <item>Документы</item>
+        <item>Образование</item>
+        <item>Экзамены</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Социальная защита</item>
+        <item>Медицинская карта</item>
+        <item>Медицинская страховка</item>
+        <item>Удостоверение</item>
+        <item>Вид на жительство</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Соединенные Штаты</item>
+        <item>Вьетнам</item>
+        <item>Япония</item>
+        <item>Гонконг и Макао</item>
+        <item>Южная Корея</item>
+        <item>Таиланд (туристы)</item>
+        <item>Таиланд (по прибытии)</item>
+        <item>Индия</item>
+        <item>Израиль</item>
+        <item>Тайвань</item>
+        <item>Малайзия</item>
+        <item>Новая Зеландия</item>
+        <item>Италия</item>
+        <item>Аргентина</item>
+        <item>Бразилия</item>
+        <item>Исландия</item>
+        <item>Кения</item>
+    </string-array>
+    <string-array name="magic_system_model">
+        <item>Mi 10</item>
+        <item>Mi 10 Pro</item>
+        <item>Mi 11</item>
+        <item>Mi 11 Pro</item>
     </string-array>
     <string-array name="menu_copy_or_move">
         <item>Переместить</item>

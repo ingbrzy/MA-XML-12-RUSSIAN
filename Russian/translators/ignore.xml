@@ -529,6 +529,7 @@
     <string name="arbor_day_tradition">植樹節</string>
     <string name="armed_forces_day">军人节</string>
     <string name="armed_forces_day_tradition">軍人節</string>
+    <string name="art_still_module_failed">@string/error_install_connect_fail</string>
     <string name="assistant_day_suffix">后</string>
     <string name="at_miui_browser">\@小米浏览器</string>
     <string name="atlas_next">左滑进入下一图集</string>
@@ -2222,7 +2223,9 @@
     <string name="huangli_bad_type">忌</string>
     <string name="huangli_good_type">宜</string>
     <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
+    <string name="id_photo_module_failed">@string/error_install_connect_fail</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
+    <string name="image_transition_name">image_transition</string>
     <string name="image_wallpaper_component">com.android.systemui/com.android.systemui.ImageWallpaper</string>
     <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
@@ -2618,6 +2621,7 @@
     <string name="lunar_yi">一</string>
     <string name="lunar_yue">月</string>
     <string name="lunar_zheng">正</string>
+    <string name="magic_matting_module_failed">@string/error_install_connect_fail</string>
     <string name="mailbox_name_server_all_unread">Непрочитанные</string>
     <string name="mailbox_name_server_drafts">Черновики</string>
     <string name="mailbox_name_server_inbox">Входящие</string>
@@ -3049,6 +3053,8 @@
     <string name="person_have_hongbao"> </string>
     <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
     <string name="phone_info_divider">" ｜ "</string>
+    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
+    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_transition_image_view">photo_view</string>
     <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
     <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
@@ -4280,6 +4286,7 @@
     <string name="vernal_equinox_tradition">春分</string>
     <string name="vertical_text_divider">|</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_post_module_failed">@string/error_install_connect_fail</string>
     <string name="vo_debug_info_flow_agg_dialog" formatted="false">"imageMode
 %s
 images:

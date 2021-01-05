@@ -102,6 +102,7 @@
     <string-array name="cmas_amber_alerts_channels_range_strings"></string-array>
     <string-array name="cmas_presidential_alerts_channels_range_strings"></string-array>
     <integer-array name="color_mode_ids"></integer-array>
+    <string-array name="color_value"></string-array>
     <array name="combined_view_account_colors"></array>
     <string-array name="commute_navigation_choice_item"></string-array>
     <string-array name="commute_navigation_dialog_item"></string-array>
@@ -179,6 +180,7 @@
     <string-array name="dirac_equalizer_preset_names"></string-array>
     <string-array name="dirac_equalizer_preset_values"></string-array>
     <string-array name="document_default_extensions"></string-array>
+    <string-array name="doodle_color_selector_array"></string-array>
     <string-array name="drawer_alpha"></string-array>
     <string-array name="dtmf_tone_values"></string-array>
     <string-array name="earthly_branches"></string-array>
@@ -228,6 +230,7 @@
     <string-array name="folder_sent_name_array"></string-array>
     <string-array name="folder_trash_name_array"></string-array>
     <string-array name="font_size_scale"></string-array>
+    <string-array name="frame_color_selector_array"></string-array>
     <string-array name="freq_entries"></string-array>
     <array name="freq_entryValues"></array>
     <string-array name="func_list"></string-array>
@@ -279,6 +282,17 @@
     <string-array name="long_trace_size_names"></string-array>
     <string-array name="long_trace_size_values"></string-array>
     <string-array name="luckymoney_sound"></string-array>
+    <string-array name="magic_effects_icon"></string-array>
+    <string-array name="magic_effects_icon_thumb"></string-array>
+    <string-array name="magic_id_photo_edit_hint_mm_array"></string-array>
+    <string-array name="magic_id_photo_edit_hint_px_array"></string-array>
+    <string-array name="magic_idp_color_common"></string-array>
+    <string-array name="magic_idp_size_category_certificates_value"></string-array>
+    <string-array name="magic_idp_size_category_common_value"></string-array>
+    <string-array name="magic_idp_size_category_education_value"></string-array>
+    <string-array name="magic_idp_size_category_examination_value"></string-array>
+    <string-array name="magic_idp_size_category_profession_value"></string-array>
+    <string-array name="magic_idp_size_category_visa_value"></string-array>
     <string-array name="map_keyword"></string-array>
     <string-array name="map_title"></string-array>
     <integer-array name="media2_widget_speed_multiplied_by_100"></integer-array>
@@ -453,6 +467,7 @@
     <string-array name="special_text_colon_array"></string-array>
     <string-array name="special_text_sender_array"></string-array>
     <string-array name="special_text_wroted_array"></string-array>
+    <string-array name="spinner_list"></string-array>
     <string-array name="split_screen_force_not_resize_pkg_list"></string-array>
     <string-array name="st_antispam_callwait_setting"></string-array>
     <string-array name="st_antispam_choose_methods_black"></string-array>
@@ -508,6 +523,7 @@
     <string-array name="temperature_setting_unit_values"></string-array>
     <string-array name="temperature_unit_settings_labels"></string-array>
     <string-array name="tencent_string_info"></string-array>
+    <string-array name="text_style"></string-array>
     <string-array name="tian_gan"></string-array>
     <string-array name="time_formate_items"></string-array>
     <string-array name="time_ticks"></string-array>
