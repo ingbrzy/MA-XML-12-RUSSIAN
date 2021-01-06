@@ -717,8 +717,8 @@
     <string name="audio_record_proc_title">Шумоподавление</string>
     <string name="audio_share_cancel">Отмена</string>
     <string name="audio_share_confirm">Передать</string>
-    <string name="auto_adjst_effect_summary">Авторегулировка цветовой температуры под окружающее освещение</string>
-    <string name="auto_adjust_effect_title">Авторегулировка цветовой температуры</string>
+    <string name="auto_adjst_effect_summary">Автоматическая регулировка цветового тона под окружающее освещение</string>
+    <string name="auto_adjust_effect_title">Авторегулировка тона</string>
     <string name="auto_brightness_default_title">По умолчанию</string>
     <string name="auto_brightness_description">Яркость экрана будет автоматически подстраиваться под окружающее освещение и использование. Вы можете перемещать ползунок вручную, чтобы адаптивная яркость запомнила ваши предпочтения.</string>
     <string name="auto_brightness_disclaimer">Яркость регулируется с учетом уровня освещенности. При необходимости ее можно временно изменить.</string>
@@ -3690,6 +3690,7 @@
     <string name="instruction_privacy_password">Защищаемые объекты</string>
     <string name="instruction_title">Информация о безопасности</string>
     <string name="insufficient_storage">Недостаточно места.</string>
+    <string name="intelligence_suppression_summary">Динамическая регулировка размера области у краев экрана для защиты от случайных прикосновений, в зависимости от вашего захвата</string>
     <string name="intelligence_suppression_title">Авто (рекомендуется)</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
     <string name="intent_sender_action_label">Действие:</string>
@@ -5977,7 +5978,9 @@ UT-интерфейс: %5$s"</string>
     <string name="recommend_item_3">Внешний аккумулятор</string>
     <string name="recommend_item_4">Наушники</string>
     <string name="recommend_item_title">Рекомендации</string>
+    <string name="recommend_text_wakeup_xiaoai">Настройки</string>
     <string name="recommend_tip">Нужны другие настройки?</string>
+    <string name="recommend_tip_wakeup_xiaoai">Использование кнопок для взаимодействия с Mi AI требует отключения полноэкранных жестов и выбора кнопок в качестве метода навигации</string>
     <string name="recompute_size">Повторное вычисление размера…</string>
     <string name="regional_screen_shot">Частичный скриншот</string>
     <string name="register_automatically">Автоматическая регистрация…</string>
@@ -6567,6 +6570,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_sync_settings">Синхронизация;Автоматически;Только по Wi-Fi</string>
     <string name="search_system_app_settings">Системные приложения</string>
     <string name="search_theme_settings_title">Темы;Тема;Персонализация;Персонализации</string>
+    <string name="search_title_font_settings">размер шрифта;толщина шрифта;стиль шрифта</string>
     <string name="search_touch_assistant">Сенсорный помощник;Помощник нажатий</string>
     <string name="search_touch_sensitive_title">Режим В перчатках;перчатки;перчатка</string>
     <string name="search_trusted_credentials">Надежные сертификаты;Подпись приложения;Подписи приложений;Сертификаты;Подпись</string>
@@ -7165,7 +7169,7 @@ UT-интерфейс: %5$s"</string>
 Это возможно благодаря надежному сертификату, установленному на устройстве."</string>
     <string name="stable_build">Стабильная</string>
     <string name="standard">Без звука</string>
-    <string name="standard_info">Звуки рингтонов и уведомлений отключены</string>
+    <string name="standard_info">Вызовы и уведомления будут без звука</string>
     <string name="standby_bucket_summary">Статус приложения в режиме ожидания: %s</string>
     <string name="start_silent_mode">Включить режим \"Без звука\"</string>
     <string name="starting_android">Запуск Android…</string>
@@ -7509,6 +7513,9 @@ UT-интерфейс: %5$s"</string>
     <string name="switchNetworkToast">За подключение к мобильным сетям может взиматься дополнительная плата.</string>
     <string name="switch_access_service_on">Переключение доступа</string>
     <string name="switch_bootup_sound">Мелодия загрузки</string>
+    <string name="switch_headset_anti_lost">Режим антипотери для наушников</string>
+    <string name="switch_headset_anti_lost_summary">Показывать напоминание через минуту, если наушники после вынимания из футляра не находятся в ушах</string>
+    <string name="switch_headset_anti_lost_title">Режим антипотери</string>
     <string name="switch_off_text">Откл.</string>
     <string name="switch_on_text">Вкл.</string>
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
@@ -7700,6 +7707,8 @@ UT-интерфейс: %5$s"</string>
     <string name="traffic_none">Нет</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
     <string name="trigger_carrier_provisioning">Триггер обеспечения несущей</string>
+    <string name="truetone_summary">Автоматическая регулировка цветового тона под окружающее освещение</string>
+    <string name="truetone_title">Авторегулировка тона</string>
     <string name="trust_agents_extend_unlock_summary">Доверенные агенты увеличивают время, в течение которого устройство остается разблокированным, но теряют возможность разблокировки</string>
     <string name="trust_agents_extend_unlock_title">Отложенная блокировка</string>
     <string name="trust_lost_locks_screen_summary">Блокировать экран при утрате доверия последним доверенным агентом</string>
@@ -8385,6 +8394,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wake_suppression_title">Маленькая область</string>
     <string name="wakeup_and_sleep_settings_category_name">Настройки экрана блокировки</string>
     <string name="wakeup_for_keyguard_notification_title">Включать при уведомлениях</string>
+    <string name="wallet_header_title">Кошелек и платежи</string>
     <string name="wallet_reset">Вы можете удалить свои банковские карты Mi Pay, транспортные карты и карты-ключи только в приложении Mi Кошелек. Открыть Mi Кошелек?</string>
     <string name="wallet_reset_cancel_btn">Отмена</string>
     <string name="wallet_reset_ok_btn">Открыть</string>
@@ -9134,6 +9144,10 @@ UT-интерфейс: %5$s"</string>
     <string name="write_system_settings">Изменить системные настройки</string>
     <string name="wrong_pin_code_one">Неверный PIN-код SIM-карты, у вас осталась 1 попытка. В случае неуспеха вам нужно будет обратиться к оператору связи для разблокировки устройства.</string>
     <string name="wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи для разблокировки устройства.</string>
+    <string name="xiaoai_global_shortcut">Общие</string>
+    <string name="xiaoai_key_shortcut">Кнопки</string>
+    <string name="xiaoai_other_shortcut">Другие методы</string>
+    <string name="xiaoai_shortcut_settings_title">Запуск Mi AI с помощью кнопок и жестов</string>
     <string name="xiaomi_account">Mi Аккаунт</string>
     <string name="xiaomi_cloud_find_device">Поиск устройства</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
