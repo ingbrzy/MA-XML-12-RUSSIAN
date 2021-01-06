@@ -619,6 +619,8 @@
     <string name="back_beryllium">0:POCOPHONE:SHOT ON POCOPHONE F1:SHOT ON POCOPHONE F1</string>
     <string name="back_beryllium_india">0:POCO:SHOT ON POCO F1:SHOT ON POCO F1</string>
     <string name="back_bomb">4:REDMI 10X PRO:AI QUAD CAMERA:48MP QUAD CAMERA</string>
+    <string name="back_cannon">3:REDMI NOTE 9</string>
+    <string name="back_cannong_global">3:REDMI NOTE 9T</string>
     <string name="back_cas">4:SHOT ON MI 10 ULTRA</string>
     <string name="back_cepheus">3:SHOT ON MI 9:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_cepheus_mi_9_explorer">3:SHOT ON MI 9 EXPLORER:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
@@ -671,6 +673,9 @@
     <string name="back_lavender_india_s">2:REDMI NOTE 7S:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_lemon">4:MI PHONE</string>
     <string name="back_lime">3:SHOT ON MI PHONE</string>
+    <string name="back_lime_global">4:REDMI 9T</string>
+    <string name="back_limegl">4:REDMI 9 POWER</string>
+    <string name="back_limegl_global">4:REDMI 9T</string>
     <string name="back_limein">4:SHOT ON MI PHONE</string>
     <string name="back_lmi">4:REDMI K30 PRO:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_lmi_global">0:POCO:SHOT ON POCO F2 PRO:SHOT ON POCO F2 PRO</string>
@@ -705,6 +710,7 @@
     <string name="back_shiva">0:POCO:SHOT ON POCO M2:SHOT ON POCO M2</string>
     <string name="back_sirius">2:SHOT ON MI 8 SE:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_surya">4:REDMI NOTE 9S:AI QUAD CAMERA:64MP QUAD CAMERA</string>
+    <string name="back_thyme">4:MI PHONE</string>
     <string name="back_to_mi_video">返回小米视频观看</string>
     <string name="back_toco">1:MI NOTE 10 LITE:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_tocoin">1:SHOT ON MI 10i:AI QUAD CAMERA:64MP QUAD CAMERA</string>
@@ -715,6 +721,7 @@
     <string name="back_umi">4:SHOT ON MI 10 5G:AI QUAD CAMERA:108MP QUAD CAMERA</string>
     <string name="back_ursa">2:SHOT ON MI 8 EXPLORER:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_vangogh">4:MI10 LITE ZOOM:AI QUAD CAMERA:48MP QUAD CAMERA</string>
+    <string name="back_venus">3:SHOT ON MI 11</string>
     <string name="back_violet">2:REDMI NOTE 7 PRO:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_willow">4:REDMI NOTE 8T:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word={searchTerms}&amp;tn=ins</string>
@@ -3317,6 +3324,13 @@
     <string name="preference_key_settings_input_method">key_settings_input_method</string>
     <string name="preference_key_settings_monitor">key_settings_monitor</string>
     <string name="preference_key_sign_exception">key_sign_exception</string>
+    <string name="preference_key_video_clean_auto_clean">key_video_clean_auto_clean</string>
+    <string name="preference_key_video_clean_create_desktop_icon">key_video_clean_create_desktop_icon</string>
+    <string name="preference_key_video_clean_remind_frequency">key_video_clean_remind_frequency</string>
+    <string name="preference_key_video_clean_remind_frequency_value">key_video_clean_remind_frequency_value</string>
+    <string name="preference_key_video_clean_remind_size">key_video_clean_remind_size</string>
+    <string name="preference_key_video_clean_remind_size_value">key_video_clean_remind_size_value</string>
+    <string name="preference_key_video_clean_remind_state">key_video_clean_remind_state</string>
     <string name="preference_key_videobox_line_location">key_videobox_line_location</string>
     <string name="preference_key_videobox_line_location_in_new">preference_key_videobox_line_location_in_new</string>
     <string name="preference_key_videobox_line_status">key_videobox_line_status</string>
@@ -4417,19 +4431,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-<!-- ### FROM SOURCE -->
-    <string name="preference_key_video_clean_auto_clean">key_video_clean_auto_clean</string>
-<!-- ### FROM SOURCE -->
-    <string name="preference_key_video_clean_create_desktop_icon">key_video_clean_create_desktop_icon</string>
-<!-- ### FROM SOURCE -->
-    <string name="preference_key_video_clean_remind_frequency">key_video_clean_remind_frequency</string>
-<!-- ### FROM SOURCE -->
-    <string name="preference_key_video_clean_remind_frequency_value">key_video_clean_remind_frequency_value</string>
-<!-- ### FROM SOURCE -->
-    <string name="preference_key_video_clean_remind_size">key_video_clean_remind_size</string>
-<!-- ### FROM SOURCE -->
-    <string name="preference_key_video_clean_remind_size_value">key_video_clean_remind_size_value</string>
-<!-- ### FROM SOURCE -->
-    <string name="preference_key_video_clean_remind_state">key_video_clean_remind_state</string>
-
 </resources>

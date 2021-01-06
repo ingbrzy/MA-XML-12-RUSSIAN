@@ -166,6 +166,7 @@
     <string name="accessibility_pull_down_to_open_camera">Проведите вниз для открытия камеры</string>
     <string name="accessibility_record_button">Кнопка записи</string>
     <string name="accessibility_reduce">Уменьшить</string>
+    <string name="accessibility_reference_line_text">Открыть панель с параметрами справочной линии</string>
     <string name="accessibility_review_thumbnail">Недавние фото</string>
     <string name="accessibility_select_all">Выбрать все</string>
     <string name="accessibility_select_all_end">Выбрано все</string>
@@ -344,7 +345,6 @@
     <string name="auxiliary_exposure_feedback_status">Проверка экспозиции включена</string>
     <string name="auxiliary_focus_peak_status">Пик фокуса включен.</string>
     <string name="back_bokeh_use_hint">Держитесь от объекта съемки в пределах 1.5 метров</string>
-    <string name="back_thyme">4:MI PHONE</string>
     <string name="background">Фон</string>
     <string name="beauty_body">Фигура</string>
     <string name="beauty_body_body">Стройный</string>
@@ -371,7 +371,8 @@
     <string name="button_fisheye_camera_title">Рыбий глаз</string>
     <string name="button_front_camera_title">Передняя камера</string>
     <string name="button_normal_video_title">Запись видео</string>
-    <string name="camcorder_tip_8k_max_video_duration">Вы можете записать до 6 минут в разрешении 8K</string>
+    <string name="camcorder_tip_8k_max_video_duration">Вы можете записать до 6 минут видео в разрешении 8K</string>
+    <string name="camcorder_tip_current_max_video_duration">Вы можете записать до %d мин. видео в текущем разрешении</string>
     <string name="camera_disabled">Камера была отключена из-за политики безопасности</string>
     <string name="camera_error_title">Ошибка камеры</string>
     <string name="camera_facedetection_sub_option_hint">Экспериментальная функция</string>
@@ -385,6 +386,7 @@
     <string name="camera_settings_label">Камера</string>
     <string name="camera_snap_mode_title">Быстрые снимки</string>
     <string name="camera_snap_mode_title_detail">Нажмите для просмотра</string>
+    <string name="cancel">Отмена</string>
     <string name="cannot_connect_camera_once">Не удалось подключиться к камере</string>
     <string name="cannot_connect_camera_twice">Не удалось подключиться к камере. Попробуйте перезагрузить устройство.</string>
     <string name="cannot_connect_camera_volte_call">Идет видеовызов, повторите попытку позже.</string>
@@ -394,6 +396,7 @@
     <string name="capture_shortcut_short">Селфи</string>
     <string name="ccc_temperature_warning_msg">Устройство перегрето. Камера будет закрыта через %d секунд. Ваши фото или видео будут сохранены автоматически.</string>
     <string name="ccc_temperature_warning_title">Перегрев устройства</string>
+    <string name="center_mark">Метка центра</string>
     <string name="clone_do_not_move_phone">Не двигайте устройство</string>
     <string name="clone_guide_tip1">Клонирование работает только с людьми.</string>
     <string name="clone_guide_tip3">Избегайте движущихся объектов и монотонных фонов.</string>
@@ -473,6 +476,7 @@
     <string name="config_name_super_resolution">Суперразрешение</string>
     <string name="config_name_tilt">Tilt-shift</string>
     <string name="config_name_timer">Таймер</string>
+    <string name="confirm">ОК</string>
     <string name="confirm_fastmotion_reset_manually_parameter_message">Сбросить настройки?</string>
     <string name="confirm_install_scanner_message">Приложение позволяет сканировать QR-коды, штрихкоды и т.д. Для его установки не требуется подключение к интернету.</string>
     <string name="confirm_install_scanner_title">Установите Сканер</string>
@@ -940,6 +944,7 @@
     <string name="parameter_lens_w">Ш (широкоугольный объектив)</string>
     <string name="parameter_log_format_description">Этот формат записывает видео с логарифмической функцией, примененной к кривой экспозиции, для захвата большего числа деталей в светлых и темных местах, что предоставляет больше возможностей в постобработке.</string>
     <string name="parameter_log_format_title">LOG формат</string>
+    <string name="parameter_manual_picturestyle_description">Насыщенность позволяет контролировать глубину и интенсивность цвета, контрастность позволяет выявить или минимизировать разницу между светлым и темным, резкость визуализирует детали вдоль контуров.</string>
     <string name="parameter_metering_description">Средний замер учитывает все области вашего изображения, работая лучше всего для равномерно освещенных сцен. Центровзвешенный замер в основном фокусируется на центральной области кадра и учитывает яркость окружающей области, которая подходит для съемки объектов в центре кадра. Точечный замер охватывает область только в одном месте, обеспечивая точный контроль над экспозицией.</string>
     <string name="parameter_metering_title">Режимы замера</string>
     <string name="parameter_peak_focus_description">При ручной фокусировке используйте функцию \"Пик фокуса\" для подсветки красным области фокусировки.</string>
@@ -1310,6 +1315,11 @@
     <string name="pref_camera_recordlocation_entry_off">Откл</string>
     <string name="pref_camera_recordlocation_entry_on">Вкл</string>
     <string name="pref_camera_recordlocation_title">Сохранять местоположение</string>
+    <string name="pref_camera_reference_capture_title">Контрольные линии</string>
+    <string name="pref_camera_reference_capture_title_golden_section">Золотое сечение</string>
+    <string name="pref_camera_reference_capture_title_jiugongge">Сетка</string>
+    <string name="pref_camera_reference_capture_title_left_golden_spiral">Золотая спираль A</string>
+    <string name="pref_camera_reference_capture_title_right_golden_spiral">Золотая спираль B</string>
     <string name="pref_camera_referenceline_title">Линии сетки</string>
     <string name="pref_camera_saturation_title">Насыщенность</string>
     <string name="pref_camera_scenemode_entry_auto">Авто</string>
@@ -1355,6 +1365,8 @@
     <string name="pref_camera_tilt_shift_entry_circle">Окружность</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Параллель</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
+    <string name="pref_camera_tip_doc">Режим документа</string>
+    <string name="pref_camera_tip_id_card">Режим фотокопии удостоверения</string>
     <string name="pref_camera_touch_focus_delay_title">Увеличить время ожидания фокусировки касанием</string>
     <string name="pref_camera_touchafaec_entry_off">Откл</string>
     <string name="pref_camera_touchafaec_entry_on">Вкл</string>
@@ -1449,6 +1461,7 @@
     <string name="pref_karaoke_summary">Когда гарнитура подключена</string>
     <string name="pref_lens_dirty_detect_summary">Разрешить уведомления о загрязнении объектива</string>
     <string name="pref_lens_dirty_detect_title">Уведомлять о загрязнении объектива</string>
+    <string name="pref_live_duration_title">Продолжительность жизни</string>
     <string name="pref_manual_exposure_title">Выдержка</string>
     <string name="pref_manual_exposure_title_abbr">Выдержка</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
@@ -1493,6 +1506,7 @@
     <string name="pref_skin_beautify_intelligent_title">Умный</string>
     <string name="pref_skin_beautify_slim_title">Стройность</string>
     <string name="pref_skin_beautify_smooth_title">Кожа</string>
+    <string name="pref_smart_guide_title">Умные рекомендации</string>
     <string name="pref_sound_noise_reduction_summary">Во время записи</string>
     <string name="pref_userdefine_watermark_title">Пользовательский водяной знак</string>
     <string name="pref_video_captrue_ability_title">Захват кадра при съемке</string>
@@ -1564,6 +1578,7 @@
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
     <string name="recommend_super_night">Попробуйте Ночной режим</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
+
     <string name="reset_manual_picture_style_toast">Параметры стиля сброшены</string>
     <string name="reset_manually_parameter_confirmed">ОК</string>
     <string name="reset_manually_parameter_hint">Сброс</string>
@@ -1651,6 +1666,8 @@
     <string name="ubifocus_capture_warning_message">Для достижения наилучших результатов ваша фотография должна содержать объекты как вблизи (менее 1 метра от объектива), так и вдали</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ультра HD отключен</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ультра HD отключен</string>
+    <string name="ultra_pixel_100mp">100MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
     <string name="ultra_pixel_photography_32mp_close_tip">32MP откл.</string>
     <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
     <string name="ultra_pixel_photography_48mp_close_tip">48MP откл.</string>
@@ -1696,8 +1713,9 @@
     <string name="video_bokeh_blur">Размытие</string>
     <string name="video_bokeh_color_point">Цветные пятна</string>
     <string name="video_bokeh_spin">Вращение</string>
-    <string name="video_bokeh_zoom_in">Увеличение</string>
-    <string name="video_bokeh_zoom_out">Уменьшение</string>
+    <string name="video_bokeh_zoom">Масштаб</string>
+    <string name="video_bokeh_zoom_in">Увеличить</string>
+    <string name="video_bokeh_zoom_out">Уменьшить</string>
     <string name="video_camera_label">Видеокамера</string>
     <string name="video_effect_entry_blackwhite">Ч/Б</string>
     <string name="video_effect_entry_bygone">Ретро</string>
@@ -1737,6 +1755,7 @@
 записывать и редактировать видео на ходу"</string>
     <string name="vv_use_hint_text_title">Видеоблог</string>
     <string name="wait">Подождите…</string>
+    <string name="warm_prompt">Внимание</string>
     <string name="watermark_tab_city">Город</string>
     <string name="watermark_tab_festival">Праздник</string>
     <string name="watermark_tab_general">Общие</string>
