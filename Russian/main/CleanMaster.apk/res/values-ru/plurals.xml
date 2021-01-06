@@ -188,10 +188,23 @@
         <item quantity="one">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> приложение долго не использовалось, обратите внимание&lt;/Data></item>
         <item quantity="few">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> приложения долго не использовались, обратите внимание&lt;/Data></item>
     </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Места достаточно для %d фото</item>
+        <item quantity="one">Места достаточно для %d фото</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Места достаточно для %d треков</item>
+        <item quantity="one">Места достаточно для %d трека</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%1$d секунд</item>
         <item quantity="one">%1$d секунда</item>
         <item quantity="few">%1$d секунды</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d приложений с кешем видео</item>
+        <item quantity="one">%d приложение с кешем видео</item>
+        <item quantity="one">%d приложения с кешем видео</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s просмотров</item>

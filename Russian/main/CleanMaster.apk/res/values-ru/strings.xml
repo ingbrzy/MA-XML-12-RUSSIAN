@@ -449,6 +449,7 @@
     <string name="hints_quick_cleanning">Очистка…</string>
     <string name="hints_quick_cleanuping">Оптимизация…</string>
     <string name="hints_quick_deep_clean">Очистить</string>
+    <string name="hints_quick_deep_clean2">Освободите %s</string>
     <string name="hints_quick_deep_scanning">Проверка</string>
     <string name="hints_quick_deep_uninstall">Удалить</string>
     <string name="hints_quick_prepare">Подготовка…</string>
@@ -680,6 +681,19 @@
     <string name="petabyteShort">" ПБ"</string>
     <string name="phone_search">Поиск Google</string>
     <string name="positive_confirm">ОК</string>
+    <string name="powerful_acceleration">Дефрагментация</string>
+    <string name="powerful_acceleration_after">После</string>
+    <string name="powerful_acceleration_before">До</string>
+    <string name="powerful_acceleration_enable_summary">Дефрагментация будет выполняться автоматически, когда устройство не используется</string>
+    <string name="powerful_acceleration_enable_title">Выполнять дефрагментацию в фоновом режиме</string>
+    <string name="powerful_acceleration_item_button">Включить</string>
+    <string name="powerful_acceleration_item_tip_normal">Все в порядке!</string>
+    <string name="powerful_acceleration_notification_summary">Нажмите, чтобы освободить больше места</string>
+    <string name="powerful_acceleration_notification_title">Дефрагментация завершена</string>
+    <string name="powerful_acceleration_tip">Внутренняя память фрагментирована, это может замедлять работу устройства. Дефрагментация физически реорганизует файлы для уменьшения фрагментации и задержек в работе устройства.</string>
+    <string name="powerful_acceleration_tip_high"><Data>Внутренняя память &lt;font color=#ff0000 >сильно&lt;/font> фрагментирована. Дефрагментация может решить проблему.</Data></string>
+    <string name="powerful_acceleration_tip_middle"><Data>Внутренняя память &lt;font color=#ff0000 >незначительно&lt;/font> фрагментирована. Дефрагментация может решить проблему.</Data></string>
+    <string name="powerful_acceleration_toast">Дефрагментация будет выполнена когда устройство не используется</string>
     <string name="pref_about_privacy_title">Политика конфиденциальности</string>
     <string name="pref_category_title_auto_clean_settings">Напоминания об очистке</string>
     <string name="pref_category_title_auto_update_cleanup_db">Дополнительные настройки</string>
@@ -747,6 +761,9 @@
     <string name="resutl_function_deep_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data></string>
+    <string name="rs_clean_size_free_space">Освободите %s</string>
+    <string name="rs_clean_size_storage_size">Занято %1$s/%2$s</string>
+    <string name="rs_clean_size_storage_title">Память</string>
     <string name="sc_allow_network_dialog_button">Разрешить</string>
     <string name="sc_allow_network_dialog_message">Разрешить приложению подключаться к интернету для получения обновлений?</string>
     <string name="scanning">Проверка…</string>
@@ -864,6 +881,26 @@
     <string name="update_date_format">dd.MM.yyyy</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="video_clean">Очистить кеш видео</string>
+    <string name="video_clean_auto_clean">Очищать автоматически</string>
+    <string name="video_clean_auto_clean_summary">Очищать кеш видео после сканирования автоматически</string>
+    <string name="video_clean_cache_tip">Видео после этого может загружаться заново</string>
+    <string name="video_clean_create_desktop_icon">Ярлык на рабочем столе</string>
+    <string name="video_clean_create_desktop_icon_summary">Добавьте ярлык на рабочий стол для очистки кеша видео одним касанием</string>
+    <string name="video_clean_desktop_icon_created">Ярлык успешно добавлен на рабочий стол</string>
+    <string name="video_clean_garbage">Кеш видео</string>
+    <string name="video_clean_garbage_cleared">Кеш видео очищен</string>
+    <string name="video_clean_notification_summary">Очистка кеша видео, сохраненного приложениями</string>
+    <string name="video_clean_notification_title">Освободите %s</string>
+    <string name="video_clean_personal_settings_title">Дополнительно</string>
+    <string name="video_clean_qq_clean_summary">Очистка мусора для освобождения места</string>
+    <string name="video_clean_qq_clean_title">Очистка QQ</string>
+    <string name="video_clean_remind_settings_title">Напоминать об очистке</string>
+    <string name="video_clean_scan_app_tip">Сканирование: %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Управление видеофайлами на устройстве</string>
+    <string name="video_clean_video_manager_title">Менеджер видео</string>
+    <string name="video_clean_wechat_clean_summary">Очистка мусора для ускорения работы</string>
+    <string name="video_clean_wechat_clean_title">Очистка WeChat</string>
     <string name="virus_scan">Антивирус</string>
     <string name="vungle_ad_name">Реклама Vungle</string>
     <string name="wechat_chat_data_type_cache">Кэш WeChat</string>

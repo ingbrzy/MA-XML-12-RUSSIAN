@@ -5978,7 +5978,9 @@ UT-интерфейс: %5$s"</string>
     <string name="recommend_item_3">Внешний аккумулятор</string>
     <string name="recommend_item_4">Наушники</string>
     <string name="recommend_item_title">Рекомендации</string>
+    <string name="recommend_text_wakeup_xiaoai">Настройки</string>
     <string name="recommend_tip">Нужны другие настройки?</string>
+    <string name="recommend_tip_wakeup_xiaoai">Использование кнопок для взаимодействия с Mi AI требует отключения полноэкранных жестов и выбора кнопок в качестве метода навигации</string>
     <string name="recompute_size">Повторное вычисление размера…</string>
     <string name="regional_screen_shot">Частичный скриншот</string>
     <string name="register_automatically">Автоматическая регистрация…</string>
@@ -7167,7 +7169,7 @@ UT-интерфейс: %5$s"</string>
 Это возможно благодаря надежному сертификату, установленному на устройстве."</string>
     <string name="stable_build">Стабильная</string>
     <string name="standard">Без звука</string>
-    <string name="standard_info">Звуки рингтонов и уведомлений отключены</string>
+    <string name="standard_info">Вызовы и уведомления будут без звука</string>
     <string name="standby_bucket_summary">Статус приложения в режиме ожидания: %s</string>
     <string name="start_silent_mode">Включить режим \"Без звука\"</string>
     <string name="starting_android">Запуск Android…</string>
@@ -9142,6 +9144,10 @@ UT-интерфейс: %5$s"</string>
     <string name="write_system_settings">Изменить системные настройки</string>
     <string name="wrong_pin_code_one">Неверный PIN-код SIM-карты, у вас осталась 1 попытка. В случае неуспеха вам нужно будет обратиться к оператору связи для разблокировки устройства.</string>
     <string name="wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи для разблокировки устройства.</string>
+    <string name="xiaoai_global_shortcut">Общие</string>
+    <string name="xiaoai_key_shortcut">Кнопки</string>
+    <string name="xiaoai_other_shortcut">Другие методы</string>
+    <string name="xiaoai_shortcut_settings_title">Запуск Mi AI с помощью кнопок и жестов</string>
     <string name="xiaomi_account">Mi Аккаунт</string>
     <string name="xiaomi_cloud_find_device">Поиск устройства</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
