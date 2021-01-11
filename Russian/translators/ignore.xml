@@ -34,7 +34,6 @@
     <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
     <string name="accessibility_camera_module_picker">CameraModulePicker</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
-    <string name="accessibility_description_dolly_zoom_button">Hhddbbjjggnnjjss</string>
     <string name="accessibility_flash_mode_button">FlashButton</string>
     <string name="accessibility_seek_bar_line">SeekBarLine</string>
     <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
@@ -1358,13 +1357,6 @@
     <string name="cold_dews_tradition">寒露</string>
     <string name="colon">:</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
-    <string name="color_effect_entry_new_1">1</string>
-    <string name="color_effect_entry_new_2">2</string>
-    <string name="color_effect_entry_new_3">3</string>
-    <string name="color_effect_entry_new_4">4</string>
-    <string name="color_effect_entry_new_5">5</string>
-    <string name="color_effect_entry_new_6">6</string>
-    <string name="color_effect_entry_new_bbp">BBP</string>
     <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
     <string name="commute_banner_congestion_text">路况拥堵</string>
     <string name="commute_banner_warning_text">预警信息</string>
@@ -1879,21 +1871,6 @@
     <string name="display_name">DisplayName</string>
     <string name="display_temperature_default">--℃</string>
     <string name="dndm_auto_time_setting_summary">с %1$s до %2$s</string>
-    <string name="dolly_zoom_capture_tip1">qqjjzzttzzyyffkknn</string>
-    <string name="dolly_zoom_capture_tip2">qqwwddxxhhyyddssjj</string>
-    <string name="dolly_zoom_capture_tip3">zzttddss，qqssxxppss</string>
-    <string name="dolly_zoom_capture_tip4">ssjjppyyggdd，qqssxxppss</string>
-    <string name="dolly_zoom_capture_tip5">ssppbbccssbb</string>
-    <string name="dolly_zoom_guide_tip1">qqxxzzyyzztthhzzssggbbjj</string>
-    <string name="dolly_zoom_guide_tip2">jjzzttzzyyffkknn</string>
-    <string name="dolly_zoom_guide_tip3">ssyyzz，zzttjjllbbccbbdd</string>
-    <string name="dolly_zoom_guide_tip4">ssyyzzccwwssjjhhmm，bbmmzzxxppyy</string>
-    <string name="dolly_zoom_guide_tip5">yyccddzzll</string>
-    <string name="dolly_zoom_guide_tip6">ttssggddlltt</string>
-    <string name="dolly_zoom_guide_tip7">zzssggddjjdd</string>
-    <string name="dolly_zoom_guide_tip8">ggddccjjddnnjjss</string>
-    <string name="dolly_zoom_guide_video_title1">ssppjjcc</string>
-    <string name="dolly_zoom_guide_video_title2">ssggssll</string>
     <string name="domain_address">SipDomain</string>
     <string name="double_click_power_key">mi_pay</string>
     <string name="double_click_power_key_def_function">mi_pay</string>
@@ -3025,7 +3002,6 @@
     <string name="pairing_ui_package">com.android.settings</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="pano_file_name_prefix">PANO_</string>
-    <string name="parameter_videos_title">videos_title</string>
     <string name="partner_id">3041</string>
     <string name="partys_day">建党节</string>
     <string name="partys_day_tradition">建黨節</string>
@@ -3226,8 +3202,6 @@
     <string name="pref_front_mirror_entryvalue_off">off</string>
     <string name="pref_front_mirror_entryvalue_on">on</string>
     <string name="pref_google_lens_default">true</string>
-    <string name="pref_i_n_r_b">Noise_r</string>
-    <string name="pref_intelligent_noise_reduction">Noise_r</string>
     <string name="pref_key_apps">all_apps</string>
     <string name="pref_key_buffer_size">buffer_size</string>
     <string name="pref_key_long_traces">long_traces</string>
@@ -3239,9 +3213,6 @@
     <string name="pref_live_volumekey_function_default">volume</string>
     <string name="pref_mi_front_video_quality_default">6</string>
     <string name="pref_mtk_video_quality_default">10</string>
-    <string name="pref_n_s_a">sound_s</string>
-    <string name="pref_noise_setting">sound_s</string>
-    <string name="pref_noise_setting_title">sound_s</string>
     <string name="pref_operator_setting">%1$s %2$s</string>
     <string name="pref_professional_chart">Pro_map</string>
     <string name="pref_qc_focus_position_value_default">0</string>
@@ -3619,15 +3590,8 @@
     <string name="slight_cold_tradition">小寒</string>
     <string name="slight_heat">小暑</string>
     <string name="slight_heat_tradition">小暑</string>
-    <string name="slow_shutter_tip1">slowshutter_b</string>
-    <string name="slow_shutter_tip2">slowshutter_c</string>
-    <string name="slow_shutter_tip3">slowshutter_e</string>
-    <string name="slow_shutter_tip4">slowshutter_f</string>
-    <string name="slow_shutter_tip5">slowshutter_g</string>
     <string name="slow_shutter_title1">0%d</string>
-    <string name="slow_shutter_title2">slowshutter_a</string>
     <string name="slow_shutter_title3">0%d</string>
-    <string name="slow_shutter_title4">slowshutter_d</string>
     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="sms">SMS</string>
     <string name="snip_pic">%1$s</string>

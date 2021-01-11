@@ -84,6 +84,8 @@
     <string name="delete_file_success">Файл удален</string>
     <string name="delete_record_only">Элементы, на которые ссылаются выбранные записи, не будут удалены.</string>
     <string name="delete_success">Успешно удалено</string>
+    <string name="detail_download_path">"Папка: "</string>
+    <string name="detail_download_time">"Загружено: "</string>
     <string name="dialog_content_delete_pdf_content">Удалить PDF-файл?</string>
     <string name="dialog_copy_storage_full_desc">Недостаточно места в облачном хранилище. Обновите план, чтобы получить больше места.</string>
     <string name="dialog_copy_storage_full_title">Ошибка копирования</string>
@@ -168,8 +170,6 @@
     <string name="file_sort_modify_time">Сортировать по дате изменения</string>
     <string name="file_sort_name">Сортировать по имени</string>
     <string name="file_sort_size">Сортировать по размеру</string>
-    <string name="file_status_text">%1$s | %2$s %3$s: %4$s</string>
-    <string name="file_status_text_no_size">%1$s %2$s: %3$s</string>
     <string name="file_upload_dialog_cancel">Отмена</string>
     <string name="file_upload_dialog_title">Выбор категории</string>
     <string name="h5_ppt_to_pdf_introduce_title">О преобразовании слайдов в PDF</string>

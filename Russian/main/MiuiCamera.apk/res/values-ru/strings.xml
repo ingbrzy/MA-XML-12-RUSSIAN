@@ -428,7 +428,7 @@
     <string name="close_front_flash_toast">Ваше устройство перегрето. Сейчас нельзя использовать вспышку.</string>
     <string name="color_effect_entry_berry">Ягоды</string>
     <string name="color_effect_entry_blackgold">Родий</string>
-    <string name="color_effect_entry_blackgold_describe">Описание</string>
+    <string name="color_effect_entry_blackgold_describe">Этот высококонтрастный фильтр сохраняет только желтый и темно-синий цвета. Используйте его на хорошо освещенных улицах ночного города.</string>
     <string name="color_effect_entry_blackice">Черный лед</string>
     <string name="color_effect_entry_blackwhite">Ч/Б</string>
     <string name="color_effect_entry_classic">Классика</string>
@@ -440,15 +440,7 @@
     <string name="color_effect_entry_glimmer">Сияние</string>
     <string name="color_effect_entry_koizora">Любовь</string>
     <string name="color_effect_entry_latte">Латте</string>
-    <string name="color_effect_entry_new_1_describe">Описание</string>
-    <string name="color_effect_entry_new_2_describe">Описание</string>
-    <string name="color_effect_entry_new_3_describe">Описание</string>
-    <string name="color_effect_entry_new_4_describe">Описание</string>
-    <string name="color_effect_entry_new_5_describe">Описание</string>
-    <string name="color_effect_entry_new_6_describe">Описание</string>
-    <string name="color_effect_entry_new_bbp_describe">Описание</string>
     <string name="color_effect_entry_orange">Лайм</string>
-    <string name="color_effect_entry_orange_describe">Описание</string>
     <string name="color_effect_entry_quiet">Покой</string>
     <string name="color_effect_entry_sibopenk">Киберпанк</string>
     <string name="color_effect_entry_soda">Лимонад</string>
@@ -490,12 +482,16 @@
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="copy">Копировать</string>
+    <string name="cta_mimoji_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие разрешения для сбора вашей личной информации:</string>
+    <string name="cta_mimoji_perm_type">Обязательные разрешения (для основных функций и сервисов приложения)</string>
+    <string name="cta_mimoji_user_links"><Data>Перед использованием приложения прочтите и примите наши &lt;a href ="%1$s">Пользовательское соглашение&lt;/a> и &lt;a href ="%2$s">Политику конфиденциальности&lt;/a>.</Data></string>
+    <string name="cta_mimoji_user_tips">Если вы не предоставите обязательные разрешения или не разрешите использовать личную информацию, вы не сможете использовать приложение. Если вы не предоставите дополнительные разрешения, вы не сможете использовать некоторые функции приложения, однако основные функции по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать свое согласие в настройках.</string>
     <string name="cta_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
     <string name="cta_perm_cam">Камера</string>
     <string name="cta_perm_cam_desc">Съемка фото и видео</string>
     <string name="cta_perm_dec">Добавление информации о местоположении съемки в фото и видео</string>
     <string name="cta_perm_loc">Местоположение</string>
-    <string name="cta_perm_storage">Память устройства</string>
+    <string name="cta_perm_storage">Память</string>
     <string name="cta_perm_storage_desc">Чтение и запись файлов</string>
     <string name="cta_perm_type">Для работы дополнительных функций во время их использования</string>
     <string name="cta_perm_voice">Микрофон</string>
@@ -533,6 +529,8 @@
     <string name="document_mode_use_hint_text_title">Сканирование документов</string>
     <string name="document_origin">Исходный</string>
     <string name="document_strengthen">Улучшенный</string>
+    <string name="dolly_zoom_guide_tip10">И больше!</string>
+    <string name="dolly_zoom_guide_tip9">Переулки.</string>
     <string name="download_cancel_hint">Отменить загрузку %1$s?</string>
     <string name="download_confirm">Загрузка</string>
     <string name="download_hint">Для загрузки потребуется %1$s MB мобильного трафика. Загрузить?</string>
@@ -738,10 +736,16 @@
     <string name="macro_mode_use_hint_text_body">Используйте режим Макро, чтобы маленькие объекты
 на фото были большими</string>
     <string name="macro_mode_use_hint_text_title">Макро</string>
+    <string name="makeup_effect_entry_apricot_white">Алебастр</string>
+    <string name="makeup_effect_entry_dusk_night">Мрак</string>
+    <string name="makeup_effect_entry_neutral">Нейтральный</string>
+    <string name="makeup_effect_entry_palm">Пальма</string>
+    <string name="makeup_effect_entry_taro">Таро</string>
+    <string name="makeup_effect_entry_vitality">Энергия</string>
     <string name="makeup_reset_toast">Эффекты макияжа успешно удалены</string>
     <string name="manual_picture_style">Стиль</string>
     <string name="manually_raw_hint">RAW</string>
-    <string name="masterfilter_description_title">Описание</string>
+    <string name="masterfilter_description_title">Фильтры</string>
     <string name="message_snap_double_confirm">Долгое нажатие кнопки громкости запускает NFC. Заменить эту функцию?</string>
     <string name="mimoji_app_name">Веселая камера</string>
     <string name="mimoji_back">Назад</string>
@@ -1008,7 +1012,7 @@
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
     <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
-    <string name="pref_a_c_f">Карта</string>
+    <string name="pref_a_c_f">Сонограф</string>
     <string name="pref_advance_settings">Дополнительные настройки</string>
     <string name="pref_ai_detect">AI обнаружение сцены</string>
     <string name="pref_audio_chart">Карта</string>
@@ -1286,7 +1290,7 @@
     <string name="pref_camera_multilevel_entry_lowest">Самая низкая</string>
     <string name="pref_camera_multilevel_entry_middle">Средняя (по умолчанию)</string>
     <string name="pref_camera_multilevel_entry_normal">Средняя</string>
-    <string name="pref_camera_new_coloreffect_title">Фильтр</string>
+    <string name="pref_camera_new_coloreffect_title">Фильтры</string>
     <string name="pref_camera_normal_wide_ldc_description">Исправлять искажение лица у края кадра</string>
     <string name="pref_camera_normal_wide_ldc_title">Коррекция лица</string>
     <string name="pref_camera_optimized_flash_enable_title">Оптимизация вспышки</string>
@@ -1365,8 +1369,8 @@
     <string name="pref_camera_tilt_shift_entry_circle">Окружность</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Параллель</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
-    <string name="pref_camera_tip_doc">Режим документа</string>
-    <string name="pref_camera_tip_id_card">Режим фотокопии удостоверения</string>
+    <string name="pref_camera_tip_doc">Сканирование документов</string>
+    <string name="pref_camera_tip_id_card">Сканирование удостоверений</string>
     <string name="pref_camera_touch_focus_delay_title">Увеличить время ожидания фокусировки касанием</string>
     <string name="pref_camera_touchafaec_entry_off">Откл</string>
     <string name="pref_camera_touchafaec_entry_on">Вкл</string>
@@ -1431,9 +1435,9 @@
     <string name="pref_document_mode">Документы</string>
     <string name="pref_dual_camera_video">Фронтальная и основная</string>
     <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
-    <string name="pref_e_c_t_j">Оригинал</string>
-    <string name="pref_e_p_k">синий</string>
-    <string name="pref_e_p_s_n">Доступ</string>
+    <string name="pref_e_c_t_j">Оригинальный звук</string>
+    <string name="pref_e_p_k">Внешний микрофон</string>
+    <string name="pref_e_p_s_n">Запись звука через внешний микрофон при подключении наушников Bluetooth с микрофоном</string>
     <string name="pref_effect_comparison_title">Сравнение эффектов</string>
     <string name="pref_face_beauty_title">Улучшение</string>
     <string name="pref_fingerprint_capture_title">Съемка отпечатком пальца</string>
@@ -1455,10 +1459,9 @@
     <string name="pref_hdr_value_default">Откл.</string>
     <string name="pref_histogram_off">Откл.</string>
     <string name="pref_histogram_on">Вкл.</string>
-    <string name="pref_k_h">Караоке</string>
-    <string name="pref_k_s_i">Когда гарнитура подключена</string>
-    <string name="pref_karaoke">Караоке</string>
-    <string name="pref_karaoke_summary">Когда гарнитура подключена</string>
+    <string name="pref_i_n_r_b">Умное шумоподавление</string>
+    <string name="pref_k_h">Активные наушники</string>
+    <string name="pref_k_s_i">Воспроизведение при подключении наушников</string>
     <string name="pref_lens_dirty_detect_summary">Разрешить уведомления о загрязнении объектива</string>
     <string name="pref_lens_dirty_detect_title">Уведомлять о загрязнении объектива</string>
     <string name="pref_live_duration_title">Продолжительность жизни</string>
@@ -1472,15 +1475,15 @@
     <string name="pref_more_mode_style_title">Расположение режимов</string>
     <string name="pref_multi_camera_dual_video_front">Передняя камера</string>
     <string name="pref_multi_camera_dual_video_remote">Удаленная камера</string>
-    <string name="pref_n_s_o_l">Включить</string>
-    <string name="pref_n_s_o_m">Отключить</string>
+    <string name="pref_n_s_o_l">Вкл.</string>
+    <string name="pref_n_s_o_m">Откл.</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Вы можете записать с 240fps только видео 720p</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Вы можете записать с 960fps только видео 720p</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_noise_setting_off">Откл.</string>
     <string name="pref_noise_setting_on">Вкл.</string>
-    <string name="pref_p_d_e">ПРО</string>
+    <string name="pref_p_d_e">Функции ПРО</string>
     <string name="pref_photo_assistance_tips_off">Откл.</string>
     <string name="pref_photo_assistance_tips_on">Вкл.</string>
     <string name="pref_pic_flaw_tip_summary">Уведомлять, когда люди в кадре закрывают глаза или объектив частично перекрыт во время съемки</string>
@@ -1495,7 +1498,7 @@
     <string name="pref_retain_camera_common_mode_summary">Открывать последний использованный режим камеры вместо \"Фото\"</string>
     <string name="pref_retain_camera_mode_summary">При запуске камеры переключаться в последний используемый режим</string>
     <string name="pref_retain_camera_mode_title">Сохранять предыдущий режим</string>
-    <string name="pref_s_n_r_s_c">При записи</string>
+    <string name="pref_s_n_r_s_c">Уменьшать шум в видео в зависимости от сцены</string>
     <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
     <string name="pref_scan_qrcode_title">Сканировать QR-коды</string>
     <string name="pref_setting_title">Настройки</string>
@@ -1578,7 +1581,6 @@
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
     <string name="recommend_super_night">Попробуйте Ночной режим</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
-
     <string name="reset_manual_picture_style_toast">Параметры стиля сброшены</string>
     <string name="reset_manually_parameter_confirmed">ОК</string>
     <string name="reset_manually_parameter_hint">Сброс</string>
@@ -1587,6 +1589,8 @@
     <string name="search_menu_title">Поиск</string>
     <string name="search_settings">Настройки камеры;Качество;Качество фото;Место съемки фото;Место съемки изображения;Распознавание лиц;Звук камеры;Фото;Камера;Фотография;Видео;Съемка</string>
     <string name="see_qrcode_detals">Подробнее о QR-коде</string>
+    <string name="settings_camera_detect_card_description">Отображать ярлык всякий раз, когда AI камера обнаруживает удостоверение личности</string>
+    <string name="settings_camera_detect_description_doc">Отображать ярлык всякий раз, когда AI камера обнаруживает документ или слайд презентации</string>
     <string name="settings_camera_near_range_description">Устранение размытия при съемке плоских объектов на близком расстоянии</string>
     <string name="settings_camera_near_range_title">Крупный план</string>
     <string name="share">Отправить</string>
@@ -1653,6 +1657,13 @@
     <string name="timbre_robot">Робот</string>
     <string name="time_lapse_error">Нельзя снять ускоренное видео в данном разрешении</string>
     <string name="time_stamp_date_format">dd.MM.yyyy</string>
+    <string name="timefreeze_guide_tip2">Можно заморозить или разморозить фон в любое время, до или во время съемки.</string>
+    <string name="timefreeze_guide_tip3">Попросите объект съемки оставаться в центре кадра.</string>
+    <string name="timefreeze_guide_tip4">Остановите движение.</string>
+    <string name="timefreeze_guide_tip5">Пройдите сквозь неподвижную толпу.</string>
+    <string name="timefreeze_guide_tip6">Подвесьте объекты в воздухе.</string>
+    <string name="timefreeze_guide_tip7">Или создайте свои трюки!</string>
+    <string name="timefreeze_guide_title">Остановка времени</string>
     <string name="timer_burst">Таймер серийной съемки</string>
     <string name="timer_burst_manu_param_interval">Интервал без выдержки</string>
     <string name="timer_burst_param_interval">Интервал</string>
@@ -1721,21 +1732,16 @@
     <string name="video_effect_entry_bygone">Ретро</string>
     <string name="video_effect_entry_central">Центр</string>
     <string name="video_effect_entry_color_retention">Цветовой фокус</string>
-    <string name="video_effect_entry_color_retention_describe">Описание</string>
     <string name="video_effect_entry_fantasy">Фантазия</string>
     <string name="video_effect_entry_film">Пленка</string>
     <string name="video_effect_entry_forest">Лес</string>
     <string name="video_effect_entry_holiday">Отражения</string>
     <string name="video_effect_entry_lost">Потеря</string>
     <string name="video_effect_entry_meet">Встреча</string>
-    <string name="video_effect_entry_meet_describe">Описание</string>
     <string name="video_effect_entry_northern_europe">Север</string>
-    <string name="video_effect_entry_northern_europe_describe">Описание</string>
     <string name="video_effect_entry_polaroid">Полароид</string>
     <string name="video_effect_entry_rome">Рим</string>
-    <string name="video_effect_entry_rome_describe">Описание</string>
     <string name="video_effect_entry_summer_day">Лето</string>
-    <string name="video_effect_entry_summer_day_describe">Описание</string>
     <string name="video_effect_entry_wind_sing">Бриз</string>
     <string name="video_hdr10_tip">HDR10</string>
     <string name="video_hdr10plus_tip">HDR10+</string>

@@ -367,6 +367,8 @@
     <string name="equalizer">Эквалайзер</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
+    <string name="error_message_no_internet_connection">Не удалось подключиться к интернету. Проверьте подключение к интернету и повторите попытку.</string>
+    <string name="error_message_something_went_wrong">Что-то пошло не так, повторите попытку</string>
     <string name="error_not_support">Не поддерживается</string>
     <string name="evening">PM</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
@@ -545,6 +547,7 @@
     <string name="input_hint_prefix">Введите %1$s</string>
     <string name="installing_apk">Установка…</string>
     <string name="insufficient_space">Недостаточно места во внутренней памяти</string>
+    <string name="invalid_number">Недействительный номер</string>
     <string name="is_latest_version">Обновление не требуется</string>
     <string name="is_scanning">Проверка накопителя…</string>
     <string name="is_scanning_support_online">"Проверка накопителя…
@@ -611,6 +614,7 @@
     <string name="list_item_play_all_tracks">Воспроизвести все</string>
     <string name="load_shuffle">Загрузка…</string>
     <string name="loadercontainer_loading">Подождите…</string>
+    <string name="loading">Подождите…</string>
     <string name="loading_hint">Подождите…</string>
     <string name="loading_reached_the_bottom">"Больше ничего нет."</string>
     <string name="local_header_title">Локальные</string>
@@ -666,6 +670,12 @@
     <string name="modify_progress_helper">Проведите пальцем вверх или вниз для регулировки.</string>
     <string name="modify_song_info">Редактирование трека</string>
     <string name="modify_song_info_success">Информация о треке обновлена</string>
+    <string name="moe_inbox_name">Центр уведомлений</string>
+    <string name="moe_message_to_register">Нажмите, чтобы зарегистрироваться для проверки интеграции.</string>
+    <string name="moe_message_to_unregister">Устройство зарегистрировано для проверки интеграции. Нажмите, чтобы отменить регистрацию</string>
+    <string name="moe_notification_center_empty">Ничего нет</string>
+    <string name="moe_register">РЕГИСТРАЦИЯ</string>
+    <string name="moe_unregister">ОТМЕНА РЕГИСТРАЦИИ</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
