@@ -762,6 +762,10 @@ mm"</string>
     <string name="size_mega_byte">" МБ"</string>
     <string name="size_peta_byte">" ПБ"</string>
     <string name="size_tera_byte">" ТБ"</string>
+    <string name="softap_beacon_protection">Включить защиту SoftAp Beacon</string>
+    <string name="softap_beacon_protection_summary">Включить защиту SoftAp Beacon  с использованием точки доступа</string>
+    <string name="softap_ocv">Включить SoftAp OCV</string>
+    <string name="softap_ocv_summary">Включить SoftAp OCV с использованием точки доступа</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -993,6 +997,8 @@ mm"</string>
     <string name="wifi_is_off">Wi-Fi отключен</string>
     <string name="wifi_limited_connection">Подключение к сети ограничено</string>
     <string name="wifi_metered_label">Трафик</string>
+    <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
+    <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учетными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>
     <string name="wifi_no_internet">Нет подключения к интернету</string>
     <string name="wifi_no_internet_no_reconnect">Нет подключения к интернету</string>
     <string name="wifi_not_in_range">Недоступно</string>
@@ -1071,11 +1077,4 @@ mm"</string>
     <string name="zen_mode_forever">До отключения</string>
     <string name="zen_mode_settings_summary_off">Никогда</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Включите режим \"Не беспокоить\"</string>
-    <string name="softap_beacon_protection">Включить защиту SoftAp Beacon</string>
-    <string name="softap_beacon_protection_summary">Включить защиту SoftAp Beacon  с использованием точки доступа</string>
-    <string name="softap_ocv">Включить SoftAp OCV</string>
-    <string name="softap_ocv_summary">Включить SoftAp OCV с использованием точки доступа</string>
-    <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
-    <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учетными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>
-	
 </resources>
