@@ -3267,7 +3267,7 @@
     <string name="gesture_setting_off">Выкл.</string>
     <string name="gesture_setting_on">Вкл.</string>
     <string name="gesture_settings_activity_title">Настройки жестов</string>
-    <string name="gesture_settings_title">Функции жестов</string>
+    <string name="gesture_settings_title">Функции кнопок и жестов</string>
     <string name="gesture_wakeup_summary">Включение и выключение экрана двойным касанием. Работает только со стандартным экраном блокировки</string>
     <string name="gesture_wakeup_title">Двойное касание</string>
     <string name="getConfiguredNetworks">Конфигурация сетей</string>
@@ -5033,7 +5033,7 @@
     <string name="night_light_brightness">Яркость в ночном режиме</string>
     <string name="night_light_color">Цветовой тон в ночном режиме</string>
     <string name="night_light_color_tip">Изменения вступят в силу при отключении режима чтения</string>
-    <string name="night_light_summary">Установите минимальную яркость для ночного режима</string>
+    <string name="night_light_summary">Для включения ночного режима установите минимальную яркость экрана при низкой освещенности</string>
     <string name="night_light_tip">Изменения вступят в силу при включении ночного режима</string>
     <string name="no">Нет</string>
     <string name="no_5g_in_dsds_text">При использовании 2 SIM-карт это устройство будет ограничено 4G. <annotation id="url">Подробности</annotation>.</string>
@@ -5097,7 +5097,7 @@
     <string name="notifi_importance_none">Все уведомления отключены</string>
     <string name="notifi_importance_unspecified">Звук разрешен</string>
     <string name="notifi_no_channels">Категории отсутствуют</string>
-    <string name="notification_access_detail_switch">Разрешить доступ к уведомлениям</string>
+    <string name="notification_access_detail_switch">Разрешить доступ</string>
     <string name="notification_alert_title">Оповещения</string>
     <string name="notification_animation_style">Настройка анимации</string>
     <string name="notification_app_settings_button">Настройки уведомлений</string>
@@ -7494,8 +7494,8 @@ UT-интерфейс: %5$s"</string>
     <string name="summary_range_verbal_combination">с %1$s по %2$s</string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
-    <string name="sunlight_mode">Максимальная яркость на солнце</string>
-    <string name="sunlight_mode_summary">Автоматически устанавливать максимальную яркость на прямом солнечном свете, если автояркость отключена</string>
+    <string name="sunlight_mode">Дневной режим</string>
+    <string name="sunlight_mode_summary">Использовать регулировку при ярком освещении, когда автояркость отключена</string>
     <string name="supl_not_set">&lt;Не настроено&gt;</string>
     <string name="supplicant_state_label">Статус подключения:</string>
     <string name="support_summary">Справочные статьи, поддержка по телефону и в чате</string>
