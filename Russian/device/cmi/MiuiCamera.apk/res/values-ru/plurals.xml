@@ -40,6 +40,14 @@
         <item quantity="other">%1$s мин.</item>
         <item quantity="one">%1$s мин.</item>
     </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Запись %d сек.</item>
+        <item quantity="one">Запись %d сек.</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Используйте не более %d объектов при съемке видео с \"Остановкой времени\"</item>
+        <item quantity="one">Используйте не более %d объекта при съемке видео с \"Остановкой времени\"</item>
+    </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s фото</item>
         <item quantity="one">%1$s фото</item>

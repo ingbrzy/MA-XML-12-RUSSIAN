@@ -943,7 +943,7 @@
     <string name="face_data_manage_delete_title">Данные лица</string>
     <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите пальцем вверх для разблокировки устройства по лицу.</string>
     <string name="face_data_manage_unlock_msg">Разблокировка устройства с использованием данных лица</string>
-    <string name="face_data_manage_unlock_slide_msg">Замена действий слайдера на разблокировку по лицу</string>
+    <string name="face_data_manage_unlock_slide_msg">Заменить действия слайдера разблокировкой по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
@@ -1037,6 +1037,7 @@
     <string name="fs_gesture_switch_recents_summary">Проведите снизу вверх и задержите палец</string>
     <string name="fsg_demo_back">Назад</string>
     <string name="fsg_demo_go_on">Изучить</string>
+    <string name="garbage_count">Старые экземпляры: %1$s</string>
     <string name="global_action_lock_message">Разблокируйте телефон для дополнительных опций</string>
     <string name="global_action_screenshot">Скриншот</string>
     <string name="go_to_web">Перейти в браузер</string>
@@ -1398,7 +1399,7 @@
     <string name="lb_playback_controls_shuffle_disable">Отключить перемешивание</string>
     <string name="lb_playback_controls_shuffle_enable">Включить перемешивание</string>
     <string name="lb_playback_controls_skip_next">Пропустить следующий</string>
-    <string name="lb_playback_controls_skip_previous">Пропустить предыдующий</string>
+    <string name="lb_playback_controls_skip_previous">Пропустить предыдущий</string>
     <string name="lb_playback_controls_thumb_down">Отменить следующие</string>
     <string name="lb_playback_controls_thumb_down_outline">Выделить следующие</string>
     <string name="lb_playback_controls_thumb_up">Отменить предыдущие</string>
@@ -1496,6 +1497,7 @@ d MMMM"</string>
     <string name="megabyte_per_second"> МБ/с</string>
     <string name="memory_clear_result_giga">Очищено %1$s ГБ памяти</string>
     <string name="memory_clear_result_mega">Очищено %1$s МБ памяти</string>
+    <string name="memory_leak">Утечка памяти</string>
     <string name="menu_ime">Переключение раскладки</string>
     <string name="mic_active">Микрофон активен</string>
     <string name="miui_guide_dialog_button_negative_text">Настройки</string>
@@ -1787,7 +1789,7 @@ d MMMM"</string>
     <string name="output_service_bt">Bluetooth</string>
     <string name="output_service_bt_wifi">Bluetooth и Wi-Fi</string>
     <string name="output_service_wifi">Wi-Fi</string>
-    <string name="output_title">Медимедийный выход</string>
+    <string name="output_title">Мультимедийный выход</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="overview">Обзор</string>
     <string name="owner_info_settings_edit_text_hint">Например, Android Саши.</string>
@@ -1811,7 +1813,7 @@ d MMMM"</string>
     <string name="phone_locked_string">Устройство заблокировано</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
-    <string name="pip_close">Закрыть PiP</string>
+    <string name="pip_close">Закрыть режим \"Картинка в картинке\"</string>
     <string name="pip_fullscreen">На весь экран</string>
     <string name="pip_menu_title">Меню</string>
     <string name="pip_notification_message">Чтобы отключить эту функцию для приложения %s перейдите в настройки.</string>
