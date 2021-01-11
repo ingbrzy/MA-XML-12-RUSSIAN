@@ -123,6 +123,7 @@
     <string name="choose_to_signin">Да</string>
     <string name="choose_to_signup">Создать новый</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="close">Закрыть</string>
     <string name="close_feedback_main">Скрыть</string>
     <string name="collect_diagnosis_log">Создать журнал диагностики</string>
     <string name="confirm_activate_email">Проверено</string>
@@ -139,6 +140,7 @@
     <string name="customer_service_complain">Пожаловаться на обслуживание</string>
     <string name="customer_service_station">Места обслуживания</string>
     <string name="date_picker_lunar">Лунный календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_text_view">Просмотр текста</string>
     <string name="description">Описание (обязательно)</string>
     <string name="diagnosis_log_send_failed">Не удалось отправить журнал.</string>
@@ -441,10 +443,13 @@ ID: %s
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех элементов</string>
+    <string name="miuix_appcompat_select_item">Выберите элементы</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -693,6 +698,7 @@ ID: %s
     <string name="section_err_type">Тип отчета</string>
     <string name="section_screenshot">Скриншот</string>
     <string name="select_system_app_tag">Выберите проблему</string>
+    <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="send_email_activate_message">Письмо для подтверждения отправлено</string>
     <string name="sending">Отправка…</string>
