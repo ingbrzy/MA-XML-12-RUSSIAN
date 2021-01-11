@@ -41,10 +41,10 @@
     <string name="animal_class">Класс</string>
     <string name="animal_item">Отряд</string>
     <string name="animal_select_alert_info">Можно выбрать не более 5 пунктов</string>
-    <string name="anti_flicker_mode">Антимерцание</string>
+    <string name="anti_flicker_mode">Устранение мерцания</string>
     <string name="anti_flicker_mode_categroy">Режимы</string>
-    <string name="anti_flicker_mode_summary">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
-    <string name="anti_flicker_title">Режим антимерцания</string>
+    <string name="anti_flicker_mode_summary">Устранять мерцание при низкой освещенности для снижения нагрузки на глаза</string>
+    <string name="anti_flicker_title">Устранение мерцания</string>
     <string name="app_name">Настройки</string>
     <string name="application_sound">Звук уведомления для приложения</string>
     <string name="apply_ringtone">Применить</string>
@@ -57,9 +57,9 @@
     <string name="area_australia">Австралия</string>
     <string name="atarctic_shag">Антарктический баклан</string>
     <string name="australia_introduction">Австралийский континент - это прибежище редких эндемичных видов</string>
-    <string name="baboon_info">Оливковый бабуин живет в группах с развитым социальным ранжированием в зависимости от доминирования каждой особи</string>
+    <string name="baboon_info">Оливковый бабуин живет в группах с развитым социальным ранжированием</string>
     <string name="back">Назад</string>
-    <string name="bear_info">Медведи-самые крупные сухопутные хищники. Они живут в холодных регионах и известны своим острым обонянием.</string>
+    <string name="bear_info">Медведи - самые крупные сухопутные хищники, живут в холодных регионах и известны острым обонянием</string>
     <string name="black_backed_jackal">Шакал</string>
     <string name="black_headed_bulbul">Черноголовый бюльбюль</string>
     <string name="black_howler_monkey">Черный ревун</string>
@@ -126,7 +126,7 @@
     <string name="dc_light_hint_enable_title">Внимание</string>
     <string name="dc_light_hint_normal">Включение DC dimming может повлиять на отображение некоторых элементов.</string>
     <string name="dc_light_hint_other">Включение DC dimming может повлиять на частоту обновления и отображение некоторых элементов.</string>
-    <string name="dc_lignt_enable_hint">Режим антимерцания установит частоту обновления экрана на 60 Гц. Переключиться?</string>
+    <string name="dc_lignt_enable_hint">Для устранения мерцания частота обновления экрана будет переключена на 60 Гц. Переключить?</string>
     <string name="delete_first_to_add_animal">Удалите какой-либо из элементов для добавления нового</string>
     <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
@@ -135,9 +135,9 @@
     <string name="eastern_grey_kangaroo">Серый кенгуру</string>
     <string name="eastern_grey_kangaroo_info">У кенгуру большие мощные задние лапы и большие ступни, приспособленные для прыжков</string>
     <string name="egyptian_goose">Нильский гусь</string>
-    <string name="elephant_info">Слоны - самые крупные из существующих наземных животных. Торговля слоновой костью - угроза для популяции слонов</string>
+    <string name="elephant_info">Слоны - самые крупные из наземных животных. Торговля слоновой костью - угроза популяции слонов.</string>
     <string name="elk">Лось</string>
-    <string name="elk_info">Лоси живут в субарктическом климате. Травоядные животные, питаются многими видами растений и фруктов.</string>
+    <string name="elk_info">Лоси живут в субарктическом климате, питаются различными видами растений и фруктов</string>
     <string name="emperor_penguin">Императорский пингвин</string>
     <string name="emu">Эму</string>
     <string name="eras_ad">н. э.</string>
@@ -273,11 +273,11 @@
     <string name="laughing_kookaburra_info">Кукабарры известны своими уникальными звуками, хорошо охотятся на змей и других рептилий</string>
     <string name="leopard">Леопард</string>
     <string name="lion">Лев</string>
-    <string name="lion_info">Львы - свирепые и сильные хищники. Они живут группами и имеют сильное чувство территории.</string>
+    <string name="lion_info">Львы - свирепые и сильные хищники, живут группами и имеют сильное чувство территории</string>
     <string name="lock_summary">Защитите личную информацию</string>
     <string name="long_tai1ed_iaeger">Длиннохвостый поморник</string>
     <string name="low_fps_description">Низкая частота обновления экрана. Пониженное энергопотребление.</string>
-    <string name="low_light_preview">Предпросмотр</string>
+    <string name="low_light_preview">Предпросмотр при низкой освещенности</string>
     <string name="marabou_stork">Африканский марабу</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
@@ -295,7 +295,7 @@
     <string name="mix_match_submit">Применить</string>
     <string name="mix_match_type_bird">Птицы</string>
     <string name="mix_match_type_land">Сухопутные</string>
-    <string name="mix_match_type_polar">Полярные</string>
+    <string name="mix_match_type_polar">Арктика</string>
     <string name="mix_match_type_rare">Редкие</string>
     <string name="mms">Сообщения</string>
     <string name="monday">Понедельник</string>
@@ -346,7 +346,7 @@
     <string name="most_unlock_week_day">"Чаще всего: "</string>
     <string name="mus_ox">Овцебык</string>
     <string name="narwhal">Нарвал</string>
-    <string name="narwhal_info">Нарвалы обладают большим бивнем и питаются донной добычей, в основном камбалой.</string>
+    <string name="narwhal_info">Нарвалы имеют большой бивень и питаются донной добычей, в основном камбалой</string>
     <string name="native_hen_info">Тасманийские куры живут близко к воде и плохо летают</string>
     <string name="nature_mix">Миксы природы</string>
     <string name="nature_mix_summary">Создайте свой микс звуков природы</string>
@@ -357,7 +357,7 @@
     <string name="no_sound_summary">Нет</string>
     <string name="noon">Полдень</string>
     <string name="normal_mode">Обычный режим</string>
-    <string name="normal_mode_summary">Не уменьшать мерцание при низкой освещенности</string>
+    <string name="normal_mode_summary">Не устранять мерцание при низкой освещенности</string>
     <string name="north_white_rhinoceros">Белый носорог</string>
     <string name="norway_lemmings">Норвежские лемминги</string>
     <string name="not_set">Не задано</string>
@@ -374,7 +374,7 @@
     <string name="petaurus_breviceps">Сумчатая летяга</string>
     <string name="pied_crow">Пегий ворон</string>
     <string name="plains_zebra">Зебра</string>
-    <string name="platpus_info">Утконос - важный предмет изучения эволюционной биологии. Это также один из немногих видов ядовитых млекопитающих.</string>
+    <string name="platpus_info">Утконос - важный предмет изучения эволюционной биологии, принадлежит к категории ядовитых млекопитающих</string>
     <string name="platypus">Утконос</string>
     <string name="pm">PM</string>
     <string name="polar_bear">Полярный медведь</string>
@@ -395,7 +395,7 @@
     <string name="rgb_space_color_B">B</string>
     <string name="rgb_space_color_G">G</string>
     <string name="rgb_space_color_R">R</string>
-    <string name="rhinoceros_info">Белый носорог-могучее травоядное животное с мягким темпераментом. Довольно редкий сегодня, находится на грани исчезновения.</string>
+    <string name="rhinoceros_info">Черный носорог - могучее травоядное животное с мягким темпераментом, сегодня находится на грани исчезновения</string>
     <string name="ringtone_slot_setting_title">Рингтоны SIM</string>
     <string name="ringtone_sound">Рингтоны</string>
     <string name="ringtone_title">Рингтоны</string>
@@ -405,7 +405,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="scarlet_macaw">Ара</string>
-    <string name="scarlet_macaw_info">Ара - длиннохвостые, часто разноцветные попугаи Нового Света.</string>
+    <string name="scarlet_macaw_info">Ара - длиннохвостые, часто разноцветные, попугаи Нового Света</string>
     <string name="screen_cancel">Отмена</string>
     <string name="screen_confirm">Включить</string>
     <string name="screen_fps_summary_power_save">Фиксированная частота обновления экономит заряд</string>
@@ -419,7 +419,7 @@
     <string name="screen_paper_mode_apps_loading">Подождите…</string>
     <string name="screen_time_lock">Блокировка</string>
     <string name="sea_otter">Калан</string>
-    <string name="seal_info">Тюлени - морские млекопитающие, которые могут быстро плавать в глубоких водах, питаясь рыбой и креветками.</string>
+    <string name="seal_info">Тюлени - морские млекопитающие, быстро плавают в глубоких водах, питаются рыбой и креветками</string>
     <string name="search_app_name">Поиск приложений</string>
     <string name="search_empty">Приложения не найдены</string>
     <string name="search_menu_title">Поиск</string>
@@ -528,7 +528,7 @@
     <string name="time_picker_label_minute">М</string>
     <string name="title_activity_easy_mode">Простой режим</string>
     <string name="title_mix_match_sound">Миксы природы</string>
-    <string name="title_mix_match_tips">Нажмите на животных, чтобы прослушать. Вы можете добавить в микс до 5 животных.</string>
+    <string name="title_mix_match_tips">Нажмите, чтобы прослушать. Можете добавить до 5 животных.</string>
     <string name="title_submit_mix_match">Нажмите \"Применить\", чтобы установить общий рингтон.</string>
     <string name="to_authorize">Разрешить</string>
     <string name="toco_toucan">Большой тукан</string>
@@ -536,7 +536,7 @@
     <string name="today_usage_title">Сегодня</string>
     <string name="today_use_time">Время экрана: %1$s</string>
     <string name="tomorrow">Завтра</string>
-    <string name="toucan_info">У туканов большие разноцветные клювы. Они часто устраивают гнезда в дуплах деревьев.</string>
+    <string name="toucan_info">У туканов большие разноцветные клювы, они часто устраивают гнезда в дуплах деревьев</string>
     <string name="touch_description">Оптимизация кнопок и ярлыков для минимизации случайных касаний</string>
     <string name="touch_title">Улучшенное сенсорное управление</string>
     <string name="trend_from_yesterday_equal">Как и вчера</string>
@@ -819,7 +819,7 @@
     <string name="vervet_monkey">Зеленая мартышка</string>
     <string name="wait_tip">Подождите…</string>
     <string name="walrus">Морж</string>
-    <string name="walrus_info">Моржи - отличные ныряльщики. Они предпочитают мелководные участки шельфа и кормятся преимущественно на морском дне.</string>
+    <string name="walrus_info">Моржи - отличные ныряльщики, предпочитают мелководные участки шельфа и кормятся на морском дне</string>
     <string name="weddell_seal">Тюлень Уэдделла</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>

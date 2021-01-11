@@ -170,7 +170,7 @@
         <item>Туман</item>
     </string-array>
     <string-array name="magic_effects_description">
-        <item>Превратите фон в наброски</item>
+        <item>Фон в виде эскиза</item>
         <item>Фон в стиле акварели</item>
         <item>Киберпанк-ретро</item>
         <item>Вертикальные сегменты</item>
@@ -178,7 +178,7 @@
         <item>Футуристический вид</item>
     </string-array>
     <string-array name="magic_effects_title">
-        <item>Наброски</item>
+        <item>Эскиз</item>
         <item>Акварель</item>
         <item>RGB</item>
         <item>Сегменты</item>
@@ -205,9 +205,9 @@
         <item>Экзамены</item>
     </string-array>
     <string-array name="magic_idp_size_category_certificates">
-        <item>Социальная защита</item>
-        <item>Медицинская карта</item>
-        <item>Медицинская страховка</item>
+        <item>Соц. страховка</item>
+        <item>Мед. карта</item>
+        <item>Мед. страховка</item>
         <item>Удостоверение</item>
         <item>Вид на жительство</item>
     </string-array>
@@ -220,41 +220,41 @@
     </string-array>
     <string-array name="magic_idp_size_category_education">
         <item>Заявление о приеме</item>
-        <item>Студенческая сеть</item>
-        <item>Студенческая сеть для начальных школ</item>
-        <item>Сетевой профиль студента</item>
+        <item>Студ. сеть</item>
+        <item>Студ. сеть для нач. школ</item>
+        <item>Профиль студента</item>
         <item>Поступление в ВУЗ</item>
         <item>NCEE</item>
         <item>Резюме</item>
     </string-array>
     <string-array name="magic_idp_size_category_examination">
-        <item>Тест в колледже по англ. языку 1</item>
-        <item>Тест в колледже по англ. языку 2</item>
-        <item>Тест в колледже по англ. языку 3</item>
+        <item>Тест по англ. языку 1</item>
+        <item>Тест по англ. языку 2</item>
+        <item>Тест по англ. языку 3</item>
         <item>Тест по кит. языку 1</item>
         <item>Тест по кит. языку 2</item>
-        <item>Дипломный тест по англ. языку</item>
-        <item>PET ждя колледжей</item>
+        <item>Дипл. тест по англ. языку</item>
+        <item>PET для колледжей</item>
         <item>PETS уровень 3</item>
-        <item>Национальный рейтинговый экзамен 1</item>
-        <item>Национальный рейтинговый экзамен 2</item>
+        <item>Нац. рейт. экзамен 1</item>
+        <item>Нац. рейт. экзамен 2</item>
     </string-array>
     <string-array name="magic_idp_size_category_profession">
-        <item>Сертификат преподавателя начальной и средней школы</item>
-        <item>Сертификат преподавателя</item>
-        <item>Водительское удостоверение</item>
+        <item>Серт. преподавателя нач. и ср. школ</item>
+        <item>Серт. преподавателя</item>
+        <item>Водит. удостоверение</item>
         <item>Разрешение гида</item>
-        <item>Электронное разрешение гида</item>
-        <item>Национальная судебная экспертиза</item>
-        <item>Электронный сертификат конструктора первого класса</item>
-        <item>Сертификат конструктора второго класса</item>
-        <item>Экзамен на младшего бухгалтера</item>
-        <item>Сертифицированный бухгалтер</item>
+        <item>Эл. разрешение гида</item>
+        <item>Нац. судебная экспертиза</item>
+        <item>Серт. конструктора 1 класса</item>
+        <item>Серт. конструктора 2 класса</item>
+        <item>Экзамен на мл. бухгалтера</item>
+        <item>Серт. бухгалтер</item>
         <item>Разрешение гида по Пекину</item>
-        <item>Промежуточный экзамен по бухучету</item>
-        <item>Экзамен на старшего бухгалтера</item>
-        <item>Квалификационный аттестат бухгалтера</item>
-        <item>Экзамен на дипломированного бухгалтера</item>
+        <item>Промеж. экзамен по бухучету</item>
+        <item>Экзамен на ст. бухгалтера</item>
+        <item>Квал. аттестат бухгалтера</item>
+        <item>Экзамен на дипл. бухгалтера</item>
     </string-array>
     <string-array name="magic_idp_size_category_visa">
         <item>Соединенные Штаты</item>
@@ -360,6 +360,10 @@
         <item>Дедушка по матери</item>
         <item>Бабушка по матери</item>
     </string-array>
+    <string-array name="spinner_list">
+        <item>px</item>
+        <item>мм</item>
+    </string-array>	
     <string-array name="sports_title">
         <item>Движение вперед</item>
         <item>Полный энергии</item>

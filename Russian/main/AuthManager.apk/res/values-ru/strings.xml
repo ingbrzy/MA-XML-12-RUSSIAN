@@ -8,7 +8,7 @@
     <string name="HIPS_Action_Reject_Once">Запретить однократно</string>
     <string name="HIPS_Action_Reject_This">Ограничить однократно</string>
     <string name="HIPS_Perm_Access_Gallery">Галерея</string>
-    <string name="HIPS_Perm_Access_Gallery_Desc">Доступ к галерее</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Доступ к Галерее</string>
     <string name="HIPS_Perm_AudioRecorder">Микрофон</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">Запись аудио и вызовов</string>
     <string name="HIPS_Perm_AutoStart">Автозапуск</string>
@@ -26,7 +26,7 @@
     <string name="HIPS_Perm_Contact">Контакты</string>
     <string name="HIPS_Perm_Contact_Desc">Изменение и удаление контактов</string>
     <string name="HIPS_Perm_External_Storage">Память</string>
-    <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам в памяти устройства</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам во внутренней памяти</string>
     <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Запись аудио и вызовов</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Автозапуск приложений в фоновом режиме</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Доступ к событиям календаря</string>
@@ -106,8 +106,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">Приоритетные сервисы</string>
     <string name="HIPS_Perm_show_when_locked">Экран блокировки</string>
     <string name="HIPS_Perm_show_when_locked_Desc">Отображение на экране блокировки</string>
-    <string name="HIPS_Perm_tencentControl">Доступ к сообщениям в соцсетях</string>
-    <string name="HIPS_Perm_tencentControl_Desc">Доступ к сообщениям в соцсетях</string>
+    <string name="HIPS_Perm_tencentControl">Сообщения соцсетей</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Доступ к сообщениям соцсетей</string>
     <string name="HIPS_Perm_use_sip">Видео сервисы</string>
     <string name="HIPS_Perm_use_sip_Desc">Использование протокола SIP для потокового видео</string>
     <string name="HIPS_Perm_write_clipboard">Запись в буфер обмена</string>
@@ -208,7 +208,7 @@
     <string name="grant_dialog_button_deny_and_dont_ask_again">Запретить и больше не спрашивать</string>
     <string name="grant_dialog_button_deny_background">Разрешить в активном режиме</string>
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">Разрешить в активном режиме и больше не спрашивать</string>
-    <string name="grant_dialog_storage_category_title">Приложению требуется доступ к галерее и сообщениям соцсетей</string>
+    <string name="grant_dialog_storage_category_title">Приложению требуется доступ к Галерее и сообщениям соцсетей</string>
     <string name="grant_dialog_storage_gallery_title">Галерея</string>
     <string name="grant_dialog_storage_sociality_title">Сообщения соцсетей</string>
     <string name="keep_blur_location">Оставить</string>
@@ -372,11 +372,11 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="stop_blur_location">Отключить</string>
-    <string name="storage_policy_notify_both_title">Приложению %1$s запрещен доступ к галерее и сообщениям соцсетей</string>
+    <string name="storage_policy_notify_both_title">Приложению %1$s запрещен доступ к Галерее и сообщениям соцсетей</string>
     <string name="storage_policy_notify_content">Нажмите, чтобы настроить разрешения</string>
-    <string name="storage_policy_notify_gallery_title">Приложению %1$s запрещен доступ к галерее</string>
+    <string name="storage_policy_notify_gallery_title">Приложению %1$s запрещен доступ к Галерее</string>
     <string name="storage_policy_notify_sociality_title">Приложению %1$s запрещен доступ к сообщениям соцсетей</string>
-    <string name="storage_policy_notify_title">Приложению %1$s запрещен доступ к галерее</string>
+    <string name="storage_policy_notify_title">Приложению %1$s запрещен доступ к Галерее</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>

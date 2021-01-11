@@ -6,7 +6,7 @@
     <string name="HIPS_Perm_CallLog_Desc">Создание и удаление записей в журнале вызовов</string>
     <string name="HIPS_Perm_Call_Desc">Непосредственное осуществление вызовов</string>
     <string name="HIPS_Perm_Contact_Desc">Изменение и удаление контактов</string>
-    <string name="HIPS_Perm_External_Storage">Внутренняя память</string>
+    <string name="HIPS_Perm_External_Storage">Память</string>
     <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам во внутренней памяти</string>
     <string name="HIPS_Perm_External_Storage_Group">Управление доступом</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Выбор файлов, к которым разрешен доступ приложениям</string>
@@ -135,9 +135,7 @@
     <string name="add_whitelist">Исключения</string>
     <string name="address">Адрес</string>
     <string name="address_choose_hint">%1$s, %2$s и %3$d других</string>
-    <string name="adjust_sms_cmd">
-  <u>Изменить шаблон калибровки</u>
-  </string>
+    <string name="adjust_sms_cmd"><u>Изменить шаблон калибровки</u></string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Обновлено более месяца назад</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Обновлено более недели назад</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">Обновлено неделю назад</string>
@@ -977,7 +975,7 @@
     <string name="deep_clean_never_memory_clean">Никогда</string>
     <string name="deep_power_save_item_summary_auto_brightness">Автоматическая регулировка яркости для экономии заряда</string>
     <string name="deep_power_save_item_summary_bluetooth">Отключение Bluetooth для экономии заряда</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Отключение экрана через 15 секунд бездействия для экономии заряда</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Отключение экрана после 15 секунд бездействия для экономии заряда</string>
     <string name="deep_power_save_item_title_auto_brightness">Включение автояркости</string>
     <string name="deep_power_save_item_title_bluetooth">Отключение Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Спящий режим</string>
@@ -1438,13 +1436,9 @@
     <string name="forbid_autobright_summary">Автояркость будет отключена во время игры и снова включена после ее окончания</string>
     <string name="forbid_autobright_title">Отключить автояркость</string>
     <string name="foreground_traffic">Активный: %s</string>
-    <string name="forget_password_button_text">
-  <u>Забыли пароль?</u>
-  </string>
+    <string name="forget_password_button_text"><u>Забыли пароль?</u></string>
     <string name="forget_password_button_text_normal">Забыли пароль?</string>
-    <string name="forget_pattern">
-  <u>Забыли ключ?</u>
-  </string>
+    <string name="forget_pattern"><u>Забыли ключ?</u></string>
     <string name="forground_network_optimization_summary">Повышенный приоритет процессора для запущенных игр</string>
     <string name="forground_network_optimization_title">Приоритет производительности</string>
     <string name="free_send_net_booster">Бесплатное ускорение сети</string>
@@ -2467,9 +2461,9 @@
     <string name="perm_intercept_notification_title">Предоставление приложению %1s доступа к уведомлениям, позволит ему</string>
     <string name="perm_intercept_privacy_content">Это может привести к раскрытию ваших личных данных. Разрешить приложению %1s?</string>
     <string name="perm_intercept_title">Предоставление приложению %1s доступа к истории использования, позволит ему</string>
-    <string name="perm_intercept_unknown_title">Предоставление приложению %1s разрешения устанавливать приложения из неизвестных источников может привести к тому, что</string>
+    <string name="perm_intercept_unknown_title">Разрешение приложению %1s устанавливать приложения из неизвестных источников может привести к тому, что</string>
     <string name="perm_list_header_title">Приложения</string>
-    <string name="perm_list_header_title_has_storage">Приложения с доступом к памяти</string>
+    <string name="perm_list_header_title_has_storage">Приложения с доступом к файлам</string>
     <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
     <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
     <string name="permgroupdesc_calendar">Доступ к календарю</string>
@@ -2514,7 +2508,7 @@
     <string name="permission_instruction_dont_disturb">Это разрешение позволяет приложениям включать и выключать режим \"Не беспокоить\".</string>
     <string name="permission_instruction_draw_overlay">Это разрешение позволяет приложениям отображать плавающие окна поверх любого другого интерфейса на вашем устройстве, что может повлиять на нормальное использование других приложений. Вредоносные приложения могут использовать это разрешение для чтения или сбора личной информации (например, паролей) через прозрачные плавающие окна.</string>
     <string name="permission_instruction_external_storage">Это разрешение позволяет приложениям получать доступ к фотографиям, мультимедиа и файлам на вашем устройстве. Будьте осторожны с этим разрешением, чтобы избежать ненужного разглашения личной информации.</string>
-    <string name="permission_instruction_gallery">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настраивать разрешение на доступ к Галерее для приложений, которым разрешен доступ к памяти устройства.</string>
+    <string name="permission_instruction_gallery">Для защиты конфиденциальности, MIUI позволяет отдельно настроить разрешения на доступ к Галерее для приложений, у которых есть доступ к файлам во внутренней памяти</string>
     <string name="permission_instruction_get_accounts">Это разрешение позволяет приложениям получать доступ к списку учетных записей, хранящихся на вашем устройстве. Этот список может содержать все ваши личные учетные записи, созданные установленными приложениями, а также учетные записи соц. сетей и средств связи.</string>
     <string name="permission_instruction_install_shortcuts">Это разрешение позволяет приложениям создавать ярлыки на рабочем столе.</string>
     <string name="permission_instruction_install_unknown_source">Это разрешение позволяет приложениям устанавливать другие приложения на ваше устройство. Вредоносные программы используют это разрешение для установки приложений без вашего подтверждения.</string>
@@ -2541,8 +2535,8 @@
     <string name="permission_instruction_send_payment_sms">Это разрешение позволяет приложениям отправлять платные текстовые сообщения.</string>
     <string name="permission_instruction_send_sms">Это разрешение позволяет приложениям отправлять текстовые сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
     <string name="permission_instruction_show_locked">Это разрешение позволяет приложениям отображать элементы на экране блокировки. Вредоносные программы могут использовать это разрешение для показа вам надоедливой рекламы.</string>
-    <string name="permission_instruction_sociality">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настраивать разрешение на доступ к сообщениям в приложениях соц. сетей для приложений, которым разрешен доступ к памяти устройства.</string>
-    <string name="permission_instruction_storage">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настраивать разрешение на доступ к Галерее и к сообщениям в приложениях соц. сетей для приложений, которым разрешен доступ к памяти устройства.</string>
+    <string name="permission_instruction_sociality">Для защиты конфиденциальности, MIUI позволяет отдельно настроить разрешения на доступ к сообщениям соцсетей для приложений, у которых есть доступ к файлам во внутренней памяти</string>
+    <string name="permission_instruction_storage">Для защиты конфиденциальности, MIUI позволяет отдельно настроить разрешения на доступ к Галерее и сообщениям соцсетей для приложений, у которых есть доступ к файлам во внутренней памяти</string>
     <string name="permission_instruction_touch_pay">Это разрешение позволяет приложениям выполнять бесконтактные платежи.</string>
     <string name="permission_instruction_use_sip">Это разрешение позволяет приложениям использовать видеосервисы SIP.</string>
     <string name="permission_instruction_vr_assistant">Это разрешение позволяет приложениям использовать службы помощника VR.</string>
@@ -2635,8 +2629,8 @@
     <string name="power_center_list_item_deep_save_title">Глубокая экономия</string>
     <string name="power_center_list_item_haptic_feedback">Отключить виброотклик</string>
     <string name="power_center_list_item_haptic_feedback_summary">Не сопровождать жесты и нажатия виброоткликом</string>
-    <string name="power_center_list_item_set_lockscreen_time">Спящий режим через 30 сек. бездействия</string>
-    <string name="power_center_list_item_set_lockscreen_time_holder">Заблокировать устройство через %d сек. бездействия</string>
+    <string name="power_center_list_item_set_lockscreen_time">Спящий режим после 30 сек. бездействия</string>
+    <string name="power_center_list_item_set_lockscreen_time_holder">Заблокировать устройство после %d сек. бездействия</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Выключенный экран экономит заряд</string>
     <string name="power_center_list_item_wake_notification">Не пробуждать для уведомлений</string>
     <string name="power_center_list_item_wake_notification_summary">Входящие уведомления будут отображаться только при включении экрана</string>
@@ -2647,7 +2641,7 @@
     <string name="power_center_optimize_title">Рекомендации</string>
     <string name="power_center_power_save_summary_text">Увеличить автономность до %1$d ч. %2$d мин.</string>
     <string name="power_center_power_save_title_text">Экономия заряда</string>
-    <string name="power_center_problem_title">Исправить проблемы</string>
+    <string name="power_center_problem_title">Решение проблем</string>
     <string name="power_center_reduce_dpi_summary">QHD+ больше расходует заряд</string>
     <string name="power_center_reduce_resolution">Уменьшить разрешение дисплея</string>
     <string name="power_center_repeat">Повтор</string>
@@ -2740,7 +2734,7 @@
     <string name="power_optimize_battery_save_more">Еще</string>
     <string name="power_optimize_brightness">Оптимизировать яркость экрана</string>
     <string name="power_optimize_btn_text_fixed">✓</string>
-    <string name="power_optimize_catagory_fixed_title">Оптимизировано</string>
+    <string name="power_optimize_catagory_fixed_title">Выполнено</string>
     <string name="power_optimize_clean_memory">Очистить память через %d мин. после блокировки</string>
     <string name="power_optimize_clean_memory_summary">Фоновая активность расходует заряд</string>
     <string name="power_optimize_close_app">Закрытие приложений, разряжающих батарею</string>
@@ -2754,7 +2748,7 @@
     <string name="power_optimize_darkmode">Включить темный режим</string>
     <string name="power_optimize_darkmode_dialog_confirm">Включить</string>
     <string name="power_optimize_darkmode_dialog_summary">Темный режим экономит заряд и снижает нагрузку на глаза</string>
-    <string name="power_optimize_darkmode_dialog_title">Включение темного режима</string>
+    <string name="power_optimize_darkmode_dialog_title">Включить темный режим</string>
     <string name="power_optimize_darkmode_extend_summary">Темный режим экономит заряд и снижает нагрузку на глаза</string>
     <string name="power_optimize_darkmode_summary">Темный режим экономит заряд</string>
     <string name="power_optimize_disable_5g">Ограничить 5G подключение</string>
@@ -2875,8 +2869,8 @@
     <string name="power_wifi">Wi-Fi</string>
     <string name="pp_app_behavior_record_detail">Записи действий приложений</string>
     <string name="pp_app_del_img_intercept_detail">Уведомлять об удалении файлов из галереи без подтверждения</string>
-    <string name="pp_app_gets_dangerous_permission_reminder">Уведомления о разрешениях с высоким риском</string>
-    <string name="pp_app_gets_dangerous_permission_reminder_detail">Уведомление и варианты действий при использовании разрешений с высоким риском</string>
+    <string name="pp_app_gets_dangerous_permission_reminder">Разрешения с высоким риском</string>
+    <string name="pp_app_gets_dangerous_permission_reminder_detail">При запросе разрешения с высоким риском выводится предупреждение и предлагаются варианты действий</string>
     <string name="pp_app_lock_introduction">Дополнительная блокировка для защиты приложений</string>
     <string name="pp_app_permission_settings">Конфиденциальные разрешения</string>
     <string name="pp_app_permission_settings_detail">Управление конфиденциальными разрешениями приложения</string>
@@ -2887,7 +2881,7 @@
     <string name="pp_call_phone_msg">Журнал вызовов</string>
     <string name="pp_capability_approved_title">Наши меры защиты конфиденциальности были протестированы и сертифицированы ведущими экспертами</string>
     <string name="pp_chain_start_is_prohibited">Ограничение цепного запуска</string>
-    <string name="pp_chain_start_is_prohibited_detail">Ограничение цепного запуска приложений и доступа к личной информации</string>
+    <string name="pp_chain_start_is_prohibited_detail">Контроль цепного запуска приложений и доступа к личной информации</string>
     <string name="pp_clipboard">Буфер обмена</string>
     <string name="pp_comprehensive_privacy_management">Защита конфиденциальных данных от перехвата</string>
     <string name="pp_contacts_msg">Контакты</string>
@@ -2895,19 +2889,19 @@
     <string name="pp_fuzzy_positioning">Неточное местоположение</string>
     <string name="pp_fuzzy_positioning_detail">Приложениям предоставляется информация о местоположении пониженной точности</string>
     <string name="pp_grant_permission_only_during_app_use">Разрешение только на время использования приложения</string>
-    <string name="pp_grant_permission_only_during_app_use_detail">Запрет приложениям использовать местоположение, микрофон или контакты в фоновом режиме, разрешение выдается только на время использования</string>
+    <string name="pp_grant_permission_only_during_app_use_detail">Запрет приложениям использовать местоположение, микрофон или контакты в фоновом режиме, разрешение будет выдаваться только на время использования</string>
     <string name="pp_hide_app">Скрытие приложений</string>
     <string name="pp_hide_app_form_desktop">Скрытие приложений с рабочего стола</string>
     <string name="pp_icon_layout_status_bg_content_enable">Защищено</string>
     <string name="pp_icon_layout_status_bg_content_unable">Отключено</string>
-    <string name="pp_interception_net_visit_content_manager">Защита Галереи и приложений для социальных сетей</string>
-    <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешен доступ к фото, видео и истории чатов</string>
+    <string name="pp_interception_net_visit_content_manager">Управление доступом</string>
+    <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешен доступ к Галерее и сообщениям соцсетей</string>
     <string name="pp_local_msg">Местоположение</string>
     <string name="pp_manage_apps_location_information">Разрешение приложениям получать доступ к местоположению</string>
     <string name="pp_one_app_two_use">Два аккаунта без выхода при переключении</string>
     <string name="pp_one_phone_two_space">Одно устройство как два</string>
     <string name="pp_only_allow_permission_during_this_run">Однократное разрешение</string>
-    <string name="pp_only_allow_permission_during_this_run_detail">Разрешение использовать местоположение, микрофон или контакты выдается только один раз, после закрытия приложения разрешение сбрасывается.</string>
+    <string name="pp_only_allow_permission_during_this_run_detail">Разрешение использовать местоположение, микрофон или контакты можно предоставить один раз, после закрытия приложения разрешение будет сброшено</string>
     <string name="pp_optional_protection_function">Дополнительная защита</string>
     <string name="pp_permission_action_virtual_detail">В приложения отправляется пустая информация вместо личных данных</string>
     <string name="pp_permission_settings">Разрешения</string>
@@ -3502,7 +3496,7 @@
     <string name="special_perm_app_msg">Связывание рабочих приложений с личными приложениями</string>
     <string name="special_perm_app_title">Ассоциации приложений</string>
     <string name="special_perm_control_notice_msg">Чтение уведомлений и управление ими</string>
-    <string name="special_perm_control_notice_title">Управление уведомлениями</string>
+    <string name="special_perm_control_notice_title">Доступ к уведомлениям</string>
     <string name="special_perm_disturb_msg">Изменение режима \"Не беспокоить\"</string>
     <string name="special_perm_disturb_title">Режим \"Не беспокоить\"</string>
     <string name="special_perm_file_msg">Доступ ко всем файлам на устройстве</string>
@@ -3555,7 +3549,7 @@
     <string name="special_perm_note_msg">Отправка платных SMS</string>
     <string name="special_perm_note_title">Платные SMS</string>
     <string name="special_perm_notice_msg">Динамическое управление уведомлениями</string>
-    <string name="special_perm_notice_title">Управление уведомлениями</string>
+    <string name="special_perm_notice_title">Доступ к уведомлениям</string>
     <string name="special_perm_power_msg">Оптимизация использования батареи в фоновом режиме</string>
     <string name="special_perm_power_title">Использование батареи</string>
     <string name="special_perm_virtual_msg">Управление виртуальным ID</string>
