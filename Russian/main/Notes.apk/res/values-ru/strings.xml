@@ -63,6 +63,7 @@
     <string name="audio_toast_file_invalid">Недопустимый аудиофайл</string>
     <string name="audio_toast_file_undownload">Аудиофайл загружен не полностью или отсутствует</string>
     <string name="audio_toast_network_is_not_available">Не удалось подключиться к сети</string>
+    <string name="blackboard_note">Умная доска</string>
     <string name="btn_next">Далее</string>
     <string name="call_folder_name">Заметки вызовов</string>
     <string name="cancel_alarm_description">Отменить напоминание</string>
@@ -99,6 +100,7 @@
     <string name="db_downgrade_clear_button">Очистить данные</string>
     <string name="db_downgrade_clear_date_reminder">Для перехода на другую версию MIUI требуется очистка данных приложения. Прежде чем это сделать, убедитесь, что вы сохранили свои заметки в облаке.</string>
     <string name="default_folder_name">Заметки</string>
+    <string name="default_update_documents">Доступно обновление. Обновить?</string>
     <string name="delete_folder_dialog_tile">Удаление папки</string>
     <string name="dialog_button_cancel">Отмена</string>
     <string name="dialog_button_close">Закрыть</string>
@@ -371,7 +373,9 @@
     <string name="note_link_tel">Вызов</string>
     <string name="note_link_web">Открыть в браузере</string>
     <string name="note_mindnote_entrance_hint">"Введите текст "</string>
+    <string name="note_mindnote_entrance_hint_newversion">"Введите текст "</string>
     <string name="note_mindnote_entrance_icon_text">Ментальная карта</string>
+    <string name="note_mindnote_entrance_icon_text_newversion">Ментальная карта</string>
     <string name="note_sort_way">Сортировка заметок</string>
     <string name="notealert_enter">Открыть заметку</string>
     <string name="notealert_ok">Закрыть</string>

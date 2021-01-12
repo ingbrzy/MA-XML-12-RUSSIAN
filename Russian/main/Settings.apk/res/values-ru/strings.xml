@@ -7534,9 +7534,9 @@ UT-интерфейс: %5$s"</string>
     <string name="switchNetworkToast">За подключение к мобильным сетям может взиматься дополнительная плата.</string>
     <string name="switch_access_service_on">Переключение доступа</string>
     <string name="switch_bootup_sound">Мелодия загрузки</string>
-    <string name="switch_headset_anti_lost">Режим антипотери для наушников</string>
-    <string name="switch_headset_anti_lost_summary">Показывать напоминание через минуту, если наушники после вынимания из футляра не находятся в ушах</string>
-    <string name="switch_headset_anti_lost_title">Режим антипотери</string>
+    <string name="switch_headset_anti_lost">Уведомление о наушниках</string>
+    <string name="switch_headset_anti_lost_summary">Уведомлять, когда один из наушников находится вне уха или зарядного чехла больше минуты.</string>
+    <string name="switch_headset_anti_lost_title">Уведомление о наушниках</string>
     <string name="switch_off_text">Откл.</string>
     <string name="switch_on_text">Вкл.</string>
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
@@ -8733,6 +8733,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_empty_list_wifi_on">Поиск сетей Wi-Fi…</string>
     <string name="wifi_enable">Включить Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Не использовать сети с нестабильным сигналом</string>
+    <string name="wifi_enhanced_handover">Улучшенная передача</string>
+    <string name="wifi_enhanced_handover_summary">Быстрое переключение между точками доступа с помощью одного и того же метода шифрования</string>
     <string name="wifi_enhanced_mac_randomization">Улучшенная рандомизация MAC-адресов Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства может меняться каждый раз при подключении к сети с включенной рандомизацией MAC.</string>
     <string name="wifi_error">Ошибка</string>
