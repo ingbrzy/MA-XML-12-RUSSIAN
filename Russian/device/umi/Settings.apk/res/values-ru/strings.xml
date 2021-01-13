@@ -1203,6 +1203,8 @@
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Включает стек функций Bluetooth Gabeldorsche</string>
     <string name="bluetooth_enable_inband_ringing">Рингтоны по Bluetooth</string>
+    <string name="bluetooth_enable_page_scan">Сканирование страниц Bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">Отключение/включение сканирования страниц для проверки Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Введите код сопряжения</string>
     <string name="bluetooth_enter_passkey_other_device">Возможно, потребуется ввести ключ доступа на другом устройстве.</string>
     <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
@@ -8734,7 +8736,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_enable">Включить Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Не использовать сети с нестабильным сигналом</string>
     <string name="wifi_enhanced_handover">Улучшенная передача</string>
-    <string name="wifi_enhanced_handover_summary">Быстрое переключение между точками доступа с помощью одного и того же метода шифрования</string>
+    <string name="wifi_enhanced_handover_summary">Быстрое переключение между различными точками доступа</string>
     <string name="wifi_enhanced_mac_randomization">Улучшенная рандомизация MAC-адресов Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства может меняться каждый раз при подключении к сети с включенной рандомизацией MAC.</string>
     <string name="wifi_error">Ошибка</string>

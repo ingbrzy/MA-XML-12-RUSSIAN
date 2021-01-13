@@ -427,6 +427,8 @@
     <string name="close">Закрыть</string>
     <string name="close_back_flash_toast">Ваше устройство перегрето. Сейчас нельзя использовать вспышку.</string>
     <string name="close_front_flash_toast">Ваше устройство перегрето. Сейчас нельзя использовать вспышку.</string>
+    <string name="close_night_algo_toast_low_power">Зарядите устройство, чтобы установить экспозицию</string>
+    <string name="close_night_algo_toast_thermal">Охладите устройство, чтобы установить экспозицию</string>
     <string name="color_effect_entry_berry">Ягоды</string>
     <string name="color_effect_entry_blackgold">Родий</string>
     <string name="color_effect_entry_blackgold_describe">Этот высококонтрастный фильтр сохраняет только желтый и темно-синий цвета. Используйте его на хорошо освещенных улицах ночного города.</string>
@@ -649,8 +651,8 @@
     <string name="fps960_toast">Съемка в режиме Замедление начнется, когда таймер достигнет белой точки</string>
     <string name="fragment_tab_name_bokeh">Режим "Боке"</string>
     <string name="front_camera_hint_text_place">"Снимать селфи будет проще,
-если развернуть телефон"</string>
-    <string name="front_camera_hint_text_rotate">Разверните телефон</string>
+если развернуть устройство"</string>
+    <string name="front_camera_hint_text_rotate">Разверните устройство</string>
     <string name="hand_gesture_open_tip">Для активации таймера съемки поднимите руку</string>
     <string name="hand_gesture_tip">Жест съемки</string>
     <string name="hdr_tip">HDR</string>
@@ -917,6 +919,10 @@
     <string name="module_name_multi_camera">Фронтальная и основная</string>
     <string name="module_name_new_slow_motion">Замедление</string>
     <string name="module_name_panorama">Панорама</string>
+    <string name="module_name_pixel_108m">108M</string>
+    <string name="module_name_pixel_48m">48M</string>
+    <string name="module_name_pixel_50m">50M</string>
+    <string name="module_name_pixel_64m">64M</string>
     <string name="module_name_portrait">Портрет</string>
     <string name="module_name_professional">Про</string>
     <string name="module_name_square">Квадрат</string>
@@ -1304,7 +1310,7 @@
     <string name="pref_camera_long_pressing_shutter_title">Удерживайте кнопку съемки для блокировки AE/AF/AWB</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google объектив</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF блокировка</string>
-    <string name="pref_camera_lying_summary">Уведомлять о текущей ориентации, когда телефон параллелен земле.</string>
+    <string name="pref_camera_lying_summary">Уведомлять о текущей ориентации, когда устройство параллельно земле</string>
     <string name="pref_camera_lying_title">Уведомлять об ориентации</string>
     <string name="pref_camera_magic_mirror_title">Волшебное зеркало</string>
     <string name="pref_camera_manual_description_title">О функциях Pro</string>
@@ -1542,6 +1548,8 @@
     <string name="pref_skin_beautify_smooth_title">Кожа</string>
     <string name="pref_smart_guide_title">Умные рекомендации</string>
     <string name="pref_sound_noise_reduction_summary">Во время записи</string>
+    <string name="pref_super_night_se_summary">Автоматически переключаться на ночной режим при темном освещении</string>
+    <string name="pref_super_night_se_title">Ночной режим</string>
     <string name="pref_userdefine_watermark_title">Пользовательский водяной знак</string>
     <string name="pref_video_captrue_ability_title">Захват кадра при съемке</string>
     <string name="pref_video_denoise_off">Отключено</string>
@@ -1608,9 +1616,9 @@
     <string name="professional_shortcut_long">ПРО</string>
     <string name="professional_shortcut_short">ПРО</string>
     <string name="recommend_macro_mode">Попробуйте режим Макро</string>
-    <string name="recommend_portrait">Попробуйте Портретный режим</string>
+    <string name="recommend_portrait">Попробуйте портретный режим</string>
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
-    <string name="recommend_super_night">Попробуйте Ночной режим</string>
+    <string name="recommend_super_night">Попробуйте ночной режим</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
     <string name="reset_manual_picture_style_toast">Параметры стиля сброшены</string>
     <string name="reset_manually_parameter_confirmed">ОК</string>
@@ -1679,9 +1687,9 @@
     <string name="super_moon_miss">Лунный свет лежит на изножье моей кровати, как иней на мерзлой земле.</string>
     <string name="super_moon_under">Лунный свет</string>
     <string name="super_moon_window">Окно</string>
-    <string name="super_night_hint">Поместите луну в круг</string>
+    <string name="super_night_hint">Оптимизация изображения... Держите устройство неподвижно.</string>
     <string name="super_night_se_tip">Ночной режим</string>
-    <string name="super_night_toast">Держите телефон неподвижно во время съемки</string>
+    <string name="super_night_toast">Держите устройство неподвижно во время съемки</string>
     <string name="tap_to_exposure">Нажмите для ручной настройки</string>
     <string name="tap_to_focus">Нажмите для фокусировки</string>
     <string name="text_ai_scene_selector_text_off">КОНТРАЖУР</string>
@@ -1814,11 +1822,11 @@
     <string name="watermark_tab_super_moon_text">Текст</string>
     <string name="wideselfie_press_shoot_key_to_start">Нажмите кнопку съемки</string>
     <string name="wideselfie_result_image_lossless">Не удалось сохранить панораму</string>
-    <string name="wideselfie_rotate_slowly">Медленно поверните телефон в сторону</string>
-    <string name="wideselfie_rotate_to_back">Наклоните телефон назад</string>
-    <string name="wideselfie_rotate_to_front">Наклоните телефон вперед</string>
-    <string name="wideselfie_rotate_to_left_slowly">Медленно поверните телефон влево</string>
-    <string name="wideselfie_rotate_to_right_slowly">Медленно поверните телефон вправо</string>
+    <string name="wideselfie_rotate_slowly">Медленно поверните устройство в сторону</string>
+    <string name="wideselfie_rotate_to_back">Наклоните устройство назад</string>
+    <string name="wideselfie_rotate_to_front">Наклоните устройство вперед</string>
+    <string name="wideselfie_rotate_to_left_slowly">Медленно поверните устройство влево</string>
+    <string name="wideselfie_rotate_to_right_slowly">Медленно поверните устройство вправо</string>
     <string name="width">Ширина</string>
     <string name="zoom_no_support_tip_48M">Приближение недоступно в режиме 48MP</string>
 </resources>
