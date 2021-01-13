@@ -57,6 +57,15 @@
     <string name="category_select">Выбрать</string>
     <string name="category_video">Видео</string>
     <string name="category_video_title">Видео</string>
+    <string name="channel_pc_edit">Измененные на ПК</string>
+    <string name="channel_pc_upload">Загруженные с ПК</string>
+    <string name="channel_pc_view">Просмотренные на ПК</string>
+    <string name="channel_phone_edit">Измененные на устройстве</string>
+    <string name="channel_phone_upload">Загруженные с устройства</string>
+    <string name="channel_phone_view">Просмотренные на устройстве</string>
+    <string name="channel_web_edit">Измененные в браузере</string>
+    <string name="channel_web_upload">Загруженные в браузере</string>
+    <string name="channel_web_view">Просмотренные в браузере</string>
     <string name="clear_cache_success">Кеш очищен</string>
     <string name="cloud_gallery_to_pdf">Сгенерированные автоматически</string>
     <string name="cloud_storage_already_full">Облачное хранилище заполнено: %1$s/%2$s</string>
@@ -82,7 +91,9 @@
     <string name="create_pdf_manual">Новый PDF</string>
     <string name="current_speed_content">Скорость: %1$s</string>
     <string name="delete_file_success">Файл удален</string>
-    <string name="delete_record_only">Элементы, на которые ссылаются выбранные записи, не будут удалены.</string>
+    <string name="delete_operation_record">Удалить запись?</string>
+    <string name="delete_operation_record_timeout">Не удалось удалить запись. Повторите попытку позже.</string>
+    <string name="delete_record_only">Файлы, на которые ссылаются выбранные записи, не будут удалены.</string>
     <string name="delete_success">Успешно удалено</string>
     <string name="detail_download_path">"Папка: "</string>
     <string name="detail_download_time">"Загружено: "</string>
@@ -180,6 +191,7 @@
     <string name="image_preview_open_large_image">Исходное изображение (%s)</string>
     <string name="image_preview_percent">%s%%</string>
     <string name="inner_storage_path">Внутренняя память</string>
+    <string name="jump_to_directory">Открыть папку</string>
     <string name="just_now">Сейчас</string>
     <string name="license_host_unreachable">Устройство не подключено к облачным сервисам. Для просмотра посетите страницу %s на любом подключенном устройстве.</string>
     <string name="load_label_up_no_data">Больше ничего нет</string>
@@ -231,6 +243,7 @@
     <string name="navigation_my">Профиль</string>
     <string name="navigation_tips">500+</string>
     <string name="navigation_transport">Загрузки</string>
+    <string name="no_recent_activity">Ничего нет</string>
     <string name="not_set">Не задано</string>
     <string name="not_support_upload_file_for_overseas_users">Загрузка недоступна за пределами Китая</string>
     <string name="notification_channel_remind">Напоминания</string>
@@ -246,6 +259,7 @@
     <string name="operation_dialog_copy_message">Копирование…</string>
     <string name="operation_dialog_create_folder_message">Создание…</string>
     <string name="operation_dialog_delete_message">Удаление…</string>
+    <string name="operation_dialog_jump_message">Открытие…</string>
     <string name="operation_dialog_move_message">Перемещение…</string>
     <string name="operation_dialog_rename_message">Переименование…</string>
     <string name="operation_download">Загрузить</string>
@@ -255,6 +269,7 @@
     <string name="operation_save">Сохранить</string>
     <string name="operation_sure_to_delete">Удалить?</string>
     <string name="operation_transport_success">Добавлено в список загрузки</string>
+    <string name="operation_will_not_show_after_delete">Запись больше не будет отображаться здесь, если удалите ее</string>
     <string name="pause_all">Приостановить все</string>
     <string name="pause_download">Приостановлено</string>
     <string name="pause_upload">Приостановлено</string>
@@ -275,6 +290,8 @@
     <string name="private_empty_sub_desc">Попробуйте переместить файлы сюда или загрузить их напрямую.</string>
     <string name="private_folder_name">Личные файлы</string>
     <string name="ptp_ai_recommend_empty_page">Файлы отсутствуют</string>
+    <string name="recent_file">Недавние</string>
+    <string name="recent_jump_to_privacy_fail_notice">Это личный файл. Вернитесь на стартовую страницу и потяните вниз для просмотра.</string>
     <string name="refresh_label_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="refresh_label_refreshed">Успешно обновлено</string>
     <string name="refresh_label_refreshing">Обновление…</string>
