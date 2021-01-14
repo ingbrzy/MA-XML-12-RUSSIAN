@@ -1937,7 +1937,7 @@
     <string name="content_capture">Контент приложений</string>
     <string name="content_capture_summary">Разрешить приложениям передавать контент системе Android</string>
     <string name="content_description_menu_button">Меню</string>
-    <string name="content_miui_music_mute_by_user">Воспроизводить звуки медиа, когда включен режим \"Без звука\"?</string>
+    <string name="content_miui_music_mute_by_user">Воспроизводить звуки мультимедиа, когда включен режим \"Без звука\"?</string>
     <string name="contextual_card_dismiss_confirm_message">Удалить рекомендацию?</string>
     <string name="contextual_card_dismiss_keep">Оставить</string>
     <string name="contextual_card_dismiss_remove">Удалить</string>
@@ -6126,7 +6126,7 @@ UT-интерфейс: %5$s"</string>
     <string name="right_function_key">Правый ярлык</string>
     <string name="ring_to_you">Рингтон вызова</string>
     <string name="ring_to_you_info">Установите свой рингтон, который услышат вызывающие абоненты</string>
-    <string name="ring_volume_option_title">Рингтон и мелодии</string>
+    <string name="ring_volume_option_title">Рингтон и уведомления</string>
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringer_mode_setting_summary">Отключить звук для входящих вызовов и уведомлений</string>
     <string name="ringer_mode_setting_title">Режим \"Без звука\"</string>
@@ -6949,9 +6949,9 @@ UT-интерфейс: %5$s"</string>
     <string name="shuting_down_find_device">Отключение Поиска устройства…</string>
     <string name="silent_duration">Длительность</string>
     <string name="silent_mode">Режим \"Без звука\"</string>
-    <string name="silent_mode_disable_media">Отключить все звуки</string>
-    <string name="silent_mode_enable_media">Разрешить звуки медиа</string>
-    <string name="silent_mode_summary">Отключить звуки вызовов, уведомлений и медиа</string>
+    <string name="silent_mode_disable_media">Отключить все</string>
+    <string name="silent_mode_enable_media">Мультимедиа</string>
+    <string name="silent_mode_summary">Отключить звуки рингтонов, уведомлений и мультимедиа</string>
     <string name="silent_mode_title">Режим \"Без звука\"</string>
     <string name="silent_mode_toggle_title">Режим \"Без звука\"</string>
     <string name="silent_notifications_status_bar">Скрыть уведомления режима \"Без звука\" в строке состояния</string>
@@ -7156,8 +7156,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_settings">Громкость</string>
     <string name="sound_settings_example_summary">Громкость звонка: 80%</string>
     <string name="sound_settings_summary">Громкость звонка: %1$s</string>
-    <string name="sound_settings_summary_silent">Включен режим без звука</string>
-    <string name="sound_settings_summary_vibrate">Включен вибросигнал</string>
+    <string name="sound_settings_summary_silent">Включен режим \"Без звука\"</string>
+    <string name="sound_settings_summary_vibrate">Включена вибрация</string>
     <string name="sound_settings_tab_haptic">Виброотклик</string>
     <string name="sound_settings_tab_sound">Звук</string>
     <string name="sound_stereo_mode_summary">При воспроизведении через динамик</string>
@@ -9337,7 +9337,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_from_sms">"Сообщения от "</string>
     <string name="zen_mode_from_starred">Только от помеченных контактов</string>
     <string name="zen_mode_important_category">Настройки</string>
-    <string name="zen_mode_lockscreen">Когда заблокировано</string>
+    <string name="zen_mode_lockscreen">При блокировке</string>
     <string name="zen_mode_media">Воспроизведение медиа</string>
     <string name="zen_mode_media_list">медиа</string>
     <string name="zen_mode_media_list_first">Медиа</string>
@@ -9436,8 +9436,8 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_starred_contacts_summary_none">Нет</string>
     <string name="zen_mode_starred_contacts_title">Избранные контакты</string>
     <string name="zen_mode_start_time">Время начала</string>
-    <string name="zen_mode_summary">Отключить звук входящих вызовов, уведомлений и медиа, отключить вибрацию</string>
-    <string name="zen_mode_summary2">Отключить звук вызовов и уведомлений, отключить вибрацию</string>
+    <string name="zen_mode_summary">Отключить звуки рингтонов, уведомлений и мультимедиа, отключить вибрацию</string>
+    <string name="zen_mode_summary2">Отключить звуки рингтонов и уведомлений, отключить вибрацию</string>
     <string name="zen_mode_summary_alarms_only_by_time">Активировать режим \"Только будильник\" до %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Активировать режим \"Только будильник\" бессрочно</string>
     <string name="zen_mode_summary_always">Режим \"Не беспокоить\" отключен.</string>
@@ -9484,7 +9484,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_schedule_rule_type_name">Время</string>
     <string name="zen_sound_all_muted">Без звука</string>
     <string name="zen_sound_category_title">Без звука, кроме</string>
-    <string name="zen_sound_footer">В режиме \"Не беспокоить\" звук и вибрация будут отключены для всего, кроме указанных исключений.</string>
+    <string name="zen_sound_footer">В режиме \"Не беспокоить\" звуки будут отключены для всего, кроме указанных исключений.</string>
     <string name="zen_sound_none_muted">Со звуком</string>
     <string name="zen_sound_one_allowed">Без звука, кроме %1$s</string>
     <string name="zen_sound_three_allowed">Без звука, кроме %1$s, %2$s, и %3$s</string>
