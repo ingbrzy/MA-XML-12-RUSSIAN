@@ -2563,9 +2563,9 @@
     <string name="dndm_auto_setting_group">Расписание</string>
     <string name="dndm_auto_time_setting">Настройки времени</string>
     <string name="dndm_auto_time_turn_off">Окончание</string>
-    <string name="dndm_auto_time_turn_off_title">Автоматическое отключение режима \"Не беспокоить\"</string>
+    <string name="dndm_auto_time_turn_off_title">Автоотключение режима \"Не беспокоить\"</string>
     <string name="dndm_auto_time_turn_on">Начало</string>
-    <string name="dndm_auto_time_turn_on_title">Автоматическое включение режима \"Не беспокоить\"</string>
+    <string name="dndm_auto_time_turn_on_title">Автовключение режима \"Не беспокоить\"</string>
     <string name="dndm_dlg_remove_ok">ОК</string>
     <string name="dndm_dlg_remove_vip">Вызовы с этого номера в режиме \"Не беспокоить\" будут поступать без звука.</string>
     <string name="dndm_menu_add_vip_custom">Добавить</string>
@@ -6951,7 +6951,7 @@ UT-интерфейс: %5$s"</string>
     <string name="silent_mode">Режим \"Без звука\"</string>
     <string name="silent_mode_disable_media">Отключить все</string>
     <string name="silent_mode_enable_media">Мультимедиа</string>
-    <string name="silent_mode_summary">Отключить звуки рингтонов, уведомлений и мультимедиа</string>
+    <string name="silent_mode_summary">Отключение всех звуков, кроме звуков мультимедиа, если не указано иначе</string>
     <string name="silent_mode_title">Режим \"Без звука\"</string>
     <string name="silent_mode_toggle_title">Режим \"Без звука\"</string>
     <string name="silent_notifications_status_bar">Скрыть уведомления режима \"Без звука\" в строке состояния</string>
@@ -9437,7 +9437,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_starred_contacts_title">Избранные контакты</string>
     <string name="zen_mode_start_time">Время начала</string>
     <string name="zen_mode_summary">Отключить звуки рингтонов, уведомлений и мультимедиа, отключить вибрацию</string>
-    <string name="zen_mode_summary2">Отключить звуки рингтонов и уведомлений, отключить вибрацию</string>
+    <string name="zen_mode_summary2">Отключение звука и вибрации</string>
     <string name="zen_mode_summary_alarms_only_by_time">Активировать режим \"Только будильник\" до %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Активировать режим \"Только будильник\" бессрочно</string>
     <string name="zen_mode_summary_always">Режим \"Не беспокоить\" отключен.</string>
@@ -9484,7 +9484,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_schedule_rule_type_name">Время</string>
     <string name="zen_sound_all_muted">Без звука</string>
     <string name="zen_sound_category_title">Без звука, кроме</string>
-    <string name="zen_sound_footer">В режиме \"Не беспокоить\" звуки будут отключены для всего, кроме указанных исключений.</string>
+    <string name="zen_sound_footer">В режиме \"Не беспокоить\" звук и вибрация будут отключены для всего, кроме исключений</string>
     <string name="zen_sound_none_muted">Со звуком</string>
     <string name="zen_sound_one_allowed">Без звука, кроме %1$s</string>
     <string name="zen_sound_three_allowed">Без звука, кроме %1$s, %2$s, и %3$s</string>
