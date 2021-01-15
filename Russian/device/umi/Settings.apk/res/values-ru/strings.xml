@@ -1883,9 +1883,9 @@
     <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
     <string name="confirm_password_with_fingerprint">Используйте отпечаток</string>
     <string name="confirm_password_with_password">Введите пароль</string>
-    <string name="confirm_privacy_password">Введите пароль защиты личных данных</string>
+    <string name="confirm_privacy_password">Введите пароль конфиденциальности</string>
     <string name="confirm_privacy_password_fingerprint">"Отсканируйте отпечаток или 
-введите пароль защиты личных данных"</string>
+введите пароль конфиденциальности"</string>
     <string name="confirm_reset_aaid">OK</string>
     <string name="confirm_sim_deletion_description">Подтверждение вашей личности перед очисткой SIM-карты</string>
     <string name="confirm_sim_deletion_title">Подтверждение очистки SIM-карты</string>
@@ -2563,9 +2563,9 @@
     <string name="dndm_auto_setting_group">Расписание</string>
     <string name="dndm_auto_time_setting">Настройки времени</string>
     <string name="dndm_auto_time_turn_off">Окончание</string>
-    <string name="dndm_auto_time_turn_off_title">Автоматическое отключение режима \"Не беспокоить\"</string>
+    <string name="dndm_auto_time_turn_off_title">Автоотключение режима \"Не беспокоить\"</string>
     <string name="dndm_auto_time_turn_on">Начало</string>
-    <string name="dndm_auto_time_turn_on_title">Автоматическое включение режима \"Не беспокоить\"</string>
+    <string name="dndm_auto_time_turn_on_title">Автовключение режима \"Не беспокоить\"</string>
     <string name="dndm_dlg_remove_ok">ОК</string>
     <string name="dndm_dlg_remove_vip">Вызовы с этого номера в режиме \"Не беспокоить\" будут поступать без звука.</string>
     <string name="dndm_menu_add_vip_custom">Добавить</string>
@@ -5772,15 +5772,15 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_factory_reset_dlg_message">Если вы забудете свой пароль, то придется выполнить сброс к заводским настройкам, а затем задать новый.</string>
     <string name="privacy_factory_reset_dlg_title">Создайте резервную копию</string>
     <string name="privacy_failed_need_to_unlock_nofingerprint">Введите пароль перед использованием нового отпечатка</string>
-    <string name="privacy_file">Файлы</string>
-    <string name="privacy_gallery">Фотографии</string>
+    <string name="privacy_file">Приватная папка</string>
+    <string name="privacy_gallery">Приватный альбом</string>
     <string name="privacy_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
-    <string name="privacy_mms">Сообщения</string>
+    <string name="privacy_mms">Приватные сообщения</string>
     <string name="privacy_mode_dialog_message">Скрыть сообщения, заметки, настройки и входящие вызовы?</string>
     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
     <string name="privacy_mode_enable_sum">Скрыть сообщения, заметки, настройки и входящие вызовы</string>
     <string name="privacy_mode_enable_title">Режим \"Гость\"</string>
-    <string name="privacy_notes">Заметки</string>
+    <string name="privacy_notes">Приватные заметки</string>
     <string name="privacy_password">Пароль конфиденциальности</string>
     <string name="privacy_password_add_account">Привязать</string>
     <string name="privacy_password_add_account_info">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
@@ -5788,7 +5788,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_bind_account">Привязать Mi Аккаунт</string>
     <string name="privacy_password_bind_account_immediate">Привязать</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Подтвердите пароль второго пространства</string>
-    <string name="privacy_password_confirm_use_finger">Разблокировка отпечатком</string>
+    <string name="privacy_password_confirm_use_finger">Использовать отпечаток</string>
     <string name="privacy_password_enter_privacy">Введите пароль конфиденциальности</string>
     <string name="privacy_password_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
     <string name="privacy_password_fingerprint_confirm_failed">Не удалось проверить отпечаток</string>
@@ -5804,16 +5804,16 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_remind_bindaccount_title">Привяжите Mi Аккаунт</string>
     <string name="privacy_password_settings">Использовать пароль конфиденциальности</string>
     <string name="privacy_password_settings_next">Далее</string>
-    <string name="privacy_password_settings_summary">Пароль конфиденциальности защищает приложения, содержащие конфиденциальные данные</string>
-    <string name="privacy_password_settings_titles">Пароль конфиденциальности защищает сообщения, фотографии, файлы и заметки</string>
-    <string name="privacy_password_settings_titles_elder_mode">Пароль конфиденциальности данных защищает фотографии, файлы и заметки</string>
-    <string name="privacy_password_settings_titles_second_space">Пароль конфиденциальности данных защищает сообщения, фотографии и заметки</string>
+    <string name="privacy_password_settings_summary">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
+    <string name="privacy_password_settings_titles">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
+    <string name="privacy_password_settings_titles_elder_mode">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
+    <string name="privacy_password_settings_titles_second_space">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
     <string name="privacy_password_title">Пароль конфиденциальности</string>
     <string name="privacy_password_toggle_summary">Запрашивать пароль при каждом доступе к приватным данным</string>
     <string name="privacy_password_transparent_tiltle" />
     <string name="privacy_password_use_finger_dialog_mess">Вы можете использовать отпечаток с паролем конфиденциальности</string>
-    <string name="privacy_password_use_finger_dialog_open">Настройки</string>
-    <string name="privacy_password_use_finger_dialog_title">Отпечаток</string>
+    <string name="privacy_password_use_finger_dialog_open">Использовать</string>
+    <string name="privacy_password_use_finger_dialog_title">Использовать отпечаток</string>
     <string name="privacy_password_use_finger_success">Включено</string>
     <string name="privacy_password_visible_pattern">Показывать ключ</string>
     <string name="privacy_protect_title">Защита конфиденциальности</string>
@@ -6836,7 +6836,7 @@ UT-интерфейс: %5$s"</string>
     <string name="set_jeejen_prompt_message">Рабочий стол для пожилых будет установлен по умолчанию</string>
     <string name="set_jeejen_prompt_title">Установить по умолчанию?</string>
     <string name="set_screen_paper_mode">Режим чтения</string>
-    <string name="setting_privacy_password">Установите пароль защиты личных данных</string>
+    <string name="setting_privacy_password">Установите пароль конфиденциальности</string>
     <string name="settings_ad_loading">Загрузка…</string>
     <string name="settings_ad_loading_unavailable">Не удалось загрузить данные.</string>
     <string name="settings_backup">Создать резервную копию настроек</string>
@@ -6951,7 +6951,7 @@ UT-интерфейс: %5$s"</string>
     <string name="silent_mode">Режим \"Без звука\"</string>
     <string name="silent_mode_disable_media">Отключить все</string>
     <string name="silent_mode_enable_media">Мультимедиа</string>
-    <string name="silent_mode_summary">Отключить звуки рингтонов, уведомлений и мультимедиа</string>
+    <string name="silent_mode_summary">Отключение всех звуков, кроме звуков мультимедиа, если не указано иначе</string>
     <string name="silent_mode_title">Режим \"Без звука\"</string>
     <string name="silent_mode_toggle_title">Режим \"Без звука\"</string>
     <string name="silent_notifications_status_bar">Скрыть уведомления режима \"Без звука\" в строке состояния</string>
@@ -9437,7 +9437,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_starred_contacts_title">Избранные контакты</string>
     <string name="zen_mode_start_time">Время начала</string>
     <string name="zen_mode_summary">Отключить звуки рингтонов, уведомлений и мультимедиа, отключить вибрацию</string>
-    <string name="zen_mode_summary2">Отключить звуки рингтонов и уведомлений, отключить вибрацию</string>
+    <string name="zen_mode_summary2">Отключение звука и вибрации</string>
     <string name="zen_mode_summary_alarms_only_by_time">Активировать режим \"Только будильник\" до %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Активировать режим \"Только будильник\" бессрочно</string>
     <string name="zen_mode_summary_always">Режим \"Не беспокоить\" отключен.</string>
@@ -9484,7 +9484,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_schedule_rule_type_name">Время</string>
     <string name="zen_sound_all_muted">Без звука</string>
     <string name="zen_sound_category_title">Без звука, кроме</string>
-    <string name="zen_sound_footer">В режиме \"Не беспокоить\" звуки будут отключены для всего, кроме указанных исключений.</string>
+    <string name="zen_sound_footer">В режиме \"Не беспокоить\" звук и вибрация будут отключены для всего, кроме исключений</string>
     <string name="zen_sound_none_muted">Со звуком</string>
     <string name="zen_sound_one_allowed">Без звука, кроме %1$s</string>
     <string name="zen_sound_three_allowed">Без звука, кроме %1$s, %2$s, и %3$s</string>
