@@ -32,7 +32,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activity_tip_name">Лотерея</string>
     <string name="ad_download">Загрузить</string>
-    <string name="add_private">Скрыть файлы</string>
+    <string name="add_private">Выберите объекты</string>
     <string name="add_private_files">Добавить файлы</string>
     <string name="afternoon">После полудня</string>
     <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
@@ -68,7 +68,7 @@
     <string name="cancel_error">Ошибка удаления, повторите попытку</string>
     <string name="cancel_msg">Снять выделение?</string>
     <string name="cancel_operation">Отменить действие</string>
-    <string name="cancel_success">Удалено, все файлы перемещены в %s</string>
+    <string name="cancel_success">Восстановлено, все объекты перемещены в %s</string>
     <string name="cancelled_by_user">Действие отменено</string>
     <string name="cannot_send">Нельзя отправлять файлы из внешнего хранилища</string>
     <string name="category">Категории</string>
@@ -156,7 +156,7 @@
     <string name="decompress_title">Извлечь</string>
     <string name="decompress_to">Извлечь в…</string>
     <string name="decompress_to_here">Извлечь в текущую папку</string>
-    <string name="decrypt">Отменить скрытие</string>
+    <string name="decrypt">Восстановить</string>
     <string name="decrypt_error">Не удалось расшифровать</string>
     <string name="decrypt_to">Расшифровать и сохранить в…</string>
     <string name="decrypting">Расшифровка…</string>
@@ -198,7 +198,7 @@
     <string name="encrypt_prefix">HIDDEN</string>
     <string name="encrypt_setting">Шифрование</string>
     <string name="encrypt_success">Файлы скрыты</string>
-    <string name="encrypt_success_first_five">Файл зашифрован и скрыт. Вы можете просмотреть скрытые файлы, потянув вниз на главной странице.</string>
+    <string name="encrypt_success_first_five">Успешно зашифровано и скрыто. Для просмотра потяните вниз на начальной странице Проводника.</string>
     <string name="encrypting">Шифрование…</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -394,8 +394,8 @@
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
-    <string name="miuix_appcompat_select_all_description">Выбор всех элементов</string>
-    <string name="miuix_appcompat_select_item">Выберите элементы</string>
+    <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -487,11 +487,11 @@
     <string name="night">Вечер</string>
     <string name="no">Нет</string>
     <string name="no_apk">Нет приложений</string>
-    <string name="no_app_tags">Пусто</string>
+    <string name="no_app_tags">Ничего нет</string>
     <string name="no_enough_storage_indication">Память устройства заполнена</string>
     <string name="no_enough_storage_title">Недостаточно места</string>
-    <string name="no_file">Пусто</string>
-    <string name="no_recent_files">Нет недавних файлов</string>
+    <string name="no_file">Ничего нет</string>
+    <string name="no_recent_files">Ничего нет</string>
     <string name="no_wifi">Сеть не обнаружена</string>
     <string name="no_wifi_hint">Нет соединения</string>
     <string name="noon">Полдень</string>
@@ -583,7 +583,7 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="private_files">Скрытые</string>
-    <string name="private_folder">Скрытые папки</string>
+    <string name="private_folder">Приватная папка</string>
     <string name="private_folder_no_file_hints">Нет скрытых файлов</string>
     <string name="private_folder_update">Обновление скрытых файлов…</string>
     <string name="private_folder_update_msg">Проводник представляет новую функцию безопасности: теперь вы можете шифровать личные файлы!</string>

@@ -116,7 +116,7 @@
     <string name="album_already_forced_top">Альбом закреплен</string>
     <string name="album_bluetooth">Bluetooth</string>
     <string name="album_camera_name">Камера</string>
-    <string name="album_cloud_list_page_title">Управление синхронизированными альбомами</string>
+    <string name="album_cloud_list_page_title">Управление синхронизацией</string>
     <string name="album_creative">Творчество</string>
     <string name="album_detail_default_sort_tip">Хронологический порядок</string>
     <string name="album_detail_page_empty">Ничего нет</string>
@@ -124,8 +124,8 @@
     <string name="album_faces_name">Лица</string>
     <string name="album_favorites_name">Избранные</string>
     <string name="album_from_format">Из %s</string>
-    <string name="album_hidden_item_button_title">Отменить скрытие</string>
-    <string name="album_hidden_page_title">Скрыть</string>
+    <string name="album_hidden_item_button_title">Отмена</string>
+    <string name="album_hidden_page_title">Скрытые альбомы</string>
     <string name="album_homepage_show_all_photos">Показать все</string>
     <string name="album_jump_failed">Дождитесь окончания синхронизации альбомов с Xiaomi Cloud и повторите попытку</string>
     <string name="album_lockscreen_wallpapers">Экран блокировки</string>
@@ -182,8 +182,8 @@
     <string name="album_videos_name">Видео</string>
     <string name="album_wallpaper">Обои</string>
     <string name="alert_secret_album_enter">Понятно</string>
-    <string name="alert_secret_album_message">Потяните вниз список альбомов на вкладке \"Альбомы\"</string>
-    <string name="alert_secret_album_message_lower_case">  потяните вниз список альбомов</string>
+    <string name="alert_secret_album_message">Потяните вниз на вкладке Альбомы</string>
+    <string name="alert_secret_album_message_lower_case"> потяните вниз на вкладке Альбомы</string>
     <string name="alert_secret_album_title">Просмотр приватного альбома</string>
     <string name="alert_selection_description">MIUI проанализирует похожие фото и отметит лучшие снимки.</string>
     <string name="alert_selection_title">Выберите лучший снимок</string>
@@ -518,7 +518,7 @@
     <string name="confirm_hidden_recommend_group">OK</string>
     <string name="confirm_hidden_recommend_group_message">При отключении рекомендаций вы сможете продолжить использование опции \"Еще похожие люди\"</string>
     <string name="confirm_hidden_recommend_group_title">Не показывать рекомендации</string>
-    <string name="confirm_hide_selected_albums">Скрыть выбранные альбомы?</string>
+    <string name="confirm_hide_selected_albums">Скрыть выбранные альбомы? Просмотр и управление скрытыми альбомами доступны в настройках.</string>
     <string name="confirm_merge_face_albums">
     <Data>Объединить этот альбом с %s?</Data>
   </string>
@@ -660,7 +660,7 @@
     <string name="empty_recommend_face_page_view">Больше нет рекомендаций</string>
     <string name="empty_relation">Имя группы не может быть пустым</string>
     <string name="empty_title_no_cards">Истории</string>
-    <string name="empty_title_no_photos">Нет фото или видео</string>
+    <string name="empty_title_no_photos">Ничего нет</string>
     <string name="enable_auto_upload_tip">Включить синхронизацию с облаком для этого альбома?</string>
     <string name="enable_auto_upload_title">Синхронизация с облаком</string>
     <string name="enable_cloud_for_sharing">Для просмотра общих фото включите альбомы Xiaomi Cloud.</string>
@@ -1247,7 +1247,7 @@
     <string name="megabyteShort">" МБ"</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
-    <string name="member_menu_vipname_free">Бесплатный</string>
+    <string name="member_menu_vipname_free">Бесплатный план</string>
     <string name="member_menu_vipname_mega">Мега</string>
     <string name="member_menu_vipname_premium">Премиум</string>
     <string name="member_menu_vipname_ultra">Ультра</string>
@@ -1285,7 +1285,7 @@
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
-    <string name="miuix_appcompat_select_all_description">Выбор всех элементов</string>
+    <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -1345,7 +1345,7 @@
     <string name="morning">Утро</string>
     <string name="motion_photo_enter"/>
     <string name="motion_photo_play">Воспроизведение</string>
-    <string name="move_to_other_albums_tip">Переместить этот альбом в Другие?</string>
+    <string name="move_to_other_albums_tip">Переместить в альбом Другие?</string>
     <string name="move_to_rubbish_albums_tip">Переместить выбранные альбомы в корзину?</string>
     <string name="movie_add_disable">Можно выбрать до 20 фото</string>
     <string name="movie_audio_antiquity">Ретро</string>
@@ -1510,10 +1510,10 @@
     <string name="operation_projection">Транслировать</string>
     <string name="operation_remove_face">Удалить</string>
     <string name="operation_remove_from_face_album">Удалить из альбома</string>
-    <string name="operation_remove_from_other_albums">Переместить из Других альбомов</string>
+    <string name="operation_remove_from_other_albums">Переместить из Другие</string>
     <string name="operation_remove_from_rubbish_albums">Восстановить</string>
     <string name="operation_remove_rubbish">Восстановить</string>
-    <string name="operation_remove_secret">Удалить из приватного альбома</string>
+    <string name="operation_remove_secret">Переместить</string>
     <string name="operation_rename">Переименовать</string>
     <string name="operation_replace_album_cover">Сменить обложку альбома</string>
     <string name="operation_replace_album_cover_custom_mode">Пользовательский формат</string>
@@ -1771,8 +1771,8 @@
     <string name="privacy_permission_request_negative">Отмена</string>
     <string name="privacy_permission_request_positive">Разрешить</string>
     <string name="privacy_permission_request_title">Требуются разрешения</string>
-    <string name="private_entry_lock_state_activated_text">Отпустите для открытия приватной папки</string>
-    <string name="private_entry_lock_state_enterd_text">Потяните вниз для открытия приватной папки</string>
+    <string name="private_entry_lock_state_activated_text">Отпустите для открытия приватного альбома</string>
+    <string name="private_entry_lock_state_enterd_text">Потяните вниз для открытия приватного альбома</string>
     <string name="problem_feedback">Обратная связь</string>
     <string name="produce_dialog_text_multi">Несколько элементов</string>
     <string name="produce_dialog_text_single">Один элемент</string>
@@ -1800,7 +1800,7 @@
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="recent_album_empty_title">Нет новых фото</string>
-    <string name="recommanded_face_abandon_tip">Удалено из предложений</string>
+    <string name="recommanded_face_abandon_tip">Удалено из рекомендаций</string>
     <string name="recommanded_face_added_tip">Добавлено в \"%s\"</string>
     <string name="recommend_category_title">Выбор Галереи</string>
     <string name="recommend_page_label">Рекомендации</string>
@@ -1861,13 +1861,13 @@
     <string name="remove_from_album_title">Удаление из этого альбома</string>
     <string name="remove_from_current_album">Удалить из этого альбома</string>
     <string name="remove_from_favorites_failed">Ошибка удаления из Избранных</string>
-    <string name="remove_from_other_albums_tip">Переместить этот альбом из Других альбомов?</string>
-    <string name="remove_from_secret_fail">Ошибка удаления из приватного альбома</string>
-    <string name="remove_from_secret_failed_with_reason">Ошибка удаления из приватного альбома. %1$s.</string>
-    <string name="remove_from_secret_successful">Удалено из приватного альбома</string>
-    <string name="remove_hidden_status_success">%s удален из скрытых альбомов</string>
-    <string name="remove_hidden_status_tip">Этот альбом будет виден среди других альбомов, если вы отмените скрытие для него.</string>
-    <string name="remove_hidden_status_title">Отменить скрытие</string>
+    <string name="remove_from_other_albums_tip">Переместить из альбома Другие?</string>
+    <string name="remove_from_secret_fail">Ошибка перемещения из приватного альбома</string>
+    <string name="remove_from_secret_failed_with_reason">Ошибка перемещения из приватного альбома. %1$s.</string>
+    <string name="remove_from_secret_successful">Перемещено из приватного альбома</string>
+    <string name="remove_hidden_status_success">Отменено скрытие для альбома %s</string>
+    <string name="remove_hidden_status_tip">После отмены скрытия этот альбом будет виден на вкладке Альбомы</string>
+    <string name="remove_hidden_status_title">Отмена скрытия</string>
     <string name="remove_single_album_from_rubbish_page_tip">Восстановить выбранные альбомы?</string>
     <string name="remove_single_manual_hide_album_from_rubbish_page_tip">Восстановить выбранные альбомы и удалить файлы \".nomedia\"?</string>
     <string name="remove_to_album_title">Объединить с</string>
@@ -1978,19 +1978,19 @@
     <string name="search_title_people">Лица</string>
     <string name="search_title_photo_name">Имя файла</string>
     <string name="search_title_recommend">Рекомендуемые</string>
-    <string name="search_title_suggestion">Предложения</string>
+    <string name="search_title_suggestion">Рекомендации</string>
     <string name="search_title_tag">Объекты</string>
     <string name="searching_cast_devices">Поиск проектора…</string>
-    <string name="secret_album_card_description">Лучшее место для ваших маленьких секретов</string>
+    <string name="secret_album_card_description">Лучшее место для секретов</string>
     <string name="secret_album_card_title">Приватный альбом</string>
     <string name="secret_album_display_name">Приватный альбом</string>
-    <string name="secret_album_password_first_use_msg">Будет использоваться пароль защиты личных данных. Он защищает фото, заметки, скрытые папки и пр.</string>
-    <string name="secret_album_password_first_use_title">Пароль защиты личных данных</string>
-    <string name="secret_album_password_update_dialog_msg">Пароль защиты личных данных защищает фото, заметки, скрытые папки и пр.</string>
+    <string name="secret_album_password_first_use_msg">Для защиты приватных фото и альбомов будет использоваться пароль конфиденциальности</string>
+    <string name="secret_album_password_first_use_title">Пароль конфиденциальности</string>
+    <string name="secret_album_password_update_dialog_msg">Пароль конфиденциальности защищает приватные фото и альбомы</string>
     <string name="secret_album_password_update_dialog_title">Обновите пароль</string>
-    <string name="secret_album_password_update_first_user_dialog_msg">Пароль защиты личных данных защищает фото, заметки, скрытые папки и пр.</string>
+    <string name="secret_album_password_update_first_user_dialog_msg">Пароль конфиденциальности защищает приватные фото и альбомы</string>
     <string name="secret_album_password_update_first_user_dialog_title">Обновите пароль</string>
-    <string name="secret_album_set_pc_password_dialog_msg">Будет использоваться пароль защиты личных данных. Он защищает фото, заметки, скрытые папки и пр.</string>
+    <string name="secret_album_set_pc_password_dialog_msg">Для защиты фото и приватных альбомов будет использоваться пароль конфиденциальности</string>
     <string name="secret_album_set_pc_password_dialog_ok">Задать новый пароль</string>
     <string name="secret_album_set_pc_password_dialog_title">Задайте пароль</string>
     <string name="secret_reason_space_full">Облачные альбомы заполнены</string>

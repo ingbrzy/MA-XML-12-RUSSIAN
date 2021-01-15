@@ -4,7 +4,7 @@
     <string name="PassWordGuard">Пароль второго пространства</string>
     <string name="PrivacyContactDes1">"Контакты станут личными.
 Сообщения будут появляться только во втором пространстве."</string>
-    <string name="PrivacyContactDes2">"Если вы использовали личные сообщения в первом пространстве,
+    <string name="PrivacyContactDes2">"Если вы использовали приватные сообщения в первом пространстве,
 эта функция будет добавлена во второе автоматически."</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -84,8 +84,8 @@
     <string name="confirm_restore">Не показывать</string>
     <string name="contactData">Контакты</string>
     <string name="contact_sub_titile_text">Сообщения будут разделены между двумя пространствами</string>
-    <string name="contact_titile_text">"Отображайте личные сообщения во втором пространстве,
- чтобы просматривать их в любое время"</string>
+    <string name="contact_titile_text">"Используйте приватные сообщения во втором пространстве
+ и просматривайте их в любое время"</string>
     <string name="contact_us">Свяжитесь с нами</string>
     <string name="continueButton">Далее</string>
     <string name="copy">Копировать</string>
@@ -302,12 +302,12 @@
     <string name="please_diff_finger_print">"Убедитесь, что отпечатки пальцев пространств отличаются.
 Иначе нельзя будет войти во второе пространство с экрана блокировки."</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
-    <string name="privacyContactsSummary">Показывать личные объекты во втором пространстве</string>
-    <string name="privacyContactsTitle">Личные сообщения и контакты</string>
+    <string name="privacyContactsSummary">Показывать приватные объекты во втором пространстве</string>
+    <string name="privacyContactsTitle">Приватные сообщения и контакты</string>
     <string name="privacy_password_fingerprint_dialog_message">Приложите палец к сканеру</string>
     <string name="privacy_password_fingerprint_dialog_title">Отсканируйте отпечаток</string>
     <string name="private_sms_show_sub_title">Сообщения будут разделены между двумя пространствами</string>
-    <string name="private_sms_show_title">Личные сообщения отображаются во втором пространстве</string>
+    <string name="private_sms_show_title">Приватные сообщения отображаются во втором пространстве</string>
     <string name="private_space_setting">Управление</string>
     <string name="public_app">Оба пространства</string>
     <string name="qq_login">Войти в QQ</string>
@@ -326,9 +326,9 @@
     <string name="reset_password_dialog_message">Вы используете разные типы защиты для первого и второго пространства. Для скрытия ярлыка второе пространство должно использовать тот же тип защиты, что и первое.</string>
     <string name="reset_password_dialog_positve_btn_title">Изменить</string>
     <string name="reset_password_dialog_title">Не удалось скрыть ярлык</string>
-    <string name="restore_normal_show">Не показывать личные сообщения</string>
-    <string name="restore_show_desc">Не показывать личные сообщения во втором пространстве. Они по-прежнему будут доступны в первом пространстве.</string>
-    <string name="restore_show_toast">Личные сообщения не отображаются</string>
+    <string name="restore_normal_show">Не показывать приватные сообщения</string>
+    <string name="restore_show_desc">Не показывать приватные сообщения во втором пространстве. Они по-прежнему будут доступны в первом пространстве.</string>
+    <string name="restore_show_toast">Приватные сообщения не отображаются</string>
     <string name="retain_src_file">Оставить файлы</string>
     <string name="retain_src_photo">Оставить фото</string>
     <string name="same_qr_code_create_space">Создать еще одно</string>
@@ -408,9 +408,9 @@
     <string name="show_noti_from_owner_detail">Получать уведомления в текущем пространстве при их появлении в другом</string>
     <string name="show_noti_quick_switch_icon">Ярлык в шторке уведомлений</string>
     <string name="show_noti_quick_switch_icon_detail">Показывать ярлык для перехода между пространствами в шторке уведомлений</string>
-    <string name="show_private_content">Показывать личные объекты</string>
-    <string name="show_private_msg">Личные сообщения</string>
-    <string name="show_private_msg_summary">Показывать личные сообщения во втором пространстве</string>
+    <string name="show_private_content">Показывать приватные объекты</string>
+    <string name="show_private_msg">Приватные сообщения</string>
+    <string name="show_private_msg_summary">Показывать приватные сообщения во втором пространстве</string>
     <string name="skip">Пропустить</string>
     <string name="spaceSetting">Настройки</string>
     <string name="space_create_guide_desc_1">Безопасное хранение приложений и фото</string>

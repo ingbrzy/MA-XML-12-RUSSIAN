@@ -288,7 +288,7 @@
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="private_empty_desc">Здесь вы можете хранить файлы конфиденциально.</string>
     <string name="private_empty_sub_desc">Попробуйте переместить файлы сюда или загрузить их напрямую.</string>
-    <string name="private_folder_name">Личные файлы</string>
+    <string name="private_folder_name">Приватные файлы</string>
     <string name="ptp_ai_recommend_empty_page">Файлы отсутствуют</string>
     <string name="recent_file">Недавние</string>
     <string name="recent_jump_to_privacy_fail_notice">Это личный файл. Вернитесь на стартовую страницу и потяните вниз для просмотра.</string>
@@ -296,7 +296,7 @@
     <string name="refresh_label_refreshed">Успешно обновлено</string>
     <string name="refresh_label_refreshing">Обновление…</string>
     <string name="refresh_label_release_to_refresh">Отпустите для обновления</string>
-    <string name="release_enter_private">Отпустите, чтобы просмотреть личные файлы</string>
+    <string name="release_enter_private">Отпустите, чтобы просмотреть приватные файлы</string>
     <string name="remove_success">Успешно удалено</string>
     <string name="rename_ext_confirm_dialog_desc">Изменение типа файла может сделать файл непригодным</string>
     <string name="rename_file_select_error">Не могу переименовать несколько файлов</string>
@@ -361,8 +361,8 @@
     <string name="transfer_progress_text">%1$s / %2$s</string>
     <string name="transport_end_button">Изменить</string>
     <string name="transport_title">Загрузки</string>
-    <string name="unlock_password_dialog_msg">Будет использоваться пароль для защиты конфиденциальности. Это работает для фотографий, заметок и файлов.</string>
-    <string name="unlock_password_dialog_title">Пароль защиты конфиденциальности</string>
+    <string name="unlock_password_dialog_msg">Для защиты фото, заметок и файлов будет использоваться пароль конфиденциальности</string>
+    <string name="unlock_password_dialog_title">Пароль конфиденциальности</string>
     <string name="update_dialog_button_cancel">Отмена</string>
     <string name="update_dialog_button_ok">Обновить</string>
     <string name="update_dialog_content">"Новая версия: %1$s
