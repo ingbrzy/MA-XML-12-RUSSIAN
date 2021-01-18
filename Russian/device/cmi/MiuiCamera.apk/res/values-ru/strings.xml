@@ -202,8 +202,8 @@
     <string name="accessibility_ultra_pixel_photography_48mp_on">48MP вкл.</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ультра HD отключен</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ультра HD включен</string>
-    <string name="accessibility_ultra_wide_off">Ультра-широкоугольный режим отключен</string>
-    <string name="accessibility_ultra_wide_on">Ультра-широкоугольный режим включен</string>
+    <string name="accessibility_ultra_wide_off">Ультраширокоугольный режим отключен</string>
+    <string name="accessibility_ultra_wide_on">Ультраширокоугольный режим включен</string>
     <string name="accessibility_video_btn_play">Воспроизведение видео</string>
     <string name="accessibility_video_capture_button">Кнопка для фотографирования во время съемки видео</string>
     <string name="accessibility_video_pause_button">Запись видео приостановлена</string>
@@ -722,10 +722,12 @@
     <string name="live_error_message">Некоторые функции могут работать неправильно, если системное время некорректно.</string>
     <string name="live_error_title">Некорректное системное время</string>
     <string name="live_music_author">Короткое видео Xiaomi</string>
+    <string name="live_music_author_unknown">Неизвестный автор</string>
     <string name="live_music_change_bgm">Изменить фоновую музыку</string>
     <string name="live_music_close_cancel_message">Отмена</string>
     <string name="live_music_close_message">Отключить музыку?</string>
     <string name="live_music_close_sure_message">Отключить</string>
+    <string name="live_music_cut_prompt">Выберите звуковую дорожку</string>
     <string name="live_music_downloading_tips">Загрузка…</string>
     <string name="live_music_hot_title">Популярные</string>
     <string name="live_music_local_title">Локальные</string>
@@ -979,7 +981,7 @@
     <string name="parameter_lens_tele_2x">, ТЕЛЕ 2Х (телеобъектив)</string>
     <string name="parameter_lens_tele_5x">, ТЕЛЕ 5Х (телеобъектив)</string>
     <string name="parameter_lens_title">Объективы</string>
-    <string name="parameter_lens_uw">, УШ (ультра-широкоугольный объектив)</string>
+    <string name="parameter_lens_uw">, УШ (ультраширокоугольный объектив)</string>
     <string name="parameter_lens_w">Ш (широкоугольный объектив)</string>
     <string name="parameter_log_format_description">Этот формат записывает видео с логарифмической функцией, примененной к кривой экспозиции, для захвата большего числа деталей в светлых и темных местах, что предоставляет больше возможностей в постобработке.</string>
     <string name="parameter_log_format_title">LOG формат</string>
@@ -1002,7 +1004,7 @@
     <string name="permission_microphone">android.permission-group.MICROPHONE@0</string>
     <string name="permission_phone_state">android.permission-group.PHONE@0</string>
     <string name="permission_storage">android.permission-group.STORAGE@0</string>
-    <string name="photo_assistance_tips_title">Подсказки</string>
+    <string name="photo_assistance_tips_title">Подсказки в реальном времени</string>
     <string name="pic_flaw_blink_more">Похоже, кто-то в кадре закрыл глаза</string>
     <string name="pic_flaw_blink_one">Похоже, человек в кадре закрыл глаза</string>
     <string name="pic_flaw_cover">Похоже, объектив частично закрыт</string>
@@ -1242,7 +1244,7 @@
     <string name="pref_camera_hdr_entry_off">Откл</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">Сохранение снимков в высокоэффективном формате HEIF</string>
-    <string name="pref_camera_heic_image_format_description2">Высокоэффективный формат файла изображения экономит место для хранения, но не поддерживается некоторыми сторонними приложениями. Вы не можете делать живые фотографии и удалять водяные знаки в HEIF</string>
+    <string name="pref_camera_heic_image_format_description2">Высокоэффективный формат изображения уменьшает размер файлов, однако он может не поддерживаться некоторыми приложениями. Вы не сможете делать живые фотографии и удалять водяные знаки.</string>
     <string name="pref_camera_heic_image_format_title">HEIC формат</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
@@ -1327,8 +1329,8 @@
     <string name="pref_camera_multilevel_entry_middle">Средняя (по умолчанию)</string>
     <string name="pref_camera_multilevel_entry_normal">Средняя</string>
     <string name="pref_camera_new_coloreffect_title">Фильтры</string>
-    <string name="pref_camera_normal_wide_ldc_description">Исправлять искажение лица у края кадра</string>
-    <string name="pref_camera_normal_wide_ldc_title">Коррекция лица</string>
+    <string name="pref_camera_normal_wide_ldc_description">Корректировать искажения лиц у границ кадра</string>
+    <string name="pref_camera_normal_wide_ldc_title">Коррекция лиц</string>
     <string name="pref_camera_optimized_flash_enable_title">Оптимизация вспышки</string>
     <string name="pref_camera_panoramamode_title">Панорама</string>
     <string name="pref_camera_parallel_process_enable_title">Параллельная обработка изображения</string>
@@ -1344,7 +1346,7 @@
     <string name="pref_camera_portrait_mode_entry_on">Режим \"Портрет\" включен</string>
     <string name="pref_camera_portrait_mode_title">Портрет</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Улучшение в режиме \"Портрет\"</string>
-    <string name="pref_camera_proximity_lock_summary">Предотвращать случайные нажатия при помещении устройства в карман</string>
+    <string name="pref_camera_proximity_lock_summary">Предотвращать случайные нажатия в кармане</string>
     <string name="pref_camera_proximity_lock_title">Режим \"В кармане\"</string>
     <string name="pref_camera_quick_settings">Быстрые настройки</string>
     <string name="pref_camera_quick_shot_anim_enable_title">Анимация быстрого снимка</string>
@@ -1411,9 +1413,9 @@
     <string name="pref_camera_touchafaec_entry_off">Откл</string>
     <string name="pref_camera_touchafaec_entry_on">Вкл</string>
     <string name="pref_camera_ubifocus_title">Комбо фокус</string>
-    <string name="pref_camera_ultra_wide_ldc_description">Автоматически корректировать искажения в ультра-широкоугольных снимках</string>
+    <string name="pref_camera_ultra_wide_ldc_description">Автоматически корректировать искажения на ультраширокоугольных снимках</string>
     <string name="pref_camera_ultra_wide_ldc_title">Коррекция искажений</string>
-    <string name="pref_camera_ultra_wide_mode_title">Ультра-широкоугольный режим</string>
+    <string name="pref_camera_ultra_wide_mode_title">Ультраширокоугольный режим</string>
     <string name="pref_camera_video_ai_scene_title">AI камера</string>
     <string name="pref_camera_video_bokeh_off">Боке отключено</string>
     <string name="pref_camera_video_bokeh_on">Боке включено</string>
@@ -1738,16 +1740,16 @@
     <string name="ultra_tele_use_hint_text_title">50-кратный зум</string>
     <string name="ultra_wide_bokeh_close_tip">Режим \"Во весь рост\" отключен</string>
     <string name="ultra_wide_bokeh_open_tip">Режим \"Во весь рост\"</string>
-    <string name="ultra_wide_close_tip">Ультра-широкоугольный режим отключен</string>
-    <string name="ultra_wide_mode">Ультра-широкоугольный режим</string>
+    <string name="ultra_wide_close_tip">Ультраширокоугольный режим отключен</string>
+    <string name="ultra_wide_mode">Ультраширокоугольный режим</string>
     <string name="ultra_wide_mode_use_hint_text">"Используйте этот режим, чтобы сюжет поместился на фото.
-Ультра-широкоугольный режим помогает, когда вы не можете отодвинуться дальше от объекта съемки."</string>
-    <string name="ultra_wide_mode_use_hint_text_sat">"Попробуйте 0.6X ультра-широкоугольный режим, чтобы сюжет поместился на фото.
-Ультра-широкоугольный режим помогает, когда вы не можете отодвинуться дальше от объекта съемки."</string>
-    <string name="ultra_wide_open_tip">Ультра-широкоугольный режим</string>
-    <string name="ultra_wide_open_tip_sat">0.6X ультра-широкоугольный режим</string>
-    <string name="ultra_wide_recommend_tip_hint">Попробуйте 0.6X ультра-широкоугольный режим</string>
-    <string name="ultra_wide_recommend_tip_hint_sat">Попробуйте 0.6X ультра-широкоугольный режим</string>
+Ультраширокоугольный режим помогает если нельзя отодвинуться дальше от объекта съемки."</string>
+    <string name="ultra_wide_mode_use_hint_text_sat">"Используйте 0.6X ультраширокоугольный режим, чтобы сюжет поместился на фото.
+Ультраширокоугольный режим помогает если нельзя отодвинуться дальше от объекта съемки."</string>
+    <string name="ultra_wide_open_tip">Ультраширокоугольный режим</string>
+    <string name="ultra_wide_open_tip_sat">0.6X ультраширокоугольный режим</string>
+    <string name="ultra_wide_recommend_tip_hint">Используйте 0.6X ультраширокоугольный режим</string>
+    <string name="ultra_wide_recommend_tip_hint_sat">Используйте 0.6X ультраширокоугольный режим</string>
     <string name="unknow_error">Неизвестная ошибка</string>
     <string name="unsupported_microphones_3d_record_tips">3D звук не поддерживает внешний микрофон</string>
     <string name="unsupported_microphones_audio_zoom_tips">Аудиозум не поддерживает внешний микрофон</string>
