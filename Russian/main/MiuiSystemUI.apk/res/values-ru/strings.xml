@@ -507,7 +507,7 @@
     <string name="bluetooth_dun_profile_summary_connected">Подключено к серверу коммутируемого доступа</string>
     <string name="bluetooth_dun_profile_summary_use_for">Использовать для коммутируемого доступа к сети</string>
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
-    <string name="bluetooth_enable_gabeldorsche_summary">Включает стек функций Bluetooth Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">Включить стек функций Bluetooth Gabeldorsche</string>
     <string name="bluetooth_enable_inband_ringing">Рингтоны по Bluetooth</string>
     <string name="bluetooth_enable_inband_ringing_summary">Разрешить воспроизведение рингтонов с телефона через Bluetooth</string>
     <string name="bluetooth_enable_page_scan">Сканирование страниц Bluetooth</string>
@@ -2800,7 +2800,7 @@ d MMMM"</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
     <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
-    <string name="wifi_verbose_logging_summary">При выборе Wi-Fi указывать в журнале RSSI для каждого SSID</string>
+    <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>
     <string name="wifi_wapi_as_certificate">AS сертификат</string>
     <string name="wifi_wapi_cert_mode_hand_text">Выбрать вручную</string>
     <string name="wifi_wapi_certification_dont_exist">Введенный вами сетевой пароль неверен.</string>

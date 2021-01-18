@@ -131,7 +131,7 @@
     <string name="bluetooth_dun_profile_summary_connected">Подключено к серверу коммутируемого доступа</string>
     <string name="bluetooth_dun_profile_summary_use_for">Использовать для коммутируемого доступа к сети</string>
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
-    <string name="bluetooth_enable_gabeldorsche_summary">Включает стек функций Bluetooth Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">Включить стек функций Bluetooth Gabeldorsche</string>
     <string name="bluetooth_enable_page_scan">Сканирование страниц Bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">Отключение/включение сканирования страниц для проверки Bluetooth</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
@@ -307,6 +307,8 @@
     <string name="external_source_trusted">Разрешено</string>
     <string name="external_source_untrusted">Запрещено</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки для %1$s</string>
+    <string name="fast_connect_anti_lost_content">"Настройка оповещения в случае отсутствия одного из наушников.
+Подробности в Настройках."</string>
     <string name="fast_connect_b508_name">ZMI B508</string>
     <string name="fast_connect_bt_speaker2_name">MI портативный динамик</string>
     <string name="fast_connect_device_battery">Батарея</string>
@@ -331,7 +333,11 @@
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Удерживайте верхнюю кнопку нажатой в течение %1$s секунд при выключении питания</string>
     <string name="fast_connect_reset_common">Сброс устройства для возможности сопряжения</string>
+    <string name="fast_connect_same_account_content">Устройства Bluetooth могут быть синхронизированы с Mi аккаунтом и подключены без сопряжения на других устройствах.</string>
+    <string name="fast_connect_same_accout_devices_connecting">Подключение через Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">Другое подключенное устройство: %1$s</string>
+    <string name="fast_connect_sound_normalizer_content">"Улучшение качества голосовых вызовов.
+Более быстрый протокол подключения."</string>
     <string name="fast_connect_wbs_name">Mi беспроводное зарядное устройство и динамик</string>
     <string name="fast_connect_wbs_reset">Удерживайте верхнюю кнопку в течение %1$s секунд при выключенном питании</string>
     <string name="feiyu_vlog_name">Feiyu карманный ВЛОГ</string>
@@ -725,7 +731,7 @@
     <string name="wifi_display_certification">Параметры сертификации</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
     <string name="wifi_enhanced_mac_randomization">Расширенная рандомизация MAC-адреса</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к Wi-Fi сети, в которой доступна рандомизация MAC-адреса.</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к сети с доступной рандомизацией MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
     <string name="wifi_hand_sel_wapi_cert">Сертификат WAPI</string>
     <string name="wifi_limited_connection">Подключение к сети ограничено</string>
@@ -786,7 +792,7 @@
     <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
     <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
-    <string name="wifi_verbose_logging_summary">При выборе Wi-Fi указывать в журнале RSSI для каждого SSID</string>
+    <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>
     <string name="wifi_wapi_as_certificate">Сертификат AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Ручной выбор</string>
     <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль</string>

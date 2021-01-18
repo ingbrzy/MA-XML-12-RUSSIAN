@@ -324,7 +324,7 @@
     <string name="bluetooth_dun_profile_summary_connected">Подключено к DUN серверу</string>
     <string name="bluetooth_dun_profile_summary_use_for">Используется для доступа к Dial-up сети</string>
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
-    <string name="bluetooth_enable_gabeldorsche_summary">Включает стек функций Bluetooth Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">Включить стек функций Bluetooth Gabeldorsche</string>
     <string name="bluetooth_enable_inband_ringing">Включить внутриполосное воспроизведение</string>
     <string name="bluetooth_enable_inband_ringing_summary">Разрешить воспроизведение рингтонов на телефоне через Bluetooth-гарнитуру</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
@@ -2682,7 +2682,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
     <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
-    <string name="wifi_verbose_logging_summary">При выборе Wi-Fi указывать в журнале RSSI для каждого SSID</string>
+    <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>
     <string name="wifi_wapi_as_certificate">Сертификат AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">Ручной выбор</string>
     <string name="wifi_wapi_certification_dont_exist">Сертификаты WAPI отсутствуют. Установите их.</string>

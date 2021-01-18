@@ -145,7 +145,7 @@
     <string name="bluetooth_dun_profile_summary_connected">Подключено к серверу коммутируемого доступа</string>
     <string name="bluetooth_dun_profile_summary_use_for">Использовать для коммутируемого доступа к сети</string>
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
-    <string name="bluetooth_enable_gabeldorsche_summary">Включает стек функций Bluetooth Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">Включить стек функций Bluetooth Gabeldorsche</string>
     <string name="bluetooth_enable_inband_ringing">Включить внутриполосное воспроизведение</string>
     <string name="bluetooth_enable_inband_ringing_summary">Разрешить воспроизведение рингтонов на телефоне через Bluetooth-гарнитуру</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
@@ -719,7 +719,7 @@
     <string name="wifi_display_certification">Серт. беспроводн. мониторов</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводных мониторов</string>
     <string name="wifi_enhanced_mac_randomization">Расширенная рандомизация MAC-адреса</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к Wi-Fi сети, в которой доступна рандомизация MAC-адреса.</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к сети с доступной рандомизацией MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
     <string name="wifi_limited_connection">Подключение к сети ограничено</string>
@@ -778,7 +778,7 @@
     <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
     <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
-    <string name="wifi_verbose_logging_summary">При выборе Wi-Fi указывать в журнале RSSI для каждого SSID</string>
+    <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>
     <string name="wifi_wapi_as_certificate">AS сертификат</string>
     <string name="wifi_wapi_cert_mode_hand_text">Выбрать вручную</string>
     <string name="wifi_wapi_certification_dont_exist">Введенный вами сетевой пароль неверен.</string>

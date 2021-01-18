@@ -33,6 +33,7 @@
     <string name="app_name">MiCloudSync</string>
     <string name="casting_tips">Отображение…</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="close">Закрыть</string>
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_slave_wifi_hint">Отключите вспомогательную сеть Wi-Fi перед трансляцией</string>
     <string name="close_slave_wifi_hint_china">Отключите вспомогательную сеть Wi-Fi перед трансляцией</string>
@@ -42,6 +43,7 @@
     <string name="console_guide_subtitle_small_window">Можно свернуть окно во время трансляции для работы с  другими приложениями</string>
     <string name="copy">Копировать</string>
     <string name="date_picker_lunar">Традиционный китайский календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="device_desc_trust">Доверенные устройства</string>
     <string name="dialog_can_not_find_device">Устройства поблизости не найдены</string>
     <string name="dialog_cancle">Отмена</string>
@@ -105,6 +107,14 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="global_privacy">Условия и положения</string>
+    <string name="global_privacy_detail"><Data>"Перед использованием приложения прочтите и примите &lt;a href="%1$s">Пользовательское соглашение&lt;/a> и &lt;a href="%2$s">Политику конфиденциальности&lt;/a>.&lt;br>В случае несогласия с условиями использования, вы не сможете использовать некоторые функции этого приложения; однако его основные функции по-прежнему будут вам доступны."</Data></string>
+    <string name="global_privacy_explain">Добро пожаловать в Трансляцию! Приложение предоставляет дополнительные возможности при трансляции:</string>
+    <string name="global_privacy_feature">Плавающее окно во время трансляции, трансляция с выключенным экраном, скрытие конфиденциальных данных.</string>
+    <string name="global_privacy_main">Проецирование с экрана устройства на большой внешний монитор.</string>
+    <string name="global_privacy_negative">Отмена</string>
+    <string name="global_privacy_positive">Принимаю</string>
+    <string name="global_privacy_tip"><Data>Для обеспечения основных сервисов и оптимизации трансляции, требуется разрешение на сбор необходимой личной информации. Вы можете узнать, как мы обрабатываем информацию, которую собираем, в нашей &lt;a href=%1$s>Политике конфиденциальности&lt;/a>. Вы всегда можете отозвать свое согласие в настройках.</Data></string>
     <string name="hang_up">Трансляция при выключенном экране</string>
     <string name="hang_up_alert_dialog_content">При выключении экрана трансляция будет продолжаться. Для включения экрана нажмите кнопку питания.</string>
     <string name="hang_up_alert_dialog_neg">Отмена</string>
@@ -188,9 +198,23 @@
     <string name="micloud_downloading_clipboard_message_from_web">Буфер обмена: получено сообщение с компьютера</string>
     <string name="micloud_send_message_desc">Отправка Mi Сообщения</string>
     <string name="midnight">Ночь</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
+    <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
+    <string name="miuix_appcompat_confirm_description">Подтверждение</string>
+    <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
+    <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
+    <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -321,7 +345,8 @@
     <string name="screen_projection_title">Трансляция</string>
     <string name="sdk_name">lebo</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="small_window">Минимизировать окно</string>
+    <string name="send">Отправить</string>
+    <string name="small_window">Плавающее окно</string>
     <string name="small_window_not_supported">Не удалось минимизировать окно приложения, ведущего трансляцию</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
@@ -403,9 +428,9 @@
     <string name="toast_guide_show_more">Узнать больше</string>
     <string name="toast_guide_title">Новые функции</string>
     <string name="toast_msg_for_multi_window">Эта функция недоступна в режиме разделения экрана</string>
-    <string name="toast_msg_for_small_window">Минимизируйте окно во время трансляции, это позволит пользоваться другими функциями и приложениями на телефоне.</string>
+    <string name="toast_msg_for_small_window">Сверните окно во время трансляции, это позволит пользоваться другими функциями и приложениями на телефоне.</string>
     <string name="toast_nfc_dont_move">Не отодвигайте устройство</string>
-    <string name="toast_title_for_small_window">Минимизируйте окно во время трансляции.</string>
+    <string name="toast_title_for_small_window">Сверните окно во время трансляции.</string>
     <string name="toast_turn_off_hotspot_before_cast">Выключите точку доступа перед трансляцией</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
