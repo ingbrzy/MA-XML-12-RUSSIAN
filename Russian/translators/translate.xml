@@ -234,6 +234,7 @@
     <string name="clear_adb_keys">Отозвать доступ для USB-отладки</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="close">Закрыть</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
     <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
@@ -307,6 +308,10 @@
     <string name="development_settings_summary">Настройка параметров для разработчиков</string>
     <string name="development_settings_title">Для разработчиков</string>
     <string name="device_picker">Выберите устройство</string>
+    <string name="diagnosis_log_send_failed">Не удалось отправить журнал.</string>
+    <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
+ID: %s
+Отправьте этот код руководителю."</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
     <string name="disable_overlays">Отключить наложение</string>
     <string name="disable_overlays_summary">Всегда использовать GPU при компоновке экрана</string>
@@ -733,6 +738,8 @@ mm"</string>
     <string name="select_webview_provider_dialog_title">Настройки сервиса WebView</string>
     <string name="select_webview_provider_title">Сервис WebView</string>
     <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
+    <string name="send">Отправить</string>
+    <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="share">Отправить</string>
     <string name="shared_data_delete_failure_text">Произошла ошибка при удалении общих данных</string>
     <string name="shared_data_no_accessors_dialog_text">Для этих общих данных нет договоров аренды. Удалить их?</string>

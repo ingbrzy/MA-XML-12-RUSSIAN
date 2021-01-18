@@ -119,6 +119,22 @@
     <string name="app_agenda_i_known">Понятно</string>
     <string name="app_agenda_need_install_alipay">Перед использованием этой функции установите Alipay.</string>
     <string name="app_assist_sleep_timer_cancel_hint">Остановить</string>
+    <string name="app_auth_router_dialog_loading">Добавление аккаунта…</string>
+    <string name="app_auth_setting_bind">Добавить</string>
+    <string name="app_auth_setting_bind_fail">Не удалось добавить аккаунт</string>
+    <string name="app_auth_setting_bind_fail_uninstall">Не удалось добавить аккаунт. Установите сначала %s.</string>
+    <string name="app_auth_setting_bind_success_title">Текущий аккаунт: %s</string>
+    <string name="app_auth_setting_bind_summry">Mi Аккаунт: %s</string>
+    <string name="app_auth_setting_bind_title">Добавить аккаунт %s</string>
+    <string name="app_auth_setting_login">Войти</string>
+    <string name="app_auth_setting_login_summry">Войдите и добавьте Alipay аккаунт, чтобы использовать сервисы</string>
+    <string name="app_auth_setting_login_title">Войти в Mi Аккаунт</string>
+    <string name="app_auth_setting_service_title">Сервисы</string>
+    <string name="app_auth_setting_unbind">Удалить</string>
+    <string name="app_auth_setting_unbind_dialog_positive">Удалить</string>
+    <string name="app_auth_setting_unbind_dialog_title">Удалить аккаунт %s</string>
+    <string name="app_auth_setting_unbing_dialog_message">После удаления аккаунта, сервисы %s будут недоступны</string>
+    <string name="app_auth_setting_unbing_dialog_negative">Оставить</string>
     <string name="app_bluetooth_device_battery">%1$d%%</string>
     <string name="app_bluetooth_device_empty">Устройство не подключено</string>
     <string name="app_bluetooth_device_type">Устройство Bluetooth</string>
@@ -318,6 +334,8 @@
     <string name="app_pa_setting_service_surrounding_summary">Откройте для себя интересные места поблизости</string>
     <string name="app_pa_setting_service_timetable">Расписание занятий</string>
     <string name="app_pa_setting_service_timetable_summary">Нажмите, чтобы запланировать занятия</string>
+    <string name="app_pa_setting_service_wufu">Пять благословений Alipay</string>
+    <string name="app_pa_setting_service_wufu_summry">Соберите благословения с помощью сканера AR</string>
     <string name="app_pa_setting_title">Настройки</string>
     <string name="app_pa_setting_version">Версия: %1$s</string>
     <string name="app_screen_time_auth">Время экрана</string>
@@ -592,6 +610,7 @@
     <string name="clock_alarm">Будильник</string>
     <string name="clock_parent">Часы</string>
     <string name="closed">Закрыто</string>
+    <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="commute">Рекомендации карты</string>
     <string name="commute_address">Частые адреса</string>
     <string name="commute_address_hint_home">Добавить домашний адрес</string>
@@ -669,6 +688,10 @@
     <string name="detail_action_settings">Открыть Настройки</string>
     <string name="detail_action_share">Отправить</string>
     <string name="detail_title">Избранное</string>
+    <string name="diagnosis_log_send_failed">Ошибка отправки журнала.</string>
+    <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
+ID:%s
+Please send this code to the technician."</string>
     <string name="dialog_cancel_like">Успешно удалено</string>
     <string name="dialog_delete_cancel">Отмена</string>
     <string name="dialog_delete_delete">Удалить</string>
@@ -1054,6 +1077,7 @@
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="focus">Следить за состоянием</string>
     <string name="focus_stocks">Мои компании</string>
+    <string name="for_diagnosis_usage_only">Используется только для диагностики проблем.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -1479,6 +1503,7 @@
     <string name="notification_title">Добавлено в избранное</string>
     <string name="notification_title_fail">Не удалось добавить платеж</string>
     <string name="notification_title_success">Платеж успешно добавлен</string>
+    <string name="ok">ОК</string>
     <string name="open_bluetooth">Активировать</string>
     <string name="open_bluetooth_now">Активация Bluetooth…</string>
     <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить браслету доступ</string>
@@ -1486,6 +1511,9 @@
     <string name="park_assistant">Парковка</string>
     <string name="passenger_name">Имя пассажира</string>
     <string name="passenger_name_example">Например, Дебби Смит</string>
+    <string name="passport_oauth_actionbar_title">Mi Аккаунт</string>
+    <string name="passport_oauth_sucess_tip">Вход выполнен</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="paycode_sdk_parent">Ярлык оплаты</string>
     <string name="paycode_sdk_parent_title">Быстрый платеж</string>
     <string name="payment">Мои платежи</string>
@@ -1622,7 +1650,9 @@
     <string name="security">Безопасность</string>
     <string name="selected_shortcuts_title">Начальная страница</string>
     <string name="send_action_title">Добавить в избранное</string>
+    <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="send_express">Экспресс доставка</string>
+    <string name="sending">Отправка…</string>
     <string name="service_unavailiable">Подключитесь к сети и попробуйте снова.</string>
     <string name="setting_address">Добавить частые места</string>
     <string name="setting_authorization_canceled_dialog_cancel">Отмена</string>
@@ -1824,6 +1854,7 @@
     <string name="taxi_target">Пункт назначения</string>
     <string name="tb_setting_xiaoai">Mi AI</string>
     <string name="temp_support_xiaomi">Временно поддерживаются только браслеты Xiaomi</string>
+    <string name="temporary_not_available">Временно недоступно</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
