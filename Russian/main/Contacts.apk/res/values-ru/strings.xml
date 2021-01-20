@@ -110,6 +110,10 @@
     <string name="bh_bill_balance">Баланс</string>
     <string name="bh_bill_charge">Пополнить баланс</string>
     <string name="bh_bugreport">Деловая обратная связь</string>
+    <string name="bh_business_hall_is_here">Сервисы оператора</string>
+    <string name="bh_business_style">Выберите интерфейс</string>
+    <string name="bh_business_style_new">Новый</string>
+    <string name="bh_business_style_old">Старый</string>
     <string name="bh_button_finish">Готово</string>
     <string name="bh_buy_now">Покупка</string>
     <string name="bh_call_used">Использованные минуты</string>
@@ -253,6 +257,8 @@
     <string name="bh_sim_two">SIM 2</string>
     <string name="bh_similar_number_hint">Этот номер похож на %1$s. Все равно пополнить этот номер?</string>
     <string name="bh_status_activating"><Data>&lt;font color =#0D84FF>Активация&lt;/font></Data></string>
+    <string name="bh_system_recommend">Системные рекомендации</string>
+    <string name="bh_system_recommend_des">Разрешите нам анализ трафика для рекомендации цифровых продуктов</string>
     <string name="bh_tag_phones">Часто используемые номера телефонов</string>
     <string name="bh_tags_number_exceed">Достигнут предел для телефонных номеров</string>
     <string name="bh_tb">" ТБ"</string>
@@ -567,6 +573,15 @@
     <string name="contacts_default_notification_channel">Уведомления</string>
     <string name="contacts_hybrid_activity_label">Восстановление контактов</string>
     <string name="contacts_setting_title">Настройки контактов</string>
+    <string name="contacts_trash_activity_hint">Выберите контакты для восстановления</string>
+    <string name="contacts_trash_activity_title">Недавно удаленные контакты</string>
+    <string name="contacts_trash_delete">Удалить</string>
+    <string name="contacts_trash_delete_dialog_continue">Удалить</string>
+    <string name="contacts_trash_delete_dialog_hint">Вы не сможете восстановить их</string>
+    <string name="contacts_trash_delete_dialog_loading">Удаление…</string>
+    <string name="contacts_trash_delete_dialog_title">Удалить контакты?</string>
+    <string name="contacts_trash_restore">Восстановить</string>
+    <string name="contacts_trash_restore_loading">Восстановление…</string>
     <string name="contacts_unavailable_add_account">Войти в аккаунт</string>
     <string name="contacts_unavailable_create_contact">Создать новый контакт</string>
     <string name="contacts_unavailable_import_contacts">Импорт из файла vCard</string>
@@ -772,6 +787,7 @@
     <string name="emergency_number_label">Экстренный номер</string>
     <string name="emptyGroup">Нет контактов в группе</string>
     <string name="empty_divider_title" />
+    <string name="ensure">ОК</string>
     <string name="enter_contact_name">Имя контакта</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>

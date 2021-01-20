@@ -69,14 +69,15 @@
     <string name="ac_firstUseApplock_subTitle">Используйте лучшие средства безопасности</string>
     <string name="ac_firstUseApplock_title">Задайте пароль для защиты приложений</string>
     <string name="ac_mask_all_apps">Скрывать для всех</string>
-    <string name="ac_notification_contentText">Нажмите для включения</string>
-    <string name="ac_notification_contentTitle">Защитите ваши приложения</string>
-    <string name="ac_post_notification_contentText">Защита на системном уровне</string>
-    <string name="ac_post_notification_contentTitle">Включите Защиту приложений</string>
-    <string name="ac_pre_notification_contentText">Защитите ваши личные данные</string>
+    <string name="ac_notification_action_text">Включить</string>
+    <string name="ac_notification_contentText">Скройте конфиденциальную информацию</string>
+    <string name="ac_notification_contentTitle">Защита приложений</string>
+    <string name="ac_post_notification_contentText">Защитите конфиденциальные приложения паролем</string>
+    <string name="ac_post_notification_contentTitle">Защита приложений</string>
+    <string name="ac_pre_notification_contentText">Защитите личные данные</string>
     <string name="ac_pre_notification_contentTitle">Защита приложений</string>
-    <string name="ac_recommend_guide_dialog_app_content">Включите защиту для этого приложения, чтобы обеспечить безопасность личной информации.</string>
-    <string name="ac_recommend_guide_dialog_content">Включите Защиту приложений, чтобы обеспечить безопасность личной информации.</string>
+    <string name="ac_recommend_guide_dialog_app_content">Включите защиту для этого приложения, чтобы личные данные были в безопасности</string>
+    <string name="ac_recommend_guide_dialog_content">Включите Защиту приложений, чтобы личные данные были в безопасности</string>
     <string name="ac_recommend_guide_dialog_ignore">Больше не показывать</string>
     <string name="ac_recommend_guide_dialog_open">Включить</string>
     <string name="ac_summaryOff">Защита отключена, ввод пароля для открытия приложений не требуется</string>
@@ -1583,6 +1584,19 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_ad_game_size">" МБ"</string>
     <string name="gb_add_game_hint">Выбор из списка приложений</string>
     <string name="gb_add_game_loading_tips">Подождите…</string>
+    <string name="gb_adv_touch_adv_title">Обычный режим (по умолчанию)</string>
+    <string name="gb_adv_touch_custom1">Скорость реакции</string>
+    <string name="gb_adv_touch_custom2">Чувствительность к касаниям</string>
+    <string name="gb_adv_touch_custom3">Точность прицеливания</string>
+    <string name="gb_adv_touch_custom4">Стабильность касаний</string>
+    <string name="gb_adv_touch_custom_tip1">Высокая скорость реакции уменьшает время отклика на жесты, низкая скорость реакции делает отклик более стабильным</string>
+    <string name="gb_adv_touch_custom_tip2">Высокая чувствительность к непрерывным касаниям увеличивает скорость реакции на них, низкая чувствительность делает реакцию на них более стабильной</string>
+    <string name="gb_adv_touch_custom_tip3">Высокая точность прицеливания делает короткие жесты более точными, низкая точность прицеливания делает эти жесты более стабильными</string>
+    <string name="gb_adv_touch_custom_tip4">Высокая стабильность касаний делает их более надежными, низкая стабильность увеличивает точность коротких касаний</string>
+    <string name="gb_adv_touch_custom_title">Настройка</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Этот режим предназначен для профессиональных игроков. Обычным игрокам этот режим может показаться неудобным.</string>
+    <string name="gb_adv_touch_mode_select_title">Жесты</string>
+    <string name="gb_adv_touch_pro_title">Pro-режим</string>
     <string name="gb_advance_settings_edge_gear1">Нет</string>
     <string name="gb_advance_settings_edge_gear2">Маленькая</string>
     <string name="gb_advance_settings_edge_gear3">Средняя</string>
@@ -1800,6 +1814,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Увеличение скорости соединения на 10-20% при подключении к роутерам Mi/Redmi</string>
     <string name="gtb_setting_item_title_smart_5g">Оптимизация сети 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Повышение скорости Mi Wi-Fi</string>
+    <string name="gtb_spring_festival_back_game">Вернуться в игру</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Просмотр</string>
     <string name="gtb_wlan_speed_tips">Использование Mi Wi-Fi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Неверный оператор?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Ваш текущий оператор: "</string>
@@ -2318,8 +2334,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_abnormal_consume_app_title">Приложение %s разряжает батарею</string>
     <string name="notification_abnormal_consume_cpu">Ресурсы ЦП используются в фоновом режиме</string>
     <string name="notification_abnormal_consume_wakelock">Система не переходит в спящий режим</string>
+    <string name="notification_antivirus_button_text">Проверить</string>
+    <string name="notification_antivirus_message">Выполните проверку для устранения рисков</string>
     <string name="notification_battery_consume_abnormal_title">Быстрый разряд батареи</string>
-    <string name="notification_battery_scan_consume_abnormal_summary">Нажмите, чтобы устранить проблему</string>
+    <string name="notification_battery_scan_consume_abnormal_summary">Нажмите для устранения проблемы</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s разряжает батарею</string>
     <string name="notification_channel_battery">Батарея</string>
     <string name="notification_checker_installed_apk_hint">Нет необходимости сохранять APK после установки</string>
@@ -2332,12 +2350,21 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_garbage_clean_size">Освободите %s</string>
     <string name="notification_garbage_clean_size_float_unit">%.1f ГБ</string>
     <string name="notification_garbage_clean_size_found">%s мусора</string>
-    <string name="notification_garbage_clean_size_found_hint">Пора очистить мусор!</string>
+    <string name="notification_garbage_clean_size_found_hint">Пора выполнить очистку!</string>
     <string name="notification_garbage_clean_size_found_text">Слишком много мусорных файлов</string>
     <string name="notification_garbage_clean_size_int_unit">%d ГБ</string>
     <string name="notification_garbage_clean_size_new">Освободите %s памяти</string>
-    <string name="notification_garbage_cleanup_summary">Удаление мусора (%s) для ускорения работы устройства</string>
+    <string name="notification_garbage_cleanup_summary">Удалите мусор (%s) для ускорения работы устройства</string>
     <string name="notification_garbage_cleanup_title">Удаление мусора</string>
+    <string name="notification_link_cleaner_2001">Удалите %s мусора</string>
+    <string name="notification_link_cleaner_2002">Удалите мусор для ускорения работы устройства</string>
+    <string name="notification_link_cleaner_2003">Осталось меньше %s свободного места. Выполните очистку.</string>
+    <string name="notification_link_cleaner_2004">Всего %s свободного места. Выполните очистку.</string>
+    <string name="notification_link_cleaner_2005">Очистите память для ускорения работы устройства</string>
+    <string name="notification_link_cleaner_3001">Удалите мусор WeChat для ускорения работы устройства</string>
+    <string name="notification_link_cleaner_3002">Удалите мусор WeChat</string>
+    <string name="notification_link_cleaner_4000">Удалите мусор QQ</string>
+    <string name="notification_link_optimizemanage_1011">%d%% памяти занято. Выполните очистку.</string>
     <string name="notification_low_battery_action_btn">Включить</string>
     <string name="notification_low_battery_need_charge">Зарядите устройство</string>
     <string name="notification_low_battery_open_save_mode">Включите экономию заряда</string>
@@ -2346,12 +2373,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_low_memory_hint">Мусор замедляет работу вашего устройства</string>
     <string name="notification_low_memory_text">Недостаточно памяти</string>
     <string name="notification_low_storage_size">Доступно менее %s свободного места</string>
-    <string name="notification_low_storage_size_1_gb_hint">Освободите место, чтобы ускорить работу устройства</string>
-    <string name="notification_low_storage_size_1p5_gb_hint">Очистите мусор, чтобы ускорить работу устройства</string>
-    <string name="notification_mask_summary">Не показывать содержимое уведомлений для выбранных приложений</string>
+    <string name="notification_low_storage_size_1_gb_hint">Освободите место для ускорения работы устройства</string>
+    <string name="notification_low_storage_size_1p5_gb_hint">Удалите мусор для ускорения работы устройства</string>
+    <string name="notification_mask_summary">Не показывать содержимое уведомлений выбранных приложений</string>
     <string name="notification_mask_title">Скрытие содержимого</string>
     <string name="notification_masked_item">Как скрыть содержимое уведомлений?</string>
-    <string name="notification_masked_subtitle">Используйте Защиту приложений, чтобы скрыть содержимое уведомлений для выбранных приложений.</string>
+    <string name="notification_masked_subtitle">Используйте Защиту приложений, чтобы скрыть содержимое уведомлений выбранных приложений.</string>
+    <string name="notification_optimize_button_text">Очистить</string>
+    <string name="notification_optimize_message">Очистите память для ускорения работы</string>
+    <string name="notification_optimize_title">%d%% памяти занято</string>
     <string name="notification_power_consume_issue_summary">Высокий расход батареи</string>
     <string name="notification_power_consume_suggest_summary">Исправьте проблемы для экономии заряда</string>
     <string name="notification_qq_clean_hint">Мусор замедляет работу вашего устройства</string>
@@ -3928,6 +3958,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="summary_mms">Блокируйте SMS спам автоматически</string>
     <string name="summary_network_switch">Доступ в интернет</string>
     <string name="summary_never_flow_verify">Этот номер не был подтвержден вашим оператором</string>
+    <string name="summary_password_manager">Менеджер паролей позволяет шифровать пароли и хранить их в облаке</string>
     <string name="summary_payment_risk">Платежи с этого устройства небезопасны</string>
     <string name="summary_permission">Избегайте нежелательных платежей и защищайте личные данные</string>
     <string name="summary_permission_root">Устройство имеет ROOT доступ. Это может повлиять на безопасность устройства.</string>
@@ -4223,6 +4254,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_network_switch">Сетевое подключение</string>
     <string name="title_of_app_manage">Приложения</string>
     <string name="title_of_auto_launch_manage">Автозапуск</string>
+    <string name="title_password_manager">Включить менеджер паролей</string>
     <string name="title_payment_protection">Платежи безопасны</string>
     <string name="title_payment_risk">Платежи небезопасны</string>
     <string name="title_permission_no">Управление разрешениями отключено</string>
@@ -4433,6 +4465,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_video_effects_settings_liquid">Четкость</string>
     <string name="vb_video_effects_settings_stereo">Громкость</string>
     <string name="vb_video_effects_srs_premium_sound">Звук</string>
+    <string name="vb_video_super_division">Увеличение разрешения</string>
+    <string name="vb_video_super_division_desc">"Автоматически увеличивать разрешение при ≤720p.
+
+Использование этой функции увеличивает расход батареи.
+
+Функция не работает со сглаживанием движения.
+Включение функции приведет к отключению других."</string>
+    <string name="vb_video_super_division_tips">"Не хватает четкости?
+Попробуйте увеличить разрешение!"</string>
     <string name="video_repeat">Повторить</string>
     <string name="videobox_hangup_tips_content">Функция позволяет приложению работать в фоновом режиме, когда экран выключен. Включить?</string>
     <string name="videobox_hangup_tips_title">Внимание</string>
@@ -4444,6 +4485,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="videobox_settings_manager_apps">Управление приложениями</string>
     <string name="videobox_settings_switch_desc">Спецэффекты и функции воспроизведения видео</string>
     <string name="videobox_settings_switch_title">Панель инструментов видео</string>
+    <string name="videobox_settings_timing">Напоминание о перерыве</string>
+    <string name="videobox_settings_timing_desc">Напоминать каждый час о необходимости сделать перерыв</string>
     <string name="videobox_settings_title">Панель инструментов видео</string>
     <string name="view_traffic_detail">Подробности</string>
     <string name="virus_auto_update_engine">Обновлять автоматически: %s</string>

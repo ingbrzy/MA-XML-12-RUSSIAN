@@ -118,7 +118,7 @@
     <string name="location_introduction">Сервисы на основе местоположения находят продукты и услуги рядом с вами.</string>
     <string name="location_location">Аварийно-спасательные службы могут получить ваше текущее местоположение по запросу</string>
     <string name="lockscreen_introduction">Карусель обоев позволяет регулярно получать новые обои на экран блокировки.</string>
-    <string name="mint_keyboard_oobe_checkbox">Я прочитал и согласен с политикой конфиденциальности Mint Keyboard</string>
+    <string name="mint_keyboard_oobe_checkbox">Я прочитал и принимаю политику конфиденциальности Mint Keyboard</string>
     <string name="mint_keyboard_oobe_terms">Политика конфиденциальности Mint Keyboard</string>
     <string name="miui_privacy_policy_no_network">Нет подключения к интернету. Ознакомьтесь с Политикой конфиденциальности на %s.</string>
     <string name="miui_terms_no_network">Нет подключения к интернету. Ознакомьтесь с Пользовательским соглашением на %s.</string>
@@ -140,7 +140,7 @@
     <string name="note_introduction">Это приложение позволяет создавать, просматривать и редактировать заметки.</string>
     <string name="other_settings">Дополнительные настройки</string>
     <string name="other_settings_ad_dialog_agree">Включить</string>
-    <string name="other_settings_ad_dialog_content">"После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы. Однако реклама больше не будет актуальной, поскольку не будет основываться на ваших личных предпочтениях."</string>
+    <string name="other_settings_ad_dialog_content">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы. Однако реклама больше не будет актуальной, поскольку не будет основываться на ваших личных предпочтениях.</string>
     <string name="other_settings_ad_dialog_disagree">Отключить</string>
     <string name="other_settings_ad_disable_summary">Включить персонализированную рекламу</string>
     <string name="other_settings_ad_enable">Персонализированная реклама</string>
@@ -210,6 +210,10 @@
     <string name="pref_title_data_slot">SIM карта для интернета</string>
     <string name="pref_title_voice_slot">SIM карта для вызовов</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_provision_more">О защите конфиденциальности</string>
+    <string name="privacy_provision_summary">Защита конфиденциальности - обязательство, лежащее в основе дизайна наших продуктов</string>
+    <string name="privacy_provision_text">Мы уважаем и защищаем вашу частную жизнь. Уделяя приоритетное внимание исследованиям и разработкам в области информационной безопасности, компания Xiaomi постоянно работает над совершенствованием методов, методов и технических решений, обеспечивающих защиту ваших данных. Мы также делимся своими последними достижениями с нашими партнерами, чтобы обеспечить вашу конфиденциальность по всем направлениям.</string>
+    <string name="privacy_provision_title">Конфиденциальность</string>
     <string name="protect_persoanl_info_statement">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
     <string name="provision_back">Назад</string>
     <string name="provision_inputmethod_policy_description"><Data>Просмотрите &lt;a href="%1$s">Политику конфиденциальности&lt;/a > выбранной клавиатуры.</Data></string>
@@ -290,7 +294,7 @@
 Перед использованием этой функции вы должны принять Политику конфиденциальности Kika."</string>
     <string name="terms_of_use_lable_default_input_method_mint">"
 
-Вы должны согласиться с Политикой конфиденциальности Mint Keyboard перед использованием."</string>
+Перед использованием вы должны принять Политику конфиденциальности Mint Keyboard."</string>
     <string name="terms_of_use_lable_gms">, сервисы Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, смарт-карты</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
@@ -312,7 +316,7 @@
     <string name="wc_double_check_agree">Попробовать</string>
     <string name="wc_double_check_reject">Нет, спасибо</string>
     <string name="wc_double_check_summary">Попробуйте Карусель обоев. Всегда можете включить или отключить эту функцию в Настройки > Экран блокировки.</string>
-    <string name="wc_double_check_title">Попробовать \"Карусель обоев\"</string>
+    <string name="wc_double_check_title">Карусель обоев</string>
     <string name="wc_notice_link_announcement_summary">"Перед использованием прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> стороннего поставщика контента."</string>
     <string name="welcome">Добро пожаловать</string>
     <string name="zone_picker_title">Выберите часовой пояс</string>

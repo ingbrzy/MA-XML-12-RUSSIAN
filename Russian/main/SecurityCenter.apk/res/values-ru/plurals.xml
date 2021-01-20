@@ -283,6 +283,11 @@
         <item quantity="other">Получите %d-дневную пробную версию</item>
         <item quantity="one">Получите %d-дневную пробную версию</item>
     </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">Разблокировано %s пасхальных яиц</item>
+        <item quantity="one">Разблокировано %s пасхальное яйцо</item>
+        <item quantity="few">Разблокировано %s пасхальных яйца</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>
@@ -477,6 +482,11 @@
         <item quantity="one">"Доступ к сети ограничен для &lt;font color='#ff0000'&gt;%d&lt;/font&gt; приложения"</item>
         <item quantity="few">"Доступ к сети ограничен для &lt;font color='#ff0000'&gt;%d&lt;/font&gt; приложений"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d дней без проверки</item>
+        <item quantity="one">%d день без проверки</item>
+        <item quantity="few">%d дня без проверки</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Разряд %2$d%% за последние %1$d минут</item>
         <item quantity="one">Разряд %2$d%% за последнюю %1$d минуту</item>
@@ -488,8 +498,12 @@
         <item quantity="few">%2$d приложения, включая %1$s, расходуют заряд</item>
     </plurals>
     <plurals name="notification_checker_installed_apk_text">
-        <item quantity="other">Удалить %d APK</item>
-        <item quantity="one">Удалить %d APK</item>
+        <item quantity="other">Удалите %d APK</item>
+        <item quantity="one">Удалите %d APK</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Удалите %d остаточных APK</item>
+        <item quantity="one">Удалите %d остаточное APK</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d проблем с питанием</item>
@@ -943,6 +957,14 @@
         <item quantity="other">%d приложений</item>
         <item quantity="one">%d приложение</item>
         <item quantity="few">%d приложения</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Вы смотрите видео уже %d часов.
+Сделайте перерыв!"</item>
+        <item quantity="one">"Вы смотрите видео уже %d час.
+Сделайте перерыв!"</item>
+        <item quantity="few">"Вы смотрите видео уже %d часа.
+Сделайте перерыв!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d просмотров</item>
