@@ -926,7 +926,7 @@
     <string name="module_name_pixel_50m">50M</string>
     <string name="module_name_pixel_64m">64M</string>
     <string name="module_name_portrait">Портрет</string>
-    <string name="module_name_professional">Ручной</string>
+    <string name="module_name_professional">Ручной режим</string>
     <string name="module_name_square">Квадрат</string>
     <string name="module_name_super_moon">Суперлуна</string>
     <string name="module_name_video">Видео</string>
@@ -957,8 +957,8 @@
     <string name="pano_how_to_use_prompt_start">Нажмите на стрелку для смены направления и плавно перемещайте устройство</string>
     <string name="pano_how_to_use_prompt_to_move">Перемещайте устройство плавно</string>
     <string name="parameter_ambilight_title">Длинная выдержка</string>
-    <string name="parameter_description_pro_capture_title">Функции Pro для фото</string>
-    <string name="parameter_description_pro_video_title">Функции Pro для видео</string>
+    <string name="parameter_description_pro_capture_title">Функции ручного режима</string>
+    <string name="parameter_description_pro_video_title">Функции ручного режима</string>
     <string name="parameter_description_sub_title">Больше творческого контроля над фото и видео</string>
     <string name="parameter_ef_split_description">Можно перетащить кольцо экспозиции от кольца фокусировки и настроить два параметра отдельно.</string>
     <string name="parameter_ef_split_title">Раздельная фокусировка и экспозамер</string>
@@ -981,8 +981,8 @@
     <string name="parameter_lens_tele_2x">, ТЕЛЕ 2Х (телеобъектив)</string>
     <string name="parameter_lens_tele_5x">, ТЕЛЕ 5Х (телеобъектив)</string>
     <string name="parameter_lens_title">Объективы</string>
-    <string name="parameter_lens_uw">, УШ (ультраширокоугольный объектив)</string>
-    <string name="parameter_lens_w">Ш (широкоугольный объектив)</string>
+    <string name="parameter_lens_uw">, УШ (ультраширокоугольный)</string>
+    <string name="parameter_lens_w">Ш (широкоугольный)</string>
     <string name="parameter_log_format_description">Этот формат записывает видео с логарифмической функцией, примененной к кривой экспозиции, для захвата большего числа деталей в светлых и темных местах, что предоставляет больше возможностей в постобработке.</string>
     <string name="parameter_log_format_title">LOG формат</string>
     <string name="parameter_manual_picturestyle_description">Насыщенность позволяет контролировать глубину и интенсивность цвета, контрастность позволяет выявить или минимизировать разницу между светлым и темным, резкость визуализирует детали вдоль контуров.</string>
@@ -1315,8 +1315,8 @@
     <string name="pref_camera_lying_summary">Уведомлять о текущей ориентации, когда устройство параллельно земле</string>
     <string name="pref_camera_lying_title">Уведомлять об ориентации</string>
     <string name="pref_camera_magic_mirror_title">Волшебное зеркало</string>
-    <string name="pref_camera_manual_description_title">О функциях Pro</string>
-    <string name="pref_camera_manual_mode_title">Ручной</string>
+    <string name="pref_camera_manual_description_title">Функции ручного режима</string>
+    <string name="pref_camera_manual_mode_title">Ручной режим</string>
     <string name="pref_camera_manually_exposure_value_abbr">EV</string>
     <string name="pref_camera_mfnr_sat_enable_title">Включить MFNR</string>
     <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
@@ -1442,8 +1442,8 @@
     <string name="pref_camera_whitebalance_entry_incandescent">Дневной</string>
     <string name="pref_camera_whitebalance_entry_manual">Ручной</string>
     <string name="pref_camera_whitebalance_entry_measure">Определить</string>
-    <string name="pref_camera_whitebalance_title">ББ</string>
-    <string name="pref_camera_whitebalance_title_abbr">ББ</string>
+    <string name="pref_camera_whitebalance_title">WB</string>
+    <string name="pref_camera_whitebalance_title_abbr">WB</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">НОЧНОЙ</string>
     <string name="pref_camera_zoom_mode_entry_macro">МАКРО</string>
     <string name="pref_camera_zoom_mode_entry_macro_abbr">МАКРО</string>
@@ -1457,9 +1457,9 @@
     <string name="pref_camera_zoom_mode_entry_ultra">УЛЬТРАШИРОКИЙ</string>
     <string name="pref_camera_zoom_mode_entry_ultra_abbr">УШ</string>
     <string name="pref_camera_zoom_mode_entry_wide">ШИРОКИЙ</string>
-    <string name="pref_camera_zoom_mode_entry_wide_abbr">ШИРОКИЙ</string>
+    <string name="pref_camera_zoom_mode_entry_wide_abbr">Ш</string>
     <string name="pref_camera_zoom_mode_title">ОБЪЕКТИВ</string>
-    <string name="pref_camera_zoom_mode_title_abbr">ОБЪЕКТИВ</string>
+    <string name="pref_camera_zoom_mode_title_abbr">LENS</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_value_title">Приближение</string>
@@ -1503,8 +1503,8 @@
     <string name="pref_lens_dirty_detect_summary">Разрешить уведомления о загрязнении объектива</string>
     <string name="pref_lens_dirty_detect_title">Уведомлять о загрязнении объектива</string>
     <string name="pref_live_duration_title">Продолжительность жизни</string>
-    <string name="pref_manual_exposure_title">Выдержка</string>
-    <string name="pref_manual_exposure_title_abbr">Выдержка</string>
+    <string name="pref_manual_exposure_title">S</string>
+    <string name="pref_manual_exposure_title_abbr">S</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ультра HD</string>
     <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
@@ -1522,7 +1522,7 @@
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_noise_setting_off">Откл.</string>
     <string name="pref_noise_setting_on">Вкл.</string>
-    <string name="pref_p_d_e">Pro-функции</string>
+    <string name="pref_p_d_e">Функции Pro</string>
     <string name="pref_photo_assistance_tips_off">Откл.</string>
     <string name="pref_photo_assistance_tips_on">Вкл.</string>
     <string name="pref_pic_flaw_tip_summary">Уведомлять, когда люди в кадре закрывают глаза или объектив частично перекрыт во время съемки</string>
@@ -1532,8 +1532,8 @@
     <string name="pref_privacy_title">Политика конфиденциальности</string>
     <string name="pref_pro_video_volumekey_function_default">затвор</string>
     <string name="pref_professional_display">Профессиональный</string>
-    <string name="pref_qc_focus_position_title">ФОКУС</string>
-    <string name="pref_qc_focus_position_title_abbr">Ф</string>
+    <string name="pref_qc_focus_position_title">F</string>
+    <string name="pref_qc_focus_position_title_abbr">F</string>
     <string name="pref_retain_camera_common_mode_summary">Открывать последний использованный режим камеры вместо \"Фото\"</string>
     <string name="pref_retain_camera_mode_summary">При запуске камеры переключаться в последний используемый режим</string>
     <string name="pref_retain_camera_mode_title">Сохранять предыдущий режим</string>
@@ -1615,7 +1615,7 @@
     <string name="preparing_sd">Подготовка SD-карты…</string>
     <string name="preview_back_pressed_hint">Нажмите еще раз, чтобы вернуться к предпросмотру</string>
     <string name="pro_color_mode">Продвинутый цветовой режим</string>
-    <string name="professional_shortcut_short">Pro</string>
+    <string name="professional_shortcut_short">Ручной</string>
     <string name="recommend_macro_mode">Попробуйте режим Макро</string>
     <string name="recommend_portrait">Попробуйте портретный режим</string>
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
@@ -1691,7 +1691,7 @@
     <string name="super_night_hint">Оптимизация изображения... Держите устройство неподвижно.</string>
     <string name="super_night_se_tip">Ночной режим</string>
     <string name="super_night_toast">Держите устройство неподвижно во время съемки</string>
-    <string name="tap_to_exposure">Нажмите для ручной настройки</string>
+    <string name="tap_to_exposure">Нажмите для настройки</string>
     <string name="tap_to_focus">Нажмите для фокусировки</string>
     <string name="text_ai_scene_selector_text_off">КОНТРАЖУР</string>
     <string name="text_ai_scene_selector_text_on">СИЛУЭТ</string>
