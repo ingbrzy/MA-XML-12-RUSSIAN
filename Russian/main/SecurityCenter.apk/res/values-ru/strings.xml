@@ -2732,6 +2732,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_battery_duration">Оставшееся время</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
     <string name="power_center_battery_hardware">Устройство %s</string>
+    <string name="power_center_battery_health_poor_tip">Похоже, батарея не в порядке. Проверьте ее в авторизованном сервисном центре</string>
+    <string name="power_center_battery_health_summary">Полностью зарядите и разрядите устройство %1$d-%2$d раз, чтобы повысить точность статистики состояния батареи</string>
     <string name="power_center_battery_last">Осталось %s</string>
     <string name="power_center_battery_level">Заряжено: %s</string>
     <string name="power_center_battery_level_general">Нормальный</string>

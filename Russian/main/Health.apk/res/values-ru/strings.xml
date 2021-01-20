@@ -378,6 +378,7 @@ ID:%s
     <string name="dialog_keep">Оставить</string>
     <string name="dialog_known">Понятно</string>
     <string name="dialog_menstruation_purpose">Добро пожаловать в приложение Здоровье! Функция \"Менструация\" позволяет вести записи о ваших менструациях, определять приблизительные даты начала циклов, а также получать полезные уведомления. Все данные хранятся локально на вашем устройстве, что позволяет легко управлять ими.</string>
+    <string name="dialog_new_version_title">Доступно обновление</string>
     <string name="dialog_no_more_prompt">Больше не показывать</string>
     <string name="dialog_ok">ОК</string>
     <string name="dialog_open">Разрешить</string>
@@ -397,6 +398,7 @@ ID:%s
     <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Вы можете использовать это приложение для спортивного шагомера, отслеживания сна, менструального цикла, веса, а также для использования сервиса Xiaomi Health Cloud и других функций.</string>
     <string name="diastolic_pressure">Диастолическое</string>
     <string name="disable">Отключить</string>
+    <string name="discard_update">Нет, спасибо</string>
     <string name="divider">/</string>
     <string name="divider_format1">%1$s/%2$s</string>
     <string name="divider_format2">%1$s-%2$s</string>
@@ -516,6 +518,7 @@ ID:%s
     <string name="feedback_need_permission_msg">Разрешите приложению Здоровье доступ к памяти устройства для создания журналов, используемых в отчетах.</string>
     <string name="feedback_permission_denied_msg">Не удалось сохранить журналы в память устройства. Предоставьте приложению Здоровье необходимые разрешения в разделе Настройки.</string>
     <string name="fewer">Мало</string>
+    <string name="find_new_verision">Доступна версия %s</string>
     <string name="finish">Завершить</string>
     <string name="finish_stand">Завершить</string>
     <string name="finish_stand2">Завершить</string>
@@ -686,6 +689,7 @@ ID:%s
     <string name="hr_strength_lowest">Самая низкая</string>
     <string name="hr_strength_mid">Средняя</string>
     <string name="icon_content_description">Иконка диалога</string>
+    <string name="immediately_experience">Обновить</string>
     <string name="improve_step_target">Вы легко достигаете цели. Повысьте планку.</string>
     <string name="improve_your_health_default_tips">Тренируйтесь и высыпайтесь, чтобы оставаться здоровым.</string>
     <string name="inactivated">Не активировано</string>
@@ -748,7 +752,8 @@ ID:%s
     <string name="light_sleep_time_normal_description">У вас достаточная длительность легкого сна</string>
     <string name="load_failed">Ошибка загрузки, повторите попытку позже</string>
     <string name="loading">Подождите…</string>
-    <string name="location_permission_dialog_content">Разрешите Xiaomi Health доступ к местоположению в \"Xiaomi Health\" > \"Управление разрешениями\", чтобы записывать тренировки на открытом воздухе.</string>
+    <string name="location_perm_description">Для отслеживания тренировок на открытом воздухе и записи маршрутов</string>
+    <string name="location_permission_dialog_content">Разрешите Xiaomi Health доступ к местоположению в \"Xiaomi Health\" > \"Управление разрешениями\" для отслеживания тренировок на открытом воздухе.</string>
     <string name="location_permission_dialog_negative">Не сейчас</string>
     <string name="location_permission_dialog_positive">Разрешить</string>
     <string name="location_permission_dialog_title">Доступ к местоположению</string>
@@ -1863,6 +1868,9 @@ ID:%s
     <string name="welcome_start_use">Начать</string>
     <string name="well">Хорошо</string>
     <string name="write_strorage_perm_description">Запишите проблемы, с которыми вы столкнулись при использовании</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
     <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s

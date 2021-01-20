@@ -133,6 +133,7 @@
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_divider">Разделитель экрана</string>
     <string name="accessibility_drag_hint_message">Перетащите объекты в верхнюю часть экрана</string>
+    <string name="accessibility_enter_lock_setting">Нажмите, чтобы открыть настройки Карусели обоев</string>
     <string name="accessibility_enter_lock_wallpaper">Нажмите для запуска Карусели обоев</string>
     <string name="accessibility_ethernet_connected">Устройство подключено к Ethernet.</string>
     <string name="accessibility_ethernet_disconnected">Устройство отключено от Ethernet.</string>
@@ -146,6 +147,14 @@
     <string name="accessibility_home">Домой</string>
     <string name="accessibility_ime_switch_button">Переключение способа ввода.</string>
     <string name="accessibility_key">Пользовательская кнопка навигации</string>
+    <string name="accessibility_keyboard_delete_button">Удалить</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Цифры</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Символы</string>
+    <string name="accessibility_keyboard_ok_button">Ввод</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Буквы</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbols lock</string>
+    <string name="accessibility_keyguard_face_unlock_view">Разблокировка по лицу</string>
     <string name="accessibility_left_control_center_button">Ярлык</string>
     <string name="accessibility_left_lock_screen_magazine_button">Карусель обоев</string>
     <string name="accessibility_location_active">Есть активные запросы на определение местоположения</string>

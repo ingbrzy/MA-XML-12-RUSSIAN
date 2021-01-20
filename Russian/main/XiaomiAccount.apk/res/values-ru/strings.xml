@@ -564,6 +564,8 @@ ID:%s
     <string name="passport_wx_bind_account_limit">Не удалось создать аккаунт. Попробуйте другие способы входа.</string>
     <string name="passport_yes">Да</string>
     <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="password_view_hide_password">Скрыть пароль</string>
+    <string name="password_view_show_password">Показать пароль</string>
     <string name="permission_group_contacts">Контакты</string>
     <string name="permission_group_phone">Телефон</string>
     <string name="permission_group_sms">СМС</string>
@@ -671,5 +673,6 @@ ID:%s
     <string name="vip_account_settings">Настройки VIP</string>
     <string name="vip_settings_info">Настройки VIP</string>
     <string name="weixin">WeChat</string>
+    <string name="weixin_login">Войти с помощью WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
