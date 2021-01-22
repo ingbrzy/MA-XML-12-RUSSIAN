@@ -3960,6 +3960,7 @@
     <string name="launcher_icon">Иконки</string>
     <string name="launcher_icon_management">Управление ярлыками</string>
     <string name="launcher_title">Рабочий стол</string>
+    <string name="launcher_wallpaper_title">Рабочий стол и обои</string>
     <string name="launching_cit">Запуск инженерного меню…</string>
     <string name="launching_pho">Загрузка информации об устройстве…</string>
     <string name="launching_rep">Отправка отчета об ошибках…</string>
@@ -4125,6 +4126,8 @@
     <string name="lock_profile_wipe_warning_content_pattern">Если вы неправильно введете графический ключ, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_profile_wipe_warning_content_pin">Если вы неправильно введете PIN-код, ваш рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_screen_action">Доступ на экране блокировки</string>
+    <string name="lock_screen_after_fold_screen_summary" />
+    <string name="lock_screen_after_fold_screen_title" />
     <string name="lock_screen_display_category_name">Экран блокировки</string>
     <string name="lock_screen_intro_skip_dialog_text">Защита устройства не будет активирована. Если устройство потеряется или его украдут, им смогут воспользоваться посторонние.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Защита устройства не будет включена. Если устройство будет потеряно или украдено, либо все его данные будут удалены, его смогут использовать посторонние лица.</string>
@@ -4340,6 +4343,7 @@
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
     <string name="macaddr_label">MAC-адрес:</string>
+    <string name="magic_window_name">Разделить экран</string>
     <string name="mah">%d мА·ч</string>
     <string name="main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
     <string name="main_running_process_description">Основной используемый процесс.</string>
@@ -6025,6 +6029,11 @@ UT-интерфейс: %5$s"</string>
     <string name="registration_done">Регистрация завершена</string>
     <string name="regulatory_info_text" />
     <string name="regulatory_labels">Этикетки сертификации</string>
+    <string name="relaunch_dialog_alwaysUsePrompt" />
+    <string name="relaunch_dialog_button_cancel" />
+    <string name="relaunch_dialog_button_confirm" />
+    <string name="relaunch_dialog_message" />
+    <string name="relaunch_dialog_title" />
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="remote_media_volume_option_title">Громкость</string>
     <string name="remove_account_failed">Это действие запрещено администратором</string>

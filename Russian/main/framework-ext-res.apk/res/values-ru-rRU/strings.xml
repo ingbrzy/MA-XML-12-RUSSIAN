@@ -82,6 +82,11 @@
     <string name="device_type_pc">Компьютер</string>
     <string name="disable_nfc">NFC отключен для беспроводной зарядки</string>
     <string name="disable_nfc_reverse">NFC отключен для обратной беспроводной зарядки</string>
+    <string name="dock_tip_floatwindow">Перетащите панель к краю экрана, чтобы перейти в режим разделения экрана</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Перетащите панель горизонтально, чтобы поменять местами окна приложений</string>
+    <string name="dock_tip_splitscreen_landscape_float">Перетащите панель вниз, чтобы переключиться на плавающее окно</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Перетащите панель вертикально, чтобы поменять местами окна приложений</string>
+    <string name="dock_tip_splitscreen_portrait_float">Перетащите панель к левому или правому краю экрана, чтобы переключиться на плавающее окно.</string>
     <string name="eighthours">8 часов</string>
     <string name="enable_livetalk_summary">Экономьте 70% на исходящих вызовах</string>
     <string name="enable_livetalk_title">Включить пакет пополнения баланса</string>
@@ -154,9 +159,9 @@
     <string name="location_usage_restricted_title">Местоположение в фоне запрещено</string>
     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
     <string name="lockscreen_access_pattern_cleared">Ключ очищен</string>
-    <string name="lockscreen_access_pattern_detected">Ключ завершен</string>
-    <string name="lockscreen_access_pattern_start">Ключ начат</string>
-    <string name="magic_window_toast">Множитель приложений включен</string>
+    <string name="lockscreen_access_pattern_detected">Ввод ключа завершен</string>
+    <string name="lockscreen_access_pattern_start">Начат ввод ключа</string>
+    <string name="magic_window_toast">Включено разделение экрана</string>
     <string name="maml_component_customization_title">Настройки</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -172,6 +177,7 @@
     <string name="miui_forbid_poweroff_when_device_locked">Выключение невозможно, устройство заблокировано.</string>
     <string name="miui_m_com_netease_hyxd_mi">Операция в пустыне</string>
     <string name="miui_m_com_netease_onmyoji_mi">Мастер Инь и Ян</string>
+    <string name="miui_multiwindow_not_support_split">%1$s не поддерживает разделение экрана</string>
     <string name="miui_screen_ratio_hint">Проблемы с отображением</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Больше не показывать</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Настройки</string>
@@ -326,6 +332,9 @@
     <string name="talk_back_water_mark_string2">Для отключения зажмите \"Громкость+\" и \"Громкость-\" на 3 секунды</string>
     <string name="throwing_print">Печать</string>
     <string name="throwing_screen">Трансляция</string>
+    <string name="tip_close_screen_phone" />
+    <string name="tip_for_phone_and_camera" />
+    <string name="tip_use_front_camera" />
     <string name="tips_prompt_enable_midrop">Отправка файлов на устройства поблизости</string>
     <string name="total">Не беспокоить</string>
     <string name="total_description">Отключить звук и вибрацию для всего, кроме будильника</string>
