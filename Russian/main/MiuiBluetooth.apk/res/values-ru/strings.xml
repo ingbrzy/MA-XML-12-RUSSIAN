@@ -326,19 +326,19 @@
     <string name="fast_connect_device_title_connecting">Подключение…</string>
     <string name="fast_connect_device_title_find_headset">Найти %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">Другое устройство: %1$s</string>
-    <string name="fast_connect_new_feture_anti_lost">Уведомление о наушниках</string>
-    <string name="fast_connect_new_feture_same_account">Тот же аккаунт без подключения </string>
-    <string name="fast_connect_new_feture_sound_normalizer">Нормализация звука</string>
+    <string name="fast_connect_new_feture_anti_lost">Предупреждение о наушниках</string>
+    <string name="fast_connect_new_feture_same_account">Подключение синхронизированных устройств</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Улучшение звука</string>
     <string name="fast_connect_new_feture_title">Новые функции</string>
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Удерживайте верхнюю кнопку нажатой в течение %1$s секунд при выключении питания</string>
     <string name="fast_connect_reset_common">Сброс устройства для возможности сопряжения</string>
     <string name="fast_connect_same_account_content">Устройства Bluetooth могут быть синхронизированы с Mi аккаунтом и подключены без сопряжения на других устройствах.</string>
     <string name="fast_connect_same_accout_devices_connecting">Подключение через Xiaomi Cloud…</string>
-    <string name="fast_connect_same_accout_devices_title">Другое подключенное устройство: %1$s</string>
+    <string name="fast_connect_same_accout_devices_title">%1$s подключено к другим устройствам</string>
     <string name="fast_connect_same_accout_ok">ОК</string>
-    <string name="fast_connect_sound_normalizer_content">"Улучшение качества голосовых вызовов.
-Более быстрый протокол подключения."</string>
+    <string name="fast_connect_sound_normalizer_content">"Улучшение голосовых вызовов.
+Более быстрый протокол соединения."</string>
     <string name="fast_connect_wbs_name">Mi беспроводное зарядное устройство и динамик</string>
     <string name="fast_connect_wbs_reset">Удерживайте верхнюю кнопку в течение %1$s секунд при выключенном питании</string>
     <string name="feiyu_vlog_name">Feiyu карманный ВЛОГ</string>
@@ -805,7 +805,7 @@
     <string name="wifi_whitelist_roaming">SSID Bridging - быстрая передача</string>
     <string name="wifi_whitelist_roaming_summary">Разрешить роуминг между разными SSID AP WPA/WPA2-PSK с одинаковым MAC-адресом шлюза</string>
     <string name="window_animation_scale_title">Анимация окон</string>
-    <string name="xiaomi_account_bt_sync_name">Mi Nearby</string>
+    <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
     <string name="zen_alarm_warning">Следующий будильник в %1$s. Звук отключен.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник в %1$s. Включите звук.</string>
     <string name="zen_interruption_level_priority">Только важные</string>

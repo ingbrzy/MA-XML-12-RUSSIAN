@@ -20,8 +20,8 @@
     <string name="HIPS_Perm_add_voicemail_Desc">Добавление системных голосовых сообщений</string>
     <string name="HIPS_Perm_get_accounts_Desc">Доступ ко всем аккаунтам на устройстве</string>
     <string name="HIPS_Perm_process_nfc_Desc">Использование NFC</string>
-    <string name="HIPS_Perm_tencentControl">Сообщения соцсетей</string>
-    <string name="HIPS_Perm_tencentControl_Desc">Доступ к сообщениям соцсетей</string>
+    <string name="HIPS_Perm_tencentControl">Файлы соцсетей</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Доступ к файлам соцсетей</string>
     <string name="HIPS_Perm_use_sip_Desc">Использование протокола SIP для потокового видео</string>
     <string name="Phonepass">Разрешить вызовы</string>
     <string name="SMS_and_MMS">SMS и MMS</string>
@@ -216,8 +216,8 @@
     <string name="app_behavior_about_positive">ОК</string>
     <string name="app_behavior_access_gallery">%1s - доступ к Галерее</string>
     <string name="app_behavior_access_gallery_single">Доступ к Галерее</string>
-    <string name="app_behavior_access_sociality">%1s - доступ к сообщениям соцсетей</string>
-    <string name="app_behavior_access_sociality_single">Доступ к сообщениям соцсетей</string>
+    <string name="app_behavior_access_sociality">%1s - доступ к файлам соцсетей</string>
+    <string name="app_behavior_access_sociality_single">Доступ к файлам соцсетей</string>
     <string name="app_behavior_allowed">Разрешить</string>
     <string name="app_behavior_audio">%1s - доступ к микрофону</string>
     <string name="app_behavior_audio_bg">%1s - доступ к микрофону в фоновом режиме</string>
@@ -1352,7 +1352,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="fast_open_list_open_title">Включено для %s приложений</string>
     <string name="fast_open_noti_summary">%s отправил красный конверт</string>
     <string name="fast_open_summary">Быстрое получение красного конверта</string>
-    <string name="file_confirm_start_activity">Приложение %s запрашивает доступ к Галерее и сообщениям соцсетей. Разрешить?</string>
+    <string name="file_confirm_start_activity">Приложение %s запрашивает доступ к Галерее и файлам соцсетей. Разрешить?</string>
     <string name="finger_remind_message">Добавьте отпечаток пальца. Нажмите для открытия Настроек.</string>
     <string name="fingerprint_identify_msg">Разблокировка отпечатком</string>
     <string name="fingerprint_not_identified_msg">Отпечаток не распознан. Введите пароль.</string>
@@ -1516,7 +1516,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="fw_blocked_join">" и "</string>
     <string name="fw_oversea">Блокировать вызовы из-за границы</string>
     <string name="fw_oversea_content">Блокировать входящие вызовы с иностранных номеров</string>
-    <string name="gallery_confirm_start_activity">Приложение %s хочет получить доступ к Галерее и приложениям соцсетей. Разрешить?</string>
+    <string name="gallery_confirm_start_activity">Приложение %s хочет получить доступ к Галерее и файлам соцсетей. Разрешить?</string>
     <string name="game_ad_recommendation">Игры для всех</string>
     <string name="game_anti_disturb_msg">Не беспокоить</string>
     <string name="game_booster">Ускорение игр</string>
@@ -1941,7 +1941,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="list_empty_text">Список пуст</string>
     <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
     <string name="loading">Подождите…</string>
-    <string name="loading_text_format" formatted="false">Удаление персональной информации из фотографий (%d/%d)…</string>
+    <string name="loading_text_format" formatted="false">Поиск фото с персональной информацией (%d/%d)…</string>
     <string name="local_ip_exception_summary">Ошибка получения локального IP адреса. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
     <string name="lock_all_title">Блокировка всех приложений</string>
     <string name="lock_mode_title">Режим защиты</string>
@@ -2131,7 +2131,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_summary_power_manager_4">%s до окончания</string>
     <string name="menu_text_antispam">Антиспам</string>
     <string name="menu_text_antivirus">Антивирус</string>
-    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s занято</string>
+    <string name="menu_text_deepclean_summary">%1s/%2s занято</string>
     <string name="menu_text_garbage_cleanup">Очистка</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_networkassistants">Трафик</string>
@@ -2377,8 +2377,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_low_storage_size_1p5_gb_hint">Удалите мусор для ускорения работы устройства</string>
     <string name="notification_mask_summary">Не показывать содержимое уведомлений выбранных приложений</string>
     <string name="notification_mask_title">Скрытие содержимого</string>
-    <string name="notification_masked_item">Как скрыть содержимое уведомлений?</string>
-    <string name="notification_masked_subtitle">Используйте Защиту приложений, чтобы скрыть содержимое уведомлений выбранных приложений.</string>
+    <string name="notification_masked_item">Хотите скрыть содержимое уведомлений?</string>
+    <string name="notification_masked_subtitle">Включите Защиту приложений и выберите приложения, уведомления которых нужно скрыть</string>
     <string name="notification_optimize_button_text">Очистить</string>
     <string name="notification_optimize_message">Очистите память для ускорения работы</string>
     <string name="notification_optimize_title">%d%% памяти занято</string>
@@ -2663,8 +2663,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_send_payment_sms">Это разрешение позволяет приложениям отправлять платные текстовые сообщения.</string>
     <string name="permission_instruction_send_sms">Это разрешение позволяет приложениям отправлять текстовые сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
     <string name="permission_instruction_show_locked">Это разрешение позволяет приложениям отображать элементы на экране блокировки. Вредоносные программы могут использовать это разрешение для показа вам надоедливой рекламы.</string>
-    <string name="permission_instruction_sociality">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к сообщениям соцсетей для приложений, у которых есть доступ к файлам во внутренней памяти</string>
-    <string name="permission_instruction_storage">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к Галерее и сообщениям соцсетей для приложений, у которых есть доступ к файлам во внутренней памяти</string>
+    <string name="permission_instruction_sociality">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к файлам соцсетей для приложений, у которых есть доступ к файлам во внутренней памяти</string>
+    <string name="permission_instruction_storage">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к Галерее и файлам соцсетей для приложений, у которых есть доступ к файлам во внутренней памяти</string>
     <string name="permission_instruction_touch_pay">Это разрешение позволяет приложениям выполнять бесконтактные платежи.</string>
     <string name="permission_instruction_use_sip">Это разрешение позволяет приложениям использовать видеосервисы SIP.</string>
     <string name="permission_instruction_vr_assistant">Это разрешение позволяет приложениям использовать службы помощника VR.</string>
@@ -3025,7 +3025,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_icon_layout_status_bg_content_enable">Защищено</string>
     <string name="pp_icon_layout_status_bg_content_unable">Отключено</string>
     <string name="pp_interception_net_visit_content_manager">Управление доступом</string>
-    <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешен доступ к Галерее и сообщениям соцсетей</string>
+    <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешен доступ к Галерее и файлам соцсетей</string>
     <string name="pp_local_msg">Местоположение</string>
     <string name="pp_manage_apps_location_information">Разрешение приложениям получать доступ к местоположению</string>
     <string name="pp_one_app_two_use">Несколько аккаунтов</string>
@@ -3042,20 +3042,20 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_privacy_safe_box">Личное пространство</string>
     <string name="pp_private_file_dir">Приватная папка</string>
     <string name="pp_private_file_dir_detail">Скрытие и шифрование файлов с помощью пароля конфиденциальности</string>
-    <string name="pp_private_photo_album">Приватные фото и видео</string>
+    <string name="pp_private_photo_album">Приватный альбом</string>
     <string name="pp_private_photo_album_detail">Шифрование и защита с помощью пароля конфиденциальности</string>
     <string name="pp_prohibit_use_camera_in_background">Запрет использования камеры в фоновом режиме</string>
     <string name="pp_prohibit_use_camera_in_background_detail">По умолчанию приложениям недоступно использование камеры в фоновом режиме</string>
     <string name="pp_record_msg">Запись аудио</string>
     <string name="pp_safe_box">Личное пространство</string>
-    <string name="pp_safe_box_detail">Чтобы защитить конфиденциальность, MIUI предоставляет возможность управлять доступом к вашим фото и видео, истории чатов в соц. сетях</string>
+    <string name="pp_safe_box_detail">Личные данные шифруются и хранятся только на этом устройстве. Посторонние лица и приложения, а также само устройство не смогут получить к ним доступ.</string>
     <string name="pp_safe_box_summary">Управление доступом к конфиденциальным данным</string>
     <string name="pp_safe_input_pwd">Защита паролей</string>
     <string name="pp_safe_keyboard">Безопасная клавиатура</string>
     <string name="pp_safe_save_pwd_and_account">Управление паролями</string>
-    <string name="pp_safe_share_img_detail">Отправлять фото без информации о местоположении и метаданных</string>
+    <string name="pp_safe_share_img_detail">Отправлять фото без метаданных и информации о местоположении</string>
     <string name="pp_smart_manager_pwd">Пароли</string>
-    <string name="pp_special_permission_settings">Особые разрешения</string>
+    <string name="pp_special_permission_settings">Специальные разрешения</string>
     <string name="pp_special_permission_settings_detail">Контроль использования приложениями специальных разрешений</string>
     <string name="pp_storage_msg">Память устройства</string>
     <string name="pp_understanding_privacy">Действия</string>
