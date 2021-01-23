@@ -122,6 +122,8 @@
     <string name="both_all_apply_success">Обои установлены</string>
     <string name="browser_local_resource">Ресурсы на устройстве</string>
     <string name="can_not_apply">Не удалось применить</string>
+    <string name="can_not_apply_error">Этот формат видео не поддерживается</string>
+    <string name="can_not_apply_size_invalid">Видео слишком большое</string>
     <string name="cancel_download">Загрузка отменена</string>
     <string name="card_data_request_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
     <string name="card_loading">Подождите…</string>
@@ -348,6 +350,14 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="font_compat_dialog_buy_confirm">Купить</string>
+    <string name="font_compat_dialog_buy_content">Сторонние шрифты могут не поддерживаться некоторыми приложениями. Эта проблема совместимости будет исправлена в следующих обновлениях системы. Купить этот шрифт?</string>
+    <string name="font_compat_dialog_cancel">Отмена</string>
+    <string name="font_compat_dialog_download_confirm">Загрузить</string>
+    <string name="font_compat_dialog_download_content">Сторонние шрифты могут не поддерживаться некоторыми приложениями. Эта проблема совместимости будет исправлена в следующих обновлениях системы. Загрузить этот шрифт?</string>
+    <string name="font_compat_dialog_title">Проблемы совместимости</string>
+    <string name="font_compat_dialog_trial_confirm">Попробовать</string>
+    <string name="font_compat_dialog_trial_content">Сторонние шрифты могут не поддерживаться некоторыми приложениями. Эта проблема совместимости будет исправлена в следующих обновлениях системы. Попробовать этот шрифт?</string>
     <string name="font_trial_end_purchase">Купить шрифт</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Сначала примените прозрачные обои в первом пространстве</string>
     <string name="forbid_video_wallpaper_by_second_space">Сначала примените прозрачные обои в первом пространстве</string>
@@ -381,6 +391,7 @@
     <string name="hide_pull_down_message">Скрыть?</string>
     <string name="hide_pull_down_negative">Отмена</string>
     <string name="hide_pull_down_positive">Скрыть</string>
+    <string name="hide_retract_button">Скрыть</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
     <string name="home_apply_success">Обои рабочего стола установлены</string>
     <string name="home_daily">Яркие моменты</string>
@@ -893,6 +904,8 @@ mm"</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="scrollable_wallpaper_close">Прокрутка отключена</string>
+    <string name="scrollable_wallpaper_open">Прокрутка включена</string>
     <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">SD-карта отсутствует</string>
@@ -912,6 +925,7 @@ mm"</string>
     <string name="server_internal_error">Ошибка сервера. Повторите попытку позже.</string>
     <string name="service_btn_text_know">Ознакомиться</string>
     <string name="service_btn_text_try">Попробовать</string>
+    <string name="set_as_colorring">Установить рингтон</string>
     <string name="set_color_ring_back_tone">Сигнал вызова</string>
     <string name="set_home_wallpaper_failed">"%s. Не удалось применить обои."</string>
     <string name="set_wallpaper_group_success">"%1$s добавлены.

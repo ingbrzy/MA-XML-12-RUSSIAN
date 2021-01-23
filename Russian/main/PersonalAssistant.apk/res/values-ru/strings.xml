@@ -250,6 +250,15 @@
     <string name="app_footer_switcher">Перейти на старую версию</string>
     <string name="app_health_card_completion">Цель</string>
     <string name="app_health_card_step">Шаги:</string>
+    <string name="app_health_setting_music_name_fire">Огонь</string>
+    <string name="app_health_setting_music_name_forest">Лес</string>
+    <string name="app_health_setting_music_name_night">Летняя ночь</string>
+    <string name="app_health_setting_music_name_ocean">Прибой</string>
+    <string name="app_health_setting_music_name_rain">Дождь</string>
+    <string name="app_health_setting_text_default_duration">Длительность</string>
+    <string name="app_health_setting_text_download_alert_message">Отсутствует подключение к Wi-Fi. Использовать для загрузки мобильный интернет (%1$s)?</string>
+    <string name="app_health_setting_text_sleep_aid_settings">Сон</string>
+    <string name="app_health_setting_text_title">Здоровье</string>
     <string name="app_label">Ассистент</string>
     <string name="app_memory_free">Доступно</string>
     <string name="app_memory_info">%1$.1f ГБ/%2$d ГБ</string>
@@ -390,6 +399,7 @@
     <string name="app_sports_fav_add">Добавить</string>
     <string name="app_sports_fav_cancel_club">Удалить клуб</string>
     <string name="app_sports_fav_cancel_league">Удалить команду</string>
+    <string name="app_sports_fav_cancel_multi_league_content" formatted="false">Расписание клуба в %s и %s больше не будет передаваться вам</string>
     <string name="app_sports_fav_club">Избранный клуб</string>
     <string name="app_sports_fav_league">Избранная лига</string>
     <string name="app_sports_fav_mine">Добавлена ​​команда</string>
@@ -398,6 +408,7 @@
     <string name="app_sports_title">Виды спорта</string>
     <string name="app_sports_title_add_team">Добавить команды</string>
     <string name="app_sports_title_all_leagues">Все матчи</string>
+    <string name="app_sports_title_tip">Соответствующие данные, предоставленные третьей стороной</string>
     <string name="app_stock_more_add_stock">Добавить</string>
     <string name="app_stock_network_unavailable">Не удалось подключиться к сети</string>
     <string name="app_stock_search_fail">Результаты отсутствуют</string>
