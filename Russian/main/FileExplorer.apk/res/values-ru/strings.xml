@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="access_limit">Доступ ограничен</string>
+    <string name="access_tips">Нет доступа. Используйте для доступа Android Storage Access Framework.</string>
     <string name="action_mode_deselect_all">Снять выбор</string>
     <string name="action_mode_select_all">Выбрать все</string>
     <string name="actionbar_button_up_description">Назад</string>
@@ -290,6 +292,7 @@
     <string name="gbk_summary">Упрощенная китайская кодировка Windows по умолчанию</string>
     <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">" ГБ"</string>
+    <string name="go_ahead">Открыть</string>
     <string name="grid_mode">Таблица</string>
     <string name="group_title">%2$s из %1$s</string>
     <string name="group_title_extra_backup">Резервные копии</string>
@@ -366,6 +369,9 @@
     <string name="mirror_can_not_drag_mask">Перетащите для использования Mi Share</string>
     <string name="mirror_new_name">Создать папку (%s)</string>
     <string name="mirror_new_name_first">Создать папку</string>
+    <string name="mirror_no_recommended_app">Рекомендации отсутствуют</string>
+    <string name="mirror_open_mode_error">Не удалось загрузить</string>
+    <string name="mirror_open_mode_loading">Подождите…</string>
     <string name="mirror_paste_no_file">Файл не существует</string>
     <string name="mirror_progress_copy">Копирование…</string>
     <string name="mirror_side_bar_tab_app_name">Приложения</string>
@@ -534,6 +540,7 @@
     <string name="operation_moving">Перемещение…</string>
     <string name="operation_new_folder">Создать папку</string>
     <string name="operation_open">Открыть</string>
+    <string name="operation_open_mode">Открыть с помощью</string>
     <string name="operation_other_apps">Открыть в приложении</string>
     <string name="operation_paste">Вставить</string>
     <string name="operation_paste_to_folder">Вставить в папку</string>
@@ -593,6 +600,8 @@
     <string name="promot_enctypt_password">Введите пароль разблокировки устройства</string>
     <string name="pull_to_enter_private">Потяните вниз, чтобы открыть приватную папку</string>
     <string name="pull_to_refresh">Потяните для обновления</string>
+    <string name="qq_msg">Из-за ограничений Android 11 Проводник не может получить доступ к документам QQ и отобразить их</string>
+    <string name="qq_title">Доступ ограничен</string>
     <string name="refresh_fail">Ошибка обновления</string>
     <string name="refresh_success">Обновление завершено</string>
     <string name="refreshing">Обновление</string>
@@ -644,6 +653,7 @@
     <string name="select_music">Аудио</string>
     <string name="select_video">Видео</string>
     <string name="select_volume">Выберите том</string>
+    <string name="send">Отправить</string>
     <string name="server_control_advanced_settings">Настройки FTP</string>
     <string name="server_control_charset">ШИФРОВАНИЕ</string>
     <string name="server_control_settings">Настройки</string>
@@ -790,6 +800,8 @@
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_type">Просмотр</string>
+    <string name="wechat_msg">Из-за ограничений Android 11 Проводник не может получить доступ к документам, просмотренных в WeChat. Открывайте и сохраняйте документы в WeChat, для возможности просмотра здесь.</string>
+    <string name="wechat_title">Доступ ограничен</string>
     <string name="wechat_video">Видео из %s</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
