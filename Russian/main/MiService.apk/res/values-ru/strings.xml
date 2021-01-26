@@ -32,14 +32,17 @@
     <string name="am">AM</string>
     <string name="app_name">app_main</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="copy">Копировать</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Традиционный китайский календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -223,9 +226,23 @@
     <string name="miui_mine_select_city">Выберите город</string>
     <string name="miui_mine_top_bar_title">Мои сервисы</string>
     <string name="miui_mine_unlogin">Войти</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
+    <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
+    <string name="miuix_appcompat_confirm_description">Подтверждение</string>
+    <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
+    <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
+    <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -277,6 +294,7 @@
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
+    <string name="not_set">Не задано</string>
     <string name="permission_agree">Принимаю</string>
     <string name="permission_china_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Условиями использования&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;. Для правильной работы приложению также необходимо подключение к интернету.&lt;/Data&gt;</string>
     <string name="permission_complete">Готово</string>
@@ -298,6 +316,7 @@
     <string name="permission_storage_introduce">Для сохранения файлов на вашем устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="pm">PM</string>
+    <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="public_loading_text">Подождите…</string>
     <string name="public_net_error_retry">Повторить</string>
     <string name="public_net_error_sub_title">Проверьте настройки сети и повторите попытку</string>
@@ -397,6 +416,8 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
