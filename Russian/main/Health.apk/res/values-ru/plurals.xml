@@ -146,14 +146,14 @@
         <item quantity="few">через %d минуты</item>
     </plurals>
     <plurals name="last_measure_date_interval">
-        <item quantity="other">Вы не взвешивались %1$d дней</item>
-        <item quantity="one">Вы не взвешивались %1$d день</item>
-        <item quantity="few">Вы не взвешивались %1$d дня</item>
+        <item quantity="other">Предыд. взвешивание: %1$d дней назад</item>
+        <item quantity="one">Предыд. взвешивание: %1$d день назад</item>
+        <item quantity="few">Предыд. взвешивание: %1$d дня назад</item>
     </plurals>
     <plurals name="last_measure_day_body_weight">
-        <item quantity="other">Вы не взвешивались %1$d дней</item>
-        <item quantity="one">Вы не взвешивались %1$d день</item>
-        <item quantity="few">Вы не взвешивались %1$d дня</item>
+        <item quantity="other">Предыд. взвешивание: %1$d дней назад</item>
+        <item quantity="one">Предыд. взвешивание: %1$d день назад</item>
+        <item quantity="few">Предыд. взвешивание: %1$d дня назад</item>
     </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d метров</item>
@@ -165,7 +165,7 @@
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
         <item quantity="other">Ожидается через %1$d дней</item>
-        <item quantity="one">Ожидается %1$d дней</item>
+        <item quantity="one">Ожидается через %1$d день</item>
         <item quantity="few">Ожидается через %1$d дня</item>
     </plurals>
     <plurals name="menstruation_sum_days">
