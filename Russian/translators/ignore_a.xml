@@ -107,6 +107,7 @@
     <array name="combined_view_account_colors"></array>
     <string-array name="commute_navigation_choice_item"></string-array>
     <string-array name="commute_navigation_dialog_item"></string-array>
+    <string-array name="compass_locale_language"></string-array>
     <integer-array name="config_5g_signal_rsrp_thresholds"></integer-array>
     <string-array name="config_allowFloatPackages"></string-array>
     <string-array name="config_allowFloatPackages"></string-array>
@@ -309,6 +310,8 @@
     <string-array name="missed_call_notify_times_entries"></string-array>
     <string-array name="missed_call_notify_times_entry_values"></string-array>
     <integer-array name="miui_config_hideKeyguardPresentationDisplayIds"></integer-array>
+    <string-array name="miui_feedback_reproductivity"></string-array>
+    <string-array name="miui_main_update_mirror_support"></string-array>
     <string-array name="miui_nature_sound_array"></string-array>
     <array name="miui_volume_progress_dragging_corners"></array>
     <array name="miui_volume_progress_released_corners"></array>
@@ -505,12 +508,14 @@
     <string-array name="super_wallpaper_res_scale_080_devices"></string-array>
     <array name="super_wallpaper_res_scale_100_devices" />
     <string-array name="super_wallpaper_res_scale_10_devices"></string-array>
+    <string-array name="support_mi_nmea_devices"></string-array>
     <integer-array name="support_networktypes_cdma_master"></integer-array>
     <integer-array name="support_networktypes_cdma_master_all"></integer-array>
     <integer-array name="support_networktypes_cdma_vice"></integer-array>
     <integer-array name="support_networktypes_gsm_master"></integer-array>
     <integer-array name="support_networktypes_gsm_nr_master_mtk"></integer-array>
     <integer-array name="support_networktypes_gsm_vice"></integer-array>
+    <string-array name="support_rotate_calibrate_devices"></string-array>
     <string-array name="support_super_wallpaper_devices"></string-array>
     <string-array name="switch_sdk_value"></string-array>
     <string-array name="system_alert_window_notification_whitelist"></string-array>
