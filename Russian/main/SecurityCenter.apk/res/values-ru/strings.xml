@@ -972,6 +972,7 @@
     <string name="databooster_tips_message">Включите эту функцию для ограничения всех SIM карт, кроме карты данных. Отключите эту функцию, если в играх наблюдаются ошибки.</string>
     <string name="databooster_tips_title">Внимание</string>
     <string name="date_picker_lunar">Лунный календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="day_overflow_tips">Ежедневный трафик превышен</string>
     <string name="debug_open_final_tip">Разрешить отладку по USB?</string>
     <string name="debug_open_title">Эта функция предназначена для разработчиков. Включение отладки по USB позволит</string>
@@ -1816,7 +1817,19 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_setting_item_title_smart_5g">Оптимизация сети 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Повышение скорости Mi Wi-Fi</string>
     <string name="gtb_spring_festival_back_game">Вернуться в игру</string>
+    <string name="gtb_spring_festival_egg_obtain_fail">Не удалось подключиться к сети</string>
     <string name="gtb_spring_festival_goto_gameturbo">Просмотр</string>
+    <string name="gtb_spring_festival_guide">"Переключитесь в альбомный режим,
+чтобы присоединиться к охоте за пасхальными  яйцами!"</string>
+    <string name="gtb_spring_festival_guide_know">Понятно</string>
+    <string name="gtb_spring_festival_push_active_desc">Розыгрыш телефонов, смарт-устройст и купонов</string>
+    <string name="gtb_spring_festival_push_active_title">Охота за пасхальными яйцами началась!</string>
+    <string name="gtb_spring_festival_push_desc">Присоединяйтесь к охоте за пасхальными яйцами, чтобы выиграть призы</string>
+    <string name="gtb_spring_festival_push_egg_title">Вы получили пасхальное яйцо!</string>
+    <string name="gtb_spring_festival_push_gift_title">Охота за призами начинается!</string>
+    <string name="gtb_spring_festival_push_join">Присоединиться</string>
+    <string name="gtb_spring_festival_push_see">Просмотр</string>
+    <string name="gtb_spring_festival_shortcut_create">Создать ярлык на рабочем столе</string>
     <string name="gtb_wlan_speed_tips">Использование Mi Wi-Fi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Неверный оператор?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Ваш текущий оператор: "</string>
@@ -3509,6 +3522,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="see_detail">Подробности</string>
     <string name="see_more_content">Обновите Игры для просмотра новинок</string>
     <string name="select_province_and_city">Выберите провинцию и город</string>
+    <string name="send">Отправить</string>
     <string name="send_msg_to_query">Отправить бесплатное SMS для проверки</string>
     <string name="set_applock_password">Задать пароль</string>
     <string name="set_complete">Готово</string>

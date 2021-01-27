@@ -75,6 +75,7 @@
     <string name="error_has_occurred">Произошла ошибка</string>
     <string name="error_mirror_working">Передача файлов во время трансляции недоступна</string>
     <string name="error_msg_network_error">Ошибка сети. Повторите попытку.</string>
+    <string name="error_permission_denied">Для использования этой функции предоставьте Mi Share все необходимые разрешения в настройках</string>
     <string name="error_receive_file_cannot_read">Не удалось принять файл</string>
     <string name="error_receive_file_changed">Не удалось принять. Файл был изменен.</string>
     <string name="error_receive_file_file_opened">Не удалось принять файл. Похоже, файл сейчас используется.</string>
@@ -121,6 +122,9 @@
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_privacy_title">Политика конфиденциальности</string>
+    <string name="mi_10i">Mi 10I</string>
+    <string name="mi_10t">Mi 10T</string>
+    <string name="mi_10t_lite">Mi 10T Lite</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -143,6 +147,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
+    <string name="nearby_share">Nearby Share</string>
     <string name="no_longer_prompt">Блокировка</string>
     <string name="no_longer_receive">Заблокировать это устройство? Вы не сможете принимать от него файлы.</string>
     <string name="not_set">Не задано</string>
@@ -180,6 +185,8 @@
     <string name="redmi_k20_pro">Redmi K20 Pro</string>
     <string name="redmi_k30">Redmi K30</string>
     <string name="redmi_k30_5g">Redmi K30 5G</string>
+    <string name="redmi_k30_ultra">Redmi K30 Ultra</string>
+    <string name="redmi_k30s">Redmi K30S Ultra</string>
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
     <string name="redmi_note_7">Redmi Note 7</string>
@@ -242,6 +249,8 @@
     <string name="xiaomi_10_lite">Mi 10 Lite</string>
     <string name="xiaomi_10_lite_5g">Mi 10 Lite 5G</string>
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
+    <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
+    <string name="xiaomi_11">Mi 11</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -266,5 +275,7 @@
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="xiaomi_poco_m2">POCO M2</string>
     <string name="xiaomi_poco_m2_pro">POCO M2 Pro</string>
+    <string name="xiaomi_poco_x3">POCO X3</string>
 </resources>

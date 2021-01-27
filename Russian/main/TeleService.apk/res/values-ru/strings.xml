@@ -1009,7 +1009,7 @@
     <string name="enable_opengl_traces_title">Вкл. трассировку OpenGL</string>
     <string name="enable_pin">Запрос PIN SIM-карты</string>
     <string name="enable_pin_ok">Запрос PIN SIM-карты включен</string>
-    <string name="enable_proximity_summary">Отключать экран при поднесении телефона к уху во время разговора</string>
+    <string name="enable_proximity_summary">Отключать экран при поднесении устройства к уху во время разговора</string>
     <string name="enable_proximity_title">Датчик приближения</string>
     <string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
     <string name="enable_terminal_summary">Разрешить терминальный доступ к локальной оболочке</string>
@@ -2108,6 +2108,8 @@ UT-интерфейс: %5$s"</string>
     <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
     <string name="send_button">Отправить</string>
     <string name="send_keepalive_title">Отправлять keep-alive</string>
+    <string name="sensor_answer_summary">Автоматически отвечать на входящий вызов при поднесении устройства к уху</string>
+    <string name="sensor_answer_title">Ответ при поднесении к уху</string>
     <string name="set_primary_summary">Используется для исходящих вызовов</string>
     <string name="set_primary_title">Основной аккаунт</string>
     <string name="set_smsc_address_error">Не удалось установить номер</string>
