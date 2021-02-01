@@ -425,6 +425,7 @@
     <string name="conversation_quick_button_disapprove">Отмена</string>
     <string name="conversation_quick_button_received">Получено</string>
     <string name="conversation_report_spam">Сообщить о спаме</string>
+    <string name="conversation_report_un_spam">Не спам</string>
     <string name="conversation_spam_dig_msg">Отметить это сообщение как спам? Сообщение будет перемещено в папку \"Спам\", а его отправитель будет добавлен в черный список.</string>
     <string name="conversation_spam_tips">Отметить это сообщение как спам?</string>
     <string name="conversation_view">Цепочка сообщений</string>
@@ -515,6 +516,7 @@
     <string name="edit_signature">Изменить подпись</string>
     <string name="editor_max_length_limit_hint">Слишком длинное сообщение</string>
     <string name="email_netease">NetEase Mail</string>
+    <string name="email_no_snippet">[отсутствует тело сообщения]</string>
     <string name="email_qq">QQ Mail</string>
     <string name="email_setting">Почта</string>
     <string name="email_setting_keywords">Аккаунты;Добавить аккаунт;аккаунты почты;добавить аккаунт почты;подтверждение перед удалением;удалить подтверждение;подтверждение перед отправкой;отправить подтверждение;удалить диалог;удалить перенаправление;цепочка сообщений;диалог почты;экономия заряда;энергосбережение;батарея почты;отправить отзыв;загрузить журналы</string>
@@ -637,6 +639,8 @@
     <string name="general_preference_text_zoom_normal">Средний</string>
     <string name="general_preference_text_zoom_small">Нормальный</string>
     <string name="general_preference_text_zoom_tiny">Мелкий</string>
+    <string name="general_preference_trash_contact">Проверка спама</string>
+    <string name="general_preference_trash_contact_sum">Обработка писем от отправителей из черного списка</string>
     <string name="generic_attachment_problem">Не удалось прикрепить файл</string>
     <string name="get_database_exception">Очистите данные приложения в Настройки > Системные приложения и повторите попытку.</string>
     <string name="get_oauth_code">Получить код</string>
@@ -1453,6 +1457,7 @@
     <string name="wait_for_sync_title">Ожидание синхронизации</string>
     <string name="wait_help_context">подождите</string>
     <string name="wait_while_update_db">Обновление базы данных…</string>
+    <string name="web_view_load_error_tip">Возникли некоторые проблемы, тело письма не быть отображено должным образом. Если вы столкнулись с этой проблемой, добавьте группу QQ 952315061, чтобы оставить отзыв.</string>
     <string name="webview_logout">Вы можете повторить вход</string>
     <string name="webview_logout_cancel">Не сейчас</string>
     <string name="webview_logout_sure">Повторить</string>

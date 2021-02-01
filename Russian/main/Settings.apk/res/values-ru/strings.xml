@@ -1211,6 +1211,8 @@
     <string name="bluetooth_enter_passkey_other_device">Возможно, потребуется ввести ключ доступа на другом устройстве.</string>
     <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
     <string name="bluetooth_error_title" />
+    <string name="bluetooth_fastConnect_key_device_id">ID устройства</string>
+    <string name="bluetooth_fastConnect_resource_load">Загрузка ресурсов Bluetooth fastConnect</string>
     <string name="bluetooth_footer_mac_message">Адрес Bluetooth для устройства: %1$s</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству</string>
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства</string>
@@ -2004,7 +2006,7 @@
     <string name="credentials_title">Хранилище учетных данных</string>
     <string name="credentials_title_verification">Сертификация</string>
     <string name="credentials_wrong_password">Неправильный пароль.</string>
-    <string name="crisp_text">Высокие частоты добавляют четкость деталям действий</string>
+    <string name="crisp_text">Высокие частоты добавляют четкость деталям выполняемых действий</string>
     <string name="critical_feedback">Детализация</string>
     <string name="cross_profile_calendar_restricted_summary">В вашей организации запрещен доступ к рабочему календарю для личных приложений.</string>
     <string name="cross_profile_calendar_summary">Показывать рабочие мероприятия в личном календаре.</string>
@@ -8253,6 +8255,7 @@ UT-интерфейс: %5$s"</string>
     <string name="users_summary">Вы вошли как %1$s</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="var_font_switch_title">Общесистемный настраиваемый шрифт</string>
     <string name="verify_apps_over_usb_summary">Выполнять проверку безопасности приложений при установке через ADB/ADT</string>
     <string name="verify_apps_over_usb_title">Проверка при установке</string>
     <string name="version_text">Версия %1$s</string>
@@ -9153,6 +9156,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wizard_back">Назад</string>
     <string name="wizard_finish">Готово</string>
     <string name="wizard_next">Далее</string>
+    <string name="wlan_scanner_unresizeble">Разделение экрана для настроек Wi-Fi не поддерживается</string>
     <string name="words_title">Текст</string>
     <string name="work_alarm_ringtone_title">Звук будильника по умолчанию</string>
     <string name="work_mode_label">Рабочий режим</string>

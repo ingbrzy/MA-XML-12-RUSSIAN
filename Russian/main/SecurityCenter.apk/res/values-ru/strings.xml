@@ -29,6 +29,7 @@
     <string name="Setting_lock">Настройки</string>
     <string name="Settings_title_anti_spam">Настройки антиспама</string>
     <string name="Settings_title_anti_virus">Настройки антивируса</string>
+    <string name="Settings_title_anti_virus_kddi">Настройки антивируса</string>
     <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
     <string name="Settings_title_network_assistants">Настройки трафика</string>
     <string name="Settings_title_power_center">Настройки батареи</string>
@@ -100,6 +101,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activity_title_antispam">Антиспам</string>
     <string name="activity_title_antivirus">Антивирус</string>
+    <string name="activity_title_antivirus_kddi">Антивирус</string>
     <string name="activity_title_apps_manager">Приложения</string>
     <string name="activity_title_auto_start_manager">Автозапуск</string>
     <string name="activity_title_create_shortcut">Ярлыки</string>
@@ -185,9 +187,12 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">Для более эффективного обнаружения и нейтрализации вирусов мы будем загружать имена и свойства пакетов приложений для сканирования в облачном антивирусном движке</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_summary">Эта функция работает на стороннем антивирусном движке. Чтобы узнать больше, прочтите &lt;font color='#37A5FF'&gt;&lt;a href =\"%1$s\"&gt;Лицензионное соглашение&lt;/font&gt;&lt;/a&gt;.</string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Когда вы запускаете сканирование, модель устройства и результаты сканирования передаются на сервера %1$s и используются в соответствии с &lt;a href=\"%2$s\">условиями и положениями&lt;/a>.&lt;br/>&lt;br/>Перед началом сканирования прочтите и примите условия и положения %3$s.&lt;br/>&lt;br/>В случае несогласия с загрузкой данных на серверы %4$s, будут использоваться определения вирусов, хранящиеся локально на устройстве."</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Политика конфиденциальности</string>
     <string name="antivirus_privacy_dialog_title">Политика конфиденциальности</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Условия и положения</string>
     <string name="antivirus_sec_network_unavailable">Приложению Безопасность не удается обновиться, поскольку вы ограничили доступ в интернет. Разрешить доступ?"</string>
+    <string name="antivirus_third_privacy_title">Политика конфиденциальности третьих лиц</string>
     <string name="antivirus_toast_already_update">Обновление не требуется</string>
     <string name="antivirus_toast_network_unavailable">Ошибка подключения к сети</string>
     <string name="antivirus_toast_update_failed">Ошибка обновления</string>
@@ -2145,6 +2150,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_summary_power_manager_4">%s до окончания</string>
     <string name="menu_text_antispam">Антиспам</string>
     <string name="menu_text_antivirus">Антивирус</string>
+    <string name="menu_text_antivirus_kddi">Антивирус</string>
     <string name="menu_text_deepclean_summary">%1$s/%2$s занято</string>
     <string name="menu_text_garbage_cleanup">Очистка</string>
     <string name="menu_text_license_manager">Разрешения</string>
