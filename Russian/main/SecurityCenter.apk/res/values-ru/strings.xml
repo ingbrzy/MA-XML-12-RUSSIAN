@@ -2634,10 +2634,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_action_desc_prompt">Разрешение предоставляется после подтверждения</string>
     <string name="permission_action_desc_reject">Не предоставлять разрешение</string>
     <string name="permission_action_foreground">Разрешить на время использования</string>
-    <string name="permission_action_prompt">Спрашивать разрешение</string>
+    <string name="permission_action_prompt">Спросить разрешение</string>
     <string name="permission_action_reject">Запретить</string>
     <string name="permission_action_tag">Защита конфиденциальности</string>
-    <string name="permission_action_virtual">Отправка пустой информации</string>
+    <string name="permission_action_virtual">Отправить пустую информацию</string>
     <string name="permission_close_permission_control_dialog_msg">Приложения не будут запрашивать разрешение на доступ к камере или микрофону, контактам, журналу вызовов или на изменение настроек системы. Отключить управление разрешениями?</string>
     <string name="permission_close_permission_control_dialog_title">Управление разрешениями</string>
     <string name="permission_exception_title">Трафик приложений</string>
@@ -3311,7 +3311,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_result_photo_delete">Уведомлять об удалении фотографиях</string>
     <string name="privacy_risk_result_photo_delete_msg">Уведомлять об удалении файлов из галереи без подтверждения</string>
     <string name="privacy_risk_result_photo_sensitive">Ваши фотографии содержат личную информацию</string>
-    <string name="privacy_risk_result_protection">Защита конфиденциальности</string>
+    <string name="privacy_risk_result_protection">Рекомендуется</string>
+    <string name="privacy_risk_result_protection">Оптимально</string>
     <string name="privacy_risk_result_screen_fuzzy">Размытие миниатюр</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Размытие миниатюр конфиденциальных приложений в Недавних</string>
     <string name="privacy_risk_result_set_btn">Настройки</string>
@@ -3396,11 +3397,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="reach_daily_limit_value_title">Достигнут лимит трафика</string>
     <string name="read_all_sms">Прочитать все</string>
     <string name="read_and_write_clipboard">Буфер обмена</string>
-    <string name="read_clipboard_ai_action_desc">Получать уведомления каждый раз, когда доступ разрешен или ограничен</string>
+    <string name="read_clipboard_ai_action_desc">Уведомлять каждый раз, когда доступ разрешен или ограничен</string>
     <string name="read_clipboard_ai_close_no">Не сейчас</string>
-    <string name="read_clipboard_ai_close_tip">Вы больше не будете получать уведомления, когда приложения обращаются к буферу обмена. Приложения автоматически получат разрешение только во время использования. Настроить разрешения?</string>
+    <string name="read_clipboard_ai_close_tip">Вы больше не будете получать уведомления, когда приложения обращаются к буферу обмена. Приложения автоматически получат разрешение только на время использования. Настроить разрешения?</string>
     <string name="read_clipboard_ai_close_yes">Настроить</string>
-    <string name="read_clipboard_op_content">Получать уведомления каждый раз, когда доступ разрешен или ограничен</string>
+    <string name="read_clipboard_op_content">Уведомлять каждый раз, когда доступ разрешен или ограничен</string>
     <string name="read_clipboard_op_title">Уведомлять о доступе</string>
     <string name="read_clipboard_tip_content">Это разрешение позволяет приложениям читать содержимое буфера обмена, в котором может содержаться скопированная личная информация (например, данные счета, номера банковских карт и пароли).</string>
     <string name="read_clipboard_tip_title">Чтение из буфера обмена</string>
