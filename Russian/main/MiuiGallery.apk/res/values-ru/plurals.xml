@@ -154,8 +154,8 @@
         <item quantity="one">%d видео</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Коллажи могут содержать 1-%d фото</item>
-        <item quantity="one">Коллажи могут содержать 1-%d фото</item>
+        <item quantity="other">Коллажи могут содержать %1$d-%2$d фото</item>
+        <item quantity="one">Коллажи могут содержать %1$d-%2$d фото</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Выберите до %d фото</item>
