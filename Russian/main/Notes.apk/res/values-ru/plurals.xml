@@ -78,8 +78,13 @@
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">через %d минут</item>
-        <item quantity="few">через %d минуты</item>
         <item quantity="one">через 1 минуту</item>
+        <item quantity="few">через %d минуты</item>
+    </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s объектов</item>
+        <item quantity="one">%1$s объект</item>
+        <item quantity="few">%1$s объекта</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
