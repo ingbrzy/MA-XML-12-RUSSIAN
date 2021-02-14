@@ -2567,7 +2567,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_battery_software_menu_item">Программы</string>
     <string name="pc_battery_history_consume_all_menu_item">Все</string>
     <string name="pc_battery_history_consume_hardware_menu_item">Устройство</string>
-    <string name="pc_battery_history_consume_rank_menu_item">Рейтинг</string>
+    <string name="pc_battery_history_consume_rank_menu_item">Все</string>
     <string name="pc_battery_history_consumption_percent_title">Процент</string>
     <string name="pc_battery_history_idletime_title">Режим ожидания</string>
     <string name="pc_battery_history_item_chart">График расхода</string>
@@ -2636,7 +2636,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_action_foreground">Разрешить на время использования</string>
     <string name="permission_action_prompt">Спросить разрешение</string>
     <string name="permission_action_reject">Запретить</string>
-    <string name="permission_action_tag">Защита конфиденциальности</string>
+    <string name="permission_action_tag">Рекомендуется</string>
     <string name="permission_action_virtual">Отправить пустую информацию</string>
     <string name="permission_close_permission_control_dialog_msg">Приложения не будут запрашивать разрешение на доступ к камере или микрофону, контактам, журналу вызовов или на изменение настроек системы. Отключить управление разрешениями?</string>
     <string name="permission_close_permission_control_dialog_title">Управление разрешениями</string>
@@ -2748,10 +2748,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_battery_charge_night">Ночная зарядка</string>
     <string name="power_center_battery_charge_times">Заряжено сегодня</string>
     <string name="power_center_battery_chargefull_time">До полной зарядки</string>
-    <string name="power_center_battery_detail">Подробности</string>
+    <string name="power_center_battery_detail">Прочая информация</string>
     <string name="power_center_battery_duration">Оставшееся время</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
-    <string name="power_center_battery_hardware">Устройство %s</string>
+    <string name="power_center_battery_hardware">Устройство: %s</string>
     <string name="power_center_battery_health_poor_tip">Похоже, батарея не в порядке. Проверьте ее в авторизованном сервисном центре</string>
     <string name="power_center_battery_health_summary">Полностью зарядите и разрядите устройство %1$d-%2$d раз, чтобы повысить точность статистики состояния батареи</string>
     <string name="power_center_battery_last">Осталось %s</string>
@@ -2768,7 +2768,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_batteryscan_normal">Проблемы не найдены. Посмотреть результаты.</string>
     <string name="power_center_charge_status">Зарядка</string>
     <string name="power_center_charge_time">%1$s до окончания</string>
-    <string name="power_center_consume_fast">Сильный расход</string>
+    <string name="power_center_consume_fast">Быстрый разряд</string>
     <string name="power_center_dialog_msg_bottom">Можно увеличить автономность до %1$d ч. %2$d мин. Включить экономию заряда?</string>
     <string name="power_center_dialog_msg_title">Включите, чтобы увеличить время работы на %1$s. Для экономии заряда будут выполнены следующие действия:</string>
     <string name="power_center_dialog_msg_top">Когда включена экономия заряда, MIUI выполнит следующие действия:</string>
@@ -2797,7 +2797,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_repeat">Повтор</string>
     <string name="power_center_scan_item_title_5g">5G подключение</string>
     <string name="power_center_scan_item_title_GPS">Точность GPS</string>
-    <string name="power_center_scan_item_title_abnormal">Расход батареи</string>
+    <string name="power_center_scan_item_title_abnormal">Использование</string>
     <string name="power_center_scan_item_title_abnormal_apps">Приложения, разряжающие батарею</string>
     <string name="power_center_scan_item_title_auto_invoke">Цепной запуск</string>
     <string name="power_center_scan_item_title_auto_start">Автозапуск</string>
@@ -3311,7 +3311,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_result_photo_delete">Уведомлять об удалении фотографиях</string>
     <string name="privacy_risk_result_photo_delete_msg">Уведомлять об удалении файлов из галереи без подтверждения</string>
     <string name="privacy_risk_result_photo_sensitive">Ваши фотографии содержат личную информацию</string>
-    <string name="privacy_risk_result_protection">Рекомендуется</string>
+    <string name="privacy_risk_result_protection">Защита конфиденциальности</string>
     <string name="privacy_risk_result_screen_fuzzy">Размытие миниатюр</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Размытие миниатюр конфиденциальных приложений в Недавних</string>
     <string name="privacy_risk_result_set_btn">Настройки</string>
