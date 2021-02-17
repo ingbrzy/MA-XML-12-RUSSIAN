@@ -22,6 +22,7 @@ call run_copy_translation.bat %1 CleanMaster
 call run_copy_translation.bat %1 CloudBackup
 call run_copy_translation.bat %1 CloudService
 call run_copy_translation.bat %1 com.miui.qr
+call run_copy_translation.bat %1 com.xiaomi.macro
 call run_copy_translation.bat %1 Contacts
 call run_copy_translation.bat %1 ContactsProvider
 call run_copy_translation.bat %1 DeskClock
@@ -43,6 +44,7 @@ call run_copy_translation.bat %1 InCallUI
 call run_copy_translation.bat %1 Joyose
 call run_copy_translation.bat %1 ManagedProvisioning
 call run_copy_translation.bat %1 MediaProvider
+call run_copy_translation.bat %1 MiBrowserGlobal
 call run_copy_translation.bat %1 MiCloudSync
 call run_copy_translation.bat %1 MiDrive
 call run_copy_translation.bat %1 MiGalleryLockscreen
