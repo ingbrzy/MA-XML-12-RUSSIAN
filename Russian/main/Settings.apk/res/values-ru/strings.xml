@@ -1238,12 +1238,14 @@
     <string name="bluetooth_is_discoverable">Виден другим Bluetooth-устройствам: %1$s</string>
     <string name="bluetooth_is_discoverable_always">Доступно для всех устройств Bluetooth поблизости</string>
     <string name="bluetooth_is_visible_message">Устройства поблизости могут обнаружить %1$s, пока открыты настройки Bluetooth.</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Подключено к LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Использовать для LE_AUDIO</string>
     <string name="bluetooth_left_name">Левое</string>
     <string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
     <string name="bluetooth_lock_voice_dialing_summary">Предотвратить использование набора номера Bluetooth, когда экран заблокирован</string>
     <string name="bluetooth_map_acceptance_dialog_text">%1$s хочет получить доступ к вашим сообщениям. Предоставить доступ %2$s?</string>
-    <string name="bluetooth_map_profile_summary_connected">Доступ к сообщениям</string>
-    <string name="bluetooth_map_profile_summary_use_for">Использовать для доступа к сообщениям</string>
+    <string name="bluetooth_map_profile_summary_connected">Подключено к MAP</string>
+    <string name="bluetooth_map_profile_summary_use_for">Использовать для MAP</string>
     <string name="bluetooth_map_request">Запрос на доступ к сообщениям</string>
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Число аудиоустройств</string>
     <string name="bluetooth_max_connected_audio_devices_string">Число Bluetooth аудиоустройств</string>
@@ -1316,6 +1318,7 @@
     <string name="bluetooth_profile_headset">Аудиоустройство</string>
     <string name="bluetooth_profile_hearing_aid">Слуховой аппарат</string>
     <string name="bluetooth_profile_hid">Устройство ввода</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
     <string name="bluetooth_profile_opp">Передача файлов</string>
     <string name="bluetooth_profile_pan">Доступ в интернет</string>
@@ -1453,7 +1456,7 @@
     <string name="bootloader_status_locked">Заблокирован</string>
     <string name="bootloader_status_locked_info">Загрузчик заблокирован</string>
     <string name="bootloader_status_locked_summary">Устройство защищено</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock для нормальной работы требуется доступ к вашему Mi Аккаунту, CPU ID, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s.</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock для нормальной работы требуется доступ к вашему Mi Аккаунту, CPU ID, IMSI. Прочтите и примите нашу &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>.</Data></string>	
     <string name="bootloader_status_privacy_dialog_no">Отмена</string>
     <string name="bootloader_status_privacy_dialog_title">Требуются разрешения</string>
     <string name="bootloader_status_privacy_dialog_url_text">Политикой конфиденциальности</string>
@@ -1769,15 +1772,15 @@
     <string name="color_calibration_srgb">sRGB</string>
     <string name="color_cyan">Голубой</string>
     <string name="color_game_led_applications_title">Выбор приложений</string>
-    <string name="color_game_led_applications_title_summary">Ограничение использования светодиода при уведомлениях для отдельных приложений</string>
+    <string name="color_game_led_applications_title_summary">Выберите приложения, которые могут использовать светодиод для уведомлений</string>
     <string name="color_game_led_battery_title">Держать включенным во время зарядки</string>
     <string name="color_game_led_charging_summary">Отключить по окончанию зарядки</string>
     <string name="color_game_led_end_time">Окончание</string>
     <string name="color_game_led_game_mode_summary">Использовать для эффектов, когда включено Ускорение игр</string>
     <string name="color_game_led_game_mode_title">Использовать в Ускорении игр</string>
     <string name="color_game_led_incall_pulse_title">Мигать при входящих вызовах</string>
-    <string name="color_game_led_notification_pulse_title">Мигать при уведомлениях, когда экран выключен</string>
-    <string name="color_game_led_remind_title">Использовать для напоминаний</string>
+    <string name="color_game_led_notification_pulse_title">Мигать при уведомлениях</string>
+    <string name="color_game_led_remind_title">Эффекты</string>
     <string name="color_game_led_special_scene_title">Спецэффекты</string>
     <string name="color_game_led_start_time">Начало</string>
     <string name="color_game_led_summary">Не работает в режиме \"Не беспокоить\"</string>
@@ -2452,8 +2455,8 @@
     <string name="dialog_check_button_negative">Повтор</string>
     <string name="dialog_check_button_positive">Подключиться к Wi-Fi</string>
     <string name="dialog_check_context">"Устройство не может подключиться к интернету.
-1. Нажмите \"Подключиться к Wi-Fi\" для выбора доступной сети.
-2. Если вы хотите использовать мобильный интернет, нажмите \"Повтор\" или извлеките и повторно вставьте SIM-карту."</string>
+· Нажмите \"Подключиться к Wi-Fi\" для выбора доступной сети.
+· Если вы хотите использовать мобильный интернет, нажмите \"Повтор\" или извлеките и повторно вставьте SIM-карту."</string>
     <string name="dialog_check_title">Ошибка подключения</string>
     <string name="dialog_chose_item">Выберите объект</string>
     <string name="dialog_content_login">Войти в Mi Аккаунт для обновления?</string>
@@ -2662,7 +2665,7 @@
     <string name="dpp_cannot_connect_target">Не удалось подключиться к выбранной сети</string>
     <string name="dpp_connect_success">Успешно подключено</string>
     <string name="dpp_not_support">Эта сеть не поддерживает общий доступ</string>
-    <string name="dpp_qr_code_summary">Подключение к сети Wi-Fi с помощью QR-кода</string>
+    <string name="dpp_qr_code_summary">Отсканируйте этот QR-код на другом устройстве в настройках Wi-Fi.</string>
     <string name="dpp_qrcode_generator_summary">Отсканируйте этот QR-код с помощью устройства, поддерживающего Easy Connect.</string>
     <string name="dpp_scanner_summary">Поместите QR-код в рамку</string>
     <string name="dpp_shared_fail">Не удалось поделиться сетью Wi-Fi</string>
@@ -2911,6 +2914,7 @@
     <string name="expandable_under_keyguard_title">Показывать на экране блокировки</string>
     <string name="experimental_category_title">Экспериментальные функции</string>
     <string name="experimental_preference">(экспериментальная настройка)</string>
+    <string name="expert_detail_content_description">Подробности</string>
     <string name="extended_power_menu">Расширенное меню питания</string>
     <string name="exterior">Режим</string>
     <string name="external_code_size_label">На USB-накопителе</string>
@@ -3955,6 +3959,8 @@
     <string name="last_time_used_label">Последнее использование</string>
     <string name="lattice_smartcover_title">Сетчатая</string>
     <string name="launch_ai_shortcut">Ярлык Mi AI</string>
+    <string name="launch_alipay_health_code">Код состояния Alipay</string>
+    <string name="launch_alipay_health_code_auto_close">Ярлык кода состояния Alipay не доступен. Вы можете переключиться на другой ярлык.</string>
     <string name="launch_alipay_payment_code">Платежный код Alipay</string>
     <string name="launch_alipay_scanner">Сканер Alipay</string>
     <string name="launch_by_default">Открывать по умолчанию</string>
@@ -3972,6 +3978,8 @@
     <string name="launch_notification_center">Шторка уведомлений</string>
     <string name="launch_recents">Вызов Недавних</string>
     <string name="launch_voice_assistant">Голосовой помощник</string>
+    <string name="launch_wechat_health_code">Код состояния WeChat</string>
+    <string name="launch_wechat_health_code_auto_close">Ярлык кода состояния WeChat не доступен. Вы можете переключиться на другой ярлык.</string>
     <string name="launch_wechat_payment_code">Платежный код WeChat</string>
     <string name="launch_wechat_scanner">Сканер WeChat</string>
     <string name="launch_wifi_text">Подробности</string>
