@@ -531,8 +531,10 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Подключение правого слухового аппарата…</string>
     <string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
-    <string name="bluetooth_map_profile_summary_connected">Доступ к сообщениям</string>
-    <string name="bluetooth_map_profile_summary_use_for">Использовать для доступа к сообщениям</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Подключено к LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Использовать для LE_AUDIO</string>
+    <string name="bluetooth_map_profile_summary_connected">Подключено к MAP</string>
+    <string name="bluetooth_map_profile_summary_use_for">Использовать для MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Подключено к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Не подключено к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_use_for">Использовать для передачи файлов</string>
@@ -556,6 +558,7 @@
     <string name="bluetooth_profile_headset">Аудиоустройство телефона</string>
     <string name="bluetooth_profile_hearing_aid">Слуховой аппарат</string>
     <string name="bluetooth_profile_hid">Устройство ввода</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
     <string name="bluetooth_profile_opp">Передача файлов</string>
     <string name="bluetooth_profile_pan">Доступ в интернет</string>
@@ -705,7 +708,7 @@
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="content_description_menu_button">Меню</string>
-    <string name="control_center_notification_switch_guide">Проведите горизонтально для переключения между центром управления и шторкой уведомлений</string>
+    <string name="control_center_notification_switch_guide">Переход между центром и шторкой</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,скриншот,вибрация</string>
     <string name="controls_added_tooltip">Удерживайте кнопку питания, чтобы увидеть элементы управления</string>
     <string name="controls_confirmation_confirming">Подтверждение…</string>
