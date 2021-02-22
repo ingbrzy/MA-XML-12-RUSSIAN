@@ -32,6 +32,7 @@ call routine.bat dipper Settings.apk
 call routine.bat jason Settings.apk 
 call routine.bat lavender Settings.apk 
 call routine.bat sagit Settings.apk 
+call routine.bat surya Settings.apk 
 call routine.bat tucana Settings.apk 
 call routine.bat vela Settings.apk 
 call routine.bat wayne Settings.apk 
