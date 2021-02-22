@@ -79,6 +79,7 @@ call run_copy_translation.bat %1 MiuiSystemUIPlugin
 call run_copy_translation.bat %1 MiuiTelecomOverlay
 call run_copy_translation.bat %1 MiuiVideoGlobal
 call run_copy_translation.bat %1 MiuiWallpaper
+call run_copy_translation.bat %1 MiWeatherWallpaper
 call run_copy_translation.bat %1 Mms
 call run_copy_translation.bat %1 Music
 call run_copy_translation.bat %1 MusicFX
