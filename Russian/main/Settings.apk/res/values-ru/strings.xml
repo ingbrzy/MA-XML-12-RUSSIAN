@@ -4569,6 +4569,10 @@
     <string name="miheadset_LeftEar">Левое ухо</string>
     <string name="miheadset_RightEar">Правое ухо</string>
     <string name="miheadset_active">Активно</string>
+    <string name="miheadset_ancBalance">Средн.</string>
+    <string name="miheadset_ancClosed">Откл.</string>
+    <string name="miheadset_ancDecrease">Низк.</string>
+    <string name="miheadset_ancIncrease">Высок.</string>
     <string name="miheadset_anc_indicate">Подключите и наденьте наушники</string>
     <string name="miheadset_audio_mode">Звуковой режим</string>
     <string name="miheadset_audio_mode_high">Высокое качество</string>
@@ -4647,10 +4651,12 @@
     <string name="miheadset_rename_device">Переименовать</string>
     <string name="miheadset_soft">Мягче</string>
     <string name="miheadset_transparent">Прозрачность</string>
+    <string name="miheadset_transparentMode">Прозрачность</string>
     <string name="miheadset_triple_click_key_mode">Тройное нажатие</string>
     <string name="miheadset_triple_click_key_mode_summary">Назначение функции на тройное нажатие</string>
     <string name="miheadset_unpair_device">Отменить сопряжение?</string>
     <string name="miheadset_unpair_device_text">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
+    <string name="miheadset_voiceIncrease">Улучшение звучания</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Разное</string>
     <string name="misc_files_selected_count">Выбрано: %1$d из %2$d</string>

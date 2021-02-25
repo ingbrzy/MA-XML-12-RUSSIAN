@@ -167,7 +167,7 @@
     <string name="album_share_subtitle_requesting">Получение данных альбома…</string>
     <string name="album_share_title_new_album">Поделиться новым альбомом</string>
     <string name="album_show_local_only">Только локальные альбомы</string>
-    <string name="album_show_local_only_summary">Включите для просмотра и удаления фото только на устройстве</string>
+    <string name="album_show_local_only_summary">При включении этой функции будет доступно удаление только локальных альбомов</string>
     <string name="album_sort_type">Порядок сортировки</string>
     <string name="album_sort_type_create_time_asc">Сначала новые</string>
     <string name="album_sort_type_create_time_desc">Сначала старые</string>
@@ -220,7 +220,8 @@
     <string name="authorize_to_device_failed">Не удалось авторизоваться</string>
     <string name="authorize_watch_on_tv_failed">Не удалось авторизоваться</string>
     <string name="auto_backup_introduce">Автоматическая синхронизация фото и видео (требуется Mi Аккаунт)</string>
-    <string name="auto_download_media_title">Автозагрузка фото из Xiaomi Cloud</string>
+    <string name="auto_download_media_title">Автозагрузка</string>
+    <string name="auto_download_title">Качество изображения</string>
     <string name="auto_update_face">Добавлять фото автоматически</string>
     <string name="auto_update_face_summary">Загружать и добавлять фото в детский альбом автоматически</string>
     <string name="auto_update_off">Откл</string>
@@ -290,6 +291,8 @@
     <string name="backup_pause_dialog_title">Приостановка синхронизации</string>
     <string name="backup_pause_title">Синхронизация приостановлена</string>
     <string name="backup_pending">Ожидание выгрузки</string>
+    <string name="backup_settings">Синхронизация с облаком</string>
+    <string name="backup_settings_more">Дополнительно</string>
     <string name="backup_stop">Остановить</string>
     <string name="backup_sync_dialog_confirm">Включить</string>
     <string name="backup_sync_dialog_tips">Включите синхронизацию с облаком для изменения настроек.</string>
@@ -456,13 +459,23 @@
     <string name="close_dialog_desc">Закрыть окно диалога</string>
     <string name="cloud_authorize_to_share_to_device">Авторизуйтесь для просмотра на телевизорах, связанных с Mi Аккаунтом</string>
     <string name="cloud_authorizing_to_device">Авторизация…</string>
+    <string name="cloud_backup_enable_title">Синхронизировать</string>
+    <string name="cloud_backup_open_button">Включить</string>
+    <string name="cloud_backup_space">Облачное хранилище</string>
+    <string name="cloud_backup_status_disable">Откл.</string>
+    <string name="cloud_backup_status_eneble">Вкл.</string>
+    <string name="cloud_backup_title">Синхронизация с облаком</string>
+    <string name="cloud_bacup_disable_button">Отключить</string>
+    <string name="cloud_bacup_disable_processing">Обработка…</string>
     <string name="cloud_camera_display_name">Камера</string>
     <string name="cloud_cancel_authorizing_to_device">Отмена авторизации…</string>
     <string name="cloud_guide_auto_backup_title">Выберите альбомы для выгрузки</string>
     <string name="cloud_guide_login_title">Автоматическая выгрузка фото и видео</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
-    <string name="cloud_privacy_with_ai_album">Заявление о конфиденциальности при автоматической синхронизации и обработке изображений</string>
-    <string name="cloud_privacy_with_face">Заявление о конфиденциальности при автоматической синхронизации и распознавании лиц</string>
+    <string name="cloud_login_ok">Понятно</string>
+    <string name="cloud_login_settings_title">Настройки синхронизации</string>
+    <string name="cloud_privacy_with_ai_album">Функции и конфиденциальность</string>
+    <string name="cloud_privacy_with_face">Функции и конфиденциальность</string>
     <string name="cloud_screenshots_display_name">Скриншоты</string>
     <string name="cloud_settings">Синхронизация</string>
     <string name="cloud_storage_extend">Получить больше места</string>
@@ -1270,6 +1283,7 @@
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mi_mover_working_desc">Передача файлов…</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="micloud_introduce">Автоматически синхронизировать фото и видео (требуется Mi Аккаунт)</string>
     <string name="midnight">Ночь</string>
@@ -1694,6 +1708,7 @@
     <string name="photo_purge_dialog_message_image">Вы не сможете восстановить фото, если удалите их. Удалить?</string>
     <string name="photo_purge_dialog_message_video">Вы не сможете восстановить видео, если удалите их. Удалить?</string>
     <string name="photo_save_to_msg">Сохранено в %s</string>
+    <string name="photo_size_not_support">Это разрешение изображения не поддерживается</string>
     <string name="photo_vlog_module_finish">Видеоредактор загружен</string>
     <string name="photo_vlog_module_loading">Загрузка видеоредактора…</string>
     <string name="photodetail_failed_already_exist">Файл уже существует</string>
@@ -2011,6 +2026,7 @@
     <string name="security_share_subtitle_hide">Информация о местоположении удалена</string>
     <string name="security_share_subtitle_no_hide">Содержит информацию о местоположении</string>
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
+    <string name="see_more_settings">Дополнительно</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_image_operation">Добавление фото</string>
     <string name="select_item_face">"Это '%s'?"</string>
@@ -2052,7 +2068,7 @@
     <string name="share_public_url_text">Я отправил вам альбом %1$s. Просмотреть можно по ссылке: %2$s</string>
     <string name="share_with_family">Поделиться с семьей</string>
     <string name="sharer_quota_fulfiled">Количество пользователей в этом альбоме достигло предела.</string>
-    <string name="show_cloud_albumlist_summary">Управление синхронизированными с облаком альбомами</string>
+    <string name="show_cloud_albumlist_summary">После отключения синхронизации новые файлы из выбранных альбомов не будут загружаться в облако </string>
     <string name="show_hidden_album_summary">Просмотр и управление скрытыми альбомами</string>
     <string name="show_hidden_album_title">Скрытые альбомы</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Альбом перемещен, перейдите в Другие для просмотра</string>
@@ -2176,6 +2192,11 @@
     <string name="support_single_image">Выберите изображение</string>
     <string name="support_single_video">Выберите видео</string>
     <string name="sync_album_in_proecess">Синхронизация альбома…</string>
+    <string name="sync_backup_disable_confirm_message_downloading">Если вы отключите синхронизацию сейчас, загрузка исходных файлов будет прервана. Изображения высокого качества будут недоступны. Отключить синхронизацию?</string>
+    <string name="sync_backup_disable_confirm_message_wait">Изображения высокого качества после отключения синхронизации будут недоступны. Вы можете скачать исходные файлы из облака, затем отключить синхронизацию</string>
+    <string name="sync_backup_disable_confirm_title">Отключение синхронизации</string>
+    <string name="sync_backup_enable_confirm_message">Когда синхронизация с облаком включена, файлы с устройства будут загружены и объединены с файлами в облаке</string>
+    <string name="sync_backup_enable_confirm_title">Объединение файлов</string>
     <string name="sync_battery_low">Батарея разряжена</string>
     <string name="sync_cloud_space_full">Недостаточно места в Xiaomi Cloud</string>
     <string name="sync_diabled_toast">Синхронизация отключена</string>
@@ -2587,6 +2608,8 @@
     <string name="vlog_filter_lanmei">Черника</string>
     <string name="vlog_filter_liulan">Туман</string>
     <string name="vlog_filter_luoma">Рим</string>
+    <string name="vlog_filter_master_close">Удаленные видеоэффекты</string>
+    <string name="vlog_filter_master_open">Примененные видеоэффекты</string>
     <string name="vlog_filter_no_support_nums">Пропущенные видео: %1$d (редактирование недоступно)</string>
     <string name="vlog_filter_nuanyang">Солнечный свет</string>
     <string name="vlog_filter_origin">Нет</string>
