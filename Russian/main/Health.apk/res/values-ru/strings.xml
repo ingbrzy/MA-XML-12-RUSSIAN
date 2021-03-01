@@ -297,6 +297,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Лунный календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="date_week_index">"yyyy, ww 'неделя'"</string>
     <string name="day">День</string>
     <string name="deep_light_detection_open_prompt">Ваш цикл сна будет проанализирован в следующий раз, когда вы пойдёте спать</string>
@@ -892,10 +893,13 @@ ID:%s
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -1177,6 +1181,7 @@ ID:%s
     <string name="select_recog_question">Выберите действие</string>
     <string name="select_swim_posture">Стиль плавания</string>
     <string name="select_target">Выберите цель</string>
+    <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал диагностики</string>
     <string name="sending">Отправка…</string>
     <string name="set_emergency_contact">Экстренный контакт</string>
