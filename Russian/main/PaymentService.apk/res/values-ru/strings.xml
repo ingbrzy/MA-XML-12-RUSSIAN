@@ -10,6 +10,16 @@
     <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
     <string name="abc_capital_off">ОТКЛ.</string>
     <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
     <string name="abc_search_hint">Поиск…</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
@@ -60,6 +70,7 @@
     <string name="bind_sign_in_title">Добавить Mi Аккаунт</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Изменить пароль</string>
+    <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="choose_to_signin">Да</string>
     <string name="choose_to_signup">Создать новый</string>
@@ -302,6 +313,8 @@ ID:%s
     <string name="mibi_permanently_denied_perm_send_sms">Разрешите отправку SMS-сообщений в Настройках для использования этих функций.</string>
     <string name="mibi_prepaid_card_order_info">Карта пополнения %1$s: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Выберите оператора</string>
+    <string name="mibi_prepaid_dialog_content">Любые убытки, вызванные несоответствием номера карты, номинальным значением, паролем и фактической информацией, несете вы. Прежде чем продолжить, дважды проверьте предоставленную вами информацию.</string>
+    <string name="mibi_prepaid_dialog_title">Внимание</string>
     <string name="mibi_prepaid_edit_limit">цифры</string>
     <string name="mibi_prepaid_error_card_length">Неверный номер карты или пароль.</string>
     <string name="mibi_prepaid_error_card_number">Номер карты недействителен.</string>
@@ -315,6 +328,8 @@ ID:%s
     <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">Выбранная номинальная стоимость должна соответствовать балансу карты предоплаты. Выбор другого значения приведет к аннулированию карты. Это действие не может быть отменено.</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Если номинальный баланс карты предоплаты не &lt;font color=red&gt;￥%1$s&lt;/font&gt;, карта будет заблокирована. Xiaomi не несет ответственности за любые денежные убытки, возникшие в результате ошибки пользователя.</string>
+    <string name="mibi_prepaid_picker_hint_3_1">3.</string>
+    <string name="mibi_prepaid_picker_hint_3_2">Введите номер вашей карты, номинальное значение и пароль. Любые убытки, вызванные несоответствием между предоставленной вами и фактической информацией, несете вы.</string>
     <string name="mibi_prepaid_picker_title_default">Выберите размер</string>
     <string name="mibi_prepaid_picker_title_selected">размер</string>
     <string name="mibi_privacy_license_name">Политика конфиденциальности</string>
@@ -404,6 +419,7 @@ ID:%s
     <string name="mibi_web_login_description">Войти</string>
     <string name="mibi_web_login_waiting">Пожалуйста, подождите…</string>
     <string name="mibi_web_sso_login_fail">Вам нужно войти снова</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="nick_name">Имя пользователя</string>
     <string name="no_account">Вход не выполнен</string>
     <string name="no_network">Не удалось подключиться к сети</string>
