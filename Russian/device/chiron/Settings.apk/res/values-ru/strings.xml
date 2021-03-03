@@ -2378,6 +2378,7 @@
     <string name="development_settings_summary">Настройка параметров для разработчиков</string>
     <string name="development_settings_title">Для разработчиков</string>
     <string name="device_actionbar_title">Mi 5</string>
+    <string name="device_activation_info">Активация устройства</string>
     <string name="device_admin_add_title">Администратор устройства</string>
     <string name="device_admin_settings_title">Настройки администратора устройства</string>
     <string name="device_admin_status">Администратор устройства для приложения \"%1$s\" включен и разрешает выполнять следующие операции:</string>
@@ -4569,10 +4570,10 @@
     <string name="miheadset_LeftEar">Левое ухо</string>
     <string name="miheadset_RightEar">Правое ухо</string>
     <string name="miheadset_active">Активно</string>
-    <string name="miheadset_ancBalance">Средн.</string>
     <string name="miheadset_ancClosed">Откл.</string>
-    <string name="miheadset_ancDecrease">Низк.</string>
-    <string name="miheadset_ancIncrease">Высок.</string>
+    <string name="miheadset_ancHigh">Высок.</string>
+    <string name="miheadset_ancLow">Низк.</string>
+    <string name="miheadset_ancMedium">Средн.</string>
     <string name="miheadset_anc_indicate">Подключите и наденьте наушники</string>
     <string name="miheadset_audio_mode">Звуковой режим</string>
     <string name="miheadset_audio_mode_high">Высокое качество</string>
@@ -4596,6 +4597,7 @@
     <string name="miheadset_double_click_key_mode_summary">Назначение функции на двойное нажатие</string>
     <string name="miheadset_double_click_left">Дважды коснитесь левого наушника</string>
     <string name="miheadset_double_click_right">Дважды коснитесь правого наушника</string>
+    <string name="miheadset_enhanceVoice">Улучшение звучания</string>
     <string name="miheadset_enhence_high">Прибавить высокие частоты</string>
     <string name="miheadset_enhence_low">Прибавить низкие частоты</string>
     <string name="miheadset_equalizer">Эквалайзер</string>
@@ -4730,7 +4732,10 @@
     <string name="miui_sos_launching_title">SOS</string>
     <string name="miui_sos_menu_add">Добавить</string>
     <string name="miui_sos_menu_edit">Изменить</string>
-    <string name="miui_sos_msg_call_log_prefix">Вот мой журнал вызовов за последний час:</string>
+    <string name="miui_sos_msg_call_log_prefix">Мой журнал вызовов за последний час:</string>
+    <string name="miui_sos_pa_title">Местоположение при экстренной ситуации</string>
+    <string name="miui_sos_pa_turn_off">Откл.</string>
+    <string name="miui_sos_pa_turn_on">Вкл.</string>
     <string name="miui_sos_play_voice">Воспроизвести сообщение SOS</string>
     <string name="miui_sos_remind_add">Добавить</string>
     <string name="miui_sos_remind_close">Режим SOS включен. Отключить режим SOS и все связанные с ним функции?</string>
@@ -7773,6 +7778,7 @@ UT-интерфейс: %5$s"</string>
     <string name="title_layout_v2">Размер текста и масштаб</string>
     <string name="title_miui_music_mute_by_user">Режим \"Без звука\"</string>
     <string name="title_of_auto_launch_manage">Автозапуск</string>
+    <string name="title_special_features_health_global">Частота пульса</string>
     <string name="to_close">Отключить</string>
     <string name="toast_apply_font_fail">Не удалось установить шрифт</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
