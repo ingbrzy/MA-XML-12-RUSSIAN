@@ -98,6 +98,8 @@
     <string name="alert_dialog_download_prepare">Подготовка к загрузке…</string>
     <string name="alert_dialog_download_progress">"Загрузка приложения: "</string>
     <string name="all">Показать все</string>
+    <string name="app_description_content">Приложение \"Mi Видео\" является системным, удалить его нельзя. Будет удален ярлык приложения с рабочего стола. Воспроизведение видео в приложении по-прежнему будет доступно.</string>
+    <string name="app_description_title">Удалить \"Mi Видео\" с рабочего стола?</string>
     <string name="app_name">Mi Видео</string>
     <string name="auth_again">Принимаю</string>
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
@@ -106,6 +108,7 @@
     <string name="back_to_mainpage">Открыть</string>
     <string name="before_yestoday">2 дня назад</string>
     <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
+    <string name="brvah_app_name">Библиотека</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_choose">Снять выбор</string>
     <string name="cancel_subscribe_tips">Отписаться?</string>
@@ -265,6 +268,13 @@ ID: %s
 Отправьте этот код руководителю."</string>
     <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Принимаю\", вы соглашаетесь с нашей Политикой конфиденциальности.</string>
     <string name="dialog_privacy_info_new3">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные в соответствии с политикой конфиденциальности. Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt; и &lt;a href=\"%3$s\"&gt;Пользовательским соглашением&lt;/a&gt; Xiaomi. &lt;br/&gt;&lt;br/&gt; Mi Видео получит доступ к списку приложений на устройстве для определения наличия приложений на устройстве, их версии и безопасности.</string>
+    <string name="dialog_privacy_revoke_cancel">Отмена</string>
+    <string name="dialog_privacy_revoke_count_down">Отзыв согласия (%1$d сек.)</string>
+    <string name="dialog_privacy_revoke_description">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Mi Видео. Мы перестанем собирать вашу личную информацию. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Отзыв согласия будет рассматриваться как отказ от онлайн-услуг.</string>
+    <string name="dialog_privacy_revoke_fail">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="dialog_privacy_revoke_ok">Отзыв согласия</string>
+    <string name="dialog_privacy_revoke_success">Успешно отозвано</string>
+    <string name="dialog_privacy_revoking">Отзыв согласия…</string>
     <string name="dialog_privacy_title">Предоставление разрешения</string>
     <string name="dialog_revoke_privacy_info_new2">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение?</string>
     <string name="dialog_revoke_privacy_title">Отзыв разрешения</string>
@@ -733,6 +743,7 @@ ID: %s
     <string name="next_step">Далее</string>
     <string name="nick_name">Псевдоним</string>
     <string name="no_account">Вход не выполнен</string>
+    <string name="no_history">Ничего нет</string>
     <string name="no_longer_prompt">Больше не показывать</string>
     <string name="no_more_content">Больше ничего нет</string>
     <string name="no_network_tips">Невозможно использовать функцию. Доступ к сети ограничен.</string>
@@ -1102,6 +1113,8 @@ ID: %s
     <string name="plus_sort_type_time">Время</string>
     <string name="plus_tab_gallery">Папки</string>
     <string name="plus_tab_time">Временная шкала</string>
+    <string name="privacy_revoke_setting">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Mi Видео.</string>
+    <string name="privacy_revoke_title">Отзыв согласия</string>
     <string name="progressbar_title">Проверка на наличие проблем безопасности…</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Войти с паролем</string>
@@ -1172,6 +1185,7 @@ ID: %s
     <string name="screenshot_8k_saving">Сохранение 8K скриншота…</string>
     <string name="screenshot_8k_share">Отправить</string>
     <string name="search">Поиск</string>
+    <string name="search_bar_hint">Поиск видео</string>
     <string name="search_choose_language">Выберите язык</string>
     <string name="search_choose_voice_language">Выберите язык голосового поиска</string>
     <string name="search_hot_words">Популярное</string>
@@ -1377,4 +1391,12 @@ ID: %s
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
     <string name="year">год</string>
     <string name="yesterday">Вчера</string>
+    <string name="ytb_account">Аккаунты</string>
+    <string name="ytb_author_video">Видео</string>
+    <string name="ytb_login">Войти</string>
+    <string name="ytb_login_btn">Войти</string>
+    <string name="ytb_login_hint">Войдите для просмотра подпискок на YouTube</string>
+    <string name="ytb_logout">Выход</string>
+    <string name="ytb_play_next">Следующее</string>
+    <string name="ytb_subscribed">Подписки</string>
 </resources>

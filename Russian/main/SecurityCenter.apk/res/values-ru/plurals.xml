@@ -110,6 +110,15 @@
         <item quantity="one">%d раз</item>
         <item quantity="few">%d раза</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Удалить %d приложений</item>
+        <item quantity="one">Удалить %d приложение</item>
+        <item quantity="few">Удалить %d приложения</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Доступны обновления для %d приложений</item>
+        <item quantity="one">Доступно обновление для %d приложения</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">%d дней назад</item>
         <item quantity="one">%d день назад</item>
@@ -152,6 +161,11 @@
     <plurals name="cache_check_content">
         <item quantity="other">Защищено: %d</item>
         <item quantity="one">Защищено: %d</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#F22424>%d&lt;/font> приложений&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#F22424>%d&lt;/font> приложение&lt;/Data></item>
+        <item quantity="few">&lt;Data>Можно удалить &lt;font color=#F22424>%d&lt;/font> приложения&lt;/Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Использовано %s суточного лимита.
@@ -742,8 +756,8 @@
         <item quantity="few">Осталось %s минуты</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
-        <item quantity="other">Понятно (%ds)</item>
-        <item quantity="one">Понятно (%ds)</item>
+        <item quantity="other">Понятно (%d сек.)</item>
+        <item quantity="one">Понятно (%d сек.)</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">Устройство выключится через %d секунд. Подключите зарядное устройство.</item>
@@ -928,6 +942,11 @@
     <plurals name="system_check_content">
         <item quantity="other">Защищено: %1$d</item>
         <item quantity="one">Защищено: %1$d</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Обновить &lt;font color=#F22424>%d&lt;/font> приложений&lt;/Data></item>
+        <item quantity="one">&lt;Data>Обновить &lt;font color=#F22424>%d&lt;/font> приложение&lt;/Data></item>
+        <item quantity="few">&lt;Data>Обновить &lt;font color=#F22424>%d&lt;/font> приложения&lt;/Data></item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">Удалено %d вирусов</item>

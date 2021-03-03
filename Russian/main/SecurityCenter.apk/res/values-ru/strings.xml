@@ -471,17 +471,24 @@
     <string name="app_manager_show_detail_infos">Показать все</string>
     <string name="app_manager_start_by">Запущено приложением %s</string>
     <string name="app_manager_system_mobile_disable">Запретить 3G/4G</string>
+    <string name="app_manager_tab_app">Приложения</string>
+    <string name="app_manager_tab_manager">Управление</string>
     <string name="app_manager_thumbnail_blur_summary">Размывать миниатюру приложения в Недавних</string>
     <string name="app_manager_thumbnail_blur_title">Размытие миниатюры</string>
     <string name="app_manager_title">Приложения</string>
+    <string name="app_manager_to_appstore">Откройте для себя новые приложения</string>
     <string name="app_manager_total_size">Всего</string>
     <string name="app_manager_uninstall">Удаление</string>
+    <string name="app_manager_uninstall_button_text">Удалить</string>
+    <string name="app_manager_uninstall_notify_title">Удаление редко используемых приложений</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Удаление системных приложений может нарушить работу некоторых компонентов MIUI. Удалить?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Удаление системных приложений</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Соответствующие клоны приложений и их данные будут удалены.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Удаление клона приложения очистит все его данные.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Удалить клон приложения?</string>
     <string name="app_manager_unstall_application">Удалить</string>
+    <string name="app_manager_update">Обновить</string>
+    <string name="app_manager_updater_notify_message">Обновите приложения для доступа к новым функциям</string>
     <string name="app_managere_not_have_app">Пусто</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_mobile">3G/4G</string>
@@ -630,12 +637,12 @@
     <string name="auto_task_edit_choose_condition_title">Выбор условия</string>
     <string name="auto_task_edit_choose_new_operation">Новое действие</string>
     <string name="auto_task_edit_choose_operation_title">Выбор действия</string>
-    <string name="auto_task_edit_condition_summary">Например, \"В 23:00\"</string>
+    <string name="auto_task_edit_condition_summary_new">Например, \"В %s\"</string>
     <string name="auto_task_edit_condition_title">Новое условие</string>
     <string name="auto_task_edit_my_custom_task">Имя</string>
     <string name="auto_task_edit_operation_summary">Например, \"Включить Режим полета\"</string>
-    <string name="auto_task_edit_step1">1.</string>
-    <string name="auto_task_edit_step2">2.</string>
+    <string name="auto_task_edit_step1_new">%d.</string>
+    <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">Имя</string>
     <string name="auto_task_main_title">"Автоматизация действий"</string>
     <string name="auto_task_mamange_activity_title">Автоматизация действий</string>
@@ -644,7 +651,7 @@
     <string name="auto_task_manager_group_title">ЗАДАЧИ</string>
     <string name="auto_task_notify_do_task_title">Задача запущена</string>
     <string name="auto_task_notify_exit_task_title">Задача завершена</string>
-    <string name="auto_task_notify_task_cancel_count_down">Задача будет отменена через 5 секунд</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">Задача будет отменена через %d сек.</string>
     <string name="auto_task_notify_task_cancel_do">Отмена задач</string>
     <string name="auto_task_notify_task_canceled_summary">Вы можете совершать и принимать вызовы</string>
     <string name="auto_task_notify_task_canceled_summary2">Запущено игровое приложение.</string>
@@ -652,7 +659,7 @@
     <string name="auto_task_notify_task_canceled_summary4">Отменено первым пространством</string>
     <string name="auto_task_notify_task_canceled_title">Задача отменена</string>
     <string name="auto_task_notify_task_continue_do">Запуск задач</string>
-    <string name="auto_task_notify_task_count_down">Задача будет запущена через 5 секунд</string>
+    <string name="auto_task_notify_task_count_down_new">Задача будет запущена через %d сек.</string>
     <string name="auto_task_notify_task_exit_task">Отмена задачи</string>
     <string name="auto_task_operation_airplane_mode">Режим полета</string>
     <string name="auto_task_operation_auto_brightness">Автояркость</string>
@@ -868,6 +875,9 @@
     <string name="card_main_xspace_summary">Создание независимых копий приложений</string>
     <string name="card_main_xspace_title">Клонирование</string>
     <string name="card_tc_failed">Ошибка калибровки</string>
+    <string name="card_uninstall_button_text">Управление</string>
+    <string name="card_uninstall_summary">Удалите редко используемые приложения для освобождения места на устройстве</string>
+    <string name="card_uninstall_title_1">Удаление редко используемых приложений</string>
     <string name="cd_back">Назад</string>
     <string name="cellular_data_auto_check">Проверять автоматически</string>
     <string name="cellular_package_daily_input">Ввод данных</string>
@@ -987,7 +997,7 @@
     <string name="deep_clean_never_memory_clean">Никогда</string>
     <string name="deep_power_save_item_summary_auto_brightness">Автоматическая регулировка яркости для экономии заряда</string>
     <string name="deep_power_save_item_summary_bluetooth">Отключение Bluetooth для экономии заряда</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Отключение экрана после 15 секунд бездействия для экономии заряда</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Отключение экрана после %d сек. бездействия для экономии заряда</string>
     <string name="deep_power_save_item_title_auto_brightness">Включение автояркости</string>
     <string name="deep_power_save_item_title_bluetooth">Отключение Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Спящий режим</string>
@@ -1570,9 +1580,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_immersion_tips_content">Режим погружения ограничивает все функции SIM-карты, за исключением мобильной передачи данных. Звонки и уведомления о пропущенных вызовах не будут беспокоить вас. Все функции SIM-карты будут восстановлены при отключении режима погружения. Включить режим погружения?</string>
     <string name="gamebox_immersion_tips_title">Внимание</string>
     <string name="gamebox_immerson_open">"Включение режима погружения, не переключайте сети…"</string>
+    <string name="gamebox_macro">Макросы</string>
     <string name="gamebox_manual_record">Запись</string>
     <string name="gamebox_milink">Трансляция</string>
-    <string name="gamebox_positive_button_text">ОК (%1$ds)</string>
+    <string name="gamebox_positive_button_text">ОК (%1$d сек.)</string>
     <string name="gamebox_qq_not_find">Установите QQ и повторите попытку.</string>
     <string name="gamebox_recent_task_expand_fail">Приложения для работы с ярлыками не установлены</string>
     <string name="gamebox_simcard">Переключение SIM-карт</string>
@@ -1659,6 +1670,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_first_window_summary">Повышение производительности на системном уровне</string>
     <string name="gb_first_window_title">Ускорение игр</string>
     <string name="gb_game_end_toast">Вернитесь к ключевым моментам ваших игр</string>
+    <string name="gb_game_macro_bubble_tips">Попробуйте макросы</string>
+    <string name="gb_game_macro_toast_tips">"Попробуйте макросы!
+Записывайте последовательности действий и используйте их в любое время!"</string>
     <string name="gb_game_video_ai_record_finish_tips">AI записи при ускорении игр: %d</string>
     <string name="gb_game_video_bottom_tips">Просматривайте ключевые моменты ваших игровых сессий в Ускорении игр. Записи автоматически удаляются через 7 дней.</string>
     <string name="gb_game_video_item_tag">Ключевые моменты</string>
@@ -1689,6 +1703,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_new_feature">Новая функция</string>
     <string name="gb_operat_frequently">Не так быстро!</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
+    <string name="gb_shoulder_key_btn_cancel">Сохранить</string>
+    <string name="gb_shoulder_key_btn_save_exit">Отмена</string>
+    <string name="gb_shoulder_key_circle_left">Л</string>
+    <string name="gb_shoulder_key_circle_right">П</string>
+    <string name="gb_shoulder_key_guide_btn_done">Понятно</string>
+    <string name="gb_shoulder_key_guide_btn_next">Далее</string>
     <string name="gb_sign_gift">Отмечайтесь и получайте награды</string>
     <string name="gb_sign_gift_button_text">Получить</string>
     <string name="gb_sign_notification_summary">Играйте в игры без задержек в сети</string>
@@ -2334,6 +2354,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="networkchanged_exception_summary">Произведено подключение к другой сети. Повторите диагностику.</string>
     <string name="networkchanged_exception_title">Подключена другая сеть</string>
     <string name="never">Один раз</string>
+    <string name="never_new">%d раз</string>
     <string name="news_change">Изменить</string>
     <string name="nickname">Псевдоним</string>
     <string name="night">Вечер</string>
@@ -2781,6 +2802,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_list_item_haptic_feedback_summary">Не сопровождать жесты и нажатия виброоткликом</string>
     <string name="power_center_list_item_set_lockscreen_time">Спящий режим после 30 сек. бездействия</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Заблокировать устройство после %d сек. бездействия</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">Спящий режим после %d сек. бездействия</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Выключенный экран экономит заряд</string>
     <string name="power_center_list_item_wake_notification">Не пробуждать для уведомлений</string>
     <string name="power_center_list_item_wake_notification_summary">Входящие уведомления будут отображаться только при включении экрана</string>
@@ -2940,6 +2962,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_save_low_battery_title">Автопереключение</string>
     <string name="power_save_mode">Экономия заряда</string>
     <string name="power_save_mode_auto_exit_summary">Автоматически отключать экономию заряда при уровне 60% и более</string>
+    <string name="power_save_mode_auto_exit_summary_new">Отключить экономию при уровне %s или полном заряде</string>
     <string name="power_save_mode_auto_exit_title">Автоотключение</string>
     <string name="power_save_mode_close_aod_display_summary">Отключать Активный экран при экономии заряда</string>
     <string name="power_save_mode_close_aod_display_title">Отключать Активный экран</string>
@@ -3950,6 +3973,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="suggest_app_tolock_unmasked">Содержимое отображается</string>
     <string name="suggest_scan_again">Повторите проверку во избежание угроз безопасности.</string>
     <string name="summary_app_lock_disable">Обезопасьте ваши данные с Защитой приложений</string>
+    <string name="summary_app_update_new">Обновите приложения для доступа к новым функциям</string>
     <string name="summary_auto_update">MIUI подберет наиболее подходящее время для загрузки и установки обновлений.</string>
     <string name="summary_background_connection">Вы ограничили фоновые подключения для этого приложения.</string>
     <string name="summary_block_calls_from_cantacts">Вызовы от контактов заблокированы.</string>
@@ -4008,7 +4032,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="superpower_notification_summary">Включение ультраэкономии заряда</string>
     <string name="superpower_notification_time_12">EEEE, d MMMM</string>
     <string name="superpower_notification_time_24">EEEE, d MMMM</string>
-    <string name="superpower_notification_title">Заряд батареи меньше 10%</string>
+    <string name="superpower_notification_title_new">Заряд батареи менее %s</string>
     <string name="superpower_progress_content">Включение ультраэкономии заряда…</string>
     <string name="superpower_progress_left_time">%1$d ч. %2$d мин.</string>
     <string name="superpower_progress_switch_home">Переключение в темный режим</string>
@@ -4022,9 +4046,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="superpower_savemode_limit3">Ограничение энергоемких функций (синхронизация, GPS, вибрация, Активный экран и др.)</string>
     <string name="superpower_savemode_limit4">Разрешение работать нормально только выбранным приложениям</string>
     <string name="superpower_settings">Ультраэкономия заряда</string>
-    <string name="superpower_settins_autoenter_summary">Включать ультраэкономию заряда автоматически, когда заряд батареи менее 10%</string>
+    <string name="superpower_settins_autoenter_summary_new">Включать ультраэкономию заряда автоматически, когда заряд батареи %s</string>
     <string name="superpower_settins_autoenter_title">Автовключение</string>
-    <string name="superpower_settins_autoleave_summary">Отключать ультраэкономию заряда автоматически, когда заряд батареи более 50%</string>
+    <string name="superpower_settins_autoleave_summary_new">Отключать ультраэкономию заряда автоматически, когда заряд батареи %s</string>
     <string name="superpower_settins_autoleave_title">Автоотключение</string>
     <string name="superpower_settins_other">Дополнительные настройки</string>
     <string name="superpower_settins_switch_summary">Ограничение энергоемких функций для продления работы (звонки, SMS, выбранные приложения)</string>
@@ -4138,6 +4162,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tc_sms_report_get_success_notify_title">Получен отчет о трафике по SMS</string>
     <string name="tc_sms_report_geting_sms">Получение данных SMS…</string>
     <string name="tc_sms_report_notify_correction_body">Перейдите в модуль передачи данных и обновите данные вручную.</string>
+    <string name="tc_sms_report_notify_correction_business_hall">Выполните калибровку повторно в Сервисах оператора</string>
     <string name="tc_sms_report_notify_correction_failure_title">Ошибка обновления информации о трафике</string>
     <string name="tc_sms_report_notify_get_failure_body">Ошибка отправки отчета о трафике. Убедитесь, что вы подключены к мобильной сети.</string>
     <string name="tc_sms_report_notify_get_failure_title">Ошибка получения SMS с данными о трафике</string>
@@ -4388,7 +4413,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="traffic_setting_fragment_sms_content_tips">Введите сообщение</string>
     <string name="traffic_setting_fragment_title">Настройки запросов трафика</string>
     <string name="traffic_setting_fragment_title_guide">Операторы и тарифные планы</string>
-    <string name="traffic_usage_warning_body">"Вы уже использовали %s мобильного трафика в этом месяце."</string>
+    <string name="traffic_to_limit_warning">Израсходовано %s трафика</string>
+    <string name="traffic_usage_warning_body">Вы уже использовали %s мобильного трафика в этом месяце</string>
     <string name="traffic_usage_warning_limit">Порог предупреждения о трафике</string>
     <string name="traffic_usage_warning_title">Порог предупреждения</string>
     <string name="traffic_warning_purchase_title">Предупреждение о трафике</string>
@@ -4470,6 +4496,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_ve_settings_pic_border_stronger">Улучшенные контуры</string>
     <string name="vb_ve_settings_picture_stronger">Улучшенная анимация</string>
     <string name="vb_video_effects_display_style">Стиль</string>
+    <string name="vb_video_effects_dolby">Dolby Atmos</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Улучшение</string>
+    <string name="vb_video_effects_dolby_headset">" (только наушники)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos вкл.</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">Расширенное стерео</string>
     <string name="vb_video_effects_setting_black_white">Ч/Б</string>
     <string name="vb_video_effects_setting_cinema">Кино</string>
     <string name="vb_video_effects_setting_girl">Румянец</string>
@@ -4512,6 +4543,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="videobox_settings_timing_desc">Напоминать каждый час о необходимости сделать перерыв</string>
     <string name="videobox_settings_title">Панель инструментов видео</string>
     <string name="view_traffic_detail">Подробности</string>
+    <string name="view_traffic_details">Статистика</string>
     <string name="virus_auto_update_engine">Обновлять автоматически: %s</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_update_tips_title">Предупреждение</string>
@@ -4632,6 +4664,22 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_mijia_page_title">Оповещения</string>
     <string name="warningcenter_mijia_search_keywords">Оповещения Mi Home</string>
     <string name="warningcenter_mijia_title">Оповещения устройств умного дома</string>
+    <string name="warningcenter_policeassist_charge_tips">*Может взиматься плата за исходящие текстовые сообщения. Свяжитесь с вашим оператором, чтобы узнать о тарифах.</string>
+    <string name="warningcenter_policeassist_close_btn">Отключить</string>
+    <string name="warningcenter_policeassist_flow_locating">Получение информации…</string>
+    <string name="warningcenter_policeassist_flow_locfailed">Не удалось поделиться местоположением</string>
+    <string name="warningcenter_policeassist_flow_privacy">Политика конфиденциальности</string>
+    <string name="warningcenter_policeassist_flow_send">Поделиться местоположением с полицией</string>
+    <string name="warningcenter_policeassist_flow_tips">Отправить местоположение</string>
+    <string name="warningcenter_policeassist_noti_content">Автоматическая отправка текстового сообщения с местоположением</string>
+    <string name="warningcenter_policeassist_noti_privacy">Нажмите, чтобы проверить Политику конфиденциальности</string>
+    <string name="warningcenter_policeassist_noti_send">Поделиться местоположением с полицией</string>
+    <string name="warningcenter_policeassist_noti_title">Поделиться местоположением во время экстренных вызовов</string>
+    <string name="warningcenter_policeassist_open_btn">Включить</string>
+    <string name="warningcenter_policeassist_open_content">Автоматически отправлять информацию о своем местоположении в полицию с помощью SMS или через интернет время звонка на номер 110, 120, 119, 122 или 12122."</string>
+    <string name="warningcenter_policeassist_open_title">Поделиться местоположением с полицией во время экстренных вызовов</string>
+    <string name="warningcenter_policeassist_privacy"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
+    <string name="warningcenter_policeassist_title">Местоположение при экстренной ситуации</string>
     <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">Центр предупреждений MIUI</string>
     <string name="website">Веб-сайт</string>
