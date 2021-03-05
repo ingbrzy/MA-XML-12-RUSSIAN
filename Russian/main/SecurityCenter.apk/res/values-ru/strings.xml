@@ -1636,7 +1636,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_advance_settings_vibration_4d">4D вибрация</string>
     <string name="gb_advance_settings_vibration_4d_summary">Отображение действий в игре с помощью вибрации</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать в игре в момент убийства</string>
-    <string name="gb_audition_instruction">Нажмите и удерживайте для записи (%1$s-%2$ss)</string>
+    <string name="gb_audition_instruction">Нажмите и удерживайте для записи (%1$s-%2$s сек.)</string>
     <string name="gb_audition_play_instruction">Используйте наушники для лучшего эффекта</string>
     <string name="gb_create_icon_summary">Создать ярлык на рабочем столе</string>
     <string name="gb_cutoff">|</string>
@@ -2649,7 +2649,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_action_accept">Разрешить</string>
     <string name="permission_action_ai_prompt">По выбору системы</string>
     <string name="permission_action_always">Разрешать всегда</string>
-    <string name="permission_action_desc">Разрешить, но отправить пустую информацию для защиты конфиденциальности</string>
+    <string name="permission_action_desc">Разрешить, но отправить приложению пустую информацию для защиты конфиденциальности</string>
     <string name="permission_action_desc_always">Предоставлять разрешение всегда</string>
     <string name="permission_action_desc_foreground">Предоставлять разрешение только на время использования приложения</string>
     <string name="permission_action_desc_prompt">Разрешение предоставляется после подтверждения</string>
@@ -2658,7 +2658,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_action_prompt">Спросить разрешение</string>
     <string name="permission_action_reject">Запретить</string>
     <string name="permission_action_tag">Рекомендуется</string>
-    <string name="permission_action_virtual">Отправить пустую информацию</string>
+    <string name="permission_action_virtual">Пустая информация</string>
     <string name="permission_close_permission_control_dialog_msg">Приложения не будут запрашивать разрешение на доступ к камере или микрофону, контактам, журналу вызовов или на изменение настроек системы. Отключить управление разрешениями?</string>
     <string name="permission_close_permission_control_dialog_title">Управление разрешениями</string>
     <string name="permission_exception_title">Трафик приложений</string>
@@ -2720,7 +2720,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_upgrade_privacy_title">Запрос разрешения доступа к микрофону или контактам теперь имеет опцию, которая позволяет предоставлять приложениям доступ только в активном режиме. Для защиты личной информации приложения не смогут получать доступ в фоновом режиме.</string>
     <string name="permission_upgrade_runtime">Запрос разрешения доступа к местоположению или камере теперь имеет опцию, которая позволяет предоставлять приложениям только однократный доступ. Для защиты личной информации, при следующем запуске приложения будет повторный запрос разрешения.</string>
     <string name="permission_upgrade_title">Обновленные разрешения</string>
-    <string name="permission_upgrade_virtual">Чтобы не предоставлять приложениям доступ к контактам или журналу вызовов, можно выбрать \"Отправить пустую информацию\" при запросе соответствующего разрешения.</string>
+    <string name="permission_upgrade_virtual">Чтобы не предоставлять приложениям реальный доступ к контактам или журналу вызовов, можно выбрать \"Пустая информация\" при запросе соответствующего разрешения.</string>
     <string name="permission_with_SMS_and_MMS">Доступ к SMS и MMS</string>
     <string name="permission_with_call_and_contact">Доступ к контактам и вызовам</string>
     <string name="permission_with_read_write_clipboard">Доступ к буферу обмена и изменение содержимого</string>
