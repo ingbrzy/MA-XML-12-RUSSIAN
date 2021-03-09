@@ -1352,6 +1352,9 @@
     <string name="message_decode_error">Ошибка декодирования сообщения.</string>
     <string name="mhh_disable">Медицинские учреждения отключены</string>
     <string name="mhh_enable">Медицинские учреждения включены</string>
+    <string name="mi_mobile_sim_activate_message">Активируйте SIM %d, чтобы использовать Mi Mobile. Это может занять до 5 минут.</string>
+    <string name="mi_mobile_sim_activate_ok">Активировать</string>
+    <string name="mi_mobile_sim_activate_title">Добро пожаловать в Mi Mobile!</string>
     <string name="mi_sim_settings_summary">Использование мобильного интернета без SIM-карты</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mismatchPin">Введенные PIN не совпадают. Повторите попытку.</string>
@@ -2582,6 +2585,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_auto_sel_wapi_cert">Автовыбор</string>
     <string name="wifi_call_accept">Пропуск</string>
     <string name="wifi_call_available_message">Вы можете осуществлять звонки с помощью Wi-Fi. Если вы подключены к сети Wi-Fi, вы сможете говорить, даже если вы находитесь в районах без покрытия мобильной сети.</string>
+    <string name="wifi_call_available_message_for_ATT_MX">Вы собираетесь подключиться к сети Wi-Fi, качество вызовов может зависеть от сети.</string>
     <string name="wifi_call_available_title">Включение Wi-Fi вызовов</string>
     <string name="wifi_call_cancel">Дополнительно</string>
     <string name="wifi_call_help">Помощь</string>
