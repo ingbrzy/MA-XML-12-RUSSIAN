@@ -500,6 +500,7 @@
     <string name="allow_sound_title">Звук</string>
     <string name="allow_vibrate_title">Вибрация</string>
     <string name="alpha_build">Альфа</string>
+    <string name="already_delete_system_app">Удаленные системные приложения</string>
     <string name="always">Всегда</string>
     <string name="always_allow_bind_appwidgets_text">Это приложение может создавать виджеты и получать их данные.</string>
     <string name="always_running">Постоянно (%s)</string>
@@ -509,7 +510,7 @@
     <string name="ambient_display_category_triggers">Когда показывать</string>
     <string name="ambient_display_pickup_summary">Чтобы увидеть уведомления, возьмите устройство в руки</string>
     <string name="ambient_display_pickup_title">Просмотр уведомлений</string>
-    <string name="ambient_display_screen_summary_always_on">Всегда включен / Увеличение потребления батареи</string>
+    <string name="ambient_display_screen_summary_always_on">Всегда включен / Увеличение энергопотребления</string>
     <string name="ambient_display_screen_summary_notifications">Новые уведомления</string>
     <string name="ambient_display_screen_title">Активный экран</string>
     <string name="ambient_display_summary">Чтобы увидеть время, уведомления или другую информацию, дважды коснитесь экрана устройства</string>
@@ -1499,14 +1500,18 @@
     <string name="bt_dialog_settings">Настройки</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
-    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления.
 Эту функцию можно отключить в [Настройках]"</string>
     <string name="bt_ldac_dialog_title">Включена поддержка LDAC</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Свойства</string>
+    <string name="bt_leaudio_open_dialog_summary">LC3 не поддерживает подключение несколько устройств к гарнитуре. Другие подключенные устройства будут отключены. Включить LC3?</string>
+    <string name="bt_leaudio_open_dialog_title">Внимание</string>
+    <string name="bt_leaudio_pre_title">LC3</string>
+    <string name="bt_leaudio_summary">Высокое качество звука</string>
     <string name="bt_lhdc_declaration">Если устройство Bluetooth поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить высококачественный звук и снижает задержки во время игр, но также увеличивает энергопотребление. Проблемы могут возникнуть во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить высококачественный звук и снижает задержки во время игр, но также увеличивает энергопотребление.
 Эту функцию можно отключить в Настройках"</string>
@@ -1764,8 +1769,9 @@
     <string name="cloud_restore_section_title">Восстановление из Xiaomi Cloud</string>
     <string name="cloud_restore_section_title_new">В Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Версия оборудования</string>
-    <string name="codec_low_latency_summary">Минимальная задержка при синхронизации игр, аудио и видео</string>
+    <string name="codec_low_latency_summary">Минимальная задержка звука в играх и видео при синхронизации</string>
     <string name="codec_low_latency_title">Минимальная задержка</string>
+    <string name="codec_low_latency_video_summary">Минимальная задержка звука в играх и видео при синхронизации</string>
     <string name="color_black">Черный</string>
     <string name="color_blue">Синий</string>
     <string name="color_calibration_none">Натуральный</string>
@@ -2935,6 +2941,7 @@
     <string name="face_data_input_ok_title">Данные успешно добавлены</string>
     <string name="face_data_input_structure_title">3D данные лица</string>
     <string name="face_data_input_title">Добавить данные лица</string>
+    <string name="face_data_introduction_add">Начать</string>
     <string name="face_data_introduction_msg">Данные лица могут использоваться для разблокировки устройства или проверки вашей личности. Добавьте пароль на экран блокировки перед добавлением данных лица.</string>
     <string name="face_data_introduction_next">Далее</string>
     <string name="face_data_introduction_title">Распознавание лица</string>
@@ -2947,7 +2954,7 @@
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
-    <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью.</string>
+    <string name="face_data_suggesstion_first">Разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что лицо видно отчетливо</string>
     <string name="face_intro_error_max">Добавлено максимальное количество лиц</string>
     <string name="face_intro_error_unknown">Не удалось добавить данные лица</string>
@@ -3434,6 +3441,8 @@
     <string name="header_category_wireless_networks">Беспроводные сети</string>
     <string name="header_data_and_synchronization">Синхронизация данных</string>
     <string name="headset_connectiong">Подключение…</string>
+    <string name="headset_notification_switch_summary">Отображать статус на виджете в шторке уведомлений при подключении наушников</string>
+    <string name="headset_notification_switch_title">Виджет в шторке уведомлений</string>
     <string name="headset_remove_message">Отменить сопряжение?</string>
     <string name="headset_remove_message_indicate">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="headset_settings_title">Звуковые эффекты</string>
@@ -3808,6 +3817,7 @@
     <string name="keyboard_settings_title">Клавиатура Android</string>
     <string name="keyboard_shortcuts_helper">Быстрые клавиши</string>
     <string name="keyboard_shortcuts_helper_summary">Показывать быстрые клавиши</string>
+    <string name="keyboard_skin_follow_system_enable">Использовать темный режим вместе с системой</string>
     <string name="keyguard_advance_setting_title">Расширенные настройки</string>
     <string name="keyguard_notification_status_title">Уведомления</string>
     <string name="keyguard_security_setting_others">Прочее</string>
@@ -4671,6 +4681,8 @@
     <string name="miui_allow_vibrate">Вибрация</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Отмена</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Внимание</string>
     <string name="miui_face_enroll_success">Теперь вы можете использовать разблокировку по лицу</string>
     <string name="miui_input_method_settings">Настройки метода ввода</string>
     <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
@@ -5225,12 +5237,12 @@
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">Звук и вибрация отключены, отображается в списке ниже</string>
     <string name="notification_display_settings">Шторка уведомлений</string>
-    <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Малозначимые уведомления помещаются в отдельную папку.</string>
-    <string name="notification_fold_description2">MIUI запоминает, какие уведомления вы нажимаете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
-    <string name="notification_fold_description3">"Если уведомления, которые вы считаете важными, по-прежнему помещаются в папку уведомлений сообщите нам. Мы будем благодарны за обратную связь."</string>
-    <string name="notification_fold_footer_icon_summary">Показывать значки приложений для группы малозначимых уведомлений</string>
+    <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Неважные уведомления помещаются в отдельную папку.</string>
+    <string name="notification_fold_description2">MIUI запоминает, на какие уведомления вы реагируете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
+    <string name="notification_fold_description3">Если уведомления, которые вы считаете важными, по-прежнему попадают в отдельную папку, сообщите нам. Мы будем благодарны за отзывы.</string>
+    <string name="notification_fold_footer_icon_summary">Показывать значки приложений для группы неважных уведомлений</string>
     <string name="notification_fold_footer_icon_title">Показывать значки приложений</string>
-    <string name="notification_fold_summary">Все малозначимые уведомления будут появляться в отдельной папке</string>
+    <string name="notification_fold_summary">Все неважные уведомления будут помещаться в отдельную папку</string>
     <string name="notification_fold_title">Папка уведомлений</string>
     <string name="notification_group_title">Группа категорий уведомлений</string>
     <string name="notification_history">Журнал уведомлений</string>
@@ -5712,7 +5724,7 @@ OTG отключается автоматически через 10 минут �
     <string name="preferred_app_settings_reset_button">Сбросить</string>
     <string name="preferred_app_settings_reset_message">Все настройки приложений MIUI по умолчанию будут сброшены к заводским установкам.</string>
     <string name="preferred_application_title">По умолчанию \"%s\"</string>
-    <string name="preferred_application_warning_message">"Замена стандартного приложения \"%1$s может увеличить потребление батареи, снизить скорость работы устройства и подвергнуть систему риску. 
+    <string name="preferred_application_warning_message">"Замена стандартного приложения \"%1$s может увеличить энергопотребление, снизить скорость работы устройства и подвергнуть систему риску. 
 Рекомендуется использовать стандартное приложение %2$s\"."</string>
     <string name="preferred_application_warning_replace">Заменить</string>
     <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
@@ -5959,7 +5971,7 @@ OTG отключается автоматически через 10 минут �
     <string name="proxy_port_label">Порт</string>
     <string name="proxy_settings_label">Настройки прокси-сервера</string>
     <string name="proxy_settings_title">Прокси-сервер</string>
-    <string name="proxy_url_title">"URL автоконфигур. прокси: "</string>
+    <string name="proxy_url_title">URL</string>
     <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется только браузером.</string>
     <string name="qtifeedback_settings_subtitle">Отчеты Qualcomm Technologies</string>
     <string name="qtifeedback_settings_title">Отзывы по оборудованию</string>
@@ -7615,7 +7627,6 @@ UT-интерфейс: %5$s"</string>
     <string name="switch_access_service_on">Переключение доступа</string>
     <string name="switch_bootup_sound">Мелодия загрузки</string>
     <string name="switch_headset_anti_lost">Предупреждение о наушниках</string>
-    <string name="switch_headset_anti_lost_summary">Оповещать, когда один из наушников находится вне уха или зарядного чехла больше минуты.</string>
     <string name="switch_headset_anti_lost_title">Предупреждение о наушниках</string>
     <string name="switch_off_text">Откл.</string>
     <string name="switch_on_text">Вкл.</string>
@@ -8592,10 +8603,10 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_add_app_networks_saving_summary">Сохранение %d сетей…</string>
     <string name="wifi_add_app_networks_summary">%1$s хочет сохранить эти сети на вашем устройстве</string>
     <string name="wifi_add_app_networks_title">Сохранить сети?</string>
-    <string name="wifi_add_app_single_network_saved_summary">Saved</string>
+    <string name="wifi_add_app_single_network_saved_summary">Сохранено</string>
     <string name="wifi_add_app_single_network_saving_summary">Сохранение…</string>
-    <string name="wifi_add_app_single_network_summary">%1$s wants to save a network to your phone</string>
-    <string name="wifi_add_app_single_network_title">Save this network?</string>
+    <string name="wifi_add_app_single_network_summary">%1$s хочет сохранить сеть на вашем устройстве</string>
+    <string name="wifi_add_app_single_network_title">Сохранить сеть?</string>
     <string name="wifi_add_network">Новая сеть Wi-Fi</string>
     <string name="wifi_advanced_device_mac_address_title">MAC-адрес устройства</string>
     <string name="wifi_advanced_ip_address_title">IP-адрес</string>
@@ -8959,7 +8970,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_priority_settings_title">Настройки приоритета AP</string>
     <string name="wifi_priority_type_summary">Позволяет вручную задать приоритет для каждой точки доступа</string>
     <string name="wifi_priority_type_title">Задать приоритет AP вручную</string>
-    <string name="wifi_privacy_settings">Конфиденциальность</string>
+    <string name="wifi_privacy_settings">MAC-адрес</string>
     <string name="wifi_privacy_settings_ephemeral_summary">Случайный MAC-адрес</string>
     <string name="wifi_property">Свойства Wi-Fi</string>
     <string name="wifi_protection_on">Вкл.</string>
