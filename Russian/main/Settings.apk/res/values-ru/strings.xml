@@ -500,6 +500,7 @@
     <string name="allow_sound_title">Звук</string>
     <string name="allow_vibrate_title">Вибрация</string>
     <string name="alpha_build">Альфа</string>
+    <string name="already_delete_system_app">Удаленные системные приложения</string>
     <string name="always">Всегда</string>
     <string name="always_allow_bind_appwidgets_text">Это приложение может создавать виджеты и получать их данные.</string>
     <string name="always_running">Постоянно (%s)</string>
@@ -1768,8 +1769,9 @@
     <string name="cloud_restore_section_title">Восстановление из Xiaomi Cloud</string>
     <string name="cloud_restore_section_title_new">В Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Версия оборудования</string>
-    <string name="codec_low_latency_summary">Минимальная задержка при синхронизации игр, аудио и видео</string>
+    <string name="codec_low_latency_summary">Минимальная задержка звука в играх и видео при синхронизации</string>
     <string name="codec_low_latency_title">Минимальная задержка</string>
+    <string name="codec_low_latency_video_summary">Минимальная задержка звука в играх и видео при синхронизации</string>
     <string name="color_black">Черный</string>
     <string name="color_blue">Синий</string>
     <string name="color_calibration_none">Натуральный</string>
@@ -2939,6 +2941,7 @@
     <string name="face_data_input_ok_title">Данные успешно добавлены</string>
     <string name="face_data_input_structure_title">3D данные лица</string>
     <string name="face_data_input_title">Добавить данные лица</string>
+    <string name="face_data_introduction_add">Начать</string>
     <string name="face_data_introduction_msg">Данные лица могут использоваться для разблокировки устройства или проверки вашей личности. Добавьте пароль на экран блокировки перед добавлением данных лица.</string>
     <string name="face_data_introduction_next">Далее</string>
     <string name="face_data_introduction_title">Распознавание лица</string>
@@ -2951,7 +2954,7 @@
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
-    <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью.</string>
+    <string name="face_data_suggesstion_first">Разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что лицо видно отчетливо</string>
     <string name="face_intro_error_max">Добавлено максимальное количество лиц</string>
     <string name="face_intro_error_unknown">Не удалось добавить данные лица</string>
@@ -3438,6 +3441,8 @@
     <string name="header_category_wireless_networks">Беспроводные сети</string>
     <string name="header_data_and_synchronization">Синхронизация данных</string>
     <string name="headset_connectiong">Подключение…</string>
+    <string name="headset_notification_switch_summary">Отображать статус на виджете в шторке уведомлений при подключении наушников</string>
+    <string name="headset_notification_switch_title">Виджет в шторке уведомлений</string>
     <string name="headset_remove_message">Отменить сопряжение?</string>
     <string name="headset_remove_message_indicate">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="headset_settings_title">Звуковые эффекты</string>
@@ -3812,6 +3817,7 @@
     <string name="keyboard_settings_title">Клавиатура Android</string>
     <string name="keyboard_shortcuts_helper">Быстрые клавиши</string>
     <string name="keyboard_shortcuts_helper_summary">Показывать быстрые клавиши</string>
+    <string name="keyboard_skin_follow_system_enable">Использовать темный режим вместе с системой</string>
     <string name="keyguard_advance_setting_title">Расширенные настройки</string>
     <string name="keyguard_notification_status_title">Уведомления</string>
     <string name="keyguard_security_setting_others">Прочее</string>
@@ -4675,6 +4681,8 @@
     <string name="miui_allow_vibrate">Вибрация</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Отмена</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Внимание</string>
     <string name="miui_face_enroll_success">Теперь вы можете использовать разблокировку по лицу</string>
     <string name="miui_input_method_settings">Настройки метода ввода</string>
     <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
@@ -5229,12 +5237,7 @@
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">Звук и вибрация отключены, отображается в списке ниже</string>
     <string name="notification_display_settings">Шторка уведомлений</string>
-    <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Малозначимые уведомления помещаются в отдельную папку.</string>
-    <string name="notification_fold_description2">MIUI запоминает, какие уведомления вы нажимаете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
-    <string name="notification_fold_description3">"Если уведомления, которые вы считаете важными, по-прежнему помещаются в папку уведомлений сообщите нам. Мы будем благодарны за обратную связь."</string>
-    <string name="notification_fold_footer_icon_summary">Показывать значки приложений для группы малозначимых уведомлений</string>
-    <string name="notification_fold_footer_icon_title">Показывать значки приложений</string>
-    <string name="notification_fold_summary">Все малозначимые уведомления будут появляться в отдельной папке</string>
+    <string name="notification_fold_summary">Все неважные уведомления будут помещаться в отдельную папку</string>
     <string name="notification_fold_title">Папка уведомлений</string>
     <string name="notification_group_title">Группа категорий уведомлений</string>
     <string name="notification_history">Журнал уведомлений</string>
