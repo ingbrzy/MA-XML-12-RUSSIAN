@@ -5237,6 +5237,12 @@
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">Звук и вибрация отключены, отображается в списке ниже</string>
     <string name="notification_display_settings">Шторка уведомлений</string>
+    <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Неважные уведомления помещаются в отдельную папку.</string>
+    <string name="notification_fold_description2">MIUI запоминает, на какие уведомления вы реагируете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
+    <string name="notification_fold_description3">Если уведомления, которые вы считаете важными, по-прежнему попадают в отдельную папку, сообщите нам. Мы будем благодарны за отзывы.</string>
+    <string name="notification_fold_footer_icon_summary">Показывать значки приложений для группы неважных уведомлений</string>
+    <string name="notification_fold_footer_icon_title">Показывать значки приложений</string>
+    <string name="notification_fold_summary">Все неважные уведомления будут помещаться в отдельную папку</string>
     <string name="notification_fold_summary">Все неважные уведомления будут помещаться в отдельную папку</string>
     <string name="notification_fold_title">Папка уведомлений</string>
     <string name="notification_group_title">Группа категорий уведомлений</string>
@@ -7622,7 +7628,6 @@ UT-интерфейс: %5$s"</string>
     <string name="switch_access_service_on">Переключение доступа</string>
     <string name="switch_bootup_sound">Мелодия загрузки</string>
     <string name="switch_headset_anti_lost">Предупреждение о наушниках</string>
-    <string name="switch_headset_anti_lost_summary">Оповещать, когда один из наушников находится вне уха или зарядного чехла больше минуты.</string>
     <string name="switch_headset_anti_lost_title">Предупреждение о наушниках</string>
     <string name="switch_off_text">Откл.</string>
     <string name="switch_on_text">Вкл.</string>
