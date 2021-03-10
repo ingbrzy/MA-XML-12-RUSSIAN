@@ -33,6 +33,23 @@
         <item quantity="other">Блокировка рекламы: %d</item>
         <item quantity="one">Блокировка рекламы: %d</item>
     </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">Заблокировано: %d</item>
+        <item quantity="one">Заблокировано: %d</item>
+    </plurals>
+    <plurals name="adblock_total_counts">
+        <item quantity="other">Заблокировано %d объявлений</item>
+        <item quantity="one">Заблокировано %d объявление</item>
+        <item quantity="few">Заблокировано %d объявления</item>
+    </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">Новые статьи: %1$d</item>
+        <item quantity="one">Новые статьи: %1$d</item>
+    </plurals>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">Воспроизведение через %d сек.</item>
+        <item quantity="one">Воспроизведение через %d сек.</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d дней назад</item>
         <item quantity="one">%1$d день назад</item>
@@ -137,9 +154,23 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="players">
+        <item quantity="other">%d игроков</item>
+        <item quantity="one">%d игрок</item>
+        <item quantity="few">%d игрока</item>
+    </plurals>
     <plurals name="pref_adblock_counts">
         <item quantity="other">Заблокировано: %d</item>
         <item quantity="one">Заблокировано: %d</item>
+    </plurals>
+    <plurals name="search_trending_views">
+        <item quantity="other">%s поисковых запросов</item>
+        <item quantity="one">%s поисковый запрос</item>
+        <item quantity="other">%s поисковых запроса</item>
+    </plurals>
+    <plurals name="sku_price">
+        <item quantity="other">%2$s каждые %1$s месяцев</item>
+        <item quantity="one">%2$s каждый %1$s месяц</item>
     </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">%d треков</item>
@@ -164,6 +195,10 @@
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="video_collection_reminder_view">
+        <item quantity="other">%d непросмотренных видео</item>
+        <item quantity="one">%d непросмотренное видео</item>
     </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">Удалено %1$d видео.</item>
@@ -195,8 +230,23 @@
         <item quantity="few">Осталось %d минуты</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">Проверьте %1$d новых видео</item>
-        <item quantity="one">Проверьте %1$d новое видео</item>
-        <item quantity="few">Проверьте %1$d новых видео</item>
+        <item quantity="other">%1$d новых видео</item>
+        <item quantity="one">%1$d новое видео</item>
+        <item quantity="few">%1$d новых видео</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d просмотров</item>
+        <item quantity="one">%1$d просмотр</item>
+        <item quantity="few">%1$d просмотра</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%dК просмотров</item>
+        <item quantity="one">%dК просмотр</item>
+        <item quantity="few">%dК просмотра</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">Проголосовало %d человек</item>
+        <item quantity="one">Проголосовал %d человек</item>
+        <item quantity="few">Проголосовало %d человека</item>
     </plurals>
 </resources>
