@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Мужской</item>
-        <item>Женский</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
@@ -62,22 +58,5 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-    </string-array>
-    <string-array name="feature_desc">
-        <item>Оптимизирован для международных пользователей Xiaomi.eu</item>
-    </string-array>
-    <string-array name="month12">
-        <item>Январь</item>
-        <item>Февраль</item>
-        <item>Март</item>
-        <item>Апрель</item>
-        <item>Май</item>
-        <item>Июнь</item>
-        <item>Июль</item>
-        <item>Август</item>
-        <item>Сентябрь</item>
-        <item>Октябрь</item>
-        <item>Ноябрь</item>
-        <item>Декабрь</item>
     </string-array>
 </resources>
