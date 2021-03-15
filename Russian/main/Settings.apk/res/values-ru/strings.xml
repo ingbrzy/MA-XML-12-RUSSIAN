@@ -1380,12 +1380,12 @@
     <string name="bluetooth_talkback_input_peripheral">Периферийное устройство ввода</string>
     <string name="bluetooth_talkback_phone">Телефон</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth-модем</string>
-    <string name="bluetooth_tethering_available_subtext">Доступ к интернет-подключению через Bluetooth открыт</string>
+    <string name="bluetooth_tethering_available_subtext">Доступ к интернет-подключению через Bluetooth включен</string>
     <string name="bluetooth_tethering_device_connected_subtext">Интернет-подключение используется одним устройством через Bluetooth</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Интернет-подключение используется %1$d устройствами через Bluetooth</string>
     <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
-    <string name="bluetooth_tethering_off_subtext">Нет доступа к интернет-подключению через Bluetooth</string>
-    <string name="bluetooth_tethering_off_subtext_config">Доступ к интернет-подключению устройства \"%1$d\" через Bluetooth открыт</string>
+    <string name="bluetooth_tethering_off_subtext">Доступ к интернет-подключению через Bluetooth отключен</string>
+    <string name="bluetooth_tethering_off_subtext_config">Доступ к интернет-подключению устройства \"%1$d\" через Bluetooth включен</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
     <string name="bluetooth_tethering_subtext">Поделитесь интернет-соединением через Bluetooth</string>
     <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
@@ -4633,6 +4633,7 @@
     <string name="miheadset_ignore">Удалить устройство</string>
     <string name="miheadset_in_ear_check">Автоопределение</string>
     <string name="miheadset_in_ear_check_summary">Автоматическая пауза и возобновление воспроизведения при снятии и надевании наушников или гарнитуры</string>
+    <string name="miheadset_key_config_ANC_list_title">Режимы шумоподавления</string>
     <string name="miheadset_key_config_call_ai">Голосовой помощник</string>
     <string name="miheadset_key_config_close">Откл.</string>
     <string name="miheadset_key_config_close_summary">Отключить режим шумоподавления и прозрачности</string>
@@ -5871,7 +5872,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_bind_account">Привязать Mi Аккаунт</string>
     <string name="privacy_password_bind_account_immediate">Привязать</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Подтвердите пароль второго пространства</string>
-    <string name="privacy_password_confirm_use_finger">Использовать отпечаток</string>
+    <string name="privacy_password_confirm_use_finger">Отпечаток</string>
     <string name="privacy_password_enter_privacy">Введите пароль конфиденциальности</string>
     <string name="privacy_password_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
     <string name="privacy_password_fingerprint_confirm_failed">Не удалось проверить отпечаток</string>
@@ -5896,7 +5897,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_transparent_tiltle" />
     <string name="privacy_password_use_finger_dialog_mess">Вы можете использовать отпечаток с паролем конфиденциальности</string>
     <string name="privacy_password_use_finger_dialog_open">Использовать</string>
-    <string name="privacy_password_use_finger_dialog_title">Использовать отпечаток</string>
+    <string name="privacy_password_use_finger_dialog_title">Отпечаток</string>
     <string name="privacy_password_use_finger_success">Включено</string>
     <string name="privacy_password_visible_pattern">Показывать ключ</string>
     <string name="privacy_protect_title">Защита конфиденциальности</string>
@@ -7743,8 +7744,8 @@ UT-интерфейс: %5$s"</string>
     <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
     <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
     <string name="tether_share_qrcode_title">Код для подключения к точке</string>
-    <string name="tether_use_wifi6_summary">Некоторые устройства могут быть несовместимы со стандартом 802.11ax. Отключите эту функцию, если у вас возникли проблемы.</string>
-    <string name="tether_use_wifi6_title">Поддержка стандарта 6го поколения</string>
+    <string name="tether_use_wifi6_summary">Некоторые устройства могут быть несовместимы со стандартом 802.11ax. Отключите эту функцию, если возникли проблемы.</string>
+    <string name="tether_use_wifi6_title">Поддержка стандартов 6-го поколения</string>
     <string name="tethering_footer_info">Используйте точку доступа или режим модема для предоставления другим устройствам доступа в интернет через Wi-Fi или мобильное соединение.</string>
     <string name="tethering_footer_info_sta_ap_concurrency">Используйте точку доступа или режим модема для предоставления другим устройствам доступа в интернет через Wi-Fi или мобильное соединение. Приложения также могут создавать точки доступа для обмена контентом с соседними устройствами.</string>
     <string name="tethering_hardware_offload">Ускорение для режима модема</string>
