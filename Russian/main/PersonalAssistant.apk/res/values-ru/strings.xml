@@ -258,8 +258,9 @@
     <string name="app_express_shunfeng_verify_failed">Не удалось проверить контактную информацию. Проверьте правильность введенных последних четырех цифр номера телефона и повторите попытку.</string>
     <string name="app_express_tail_number">Заказ: %1$s</string>
     <string name="app_footer_switcher">Перейти на старую версию</string>
-    <string name="app_health_card_completion">Цель</string>
-    <string name="app_health_card_step">Шаги:</string>
+    <string name="app_health_card_completion">Прогресс:</string>
+    <string name="app_health_card_energy">Калории:</string>
+    <string name="app_health_card_step">Шаги:</string>	
     <string name="app_health_setting_music_name_fire">Камин</string>
     <string name="app_health_setting_music_name_forest">Лес</string>
     <string name="app_health_setting_music_name_night">Летняя ночь</string>
@@ -361,10 +362,10 @@
     <string name="app_pa_setting_version">Версия: %1$s</string>
     <string name="app_screen_time_auth">Время экрана</string>
     <string name="app_screen_time_no_time_title">&lt;1 мин</string>
-    <string name="app_screen_time_support_false">В настоящее время не поддерживается</string>
+    <string name="app_screen_time_support_false">Сервис не поддерживается</string>
     <string name="app_screen_time_time">- %1$d ч. %2$d мин.</string>
     <string name="app_screen_time_time_minute">- %1$d мин.</string>
-    <string name="app_screen_time_title">Время экрана</string>
+    <string name="app_screen_time_title">"Время экрана: "</string>
     <string name="app_setting">Настройки Ассистента</string>
     <string name="app_setting_account">Аккаунты</string>
     <string name="app_setting_account_binding">Добавить</string>
@@ -433,7 +434,7 @@
     <string name="app_suggest_setting_brief">Получать рекомендации для приложений и функций, которыми вы можете воспользоваться</string>
     <string name="app_suggest_setting_brief_detail">Получать рекомендации для приложений и функций, которыми вы можете воспользоваться</string>
     <string name="app_suggest_setting_title">Умные рекомендации</string>
-    <string name="app_sure">Подтвердить</string>
+    <string name="app_sure">ОК</string>
     <string name="app_surround_avg_price">￥%1$s с человека</string>
     <string name="app_surround_card_dislike_tip">Проведите влево, чтобы скрыть</string>
     <string name="app_surround_card_favorite_tip">Проведите вправо, чтобы добавить в избранное</string>
@@ -1403,9 +1404,6 @@ Please send this code to the technician."</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
-    <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
