@@ -199,6 +199,14 @@
         <item quantity="one">&lt;Data>Закрыть &lt;font color=#0099ff>%d&lt;/font> приложение для ускорения устройства?&lt;/Data></item>
         <item quantity="few">&lt;Data>Закрыть &lt;font color=#0099ff>%d&lt;/font> приложения для ускорения устройства?&lt;/Data></item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
+        <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перемотка назад на %d сек.</item>
+        <item quantity="one">Перемотка назад на %d сек.</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d приложений</item>
         <item quantity="one">%d приложение</item>
@@ -663,6 +671,10 @@
     <plurals name="people_million">
         <item quantity="other">Загрузок: %1$d</item>
         <item quantity="one">Загрузок: %1$d</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Устройство будет выключено через %d сек.</item>
+        <item quantity="one">Устройство будет выключено через %d сек.</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">раз</item>

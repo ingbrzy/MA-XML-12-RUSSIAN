@@ -73,6 +73,8 @@
     <string name="feedback_tip_cancel">Данные уведомлений не будут собираться.</string>
     <string name="feedback_tip_msg">Для более точной группировки уведомлений нам необходимо собрать следующие данные: имя приложения, заголовок и описание уведомления, время отправки уведомления. Отправить отзыв?</string>
     <string name="feedback_tip_title">Обратная связь</string>
+    <string name="float_notification_snooze_strategy">Временное скрытие</string>
+    <string name="float_notification_snooze_summary">Проведите вверх по всплывающему уведомлению, чтобы временно скрыть его</string>
     <string name="float_notifications">Всплывающие уведомления</string>
     <string name="float_notifications_short">Всплывающие</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -126,6 +128,10 @@
     <string name="menu_setting_toast_show_in_home">Уведомления от %s не будут группироваться</string>
     <string name="menu_setting_unfold">Важные</string>
     <string name="midnight">Ночь</string>
+    <string name="miui_snooze_always_float">Не скрывать</string>
+    <string name="miui_snooze_cancel">Отмена</string>
+    <string name="miui_snooze_default_time">На %d мин.</string>
+    <string name="miui_snooze_until_unlock_screen">До разблокировки</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>

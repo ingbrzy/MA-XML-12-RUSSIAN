@@ -44,6 +44,14 @@
         <item quantity="one">%1$d день назад</item>
         <item quantity="few">%1$d дня назад</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
+        <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перемотка назад на %d сек.</item>
+        <item quantity="one">Перемотка назад на %d сек.</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>
