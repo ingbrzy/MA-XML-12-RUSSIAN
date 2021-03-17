@@ -157,7 +157,7 @@
     <string name="accessibility_preview_effect_button">Предпросмотр эффекта</string>
     <string name="accessibility_preview_expand">Увеличить</string>
     <string name="accessibility_preview_front">Предпросмотр</string>
-    <string name="accessibility_preview_remote">Удаленный предпросмотр</string>
+    <string name="accessibility_preview_remote">Предпросмотр записи мульткамерной съемки</string>
     <string name="accessibility_preview_select_tip">Позиция: %1$d</string>
     <string name="accessibility_preview_selected">Выбрано</string>
     <string name="accessibility_preview_shrink">Уменьшить</string>
@@ -1521,6 +1521,7 @@
     <string name="pref_custom_feature_layout_title">Режимы камеры</string>
     <string name="pref_custom_shutter_sound_title">Звук затвора</string>
     <string name="pref_custom_tint_title">Цветовая тема</string>
+    <string name="pref_customization_style">Выбор стиля</string>
     <string name="pref_customization_title">Персонализация</string>
     <string name="pref_document_mode">Документы</string>
     <string name="pref_dual_camera_video">Фронтальная и основная</string>
@@ -1564,7 +1565,7 @@
     <string name="pref_module_settings">Режимы</string>
     <string name="pref_more_mode_style_title">Расположение режимов</string>
     <string name="pref_multi_camera_dual_video_front">Передняя камера</string>
-    <string name="pref_multi_camera_dual_video_remote">Удаленная камера</string>
+    <string name="pref_multi_camera_dual_video_remote">Мультикамерная съемка</string>
     <string name="pref_n_s_a">Настройки звука</string>
     <string name="pref_n_s_o_l">Вкл.</string>
     <string name="pref_n_s_o_m">Откл.</string>
@@ -1783,7 +1784,7 @@
     <string name="timer_burst_param_interval">Интервал</string>
     <string name="timer_burst_param_total_count">Количество снимков</string>
     <string name="timer_burst_setting_total_count">Всего: %1$s</string>
-    <string name="timerburst_pressed_hint">Нажмите еще раз, чтобы остановить</string>
+    <string name="timerburst_pressed_hint">Нажмите еще раз для остановки</string>
     <string name="title_snap_double_confirm">Повторное подтверждение</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съемка недоступна при включенном звуковом управлении</string>
     <string name="toast_saving">Сохранение фотографий…</string>
