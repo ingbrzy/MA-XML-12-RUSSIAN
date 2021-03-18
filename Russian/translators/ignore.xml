@@ -2196,6 +2196,7 @@
     <string name="hoar_frost_falls">霜降</string>
     <string name="hoar_frost_falls_tradition">霜降</string>
     <string name="home_indicator">bottom_point</string>
+    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepaperchanged">@string/theme_apply_success</string>
     <string name="hongbao_cancel"> </string>
     <string name="hongbao_message_slogon"> </string>
@@ -3184,6 +3185,10 @@
     <string name="pref_camera_zoom_mode_entryvalue_wide">wide</string>
     <string name="pref_camera_zsl_value_off">off</string>
     <string name="pref_camera_zsl_value_on">on</string>
+    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
+    <string name="pref_data_preload_value_always">ALWAYS</string>
+    <string name="pref_data_preload_value_never">NEVER</string>
+    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_default_popup_alert_value">none</string>
     <string name="pref_exposure_default">0</string>
     <string name="pref_face_beauty_advanced">a:1</string>
@@ -3211,6 +3216,10 @@
     <string name="pref_key_quick_setting">quick_setting_enabled</string>
     <string name="pref_key_tags">current_tags_4</string>
     <string name="pref_key_tracing_on">tracing_on</string>
+    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
+    <string name="pref_link_prefetch_value_always">ALWAYS</string>
+    <string name="pref_link_prefetch_value_never">NEVER</string>
+    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_live_volumekey_function_default">volume</string>
     <string name="pref_mi_front_video_quality_default">6</string>
     <string name="pref_mtk_video_quality_default">10</string>
@@ -3233,6 +3242,10 @@
     <string name="pref_video_focusmode_entryvalue_continuous">continuous-video</string>
     <string name="pref_video_focusmode_entryvalue_default">@string/pref_video_focusmode_entryvalue_continuous</string>
     <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
+    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
+    <string name="pref_video_preload_value_always">ALWAYS</string>
+    <string name="pref_video_preload_value_never">NEVER</string>
+    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_video_quality_1080P">6</string>
     <string name="pref_video_quality_default">6</string>
     <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
@@ -3407,8 +3420,10 @@
     <string name="relationship_cross_check_suggestion">TA称呼我</string>
     <string name="relationship_default_separator_text">的</string>
     <string name="relationship_default_text">我</string>
+    <string name="rename_letter_count">%1$d/150</string>
     <string name="reply_subject_label">Re:</string>
     <string name="required_permissions"> </string>
+    <string name="resAuthority">miuibrowser</string>
     <string name="resolution_300_dpi">300 dpi</string>
     <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>

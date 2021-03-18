@@ -563,6 +563,7 @@
     <string name="debug_jump_title">Переход на страницу</string>
     <string name="debug_mediation_title">Общий тест sdk</string>
     <string name="debug_mode_toast">Режим отладки включен</string>
+    <string name="debug_youtube_in_release">Отладка youtube в релизе</string>
     <string name="deeplink_intrercept_hint">Нажмите всплывающее окно, чтобы открыть приложение</string>
     <string name="deeplink_intrercept_second_hint">Веб-сайт откроет приложение, которое было заблокировано</string>
     <string name="delete">Удалить</string>
@@ -940,6 +941,7 @@ ID:%s
     <string name="go_supermarket_button">Перейти</string>
     <string name="go_supermarket_title">Больше приложений, высокая скорость и экономия трафика в Mi Apps</string>
     <string name="gold_medals">Золотые медали</string>
+    <string name="google_application_id" />
     <string name="google_bookmarks">Google</string>
     <string name="goto_sign_up">Создать аккаунт</string>
     <string name="green_kid_block_request">Доступ к этому сайту ограничен.</string>
@@ -1480,6 +1482,8 @@ ID:%s
     <string name="news_native_see_all">Полная статья</string>
     <string name="next">Далее</string>
     <string name="nf_choose_reason">Опишите проблему</string>
+    <string name="nf_content_gif_label">GIF</string>
+    <string name="nf_content_promo_label">ПРОМО</string>
     <string name="nf_detail_collection">В избранное</string>
     <string name="nf_dislike">Не интересует</string>
     <string name="nf_feed_list_exit_toast">Нажмите еще раз, чтобы закрыть Ленту</string>
@@ -1532,6 +1536,7 @@ ID:%s
     <string name="notif_install_successful">Загрузка завершена</string>
     <string name="notification_category_browser">Браузер</string>
     <string name="notification_category_downloads">Загрузки</string>
+    <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">Общие</string>
     <string name="notification_category_media">Мультимедиа</string>
     <string name="notification_channel_name_local_push">Уведомления браузера</string>
@@ -1949,6 +1954,7 @@ ID:%s
     <string name="push_enable_tips_toast">Push-сообщения включены</string>
     <string name="pwa_app_name">Веб-приложения</string>
     <string name="pwa_hint_added_success">Добавлено</string>
+    <string name="qq_application_id" />
     <string name="qr_code_title">QR-код</string>
     <string name="qr_description">Сканирование QR-кода</string>
     <string name="quicklink_add_last7day">Последние 7 дней</string>
@@ -2238,6 +2244,7 @@ ID:%s
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="source_cancel">X</string>
     <string name="source_dislike">Не нравится</string>
     <string name="source_dislike_not_trans">Не нравится</string>
     <string name="speech_engine_not_install">Речевой движок не установлен</string>
@@ -2351,6 +2358,7 @@ ID:%s
     <string name="support_back_button_label">Назад</string>
     <string name="support_go_back_descirption">Перейти назад</string>
     <string name="support_next_button_label">Далее</string>
+    <string name="support_pwa">PWA</string>
     <string name="support_skip_button_label">Пропустить</string>
     <string name="switchText">ДА</string>
     <string name="switch_proxy_dialog_msg">Обнаружен взлом сети. Используйте встроенное приложение \"Безопасность\" или сообщите об этом оператору связи.</string>
@@ -2463,6 +2471,7 @@ ID:%s
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="twitter_moments">Моменты Twitter</string>
     <string name="type_not_support">Формат файла не поддерживается. Распакуйте и повторите попытку.</string>
     <string name="unSwitchText">НЕТ</string>
     <string name="undo">Отмена</string>
