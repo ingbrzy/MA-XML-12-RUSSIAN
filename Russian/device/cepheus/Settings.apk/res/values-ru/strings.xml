@@ -1772,6 +1772,8 @@
     <string name="codec_low_latency_summary">Минимальная задержка звука в играх и видео при синхронизации</string>
     <string name="codec_low_latency_title">Минимальная задержка</string>
     <string name="codec_low_latency_video_summary">Минимальная задержка звука в играх и видео при синхронизации</string>
+    <string name="codec_low_latency_zmi_summary">Минимальная задержка звука и улучшение звуковых эффектов в играх</string>
+    <string name="codec_low_latency_zmi_title">Минимальная задержка в играх</string>
     <string name="color_black">Черный</string>
     <string name="color_blue">Синий</string>
     <string name="color_calibration_none">Натуральный</string>
@@ -7628,6 +7630,7 @@ UT-интерфейс: %5$s"</string>
     <string name="switch_access_service_on">Переключение доступа</string>
     <string name="switch_bootup_sound">Мелодия загрузки</string>
     <string name="switch_headset_anti_lost">Предупреждение о наушниках</string>
+    <string name="switch_headset_anti_lost_summary">Оповещать, когда один из наушников находится вне уха или зарядного чехла больше минуты</string>
     <string name="switch_headset_anti_lost_title">Предупреждение о наушниках</string>
     <string name="switch_off_text">Откл.</string>
     <string name="switch_on_text">Вкл.</string>
