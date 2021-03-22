@@ -1580,6 +1580,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
     <string name="gamebox_app_not_find">Приложение не найдено</string>
     <string name="gamebox_browser_not_find">Установите сначала Mi Браузер</string>
+    <string name="gamebox_collimator">Коллиматор</string>
     <string name="gamebox_display_1">Нет</string>
     <string name="gamebox_display_2">Насыщенность</string>
     <string name="gamebox_display_3">Яркость</string>
@@ -1608,6 +1609,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_qq_not_find">Установите QQ и повторите попытку.</string>
     <string name="gamebox_recent_task_expand_fail">Приложения для работы с ярлыками не установлены</string>
     <string name="gamebox_simcard">Переключение SIM-карт</string>
+    <string name="gamebox_time">Таймер</string>
     <string name="gamebox_type_close">Не показывать</string>
     <string name="gamebox_type_float">Фиксированная</string>
     <string name="gamebox_type_gesture">Свайп для показа</string>
@@ -1659,6 +1661,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать в игре в момент убийства</string>
     <string name="gb_audition_instruction">Нажмите и удерживайте для записи (%1$s-%2$s сек.)</string>
     <string name="gb_audition_play_instruction">Используйте наушники для лучшего эффекта</string>
+    <string name="gb_collimator_color">Цвет</string>
+    <string name="gb_collimator_size">Размер</string>
+    <string name="gb_collimator_style">Тип</string>
+    <string name="gb_collimator_toast">Коллиматор делает прицеливание намного удобнее</string>
     <string name="gb_create_icon_summary">Создать ярлык на рабочем столе</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Ответить</string>
@@ -1694,6 +1700,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_game_macro_bubble_tips">Попробуйте макросы</string>
     <string name="gb_game_macro_toast_tips">"Попробуйте макросы!
 Записывайте последовательности действий и используйте их в любое время!"</string>
+    <string name="gb_game_time_toast">Таймер уже доступен!</string>
     <string name="gb_game_video_ai_record_finish_tips">AI записи при ускорении игр: %d</string>
     <string name="gb_game_video_bottom_tips">Просматривайте ключевые моменты ваших игровых сессий в Ускорении игр. Записи автоматически удаляются через 7 дней.</string>
     <string name="gb_game_video_item_tag">Ключевые моменты</string>
@@ -1722,6 +1729,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_msg_transparent_dispaly_summary">Прозрачные</string>
     <string name="gb_network_status_bad">Произошла ошибка подключения.</string>
     <string name="gb_new_feature">Новая функция</string>
+    <string name="gb_not_support_on_device">Это приложение не может быть использовано на внешнем экране</string>
     <string name="gb_operat_frequently">Не так быстро!</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
     <string name="gb_shoulder_key">Навесные триггеры</string>
@@ -4529,6 +4537,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_quick_func_screen_record">Запись</string>
     <string name="vb_quick_func_screening">Трансляция</string>
     <string name="vb_settings">Настройки</string>
+    <string name="vb_ve_settings_ai_stronger">ИИ</string>
     <string name="vb_ve_settings_display_style_tips">*Эффекты применяются ко всему экрану</string>
     <string name="vb_ve_settings_pic_border_stronger">Улучшенные контуры</string>
     <string name="vb_ve_settings_picture_stronger">Улучшенная анимация</string>
@@ -4587,6 +4596,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="virus_wait_network_dialog_message">Отсутствует подключение Wi-Fi. Использовать мобильный интернет?</string>
     <string name="voltage_symbol">В</string>
     <string name="vtb_func_desc">О функции</string>
+    <string name="vtb_func_display_style_desc0">ИИ может распознавать на видео и динамически улучшать изображения людей, животных, растения, небо, здания и другие объекты</string>
     <string name="vtb_func_display_style_desc1">Выбранные эффекты не будут применяться к HDR-видео.</string>
     <string name="vtb_func_display_style_desc2">Эти эффекты не могут быть применены к скриншотам.</string>
     <string name="vtb_func_frc_desc0">Сглаживание движения уменьшает размытие и добавляет детали к движущимся объектам. Использование этой функции увеличивает энергопотребление.</string>
