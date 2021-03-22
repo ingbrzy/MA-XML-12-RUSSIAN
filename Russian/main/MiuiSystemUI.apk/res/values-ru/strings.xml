@@ -1029,6 +1029,7 @@
     <string name="fingerprint_try_again_text">Повторите попытку</string>
     <string name="float_incall_ignore">Игнорировать</string>
     <string name="float_incall_message">Сообщение</string>
+    <string name="float_notification_snooze_strategy">Временное скрытие</string>
     <string name="force_allow_on_external">Сохранение на внешних накопителях</string>
     <string name="force_allow_on_external_summary">Разрешить приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
     <string name="force_hw_ui">GPU-ускорение</string>
@@ -1537,6 +1538,15 @@ d MMMM"</string>
     <string name="miui_ringer_total">Не беспокоить</string>
     <string name="miui_ringer_total_description">Отключить звук и вибрацию для всего, кроме будильника</string>
     <string name="miui_screen_rotation_freeze_message">Ориентация экрана зафиксирована в альбомном режиме</string>
+    <string name="miui_snooze_always_float">Не скрывать</string>
+    <string name="miui_snooze_cancel">Отмена</string>
+    <string name="miui_snooze_default_time">На %d мин.</string>
+    <string name="miui_snooze_to_settings">Настройки</string>
+    <string name="miui_snooze_toast_hint_default">"Предстоящие уведомления будут скрыты на %d мин. "</string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">"Предстоящие уведомления будут скрыты до блокировки. "</string>
+    <string name="miui_snooze_until_unlock_screen">До блокировки</string>
+    <string name="miui_snooze_user_set_fail">Дополнительные параметры доступны в Настройки &amp; Уведомления и центр управления</string>
+    <string name="miui_snooze_user_set_success">Применено. Дополнительные параметры доступны в Настройки &amp; Уведомления и центр управления</string>
     <string name="miui_toast_zen_dnd_to_off">Звук и вибрация включены</string>
     <string name="miui_toast_zen_dnd_to_off_version_R">Режим \"Не беспокоить\" отключен. Звук и вибрация включены.</string>
     <string name="miui_toast_zen_standard_to_off">Звуки рингтонов и уведомлений включены</string>

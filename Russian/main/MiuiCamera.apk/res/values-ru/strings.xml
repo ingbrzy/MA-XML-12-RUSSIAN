@@ -562,10 +562,11 @@
     <string name="dialog_button_connect">Подключить</string>
     <string name="dialog_button_disconnect">Отключить</string>
     <string name="dialog_button_exit">Выход</string>
+    <string name="dialog_button_goto">Настройки</string>
     <string name="dialog_button_ok">ОК</string>
     <string name="dialog_button_reject">Отклонить</string>
     <string name="dialog_button_scan">Поиск устройств</string>
-    <string name="dialog_google_lens_option_0">Google Lens (Рекомендуется)</string>
+    <string name="dialog_google_lens_option_0">Google Объектив (рекомендуется)</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_ok_time">ОК (%d сек.)</string>
     <string name="dirty_tip_toast">Объектив загрязнен, протрите его.</string>
@@ -606,10 +607,13 @@
     <string name="dual_camera_too_close_toast">Камера находится слишком близко к объекту</string>
     <string name="dual_camera_use_hint">Убедитесь, что объект расположен не далее 2 метров</string>
     <string name="dual_video_record_merged">Объединенные</string>
+    <string name="dual_video_record_remote">Мультикамерная съемка</string>
     <string name="dual_video_record_standalone">Раздельные</string>
-    <string name="dual_video_user_guide_main_content">Для мультикамерной съемки выберите две камеры на устройстве и снимайте на них одновременно. Записи могут быть сохранены отдельно или объединены в режиме раздельного просмотра или \"картинка в картинке\".</string>
+    <string name="dual_video_user_guide_main_content">Для мультикамерной съемки выберите две камеры и снимайте на них одновременно. Записи могут быть сохранены отдельно или объединены в режиме раздельного просмотра или \"картинка в картинке\".</string>
     <string name="dual_video_user_guide_main_title">Мультикамерная съемка</string>
     <string name="dual_video_user_guide_merge_content">Снимайте двумя камерами одновременно и объединяйте записи в режиме раздельного просмотра или \"картинка в картинке\".</string>
+    <string name="dual_video_user_guide_remote_content">Мультикамерная съемка позволяет объединить видеопотоки с двух устройств в одно видео. На этом устройстве доступен предпросмотр как видеопотоков, так и итогового видео. Звук будет записывать только это устройство</string>
+    <string name="dual_video_user_guide_remote_p">Устройство %d</string>
     <string name="dual_video_user_guide_standalone_content">Снимайте двумя камерами одновременно и сохраняйте обе записи как отдельные видео.</string>
     <string name="edit">Редактировать</string>
     <string name="edit_blusher">Румяна</string>
@@ -701,7 +705,7 @@
     <string name="hine_hht">"При слабом освещении камера сделает несколько снимков,
 а затем создаст снимок с минимальным уровнем шума."</string>
     <string name="hint_ae_af_lock">Автофокус и автоэкспозиция зафиксированы</string>
-    <string name="hint_ae_af_lock_extra">Автофокус и автоэкспозиция зафиксированы. Переключитесь на Google Lens в настройках камеры</string>
+    <string name="hint_ae_af_lock_extra">Автофокус и автоэкспозиция зафиксированы. Переключитесь на Google Объектив в настройках камеры</string>
     <string name="hint_ae_lock">Автоэкспозиция выставлена</string>
     <string name="hint_device_water_mark">Водяной знак будет добавлен автоматически</string>
     <string name="hint_eye_light">Эффекты искры глаз лучше всего работают при включенной вспышке</string>
@@ -1539,9 +1543,9 @@
     <string name="pref_front_mirror_entry_on">Включено</string>
     <string name="pref_front_mirror_label_auto">Авто</string>
     <string name="pref_front_mirror_title">Зеркальный режим</string>
-    <string name="pref_google_lens">Google Lens</string>
+    <string name="pref_google_lens">Google Объектив</string>
     <string name="pref_google_lens_summary">Направьте камеру на контактную информацию, URL-адреса и QR-коды, чтобы просмотреть доступные функции</string>
-    <string name="pref_google_lens_title">Предложения от Google Lens</string>
+    <string name="pref_google_lens_title">Предложения от Google Объектив</string>
     <string name="pref_groupshot_with_primitive_title">Сохранять оригиналы снимков</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">Оптимизация цвета для 4K (HDR10+) и 8K (HDR10) видео. Эта функция работает только на устройствах, совместимых с HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Автоматическая оптимизация цвета и контрастности для 4K и 8K видео. Оптимизированное видео может воспроизведено только на устройствах, совместимых с HDR10</string>
@@ -1552,7 +1556,7 @@
     <string name="pref_histogram_on">Вкл.</string>
     <string name="pref_i_n_r_b">Умное шумоподавление</string>
     <string name="pref_k_h">Активные наушники</string>
-    <string name="pref_k_s_i">Воспроизведение при подключении наушников</string>
+    <string name="pref_k_s_i">Контроль звукозаписи при подключении наушников</string>
     <string name="pref_lens_dirty_detect_summary">Разрешить уведомления о загрязнении объектива</string>
     <string name="pref_lens_dirty_detect_title">Уведомлять о загрязнении объектива</string>
     <string name="pref_live_duration_title">Продолжительность жизни</string>
@@ -1606,6 +1610,7 @@
     <string name="pref_super_night_se_summary">Автоматически переключаться на ночной режим при темном освещении</string>
     <string name="pref_super_night_se_title">Ночной режим</string>
     <string name="pref_userdefine_watermark_title">Пользовательский водяной знак</string>
+    <string name="pref_video_ai_audio_single">Фронтальный звук</string>
     <string name="pref_video_captrue_ability_title">Захват кадра при съемке</string>
     <string name="pref_video_cast_setting_summary">Съемка видео с нескольких устройств одновременно</string>
     <string name="pref_video_cast_setting_title">Мультикамерная съемка</string>
@@ -1667,6 +1672,11 @@
     <string name="pref_watermark_title">Водяной знак</string>
     <string name="pref_wind_denoise_title">Подавление шума ветра</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="prek_b_j_o">Воссоздать эффект стереозвука</string>
+    <string name="prek_b_j_p">Уменьшить влияние ветра на звукозапись</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Звуки от объекта в фокусе усилены</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Звуки позади экрана отфильтрованы</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Аудиозум не работает с внутриушным монитором и внешним микрофоном</string>
     <string name="preparing_sd">Подготовка SD-карты…</string>
     <string name="preview_back_pressed_hint">Нажмите еще раз, чтобы вернуться к предпросмотру</string>
     <string name="pro_color_mode">Продвинутый цветовой режим</string>
@@ -1676,14 +1686,16 @@
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
     <string name="recommend_super_night">Попробуйте ночной режим</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
+    <string name="remote_device_type_phone">Xiaomi</string>
     <string name="remote_online_connecting">Выберите устройство</string>
     <string name="remote_online_disconnect_confirmation">Отменить подключение к %1$s?</string>
     <string name="remote_online_exit_confirmation">Отключить мультикамерную съемку?</string>
     <string name="remote_online_exit_connecting">Отключить устройство и выйти из режима мультикамерной съемки?</string>
     <string name="remote_online_guide">Включите мультикамерную съемку на другом устройстве с помощью переключателя в центре управления.</string>
     <string name="remote_online_interrupted">Отключено. Подключитесь снова, чтобы продолжить.</string>
-    <string name="remote_online_introduction_i">Мультикамерная съемка позволяет объединить видеопотоки с двух устройств в одно видео. На этом устройстве доступны предпросмотр как видеопотоков, так и итогового видео. Звук будет записывать только это устройство.</string>
+    <string name="remote_online_introduction_i">Мультикамерная съемка позволяет объединить видеопотоки с двух устройств в одно видео. На этом устройстве доступен предпросмотр как видеопотоков, так и итогового видео. Звук будет записывать только это устройство.</string>
     <string name="remote_online_introduction_ii">Для работы функции, другое Mi или Redmi устройство должно поддерживать мультикамерную съемку. Функцию можно включить с помощью переключателя в центре управления.</string>
+    <string name="remote_online_permission">Измените разрешение на \"Разрешить в активном режиме\" для возможности мультикамерной съемки</string>
     <string name="remote_online_searching">Поиск устройств…</string>
     <string name="remote_online_service_name">Мультикамерная съемка</string>
     <string name="remote_online_unavailable">Устройства поблизости не найдены</string>

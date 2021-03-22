@@ -969,7 +969,11 @@
     <string name="filter_sky_glow">Сияние</string>
     <string name="filter_sky_haoyue">Луна</string>
     <string name="filter_sky_hint">Отрисовка неба</string>
+    <string name="filter_sky_hongxi">Багрянец</string>
+    <string name="filter_sky_huanxia">Мечта</string>
+    <string name="filter_sky_jiyun">Кучевые облака</string>
     <string name="filter_sky_nimbus">Сияние</string>
+    <string name="filter_sky_nuanyang">Тепло</string>
     <string name="filter_sky_qixia">Рассвет</string>
     <string name="filter_sky_rainbow">Радуга</string>
     <string name="filter_sky_random_download_failed">"Не удалось загрузить. Код ошибки: "</string>
@@ -981,6 +985,9 @@
     <string name="filter_sky_sunset">Закат</string>
     <string name="filter_sky_text_yanhua">Текст</string>
     <string name="filter_sky_twilight">Сумерки</string>
+    <string name="filter_sky_xiaying">Алый</string>
+    <string name="filter_sky_xieyang">Вечер</string>
+    <string name="filter_sky_xiguang">Лучи</string>
     <string name="filter_sky_xingchen">Звезды</string>
     <string name="filter_sky_xinggui">Траектории</string>
     <string name="filter_sky_xinghe">Галактика</string>
@@ -992,6 +999,8 @@
     <string name="filter_sky_yingyue">Полнолуние</string>
     <string name="filter_sky_yinhe">Млечный путь</string>
     <string name="filter_sky_yuhui">Угасающий свет</string>
+    <string name="filter_sky_yunbo">Волны</string>
+    <string name="filter_sky_yunmeng">Фантазия</string>
     <string name="filter_sky_yunxu">Перистые облака</string>
     <string name="filter_texture_shadow">Сумерки</string>
     <string name="finish_create_baby_album_toast">Альбом для \"%s\" создан в Xiaomi Cloud</string>
@@ -1158,6 +1167,7 @@
     <string name="macarons_select_video">Нельзя использовать видео для создания волшебной виньетки</string>
     <string name="magic_add_full">Можно добавить не более %1$d человек</string>
     <string name="magic_background">Фон</string>
+    <string name="magic_bitmap_damaged">Файл изображения поврежден</string>
     <string name="magic_brush">Кисть</string>
     <string name="magic_camera">Камера</string>
     <string name="magic_cancel">Отмена</string>
@@ -1204,6 +1214,7 @@
     <string name="magic_matting_download_sdk_without_wifi_title">Загрузка плагина \"Магия\"</string>
     <string name="magic_matting_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным расходам. Загрузить?</string>
     <string name="magic_matting_download_with_metered_network_title">Мобильный интернет</string>
+    <string name="magic_matting_error_px">Данный размер изображения не поддерживается</string>
     <string name="magic_matting_face_fail">Не удалось обработать</string>
     <string name="magic_matting_load_data_fail">Ошибка загрузки</string>
     <string name="magic_matting_module_finish">Плагин \"Магия\" успешно загружен</string>
@@ -1233,6 +1244,8 @@
     <string name="magic_stroke">Контур</string>
     <string name="magic_typesetting_n">Макет</string>
     <string name="magic_value_exceed">Введенное значение превышает лимит</string>
+    <string name="magic_video_cut_frame">Обработка…</string>
+    <string name="magic_video_cut_frame_back">Нажмите еще раз для отмены</string>
     <string name="magic_video_cut_max">Выберите не более %1$d сек.</string>
     <string name="magic_video_cut_min">Выберите не менее %1$d сек.</string>
     <string name="magic_video_long_press">Нажмите и удерживайте, чтобы добавить</string>
@@ -1436,6 +1449,8 @@
     <string name="need_to_turn_on_sync_first">Включите синхронизацию с облаком</string>
     <string name="need_to_turn_on_wlan">Подключитесь к Wi-Fi</string>
     <string name="network_connected_rescan">Не удалось подключиться к сети</string>
+    <string name="network_message">Для нормальной работы этой функции необходимо подключение к сети. Устройство не подключено к Wi-Fi. Использовать мобильный интернет? Это может привести к дополнительным расходам.</string>
+    <string name="network_title">Подключение к сети</string>
     <string name="new_album_invalid_byte">Имя слишком длинное</string>
     <string name="new_album_invalid_char">Имя альбома не может содержать \"%s\", введите букву или цифру.</string>
     <string name="new_album_invalid_name">Альбом \"%s\" является системным, введите другое имя.</string>
@@ -1513,6 +1528,7 @@
     <string name="operation_failed">Не удалось завершить операцию</string>
     <string name="operation_favorites">Избранные</string>
     <string name="operation_force_top">Закрепить</string>
+    <string name="operation_google_lens">Google Объектив</string>
     <string name="operation_hide">Скрыть</string>
     <string name="operation_hide_time">Скрыть даты</string>
     <string name="operation_in_process">Обработка…</string>
