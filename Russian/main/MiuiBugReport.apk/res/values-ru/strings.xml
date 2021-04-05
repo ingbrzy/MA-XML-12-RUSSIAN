@@ -634,8 +634,8 @@ ID: %s
     <string name="passport_unknow_error">Неизвестная ошибка</string>
     <string name="passport_unknow_host_network_error">Проверьте настройки сети и повторите попытку</string>
     <string name="passport_unknow_network_error">Ошибка сети</string>
-    <string name="passport_user_agreement_link">&lt;Data&gt;"Я прочитал и принимаю&amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; Xiaomi."&lt;/Data&gt;</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;"Я прочитал и принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%4$s\"&gt;Политику конфиденциальности&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">&lt;Data&gt;"Я принимаю&lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt; Xiaomi."&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;"Я прочитал &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%4$s\"&gt;Политику конфиденциальности&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_id_intro">Введите пароль для %1$s</string>
     <string name="passport_v_code_error">Неверный код подтверждения</string>
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>

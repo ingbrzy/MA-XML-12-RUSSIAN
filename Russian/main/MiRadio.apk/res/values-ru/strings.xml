@@ -522,7 +522,7 @@ ID:%s
     <string name="identity">Идентификация</string>
     <string name="impunity_declaration_content">Вы должны прочитать и принять %1$s и %2$s перед использованием этого продукта.</string>
     <string name="impunity_declaration_content_agreement">Пользовательское соглашение</string>
-    <string name="impunity_declaration_content_html">&lt;Data&gt;Перед использованием FM Радио вы должны прочитать и принять &amp;lt;font color=#29b496&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; и &amp;lt;font color=#29b496&amp;gt;&amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;. Для нармальной работы FM Радио также требуется доступ в интернет и доступ к информации о вашем местоположении. Принять?&lt;/Data&gt;</string>
+    <string name="impunity_declaration_content_html">&lt;Data&gt;Перед использованием FM Радио вы должны прочитать и принять &lt;font color=#29b496&gt;&lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt;&lt;/font&gt; и &lt;font color=#29b496&gt;&lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;&lt;/font&gt;. Для нормальной работы FM Радио также требуется доступ в интернет и доступ к информации о вашем местоположении. Принять?&lt;/Data&gt;</string>
     <string name="impunity_declaration_content_online">Вы должны прочитать и принять %1$s и %2$s перед использованием онлайн-контента.</string>
     <string name="impunity_declaration_content_policy">Политика конфиденциальности</string>
     <string name="impunity_declaration_enjoy_now">Запуск</string>
@@ -890,8 +890,8 @@ ID:%s
     <string name="passport_unknow_error">Ошибка сети</string>
     <string name="passport_unknow_host_network_error">Проверьте настройки сети и повторите попытку</string>
     <string name="passport_unknow_network_error">Ошибка сети</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Я прочитал и принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Я прочитал и принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=%4$s&gt;Политику конфиденциальности&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;Xiaomi"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;Я принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Я принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=%4$s&gt;Политику конфиденциальности&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;Xiaomi"</string>
     <string name="passport_user_id_intro">Войти в %1$s</string>
     <string name="passport_v_code_error">Неверный код подтверждения</string>
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
@@ -923,10 +923,10 @@ ID:%s
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="phone_number">Номер телефона</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
-    <string name="play_all">&lt;Data&gt;Play all &amp;lt;font color=#999999&amp;gt;(%1$d)&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-    <string name="play_all_shuffle">&lt;Data&gt;Shuffle all&amp;lt;font color=#999999&amp;gt;(%1$d)&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="play_all">&lt;Data&gt;Play all &lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data&gt;</string>
+    <string name="play_all_shuffle">&lt;Data&gt;Shuffle all&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="play_all_song">Воспроизвести все</string>
-    <string name="play_continue">&lt;Data&gt;Continue playing &amp;lt;font color=#999999&amp;gt;(%1$d)&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="play_continue">&lt;Data&gt;Continue playing &lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="play_error_program_not_find">Этот передача больше недоступна.</string>
     <string name="play_mode_circle">По кругу</string>
     <string name="play_mode_circle_hint">Повторение трека</string>

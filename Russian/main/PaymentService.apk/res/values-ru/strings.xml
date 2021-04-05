@@ -211,7 +211,7 @@ ID:%s
     <string name="mibi_frozen">Заморожен</string>
     <string name="mibi_frozen_prim">Аккаунт заблокирован</string>
     <string name="mibi_frozen_sub">Обнаружена нестандартная активность</string>
-    <string name="mibi_frozen_text">&lt;Data&gt;Ваш аккаунт заморожен. &amp;lt;font color=#33aaff&amp;gt;Свяжитесь с нашей службой поддержки.&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="mibi_frozen_text">&lt;Data&gt;Ваш аккаунт заморожен. &lt;font color=#33aaff&gt;Свяжитесь с нашей службой поддержки.&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="mibi_frozen_text_pad">Ваш аккаунт заморожен. Позвоните 400–100–3399.</string>
     <string name="mibi_get_phone_format_error">Подтвердите номер телефона</string>
     <string name="mibi_get_phone_num_summary">Введите номер телефона, используемый для платежей</string>
@@ -240,7 +240,7 @@ ID:%s
     <string name="mibi_giftcard_used">Использованы</string>
     <string name="mibi_giftcard_vaild_util">действует до %1$s</string>
     <string name="mibi_giftcard_will_expire">Истекает %1$s</string>
-    <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Купон Mi Coin доступен&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="mibi_giftcard_with_num">&lt;Data&gt;&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Купон Mi Coin доступен&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="mibi_header_network_error">Не удалось подключиться к сети.</string>
     <string name="mibi_illegal_intent">Запрос о незаконном умысле</string>
     <string name="mibi_is_what">Что можно купить с Mi Coins?</string>
@@ -254,7 +254,7 @@ ID:%s
     <string name="mibi_memu_refresh">Обновить</string>
     <string name="mibi_menu_feedback">Обратная связь</string>
     <string name="mibi_menu_lock">Добавить блокировку приложения</string>
-    <string name="mibi_menu_qa_feedback">FAQ &amp; Обратная связь</string>
+    <string name="mibi_menu_qa_feedback">FAQ и обратная связь</string>
     <string name="mibi_menu_shotcut">Добавить ярлык на рабочий стол</string>
     <string name="mibi_mipay_error">Ошибка airstar pay</string>
     <string name="mibi_more_operation">Другие операции</string>
@@ -365,7 +365,7 @@ ID:%s
     <string name="mibi_progress_warning_waiting">Платеж еще не пришел на ваш счет.</string>
     <string name="mibi_prompt_info_button_hint">Внимание(%d)</string>
     <string name="mibi_prompt_info_button_text">ОК</string>
-    <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&amp;lt;font color=#ff7700&amp;gt;Mi Coin не может быть использован для покупки аппаратных продуктов на Mi.com.&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
+    <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&lt;font color=#ff7700&gt;Mi Coin не может быть использован для покупки аппаратных продуктов на Mi.com.&lt;/font&gt;"&lt;/Data&gt;</string>
     <string name="mibi_prompt_info_title">Советы</string>
     <string name="mibi_push_register_fail">Ошибка регистрации</string>
     <string name="mibi_push_register_success">Успешная регистрация</string>
@@ -629,8 +629,8 @@ ID:%s
     <string name="passport_use_generated_pwd_message">Убедитесь, что вы запомнили свой пароль. Вы можете использовать его для подключения к другим сервисам Mi.</string>
     <string name="passport_use_generated_pwd_title">Запомните свой пароль</string>
     <string name="passport_user_agreement">Условия использования</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Я прочитал и принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;  Xiaomi.&lt;/Data&gt;"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Я прочитал и принимаю следующие документы Xiaomi: &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%4$s\"&gt;Политика конфиденциальности&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;Я принимаю &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;  Xiaomi.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Я принимаю следующие документы Xiaomi: &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%4$s\"&gt;Политика конфиденциальности&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_agreement_p1">Принять </string>
     <string name="passport_user_agreement_p2">Условия использования</string>
     <string name="passport_user_agreement_p3"> и </string>
