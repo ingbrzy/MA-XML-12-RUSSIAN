@@ -664,6 +664,7 @@
     <string name="charge_length_format">%1$s назад</string>
     <string name="chip_text">Текст</string>
     <string name="chooseUsbActivity">Выберите приложение для устройств USB</string>
+    <string name="choose_clock_dual_clock_hint_text">Включены двойные часы, изменение формата недоступно</string>
     <string name="choose_clock_panel_title">Экран блокировки</string>
     <string name="choose_clock_third_theme_hint_text">Используется экран блокировки из текущей темы</string>
     <string name="choose_clock_title_left_top">Слева</string>
@@ -863,8 +864,8 @@
     <string name="dnd_is_off">Режим \"Не беспокоить\" отключен</string>
     <string name="dnd_notification_warnings_title">Включен режим \"Не беспокоить\". Звук и вибрация отключены.</string>
     <string name="dnd_suppressing_shade_text">Уведомления приостановлены режимом \"Не беспокоить\"</string>
-    <string name="do_disclosure_generic">Это устройство управляется вашей организацией</string>
-    <string name="do_disclosure_with_name">Это устройство управляется %s</string>
+    <string name="do_disclosure_generic">Это устройство принадлежит вашей организации</string>
+    <string name="do_disclosure_with_name">Это устройство принадлежит %s</string>
     <string name="do_not_silence">Показывать со звуком</string>
     <string name="do_not_silence_block">Не блокировать, показывать со звуком</string>
     <string name="dock_alignment_not_charging">Выровняйте телефон для беспроводной зарядки</string>
@@ -883,7 +884,7 @@
     <string name="drive_mode_tip_idle">Режим \"За рулем\"</string>
     <string name="drive_mode_tip_idle_notch">За рулем</string>
     <string name="drive_mode_tip_notch">За рулем</string>
-    <string name="emergency_call_string">Экстренный вызов</string>
+    <string name="emergency_call_string">SOS</string>
     <string name="empty_shade_text">Нет уведомлений</string>
     <string name="empty_title">" "</string>
     <string name="enable_adb">Отладка по USB</string>
@@ -1545,8 +1546,8 @@ d MMMM"</string>
     <string name="miui_snooze_toast_hint_default">"Предстоящие уведомления будут скрыты на %d мин. "</string>
     <string name="miui_snooze_toast_hint_until_unlock_screen">"Предстоящие уведомления будут скрыты до блокировки. "</string>
     <string name="miui_snooze_until_unlock_screen">До блокировки</string>
-    <string name="miui_snooze_user_set_fail">Дополнительные параметры доступны в Настройки &amp; Уведомления и центр управления</string>
-    <string name="miui_snooze_user_set_success">Применено. Дополнительные параметры доступны в Настройки &amp; Уведомления и центр управления</string>
+    <string name="miui_snooze_user_set_fail">Дополнительные параметры доступны в Настройки &gt; Уведомления и центр управления</string>
+    <string name="miui_snooze_user_set_success">Применено. Дополнительные параметры доступны в Настройки &gt; Уведомления и центр управления</string>
     <string name="miui_toast_zen_dnd_to_off">Звук и вибрация включены</string>
     <string name="miui_toast_zen_dnd_to_off_version_R">Режим \"Не беспокоить\" отключен. Звук и вибрация включены.</string>
     <string name="miui_toast_zen_standard_to_off">Звуки рингтонов и уведомлений включены</string>
@@ -2335,6 +2336,7 @@ d MMMM"</string>
     <string name="ssl_ca_cert_warning">Действия в сети
 могут отслеживаться</string>
     <string name="standby_bucket_summary">Приложение в режиме ожидания: %s</string>
+    <string name="start_camera_error_try_again">Не удалось запустить камеру. Повторите попытку.</string>
     <string name="start_dreams">Заставка</string>
     <string name="status_bar">Строка состояния</string>
     <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
