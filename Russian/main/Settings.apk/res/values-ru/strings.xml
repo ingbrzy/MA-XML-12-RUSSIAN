@@ -1255,6 +1255,11 @@
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Число аудиоустройств</string>
     <string name="bluetooth_max_connected_audio_devices_string">Число Bluetooth аудиоустройств</string>
     <string name="bluetooth_menu_advanced">Дополнительно</string>
+    <string name="bluetooth_message_access_dialog_content">"Недоверенное устройство Bluetooth (%1$s) запрашивает доступ к сообщениям.
+
+%2$s ранее не подключалось."</string>
+    <string name="bluetooth_message_access_dialog_title">Разрешить доступ к сообщениям?</string>
+    <string name="bluetooth_message_access_notification_content">Недоверенное устройство запрашивает доступ к сообщениям. Нажмите для подробностей.</string>
     <string name="bluetooth_message_move_out_of_blacklist">Удалить %1$s из списка заблокированных устройств?</string>
     <string name="bluetooth_mi_fast_connect">Сопряжение с устройствами</string>
     <string name="bluetooth_mi_fast_connect_summary">Подключать совместимые устройства поблизости упрощенным способом</string>
@@ -1299,6 +1304,11 @@
     <string name="bluetooth_pan_user_profile_summary_connected">Используется интернет-подключение другого устройства</string>
     <string name="bluetooth_pb_acceptance_dialog_text">Устройство %1$s запрашивает доступ к вашим контактам и журналу вызовов. Разрешить доступ для %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"Недоверенное устройство Bluetooth (%1$s) запрашивает доступ к контактам и журналу вызовов.
+
+%2$s ранее не подключалось."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Разрешить доступ к контактам и журналу вызовов?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Недоверенное устройство запрашивает доступ к контактам и журналу. Нажмите для подробностей.</string>
     <string name="bluetooth_phonebook_request">Запрос на доступ к списку контактов</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Должно быть 16 цифр</string>
@@ -4484,6 +4494,8 @@
     <string name="max_fingerprint_number_reached">Можно добавить не более 5 отпечатков. Для добавления нового отпечатка удалите один из существующих.</string>
     <string name="max_fingerprint_reached_toast">Можно добавить не более 5 отпечатков.</string>
     <string name="maximum_memory_use">Макс. объем исп. памяти</string>
+    <string name="mechanical_ime">Механическая клавиатура</string>
+    <string name="mechanical_ime_hint">Поддерживается только клавиатура Xiaomi</string>
     <string name="media_button">Кнопка мультимедиа</string>
     <string name="media_category">Мультимедиа</string>
     <string name="media_feedback_enable_title">Вибрировать с ударными</string>
@@ -9289,6 +9301,8 @@ UT-интерфейс: %5$s"</string>
     <string name="xiaomi_cloud_service_disabled">Откл.</string>
     <string name="xiaomi_cloud_service_unknown">Неизвестно</string>
     <string name="xiaomi_custom_input_method">Настроен для Xiaomi</string>
+    <string name="xiaomi_hp_location">Точное местоположение</string>
+    <string name="xiaomi_hp_location_description">Информация о точном местоположении обеспечивает корректную навигацию</string>
     <string name="xiaomi_lanting_title">MiLan Pro</string>
     <string name="xiaomi_money_service">Центр Mi Credits</string>
     <string name="xiaomi_router_available_notif_summary">Нажмите для просмотра.</string>

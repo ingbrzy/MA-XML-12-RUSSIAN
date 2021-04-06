@@ -878,6 +878,8 @@
     <string name="toast_updater_open_4g_text">Обновление через мобильный интернет (4G) включено</string>
     <string name="total_clean">Всего очищено: %s</string>
     <string name="total_clean_text">Очистить</string>
+    <string name="unit_gb">%s ГБ</string>
+    <string name="unit_mb">%s МБ</string>
     <string name="unlike">Нет, спасибо</string>
     <string name="update_date_format">dd.MM.yyyy</string>
     <string name="v7_preference_off">ОТКЛ.</string>
@@ -943,6 +945,7 @@
     <string name="wechat_qq_deep_clean_button_text">Глубокая очистка</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
     <string name="whatsapp_btn_quick_cleanup">Удалить выбранные объекты (%s)</string>
+    <string name="whatsapp_cache_clear">Очистка кеша…</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Продолжить</string>
     <string name="whatsapp_clean_exit_confirm_msg">Проверка WhatsApp не завершена. Остановить проверку и выйти?</string>
     <string name="whatsapp_clean_exit_confirm_ok">Остановить</string>
@@ -952,6 +955,10 @@
     <string name="whatsapp_delete_confirm_message">Удалить объекты?</string>
     <string name="whatsapp_delete_confirm_ok">OK</string>
     <string name="whatsapp_delete_done">Завершить</string>
+    <string name="whatsapp_detail_cache_result">Очищено %s</string>
+    <string name="whatsapp_detail_sort_created">По дате</string>
+    <string name="whatsapp_file_recv">Полученные</string>
+    <string name="whatsapp_file_send">Отправленные</string>
     <string name="whatsapp_file_show_order">Сегодня</string>
     <string name="whatsapp_function_summery">Очистка вложений WhatsApp</string>
     <string name="whatsapp_function_title">Очистка WhatsApp</string>
