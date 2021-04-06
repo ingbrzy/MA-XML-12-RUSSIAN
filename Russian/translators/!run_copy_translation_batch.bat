@@ -43,6 +43,7 @@ call run_copy_translation.bat %1 imssettings
 call run_copy_translation.bat %1 InCallUI
 call run_copy_translation.bat %1 Joyose
 call run_copy_translation.bat %1 ManagedProvisioning
+call run_copy_translation.bat %1 MediaFeature
 call run_copy_translation.bat %1 MediaProvider
 call run_copy_translation.bat %1 MiBrowserGlobal
 call run_copy_translation.bat %1 MiCloudSync
