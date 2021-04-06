@@ -635,6 +635,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clock_alarm">Будильник</string>
     <string name="clock_parent">Часы</string>
+    <string name="close">Закрыть</string>
     <string name="closed">Закрыто</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="commute">Рекомендации карты</string>
@@ -698,6 +699,7 @@
     <string name="data_error">Произошла ошибка, повторите попытку позже</string>
     <string name="data_error_show">Заказ выполнен, не удалось отобразить сведения</string>
     <string name="date_picker_lunar">Лунный календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="debug_card_brief">Настройки и инструменты отладки</string>
     <string name="debug_card_detail">Настройки и инструменты отладки</string>
     <string name="debug_card_title">Отладка</string>
@@ -1406,10 +1408,13 @@ Please send this code to the technician."</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -1677,6 +1682,7 @@ Please send this code to the technician."</string>
     <string name="search_category_video">Видео</string>
     <string name="search_change_header">Заменить обложку</string>
     <string name="search_clear_header">Удалить обложку</string>
+    <string name="search_header_dialog_title">Изменить фон</string>
     <string name="search_hint">Поиск в Избранном</string>
     <string name="search_label">Поиск…</string>
     <string name="search_menu_title">Поиск</string>
@@ -1684,6 +1690,7 @@ Please send this code to the technician."</string>
     <string name="search_tip">Поиск…</string>
     <string name="security">Безопасность</string>
     <string name="selected_shortcuts_title">Начальная страница</string>
+    <string name="send">Отправить</string>
     <string name="send_action_title">Добавить в избранное</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="send_express">Экспресс доставка</string>

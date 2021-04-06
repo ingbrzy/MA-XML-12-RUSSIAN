@@ -217,6 +217,8 @@
     <string name="assistant_page_label">Истории</string>
     <string name="assistant_page_server_error">Проверьте настройки сети</string>
     <string name="associate_face_album">Выбрать альбом</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="authorize_to_device_failed">Не удалось авторизоваться</string>
     <string name="authorize_watch_on_tv_failed">Не удалось авторизоваться</string>
     <string name="auto_backup_introduce">Автоматическая синхронизация фото и видео (требуется Mi Аккаунт)</string>
@@ -571,6 +573,7 @@
     <string name="custom_select_title_select_all">Выбрать все</string>
     <string name="custom_select_title_select_item">Выбор</string>
     <string name="date_picker_lunar">Традиционный китайский календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="datetimepicker_dialog_title">Редактирование времени</string>
     <string name="datetimepicker_updatetime_failed">"Не удалось изменить время"</string>
     <string name="datetimepicker_updatetime_success">Время успешно изменено</string>
@@ -992,12 +995,14 @@
     <string name="filter_sky_xinggui">Траектории</string>
     <string name="filter_sky_xinghe">Галактика</string>
     <string name="filter_sky_xingji">Звездный путь</string>
+    <string name="filter_sky_xingye">Звездная ночь</string>
     <string name="filter_sky_xizhao">Заря</string>
     <string name="filter_sky_xuanguang">Северное сияние</string>
     <string name="filter_sky_xuanyue">Полумесяц</string>
     <string name="filter_sky_yingxia">Утро</string>
     <string name="filter_sky_yingyue">Полнолуние</string>
     <string name="filter_sky_yinhe">Млечный путь</string>
+    <string name="filter_sky_youyue">Темная луна</string>
     <string name="filter_sky_yuhui">Угасающий свет</string>
     <string name="filter_sky_yunbo">Волны</string>
     <string name="filter_sky_yunmeng">Фантазия</string>
@@ -1049,6 +1054,8 @@
     <string name="help">Не можете найти устройство?</string>
     <string name="help_content">Если вы не можете найти нужное устройство, попросите другого человека включить Mi Share.</string>
     <string name="hidden_album_display_name">Скрытый альбом</string>
+    <string name="hisense">Hisense</string>
+    <string name="hisense_phone">Hisense</string>
     <string name="home_menu_art_still">Арт</string>
     <string name="home_menu_cleaner">Очистка</string>
     <string name="home_menu_collage">Коллаж</string>
@@ -1060,6 +1067,12 @@
     <string name="home_menu_video_post">Видеоэффекты</string>
     <string name="home_page_empty_action">Сделать фото</string>
     <string name="home_page_label">Фото</string>
+    <string name="homepage_allphotos_tip_dialog_button_negative">Пропустить</string>
+    <string name="homepage_allphotos_tip_dialog_button_positive">ОК</string>
+    <string name="homepage_allphotos_tip_dialog_description_all">Все</string>
+    <string name="homepage_allphotos_tip_dialog_description_only_camera">Только с камеры</string>
+    <string name="homepage_allphotos_tip_dialog_subtitle">Вы можете изменить в настройках позже.</string>
+    <string name="homepage_allphotos_tip_dialog_title">Какие изображения хотите видеть в альбоме \"Фото\"?</string>
     <string name="how_to_set_relation">Нажмите и удерживайте альбом для создания группы</string>
     <string name="hr_preview_108m">Предпросмотр 108MP</string>
     <string name="hybrid_check_network">Настройки сети</string>
@@ -1067,6 +1080,7 @@
     <string name="hybrid_locating_fail">Не удалось определить местоположение</string>
     <string name="hybrid_network_access_denied">В доступе к сети отказано</string>
     <string name="hybrid_network_unavaliable">Не удалось подключиться к сети</string>
+    <string name="hybrid_provider">Предоставлено %1$s</string>
     <string name="hybrid_pull_to_refresh_pull_label">Потяните вниз для обновления…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Подождите…</string>
     <string name="hybrid_pull_to_refresh_release_label">Отпустите для обновления…</string>
@@ -1293,6 +1307,9 @@
     <string name="merge_album">Объединить</string>
     <string name="merge_album_title">Объединить с человеком</string>
     <string name="messagelist_sender_self">Я</string>
+    <string name="mi_10i">Mi 10I</string>
+    <string name="mi_10t">Mi 10T</string>
+    <string name="mi_10t_lite">Mi 10T Lite</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -1311,10 +1328,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -1444,6 +1464,7 @@
     <string name="multi_view_tip_title">Увеличение и уменьшение</string>
     <string name="must_pick_file">Выберите фото</string>
     <string name="name_split">, </string>
+    <string name="nearby_share">Nearby Share</string>
     <string name="need_to_turn_on_network">Нет подключения к интернету</string>
     <string name="need_to_turn_on_sync">Включите синхронизацию с облаком</string>
     <string name="need_to_turn_on_sync_first">Включите синхронизацию с облаком</string>
@@ -1463,6 +1484,7 @@
     <string name="no">Нет</string>
     <string name="no_ignore_faces">Нет пропущенных фото</string>
     <string name="no_map_app">Нет приложения для выполнения этого действия</string>
+    <string name="no_network">Не удалось подключиться к сети</string>
     <string name="no_network_connect">Не удалось завершить. Проверьте настройки сети и повторите попытку.</string>
     <string name="no_network_connected">Интернет недоступен</string>
     <string name="noon">Полдень</string>
@@ -1472,6 +1494,8 @@
     <string name="not_remind_any_more">Больше не показывать</string>
     <string name="not_set">Не задано</string>
     <string name="notice_click_lock_orientation">Нажмите, чтобы заблокировать ориентацию</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="ocr_abnormal">Не удалось распознать текст</string>
     <string name="ocr_abnormal_pic_format">Не удалось распознать текст. Этот формат изображения не поддерживается.</string>
     <string name="ocr_abnormal_pic_too_large">Не удалось распознать текст. Это изображение слишком большое.</string>
@@ -1485,6 +1509,7 @@
     <string name="ocr_ongoing">Распознавание текста…</string>
     <string name="ocr_revise">Просмотреть</string>
     <string name="ocr_save_to_note">Сохранить</string>
+    <string name="ocr_save_to_note_new">Сохранить в Заметки</string>
     <string name="ocr_send">Отправить</string>
     <string name="ocr_text_copied">Успешно скопировано</string>
     <string name="ocr_title">Результат</string>
@@ -1865,6 +1890,8 @@
     <string name="redmi_k20_pro">Redmi K20 Pro</string>
     <string name="redmi_k30">Redmi K30</string>
     <string name="redmi_k30_5g">Redmi K30 5G</string>
+    <string name="redmi_k30_ultra">Redmi K30 Ultra</string>
+    <string name="redmi_k30s">Redmi K30S Ultra</string>
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
     <string name="redmi_note_7">Redmi Note 7</string>
@@ -1937,6 +1964,8 @@
     <string name="risk_control_deleted_message">Кто-то удалил некоторые файлы из Галереи в облаке, используя %3$s на %1$s в %2$s. Это были вы?</string>
     <string name="risk_control_deleted_time">HH:mm</string>
     <string name="risk_control_deleted_title">Предупреждение безопасности</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="rubbish_album_move_to_other_album_success">Вы можете найти эти файлы в альбоме \"Другие\".</string>
     <string name="rubbish_nomedia_manager_button_text">Альбомы с файлами \".nomedia\"</string>
     <string name="runtime_permission_ungranted">Невозможно использовать Галерею без необходимых разрешений</string>
@@ -2048,6 +2077,7 @@
     <string name="select_image_operation">Добавление фото</string>
     <string name="select_item_face">"Это '%s'?"</string>
     <string name="select_origin_tip">Оригинал (%s)</string>
+    <string name="send">Отправить</string>
     <string name="send_file_beautify_failed">Не удалось отправить</string>
     <string name="send_files_by">Отправить через</string>
     <string name="send_files_to">Отправить</string>
@@ -2097,6 +2127,12 @@
     <string name="signature_view_max_signature_limit_string">Удалите старые файлы перед добавлением новых</string>
     <string name="signature_view_signature_with_finger">Подписать</string>
     <string name="similar_keep_clear">Оставить лучшие снимки</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="sky_dynamic">Динамичное</string>
     <string name="sky_night">Вечер</string>
     <string name="sky_nocturne">Ночь</string>
@@ -2121,6 +2157,8 @@
     <string name="slim_space">освобождено</string>
     <string name="slim_stop">Остановить</string>
     <string name="slow_motion_enter"/>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -2335,6 +2373,9 @@
     <string name="to_enable_sync_dialog_message">Включите синхронизацию с Xiaomi Cloud</string>
     <string name="to_enable_sync_dialog_positive_button_text">Настройки</string>
     <string name="to_enable_sync_dialog_title">Синхронизация</string>
+    <string name="toast_download_with_metered_network_btn_continue">Загрузить</string>
+    <string name="toast_download_with_metered_network_msg">Устройство не подключено к Wi-Fi. Использовать мобильный интернет?</string>
+    <string name="toast_download_with_metered_network_title">Мобильный интернет</string>
     <string name="toast_invalid_char">Имя файла не может содержать \"%s\"</string>
     <string name="toast_invalid_prefix">Имя файла не может начинаться с \".\" или \"_\"</string>
     <string name="toast_orientation_locked">Автоповорот выключен</string>
@@ -2608,6 +2649,7 @@
     <string name="vlog_download_with_metered_network_title">Мобильный интернет</string>
     <string name="vlog_downloading_cloud_file">Загрузка файлов из облака…</string>
     <string name="vlog_end_of_film">Закрытие</string>
+    <string name="vlog_estimated_size_x">≈%d МБ</string>
     <string name="vlog_exit_ddit_message">Если вы выйдете сейчас, все изменения будут потеряны. Выйти?</string>
     <string name="vlog_exit_edit_title">Выход из редактора</string>
     <string name="vlog_exit_message">Все несохраненные изменения будут потеряны. Отменить?</string>
@@ -2647,6 +2689,7 @@
     <string name="vlog_load_data_fail">Не удалось загрузить данные</string>
     <string name="vlog_mi_clip">Видеоредактор</string>
     <string name="vlog_mi_clip_cn">Видеоредактор</string>
+    <string name="vlog_min_resolution_hint">Текущее разрешение самое низкое из доступных</string>
     <string name="vlog_nav_title_audio">Аудио</string>
     <string name="vlog_nav_title_caption">Субтитры</string>
     <string name="vlog_nav_title_clip">Редактор</string>
@@ -2659,6 +2702,7 @@
     <string name="vlog_ratio_choose">Соотношение сторон</string>
     <string name="vlog_ratio_fullsize">Полноэкранное</string>
     <string name="vlog_ratio_original">Исходное</string>
+    <string name="vlog_resolution_origin">Исходное разрешение</string>
     <string name="vlog_reverse_dialog_cancel">Отменить</string>
     <string name="vlog_reverse_dialog_msg">Обратное воспроизведение…</string>
     <string name="vlog_reverse_fail">Ошибка воспроизведения</string>
@@ -2708,6 +2752,9 @@
     <string name="vlog_video_trans_code_cons">Обработка файла высокого разрешения…</string>
     <string name="voice_assistant">Голосовой ввод</string>
     <string name="watch_all_photo">Галерея</string>
+    <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
+    <string name="web_sso_login_message">Авторизация…</string>
+    <string name="webview_reload">Повторить</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
@@ -2719,6 +2766,8 @@
     <string name="xiaomi_10_lite">Mi 10 Lite</string>
     <string name="xiaomi_10_lite_5g">Mi 10 Lite 5G</string>
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
+    <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
+    <string name="xiaomi_11">Mi 11</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -2744,11 +2793,15 @@
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="xiaomi_poco_m2">POCO M2</string>
     <string name="xiaomi_poco_m2_pro">POCO M2 Pro</string>
+    <string name="xiaomi_poco_x3">POCO X3</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
     <string name="you_are">Вы в детстве</string>
     <string name="yuzhitiaojie">Настройка толщины</string>
     <string name="zi_ding_yi_wenben">Пользовательская</string>
     <string name="zman_title">Безопасный обмен</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>
