@@ -2098,7 +2098,7 @@
     <string name="custom_gesture_title">Выбор жестов</string>
     <string name="custom_wifi_name_title">Сеть Wi-Fi</string>
     <string name="customize_function">Доступные шаблоны</string>
-    <string name="customize_knock_gesture">Пользовательские жесты суставом пальца</string>
+    <string name="customize_knock_gesture">Пользовательские жесты костяшкой</string>
     <string name="cutout_mode_always">Всегда показывать</string>
     <string name="cutout_mode_default">Автоматически</string>
     <string name="cutout_mode_settings_title">Некоторые приложения могут отображаться неправильно в случае изменения способа отображения выреза.</string>
@@ -2661,7 +2661,7 @@
     <string name="done_button">Готово</string>
     <string name="double_click_power_key">Двойное нажатие \"Питание\"</string>
     <string name="double_click_volume_down_when_lock">Двойное нажатие \"Уменьшение громкости\"</string>
-    <string name="double_knock">Двойное касание суставом пальца</string>
+    <string name="double_knock">Двойное касание костяшкой</string>
     <string name="double_tap_power_for_camera_suggestion_title">Быстрый доступ к камере</string>
     <string name="double_tap_power_for_camera_summary">Включение камеры двойным нажатием кнопки питания в любом приложении</string>
     <string name="double_tap_power_for_camera_title">Быстрый доступ к камере</string>
@@ -3311,7 +3311,7 @@
     <string name="gesture_setting_off">Выкл.</string>
     <string name="gesture_setting_on">Вкл.</string>
     <string name="gesture_settings_activity_title">Настройки жестов</string>
-    <string name="gesture_settings_title">Функции кнопок и жестов</string>
+    <string name="gesture_settings_title">Функции жестов и кнопок</string>
     <string name="gesture_wakeup_summary">Включение и выключение экрана двойным касанием. Работает только со стандартным экраном блокировки</string>
     <string name="gesture_wakeup_title">Двойное касание</string>
     <string name="getConfiguredNetworks">Конфигурация сетей</string>
@@ -3808,7 +3808,7 @@
     <string name="key_position_cat">Положение кнопок</string>
     <string name="key_settings">Кнопки и жесты</string>
     <string name="key_settings_title">Кнопки и жесты</string>
-    <string name="key_shortcut_settings_title">Кнопки и жесты</string>
+    <string name="key_shortcut_settings_title">Функции кнопок</string>
     <string name="key_system_control">Управление системой</string>
     <string name="keyboard_and_input_methods_category">Клавиатура и способы ввода</string>
     <string name="keyboard_assistance_category">Подсказки клавиатуры</string>
@@ -3956,11 +3956,11 @@
     <string name="knock_guide_launch_desc">Запуск Mi AI, когда устройство лежит экраном вверх</string>
     <string name="knock_guide_set_screenshot">Скриншот</string>
     <string name="knock_guide_set_voiceassist">Mi AI</string>
-    <string name="knock_guide_sub_title">Вы можете запустить Mi AI или сделать скриншот нажатием на экран суставом пальца</string>
-    <string name="knock_guide_title">Двойное касание суставом пальца</string>
-    <string name="knock_long_press_horizontal_slid">Нажмите и проведите горизонтально суставом пальца</string>
-    <string name="knock_slide_shape">Нарисуйте окружность суставом пальца</string>
-    <string name="knock_slide_v">Нарисуйте \"V\" суставом пальца</string>
+    <string name="knock_guide_sub_title">Вы можете запустить Mi AI или сделать скриншот костяшкой</string>
+    <string name="knock_guide_title">Двойное касание костяшкой</string>
+    <string name="knock_long_press_horizontal_slid">Нажмите и проведите горизонтально костяшкой</string>
+    <string name="knock_slide_shape">Нарисуйте окружность костяшкой</string>
+    <string name="knock_slide_v">Нарисуйте \"V\" костяшкой</string>
     <string name="label_available">Доступные сети</string>
     <string name="label_mi_stats">Mi аналитика</string>
     <string name="language_and_input_for_work_category_title">Клавиатура и инструменты</string>
@@ -7771,7 +7771,7 @@ UT-интерфейс: %5$s"</string>
     <string name="theme_settings_title">Темы</string>
     <string name="thememanager_not_found">Не удалось открыть Темы. Убедитесь, что приложение установлено.</string>
     <string name="three_gesture_down">Проведите тремя пальцами вниз</string>
-    <string name="three_gesture_long_press">Нажмите и удерживайте %d пальцами</string>
+    <string name="three_gesture_long_press">Нажмите %d пальцами и удерживайте</string>
     <string name="time_format_category_title">Формат времени</string>
     <string name="time_picker_title">Время</string>
     <string name="time_spent_in_app_pref_title">Время экрана</string>
