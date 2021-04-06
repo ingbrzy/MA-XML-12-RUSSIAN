@@ -537,6 +537,8 @@
     <string name="call_barring_sum">Настройки запрета голосовых вызовов</string>
     <string name="call_category">Вызовы</string>
     <string name="call_description_recording">Запись…</string>
+    <string name="call_fold_setting">Сворачивание и разворачивание</string>
+    <string name="call_fold_setting_title">Сворачивание и разворачивание</string>
     <string name="call_forward_option">Переадресация вызовов</string>
     <string name="call_forwarding_number_hint">Переадресовывать вызовы на</string>
     <string name="call_forwarding_settings">Переадресация вызовов</string>
@@ -1093,6 +1095,8 @@
     <string name="fiveg_upperlayer_indication1">Состояние индикации верхнего уровня :</string>
     <string name="flash_when_ring_summary">Использовать вспышку для уведомления о входящих вызовах</string>
     <string name="flash_when_ring_title">Вспышка при звонке</string>
+    <string name="fold_answer_pref_summary">Сверните устройство для приема входящего вызова автоматически</string>
+    <string name="fold_answer_pref_title">Сверните для приема вызова</string>
     <string name="forbidden_network">(доступ запрещен)</string>
     <string name="force_allow_on_external">Разрешить сохранение на внешние накопители</string>
     <string name="force_allow_on_external_summary">Разрешить сохранение приложений на внешних накопителях (независимо от значений в манифесте)</string>
@@ -2424,6 +2428,10 @@ UT-интерфейс: %5$s"</string>
     <string name="turnover_mute_summary">Если звонящий телефон лежит экраном вверх, переверните его экраном вниз для отключения звонка, вибрации и световых сигналов</string>
     <string name="turnover_mute_title">Отключать звонок при переворачивании</string>
     <string name="undefined">Нет</string>
+    <string name="unfold_close_camera_pref_summary">Разверните устройство во время видеовызова для выключения камеры</string>
+    <string name="unfold_close_camera_pref_title">Разверните для выключения камеры</string>
+    <string name="unfold_speaker_pref_summary">Разверните устройство во время вызова для включения динамика</string>
+    <string name="unfold_speaker_pref_title">Разверните для включения динамика</string>
     <string name="unknown">Неизвестный абонент</string>
     <string name="unlock_chances_left">"Осталось попыток: "</string>
     <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
