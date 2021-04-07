@@ -268,9 +268,9 @@
     <string name="data_source_data_updating">Обновление данных…</string>
     <string name="data_source_list_description">Приложение Здоровье получает данные о состоянии здоровья (%1$s) из этих источников. Если данные дублируются из нескольких источников, будут отображаться данные, которые появляются первыми.</string>
     <string name="data_source_manage">Управление источниками данных</string>
-    <string name="data_source_not_support_hm_description">"%1$s не предоставляет данные о количестве шагов. Попробуйте другой источник данных в Настройки&gt; Источники данных."</string>
-    <string name="data_source_not_support_hm_description_consume">Выбранный источник данных (%1$s) не содержит подробных данных о потреблении. Вы можете выбрать другой источник данных в Настройки&gt; Источники данных.</string>
-    <string name="data_source_not_support_hm_description_duration">Выбранный источник данных (%1$s) не содержит сведений о продолжительности активности. Вы можете выбрать другой источник данных в Настройки&gt; Источники данных.</string>
+    <string name="data_source_not_support_hm_description">"%1$s не предоставляет данные о количестве шагов. Попробуйте другой источник данных в Настройки > Источники данных."</string>
+    <string name="data_source_not_support_hm_description_consume">Выбранный источник данных (%1$s) не содержит подробных данных о потреблении. Вы можете выбрать другой источник данных в Настройки > Источники данных.</string>
+    <string name="data_source_not_support_hm_description_duration">Выбранный источник данных (%1$s) не содержит сведений о продолжительности активности. Вы можете выбрать другой источник данных в Настройки > Источники данных.</string>
     <string name="date">Дата</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
@@ -449,11 +449,11 @@ ID:%s
     <string name="exercise_correct">Корректно</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве калорий.
-Вы можете выбрать другой источник данных в Настройки &gt; Источники данных."</string>
+Вы можете выбрать другой источник данных в Настройки > Источники данных."</string>
     <string name="exercise_detail_no_exercise_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о длительности упражнения.
-Вы можете выбрать другой источник данных в Настройки &gt; Источники данных."</string>
+Вы можете выбрать другой источник данных в Настройки > Источники данных."</string>
     <string name="exercise_detail_no_steps_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве шагов.
-Вы можете выбрать другой источник данных в Настройки &gt; Источники данных."</string>
+Вы можете выбрать другой источник данных в Настройки > Источники данных."</string>
     <string name="exercise_duration">Длительность</string>
     <string name="exercise_duration_consume">Длительность: %1$s | Сожжено: %2$s</string>
     <string name="exercise_fast_description">%1$s (%2$s)</string>
@@ -468,12 +468,12 @@ ID:%s
     <string name="exercise_intensity">Интенсивность</string>
     <string name="exercise_motor_perception">Отслеживать тренировки автоматически</string>
     <string name="exercise_motor_perception_description">Носите с собой устройство в течение дня, чтобы автоматически отслеживать тренировки</string>
-    <string name="exercise_no_question">"Почему вы не видите свою статистику?"</string>
+    <string name="exercise_no_question">Почему вы не видите свою статистику?</string>
     <string name="exercise_notification_content">%1$d мин. упражнения (%2$d Кал)</string>
-    <string name="exercise_notification_meet_title">"Шаги сегодня: %d. Цель достигнута!"</string>
-    <string name="exercise_notification_no_meet_title">"Шаги сегодня: %d. Продолжайте двигаться, чтобы достичь цели!"</string>
+    <string name="exercise_notification_meet_title">Шаги сегодня: %d. Цель достигнута!</string>
+    <string name="exercise_notification_no_meet_title">Шаги сегодня: %d. Продолжайте двигаться, чтобы достичь цели!</string>
     <string name="exercise_question_answer_one">"1. Некоторые модели устройств не оснащены датчиками с низким энергопотреблением. Приложение Здоровье не отслеживает данные активности для экономии заряда аккумулятора на следующих устройствах: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
-Если ваше устройство указано здесь, вы можете добавить источники данных вручную в меню Источники данных &gt; Добавить источник данных."</string>
+Если ваше устройство указано здесь, вы можете добавить источники данных вручную в меню Источники данных > Добавить источник данных."</string>
     <string name="exercise_question_answer_two">2. Иногда датчики движения могут не подключаться. Перезагрузите телефон и проверьте, нормально ли работает отслеживание в данных случаях.</string>
     <string name="exercise_question_title">Почему вы не видите свою статистику?</string>
     <string name="exercise_recog_confirm" formatted="false">%3s между %1s-%2s?</string>
@@ -575,7 +575,7 @@ ID:%s
     <string name="gps_unauthorized">Требуются разрешение для GPS</string>
     <string name="gps_unopened">GPS отключен</string>
     <string name="group">Циклы</string>
-    <string name="guide_data_cloud_sync_tip">Можно отключить синхронизацию в Настройки &gt; Облачные сервисы.</string>
+    <string name="guide_data_cloud_sync_tip">Можно отключить синхронизацию в Настройки > Облачные сервисы.</string>
     <string name="guide_exit">Выход</string>
     <string name="guide_exit_description">Мы не предоставляем услуги людям моложе 14 лет. Убедитесь, что вы используете это устройство с разрешения вашего законного опекуна. Нажмите кнопку ниже, чтобы выйти из приложения.</string>
     <string name="guide_exit_title">Вы сможете начать пользоваться приложением когда исполнится 14 лет</string>
@@ -1205,7 +1205,7 @@ ID:%s
     <string name="share_card_key_groups">Интервалы</string>
     <string name="share_card_key_step">Шаги</string>
     <string name="share_card_key_time">Длительность</string>
-    <string name="share_card_title_climbing">Climbing %s</string>
+    <string name="share_card_title_climbing">Восхождение %s</string>
     <string name="share_card_title_cross_hiking">Хайкинг %s</string>
     <string name="share_card_title_elliptical_trainer">Эллипсоид</string>
     <string name="share_card_title_free_training">Тренировка</string>

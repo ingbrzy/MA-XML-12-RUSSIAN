@@ -679,7 +679,7 @@
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">раз</item>
         <item quantity="one">раз</item>
-        <item quantity="few">раза</item>
+        <item quantity="few">раз(а)</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d решений</item>
@@ -751,6 +751,10 @@
         <item quantity="other">проблем</item>
         <item quantity="one">проблема</item>
         <item quantity="few">проблемы</item>
+    </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Отмена (%d сек.)</item>
+        <item quantity="one">Отмена (%d сек.)</item>
     </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">Осталось %s дней</item>

@@ -446,6 +446,7 @@
     <string name="navigation_type_title_synonyms_3">Жесты</string>
     <string name="navigation_type_title_synonyms_4">Кнопки</string>
     <string name="navigation_type_virtual_key">Кнопки</string>
+    <string name="network_error">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="no_detail_page">Нет страницы с подробной информацией</string>
     <string name="no_space_toast">Нет свободного места</string>
     <string name="no_space_toast_when_click_widget">Нет свободного места на этом экране. Попробуйте перетащить на другой экран.</string>
@@ -544,6 +545,8 @@
     <string name="remove_dialog_message">Выбранные приложения содержат важные системные функции. Вы можете удалить только их ярлыки с рабочего стола.</string>
     <string name="remove_dialog_title_format">Удалить \"%s\" с рабочего стола?</string>
     <string name="remove_invalidate_gadget_tips">Один из используемых виджетов больше не доступен. Вы можете добавить другой.</string>
+    <string name="remove_sys_app_content">Удалить ярлык рабочего стола? Вы можете снова добавить ярлык рабочего стола в Настройки > Приложения > Управление ярлыками рабочего экрана.</string>
+    <string name="remove_sys_app_title">Удаление ярлыка</string>
     <string name="reset_cate_tip_content">Будут восстановлены категории по умолчанию. Продолжить?</string>
     <string name="reset_cate_tip_title">Сброс категорий</string>
     <string name="reset_description_first_time">Вы можете восстановить рабочий стол с %1$s в течение 2 часов</string>
@@ -554,6 +557,7 @@
     <string name="resource_canary_leak_tip">есть утечка!</string>
     <string name="resource_canary_wait_for_heapdump_message">Формирование дампа…</string>
     <string name="restore_icon_successful">Успешно добавлено</string>
+    <string name="russia_preinstall_folder_name">Russia</string>
     <string name="screen_cells_config_title">Сетка рабочего стола</string>
     <string name="screen_locked_toast">Рабочий стол защищен от изменений</string>
     <string name="screen_number">Экран %d</string>
@@ -563,7 +567,8 @@
     <string name="select_all">Выбрать все</string>
     <string name="select_frame">Рамка</string>
     <string name="select_photo">Фото</string>
-    <string name="setting_wallpaper_tip">Перемещайте или меняйте размер</string>
+    <string name="server_error">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="setting_wallpaper_tip">Переместите или измените размер</string>
     <string name="settings">Настройки</string>
     <string name="settings_shortcut">Настройки</string>
     <string name="shake_to_align_icons">Встряхните устройство для заполнения пустых ячеек</string>

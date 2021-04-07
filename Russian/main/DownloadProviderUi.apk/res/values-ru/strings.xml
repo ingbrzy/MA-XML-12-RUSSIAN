@@ -124,8 +124,10 @@
     <string name="dialog_content_limit0">Только по Wi-Fi</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
     <string name="dialog_delete_positive">Удалить</string>
+    <string name="dialog_download_dir_content" formatted="false">Папка для загрузок по умолчанию была изменена с \"%s\" на \"%s/DLManager\".</string>
+    <string name="dialog_download_dir_title">Папка для загрузок</string>
     <string name="dialog_failed_body">Загрузить файл позже или удалить его из очереди загрузок?</string>
-    <string name="dialog_file_already_exists">Такой файл уже существует.</string>
+    <string name="dialog_file_already_exists">Такой файл уже существует</string>
     <string name="dialog_file_missing_body">Файл не найден, возможно, он перемещен или удален.</string>
     <string name="dialog_file_missing_title">Ошибка открытия файла</string>
     <string name="dialog_insufficient_space_on_cache">Не удалось загрузить. Недостаточно места во внутренней памяти.</string>

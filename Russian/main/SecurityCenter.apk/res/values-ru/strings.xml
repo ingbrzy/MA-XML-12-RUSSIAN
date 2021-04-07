@@ -2889,6 +2889,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_time_to_boot">Время включения</string>
     <string name="power_center_time_to_shutdown">Время выключения</string>
     <string name="power_center_title">Батарея</string>
+    <string name="power_center_unoffical_battery_button">Найти авторизованный сервис</string>
+    <string name="power_center_unoffical_battery_dialog">Предупреждение о неоригинальной батарее</string>
+    <string name="power_center_unoffical_battery_dialog_positive">Подробнее</string>
+    <string name="power_center_unoffical_battery_dialog_summary">Используется неоригинальная батарея. Для защиты устройства мощность зарядки будет снижена. Использование неоригинальной батареи может привести к ее вздутию, перегреву или протечке, либо вызвать пожар или другие опасные ситуации. Обратитесь в авторизованный сервис для замены батареи.</string>
+    <string name="power_center_unoffical_battery_noti_summary">Используемая батарея может представлять угрозу</string>
+    <string name="power_center_unoffical_battery_summary1">В устройстве используется несъемная батарея, которая может быть заменена только авторизованным сервисом.</string>
+    <string name="power_center_unoffical_battery_summary2">Замена батареи в другом месте может повредить устройство. Использование неоригинальной батареи может привести к ее вздутию, перегреву или протечке, либо вызвать пожар или другие опасные ситуации. Не используйте неоригинальные батареи.</string>
+    <string name="power_center_unoffical_battery_tip">Информация о состоянии неоригинальной батареи недоступна. Нажмите, чтобы узнать о рисках.</string>
+    <string name="power_center_unoffical_battery_title">Неоригинальная батарея</string>
     <string name="power_center_used_time_Introduction">Время работы от батареи с момента зарядки: %s</string>
     <string name="power_consume_hardware_total_format">Устройство: %s</string>
     <string name="power_consume_other">Прочее</string>
