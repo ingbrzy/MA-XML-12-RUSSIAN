@@ -116,7 +116,7 @@
     <string name="accessibility_hearingaid_pair_instructions_message">Чтобы выполнить сопряжение слуховых аппаратов, найдите и коснитесь своего устройства на следующем экране. Убедитесь, что слуховые аппараты находятся в режиме сопряжения.</string>
     <string name="accessibility_hearingaid_pair_instructions_second_message">Убедитесь, что слуховые аппараты находятся в режиме сопряжения.</string>
     <string name="accessibility_hearingaid_title">Слуховые аппараты</string>
-    <string name="accessibility_introduction_title">Описание %1$s</string>
+    <string name="accessibility_introduction_title">Описание \"%1$s\"</string>
     <string name="accessibility_lock_screen_progress">Использовано %1$d из %2$d символов</string>
     <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
     <string name="accessibility_magnification_area_settings_all_summary">Весь экран и часть экрана</string>
@@ -146,31 +146,31 @@
     <string name="accessibility_preference_magnification_summary">Экранная лупа</string>
     <string name="accessibility_ring_vibration_title">Вибрация при вызове</string>
     <string name="accessibility_screen_magnification_enable">Жесты увеличения</string>
-    <string name="accessibility_screen_magnification_gesture_navigation_warning">Жест специальных возможностей настроен на %1$s. Чтобы использовать увеличение, проведите двумя пальцами вверх от нижней части экрана и удерживайте. Затем выберите увеличение.</string>
+    <string name="accessibility_screen_magnification_gesture_navigation_warning">Жест спец. возможностей настроен на %1$s. Чтобы использовать увеличение, проведите двумя пальцами вверх от нижней части экрана и удерживайте. Затем выберите увеличение.</string>
     <string name="accessibility_screen_magnification_gestures_title">Увеличение по тройному касанию</string>
-    <string name="accessibility_screen_magnification_navbar_configuration_warning">Кнопка специальных возможностей настроена на сервис \"%1$s\". Чтобы использовать увеличение, удерживайте ее, а затем выберите \"Увеличение изображения на экране\".</string>
+    <string name="accessibility_screen_magnification_navbar_configuration_warning">Кнопка спец. возможностей настроена на сервис \"%1$s\". Чтобы использовать увеличение, удерживайте ее, а затем выберите \"Увеличение изображения\".</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Нажмите кнопку для увеличения</string>
-    <string name="accessibility_screen_magnification_navbar_summary">"Чтобы использовать увеличение, используйте кнопку специальных возможностей в нижней части экрана.
+    <string name="accessibility_screen_magnification_navbar_summary">"Чтобы использовать увеличение, используйте кнопку спец. возможностей в нижней части экрана.
 
-Чтобы "<b>увеличить масштаб</b>", нажмите кнопку специальный возможностей, а затем коснитесь экрана.
-"<ul><li>Для прокрутки проведите двумя пальцами.</li>"
-"<li>Чтобы изменить масштаб, сведите два пальца вместе или разведите их.</li></ul>"
+Чтобы увеличить масштаб, нажмите кнопку спец. возможностей, а затем коснитесь экрана.
+Для прокрутки проведите двумя пальцами.
+Чтобы изменить масштаб, сведите два пальца вместе или разведите их.
 
-Если нужно "<b>временно увеличить масштаб</b>", нажмите кнопку специальных возможностей, коснитесь экрана и удерживайте.
-"<ul><li>Для обзора проводите по экрану.</li>"
-"<li>Чтобы уменьшить масштаб, отпустите палец.</li></ul>"
+Если нужно временно увеличить масштаб, нажмите кнопку спец. возможностей, коснитесь экрана и удерживайте.
+Для обзора проводите по экрану.
+Чтобы уменьшить масштаб, отпустите палец.
 
 Эти жесты не работают на клавиатуре и панели навигации."</string>
     <string name="accessibility_screen_magnification_navbar_title">Увеличение с помощью кнопки</string>
     <string name="accessibility_screen_magnification_short_summary">Изменение масштаба тремя касаниями</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Увеличение с помощью кнопки и по тройному касанию</string>
-    <string name="accessibility_screen_magnification_summary">Чтобы <b>увеличить масштаб</b>", быстро коснитесь экрана три раза.
-"<ul><li>Для прокрутки проведите двумя пальцами.</li>"
-"<li>Чтобы изменить масштаб, сведите два пальца или разведите их.</li></ul>"
+    <string name="accessibility_screen_magnification_summary">"Чтобы увеличить масштаб, быстро коснитесь экрана три раза.
+Для прокрутки проведите двумя пальцами.
+Чтобы изменить масштаб, сведите два пальца или разведите их.
 
-Если нужно "<b>временно увеличить масштаб</b>", быстро коснитесь экрана три раза и удерживайте на третьем касании.
-"<ul><li>Для обзора проводите по экрану.</li>"
-"<li>Чтобы уменьшить масштаб, отпустите палец.</li></ul>"
+Если нужно временно увеличить масштаб, быстро коснитесь экрана три раза и удерживайте на третьем касании.
+Для обзора проводите по экрану.
+Чтобы уменьшить масштаб, отпустите палец.
 
 Эти жесты не работают на клавиатуре и панели навигации."</string>
     <string name="accessibility_screen_magnification_title">Увеличение изображения</string>
@@ -216,7 +216,7 @@
     <string name="accessibility_shortcut_service_on_lock_screen_title">Разрешить на заблокированном экране</string>
     <string name="accessibility_shortcut_service_title">Быстрое включение сервиса</string>
     <string name="accessibility_shortcut_settings">Настройка ярлыков</string>
-    <string name="accessibility_shortcut_title">Ярлык %1$s</string>
+    <string name="accessibility_shortcut_title">%1$s</string>
     <string name="accessibility_shortcut_triple_tap_keyword">тройное касание</string>
     <string name="accessibility_shortcut_type_hardware">Удержание клавиш громкости</string>
     <string name="accessibility_shortcut_type_software">Кнопка спец. возможностей</string>
@@ -249,9 +249,9 @@
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
     <string name="accessibility_touch_vibration_title">Виброотклик</string>
     <string name="accessibility_tutorial_dialog_button">Понятно</string>
-    <string name="accessibility_tutorial_dialog_message_button">Для включения или отключения сервиса, нажмите кнопку "Спец. возможности" %s внизу экрана.
+    <string name="accessibility_tutorial_dialog_message_button">"Для включения или отключения сервиса, нажмите кнопку \"Спец. возможности\" %s внизу экрана.
 
-Для переключения между сервисами, нажмите и удерживайте кнопку "Спец. возможности".</string>
+Для переключения между сервисами, нажмите и удерживайте кнопку."</string>
     <string name="accessibility_tutorial_dialog_message_gesture">"Для использования этой функции, проведите 2 пальцами снизу вверх.
 
 Для переключения между функциями, проведите 2 пальцами вверх и удерживайте."</string>
@@ -278,7 +278,7 @@
 Для переключения между сервисами проведите двумя пальцами вверх и удерживайте.</string>
     <string name="accessibility_tutorial_dialog_message_triple">Чтобы запустить или остановить увеличение, трижды коснитесь в любом месте экрана.</string>
     <string name="accessibility_tutorial_dialog_message_volume">Для использования этой функции нажмите и удерживайте обе клавиши громкости.</string>
-    <string name="accessibility_tutorial_dialog_title_button">Используйте кнопку "Спец. возможности"</string>
+    <string name="accessibility_tutorial_dialog_title_button">Кнопка \"Спец. возможности\"</string>
     <string name="accessibility_tutorial_dialog_title_gesture">Используйте жест</string>
     <string name="accessibility_tutorial_dialog_title_gesture_settings">Новые жесты спец. возможностей</string>
     <string name="accessibility_tutorial_dialog_title_triple">Тройное касание для открытия</string>
@@ -4468,18 +4468,20 @@
     <string name="master_clear_apply_title">Внимание</string>
     <string name="master_clear_button_text">Удалить</string>
     <string name="master_clear_confirm_title">Удалить все данные?</string>
-    <string name="master_clear_desc">Будут удалены все данные из <b>внутренней памяти</b>" устройства, в том числе:
+    <string name="master_clear_desc">"Будут удалены все данные из внутренней памяти устройства, в том числе:
 
-"<li>Ваш аккаунт Google</li>"
-"<li>Настройки/данные системы и приложений</li>"
-"<li>Загруженные приложения</li></string>
-    <string name="master_clear_desc_also_erases_esim"><li>eSIM</li></string>
-    <string name="master_clear_desc_also_erases_external"><li>Музыка</li>"
-"<li>Фото</li>"
-"<li>Другие данные</li></string>
+• Аккаунт Google
+• Настройки/данные системы и приложений
+• Загруженные приложения"</string>
+    <string name="master_clear_desc_also_erases_esim">"• eSIM"</string>
+    <string name="master_clear_desc_also_erases_external">"
+• Музыка
+• Фото
+• Прочие данные
+"</string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить "<b>SD-карту</b>.</string>
+Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить SD-карту."</string>
     <string name="master_clear_desc_no_cancel_mobile_plan">"
 
 Это не повлияет на тарифный план."</string>
@@ -6158,11 +6160,10 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_app_preferences_button">Сбросить</string>
     <string name="reset_app_preferences_desc">"Будут сброшены следующие настройки:
 
-"<li>Отключенные приложения.</li>"
-"<li>Отключенные уведомления приложений.</li>"
-"<li>Приложения по умолчанию.</li>"
-"<li>Ограничения на передачу данных в фоновом режиме.</li>"
-"<li>Все ограничения разрешений.</li>"
+• Отключенные приложения
+• Отключенные уведомления
+• Приложения по умолчанию
+• Ограничения фонового трафика
 
 Данные приложений удалены не будут."</string>
     <string name="reset_app_preferences_title">Сбросить настройки?</string>
@@ -6186,9 +6187,10 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_network_data">Мобильный интернет</string>
     <string name="reset_network_desc">"На устройстве будут сброшены все сетевые настройки, в том числе:
 
-"<li>Wi-Fi</li>"
-"<li>Мобильный интернет</li>"
-"<li>Bluetooth</li></string>
+• Wi-Fi
+• Мобильный интернет
+• Bluetooth
+"</string>
     <string name="reset_network_final_button_text">Да</string>
     <string name="reset_network_final_desc">Сбросить все настройки сети? Вы не сможете отменить это действие.</string>
     <string name="reset_network_final_desc_esim">Сбросить все настройки сети и очистить данные eSIM-карт? Вы не сможете отменить это действие.</string>
