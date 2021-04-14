@@ -1263,7 +1263,7 @@
     <string name="bluetooth_message_move_out_of_blacklist">Удалить %1$s из списка заблокированных устройств?</string>
     <string name="bluetooth_mi_fast_connect">Сопряжение с устройствами</string>
     <string name="bluetooth_mi_fast_connect_summary">Подключать совместимые устройства поблизости упрощенным способом</string>
-    <string name="bluetooth_middle_name">Чехол</string>
+    <string name="bluetooth_middle_name">Кейс</string>
     <string name="bluetooth_move_out_of_blacklist">Удаление из списка</string>
     <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
     <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
@@ -3061,8 +3061,9 @@
     <string name="fingerprint_and_password_entrance_title">Защита устройства и биометрия</string>
     <string name="fingerprint_apply_to_privacy_password">Пароль защиты личных данных</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Пароль защиты личных данных защищает сообщения, фотографии, файлы, заметки и приложения</string>
+    <string name="fingerprint_base_title">Отпечаток %s</string>
     <string name="fingerprint_delete_message">Удалить отпечаток?</string>
-    <string name="fingerprint_delete_title">"Удалить \"%1$s\"?"</string>
+    <string name="fingerprint_delete_title">Удалить \"%1$s\"?</string>
     <string name="fingerprint_double_tap">Двойное касание сканера отпечатков</string>
     <string name="fingerprint_enable_keyguard_toggle_title">Блокировка экрана</string>
     <string name="fingerprint_enroll_button_add">Добавить еще</string>
@@ -3071,6 +3072,7 @@
     <string name="fingerprint_first_open_screen_password_tittle">Биометрия (настройте защиту устройства)</string>
     <string name="fingerprint_for_keyguard_disabled">Использование отпечатков отключено из соображений безопасности.</string>
     <string name="fingerprint_gesture_screen_title">Сканер отпечатков</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Сохранен как \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Ввести пароль</string>
     <string name="fingerprint_identify_msg">Чтение отпечатка…</string>
     <string name="fingerprint_identify_try_again_msg">Отпечаток не распознан, повторите попытку</string>
@@ -4463,8 +4465,8 @@
 Аккаунты на этом устройстве:
 "</string>
     <string name="master_clear_all">Удалить все данные из внутренней памяти устройства? Это необратимое действие!</string>
-    <string name="master_clear_apply_step_1"><b>Сброс настроек удалит все данные с устройства</b>, включая изображения, музыку, заметки и прочие персональные данные. Убедитесь, что важная информация сохранена на вашем компьютере.</string>
-    <string name="master_clear_apply_step_2">Убедитесь, что все важные данные сохранены на компьютере. Все данные на этом устройстве будут удалены при сбросе.<b> Вы не сможете восстановить несохраненные данные.</b></string>
+    <string name="master_clear_apply_step_1">Сброс к заводским настройкам удалит все данные с устройства, включая изображения, музыку, заметки и прочие персональные данные. Убедитесь, что важная информация сохранена на вашем компьютере.</string>
+    <string name="master_clear_apply_step_2">Убедитесь, что все важные данные сохранены на компьютере. Все данные на этом устройстве будут удалены при сбросе. Вы не сможете восстановить несохраненные данные.</string>
     <string name="master_clear_apply_title">Внимание</string>
     <string name="master_clear_button_text">Удалить</string>
     <string name="master_clear_confirm_title">Удалить все данные?</string>
@@ -4612,7 +4614,7 @@
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Центральная область</string>
     <string name="miheadet_up_music">Предыдущий трек</string>
-    <string name="miheadset_Box">Зарядный чехол</string>
+    <string name="miheadset_Box">Кейс</string>
     <string name="miheadset_LeftEar">Левое ухо</string>
     <string name="miheadset_RightEar">Правое ухо</string>
     <string name="miheadset_active">Активно</string>
@@ -4659,8 +4661,10 @@
     <string name="miheadset_fitness_check_result_dialog1">Вставьте наушники в оба уха перед началом теста</string>
     <string name="miheadset_fitness_check_result_dialog2">Завершите вызов перед началом теста</string>
     <string name="miheadset_fitness_check_result_dialog_title">Внимание</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Перенастроить</string>
     <string name="miheadset_fitness_check_result_not_ok">Плохая посадка</string>
     <string name="miheadset_fitness_check_result_ok">Хорошая посадка</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Перенастроить</string>
     <string name="miheadset_fitness_check_result_summary1">Вкладыши хорошо подходят</string>
     <string name="miheadset_fitness_check_result_summary2">Отрегулируйте посадку или попробуйте другие вкладыши, затем повторите тест</string>
     <string name="miheadset_fitness_check_start">Начать</string>
@@ -5125,7 +5129,7 @@
     <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении с другим устройством</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_repair_action_btn">Восстановить</string>
-    <string name="nfc_repair_action_desc">Нажмите \"&lt;b&gt;Восстановить&lt;/b&gt;\" для устранения проблем, которые мешают использовать функции NFC. Не покидайте текущую страницу во время восстановления функциональности NFC. По окончанию перезагрузите устройство, чтобы применить изменения.</string>
+    <string name="nfc_repair_action_desc">Нажмите \"Восстановить\" для устранения проблем, которые мешают использовать функции NFC. Не покидайте текущую страницу во время восстановления функциональности NFC. По окончанию перезагрузите устройство, чтобы применить изменения.</string>
     <string name="nfc_repair_btn_no">Нет</string>
     <string name="nfc_repair_btn_reboot">Перезагрузить</string>
     <string name="nfc_repair_btn_reboot_later">Позже</string>
@@ -6119,9 +6123,9 @@ UT-интерфейс: %5$s"</string>
     <string name="recent_notifications">Недавно отправленные</string>
     <string name="recent_notifications_see_all_title">За последние 7 дней</string>
     <string name="recently_installed_app">Вы недавно установили это приложение.</string>
-    <string name="recommend_item_1">Чехол</string>
+    <string name="recommend_item_1">Кейс</string>
     <string name="recommend_item_2">Mi Band</string>
-    <string name="recommend_item_3">Внешний аккумулятор</string>
+    <string name="recommend_item_3">Пауэрбанк</string>
     <string name="recommend_item_4">Наушники</string>
     <string name="recommend_item_title">Рекомендации</string>
     <string name="recommend_text_wakeup_xiaoai">Настройки</string>
@@ -7422,13 +7426,13 @@ UT-интерфейс: %5$s"</string>
 
 Все данные на карте \"^1\" будут удалены, поэтому мы рекомендуем создать их резервную копию.
 
-"<b>Скопируйте фотографии и другие файлы.</b>"
+Скопируйте фотографии и другие файлы.
 Переместите их в память устройства или на компьютер, подключив к нему устройство при помощи USB-кабеля.
 
-"<b>Скопируйте приложения.</b>"
+Скопируйте приложения.
 Все приложения и их данные, хранящиеся на карте \"^1\", будут удалены. Рекомендуем перенести их в память устройства."</string>
     <string name="storage_internal_title">Внутренняя память</string>
-    <string name="storage_internal_unmount_details"><b>Если вы извлечете карту \"^1\", хранящиеся на ней приложения и файлы станут недоступны до тех пор, пока вы снова не вставите карту в устройство.</b>"
+    <string name="storage_internal_unmount_details">"Если вы извлечете карту \"^1\", хранящиеся на ней приложения и файлы станут недоступны до тех пор, пока вы снова не вставите карту в устройство.
 
 Карта \"^1\" не будет работать на других устройствах, поскольку она отформатирована только под ваше."</string>
     <string name="storage_label">Память</string>
@@ -7484,10 +7488,10 @@ UT-интерфейс: %5$s"</string>
 
 Карта \"^1\" будет работать только на этом устройстве.
 
-"<b>Все данные, сохраненные на карте \"^1\", будут удалены.</b> Чтобы избежать их потери, создайте их резервную копию.</string>
+Все данные, сохраненные на карте \"^1\", будут удалены. Чтобы избежать их потери, создайте их резервную копию."</string>
     <string name="storage_wizard_format_confirm_next">Очистить и отформатировать</string>
     <string name="storage_wizard_format_confirm_public_body">"Потребуется отформатировать устройство ^1.
-"<b>При этом будут удалены все данные на устройстве ^1.</b> Во избежание потери данных сделайте их резервную копию.</string>
+Будут удалены все данные на устройстве ^1. Во избежание потери данных сделайте их резервную копию."</string>
     <string name="storage_wizard_format_confirm_public_title">Форматировать как съемный накопитель</string>
     <string name="storage_wizard_format_confirm_third_body">^1 форматируется</string>
     <string name="storage_wizard_format_confirm_title">Внутренняя память</string>
@@ -7514,7 +7518,7 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_wizard_init_v2_title">Как будете использовать ^1?</string>
     <string name="storage_wizard_migrate_body">"Вы можете переместить фото, файлы и некоторые приложения на устройство ^1.
 Перемещение займет ^2 и освободит ^3 внутренней памяти. Во время этого процесса некоторые приложения работать не будут."</string>
-    <string name="storage_wizard_migrate_confirm_body"><b>На это уйдет примерно ^1, после чего освободится ^2 на устройстве \"^3\".</b></string>
+    <string name="storage_wizard_migrate_confirm_body">На это уйдет примерно ^1, после чего освободится ^2 на устройстве \"^3\".</string>
     <string name="storage_wizard_migrate_confirm_next">Перенести</string>
     <string name="storage_wizard_migrate_confirm_title">Перенесите данные</string>
     <string name="storage_wizard_migrate_details">"Во время переноса:
@@ -7552,10 +7556,10 @@ UT-интерфейс: %5$s"</string>
 Чтобы перенести на нее фотографии, данные приложений и другие файлы, нажмите \"Настройки > Память\"."</string>
     <string name="storage_wizard_ready_title">Устройство ^1 готово к работе</string>
     <string name="storage_wizard_ready_v2_external_body">Вы можете переместить контент на ^1</string>
-    <string name="storage_wizard_ready_v2_internal_body">Для перемещения контента на ^1, перейдите в &lt;b&gt;Настройки > Устройство > Память&lt;/b&gt;</string>
+    <string name="storage_wizard_ready_v2_internal_body">Для перемещения контента на ^1, перейдите в Настройки > Устройство > Память</string>
     <string name="storage_wizard_ready_v2_internal_moved_body">"Контент перемещен на ^1. 
 
-Для управления ^2, перейдите в "&lt;b&gt;Настройки > Устройство > Память&lt;/b&gt;.</string>
+Для управления ^2, перейдите в Настройки > Устройство > Память"</string>
     <string name="storage_wizard_slow_body">"^1 работает медленно. 
 
 В перемещенных приложениях могут происходить сбои, а обмен данными может занимать много времени. 
@@ -7668,7 +7672,7 @@ UT-интерфейс: %5$s"</string>
     <string name="switch_access_service_on">Переключение доступа</string>
     <string name="switch_bootup_sound">Мелодия загрузки</string>
     <string name="switch_headset_anti_lost">Предупреждение о наушниках</string>
-    <string name="switch_headset_anti_lost_summary">Оповещать, когда один из наушников находится вне уха или зарядного чехла больше минуты</string>
+    <string name="switch_headset_anti_lost_summary">Оповещать, когда один из наушников находится вне уха или кейса больше минуты</string>
     <string name="switch_headset_anti_lost_title">Предупреждение о наушниках</string>
     <string name="switch_off_text">Откл.</string>
     <string name="switch_on_text">Вкл.</string>
@@ -8440,6 +8444,7 @@ UT-интерфейс: %5$s"</string>
     <string name="voice_search_settings_title">Голосовой поиск</string>
     <string name="voice_service_preference_section_title">Голосовой ввод</string>
     <string name="voicemail_number_not_set">&lt;Не задано&gt;</string>
+    <string name="voip_assistant_settings">VoIP ассистент</string>
     <string name="volte_5G_limited_text">"Это также отключает соединение 5G.
 Во время голосового вызова вы не сможете использовать интернет, некоторые приложения могут не работать."</string>
     <string name="volte_5G_limited_title">Отключить VoLTE?</string>
@@ -9103,9 +9108,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_settings_summary">Настройка и управление точками доступа беспроводной сети</string>
     <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_setup_cancel">Отмена</string>
-    <string name="wifi_setup_description_connected">Нажмите<b> Далее</b>" для продолжения настройки.
+    <string name="wifi_setup_description_connected">"Нажмите \"Далее\" для продолжения настройки.
 
-Нажмите"<b> Назад</b> для подключения к другой сети Wi-Fi.</string>
+Нажмите \"Назад\" для подключения к другой сети Wi-Fi."</string>
     <string name="wifi_setup_detail">Сведения о сети</string>
     <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в разделе Настройки > Беспроводные сети.</string>
     <string name="wifi_setup_title">Настройки Wi-Fi</string>
