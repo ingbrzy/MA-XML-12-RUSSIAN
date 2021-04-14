@@ -925,9 +925,8 @@
     <string name="kg_invalid_puk">Введите правильный PUK-код. После нескольких неудачных попыток SIM-карта будет заблокирована.</string>
     <string name="kg_invalid_sim_pin_hint">Введите PIN-код (от 4 до 8 цифр).</string>
     <string name="kg_invalid_sim_puk_hint">PUK-код должен содержать 8 символов.</string>
-    <string name="kg_login_account_recovery_hint">
-    <b>google.com/accounts/recovery</b>"Забыли имя пользователя или пароль?
-Перейдите на страницу ".</string>
+    <string name="kg_login_account_recovery_hint">"Забыли имя пользователя или пароль?
+Перейдите на страницу google.com/accounts/recovery".</string>
     <string name="kg_login_checking_password">Проверка данных…</string>
     <string name="kg_login_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google.</string>
     <string name="kg_login_invalid_input">Неверное имя пользователя или пароль.</string>
@@ -998,9 +997,8 @@
  Повтор через %3$d сек."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
     <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
-    <string name="lockscreen_glogin_account_recovery_hint">
-    <b>google.com/accounts/recovery</b>"Забыли имя пользователя или пароль?
-Перейдите на страницу ".</string>
+    <string name="lockscreen_glogin_account_recovery_hint">"Забыли имя пользователя или пароль?
+Перейдите на страницу google.com/accounts/recovery".</string>
     <string name="lockscreen_glogin_checking_password">Проверка…</string>
     <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
     <string name="lockscreen_glogin_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google.</string>
@@ -1856,16 +1854,13 @@
     <string name="sms_control_title">Отправка SMS-сообщений</string>
     <string name="sms_control_yes">Разрешить</string>
     <string name="sms_desc">Сообщение на выбранный номер</string>
-    <string name="sms_premium_short_code_details">
-    <b>Со счета вашего мобильного телефона будут списаны средства.</b>
-  </string>
+    <string name="sms_premium_short_code_details">Со счета вашего мобильного телефона будут списаны средства.</string>
     <string name="sms_short_code_confirm_allow">Отправить</string>
     <string name="sms_short_code_confirm_always_allow">Всегда разрешать</string>
     <string name="sms_short_code_confirm_deny">Отмена</string>
-    <string name="sms_short_code_confirm_message">Из приложения &lt;b&gt;%1$s&lt;/b&gt; будет отправлено сообщение на номер &lt;b&gt;%2$s&lt;/b&gt;.</string>
+    <string name="sms_short_code_confirm_message">Из приложения %1$s будет отправлено сообщение на номер %2$s.</string>
     <string name="sms_short_code_confirm_never_allow">Не разрешать</string>
-    <string name="sms_short_code_details">
-    <b>могут быть списаны средства</b>.Со счета вашего мобильного телефона </string>
+    <string name="sms_short_code_details">Со счета вашего мобильного телефона могут быть списаны средства</string>
     <string name="sms_short_code_remember_choice">Запомнить выбор</string>
     <string name="sms_short_code_remember_undo_instruction">Это можно изменить позже в разделе настроек \"Приложения\".</string>
     <string name="smv_application">Приложение \"%1$s\" (процесс: %2$s) нарушило собственную политику StrictMode.</string>
