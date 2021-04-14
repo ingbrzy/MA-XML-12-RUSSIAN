@@ -3061,8 +3061,9 @@
     <string name="fingerprint_and_password_entrance_title">Защита устройства и биометрия</string>
     <string name="fingerprint_apply_to_privacy_password">Пароль защиты личных данных</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Пароль защиты личных данных защищает сообщения, фотографии, файлы, заметки и приложения</string>
+    <string name="fingerprint_base_title">Отпечаток %s</string>
     <string name="fingerprint_delete_message">Удалить отпечаток?</string>
-    <string name="fingerprint_delete_title">"Удалить \"%1$s\"?"</string>
+    <string name="fingerprint_delete_title">Удалить \"%1$s\"?</string>
     <string name="fingerprint_double_tap">Двойное касание сканера отпечатков</string>
     <string name="fingerprint_enable_keyguard_toggle_title">Блокировка экрана</string>
     <string name="fingerprint_enroll_button_add">Добавить еще</string>
@@ -3071,6 +3072,7 @@
     <string name="fingerprint_first_open_screen_password_tittle">Биометрия (настройте защиту устройства)</string>
     <string name="fingerprint_for_keyguard_disabled">Использование отпечатков отключено из соображений безопасности.</string>
     <string name="fingerprint_gesture_screen_title">Сканер отпечатков</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Сохранен как \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Ввести пароль</string>
     <string name="fingerprint_identify_msg">Чтение отпечатка…</string>
     <string name="fingerprint_identify_try_again_msg">Отпечаток не распознан, повторите попытку</string>
@@ -4659,8 +4661,10 @@
     <string name="miheadset_fitness_check_result_dialog1">Вставьте наушники в оба уха перед началом теста</string>
     <string name="miheadset_fitness_check_result_dialog2">Завершите вызов перед началом теста</string>
     <string name="miheadset_fitness_check_result_dialog_title">Внимание</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Перенастроить</string>
     <string name="miheadset_fitness_check_result_not_ok">Плохая посадка</string>
     <string name="miheadset_fitness_check_result_ok">Хорошая посадка</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Перенастроить</string>
     <string name="miheadset_fitness_check_result_summary1">Вкладыши хорошо подходят</string>
     <string name="miheadset_fitness_check_result_summary2">Отрегулируйте посадку или попробуйте другие вкладыши, затем повторите тест</string>
     <string name="miheadset_fitness_check_start">Начать</string>
@@ -8440,6 +8444,7 @@ UT-интерфейс: %5$s"</string>
     <string name="voice_search_settings_title">Голосовой поиск</string>
     <string name="voice_service_preference_section_title">Голосовой ввод</string>
     <string name="voicemail_number_not_set">&lt;Не задано&gt;</string>
+    <string name="voip_assistant_settings">VoIP ассистент</string>
     <string name="volte_5G_limited_text">"Это также отключает соединение 5G.
 Во время голосового вызова вы не сможете использовать интернет, некоторые приложения могут не работать."</string>
     <string name="volte_5G_limited_title">Отключить VoLTE?</string>

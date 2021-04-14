@@ -155,6 +155,10 @@
     <string name="blur_location_is_on_tip">Приложение %1$s использует неточное местоположение. Включить точное местоположение?</string>
     <string name="blur_location_now_tip">Включено неточное местоположение</string>
     <string name="blur_location_title">Неточное местоположение</string>
+    <string name="cetus_invisible_mode_notice_audio">Режим инкогнито: микрофон недоступен</string>
+    <string name="cetus_invisible_mode_notice_camera">Режим инкогнито: камера недоступна</string>
+    <string name="cetus_invisible_mode_notice_location">Режим инкогнито: сервисы местоположения недоступны</string>
+    <string name="cetus_invisible_mode_notice_tip">Нажмите, чтобы отключить режим инкогнито в настройках</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clipboard_ai_allow_once">Приложению %1$s был автоматически разрешен доступ к буферу обмена</string>
     <string name="clipboard_ai_allow_tip">Приложению %1$s разрешено чтение %2$s из буфера обмена</string>
@@ -347,6 +351,12 @@
     <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и безопасность &gt;  Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
     <string name="screen_overlay_title">Обнаружено наложение экранов</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>

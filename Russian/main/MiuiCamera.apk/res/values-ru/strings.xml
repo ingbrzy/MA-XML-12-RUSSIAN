@@ -1227,10 +1227,10 @@
     <string name="pref_camera_auto_chroma_flash_title">Комбо вспышка</string>
     <string name="pref_camera_auto_hibernation">Съемка с выключенным экраном</string>
     <string name="pref_camera_auto_hibernation_description">Выключить экран через %d мин. съемки для экономии заряда</string>
-    <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенный</string>
+    <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенная</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Средний кадр</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Точечный замер</string>
-    <string name="pref_camera_autoexposure_title">Настройки автоэкспозиции</string>
+    <string name="pref_camera_autoexposure_title">Автоэкспозиция</string>
     <string name="pref_camera_auxiliary_close">Откл.</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Проверка автоэкспозиции</string>
     <string name="pref_camera_auxiliary_focus_peak">Пик фокуса</string>
@@ -1278,7 +1278,7 @@
     <string name="pref_camera_delay_capture_title">Таймер</string>
     <string name="pref_camera_device_watermark_title">Водяной знак</string>
     <string name="pref_camera_dual_enable_title">Двойная камера</string>
-    <string name="pref_camera_dual_sat_enable_title">Включить двойную SAT камеру</string>
+    <string name="pref_camera_dual_sat_enable_title">Двойная SAT камера</string>
     <string name="pref_camera_dynamic_frame_rate_summary">Изменение частоты кадров в условиях низкой освещенности с %1$d до %2$d кадров в секунду для улучшения качества видео.</string>
     <string name="pref_camera_dynamic_frame_rate_title">Динамическая частота кадров</string>
     <string name="pref_camera_eis_entry_normal">Стабилизация видео</string>
@@ -1348,8 +1348,8 @@
     <string name="pref_camera_exposuretime_entry_auto">АВТО</string>
     <string name="pref_camera_exposuretime_entry_auto_abbr">АВТО</string>
     <string name="pref_camera_face_info_watermark_title">Добавлять возраст на фото</string>
-    <string name="pref_camera_facedetection_auto_hidden_title">Автоматически скрывать рамку определения лица</string>
-    <string name="pref_camera_facedetection_title">Определение лица</string>
+    <string name="pref_camera_facedetection_auto_hidden_title">Автоматически скрывать рамку обнаружения лица</string>
+    <string name="pref_camera_facedetection_title">Обнаружение лица</string>
     <string name="pref_camera_fastmotion_duration">Продолжительность</string>
     <string name="pref_camera_fastmotion_duration_description">Продолжительность съемки по умолчанию не ограничена. Вы можете установить таймер для остановки съемки по истечению заданного времени.</string>
     <string name="pref_camera_fastmotion_duration_infinity">Без ограничения</string>
@@ -1444,7 +1444,7 @@
     <string name="pref_camera_jpegquality_entry_low">Низкое</string>
     <string name="pref_camera_jpegquality_entry_normal">Среднее</string>
     <string name="pref_camera_jpegquality_title">Качество фото</string>
-    <string name="pref_camera_live_sticker_internal_title">Внутренние магические инструменты</string>
+    <string name="pref_camera_live_sticker_internal_title">Дополнительные инструменты</string>
     <string name="pref_camera_long_press_shutter_feature_title">Долгое нажатие кнопки съемки</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">Google Объектив</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF блокировка</string>
@@ -1464,7 +1464,7 @@
     <string name="pref_camera_manual_description_title">Функции ручного режима</string>
     <string name="pref_camera_manual_mode_title">Ручной режим</string>
     <string name="pref_camera_manually_exposure_value_abbr">EV</string>
-    <string name="pref_camera_mfnr_sat_enable_title">Включить MFNR</string>
+    <string name="pref_camera_mfnr_sat_enable_title">Использовать несколько кадров для уменьшения шума</string>
     <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
     <string name="pref_camera_multilevel_entry_high">Высокая</string>
     <string name="pref_camera_multilevel_entry_higher">Очень высокая</string>
@@ -1573,7 +1573,7 @@
     <string name="pref_camera_video_duration_entry_mms">30 секунд (MMS)</string>
     <string name="pref_camera_video_log_tips">ЛОГ</string>
     <string name="pref_camera_video_sat_enable_title">Плавное масштабирование видео</string>
-    <string name="pref_camera_video_show_faceview_title">Показывать рамку лица в режиме видео</string>
+    <string name="pref_camera_video_show_faceview_title">Показывать рамку лица при съемке видео</string>
     <string name="pref_camera_video_tag">Добавление тегов</string>
     <string name="pref_camera_video_tag_description">Нажмите кнопку \"Тег\" во время съемки видео для возможности возврата к отмеченным моментам при воспроизведении</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Снимок</string>
@@ -1704,6 +1704,7 @@
     <string name="pref_userdefine_watermark_title">Пользовательский водяной знак</string>
     <string name="pref_video_ai_audio_single">Фронтальный звук</string>
     <string name="pref_video_captrue_ability_title">Захват кадра при съемке</string>
+    <string name="pref_video_capture_repeating_title">Съемка фото во время записи видео</string>
     <string name="pref_video_cast_setting_summary">Съемка видео с нескольких устройств одновременно</string>
     <string name="pref_video_cast_setting_title">Мультикамерная съемка</string>
     <string name="pref_video_denoise_off">Отключено</string>
@@ -1773,6 +1774,7 @@
     <string name="preview_back_pressed_hint">Нажмите еще раз, чтобы вернуться к предпросмотру</string>
     <string name="pro_color_mode">Продвинутый цветовой режим</string>
     <string name="professional_shortcut_short">Ручной</string>
+    <string name="prompt_desc">Для использования этой функции требуется %s MБ мобильного трафика. Продолжить?</string>
     <string name="recommend_macro_mode">Попробуйте режим Макро</string>
     <string name="recommend_portrait">Попробуйте портретный режим</string>
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
