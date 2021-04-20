@@ -16,20 +16,14 @@ call routine.bat picasso_48m Settings.apk
 call routine.bat umi Settings.apk 
 call routine.bat vangogh Settings.apk 
 ;
-call routine.bat cmi MiuiCamera.apk 
-call routine.bat umi MiuiCamera.apk 
-;                         
-call routine.bat cas MiuiSystemUI.apk 
-call routine.bat cmi MiuiSystemUI.apk 
-call routine.bat lmi MiuiSystemUI.apk 
-call routine.bat umi MiuiSystemUI.apk 
-;
 ; Android 10
 ;
 call routine.bat cepheus Settings.apk 
 call routine.bat chiron Settings.apk 
 call routine.bat dipper Settings.apk 
+call routine.bat equuleus Settings.apk 
 call routine.bat jason Settings.apk 
+call routine.bat laurus Settings.apk 
 call routine.bat lavender Settings.apk 
 call routine.bat sagit Settings.apk 
 call routine.bat surya Settings.apk 
@@ -37,7 +31,6 @@ call routine.bat tucana Settings.apk
 call routine.bat vela Settings.apk 
 call routine.bat wayne Settings.apk 
 call routine.bat whyred Settings.apk 
+call routine.bat violet Settings.apk 
 ;
 call routine.bat curtana_stable Settings.apk 
-;
-call routine.bat lavender MiuiSystemUI.apk 
