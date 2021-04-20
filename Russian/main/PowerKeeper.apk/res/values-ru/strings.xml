@@ -42,6 +42,7 @@
     <string name="atrace_saving">Сохранение журнала atrace…</string>
     <string name="atrace_start">Создание журнала atrace…</string>
     <string name="base_info">Основная информация</string>
+    <string name="checking_intranet">Проверка интранет-соединения, подождите...</string>
     <string name="cloud_addr_info">Облачная информация</string>
     <string name="cloud_china_addr">Обновить данные китайского сервера</string>
     <string name="cloud_international_addr">Обновить данные международного сервера</string>
@@ -62,10 +63,12 @@
 Контроль активности будет обрабатывать важные приложения избирательно."</string>
     <string name="config_suggest_suffix_title">Умный режим (рекомендуется)</string>
     <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Подключитесь к интранету</string>
     <string name="copy">Копировать</string>
     <string name="current_cloud_addr_is">Адрес сервера облачного управления:</string>
     <string name="dark_mode">Темный режим</string>
     <string name="dark_mode_summary">Использовать темную цветовую палитру для экономии заряда</string>
+    <string name="delete_data_confirm">Подтвердите удаление данных</string>
     <string name="empty_title_apps_container_list">Нет приложений</string>
     <string name="enable_sleep_mode">Включите режим сна для экономии заряда ночью</string>
     <string name="error_filename_too_long">Имя файла слишком длинное.</string>
@@ -85,6 +88,7 @@
     <string name="high_temp_state_message">Устройство перегрелось. Мобильный интернет, точка доступа Wi-Fi, GPS и камера будут отключены.</string>
     <string name="hints_loading_text">Подождите…</string>
     <string name="important_warning">Внимание</string>
+    <string name="insert_data">Вставить данные</string>
     <string name="lasttime_applist_cloud">Обновление приложений:</string>
     <string name="lasttime_feature_cloud">Обновление функций:</string>
     <string name="message_i_know">Понятно</string>
@@ -96,6 +100,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
+    <string name="modify_data">Изменить данные</string>
     <string name="nonui_mode_config_description">Когда MIUI определяет, что устройство не используется, световой индикатор, сканер отпечатков и сенсорное управление отключаются для экономии заряда. Экран при получении уведомлений не включается.</string>
     <string name="nonui_mode_config_title">Неинтерактивный режим</string>
     <string name="not_set">Не задано</string>
@@ -135,6 +140,7 @@
     <string name="pref_config_title">Оптимизация производительности</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy">Политика конфиденциальности</string>
+    <string name="save_data">Сохранить данные</string>
     <string name="scenario_policies_summary">Различные стратегии экономии заряда для разных сценариев использования устройства</string>
     <string name="scenario_policies_title">Сценарии экономии заряда</string>
     <string name="scenario_policies_warmcontrol">Контроль температуры</string>
@@ -151,6 +157,8 @@
     <string name="sleepmode_privacy_link">Подробнее о конфиденциальности</string>
     <string name="sleepmode_privacy_title">Режим сна</string>
     <string name="sucess">Готово</string>
+    <string name="thermal_cancel">НЕТ</string>
+    <string name="thermal_confirm">ДА</string>
     <string name="update_profile_failture_not_connect_wifi">Ошибка обновления. Подключитесь к Wi-Fi и повторите попытку.</string>
     <string name="update_profile_sucess">Профиль успешно обновлен</string>
     <string name="v7_preference_off">ОТКЛ.</string>

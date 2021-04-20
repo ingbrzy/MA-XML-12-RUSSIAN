@@ -145,6 +145,7 @@
     <string name="accessibility_mode_dismiss_button">Отключить кнопку выбора режима</string>
     <string name="accessibility_module_picker_finish">Переключение на %s</string>
     <string name="accessibility_more">Еще</string>
+    <string name="accessibility_multi_cam_reselect_button">Выберите камеры снова</string>
     <string name="accessibility_open">Включено</string>
     <string name="accessibility_pano_moving_left">Переместите устройство влево</string>
     <string name="accessibility_pano_moving_right">Переместите устройство вправо</string>
@@ -164,6 +165,7 @@
     <string name="accessibility_preview_selected">Выбрано</string>
     <string name="accessibility_preview_shrink">Уменьшить</string>
     <string name="accessibility_preview_zoom_tip">Предпросмотр увеличения %1$.1f</string>
+    <string name="accessibility_pro_parameters_panel_on">Открыть меню с параметрами</string>
     <string name="accessibility_pro_video_simple_mode">Облегченный режим</string>
     <string name="accessibility_protrait">Портрет</string>
     <string name="accessibility_pull_down_to_open_camera">Проведите вниз для открытия камеры</string>
@@ -623,9 +625,11 @@
     <string name="dual_video_user_guide_main_content">Для мультикамерной съемки выберите две камеры и снимайте на них одновременно. Записи могут быть сохранены отдельно или объединены в режиме раздельного просмотра или \"картинка в картинке\".</string>
     <string name="dual_video_user_guide_main_title">Мультикамерная съемка</string>
     <string name="dual_video_user_guide_merge_content">Снимайте двумя камерами одновременно и объединяйте записи в режиме раздельного просмотра или \"картинка в картинке\".</string>
-    <string name="dual_video_user_guide_remote_content">Мультикамерная съемка позволяет объединить видеопотоки с двух устройств в одно видео. На этом устройстве доступен предпросмотр как видеопотоков, так и итогового видео. Звук будет записывать только это устройство</string>
+    <string name="dual_video_user_guide_merge_content_new">Снимайте одновременно с двух точек и объединяйте записи в одно видео. Можно задать размер композиции окон.</string>
+    <string name="dual_video_user_guide_remote_content">Мультикамерная съемка позволяет объединить записи с двух устройств в одно видео. На этом устройстве доступен предпросмотр как отдельных записей, так и итогового видео. Звук будет записывать только это устройство</string>
     <string name="dual_video_user_guide_remote_p">Устройство %d</string>
-    <string name="dual_video_user_guide_standalone_content">Снимайте двумя камерами одновременно и сохраняйте обе записи как отдельные видео.</string>
+    <string name="dual_video_user_guide_standalone_content">Снимайте двумя камерами одновременно и сохраняйте записи как отдельные видео.</string>
+    <string name="dual_video_user_guide_standalone_content_new">Записывайте и сохраняйте видео, снятые одновременно с двух точек.</string>
     <string name="early_morning">Утро</string>
     <string name="edit">Редактировать</string>
     <string name="edit_blusher">Румяна</string>
