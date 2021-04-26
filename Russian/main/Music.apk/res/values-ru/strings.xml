@@ -131,6 +131,7 @@
     <string name="banner_op">Mi Музыка</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
     <string name="btn_text_edit">Редактировать</string>
+    <string name="btn_text_view_all">Показать все</string>
     <string name="buffering">Буферизация…</string>
     <string name="button_cancel_download">Отменить</string>
     <string name="button_download_now">Загрузить сейчас</string>
@@ -422,6 +423,8 @@
     <string name="fail_to_play">Не удалось воспроизвести трек</string>
     <string name="failed_not_access_sd_card">необходимо сначала разрешить доступ к SD-карте</string>
     <string name="failed_obtain_permissions">Не удалось получить разрешения</string>
+    <string name="failed_to_connect_hint">Проверьте настройки сети и повторите попытку</string>
+    <string name="failed_to_connect_text">Не удалось подключиться к сети</string>
     <string name="fans">Подписчики</string>
     <string name="fav_login_msg">Войдите в Mi Аккаунт для загрузки треков</string>
     <string name="favorite_canceled">Удалено из избранных</string>
@@ -494,6 +497,7 @@
     <string name="high_sound_quality">Высокое</string>
     <string name="higher_quality_music">Звук высокого качества</string>
     <string name="higher_quality_music_summary">Загрузка музыки в высоком качестве</string>
+    <string name="hint_search_songs_playlists_artists">Поиск треков, плейлистов и исполнителей</string>
     <string name="home_tab_home">Домашняя страница</string>
     <string name="home_tab_joox">JOOX музыка</string>
     <string name="home_tab_local">Моя музыка</string>
@@ -619,6 +623,7 @@
     <string name="loading">Подождите…</string>
     <string name="loading_hint">Подождите…</string>
     <string name="loading_reached_the_bottom">"Больше ничего нет."</string>
+    <string name="loading_text">Подождите…</string>
     <string name="local_header_title">Локальные</string>
     <string name="local_music">Локальные</string>
     <string name="local_music_is_not_available">На вашем устройстве нет треков.</string>
@@ -1161,6 +1166,7 @@
     <string name="title_command_mode">Режим команд</string>
     <string name="title_online_fm_recommend">Популярные радиостанции</string>
     <string name="title_online_recommend">Популярные плейлисты</string>
+    <string name="title_recently_played">Недавние</string>
     <string name="title_search_history">История поиска</string>
     <string name="title_search_hot">Популярные</string>
     <string name="toast_cant_collect_mine_playlist">Добавление своих плейлистов в избранное недоступно</string>
