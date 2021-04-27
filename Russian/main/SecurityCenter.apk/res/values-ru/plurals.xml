@@ -34,6 +34,16 @@
         <item quantity="one">Добавлена %d игра</item>
         <item quantity="few">Добавлено %d игры</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d приложений</item>
+        <item quantity="one">%d приложение</item>
+        <item quantity="few">%d приложения</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d приложений</item>
+        <item quantity="one">%d приложение</item>
+        <item quantity="few">%d приложения</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Разрешено %3$d раз с %1$s до %2$s</item>
         <item quantity="one">Разрешено %3$d раз с %1$s до %2$s</item>

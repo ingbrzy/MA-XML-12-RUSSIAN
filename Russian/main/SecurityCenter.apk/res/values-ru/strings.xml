@@ -219,6 +219,7 @@
 Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Обратная связь\"."</string>
     <string name="app_behavior_about_negative">Сообщить о неточностях</string>
     <string name="app_behavior_about_positive">ОК</string>
+    <string name="app_behavior_about_setting">Настройки</string>
     <string name="app_behavior_access_gallery">%1s - доступ к Галерее</string>
     <string name="app_behavior_access_gallery_single">Доступ к Галерее</string>
     <string name="app_behavior_access_sociality">%1s - доступ к файлам соцсетей</string>
@@ -256,15 +257,27 @@
     <string name="app_behavior_contacts_bg">%1s - доступ к контактам в фоновом режиме</string>
     <string name="app_behavior_contacts_bg_single">Доступ к контактам в фоновом режиме</string>
     <string name="app_behavior_contacts_single">Доступ к контактам</string>
+    <string name="app_behavior_dashboard_desc">Активность за последние %d ч.</string>
+    <string name="app_behavior_dashboard_total_usage_title">Все записи</string>
+    <string name="app_behavior_dashboard_usage">Действия</string>
+    <string name="app_behavior_dashboard_usage_list_title">По разрешениям</string>
+    <string name="app_behavior_dashboard_usage_unit">%1$s / %2$s</string>
     <string name="app_behavior_delete_pic">%1s - удаление файлов из Галереи</string>
     <string name="app_behavior_delete_pic_single">Удаление файлов из Галереи</string>
     <string name="app_behavior_denied">Отклонить</string>
     <string name="app_behavior_desc_allow_once">Разрешено в %1$s</string>
+    <string name="app_behavior_desc_allowed">Разрешено</string>
+    <string name="app_behavior_desc_allowed_on_background">Разрешено в фоновом режиме</string>
+    <string name="app_behavior_desc_denied">Отклонено</string>
+    <string name="app_behavior_desc_denied_on_background">Отклонено в фоновом режиме</string>
     <string name="app_behavior_desc_deny_once">Отклонено в %1$s</string>
+    <string name="app_behavior_desc_other_perm_allowed">Активность: %s</string>
+    <string name="app_behavior_desc_other_perm_denied">Активность за последние %d ч.</string>
     <string name="app_behavior_desc_virtual_once">Отправлена пустая информация в %1$s</string>
     <string name="app_behavior_door">Действия</string>
     <string name="app_behavior_get_install">%1s - доступ к списку приложений</string>
     <string name="app_behavior_get_install_single">Доступ к списку приложений</string>
+    <string name="app_behavior_global_settings_perm_tips">Показывать уведомление в строке состояния, когда приложения используют микрофон или камеру</string>
     <string name="app_behavior_header_time">d MMMM</string>
     <string name="app_behavior_key_audio">Доступ к микрофону</string>
     <string name="app_behavior_key_camera">Доступ к камере</string>
@@ -325,6 +338,11 @@
     <string name="app_behavior_read_clipboard_bg">%1s - чтение из буфера обмена в фоновом режиме</string>
     <string name="app_behavior_recognition">%1s - доступ к данным о здоровье и активности</string>
     <string name="app_behavior_recognition_single">Доступ к данным о здоровье и активности</string>
+    <string name="app_behavior_record_setting_button_title">Показать</string>
+    <string name="app_behavior_record_setting_show_system">Действия системных служб</string>
+    <string name="app_behavior_record_setting_show_system_desc">Показывать действия основных системных служб. Для обеспечения стабильности системы эти службы используют необходимые разрешения, некоторые из которых нельзя ограничить.</string>
+    <string name="app_behavior_record_setting_show_system_title">Действия системных служб</string>
+    <string name="app_behavior_record_setting_title">Записи действий</string>
     <string name="app_behavior_search">Поиск</string>
     <string name="app_behavior_sensor">%1s - доступ к данным датчиков о состоянии организма</string>
     <string name="app_behavior_sensor_single">Доступ к данным датчиков о состоянии организма</string>
@@ -889,6 +907,7 @@
     <string name="cetus_invisible_mode_warn_all">Режим инкогнито. Разрешения на доступ к микрофону, камере и местоположению приостановлены.</string>
     <string name="cetus_invisible_mode_warn_camera">Режим инкогнито. Разрешение на доступ к камере приостановлено.</string>
     <string name="cetus_invisible_mode_warn_location">Режим инкогнито. Разрешение на доступ к местоположению приостановлено.</string>
+    <string name="cetus_invisible_mode_warn_open">Режим инкогнито. Разрешения на доступ к микрофону, камере и местоположению будут приостановлены. Включить режим?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Режим инкогнито. Разрешение на доступ к микрофону приостановлено.</string>
     <string name="charger_detect_button_ok">Понятно</string>
     <string name="charger_detect_info1">Проверьте правильность подключения адаптера питания и кабеля.</string>
@@ -1761,6 +1780,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_signed_gift_loading_summary">Подождите…</string>
     <string name="gb_signed_title">Отметились в этом месяце</string>
     <string name="gb_sound_audition">Попробовать</string>
+    <string name="gb_storage_game_dialog_button_timer">%d сек.</string>
+    <string name="gb_storage_game_dialog_message">Загруженная игра будет автоматически добавлена в Ускорение игр, а иконка игры скрыта с рабочего стола. Включить функцию?</string>
     <string name="gb_storage_game_uninstall">Удаление игр</string>
     <string name="gb_storage_summary">Не показывать на рабочем столе игры, которые добавлены в Ускорение игр</string>
     <string name="gb_storage_title">Скрытие игр</string>
@@ -2343,6 +2364,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="net_boosting">Ускорение…</string>
     <string name="net_delay_title">Задержка</string>
     <string name="net_overdue">Сеанс завершен</string>
+    <string name="network_assistant_privacy">Для отслеживания трафика приложений, мы собираем следующую информацию: имена пакетов, пиковое и непиковое использование трафика, частоту использования и время включения Wi-Fi или мобильного интернета. Эта информация хранится локально на устройстве.</string>
     <string name="network_blocked_connected_open_wifi">Подключено к публичной сети</string>
     <string name="network_blocked_notification_summary">Диагностика сети</string>
     <string name="network_blocked_switch_wifi">Подключиться к другой сети</string>
@@ -3323,8 +3345,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_empty_location">Нет записей</string>
     <string name="privacy_empty_record">Нет записей</string>
     <string name="privacy_empty_storage">Нет записей</string>
-    <string name="privacy_guide_permission_guide_text">Показывать уведомления в строке состояния, когда приложения используют местоположение, микрофон или камеру в фоновом режиме.</string>
+    <string name="privacy_global_guide_permission_guide_text">Когда приложения используют микрофон или камеру, в строке состояния будет отображаться уведомление. Нажмите на него, чтобы посмотреть каким приложением используется.</string>
+    <string name="privacy_guide_permission_guide_text">Показывать уведомление в строке состояния, когда приложения используют местоположение, микрофон или камеру в фоновом режиме.</string>
     <string name="privacy_guide_permission_use_text">MIUI будет собирать статистику использования приложениями конфиденциальных разрешений, включая доступ к местоположению, контактам, журналу вызовов, микрофону и памяти устройства. Данная статистика может быть использована для более тонкой настройки разрешений.</string>
+    <string name="privacy_hide_other_permissions">Скрыть другие разрешения</string>
     <string name="privacy_informed_title">Статистика</string>
     <string name="privacy_location_info_summary">Управление доступом к местоположению</string>
     <string name="privacy_location_info_title">Местоположение</string>
@@ -3447,6 +3471,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_search_key_7">Местоположение</string>
     <string name="privacy_search_key_8">Маска конфиденциальности</string>
     <string name="privacy_search_key_9">Виртуальный ID</string>
+    <string name="privacy_show_other_permissions">Показать другие разрешения</string>
     <string name="privacy_show_password">Показывать пароли</string>
     <string name="privacy_show_password_summary">Ненадолго показывать символы при вводе</string>
     <string name="privacy_special_permission_summary">Управление специальными разрешениями</string>
@@ -4337,6 +4362,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="timeshow_h_int">%d ч.</string>
     <string name="timeshow_m">%d мин.</string>
     <string name="timeshow_s">%d сек.</string>
+    <string name="tips">Совет</string>
     <string name="tips_dialog_title">Лимит неизвестен</string>
     <string name="tips_message">Чтобы узнать о своем тарифном плане, позвоните %2$s (%1$s).</string>
     <string name="tips_of_app_manage">Удаление редко используемых приложений</string>

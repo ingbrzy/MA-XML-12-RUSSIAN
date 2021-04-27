@@ -314,6 +314,7 @@
     <string name="disabled">Отключено</string>
     <string name="disabled_by_admin">Отключено администратором</string>
     <string name="disabled_by_admin_summary_text">Контролируется администратором</string>
+    <string name="do_not_show_again">Больше не показывать</string>
     <string name="duplicate_video_call_not_allowed">Не удается совершить еще один вызов</string>
     <string name="enable_account_preference_title">Аккаунты для вызовов</string>
     <string name="enable_adb">Отладка по USB</string>
@@ -525,6 +526,11 @@
     <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
     <string name="runningservices_settings_title">Работающие приложения</string>
     <string name="saved_network">Кто сохранил: %1$s</string>
+    <string name="scam_cancle">Отмена</string>
+    <string name="scam_message">Вы настраиваете переадресацию вызовов. Все входящие вызовы будут перенаправлены на номер %1$s. Если это не ваш номер, вы подвергаете риску личную информацию и безопасность. Используйте функцию с осторожностью.</string>
+    <string name="scam_message_2">**21*Номер переадресации# - это код переадресации вызова. В случае вопросов обратитесь к своему оператору связи.</string>
+    <string name="scam_ok">ОК</string>
+    <string name="scam_title">Предупреждение</string>
     <string name="screen_zoom_summary_custom">Другой (%d)</string>
     <string name="screen_zoom_summary_default">По умолчанию</string>
     <string name="screen_zoom_summary_extremely_large">Максимальный</string>
