@@ -2942,6 +2942,13 @@
     <string name="exterior">Режим</string>
     <string name="external_code_size_label">На USB-накопителе</string>
     <string name="external_data_size_label">SD-карта</string>
+    <string name="external_ram_dialog_btn_cancel">Позже</string>
+    <string name="external_ram_dialog_btn_ok">Перезагрузить</string>
+    <string name="external_ram_dialog_message">Перезагрузите устройство, чтобы изменения вступили в силу.</string>
+    <string name="external_ram_dialog_title">Перезагрузка</string>
+    <string name="external_ram_summary">Расширение ОЗУ на %1$s %2$s. Используйте эту функцию только если на устройстве достаточно места.</string>
+    <string name="external_ram_title">Расширение ОЗУ</string>
+    <string name="external_ram_toast">Недостаточно места на устройстве для расширения ОЗУ</string>
     <string name="external_source_switch_title">Разрешить установку из этого источника</string>
     <string name="external_source_trusted">Разрешено</string>
     <string name="external_source_untrusted">Не разрешено</string>
@@ -5605,6 +5612,8 @@ OTG отключается автоматически через 10 минут �
     <string name="permission_manage_title">%s</string>
     <string name="permission_manager">Разрешения</string>
     <string name="permission_mgr">Разрешения</string>
+    <string name="permission_records">Использование разрешений</string>
+    <string name="permission_records_summary">Сводка использования разрешений приложениями</string>
     <string name="permission_settings_summary">Управление разрешениями, связанными с местоположением, памятью, вызовами, сообщениями и контактами</string>
     <string name="permission_settings_title">Разрешения приложений</string>
     <string name="permissions_label">Разрешения</string>
