@@ -569,6 +569,7 @@
     <string name="custom_watermark_words_save_success">Сохранено успешно</string>
     <string name="date_picker_lunar">Лунный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
+    <string name="dd_frn_f_t">Сложите устройство, чтобы использовать переднюю камеру</string>
     <string name="dialog_button_accept">Принять</string>
     <string name="dialog_button_back">Назад</string>
     <string name="dialog_button_cancel">Отмена</string>
@@ -659,6 +660,7 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_fail_to_start_audio_capture">Не удалось включить звуковое управление</string>
+    <string name="esp_tip">Предпросмотр на внешнем дисплее</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="extend_time_watermark_2_logo_text">СУПЕРЛУНА</string>
@@ -1289,6 +1291,7 @@
     <string name="pref_camera_eis_entry_off">Выкл.</string>
     <string name="pref_camera_eis_entry_pro">Стабилизация видео PRO</string>
     <string name="pref_camera_eis_title">EIS</string>
+    <string name="pref_camera_esp">Предпросмотр на заднем дисплее</string>
     <string name="pref_camera_exposuretime_entry_0_3">0.3</string>
     <string name="pref_camera_exposuretime_entry_0_4">0.4</string>
     <string name="pref_camera_exposuretime_entry_0_5">2</string>
@@ -1564,6 +1567,8 @@
     <string name="pref_camera_touch_focus_delay_title">Увеличить время ожидания фокусировки касанием</string>
     <string name="pref_camera_touchafaec_entry_off">Откл</string>
     <string name="pref_camera_touchafaec_entry_on">Вкл</string>
+    <string name="pref_camera_track_focus_preferred_description">Автоматическая фокусировка на людях и животных. Также доступен ручной выбор объектов для фокусировки.</string>
+    <string name="pref_camera_track_focus_preferred_title">Автоматическая фокусировка</string>
     <string name="pref_camera_ubifocus_title">Комбо фокус</string>
     <string name="pref_camera_ultra_wide_ldc_description">Автоматически корректировать искажения на ультраширокоугольных снимках</string>
     <string name="pref_camera_ultra_wide_ldc_title">Коррекция искажений</string>
@@ -1771,12 +1776,16 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="prek_b_j_o">Воссоздать эффект стереозвука</string>
     <string name="prek_b_j_p">Уменьшить влияние ветра на звукозапись</string>
-    <string name="prep_video_ai_audio_new_desc_tip">Звуки от объекта в фокусе усилены</string>
-    <string name="prep_video_ai_audio_single_desc_tip">Звуки позади экрана отфильтрованы</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Усиление звуков от объекта в фокусе</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Усиление звуков от объекта в фокусе в ландшафтном режиме</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Фильтрация звуков позади экрана</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Фильтрация звуков позади экрана в ландшафтном режиме</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Аудиозум не работает с внутриушным монитором и внешним микрофоном</string>
     <string name="preparing_sd">Подготовка SD-карты…</string>
     <string name="preview_back_pressed_hint">Нажмите еще раз, чтобы вернуться к предпросмотру</string>
     <string name="pro_color_mode">Продвинутый цветовой режим</string>
+    <string name="process_tips_1">Не складывайте устройство, пока идет сохранение видео</string>
+    <string name="process_tips_2">Не разворачивайте устройство, пока идет сохранение видео</string>
     <string name="professional_shortcut_short">Ручной</string>
     <string name="prompt_desc">Для использования этой функции требуется %s MБ мобильного трафика. Продолжить?</string>
     <string name="recommend_macro_mode">Попробуйте режим Макро</string>

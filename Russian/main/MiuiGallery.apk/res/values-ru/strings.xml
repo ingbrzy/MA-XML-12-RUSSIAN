@@ -459,7 +459,7 @@
     <string name="clip_speedX_3.0x">3.0X</string>
     <string name="close">Закрыть</string>
     <string name="close_dialog_desc">Закрыть окно диалога</string>
-    <string name="cloud_authorize_to_share_to_device">Авторизуйтесь для просмотра на телевизорах, связанных с Mi Аккаунтом</string>
+    <string name="cloud_authorize_to_share_to_device">Авторизуйтесь для просмотра на ТВ, связанных с Mi Аккаунтом</string>
     <string name="cloud_authorizing_to_device">Авторизация…</string>
     <string name="cloud_backup_enable_title">Синхронизировать</string>
     <string name="cloud_backup_open_button">Включить</string>
@@ -472,6 +472,10 @@
     <string name="cloud_bacup_disable_processing">Обработка…</string>
     <string name="cloud_camera_display_name">Камера</string>
     <string name="cloud_cancel_authorizing_to_device">Отмена авторизации…</string>
+    <string name="cloud_full_space_tip_message">Обновите тарифный план облачного хранилища для синхронизации фото и видео с облаком</string>
+    <string name="cloud_full_space_tip_negative">Не сейчас</string>
+    <string name="cloud_full_space_tip_positive">Обновить</string>
+    <string name="cloud_full_space_tip_title">Недостаточно места в облаке</string>
     <string name="cloud_guide_auto_backup_title">Выберите альбомы для выгрузки</string>
     <string name="cloud_guide_login_title">Автоматическая выгрузка фото и видео</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -846,6 +850,7 @@
     <string name="filter_food_dessert">Десерт</string>
     <string name="filter_food_fruit">Фрукты</string>
     <string name="filter_food_latte">Латте</string>
+    <string name="filter_food_orangeflavor">Мандарин</string>
     <string name="filter_food_softdrink">Лимонад</string>
     <string name="filter_food_wholemeal">Зерна</string>
     <string name="filter_general_blackice">Черный лед</string>
@@ -858,6 +863,7 @@
     <string name="filter_general_lilt">Ритм</string>
     <string name="filter_general_movie">Пленка</string>
     <string name="filter_general_nature">Натуральный</string>
+    <string name="filter_general_past">Прошлое</string>
     <string name="filter_general_pink">Румянец</string>
     <string name="filter_general_portrait">Портрет</string>
     <string name="filter_general_rise">Восход</string>
@@ -913,15 +919,18 @@
     <string name="filter_popular_coldsmoke">Прохладный туман</string>
     <string name="filter_popular_comic">Аниме</string>
     <string name="filter_popular_dream">Мечты</string>
+    <string name="filter_popular_gingertea">Имбирь</string>
     <string name="filter_popular_hill">Холмы</string>
     <string name="filter_popular_humanity">Документальный</string>
     <string name="filter_popular_icesnow">Снегопад</string>
     <string name="filter_popular_kamakura">Камакура</string>
     <string name="filter_popular_lnk">Чернила</string>
+    <string name="filter_popular_mango">Манго</string>
     <string name="filter_popular_purple">Пурпур</string>
     <string name="filter_popular_shallow_summer">Июнь</string>
     <string name="filter_popular_smokegreen">Шалфей</string>
     <string name="filter_popular_watergreen">Изумруд</string>
+    <string name="filter_popular_windchime">Колокольчик</string>
     <string name="filter_popular_wintersun">Середина зимы</string>
     <string name="filter_portrait_greyish">Пепел</string>
     <string name="filter_portrait_hint">Цветовой фокус</string>
@@ -1008,6 +1017,7 @@
     <string name="filter_sky_yunmeng">Фантазия</string>
     <string name="filter_sky_yunxu">Перистые облака</string>
     <string name="filter_texture_shadow">Сумерки</string>
+    <string name="filter_travel_charlotte">Шарлотта</string>
     <string name="finish_create_baby_album_toast">Альбом для \"%s\" создан в Xiaomi Cloud</string>
     <string name="finish_fill_baby">Создать</string>
     <string name="first_time_add_video_to_secret_tips">Обновите галерею, для возможности добавлять видео в приватный альбом</string>
@@ -1318,6 +1328,7 @@
     <string name="mi_note_10">Mi Note 10</string>
     <string name="micloud_introduce">Автоматически синхронизировать фото и видео (требуется Mi Аккаунт)</string>
     <string name="midnight">Ночь</string>
+    <string name="mishare_all_devices">Все устройства</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -2260,6 +2271,7 @@
     <string name="sync_off_title">Включите синхронизацию с облаком для автоматической выгрузки фото и видео</string>
     <string name="sync_pending_title">Ожидание синхронизации</string>
     <string name="sync_state_unknow">Получение данных…</string>
+    <string name="synced_photo_video_count">Синхронизировано %1$s и %2$s</string>
     <string name="synced_title">Фото и видео успешно выгружены</string>
     <string name="syncing_gprs_title">Выгрузка через мобильный интернет</string>
     <string name="syncing_metadata_title">Синхронизация данных Xiaomi Cloud</string>

@@ -318,6 +318,10 @@
         <item quantity="other">Ожидание выгрузки %1$d видео</item>
         <item quantity="one">Ожидание выгрузки %1$d видео</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Всего %1$d файлов</item>
         <item quantity="one">Всего %1$d файл</item>
@@ -560,6 +564,14 @@
         <item quantity="one">%d файл</item>
         <item quantity="few">%d файла</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Синхронизировано %d фото</item>
+        <item quantity="one">Синхронизировано %d фото</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Синхронизировано %d видео</item>
+        <item quantity="one">Синхронизировано %d видео</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">Вы не сможете восстановить %d выбранных фото. Все равно удалить?</item>
         <item quantity="one">Вы не сможете восстановить %d выбранное фото. Все равно удалить?</item>
@@ -585,5 +597,9 @@
         <item quantity="other">Всего %1$d файлов</item>
         <item quantity="one">Всего %1$d файл</item>
         <item quantity="few">Всего %1$d файла</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
     </plurals>
 </resources>
