@@ -152,9 +152,9 @@
     <string name="app_name">Разрешения</string>
     <string name="background_location_access_reminder_notification_content">Приложение имеет разрешение всегда получать доступ к местоположению. Нажмите для изменения разрешения.</string>
     <string name="background_location_access_reminder_notification_title">Приложение %s использовало доступ к местоположению</string>
-    <string name="blur_location_is_on_tip">Приложение %1$s использует неточное местоположение. Включить точное местоположение?</string>
-    <string name="blur_location_now_tip">Включено неточное местоположение</string>
-    <string name="blur_location_title">Неточное местоположение</string>
+    <string name="blur_location_is_on_tip">Для приложения %1$s включено размытие местоположения. Включить точное местоположение?</string>
+    <string name="blur_location_now_tip">Включено размытие местоположения</string>
+    <string name="blur_location_title">Размытие местоположения</string>
     <string name="cetus_invisible_mode_notice_audio">Режим инкогнито: микрофон недоступен</string>
     <string name="cetus_invisible_mode_notice_camera">Режим инкогнито: камера недоступна</string>
     <string name="cetus_invisible_mode_notice_location">Режим инкогнито: сервисы местоположения недоступны</string>
@@ -343,8 +343,8 @@
     <string name="permission_warning_template">Разрешить приложению %1$s %2$s?</string>
     <string name="permission_warning_template_ask">Приложение %1$s запрашивает следующее разрешение:</string>
     <string name="permisson_reject_notice_toast_text2">нет разрешения на %1$s.</string>
-    <string name="real_location_off">Неточное местоположение включено</string>
-    <string name="real_location_on">Неточное местоположение отключено</string>
+    <string name="real_location_off">Размытие местоположения: вкл.</string>
+    <string name="real_location_on">Размытие местоположения: откл.</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
