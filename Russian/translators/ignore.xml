@@ -604,6 +604,8 @@
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="back_ad">铺底广告%s</string>
     <string name="back_alioth">3:REDMI K40</string>
+    <string name="back_alioth_global">3:POCO F3</string>
+    <string name="back_aliothin">3:MI 11X</string>
     <string name="back_andromeda">2:MI MIX 3 5G:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_apollo">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_apollo_global">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
@@ -669,6 +671,7 @@
     <string name="back_haydn">3:REDMI K40 PRO</string>
     <string name="back_haydn_pro">3:REDMI K40 PRO+</string>
     <string name="back_haydn_pro_global">3:MI 11i</string>
+    <string name="back_haydnin_pro_india">3:MI 11X PRO</string>
     <string name="back_hercules">3:SHOT ON MI 9:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_joyeuse">4:REDMI NOTE 9 PRO:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_joyeuse_india">4:REDMI NOTE 9 PRO MAX:AI QUAD CAMERA:64MP QUAD CAMERA</string>
@@ -712,6 +715,7 @@
     <string name="back_pomelo">4:MI PHONE</string>
     <string name="back_pyxis">3:SHOT ON MI CC 9:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_pyxis_global">3:SHOT ON MI 9 LITE:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
+    <string name="back_rainbow">3:REDMI NOTE 10</string>
     <string name="back_raphael">3:REDMI K20 PRO:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_raphael_global">3:SHOT ON MI 9T PRO:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_raphael_redmi_k20_pro_premium_edition">3:REDMI K20 PRO PREMIUM:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
@@ -722,7 +726,11 @@
     <string name="back_shiva_india_reloaded">0:POCO:POCO M2 RELOADED</string>
     <string name="back_sirius">2:SHOT ON MI 8 SE:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_star_pro">3:MI 11 ULTRA</string>
+    <string name="back_sunny">4:REDMI NOTE 10</string>
     <string name="back_surya">4:REDMI NOTE 9S:AI QUAD CAMERA:64MP QUAD CAMERA</string>
+    <string name="back_sweet_pro_global">4:REDMI NOTE 10 PRO</string>
+    <string name="back_sweetin_india">4:REDMI NOTE 10 PRO</string>
+    <string name="back_sweetin_pro_india">4:REDMI NOTE 10 PRO MAX</string>
     <string name="back_thyme">4:MI PHONE</string>
     <string name="back_to_mi_video">返回小米视频观看</string>
     <string name="back_toco">1:MI NOTE 10 LITE:AI QUAD CAMERA:64MP QUAD CAMERA</string>
@@ -2558,6 +2566,8 @@
     <string name="load_attachment">@string/load_more</string>
     <string name="loan_type_summary_base">@string/base_rate</string>
     <string name="localised_number">%d</string>
+    <string name="location_agps_def_supl_host">supl.google.com</string>
+    <string name="location_agps_def_supl_port">7275</string>
     <string name="lock_intro_message">Lock_intro_message</string>
     <string name="lock_pattern_view_aspect">square</string>
     <string name="lock_screen_business_hongbao_message"> </string>
@@ -4429,6 +4439,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-    <string name="location_agps_def_supl_host">supl.google.com</string>
-    <string name="location_agps_def_supl_port">7275</string>
 </resources>

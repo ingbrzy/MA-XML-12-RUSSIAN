@@ -36,7 +36,7 @@
     <string name="afternoon">После полудня</string>
     <string name="alert_button_agree_and_continue">Разрешить</string>
     <string name="alert_button_deny">Отклонить</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite запрашивает разрешение на создание резервной копии на компьютере. Разрешить?</string>
+    <string name="alert_message_backup_to_miasist">Mi PC Suite запрашивает разрешение на создание резервной копии на ПК. Разрешить?</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite запрашивает разрешение на восстановление объектов на устройстве. Разрешить?</string>
     <string name="alert_miasist_occupy_backup">Идет резервное копирование с помощью Mi PC Suite… Дождитесь завершения и повторите попытку.</string>
     <string name="alert_miasist_occupy_restore">Идет восстановление с помощью Mi PC Suite… Дождитесь завершения и повторите попытку.</string>
@@ -74,6 +74,7 @@
     <string name="backup_finished">Резервное копирование завершено</string>
     <string name="backup_hint">Не выключайте устройство</string>
     <string name="backup_hint_onpad">Не выключайте устройство</string>
+    <string name="backup_hint_pad">Не выключайте устройство</string>
     <string name="backup_is_running">Резервное копирование устройства</string>
     <string name="backup_new">Новый</string>
     <string name="backup_progress">Резервное копирование…</string>
@@ -112,7 +113,7 @@
 После создания новых контрольных вопросов и подтверждения даты рождения двухфакторная аутентификация будет отключена. Если на странице учетной записи Apple ID отсутствует пункт для отключения двухфакторной аутентификации, значит, ее нельзя отключить."</string>
     <string name="close_twice_auth_operation">"Ссылка для отключения:
 https://appleid.apple.com/#!&amp;page=signin"</string>
-    <string name="close_twice_auth_step_1">1. Откройте на компьютере любой браузер и перейдите на сайт appleid.apple.com.</string>
+    <string name="close_twice_auth_step_1">1. Откройте на ПК любой браузер и перейдите на сайт appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Войдите в Apple ID, для которого вы хотите отключить двухфакторную аутентификацию, перейдите в раздел \"Безопасность\" параметров учетной записи и выберите \"Правка\".</string>
     <string name="close_twice_auth_step_3">3. Нажмите \"Выключить двухфакторную аутентификацию\". Нажмите еще раз для подтверждения.</string>
     <string name="close_twice_auth_steps">Для отключения двухфакторной аутентификации Apple ID выполните следующие действия:</string>
@@ -291,8 +292,8 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="loading_data">Загрузка данных</string>
     <string name="local_app_name">Резервное копирование</string>
     <string name="local_back_up_detail_description">"Внимание:
-1. Для избежания потери данных, сохраняйте локальные резервные копии на компьютере.
-2. Всегда копируйте локальные резервные копии на компьютер перед сбросом к заводским настройкам, они будут удалены.
+1. Для избежания потери данных, сохраняйте локальные резервные копии на ПК.
+2. Всегда копируйте локальные резервные копии на ПК перед сбросом к заводским настройкам, они будут удалены.
 3. Расположение резервных копий: %1$s"</string>
     <string name="local_backup_select_activity">Создание резервной копии</string>
     <string name="local_backup_window_title">Локальное резервное копирование</string>
@@ -418,22 +419,27 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="new_local_button_restore">Восстановить</string>
     <string name="new_local_click_to_jump">Инструкция</string>
     <string name="new_local_detail_description">"Внимание:\u000d
-%1$d. Сохраните резервные копии на компьютере, чтобы избежать потери данных. %2$s.\u000d
+%1$d. Сохраните резервные копии на ПК, чтобы избежать потери данных. %2$s.\u000d
 %3$d. Резервные копии будут сохранены в папке MIUI/Backup/AllBackup."</string>
     <string name="new_local_tab_backup">Резервное копирование</string>
+    <string name="new_local_tab_backup_pad">Резервное копирование</string>
     <string name="new_local_tab_restore">Восстановление</string>
+    <string name="new_local_tab_restore_pad">Восстановление</string>
     <string name="new_low_storage_title">Недостаточно места</string>
     <string name="new_more_settings_label">Дополнительные настройки</string>
     <string name="new_pc_backup_content1">%1$d. Откройте %2$s.</string>
     <string name="new_pc_backup_content2">%d. Дождитесь окончания резервного копирования.</string>
     <string name="new_pc_backup_content3">%d. Резервные копии будут находиться в папке MIUI/Backup/AllBackup.</string>
-    <string name="new_pc_backup_content4">%d. Сохраните резервные копии на компьютере.</string>
+    <string name="new_pc_backup_content4">%d. Сохраните резервные копии на ПК.</string>
     <string name="new_pc_backup_restore_link">Мобильное устройство</string>
+    <string name="new_pc_backup_restore_link_pad">Мобильное устройство</string>
     <string name="new_pc_backup_summary1">Выберите элементы и нажмите \"Создать резервную копию\".</string>
-    <string name="new_pc_backup_summary2">Подключите устройство к компьютеру через USB-кабель.</string>
+    <string name="new_pc_backup_summary2">Подключите устройство к ПК через USB-кабель.</string>
+    <string name="new_pc_backup_summary2_pad">Подключите устройство к ПК через USB-кабель.</string>
     <string name="new_pc_backup_summary4">Примечание: вы также можете скопировать фото и видео из папки DCIM.</string>
-    <string name="new_pc_restore_content1">%d. Подключите устройство к компьютеру через USB-кабель.</string>
-    <string name="new_pc_restore_content2">%d. Скопируйте резервные копии с компьютера в папку MIUI/Backup/AllBackup.</string>
+    <string name="new_pc_restore_content1">%d. Подключите устройство к ПК через USB-кабель.</string>
+    <string name="new_pc_restore_content2">%d. Скопируйте резервные копии с ПК в папку MIUI/Backup/AllBackup.</string>
+    <string name="new_pc_restore_content2_pad">%d. Скопируйте резервные копии с ПК в папку MIUI/Backup/AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Откройте %2$s и выберите элементы для восстановления.</string>
     <string name="new_pc_title">Копирование резервных копий</string>
     <string name="new_select_file">Аудио, видео и файлы</string>
@@ -459,6 +465,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="no_encrypt_password">Нет пароля шифрования</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="noon">Полдень</string>
+    <string name="not_enough_storage_tips">Недостаточно места. Освободите место и повторите попытку.</string>
     <string name="not_set">Не задано</string>
     <string name="note_title">Заметки</string>
     <string name="nothing_searched">Ничего не найдено</string>

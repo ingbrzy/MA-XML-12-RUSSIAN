@@ -71,8 +71,10 @@
     <string name="add_data_source_process">Как добавить источник данных</string>
     <string name="add_data_source_support_step">Это устройство не генерирует данные о количестве шагов. Попробуйте другое.</string>
     <string name="add_data_type_datasource">Добавить источник данных (%1$s)</string>
-    <string name="add_model_card">"Нажмите на кнопку в левом верхнем углу
+    <string name="add_model_card">"Нажмите кнопку в левом верхнем углу,
 чтобы добавить карточки"</string>
+    <string name="add_model_card2">"Нажмите кнопку выше, чтобы добавить карточки.
+Вы сможете отслеживать свои тренировки и активность."</string>
     <string name="add_owned_device">Доступные устройства</string>
     <string name="add_record">Добавить</string>
     <string name="added_data_source">Добавленные источники</string>
@@ -368,6 +370,7 @@ ID:%s
     <string name="dialog_delete_record_confirm">Удалить запись?</string>
     <string name="dialog_exercise_purpose">Добро пожаловать в приложение Здоровье! Функция \"Счетчик шагов\" позволяет подсчитывать количество пройденных вами шагов, а также настраивать цели активности. Все данные хранятся локально на вашем устройстве, что позволяет легко управлять ими.</string>
     <string name="dialog_exit">Выход</string>
+    <string name="dialog_exit_use">Выход</string>
     <string name="dialog_feedback_content">Если вы не согласны предоставить разрешение, вы не сможете использовать некоторые функции этого приложения; тем не менее, основные функции приложения по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать авторизацию в настройках.</string>
     <string name="dialog_feedback_purpose">Приложению требуется доступ к хранилищу, чтобы отправлять отзывы.</string>
     <string name="dialog_feedback_purpose2">Для отправки отзывов</string>
@@ -405,6 +408,8 @@ ID:%s
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
     <string name="dot">.</string>
+    <string name="download_apk">Загрузка %s…</string>
+    <string name="download_background">Загрузка</string>
     <string name="drag_sort">Перегруппировка</string>
     <string name="dream_talk">Разговор во сне %1$s</string>
     <string name="dream_talk_record">Ваш разговор во сне был записан</string>

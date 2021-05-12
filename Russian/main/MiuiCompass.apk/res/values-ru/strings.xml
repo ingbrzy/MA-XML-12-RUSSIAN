@@ -81,7 +81,8 @@
     <string name="error_camera_unavailable_title">Камера недоступна</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="first_using_dialog_message">Приложению Компас для нормальной работы требуется доступ к сети, камере и службам местоположения.</string>
+    <string name="first_using_dialog_message">Приложению Компас для нормальной работы требуется доступ к сети, камере и местоположению.</string>
+    <string name="first_using_dialog_message_no_camera">Приложению Компас для нормальной работы требуется доступ к интернету и местоположению. Разрешить?</string>
     <string name="first_using_dialog_title">Требуются разрешения</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -187,6 +188,7 @@
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
     <string name="open_perm_msg">Приложению Компас требуется доступ к местоположению и камере. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
+    <string name="open_perm_msg_no_camera">Приложению Компас требуется доступ к местоположению для определения координат. Разрешить?</string>
     <string name="open_perm_title">Требуются разрешения</string>
     <string name="permission_camera_desc">Использование в качестве уровня</string>
     <string name="permission_location_desc">Отображение координат и атмосферного давления</string>

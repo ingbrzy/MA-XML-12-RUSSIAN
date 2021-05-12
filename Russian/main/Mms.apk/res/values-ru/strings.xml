@@ -81,7 +81,7 @@
     <string name="attach_video_call">Видеозвонок</string>
     <string name="audio_download_failed">Не удалось загрузить запись</string>
     <string name="audio_message_expired">Это голосовое сообщение уже недоступно.</string>
-    <string name="audio_message_mx_offline">Не удалось загрузить аудио. Mi сообщения отключены или недоступны.</string>
+    <string name="audio_message_mx_offline">Не удалось загрузить аудио. \"Mi сообщения\" отключены или недоступны.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Нет подключения к сети или установлена неверная SIM-карта. Установите SIM-карту, с которой было отправлено сообщение, и подключитесь к сети.</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Включить Умные сообщения</string>
@@ -203,7 +203,8 @@
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
-    <string name="date_picker_lunar">Традиционный китайский календарь</string>
+    <string name="date_picker_lunar">Лунный календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="debug_about_mms">О приложении</string>
     <string name="debug_category_db">База данных</string>
     <string name="debug_category_others">Другое</string>
@@ -230,7 +231,7 @@
     <string name="dialog_message_correct_as_ad">Все сообщения от %s (кроме проверочных кодов) будут перемещены в рекламные сообщения.</string>
     <string name="dialog_message_correct_as_normal">Выберите сообщения для перемещения</string>
     <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого MIUI необходимо загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на свои серверы.</string>
-    <string name="dialog_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Нажав \"Согласен\", вы принимаете \"%1$s\" и \"%2$s\".</string>
+    <string name="dialog_message_mx">\"Mi сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Нажав \"Согласен\", вы принимаете \"%1$s\" и \"%2$s\".</string>
     <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Сообщениям и Справочнику для нормальной работы требуется подключение к интернету и доступ к вашему местоположению. Разрешить?</string>
     <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае. Перед использованием Сообщений China Mobile вы должны принять \"%1$s\".</string>
     <string name="dialog_sim_locked_confirm">ОК</string>
@@ -301,8 +302,8 @@
     <string name="fake_cell_timeout_hint">Не удалось проверить безопасность</string>
     <string name="favorite_at_time">Добавлено в избранные: %1s</string>
     <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из списка разрешенных.</string>
-    <string name="feature_mx">Mi Сообщения</string>
-    <string name="feature_mx_summary">&lt;b&gt;Mi Сообщения позволяет отправлять сообщения другим пользователям Mi Сообщения через интернет без дополнительной оплаты.&lt;/b&gt;.  Для активации этой услуги необходима отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение. Перед использованием этой функции прочитайте и согласитесь с нашими &lt;font color="#B3000000"&gt;Пользовательским соглашением&lt;/font&gt; и &lt;font color="#B3000000"&gt;Политикой конфиденциальности&lt;/font&gt;.</string>
+    <string name="feature_mx">Mi сообщения</string>
+    <string name="feature_mx_summary">&lt;b&gt;\"Mi сообщения\" позволяют отправлять сообщения другим пользователям MIUI через интернет без дополнительной оплаты.&lt;/b&gt;.  Для активации этой услуги необходима отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение. Перед использованием этой функции прочитайте и согласитесь с нашими &lt;font color="#B3000000"&gt;Пользовательским соглашением&lt;/font&gt; и &lt;font color="#B3000000"&gt;Политикой конфиденциальности&lt;/font&gt;.</string>
     <string name="feature_smart_sms">Умные сообщения</string>
     <string name="feature_smart_sms_summary">"&lt;b&gt;Умные сообщения обеспечивают распознавание ID отправителя и услуги интеллектуального меню&lt;/b&gt;". Умные сообщения частично предоставлены Yulore. Перед использованием этой функции прочитайте и согласитесь с "&lt;font color="#B3000000"&gt;Политикой конфиденциальности&lt;/font&gt; Yulore."</string>
     <string name="festival_sms_loading">Загрузка…</string>
@@ -454,7 +455,10 @@
     <string name="message_too_big_for_audio">Сообщение слишком большое для добавления аудио</string>
     <string name="message_too_big_for_video">Сообщение слишком большое для добавления видео</string>
     <string name="message_type_label">"Тип: "</string>
+    <string name="message_unread">Непрочитанное</string>
     <string name="messagelist_sender_self">Я</string>
+    <string name="messages_installed_notification_text_xiaomi">Нажмите, чтобы начать чат</string>
+    <string name="messages_installed_notification_title_xiaomi">Приложение \"Сообщения\" установлено</string>
     <string name="messaging">Обмен сообщениями</string>
     <string name="mi_message_title">Mi сообщения</string>
     <string name="midnight">Ночь</string>
@@ -469,10 +473,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -579,16 +586,16 @@
     <string name="mx_current_status">Настройки</string>
     <string name="mx_dspt">Бесплатно отправляйте SMS и MMS другим пользователям MIUI при подключении к Wi-Fi</string>
     <string name="mx_dspt_listview">Бесплатно отправляйте сообщения другим пользователям MIUI</string>
-    <string name="mx_dspt_provision">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI через интернет. Для повторной активации Mi сообщений может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, когда эта функция включена, ей требуется небольшое количество мобильного трафика для проверки статуса адресата. Вы согласны?</string>
+    <string name="mx_dspt_provision">\"Mi сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет. Для повторной активации Mi сообщений может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, когда эта функция включена, ей требуется небольшое количество мобильного трафика для проверки статуса адресата. Вы согласны?</string>
     <string name="mx_dspt_provision_ex2">Политика конфиденциальности</string>
     <string name="mx_enable">Mi сообщения</string>
     <string name="mx_enable_ex">Mi сообщения и телефония</string>
-    <string name="mx_enable_popup_msg">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI.</string>
+    <string name="mx_enable_popup_msg">\"Mi сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI.</string>
     <string name="mx_filter_message_from_stranger">Блокировать Mi сообщения с неизвестных номеров</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Вы по-прежнему сможете получать SMS с неизвестных номеров. Включить или отключить эту функцию можно в разделе Сообщения &gt; Настройки.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Блокировать Mi сообщения с неизвестных номеров</string>
     <string name="mx_filter_message_from_stranger_summary">Вы по-прежнему сможете получать SMS с неизвестных номеров</string>
-    <string name="mx_main_purpose">"Mi сообщения позволяют отправлять сообщения другим пользователям Mi сообщений через интернет без дополнительной оплаты.
+    <string name="mx_main_purpose">"\"Mi сообщения\" позволяют отправлять сообщения другим пользователям MIUI через интернет без дополнительной оплаты.
 Для активации Mi сообщений потребуется отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение."</string>
     <string name="mx_main_purpose_short">Приложение позволяет пользователям MIUI бесплатно отправлять и получать SMS и MMS сообщения.</string>
     <string name="mx_message">Mi сообщения</string>
@@ -608,8 +615,8 @@
     <string name="net_sms_unsubscribe">Подписка отменена</string>
     <string name="network_error_description">Произошла ошибка сети. Подождите немного и повторите попытку.</string>
     <string name="networking_allow_continue">Разрешить</string>
-    <string name="networking_allow_desc">Mi сообщениям для нормальной работы требуется подключение к интернету. Для предоставления бесплатных текстовых и голосовых услуг, распознавания неизвестных номеров, фильтрации спама и включения других функций, Mi сообщения должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
-    <string name="networking_allow_desc_without_mx">Mi сообщениям для нормальной работы требуется подключение к интернету. Для распознавания неизвестных номеров, фильтрации спама и включения других функций, Mi сообщения должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
+    <string name="networking_allow_desc">Приложению \"Mi сообщения\" для нормальной работы требуется подключение к интернету. Для предоставления бесплатных текстовых и голосовых услуг, распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi сообщения\" должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
+    <string name="networking_allow_desc_without_mx">Приложению \"Mi сообщения\" для нормальной работы требуется подключение к интернету. Для распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi сообщения\" должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
     <string name="networking_allow_title">Внимание</string>
     <string name="new_message">Новое сообщение</string>
     <string name="new_message_arrived">Непрочитанное</string>
@@ -636,6 +643,7 @@
     <string name="notification_add_todo_content">Получить код: %s</string>
     <string name="notification_channel_msg_description">Уведомления о сообщениях</string>
     <string name="notification_channel_msg_name">Сообщения</string>
+    <string name="notification_channel_name_xiaomi">Уведомления об обновлениях</string>
     <string name="notification_channel_other_description">Прочие уведомления</string>
     <string name="notification_channel_other_name">Прочее</string>
     <string name="notification_channel_sim1_description">Уведомления о сообщениях SIM 1</string>
@@ -774,8 +782,11 @@
     <string name="privacy_password_title3">Обновите ваш пароль</string>
     <string name="privacy_password_title4">Пароль обновлен</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_revoke_nonetwork_msg">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="privacy_revoke_nonetwork_ok">Понятно</string>
+    <string name="privacy_revoke_nonetwork_title">Сеть недоступна</string>
     <string name="privacy_state_revoked_cancel">Отмена</string>
-    <string name="privacy_state_revoked_content">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности приложения Сообщения. Сбор вашей личной информации будет прекращен. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Для предоставления сервисов Mi Сообщения и Умные сообщения, приложению Сообщения требуется сбор необходимой личной информации. Отзыв согласия будет рассматриваться как отказ от использования сервисов.</string>
+    <string name="privacy_state_revoked_content">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности приложения Сообщения. Сбор вашей личной информации будет прекращен. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Для предоставления сервисов Mi сообщения и Умные сообщения, приложению Сообщения требуется сбор необходимой личной информации. Отзыв согласия будет рассматриваться как отказ от использования сервисов.</string>
     <string name="privacy_state_revoked_dialog_title">Отзыв согласия</string>
     <string name="privacy_state_revoked_revoked">Отозвать</string>
     <string name="privacy_state_revoked_switch">Отзыв согласия</string>
@@ -788,6 +799,21 @@
     <string name="private_protect">Защита данных</string>
     <string name="private_settings">Настройки</string>
     <string name="processing">Обработка…</string>
+    <string name="promo_back_btn_text_xiaomi">Вернуться в \"Mi сообщения\"</string>
+    <string name="promo_install_btn_text">Далее</string>
+    <string name="promo_install_bullet_1_xiaomi">Используйте Google Assistant для ввода текста и задач</string>
+    <string name="promo_install_bullet_2_xiaomi">Сохраняйте текущие диалоги и медиа</string>
+    <string name="promo_install_bullet_3_xiaomi">Легкий поиск общих сообщений и медиа</string>
+    <string name="promo_install_bullet_4_xiaomi">Установите \"Сообщения\" SMS-приложением по умолчанию</string>
+    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Подробнее</a></string>
+    <string name="promo_install_subtitle_xiaomi">Расширенное и более качественное общение и обмен данными по Wi-Fi. Установите \"Сообщения\" SMS-приложением по умолчанию. <a href="https://support.google.com/messages/answer/6089066">Подробнее</a></string>
+    <string name="promo_install_title_xiaomi">Xiaomi рекомендует перейти на \"Сообщения\" от Google</string>
+    <string name="promo_launch_messages_btn_text">Открыть \"Сообщения\"</string>
+    <string name="promo_no_thanks_btn_text_xiaomi">Отмена</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">\"Сообщения\" от Google установлено SMS-приложением по умолчанию. Чтобы добавить \"Сообщения\" от Google основным на Рабочем столе, нажмите \"Mi сообщения\" и переместите его из избранного, затем нажмите \"Сообщения\" и переместите в избранное.</string>
+    <string name="promo_post_install_title_no_default_xiaomi">Замените \"Mi сообщения\" на более качественные \"Сообщения\" от Google</string>
+    <string name="promo_post_install_title_with_default_xiaomi">Начните более качественное общение с помощью \"Сообщений\" от Google</string>
+    <string name="promo_use_messages_btn_text">Использовать \"Сообщения\"</string>
     <string name="prompt_otp">Код</string>
     <string name="prompt_phone">Номер телефона</string>
     <string name="prompt_summary">RCS позволяет бесплатно обмениваться сообщениями, фотографиями и видео, создавать групповые чаты.</string>
@@ -941,17 +967,17 @@
     <string name="recipients_contain_sub_sim_number">"Похоже, что среди получателей есть дополнительный номер SIM-карты. Отправьте это сообщение, используя дополнительную SIM-карту."</string>
     <string name="recipients_over_size">Слишком много получателей.</string>
     <string name="recommend_bar_cancel">Отмена</string>
-    <string name="recommend_bar_message_mx">Mi Сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI.</string>
-    <string name="recommend_bar_message_mx_rcs">Mi Сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile в материковом Китае.</string>
-    <string name="recommend_bar_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае.</string>
+    <string name="recommend_bar_message_mx">\"Mi сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI.</string>
+    <string name="recommend_bar_message_mx_rcs">\"Mi сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile в материковом Китае.</string>
+    <string name="recommend_bar_message_rcs">Сообщения China Mobile позволяют бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае.</string>
     <string name="recommend_bar_message_smart_message">Копируйте одноразовые пароли, отслеживайте посылки, используйте интеллектуальные меню и т.д.</string>
     <string name="recommend_bar_ok">Включить</string>
-    <string name="recommend_bar_title_mx_rcs">Mi Сообщения</string>
+    <string name="recommend_bar_title_mx_rcs">Mi сообщения</string>
     <string name="recommend_bar_title_smart_message">Умные сообщения</string>
     <string name="recommend_both_dialog_title">Добро пожаловать в Сообщения!</string>
-    <string name="recommend_dialog_message">Вы можете включить Mi Сообщения и Умные сообщения для доступа к дополнительным функциям.</string>
-    <string name="recommend_mx_dialog_title">Добро пожаловать в Mi Сообщения!</string>
-    <string name="recommend_mx_setting_summary">Mi Сообщения позволяет отправлять сообщения другим пользователям через интернет без дополнительной оплаты.</string>
+    <string name="recommend_dialog_message">Вы можете включить Mi сообщения и Умные сообщения для доступа к дополнительным функциям.</string>
+    <string name="recommend_mx_dialog_title">Добро пожаловать в Mi сообщения!</string>
+    <string name="recommend_mx_setting_summary">\"Mi сообщения\" позволяет отправлять сообщения другим пользователям через интернет без дополнительной оплаты.</string>
     <string name="recommend_smart_sms_dialog_title">Добро пожаловать в Умные сообщения!</string>
     <string name="recommend_smart_sms_setting_summary">Умные сообщения обеспечивает распознавание идентификатора отправителя и интеллектуальные меню.</string>
     <string name="recording_failed">Ошибка записи</string>
@@ -1089,9 +1115,10 @@
     <string name="slide_show_part">Часть %1$d из %2$d</string>
     <string name="slide_up_to_cancel">Сдвиньте вверх для отмены</string>
     <string name="slideshow_activity">Слайд-шоу</string>
+    <string name="small_window_log_text">Камера не может работать в многооконном режиме</string>
     <string name="smart_message_title">Умные сообщения</string>
     <string name="smart_message_upgrade_title">Обновление политики конфиденциальности сервиса Умные сообщения</string>
-    <string name="smart_messages_network_allow_message">Приложению Mi Сообщения необходимо подключение к интернету для нормальной работы его служб. Разрешить сейчас?</string>
+    <string name="smart_messages_network_allow_message">Приложению \"Mi сообщения\" необходимо подключение к интернету для нормальной работы его служб. Разрешить сейчас?</string>
     <string name="smart_messages_network_allow_title">Требуется подключение к интернету</string>
     <string name="smart_msg_main_purpose">Умные сообщения обеспечивают распознавание ID отправителя и услуги интеллектуального меню.</string>
     <string name="smart_msg_privacy_policy">Политика конфиденциальности Умных сообщений</string>
