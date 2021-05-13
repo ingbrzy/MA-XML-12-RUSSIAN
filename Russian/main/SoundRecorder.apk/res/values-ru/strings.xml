@@ -34,6 +34,7 @@
     <string name="alert_message_delete_local_record">Удалить эту запись?</string>
     <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Xiaomi Cloud. Удалить запись?</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
+    <string name="all_record">Все записи</string>
     <string name="app_name">Диктофон</string>
     <string name="app_record">Записи</string>
     <string name="app_record_preference_title">Записи</string>
@@ -116,6 +117,7 @@
 
 3.Как сделать запись более точной?
 В настоящее время поддерживается транскрибирование только китайского языка, точность результатов будет зависеть от расстояния до устройства, окружающего шума, голоса говорящего и других факторов. Для более точных результатов, во время разговора подносите устройство ближе."</string>
+    <string name="fm_record">Радио</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -235,9 +237,12 @@
     <string name="network_unavailable_tip">Подключитесь к сети и повторите попытку.</string>
     <string name="new_record_name">Новая запись</string>
     <string name="night">Вечер</string>
+    <string name="no_content">Ничего нет</string>
     <string name="no_file">Нет записей</string>
     <string name="no_network">Не удалось подключиться к сети</string>
+    <string name="no_playback_file">Выберите запись для просмотра сведений</string>
     <string name="noon">Полдень</string>
+    <string name="normal_settings_pref_title">Общие настройки</string>
     <string name="not_set">Не задано</string>
     <string name="notification_message_all_paused">Ожидание подключения Wi-Fi.</string>
     <string name="notification_playback">Воспроизведение…</string>
@@ -275,6 +280,7 @@
     <string name="order_item_duration">Длительность: %s</string>
     <string name="order_item_number">Номер заказа: %s</string>
     <string name="order_item_price">%s CNY</string>
+    <string name="other_settings_pref_title">Дополнительные настройки</string>
     <string name="path_soundrecorder_setting">Системные приложения/Диктофон</string>
     <string name="pause">Пауза</string>
     <string name="pay_error_cancel">Платеж отменен</string>
@@ -368,6 +374,7 @@
     <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Качество записи</string>
     <string name="record_resotre">Восстановить записи</string>
+    <string name="recorder_record">Аудио</string>
     <string name="recording">Запись</string>
     <string name="recording_quality_high">Высокое качество</string>
     <string name="recording_quality_low">Низкое качество</string>
@@ -387,6 +394,7 @@
     <string name="reg_error_server">Ошибка сервера. Отправьте нам отчет и повторите попытку.</string>
     <string name="reg_error_upload_audio">Не удалось загрузить файл, повторите попытку</string>
     <string name="reg_error_upload_order">Не удалось загрузить, повторите попытку</string>
+    <string name="remind_settings_pref_title">Уведомления</string>
     <string name="remove_icon_description_content">Приложение \"Диктофон\" является системным, удалить его нельзя. После удаления ярлыка приложения с рабочего стола, управление записями будет недоступно.</string>
     <string name="remove_icon_description_title">Удалить \"Диктофон\" с рабочего стола?</string>
     <string name="rename">Переименовать</string>
@@ -459,6 +467,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="tap_to_record">Нажмите кнопку для записи</string>
     <string name="text_btn_backward_3_seconds">3 секунды назад</string>
     <string name="text_btn_complete">Стоп</string>
     <string name="text_btn_forward_3_seconds">3 секунды вперед</string>
