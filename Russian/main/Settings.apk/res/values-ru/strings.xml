@@ -433,6 +433,7 @@
     <string name="adjust_3d_depth_title">Регулировка глубины 3D в играх</string>
     <string name="adjust_font_size_answer_cn">Настройте размер и толщину шрифта с помощью ползунков ниже</string>
     <string name="adjust_font_size_answer_global">Настройте размер шрифта с помощью ползунка ниже</string>
+    <string name="adjust_ligth">Регулировка яркости</string>
     <string name="adjust_temperature_title">Цветовой тон</string>
     <string name="admin_device_owner_message">Администратор может контролировать настройки, приложения, разрешения и параметры доступа к корпоративным ресурсам на этом устройстве, а также связанные с ним данные, например сведения о местоположении или действиях в сети.</string>
     <string name="admin_disabled_other_options">Другие настройки отключены администратором</string>
@@ -4722,6 +4723,7 @@
     <string name="miheadset_plus">Прибавить</string>
     <string name="miheadset_rename">Переименовать</string>
     <string name="miheadset_rename_device">Переименовать</string>
+    <string name="miheadset_single_ear_indicate">Наденьте оба наушника для использования шумоподавления</string>
     <string name="miheadset_soft">Мягче</string>
     <string name="miheadset_transparent">Прозрачность</string>
     <string name="miheadset_transparentMode">Прозрачность</string>
@@ -7253,6 +7255,8 @@ UT-интерфейс: %5$s"</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Режим \"Умный чехол\"</string>
     <string name="smartcover_sensitive_summary">Автоматическая блокировка и разблокировка с помощью умного чехла</string>
     <string name="smartcover_sensitive_title">Умный чехол</string>
+    <string name="smooth_adjust_ligth">Сглаживание переходов</string>
+    <string name="smooth_adjust_ligth_summary">Более плавные переходы при ручной регулировке яркости. В некоторых случаях могут появляться небольшие несоответствия цвета, когда эта функция включена.</string>
     <string name="sms_access_restriction_enabled">Доступ к SMS и списку вызовов</string>
     <string name="sms_access_restriction_enabled_summary">Предоставлять доступ к SMS и списку вызовов только приложениям для звонков и обмена сообщениями, используемых по умолчанию</string>
     <string name="sms_application_title">Сообщения</string>
