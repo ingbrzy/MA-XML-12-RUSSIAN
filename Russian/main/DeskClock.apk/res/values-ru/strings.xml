@@ -422,6 +422,7 @@
     <string name="search_stopwatch_keywords">Секундомер</string>
     <string name="search_timer_keywords">Таймер</string>
     <string name="search_worldclock_keywords">Время;Мировое время;Часы</string>
+    <string name="select_operation">Выбор</string>
     <string name="send">Отправить</string>
     <string name="set_alarm">Выберите время</string>
     <string name="set_alarm_choose_ringtone">Выбор мелодии</string>
@@ -438,6 +439,7 @@
     <string name="shut_down_alarm_no_news">После отключения будильника утренние новости будут недоступны.</string>
     <string name="shut_down_keep_screen">Экран не будет включен постоянно</string>
     <string name="shutdown_alarm_alert_enable_summary">Сигналы отключения сработают как минимум через 10 минут после выключения устройства</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Включите, чтобы установленные будильники срабатывали при выключении устройства. Будут срабатывать только будильники, установленные не менее чем на %d минут после выключения устройства.</string>
     <string name="shutdown_alarm_alert_title">Сигналы отключения</string>
     <string name="shutdown_alarm_disable_summary">Будильник не будет звонить после выключения устройства</string>
     <string name="shutdown_alarm_enable_summary">Будильник зазвонит, если время звонка не менее чем на 10 минут позже момента выключения устройства</string>
@@ -663,6 +665,7 @@
     <string name="worldclock_resident_city_text_detail">Вторые часы:</string>
     <string name="worldclock_search_city">Выберите город</string>
     <string name="worldclock_second_time">Время в %s</string>
+    <string name="worldclock_second_time_desc">"%s: "</string>
     <string name="worldclock_title">Часы</string>
     <string name="worldclock_world_time">Часовые пояса</string>
     <string name="worldcolock_date_display_prefix">Текущая дата: </string>
