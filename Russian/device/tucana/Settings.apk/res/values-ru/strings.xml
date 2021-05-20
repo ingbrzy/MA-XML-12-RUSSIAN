@@ -433,6 +433,7 @@
     <string name="adjust_3d_depth_title">Регулировка глубины 3D в играх</string>
     <string name="adjust_font_size_answer_cn">Настройте размер и толщину шрифта с помощью ползунков ниже</string>
     <string name="adjust_font_size_answer_global">Настройте размер шрифта с помощью ползунка ниже</string>
+    <string name="adjust_ligth">Регулировка яркости</string>
     <string name="adjust_temperature_title">Цветовой тон</string>
     <string name="admin_device_owner_message">Администратор может контролировать настройки, приложения, разрешения и параметры доступа к корпоративным ресурсам на этом устройстве, а также связанные с ним данные, например сведения о местоположении или действиях в сети.</string>
     <string name="admin_disabled_other_options">Другие настройки отключены администратором</string>
@@ -718,6 +719,7 @@
     <string name="asst_capability_ranking_summary">Автоматически ранжировать уведомления по релевантности</string>
     <string name="asst_capability_ranking_title">Адаптивное ранжирование уведомлений</string>
     <string name="attempt_other_network">Попробовать другую сеть</string>
+    <string name="au_pay">au PAY</string>
     <string name="audio_and_captions_category_title">Аудио и озвучивание текста</string>
     <string name="audio_files_title">Аудиофайлы</string>
     <string name="audio_profile_settings_title">Профили аудио</string>
@@ -3351,6 +3353,7 @@
     <string name="google_assistant_label">Google Ассистент</string>
     <string name="google_backup_enable">Включить резервное копирование</string>
     <string name="google_backup_section_title">Резервное копирование в Google</string>
+    <string name="google_pay">Google Pay</string>
     <string name="google_service_title">Сервисы Google</string>
     <string name="google_title">Google</string>
     <string name="got_it">Понятно</string>
@@ -3469,6 +3472,7 @@
     <string name="header_data_and_synchronization">Синхронизация данных</string>
     <string name="headset_aac">AAC</string>
     <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
+    <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">Подключение…</string>
     <string name="headset_find_both">Оба</string>
     <string name="headset_find_cancel">Отмена</string>
@@ -4126,8 +4130,6 @@
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
-    <string name="location_agps_def_supl_host">supl.google.com</string>
-    <string name="location_agps_def_supl_port">7275</string>
     <string name="location_agps_params_settings_title">Настройки A-GPS</string>
     <string name="location_agps_pref_apn_title">Предпочтительная APN</string>
     <string name="location_agps_pref_network_title">Предпочтительная сеть</string>
@@ -4721,6 +4723,7 @@
     <string name="miheadset_plus">Прибавить</string>
     <string name="miheadset_rename">Переименовать</string>
     <string name="miheadset_rename_device">Переименовать</string>
+    <string name="miheadset_single_ear_indicate">Наденьте оба наушника для использования шумоподавления</string>
     <string name="miheadset_soft">Мягче</string>
     <string name="miheadset_transparent">Прозрачность</string>
     <string name="miheadset_transparentMode">Прозрачность</string>
@@ -5040,7 +5043,7 @@
     <string name="navigation_type_radio_text_full_screen">Жесты</string>
     <string name="navigation_type_radio_text_virtual_key">Кнопки</string>
     <string name="navigation_type_settings">Способ навигации</string>
-    <string name="nearby_wifi">Доступные сети</string>
+    <string name="nearby_wifi">ДОСТУПНЫЕ СЕТИ</string>
     <string name="need_reboot_now">Требуется перезагрузка</string>
     <string name="netcheck_title">Диагностика сети</string>
     <string name="network_1x">1x</string>
@@ -7252,6 +7255,8 @@ UT-интерфейс: %5$s"</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Режим \"Умный чехол\"</string>
     <string name="smartcover_sensitive_summary">Автоматическая блокировка и разблокировка с помощью умного чехла</string>
     <string name="smartcover_sensitive_title">Умный чехол</string>
+    <string name="smooth_adjust_ligth">Сглаживание переходов</string>
+    <string name="smooth_adjust_ligth_summary">Более плавные переходы при ручной регулировке яркости. В некоторых случаях могут появляться небольшие несоответствия цвета, когда эта функция включена.</string>
     <string name="sms_access_restriction_enabled">Доступ к SMS и списку вызовов</string>
     <string name="sms_access_restriction_enabled_summary">Предоставлять доступ к SMS и списку вызовов только приложениям для звонков и обмена сообщениями, используемых по умолчанию</string>
     <string name="sms_application_title">Сообщения</string>
