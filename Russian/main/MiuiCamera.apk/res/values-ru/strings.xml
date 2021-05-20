@@ -620,17 +620,19 @@
     <string name="dual_camera_lowlight_toast">Похоже, что здесь слишком темно</string>
     <string name="dual_camera_too_close_toast">Камера находится слишком близко к объекту</string>
     <string name="dual_camera_use_hint">Убедитесь, что объект расположен не далее 2 метров</string>
-    <string name="dual_video_record_merged">Объединенные</string>
+    <string name="dual_video_record_merged">Комбинированная</string>
     <string name="dual_video_record_remote">Мультикамерная съемка</string>
-    <string name="dual_video_record_standalone">Раздельные</string>
+    <string name="dual_video_record_standalone">Раздельная</string>
     <string name="dual_video_user_guide_main_content">Для мультикамерной съемки выберите две камеры и снимайте на них одновременно. Записи могут быть сохранены отдельно или объединены в режиме раздельного просмотра или \"картинка в картинке\".</string>
+    <string name="dual_video_user_guide_main_content_new">Мультикамерная съемка позволяет вести запись одновременно несколькими камерами.
+Выберите \"Комбинированная\" для подключения к другому устройству и записи с двух устройств.</string>
     <string name="dual_video_user_guide_main_title">Мультикамерная съемка</string>
     <string name="dual_video_user_guide_merge_content">Снимайте двумя камерами одновременно и объединяйте записи в режиме раздельного просмотра или \"картинка в картинке\".</string>
-    <string name="dual_video_user_guide_merge_content_new">Снимайте одновременно с двух точек и объединяйте записи в одно видео. Можно задать размер композиции окон.</string>
-    <string name="dual_video_user_guide_remote_content">Мультикамерная съемка позволяет объединить записи с двух устройств в одно видео. На этом устройстве доступен предпросмотр как отдельных записей, так и итогового видео. Звук будет записывать только это устройство</string>
+    <string name="dual_video_user_guide_merge_content_new">Две записи можно объединить в режиме раздельного просмотра или \"картинка в картинке\".</string>
+    <string name="dual_video_user_guide_remote_content">Объедините записи с двух устройств в одно видео. На этом устройстве доступен предпросмотр обоих записей и конечного видео. Звук будет записывать только это устройство</string>
     <string name="dual_video_user_guide_remote_p">Устройство %d</string>
     <string name="dual_video_user_guide_standalone_content">Снимайте двумя камерами одновременно и сохраняйте записи как отдельные видео.</string>
-    <string name="dual_video_user_guide_standalone_content_new">Записывайте и сохраняйте видео, снятые одновременно с двух точек.</string>
+    <string name="dual_video_user_guide_standalone_content_new">Одновременно записанное видео можно разделить и сохранить в виде отдельных файлов.</string>
     <string name="early_morning">Утро</string>
     <string name="edit">Редактировать</string>
     <string name="edit_blusher">Румяна</string>

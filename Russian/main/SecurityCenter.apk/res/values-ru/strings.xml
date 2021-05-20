@@ -592,6 +592,8 @@
     <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
     <string name="applock_lock_all">Выбрать все</string>
     <string name="applock_login_and_add_account">Привязать</string>
+    <string name="applock_mixtype_hidepwd_icon">Скрыть</string>
+    <string name="applock_mixtype_showpwd_icon">Показать</string>
     <string name="applock_no_account_login">Вход в Mi Аккаунт не выполнен</string>
     <string name="applock_not_add_account"><u>Не сейчас</u></string>
     <string name="applock_not_login_account">Вход не выполнен</string>
@@ -1321,6 +1323,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="examination_score_80_100">Рекомендуется оптимизация</string>
     <string name="examination_score_80_60">Рекомендуется оптимизация</string>
     <string name="examination_score_has_virus">Обнаружены подозрительные приложения</string>
+    <string name="exception_checking">Проверка…</string>
     <string name="exception_dialog_message">Не удалось подсчитать статистику трафика из-за ошибки. Без точной статистики Безопасность не сможет контролировать использование данных. Перезагрузить устройство?</string>
     <string name="exception_dialog_ok_button">Перезагрузить</string>
     <string name="exception_notify_message">Не удалось подсчитать статистику трафика из-за ошибки. Требуется перезагрузка.</string>
@@ -1602,7 +1605,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebooster_lowbattery_notification_summary">Подключите зарядное устройство.</string>
     <string name="gamebooster_lowbattery_notification_title">Заряд менее 5%%</string>
     <string name="gamebooster_main_activity_back">Назад</string>
-    <string name="gamebooster_network_dialog_message">Разрешить приложению подключаться к интернету для использования всех функций Ускорения игр?</string>
+    <string name="gamebooster_network_dialog_cn_message">Ускорению игр требуются разрешения для подключения к интернету и доступа к местоположению. Разрешить?</string>
+    <string name="gamebooster_network_dialog_message">Разрешить подключение к интернету для использования всех функций Ускорения игр?</string>
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
     <string name="gamebox_app_not_find">Приложение не найдено</string>
     <string name="gamebox_browser_not_find">Установите сначала Mi Браузер</string>
@@ -1765,6 +1769,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_shoulder_key_btn_save_exit">Отмена</string>
     <string name="gb_shoulder_key_circle_left">Л</string>
     <string name="gb_shoulder_key_circle_right">П</string>
+    <string name="gb_shoulder_key_dialog_message">Вы можете запустить Ускорение игр одновременным нажатием обоих кнопок навесных триггеров</string>
     <string name="gb_shoulder_key_dialog_txt">Вы можете включить Ускорение игр с помощью навесных триггеров</string>
     <string name="gb_shoulder_key_guide_btn_done">Понятно</string>
     <string name="gb_shoulder_key_guide_btn_next">Далее</string>
@@ -1772,6 +1777,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_shoulder_key_guide_tips1">Откройте панель инструментов и настройте навесные триггеры</string>
     <string name="gb_shoulder_key_settings_guide_tips1">Для завершения настройки переместите кнопки [Л] и [П] в любое функциональное положение.</string>
     <string name="gb_shoulder_key_settings_guide_tips2">Используйте навесные триггеры для назначенных функций во время игр</string>
+    <string name="gb_shoulder_key_settings_summary">Запуск Ускорения игр нажатием обоих кнопок навесных триггеров</string>
+    <string name="gb_shoulder_key_settings_title">Навесные триггеры для Ускорения игр</string>
+    <string name="gb_shoulder_key_settings_title_new">Быстрый запуск Ускорения игр</string>
     <string name="gb_sign_gift">Отмечайтесь и получайте награды</string>
     <string name="gb_sign_gift_button_text">Получить</string>
     <string name="gb_sign_notification_summary">Играйте в игры без задержек в сети</string>
@@ -4825,6 +4833,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="write_clipboard_tip_title">Запись в буфер обмена</string>
     <string name="wrong_password">Неверный пароль</string>
     <string name="xiaomi_privacy_protection_measures">Способы защиты конфиденциальности</string>
+    <string name="xspace_warning_dialog_button">Понятно</string>
+    <string name="xspace_warning_dialog_message">Из-за ограничений в Android %d, все клоны приложений имеют доступ только к своим созданным и сохраненным фото и видео</string>
+    <string name="xspace_warning_dialog_title">Внимание</string>
     <string name="xunyou_net_booster">Ускорение сети</string>
     <string name="xunyou_net_booster_detail">Использовать сервисы ускорения Xunyou для игр</string>
     <string name="xunyou_pay_webview">Сервисы Xunyou</string>
