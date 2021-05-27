@@ -164,6 +164,11 @@
         <item quantity="one">%d подписка</item>
         <item quantity="few">%d подписки</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: %d</item>
