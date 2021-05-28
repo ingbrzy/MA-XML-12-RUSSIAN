@@ -158,6 +158,7 @@
     <string-array name="config_canSendSubstituteNotificationPackages"></string-array>
     <string-array name="config_canShowBadgePackages"></string-array>
     <string-array name="config_charge_supportWirelessStrongSuper"></string-array>
+    <string-array name="config_charge_support_lite"></string-array>
     <array name="config_controlsPreferredPackages" />
     <array name="config_countries_to_enable_shortcut_view" />
     <integer-array name="config_defaultNotificationVibePattern"></integer-array>
@@ -166,6 +167,7 @@
     <integer-array name="config_doze_brightness_sensor_to_scrim_opacity"></integer-array>
     <string-array name="config_drip_left_statusBarIcons"></string-array>
     <string-array name="config_drip_right_block_statusBarIcons"></string-array>
+    <string-array name="config_except_charge_support_lite"></string-array>
     <string-array name="config_load_only_fiveg_apns"></string-array>
     <integer-array name="config_notification_snooze_times"></integer-array>
     <string-array name="config_pluginWhitelist"></string-array>
