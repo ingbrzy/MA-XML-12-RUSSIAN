@@ -120,6 +120,7 @@
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
     <string name="close">Закрыть</string>
     <string name="close_alarm">Отключить</string>
+    <string name="close_alarm_new">Отключить</string>
     <string name="common_settings">Основные настройки</string>
     <string name="common_timer_selector">Выберите таймер</string>
     <string name="confirm">ОК</string>
@@ -315,13 +316,13 @@
     <string name="module_weather_ringtone_introduce_global">Погодный будильник выбирает различные мелодии в зависимости от текущей погоды.</string>
     <string name="module_weather_ringtone_update_data">Погодный будильник теперь включает в себя фоновую музыку и улучшенные голосовые объявления. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
     <string name="module_weather_ringtone_update_success">Погодный будильник теперь включает в себя фоновую музыку и улучшенные голосовые объявления. Вы можете создать новый будильник, чтобы попробовать эту функцию.</string>
-    <string name="module_week_ringtone_download_data">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
-    <string name="module_week_ringtone_download_data_privacy">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется подключение к интернету для загрузки &amp;#8776;30 МБ аудиофайлов. Используя это приложение, вы принимаете Пользовательское соглашение и Политику конфиденциальности.</string>
-    <string name="module_week_ringtone_download_wifi">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется загрузить аудиофайлы. Загрузить?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется подключение к интернету для загрузки аудиофайлов. Используя это приложение, вы принимаете Пользовательское соглашение и Политику конфиденциальности.</string>
-    <string name="module_week_ringtone_introduce">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты.</string>
-    <string name="module_week_ringtone_update_data">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
-    <string name="module_week_ringtone_update_success">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Вы можете создать новый будильник, чтобы попробовать эту функцию.</string>
+    <string name="module_week_ringtone_download_data">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_week_ringtone_download_data_privacy">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты. Приложению требуется подключение к интернету для загрузки &amp;#8776;30 МБ аудиофайлов. Используя это приложение, вы принимаете Пользовательское соглашение и Политику конфиденциальности.</string>
+    <string name="module_week_ringtone_download_wifi">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты. Приложению требуется загрузить аудиофайлы. Загрузить?</string>
+    <string name="module_week_ringtone_download_wifi_privacy">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты. Приложению требуется подключение к интернету для загрузки аудиофайлов. Используя это приложение, вы принимаете Пользовательское соглашение и Политику конфиденциальности.</string>
+    <string name="module_week_ringtone_introduce">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты.</string>
+    <string name="module_week_ringtone_update_data">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_week_ringtone_update_success">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты. Вы можете создать новый будильник, чтобы попробовать эту функцию.</string>
     <string name="module_white_noise_download_data">Приложению требуется загрузить аудиофайлы звуков природы для таймеров. ≈30MB мобильного интернета понадобится для загрузки. Загрузить?</string>
     <string name="module_white_noise_download_data_privacy">Для загрузки аудиофайлов звуков природы для таймеров (&amp;#8776;30 МБ) и предоставления персонализированных услуг, приложению требуется подключение к интернету. Используя это приложение, вы принимаете Пользовательское соглашение и Политику конфиденциальности.</string>
     <string name="module_white_noise_download_wifi">Приложению требуется загрузить аудиофайлы звуков природы для таймеров. Загрузить?</string>
@@ -383,6 +384,7 @@
     <string name="noon">Полдень</string>
     <string name="normal_settings">Общие настройки</string>
     <string name="not_set">Не задано</string>
+    <string name="not_set_temporarily">Нет, спасибо</string>
     <string name="not_update">Не сейчас</string>
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включен постоянно</string>
@@ -428,6 +430,7 @@
     <string name="set_alarm_choose_ringtone">Выбор мелодии</string>
     <string name="set_alarm_done">Готово</string>
     <string name="set_alarm_other">Другие</string>
+    <string name="set_now">Установить</string>
     <string name="setting_alarm_arriving_subtitle">Показывать уведомления перед отключением будильников</string>
     <string name="setting_alarm_arriving_summary">Оповещать уведомлением перед звонком будильника</string>
     <string name="setting_alarm_arriving_title">Уведомление перед звонком</string>
@@ -469,6 +472,7 @@
     <string name="sleep_time">Начало сна</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Сдвиньте вверх для отключения</string>
+    <string name="slider_text_new">Сдвиньте вверх для отключения</string>
     <string name="snooze_confirm_cancel">Отключить</string>
     <string name="snooze_duration">Повтор</string>
     <string name="snooze_duration_title">Интервал повтора сигнала</string>
@@ -607,6 +611,7 @@
     <string name="timer_end_time_format">HH:mm d MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
+    <string name="timer_got_it_new">Отключить</string>
     <string name="timer_is_paused">Таймер остановлен</string>
     <string name="timer_item_delete">Удалить</string>
     <string name="timer_item_duration_display">%1$d мин %2$d с</string>
@@ -656,6 +661,7 @@
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="week_ringtone_recommend_desc">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты. Установить будильником по умолчанию?</string>
     <string name="white_noise_selector">Выберите аудио</string>
     <string name="workday_alarm_clock">По рабочим дням</string>
     <string name="worldclock_empty_text">Нет часовых поясов</string>

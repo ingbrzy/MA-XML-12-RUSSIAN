@@ -39,11 +39,13 @@
     <string name="back_up_task_in_process">Резервное копирование…</string>
     <string name="back_up_task_unfinished">Не удалось создать резервную копию</string>
     <string name="backing_up_to_micloud">Резервное копирование…</string>
+    <string name="backup_action_access_permission">Настройки</string>
     <string name="backup_action_buy_cloud_space">Получить больше места</string>
     <string name="backup_action_check_network">Проверьте настройки сети</string>
     <string name="backup_action_clean_disk_space">Освободить место</string>
     <string name="backup_action_retry_now">Повтор</string>
     <string name="backup_fail_wifi_needed">Резервное копирование не удалось, требуется Wi-Fi</string>
+    <string name="backup_failed_reason_app_usage_denied">Предоставьте необходимые разрешения для резервного копирования</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места для хранения в Xiaomi Cloud. Обновите свой план или освободите место.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
     <string name="backup_failed_reason_network_error">Проверьте настройки сети и повторите попытку</string>
@@ -59,6 +61,8 @@
     <string name="backup_success">Резервное копирование завершено</string>
     <string name="backup_successfully">Резервное копирование завершено</string>
     <string name="backup_to_cloud">Сделать резервную копию приложения</string>
+    <string name="backup_warning_reason_app_usage_denied">"Не удалось синхронизировать данные.
+Требуются разрешения."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">Не удалось создать резервную копию</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Недостаточно места.
 Не удалось создать резервную копию."</string>
@@ -167,8 +171,11 @@
     <string name="desktop_wait_network">Ожидание…</string>
     <string name="desktop_waiting">Ожидание</string>
     <string name="device_delete_prompt">Удалить копию \"%s\"?</string>
+    <string name="dialog_app_usage_denied">Предоставьте приложению разрешение \"Доступ к истории использования\" в настройках для возможности резервного копирования</string>
     <string name="dialog_backup_failed">Не удалось создать резервную копию</string>
     <string name="dialog_btn_cancel_backup">Отмена</string>
+    <string name="dialog_btn_confirm2">Понятно</string>
+    <string name="dialog_btn_enter">Настройки</string>
     <string name="dialog_btn_next">Далее</string>
     <string name="dialog_btn_overwrite_backup">Перезаписать</string>
     <string name="dialog_btn_restore_skip">Пропустить</string>
@@ -181,6 +188,7 @@
     <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Xiaomi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
+    <string name="dialog_need_permission">Требуются разрешения</string>
     <string name="dialog_title_require_wlan">Подключитесь к Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Подключитесь к Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>

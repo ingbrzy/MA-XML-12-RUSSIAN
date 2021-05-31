@@ -309,6 +309,11 @@
         <item quantity="one">Расчетный период: %1$d день</item>
         <item quantity="few">Расчетный период: %1$d дня</item>
     </plurals>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s минут езды до %1$s.</item>
+        <item quantity="one">%2$s минута езды до %1$s.</item>
+        <item quantity="few">%2$s минуты езды до %1$s.</item>
+    </plurals>
     <plurals name="travel_time_range_hours">
         <item quantity="other">%d часов</item>
         <item quantity="one">%d час</item>
