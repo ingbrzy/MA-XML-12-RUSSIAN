@@ -547,7 +547,7 @@
     <string name="app_predict_loading_text">Подождите…</string>
     <string name="app_predict_search_title">Все приложения</string>
     <string name="app_predict_setting_black_list">Черный список</string>
-    <string name="app_predict_setting_black_list_message">Блокировка нежелаемых для рекомендаций приложений</string>
+    <string name="app_predict_setting_black_list_message">Блокировка нежелательных для рекомендаций приложений</string>
     <string name="app_predict_setting_privacy">Политика конфиденциальности</string>
     <string name="app_predict_setting_switch_message">Получение рекомендаций по приложениям на основе ваших предпочтений</string>
     <string name="app_predict_setting_switch_title">Персонализированные рекомендации</string>
@@ -2007,7 +2007,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="image_protect_recover_success">Успешно восстановлено</string>
     <string name="image_protect_tips_title">Удаление фотографий</string>
     <string name="image_protect_total_activity_label">Уведомлять об удалении фотографий</string>
-    <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
+    <string name="ime_security_warning">%1$s может записывать все что вводится, включая пароли, номера кредитных карт и прочие личные данные.</string>
     <string name="in_delete">Удаление…</string>
     <string name="in_recover">Восстановление…</string>
     <string name="info_and_call">Вызовы и сообщения</string>
@@ -2569,6 +2569,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="oaid_apps_title">Управление виртуальным ID</string>
     <string name="oaid_reset_content_tip">Если вы отключите виртуальный ID, некоторые приложения могут перестать работать должным образом, некоторые данные приложений могут быть потеряны или стать непригодными для использования.</string>
     <string name="oaid_reset_final_tip">Отключить виртуальный ID?</string>
+    <string name="oaid_tips_content">Виртуальные ID (OAID) могут использоваться для отслеживания ваших предпочтений и персонализации рекламы. Вы можете выбрать, каким приложениям разрешен доступ к вашему виртуальному ID. Обратите внимание, если вы ограничите доступ, рекомендации по рекламе могут стать неактуальными или приложения не будут нормально работать.</string>
+    <string name="offline_voice_input">Голосовой ввод офлайн</string>
+    <string name="offline_voice_input_detail">Голосовой ввод без использования интернета</string>
     <string name="ok">ОК</string>
     <string name="ok_button">ОК</string>
     <string name="old_sdk_deny_warning">Это приложение было разработано для более ранней версии Android. Отзыв разрешения может вызвать неполадки в его работе.</string>
@@ -2706,7 +2709,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_hidemode_normal">Сбалансированный</string>
     <string name="pc_hidemode_performance">Производительный</string>
     <string name="pc_hidemode_performance_title">Режим производительности</string>
-    <string name="pc_hidemode_power_save">Экономичный</string>
+    <string name="pc_hidemode_power_save">Энергосберегающий</string>
     <string name="pc_install_manager">Установка через USB</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="pc_main_battery_text_day">Добавлено: %1$s мин. Заряда хватит на %2$s д.</string>
@@ -2718,7 +2721,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_main_power_manager_hour_minute">%1$s ч. %2$s мин. до полной зарядки</string>
     <string name="pc_main_sub_battery_text_day_hour">Осталось: %1$s д. %2$s ч.</string>
     <string name="pc_main_sub_battery_text_hour_minute">Осталось: %1$s ч. %2$s мин.</string>
-    <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в режиме производительности. Обратите внимание, что режим производительности увеличивает энергопотребление и может привести к перегреву.</string>
+    <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в выбранном режиме производительности. Обратите внимание, что этот режим увеличивает энергопотребление и может привести к перегреву.</string>
     <string name="pc_performance_mode_dialog_title">Режим производительности</string>
     <string name="pc_search_keywords_battery">Батарея</string>
     <string name="pc_search_keywords_battery_save">Экономия</string>
@@ -3397,7 +3400,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_input_mode_img_detail">Работает с авторизованными Xiaomi клавиатурами</string>
     <string name="privacy_input_mode_version_supported">Обновите клавиатуру для возможности использовать эту функцию</string>
     <string name="privacy_input_model_guide_choose">Загрузить голосовой ввод офлайн</string>
-    <string name="privacy_input_model_guide_text">Функция защищает вашу конфиденциальность при вводе. Когда функция включена, некоторые сетевые функции (например, параметры персонализации, эмодзи, интеллектуальный набор текста) будут недоступны.</string>
+    <string name="privacy_input_model_guide_text">Защита конфиденциальности при вводе. Когда функция включена, некоторые сетевые функции (например, параметры персонализации, эмодзи, интеллектуальный набор текста) будут недоступны.</string>
     <string name="privacy_input_model_tips">Безопасный ввод включен. Клавиатуре не доступно отображение всплывающих окон и получение доступа к контактам, местоположению и журналу вызовов.</string>
     <string name="privacy_location_info_summary">Управление доступом к местоположению</string>
     <string name="privacy_location_info_title">Местоположение</string>
@@ -4045,8 +4048,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="status_bar_network_flow_purchase">"     Купить &gt;"</string>
     <string name="status_bar_network_flow_setup_data_plan">"     Настроить тариф &gt;"</string>
     <string name="still_retain_btn">Оставить</string>
-    <string name="stop_collecting_data">Клавиатура не будет запоминать ваши предпочтения</string>
-    <string name="stop_collecting_data_detail">Клавиатура не будет собирать данные для улучшения интеллектуального набора текста и рекомендации частых фраз на основе ваших предпочтений</string>
+    <string name="stop_collecting_data">Клавиатура не будет запоминать ваши привычки</string>
+    <string name="stop_collecting_data_detail">Клавиатура не будет собирать данные для улучшения интеллектуального набора текста и рекомендаций частых фраз на основе ваших привычек</string>
     <string name="stop_milink_connect">Трансляция прекращена</string>
     <string name="storage_activity_title">Память</string>
     <string name="storage_app_detail_activity_title">Занятое место</string>
@@ -4642,7 +4645,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="usbsharenet_exception_title">Диагностика интернета по USB</string>
     <string name="usbsharenet_pc_exception_summary">Невозможно подключиться к интернету по USB. Проверьте интернет-подключение вашего компьютера.</string>
     <string name="use_immediately">Включить</string>
-    <string name="use_other_ime_warn">Сторонние клавиатуры могут записывать все что вводится, включая пароли и другую конфиденциальную информацию.</string>
+    <string name="use_other_ime_warn">Сторонние клавиатуры могут записывать все что вводится, включая пароли и прочую конфиденциальную информацию.</string>
     <string name="user_define_title">Новый профиль</string>
     <string name="user_guide">Сделайте свайп вверх, чтобы узнать о новых играх</string>
     <string name="user_guide_title">Выбор джойстика</string>
