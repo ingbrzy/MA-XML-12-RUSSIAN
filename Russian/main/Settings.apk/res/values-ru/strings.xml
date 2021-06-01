@@ -2143,9 +2143,14 @@
     <string name="dark_color_summary_lcd">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим снижает напряжение глаз при использовании устройства в темноте.</string>
     <string name="dark_color_summary_oled">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим уменьшает энергопотребление и снижает напряжение глаз.</string>
     <string name="dark_mode_apps_header">Выбранные приложения</string>
+    <string name="dark_mode_auto_time_summary">Включение и выключение темного режима в заданное время</string>
+    <string name="dark_mode_auto_time_title">Пользовательское</string>
     <string name="dark_mode_contrast">Авторегулировка контраста</string>
     <string name="dark_mode_contrast_hint">Автоматическая регулировка цвета и уменьшение контраста при уменьшении яркости</string>
+    <string name="dark_mode_day_night_mode_summary">Включение темного режима на закате и отключение на рассвете</string>
+    <string name="dark_mode_day_night_mode_title">От заката до рассвета</string>
     <string name="dark_mode_font_background_title">Автонастройка текста и фона</string>
+    <string name="dark_mode_time_settings">Расписание темного режима</string>
     <string name="dark_theme_slice_subtitle">Помогает продлить время работы батареи</string>
     <string name="dark_theme_slice_title">Попробуйте темную тему</string>
     <string name="dark_ui_activation_off_auto">Отключить до заката</string>
@@ -5515,6 +5520,8 @@
     <string name="notifications_title">Уведомления</string>
     <string name="now">Перезагрузить</string>
     <string name="number_of_device_admins_none">Нет активных приложений</string>
+    <string name="oaid_apps_summary">Настройка доступа для отдельных приложений</string>
+    <string name="oaid_apps_title">Управление виртуальным ID</string>
     <string name="oaid_string">"Текущий виртуальный ID:
 %1s"</string>
     <string name="oem_lock_info_message">Перезагрузите устройство, чтобы включить функцию защиты устройства.</string>
@@ -6610,6 +6617,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_saturation">Насыщенность</string>
     <string name="screen_shot">Снимок экрана</string>
     <string name="screen_timeout">Спящий режим</string>
+    <string name="screen_timeout_subtitle">Отображение статичного содержимого в течение длительного периода может привести к неравномерному отображению цвета</string>
     <string name="screen_timeout_summary">После %1$s бездействия</string>
     <string name="screen_timeout_title">Спящий режим</string>
     <string name="screen_usage_summary">Время работы экрана с момента полной зарядки</string>
@@ -7829,6 +7837,7 @@ UT-интерфейс: %5$s"</string>
     <string name="switch_headset_anti_lost_title">Предупреждение о наушниках</string>
     <string name="switch_off_text">Откл.</string>
     <string name="switch_on_text">Вкл.</string>
+    <string name="switch_power_sound">Звук зарядки</string>
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
     <string name="switch_screen_button_order_desc">Поменять местами \"Назад\" и \"Меню\"</string>
     <string name="switch_select_to_speak_on">Выберите для разговора</string>
@@ -8007,6 +8016,8 @@ UT-интерфейс: %5$s"</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
+    <string name="time_floating_window">Плавающие часы</string>
+    <string name="time_floating_window_summary">Показывать часы в плавающем окне поверх других приложений</string>
     <string name="time_format_category_title">Формат времени</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>

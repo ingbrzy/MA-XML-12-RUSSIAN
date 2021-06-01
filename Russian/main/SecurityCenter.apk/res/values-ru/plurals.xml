@@ -209,6 +209,10 @@
         <item quantity="one">&lt;Data>Закрыть &lt;font color=#0099ff>%d&lt;/font> приложение для ускорения устройства?&lt;/Data></item>
         <item quantity="few">&lt;Data>Закрыть &lt;font color=#0099ff>%d&lt;/font> приложения для ускорения устройства?&lt;/Data></item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Оценка производительности устройства ниже %d баллов. Оптимизировать?</item>
+        <item quantity="one">Оценка производительности устройства ниже %d балла. Оптимизировать?</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
         <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
@@ -221,6 +225,11 @@
         <item quantity="other">%d приложений</item>
         <item quantity="one">%d приложение</item>
         <item quantity="few">%d приложения</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d рисков конфиденциальности</item>
+        <item quantity="one">%d риск конфиденциальности</item>
+        <item quantity="few">%d риска конфиденциальности</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d проблем требуют решения</item>

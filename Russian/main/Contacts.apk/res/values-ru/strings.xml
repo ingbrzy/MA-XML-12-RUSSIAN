@@ -109,6 +109,7 @@
     <string name="bh_back">Назад</string>
     <string name="bh_bill_balance">Баланс</string>
     <string name="bh_bill_charge">Пополнить баланс</string>
+    <string name="bh_bills_info_label">Подробности</string>
     <string name="bh_bugreport">Деловая обратная связь</string>
     <string name="bh_business_hall_is_here">Сервисы оператора</string>
     <string name="bh_business_style">Выберите интерфейс</string>
@@ -215,6 +216,7 @@
     <string name="bh_order_time">Время транзакции</string>
     <string name="bh_other_charge">Другой номер телефона</string>
     <string name="bh_other_operator">Другие операторы</string>
+    <string name="bh_other_traffic">Другой номер телефона</string>
     <string name="bh_other_v_operator">Другие виртуальные операторы</string>
     <string name="bh_pay_fail_desc">Не удалось подключиться к сети. Вернитесь и повторите платеж.</string>
     <string name="bh_pay_fee">Сумма</string>
@@ -264,7 +266,16 @@
     <string name="bh_tag_phones">Часто используемые номера телефонов</string>
     <string name="bh_tags_number_exceed">Достигнут предел для телефонных номеров</string>
     <string name="bh_tb">" ТБ"</string>
+    <string name="bh_text_buy_time">Заказ создан</string>
+    <string name="bh_text_charge_name">Сумма</string>
+    <string name="bh_text_no_order">Заказов нет</string>
+    <string name="bh_text_operator">Оператор</string>
+    <string name="bh_text_order_id">Номер заказа</string>
+    <string name="bh_text_paid_fee">Сумма заказа</string>
+    <string name="bh_text_phone_num">Номер телефона</string>
+    <string name="bh_text_traffic_package">Пакет данных</string>
     <string name="bh_time_before">%1$s %2$s назад</string>
+    <string name="bh_toast_copy">Успешно скопировано</string>
     <string name="bh_toast_start_intent_failed">Не удалось найти приложение для обработки этого действия</string>
     <string name="bh_today_pkg">Сегодняшний пакет</string>
     <string name="bh_traffic_charge">Получите мобильные данные</string>
@@ -1276,6 +1287,7 @@
 • Синхронизировать все контакты – вы никогда не потеряете их."</string>
     <string name="no_contact_details">Нет других данных об этом контакте</string>
     <string name="no_contact_in_other_phone">Нет контактов</string>
+    <string name="no_contact_selected">Выберите контакт для просмотра</string>
     <string name="no_contacts_dialog_message">Не найдено соответствий в ваших контактах. Возможно, контакты находятся на SIM карте. Для поиска импортируйте их во внутреннюю память.</string>
     <string name="no_contacts_dialog_title">Контакты не найдены</string>
     <string name="no_contacts_selected">Контакты не выбраны</string>

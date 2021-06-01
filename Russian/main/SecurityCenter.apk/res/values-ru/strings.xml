@@ -380,6 +380,11 @@
     <string name="app_behavior_warning_location_title">%1s - используется местоположение</string>
     <string name="app_bg_restrict_dialog_message">Ограничение фоновых подключений может помешать нормальной работе приложения. Например, оно больше не сможет получать сообщения или обновлять данные.</string>
     <string name="app_check_no_issue">Проблемы с питанием не найдены. Отлично!</string>
+    <string name="app_classification_activity_label">Все приложения</string>
+    <string name="app_classification_recent_add">Недавние</string>
+    <string name="app_classification_search_all">Все</string>
+    <string name="app_classification_search_hint">Поиск приложений</string>
+    <string name="app_classification_suggest_app">Рекомендации</string>
     <string name="app_detail">Подробности</string>
     <string name="app_error_tip_for_launcher">Аппаратные компоненты вашего устройства или версия системы Android могут вызывать проблемы с совместимостью и затруднять работу некоторых приложений. Если вы столкнулись с такими проблемами, поделитесь своими отзывами с разработчиками приложений.</string>
     <string name="app_error_tip_for_store">Аппаратные компоненты вашего устройства или версия системы Android могут вызывать проблемы с совместимостью, что может привести к невозможности установки некоторых приложений. Если вы столкнулись с такими проблемами или неправильной работой некоторых приложений, подождите, пока разработчики исправят ошибки, и попробуйте переустановить приложение.</string>
@@ -536,6 +541,18 @@
     <string name="app_permission_use_neccesary">Требуемые разрешения</string>
     <string name="app_permission_use_no_neccesary">Необязательные разрешения</string>
     <string name="app_permission_use_title">Разрешения</string>
+    <string name="app_predict_black_list_empty">Ничего нет</string>
+    <string name="app_predict_black_list_setting_title">Черный список приложений</string>
+    <string name="app_predict_folder_name">Поиск</string>
+    <string name="app_predict_loading_text">Подождите…</string>
+    <string name="app_predict_search_title">Все приложения</string>
+    <string name="app_predict_setting_black_list">Черный список</string>
+    <string name="app_predict_setting_black_list_message">Блокировка нежелаемых для рекомендаций приложений</string>
+    <string name="app_predict_setting_privacy">Политика конфиденциальности</string>
+    <string name="app_predict_setting_switch_message">Получение рекомендаций по приложениям на основе ваших предпочтений</string>
+    <string name="app_predict_setting_switch_title">Персонализированные рекомендации</string>
+    <string name="app_predict_setting_title">Рекомендации по приложениям</string>
+    <string name="app_predict_widget_name_2x4">Рекомендации по приложениям</string>
     <string name="app_right">Официальный продукт Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Отмена</string>
     <string name="app_running_tip_dialog_positive">ОК</string>
@@ -994,6 +1011,8 @@
     <string name="daily_pkg_traffic">Лимит трафика</string>
     <string name="data_booster_desc">Отключить другие слоты SIM для поддержания стабильного соединения</string>
     <string name="data_booster_title">Стабилизация соединения</string>
+    <string name="data_local_processing_and_storage">Локальное хранение и обработка данных</string>
+    <string name="data_local_processing_and_storage_detail">Ваши данные будут храниться и обрабатываться на этом устройстве и не будут загружаться в облако</string>
     <string name="data_network_blocked_notification_title">Нет доступа в интернет</string>
     <string name="data_usage_correction_timeout_title">Превышено время синхронизации трафика</string>
     <string name="data_usage_disabled_dialog">Вы достигли лимита трафика. Передача данных остановлена. Оператор связи может взимать дополнительную плату при возобновлении передачи данных.</string>
@@ -1080,6 +1099,8 @@
     <string name="dialog_title_auto_start_declare">Об автозапуске</string>
     <string name="dialog_title_stop_virus_scan">Остановка проверки</string>
     <string name="disable_air_mode">Сначала отключите режим полета</string>
+    <string name="disable_sensitive_permissions">Конфиденциальные разрешения ограничены</string>
+    <string name="disable_sensitive_permissions_detail">Клавиатура не сможет использовать конфиденциальные разрешения (например, доступ к контактам или информации о местоположении).</string>
     <string name="dlg_add_blacklist">Заблокировать этот номер?</string>
     <string name="dlg_add_blacklist_title">Блокировка</string>
     <string name="dlg_add_keyword">Добавьте ключевые слова</string>
@@ -1294,6 +1315,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_main_warning_list">Предупреждения</string>
     <string name="ew_main_warning_list_tips">Просмотр</string>
     <string name="ew_main_warning_list_title">История предупреждений</string>
+    <string name="ew_monitor_exit_title">Внимание</string>
     <string name="ew_not_support_area">Предупреждения в этой области не поддерживаются</string>
     <string name="ew_push_message">Предполагаемая интенсивность: %s. Возможно легкое сотрясение рядом.</string>
     <string name="ew_push_title">Предупреждение о землетрясении для %s</string>
@@ -1338,6 +1360,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exit_dialog_release_memory_positive_button">Закрыть</string>
     <string name="exit_dialog_release_memory_title"><Data>Ускорение устройства на &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Память устройства заполнена более чем на 80%. Освободите место, удалив неиспользуемые приложения.</string>
+    <string name="exit_dialog_release_storage_message_new">Память устройства заполнена более чем на %s. Освободите место, удалив неиспользуемые приложения.</string>
     <string name="exit_dialog_release_storage_positive_button">Освободить</string>
     <string name="exit_dialog_release_storage_title">Освободите место</string>
     <string name="exit_dialog_scan_message">Индекс производительности вашего устройства ниже 75 баллов. Оптимизировать его?</string>
@@ -1984,6 +2007,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="image_protect_recover_success">Успешно восстановлено</string>
     <string name="image_protect_tips_title">Удаление фотографий</string>
     <string name="image_protect_total_activity_label">Уведомлять об удалении фотографий</string>
+    <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
     <string name="in_delete">Удаление…</string>
     <string name="in_recover">Восстановление…</string>
     <string name="info_and_call">Вызовы и сообщения</string>
@@ -2259,6 +2283,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_text_power_manager">Батарея</string>
     <string name="menu_wh_remove">Удалить из белого списка</string>
     <string name="menu_white">Добавить в белый список</string>
+    <string name="mi_ime_not_used">Используйте авторизованную Xiaomi клавиатуру</string>
     <string name="mi_service_app_detail">Информация о трафике</string>
     <string name="mi_service_traffic_detail">Информация о Framework</string>
     <string name="mian_page_primary_txt">Зарубежный роуминг</string>
@@ -2373,6 +2398,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="net_delay_title">Задержка</string>
     <string name="net_overdue">Сеанс завершен</string>
     <string name="network_assistant_privacy">Для отслеживания трафика приложений, мы собираем следующую информацию: имена пакетов, пиковое и непиковое использование трафика, частоту использования и время включения Wi-Fi или мобильного интернета. Эта информация хранится локально на устройстве.</string>
+    <string name="network_assistant_privacy_title">Отправка диагностических данных и данных об использовании приложений и сети</string>
     <string name="network_blocked_connected_open_wifi">Подключено к публичной сети</string>
     <string name="network_blocked_notification_summary">Диагностика сети</string>
     <string name="network_blocked_switch_wifi">Подключиться к другой сети</string>
@@ -2540,6 +2566,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="numeric_recording_intro_header">Введите не менее 4 цифр</string>
     <string name="numeric_retry_button_text">Отмена</string>
     <string name="numeric_settings_help_how_to_record">Как задать PIN-код</string>
+    <string name="oaid_apps_title">Управление виртуальным ID</string>
     <string name="oaid_reset_content_tip">Если вы отключите виртуальный ID, некоторые приложения могут перестать работать должным образом, некоторые данные приложений могут быть потеряны или стать непригодными для использования.</string>
     <string name="oaid_reset_final_tip">Отключить виртуальный ID?</string>
     <string name="ok">ОК</string>
@@ -2676,6 +2703,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активный режим</string>
+    <string name="pc_hidemode_normal">Сбалансированный</string>
+    <string name="pc_hidemode_performance">Производительный</string>
+    <string name="pc_hidemode_performance_title">Режим производительности</string>
+    <string name="pc_hidemode_power_save">Экономичный</string>
     <string name="pc_install_manager">Установка через USB</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="pc_main_battery_text_day">Добавлено: %1$s мин. Заряда хватит на %2$s д.</string>
@@ -2687,6 +2718,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_main_power_manager_hour_minute">%1$s ч. %2$s мин. до полной зарядки</string>
     <string name="pc_main_sub_battery_text_day_hour">Осталось: %1$s д. %2$s ч.</string>
     <string name="pc_main_sub_battery_text_hour_minute">Осталось: %1$s ч. %2$s мин.</string>
+    <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в режиме производительности. Обратите внимание, что режим производительности увеличивает энергопотребление и может привести к перегреву.</string>
+    <string name="pc_performance_mode_dialog_title">Режим производительности</string>
     <string name="pc_search_keywords_battery">Батарея</string>
     <string name="pc_search_keywords_battery_save">Экономия</string>
     <string name="pc_search_keywords_battery_use">Расход батареи</string>
@@ -3181,6 +3214,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_optional_protection_function">Дополнительная защита</string>
     <string name="pp_permission_action_virtual_detail">В приложения отправляется пустая информация вместо личных данных</string>
     <string name="pp_permission_settings">Разрешения</string>
+    <string name="pp_privacy_input_tips">Защита клавиатуры</string>
     <string name="pp_privacy_lab_blur_location">Размытие местоположения</string>
     <string name="pp_privacy_lab_blur_location_summary">Обезличивание информации о местоположении и отправка в приложения приблизительных данных</string>
     <string name="pp_privacy_lab_clipboard">Защита буфера обмена</string>
@@ -3358,6 +3392,13 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_guide_permission_use_text">MIUI будет собирать статистику использования приложениями конфиденциальных разрешений, включая доступ к местоположению, контактам, журналу вызовов, микрофону и памяти устройства. Данная статистика может быть использована для более тонкой настройки разрешений.</string>
     <string name="privacy_hide_other_permissions">Скрыть другие разрешения</string>
     <string name="privacy_informed_title">Статистика</string>
+    <string name="privacy_input_icon_layout_status_bg_content_enable">Защищено</string>
+    <string name="privacy_input_mode">Безопасный ввод</string>
+    <string name="privacy_input_mode_img_detail">Работает с авторизованными Xiaomi клавиатурами</string>
+    <string name="privacy_input_mode_version_supported">Обновите клавиатуру для возможности использовать эту функцию</string>
+    <string name="privacy_input_model_guide_choose">Загрузить голосовой ввод офлайн</string>
+    <string name="privacy_input_model_guide_text">Функция защищает вашу конфиденциальность при вводе. Когда функция включена, некоторые сетевые функции (например, параметры персонализации, эмодзи, интеллектуальный набор текста) будут недоступны.</string>
+    <string name="privacy_input_model_tips">Безопасный ввод включен. Клавиатуре не доступно отображение всплывающих окон и получение доступа к контактам, местоположению и журналу вызовов.</string>
     <string name="privacy_location_info_summary">Управление доступом к местоположению</string>
     <string name="privacy_location_info_title">Местоположение</string>
     <string name="privacy_look_all_permission_status">Все разрешения</string>
@@ -3506,6 +3547,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="prompt_input_time_illegal">Это время занято, измените его и повторите попытку</string>
     <string name="prompt_safe">Все хорошо</string>
     <string name="prompt_unknown">Не определено</string>
+    <string name="protect_data_security">Изолированные данные</string>
+    <string name="protect_data_security_detail">Данные, генерируемые клавиатурой, будут изолированы и недоступны для других приложений.</string>
+    <string name="protect_screen_information">Экран защищен</string>
+    <string name="protect_screen_information_detail">Скриншоты или запись экрана во время набора текста недоступны</string>
     <string name="protocol_exception_title">Диагностика сетевого протокола</string>
     <string name="protocol_loop_back_exception_summary">Ошибка диагностики. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
     <string name="provision_back">Назад</string>
@@ -3588,6 +3633,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="risk_app_install_item_des">Версия: %1$s</string>
     <string name="risk_app_install_manager">Приложения с возможными рисками</string>
     <string name="risk_count_suffix" />
+    <string name="risk_tip">Обнаружен риск</string>
     <string name="roaming_allow_network_dialog_title">Интернет-роуминг</string>
     <string name="roaming_limit_dialog_message">Достигнут суточный лимит трафика в роуминге.</string>
     <string name="roaming_limit_network_notification_body">Нажмите для просмотра доступных сетей</string>
@@ -3669,6 +3715,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="set_complete">Готово</string>
     <string name="set_location">Местоположение</string>
     <string name="set_mixed_password_name">Задайте пароль</string>
+    <string name="set_now">Настройки</string>
     <string name="set_numeric_password_name">Задайте PIN-код</string>
     <string name="set_package_tips">Система отправит бесплатное SMS оператору для исправления информации о трафике, заполненная информация будет зашифрована и загружена для получения шаблона SMS с исправлением.</string>
     <string name="set_package_tips_detail">Информация об операторе, номер мобильного телефона, IMEI и заполненная вами учетная запись Xiaomi будут зашифрованы и загружены на сервер Xiaomi.</string>
@@ -3998,6 +4045,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="status_bar_network_flow_purchase">"     Купить &gt;"</string>
     <string name="status_bar_network_flow_setup_data_plan">"     Настроить тариф &gt;"</string>
     <string name="still_retain_btn">Оставить</string>
+    <string name="stop_collecting_data">Клавиатура не будет запоминать ваши предпочтения</string>
+    <string name="stop_collecting_data_detail">Клавиатура не будет собирать данные для улучшения интеллектуального набора текста и рекомендации частых фраз на основе ваших предпочтений</string>
     <string name="stop_milink_connect">Трансляция прекращена</string>
     <string name="storage_activity_title">Память</string>
     <string name="storage_app_detail_activity_title">Занятое место</string>
@@ -4593,6 +4642,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="usbsharenet_exception_title">Диагностика интернета по USB</string>
     <string name="usbsharenet_pc_exception_summary">Невозможно подключиться к интернету по USB. Проверьте интернет-подключение вашего компьютера.</string>
     <string name="use_immediately">Включить</string>
+    <string name="use_other_ime_warn">Сторонние клавиатуры могут записывать все что вводится, включая пароли и другую конфиденциальную информацию.</string>
     <string name="user_define_title">Новый профиль</string>
     <string name="user_guide">Сделайте свайп вверх, чтобы узнать о новых играх</string>
     <string name="user_guide_title">Выбор джойстика</string>
@@ -4613,6 +4663,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_settings">Настройки</string>
     <string name="vb_ve_settings_ai_stronger">ИИ</string>
     <string name="vb_ve_settings_display_style_tips">*Эффекты применяются ко всему экрану</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Эффекты применяются только к области воспроизведения</string>
     <string name="vb_ve_settings_pic_border_stronger">Улучшенные контуры</string>
     <string name="vb_ve_settings_picture_stronger">Улучшенная анимация</string>
     <string name="vb_video_effects_display_style">Стиль</string>
