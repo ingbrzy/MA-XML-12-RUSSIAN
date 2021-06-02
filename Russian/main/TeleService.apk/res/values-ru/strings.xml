@@ -1111,6 +1111,14 @@
     <string name="four_point_five_switch_summary">Использовать 4.5G для улучшения скорости передачи данных и качества голосовой связи</string>
     <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">номер канала lte</string>
+    <string name="full_forwarding_number">Номер для переадресации</string>
+    <string name="full_forwarding_number_error_msg">Поддерживаются только номера телефонов, начинающиеся с \"0\".</string>
+    <string name="full_forwarding_number_error_title">Неверный номер телефона</string>
+    <string name="full_forwarding_number_prefix">"Номер телефона: "</string>
+    <string name="full_forwarding_option_forwarding">Переадресация</string>
+    <string name="full_forwarding_option_off">ОТКЛ.</string>
+    <string name="full_forwarding_option_voicemail">Голосовая почта</string>
+    <string name="full_forwarding_settings">Полная переадресация</string>
     <string name="fw_change_failed">"Не удалось изменить номер переадресации вызовов.
 Если проблема не будет решена, обратитесь к вашему оператору."</string>
     <string name="fw_get_in_vm_failed">"Не удалось сохранить текущие настройки переадресации.
@@ -1754,6 +1762,7 @@
     <string name="pin_puk_system_user_only">Только владелец устройства может вводить коды PIN/PUK.</string>
     <string name="ping_test_label">Выполнить тест Ping</string>
     <string name="platform_number_verification_package" />
+    <string name="play_voicemail_settings">Воспроизведение голосовой почты</string>
     <string name="pointer_location">Отображать касания</string>
     <string name="pointer_location_summary">Визуализировать на экране нажатия и жесты</string>
     <string name="police_type_description">Полиция</string>
@@ -2526,6 +2535,7 @@ UT-интерфейс: %5$s"</string>
     <string name="voice_service_warning_dialog_title">Вызовы VoLTE</string>
     <string name="voicemail">Голосовая почта</string>
     <string name="voicemail_abbreviated">ГП:</string>
+    <string name="voicemail_callforward_settings">Голосовая почта и переадресация вызовов</string>
     <string name="voicemail_change_pin_dialog_title">Изменение PIN</string>
     <string name="voicemail_default">Мой оператор</string>
     <string name="voicemail_notification_vibrate_when_title">Вибрация</string>

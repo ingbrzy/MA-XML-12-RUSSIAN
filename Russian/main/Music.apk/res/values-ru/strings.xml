@@ -144,7 +144,7 @@
     <string name="cancel_running_download">Отмена</string>
     <string name="cannot_download_to_sdcard_hint">Нельзя загрузить файлы на SD-карту из-за ограничений авторских прав. Файлы будут загружены во внутреннее хранилище.</string>
     <string name="change_download_quality">Изменить качество загрузки</string>
-    <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="checking_new_version">Проверка обновлений…</string>
     <string name="chip_text">Текст</string>
@@ -936,9 +936,7 @@
 Перед использованием приложения вы должны принять &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>.
 В случае отказа вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность по-прежнему будет вам доступна.</Data></string>
     <string name="privacy_request_subtitle">Добро пожаловать в приложение Музыка! Это приложение предоставляет следующие возможности:
-
 - Локальный аудиоплеер
-
 - Онлайн-сервисы потокового вещания</string>
     <string name="privacy_request_title">Условия и положения</string>
     <string name="pro_member">PRO подписчик</string>

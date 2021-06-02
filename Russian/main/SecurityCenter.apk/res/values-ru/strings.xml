@@ -1315,7 +1315,31 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_main_warning_list">Предупреждения</string>
     <string name="ew_main_warning_list_tips">Просмотр</string>
     <string name="ew_main_warning_list_title">История предупреждений</string>
+    <string name="ew_monitor_content">Ваше мобильное устройство может стать частью сети раннего предупреждения о землетрясениях. После того как его датчики зафиксируют сейсмические волны, данные будут проанализированы искусственным интеллектом, людям в районах бедствия будут отправлены ранние предупреждения.</string>
+    <string name="ew_monitor_exit">Выйти</string>
+    <string name="ew_monitor_exit_content">Привет, волонтер № %s! Ваше устройство может отслеживать сейсмическую активность и собирать данные, которые помогут выдавать ранние предупреждения о землетрясениях. Выйти из программы?</string>
     <string name="ew_monitor_exit_title">Внимание</string>
+    <string name="ew_monitor_have_been">"Я горжусь быть "</string>
+    <string name="ew_monitor_info_title">Как это работает?</string>
+    <string name="ew_monitor_join_number">Количество волонтеров</string>
+    <string name="ew_monitor_join_path">Присоединяйтесь к программе с помощью устройства Xiaomi: Безопасность > Предупреждение о землетрясении > Волонтер по мониторингу землетрясений.</string>
+    <string name="ew_monitor_my_content">Мое мобильное устройство является частью сети раннего предупреждения о землетрясениях. После того, как его датчики обнаружат сейсмические волны, данные будут проанализированы искусственным интеллектом, людям в районах бедствия будут отправлены ранние предупреждения.</string>
+    <string name="ew_monitor_number_prex">№ %s</string>
+    <string name="ew_monitor_open">Присоединиться</string>
+    <string name="ew_monitor_read_privacy"><Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>."</Data></string>
+    <string name="ew_monitor_share">Отправить</string>
+    <string name="ew_monitor_slogan">"Присоединяйтесь к программе
+мониторинга землетрясений"</string>
+    <string name="ew_monitor_summary1">Использование мобильного устройства для сейсмического мониторинга.</string>
+    <string name="ew_monitor_summary2">Передача информации, связанной с предупреждением о землетрясениях.</string>
+    <string name="ew_monitor_summary3">Помощь большему количеству людей в быстром получении оповещений о землетрясениях.</string>
+    <string name="ew_monitor_support">Техническая поддержка предоставляется Чэндуским институтом высоких технологий по уменьшению опасности стихийных бедствий.</string>
+    <string name="ew_monitor_support_rom">*Функция поддерживается некоторыми устройствами Xiaomi/Redmi и версиями MIUI.</string>
+    <string name="ew_monitor_thanks_tips">"Благодарим за то, что стали волонтером
+по мониторингу землетрясений № %s!"</string>
+    <string name="ew_monitor_title">Волонтер по мониторингу землетрясений</string>
+    <string name="ew_monitor_title_spilt">"Волонтер по мониторингу
+землетрясений"</string>
     <string name="ew_not_support_area">Предупреждения в этой области не поддерживаются</string>
     <string name="ew_push_message">Предполагаемая интенсивность: %s. Возможно легкое сотрясение рядом.</string>
     <string name="ew_push_title">Предупреждение о землетрясении для %s</string>
@@ -1812,7 +1836,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_signed_title">Отметились в этом месяце</string>
     <string name="gb_sound_audition">Попробовать</string>
     <string name="gb_storage_game_dialog_button_timer">%d сек.</string>
-    <string name="gb_storage_game_dialog_message">Загруженная игра будет автоматически добавлена в Ускорение игр, а иконка игры скрыта с рабочего стола. Включить функцию?</string>
+    <string name="gb_storage_game_dialog_message">Вы можете автоматически сохранять игры в Ускорении игр. При включении этой функции они ни не будут отображаться на рабочем столе. Включить функцию?</string>
     <string name="gb_storage_game_uninstall">Удаление игр</string>
     <string name="gb_storage_summary">Не показывать на рабочем столе игры, которые добавлены в Ускорение игр</string>
     <string name="gb_storage_title">Скрытие игр</string>

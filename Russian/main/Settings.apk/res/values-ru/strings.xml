@@ -1728,7 +1728,6 @@
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_animation_style_lollipop">Поток</string>
     <string name="charge_animation_style_none">Нет</string>
-    <string name="charge_animation_style_particle">Частицы</string>
     <string name="charge_animation_style_summary">Выбор анимации зарядки на экране блокировки</string>
     <string name="charge_animation_style_title">Анимация зарядки</string>
     <string name="charge_animation_style_video">Свечение</string>
@@ -6624,7 +6623,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_timeout">Спящий режим</string>
     <string name="screen_timeout_subtitle">Отображение статичного содержимого в течение длительного периода может привести к неравномерному отображению цвета</string>
     <string name="screen_timeout_summary">После %1$s бездействия</string>
-    <string name="screen_timeout_title">Спящий режим</string>
+    <string name="screen_timeout_title">Автоблокировка экрана</string>
     <string name="screen_usage_summary">Время работы экрана с момента полной зарядки</string>
     <string name="screen_zoom_big">L</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
@@ -6906,6 +6905,7 @@ UT-интерфейс: %5$s"</string>
     <string name="secspace_fod_use_password">Введите пароль</string>
     <string name="secure_keyguard_business_title">Защита устройства</string>
     <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надежность защиты зашифрованных данных может быть снижена.</string>
+    <string name="security_center_title">Безопасность</string>
     <string name="security_dashboard_summary">Блокировка экрана, цифровой отпечаток</string>
     <string name="security_dashboard_summary_face">Блокировка экрана, разблокировка по лицу</string>
     <string name="security_dashboard_summary_no_fingerprint">Блокировка экрана</string>

@@ -450,8 +450,10 @@
     <string name="greetingcard_reminder_dialog_negative">Отмена</string>
     <string name="greetingcard_reminder_dialog_positive">Разрешить</string>
     <string name="greetingcard_reminder_dialog_title">Получение уведомлений</string>
+    <string name="greetingcard_reminder_disabled_status">Ежедневные уведомления о статусах WhatsApp отключены</string>
     <string name="greetingcard_reminder_disabled_text">Включить уведомления</string>
-    <string name="greetingcard_reminder_enabled_text">Напоминания включены</string>
+    <string name="greetingcard_reminder_enabled_status">Ежедневные уведомления о статусах WhatsApp включены</string>
+    <string name="greetingcard_reminder_enabled_text">Уведомления включены</string>
     <string name="greetingcard_reminder_pref_desc">Получение ежедневных уведомлений о приветствиях и статусах</string>
     <string name="greetingcard_reminder_pref_title">Получение уведомлений</string>
     <string name="greetingcard_select_activity_label">Все поздравления</string>
@@ -764,6 +766,10 @@
     <string name="more_match">Еще</string>
     <string name="more_string">ещё %1$s</string>
     <string name="morning">AM</string>
+    <string name="movie_card_read_more">Подробнее</string>
+    <string name="movie_card_title">Фильмы</string>
+    <string name="movie_card_trailer">Трейлер</string>
+    <string name="movie_cast">Актеры:</string>
     <string name="movie_event_delete_successfully">Билет успешно удален</string>
     <string name="movie_event_title">Фильм:</string>
     <string name="movie_state_upcoming">Предстоящие</string>
@@ -857,6 +863,9 @@
     <string name="olympic_rank">Рейтинг</string>
     <string name="olympic_total">Всего</string>
     <string name="pack_up">Скрыть</string>
+    <string name="panchang_till_time">До %1$s</string>
+    <string name="panchang_to"> в </string>
+    <string name="panchang_upto"> до </string>
     <string name="partner_compatibility">Совместимость партнеров</string>
     <string name="passenger">Пассажир</string>
     <string name="password_toggle_content_description">Показать пароль</string>
@@ -1095,6 +1104,7 @@
     <string name="shortcut_next_agenda">Следующее мероприятие</string>
     <string name="shortcut_settings">Настройки</string>
     <string name="show_day_view">Показать день</string>
+    <string name="show_indic_date_summary">Индийский календарь доступен только если в качестве системного языка выбран один из языков Индии.</string>
     <string name="simple_date_format">dd.MM.yyyy</string>
     <string name="single_selected_holiday">%1$s - выходной</string>
     <string name="skip">Пропустить</string>
@@ -1141,6 +1151,8 @@
     <string name="subscribe_channel_bottom_hint">—— Mi Календарь ——</string>
     <string name="subscribe_channel_footer_desc">Проверьте свои подписки или отпишитесь</string>
     <string name="subscribe_channel_footer_title">В подписках</string>
+    <string name="subscribe_channel_hint">"Подпишитесь на понравившиеся сервисы и получайте ежедневные обновления на домашней странице.
+Также можно добавить напоминания, чтобы не пропустить ничего важного."</string>
     <string name="subscribe_channel_subscribe">Подписаться</string>
     <string name="subscribe_channel_subscribing">Подписка</string>
     <string name="subscribe_channel_title">Канал</string>
@@ -1149,6 +1161,12 @@
     <string name="subscribing_card">Подписка</string>
     <string name="subscription_service">Сервис подписки</string>
     <string name="subscription_service_unsupported">Для включения подписки, разрешите доступ к интернету</string>
+    <string name="subtitle_be_ready">Будьте готовы</string>
+    <string name="subtitle_exercise_and_sleep">Поддерживайте физическую активность и высыпайтесь</string>
+    <string name="subtitle_keep_warm">Будьте в тепле и придерживайтесь диеты</string>
+    <string name="subtitle_mi_calendar_predict_menstruation">Записывайте и будьте в курсе предстоящих периодов с помощью календаря</string>
+    <string name="subtitle_record_and_start_predict">Запишите период, чтобы знать, когда начнется следующий</string>
+    <string name="subtitle_stick_record">Записывайте периоды для более точных прогнозов</string>
     <string name="summary_import_by_caldav">Поддержка импорта мероприятий из iCloud, lark</string>
     <string name="summary_import_by_email">Поддержка аккаунта Outlook, QQ и др.</string>
     <string name="summary_import_by_local">Поддержка файлов ICS</string>
@@ -1170,6 +1188,18 @@
     <string name="talkback_festival_and"> и </string>
     <string name="talkback_festival_is">праздник</string>
     <string name="tb_go_back_today">К сегодняшнему дню</string>
+    <string name="tb_mens_month_date_selected">Выбрано %1$s</string>
+    <string name="tb_mens_month_date_unselected">%1$s. Нажмите для выбора даты.</string>
+    <string name="tb_mens_month_expected_date_selected">%1$s. День %2$d прогнозируемого цикла. Выбран.</string>
+    <string name="tb_mens_month_expected_date_unselected">%1$s. День %2$d прогнозируемого цикла. Нажмите для выбора.</string>
+    <string name="tb_mens_month_forecast">%1$s. Ожидаемый период.</string>
+    <string name="tb_mens_month_future_date">%1$s. Невозможно выбрать будущие даты.</string>
+    <string name="tb_mens_month_history">Средняя продолжительность периода в днях: %1$d. Средняя продолжительность цикла в днях: %2$d.</string>
+    <string name="tb_mens_month_marked">%1$s. Отмечено.</string>
+    <string name="tb_mens_month_no_marks">%1$s. Не отмечено.</string>
+    <string name="tb_mens_month_panel_title">%1$s. Нажмите для изменения даты.</string>
+    <string name="tb_mens_month_period_date_selected">%1$s. День %2$d менструального цикла. Выбрано.</string>
+    <string name="tb_mens_month_period_date_unselected">%1$s. День %2$d менструального цикла. Нажмите для выбора.</string>
     <string name="tb_picker_day">День: %1$d. Проведите вертикально для выбора.</string>
     <string name="tb_picker_menstruation_cycle">Число дней: %1$d. Проведите вертикально для изменения длительности цикла.</string>
     <string name="tb_picker_menstruation_days">Число дней: %1$d. Проведите вертикально для изменения длительности периода.</string>

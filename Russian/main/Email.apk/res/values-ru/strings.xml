@@ -317,6 +317,12 @@
     <string name="bottom_bar_more_quickreply">Быстрый ответ</string>
     <string name="bottom_bar_more_share">Отправить</string>
     <string name="bottom_bar_no_quickreply_toast">Нет быстрого ответа</string>
+    <string name="broker_helper_manifest">Intent-фильтр для AndroidManifest.xml</string>
+    <string name="broker_helper_package">Имя пакета для ввода при регистрации приложения</string>
+    <string name="broker_helper_redirect">URI перенаправления для файла конфигурации json</string>
+    <string name="broker_helper_signature">Подпись для ввода при регистрации приложения</string>
+    <string name="broker_helper_title">Информация об URI перенаправления MSAL</string>
+    <string name="broker_processing">Обработка</string>
     <string name="bytes">%s Б</string>
     <string name="calendar_remind_dialog_title">Добавление напоминания</string>
     <string name="calendar_remind_gridview_pick_date">Выбрать дату</string>
@@ -751,6 +757,7 @@
     <string name="log_save_path">Путь к журналу</string>
     <string name="login">Вход</string>
     <string name="login139">Войти с помощью China Mobile</string>
+    <string name="login_cancelled">Попытка входа отменена</string>
     <string name="login_des_126">Войти в 126 Mail</string>
     <string name="login_des_139">Войти в 139 Mail</string>
     <string name="login_des_163">Войти в 163 Mail</string>
@@ -769,6 +776,7 @@
     <string name="login_err_outlook_msg">"%s
 Проверьте, включен ли пароль приложения. Если пароль приложения включен, перейдите на веб-сайт Microsoft, чтобы его."</string>
     <string name="login_err_sina_message">Используйте авторизованный код доступа для входа в %1$s, если этот параметр был выбран ранее. Перейдите на https://mail.sina.com.cn/ для сброса пароля или кода доступа.</string>
+    <string name="login_failed">Не удалось войти</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_tip">"Свяжитесь нами в WeChat для получения помощи: "</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
@@ -776,6 +784,7 @@
     <string name="login_manual">настройка вручную</string>
     <string name="login_qq_psw">Ввести код вручную</string>
     <string name="login_support_tip_text">Поддерживаются все основные сервисы</string>
+    <string name="login_tip">По умолчанию для входа будет использоваться протокол %s. Если вы хотите использовать другой протокол, выберите его вручную</string>
     <string name="long_press_to_select_tip">Нажмите и удерживайте для выбора диалога, затем добавляйте диалоги нажатием.</string>
     <string name="long_string">длиииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииинное</string>
     <string name="mail">Почта</string>
@@ -1027,6 +1036,7 @@
 Выберите другой почтовый ящик."</string>
     <string name="no_search_results">Искать на сервере</string>
     <string name="noon">Полдень</string>
+    <string name="not_install_qq_tip">Успешно скопировано. Откройте QQ и найдите эту группу, чтобы присоединиться к ней.</string>
     <string name="not_set">Не задано</string>
     <string name="not_subject">(Без темы)</string>
     <string name="not_synced_title">Аккаунт не синхронизирован</string>
@@ -1248,6 +1258,8 @@
     <string name="qq_bar_open_imap">Помощь</string>
     <string name="qq_bar_send_message">Отправить SMS</string>
     <string name="qq_changepw_dialog_tips">Получите новый код от %s для входа.</string>
+    <string name="qq_group_info_summary">Группа QQ: %s. Нажмите, чтобы скопировать.</string>
+    <string name="qq_group_info_title">Группа QQ для обратной связи</string>
     <string name="qq_login_basecode">Авторизация в веб-почте QQ. Введите независимый пароль.</string>
     <string name="qq_login_get_auth">Включите защиту паролем, если вы не можете получить SMS</string>
     <string name="qq_login_help_bottom_tip">"Если вы забыли свой пароль или вам необходимо проверить состояние своей учетной записи, воспользуйтесь веб-версией QQ Mail. Вы также можете получить помощь в WeChat: "</string>
@@ -1446,6 +1458,8 @@
     <string name="show_images_all">Загрузить и показать все изображения</string>
     <string name="show_password">Показать пароль</string>
     <string name="show_server_cet">Просмотр сертификата</string>
+    <string name="sign_in_graph_error">Вы можете войти в систему с использованием протоколов IMAP или EXCHANGE, только если ваша организация не изменила общую конфигурацию сервера. Если адрес сервера изменен организацией или соответствующие протоколы отключены, используйте для входа новый протокол Microsoft.</string>
+    <string name="sign_in_no_useful_provider_error">Не удается получить конфигурацию протокола от Microsoft. Обновите протокол или используйте другой.</string>
     <string name="signature">"
 
 
