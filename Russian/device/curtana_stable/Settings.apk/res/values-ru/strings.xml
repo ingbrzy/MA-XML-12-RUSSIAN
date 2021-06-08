@@ -1512,9 +1512,17 @@
     <string name="bt_absVolume_open_dialog_title">Внимание</string>
     <string name="bt_absVolume_pre_title">Абсолютная громкость</string>
     <string name="bt_absVolume_summary">Уровень громкости Bluetooth-устройств и устройства должен быть одинаковым. Вы можете включать и выключать эту функцию, когда мультимедиа не воспроизводится в фоновом режиме.</string>
+    <string name="bt_audio_repair_property">Исправление проблем со звуком</string>
     <string name="bt_audio_share_property">Передача</string>
     <string name="bt_audio_share_switch_summary">Передача аудио на другие подключенные устройства</string>
     <string name="bt_audio_share_switch_title">Передача аудио</string>
+    <string name="bt_audiorepair_dialog_open_success">Успешно исправлено. Подождите, пока устройство снова подключится</string>
+    <string name="bt_audiorepair_dialog_openok">Исправить</string>
+    <string name="bt_audiorepair_open_dialog_summary">MIUI попытается обнаружить и устранить проблемы, вызывающие заикание звука на Bluetooth-устройствах. Во время этого процесса Bluetooth будет перезапущен. Не покидайте эту страницу до окончания процесса.</string>
+    <string name="bt_audiorepair_open_dialog_title">Исправление заикания звука</string>
+    <string name="bt_audiorepair_pre_title">Исправление заикания звука</string>
+    <string name="bt_audiorepair_summary">Исправление заикания звука на подключенных Bluetooth-устройствах</string>
+    <string name="bt_audiorepair_working">Исправление заикания звука…</string>
     <string name="bt_dialog_remember_choice">Запомнить</string>
     <string name="bt_dialog_settings">Настройки</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
