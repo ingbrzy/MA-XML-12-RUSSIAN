@@ -564,6 +564,9 @@
         <item quantity="one">%d файл</item>
         <item quantity="few">%d файла</item>
     </plurals>
+    <plurals name="synced_immerse_title">
+        <item quantity="other">%1$d фото и %2$d видео успешно синхронизированы</item>
+    </plurals>
     <plurals name="synced_photo_count">
         <item quantity="other">Синхронизировано %d фото</item>
         <item quantity="one">Синхронизировано %d фото</item>

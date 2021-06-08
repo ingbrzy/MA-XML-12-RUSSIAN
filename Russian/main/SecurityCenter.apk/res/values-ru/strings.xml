@@ -543,7 +543,13 @@
     <string name="app_permission_use_title">Разрешения</string>
     <string name="app_predict_black_list_empty">Ничего нет</string>
     <string name="app_predict_black_list_setting_title">Черный список приложений</string>
+    <string name="app_predict_dialog_button">Добавить на рабочий стол</string>
+    <string name="app_predict_dialog_message">ИИ предложит приложения, которые могут понадобиться вам на данный момент</string>
+    <string name="app_predict_dialog_success">Успешно добавлено на рабочий стол</string>
     <string name="app_predict_folder_name">Поиск</string>
+    <string name="app_predict_guide_button">Добавить</string>
+    <string name="app_predict_guide_message">ИИ предложит приложения, которые могут понадобиться вам на данный момент</string>
+    <string name="app_predict_guide_title">Умные рекомендации по приложениям</string>
     <string name="app_predict_loading_text">Подождите…</string>
     <string name="app_predict_search_title">Все приложения</string>
     <string name="app_predict_setting_black_list">Черный список</string>
@@ -1902,6 +1908,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gmscore_support_remind">Включите эту функцию, если у вас возникли проблемы с использованием Gmail, Карт Google и других приложений Google. Это немного повысит расход батареи.</string>
     <string name="gmscore_support_service">Основные сервисы Google</string>
     <string name="go_to">Перейти</string>
+    <string name="go_to_mi_sim">Нажмите, чтобы использовать Mi SIM.</string>
     <string name="go_to_send">Отправить</string>
     <string name="go_to_setting_fingerprint">Настройки</string>
     <string name="google_base_app_fail">Не удалось загрузить. Убедитесь, что приложению Безопасность разрешен доступ в интернет.</string>
@@ -2310,6 +2317,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mi_ime_not_used">Используйте авторизованную Xiaomi клавиатуру</string>
     <string name="mi_service_app_detail">Информация о трафике</string>
     <string name="mi_service_traffic_detail">Информация о Framework</string>
+    <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Нажмите вверху, чтобы открыть Mi Sim.&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Зарубежный роуминг</string>
     <string name="midnight">Ночь</string>
     <string name="midrop_post_notification_contentText">Воспользуйтесь Mi Drop со скоростью до 50 Мбит/с.</string>
@@ -3190,6 +3198,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_setting_super_save_summary_text">Ограничение энергоемких функций для максимальной экономии заряда</string>
     <string name="power_setting_warm_configure">Контроль температуры</string>
     <string name="power_setting_warm_performance_tip">Сценарии, требующие высокого энергопотребления, поднимут температуру устройства выше стандартного уровня.</string>
+    <string name="power_setting_wireless_reverse_charging_fg_control_title">Лимит зарядки</string>
     <string name="power_setting_wireless_reverse_charging_summary">Беспроводная зарядка совместимых устройств</string>
     <string name="power_setting_wireless_reverse_charging_title">Обратная беспроводная зарядка</string>
     <string name="power_settings_category_title">Индикатор батареи</string>
@@ -3203,6 +3212,17 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_superpower_title_systemui_highpower">Оставшееся время</string>
     <string name="power_superpower_title_systemui_lowpower">Подключите зарядное устройство</string>
     <string name="power_wifi">Wi-Fi</string>
+    <string name="power_wireless_need_update_text">Обновление…</string>
+    <string name="power_wireless_update_button_text">Обновить</string>
+    <string name="power_wireless_update_dialog_button">Понятно</string>
+    <string name="power_wireless_update_dialog_message">Зарядите устройство до %s для возможности обновления прошивки беспроводной зарядки</string>
+    <string name="power_wireless_update_dialog_title">Низкий заряд батареи</string>
+    <string name="power_wireless_update_driver">Обновление прошивки</string>
+    <string name="power_wireless_update_notification_button">Просмотр</string>
+    <string name="power_wireless_update_notification_subtitle">Обновите прошивку для повышения стабильности беспроводной зарядки</string>
+    <string name="power_wireless_update_notification_title">Обновление беспроводной зарядки</string>
+    <string name="power_wireless_update_text">Обновление не требуется</string>
+    <string name="power_wireless_update_tv_text">Обновление прошивки. Не выключайте устройство.</string>
     <string name="pp_app_behavior_record_detail">Записи действий приложений</string>
     <string name="pp_app_del_img_intercept_detail">Уведомлять об удалении файлов из галереи без подтверждения</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Разрешения с высоким риском</string>
@@ -3751,6 +3771,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="setting">Настройки</string>
     <string name="setting_online_service">Онлайн-сервисы</string>
     <string name="setting_privacy_password">Задайте графический ключ</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Остановить обратную беспроводную зарядку, когда заряд этого устройства %s</string>
+    <string name="setting_wireless_reverse_charging_summary">Поместите устройство, поддерживающее беспроводную зарядку Qi (например, телефон или носимое устройство), в центр задней панели этого устройства</string>
     <string name="settings">Настройки трафика</string>
     <string name="settings_battery_consume_abnormal_summary">Получать уведомления о быстром разряде батареи</string>
     <string name="settings_battery_consume_abnormal_title">Уведомлять о разряде</string>
