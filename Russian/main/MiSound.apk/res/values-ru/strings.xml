@@ -73,9 +73,16 @@
     <string name="expand_button_title">Дополнительно</string>
     <string name="first_note">Проверьте ваше слуховое восприятие для соответствующей регулировки громкости.</string>
     <string name="four_note">Тест займет около 3 минут.</string>
+    <string name="headset_use_long_time">Вы носите наушники дольше рекомендованного. Снимите их и сделайте паузу.</string>
+    <string name="headset_use_loud_volume">Громкость наушников высокая длительное время. Для защиты слуха, она снижена до рекомендуемого уровня.</string>
+    <string name="headset_use_not_support_noise_reduction">Текущее окружение очень шумное. Если вы наденете наушники, это может повлиять на ваш слух.</string>
+    <string name="headset_use_prompt">Наушники</string>
+    <string name="headset_use_support_noise_reduction">Текущее окружение очень шумное. Используйте шумоподавление для защиты слуха.</string>
+    <string name="headset_volume_content">Текущая громкость наушников превышает рекомендуемый предел. Уменьшите громкость для защиты слуха.</string>
+    <string name="headset_volume_prompt">Громкость наушников</string>
     <string name="heard_no">Нет</string>
     <string name="heard_yes">Да</string>
-    <string name="hearing_assist_bluetooth_headset">Bluetooth наушники</string>
+    <string name="hearing_assist_bluetooth_headset">Bluetooth-наушники</string>
     <string name="hearing_assist_bluetooth_headset_disconnected">Не подключено</string>
     <string name="hearing_assist_bluetooth_headset_not_supported">Не поддерживается</string>
     <string name="hearing_assist_btn_headset_choice">Выберите устройство</string>
@@ -231,6 +238,7 @@
     <string name="save_and_apply">Сохранить и применить</string>
     <string name="search_menu_title">Поиск</string>
     <string name="second_note">Наденьте наушники.</string>
+    <string name="see_details">Подробности</string>
     <string name="sound_assist_key_summary">Раздельная регулировка звука для каждого приложения при одновременном воспроизведении</string>
     <string name="sound_assist_key_title">Раздельная регулировка</string>
     <string name="sound_assist_title">Звуковой помощник</string>
