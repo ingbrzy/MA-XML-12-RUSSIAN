@@ -1728,9 +1728,9 @@
     <string name="change_security_lock">Другие способы разблокировки</string>
     <string name="change_storage">Что использовать</string>
     <string name="change_theme_reboot">Смена темы требует перезагрузки.</string>
-    <string name="change_wifi_state_app_detail_summary">Разрешить этому приложению включать или выключать WLAN, сканировать и подключаться к сетям WLAN, добавлять или удалять сети или запускать только локальную точку доступа</string>
-    <string name="change_wifi_state_app_detail_switch">Разрешить приложению управлять WLAN</string>
-    <string name="change_wifi_state_title">Управление WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">Разрешить этому приложению включать или выключать Wi-Fi, сканировать и подключаться к сетям Wi-Fi, добавлять или удалять сети, запускать локальную точку доступа</string>
+    <string name="change_wifi_state_app_detail_switch">Разрешить приложению управлять Wi-Fi</string>
+    <string name="change_wifi_state_title">Управление Wi-Fi</string>
     <string name="channel_group_notifications_off_desc">По вашему запросу Android блокирует показ этой группы уведомлений на этом устройстве.</string>
     <string name="channel_notifications_off_desc">Android блокирует уведомления этой категории</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
@@ -3821,7 +3821,7 @@
     <string name="input_pattern_hint_text">Введите графический ключ</string>
     <string name="input_settings">Настройки ввода</string>
     <string name="input_text">Поле ввода</string>
-    <string name="install_all_warning">Ваши личные данные и данные устройства более уязвимы для атак приложений из неизвестных источников. Устанавливая приложения из этого источника, вы соглашаетесь с тем, что несете полную ответственность за любой ущерб нанесенный устройству, и потерю данных, связанные с использованием этих приложений.</string>
+    <string name="install_all_warning">Ваши личные данные и данные устройства более уязвимы для атак приложений из неизвестных источников. Устанавливая приложения из этого источника, вы принимаете на себя полную ответственность за любой ущерб, нанесенный устройству, и потерю данных при использовании этих приложений.</string>
     <string name="install_applications">Неизвестные источники</string>
     <string name="install_applications_title">Разрешить из всех источников</string>
     <string name="install_no_market_app_summary">Разрешить установку приложений из неизвестных источников</string>
@@ -3929,7 +3929,7 @@
     <string name="keywords_airplane">Самолет;Режим полета;Самолет;Режим полета;Полет;Режим полета</string>
     <string name="keywords_all_apps">приложения, скачать, установить, система</string>
     <string name="keywords_ambient_display">входящее уведомление</string>
-    <string name="keywords_ambient_display_screen">Амбиентный дисплей, экран блокировки</string>
+    <string name="keywords_ambient_display_screen">Активный дисплей, экран блокировки</string>
     <string name="keywords_android_version">обновление системы безопасности, прошивка модуля связи, версия ядра</string>
     <string name="keywords_app">ОЗУ</string>
     <string name="keywords_app_default">Открыть с помощью</string>
@@ -6493,7 +6493,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_enhance_engine_ai_title">AI улучшение изображения</string>
     <string name="screen_enhance_engine_memc_note">Улучшение видео при суперразрешении недоступно. Включение улучшения отключит суперразрешение.</string>
     <string name="screen_enhance_engine_memc_note_1">%d. Функция немного увеличивает расход батареи.</string>
-    <string name="screen_enhance_engine_memc_note_2">%d. Функция работает только при включенной панели инстументов видео.</string>
+    <string name="screen_enhance_engine_memc_note_2">%d. Функция работает только при включенной панели инструментов видео.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">Добавление дополнительных кадров для плавности картинки и переходов между видео</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
@@ -6723,7 +6723,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_advanced_settings">Расширенные настройки;WiFi;Wi-Fi;Настройки WiFi;Настройки Wi-Fi;Настройки WLAN</string>
     <string name="search_airplane_mode">Режим полета;Режим самолета;Авиарежим;Самолет;Самолет;Полет</string>
     <string name="search_alarm_sound_title">Звук будильника;Мелодия будильника;будильник</string>
-    <string name="search_ambient_display_screen_title">Активный экран;Режим Always-on;Амбиентный дисплей</string>
+    <string name="search_ambient_display_screen_title">Активный экран;Режим Always-on;Активный дисплей</string>
     <string name="search_android_auto">авто;автомобиль</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_apn_settings">APN;Точки доступа</string>
@@ -8764,7 +8764,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vpn_require_connection">Блокировать соединения без VPN</string>
     <string name="vpn_require_connection_title">Использовать сеть VPN?</string>
     <string name="vpn_routes">Маршруты пересылки</string>
-    <string name="vpn_routes_hint">например 10.0.0.0/8</string>
+    <string name="vpn_routes_hint">например, 10.0.0.0/8</string>
     <string name="vpn_safe">Безопасность</string>
     <string name="vpn_save">Сохранить</string>
     <string name="vpn_save_login">Сохранить учетные данные</string>
