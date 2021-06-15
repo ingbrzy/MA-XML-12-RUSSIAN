@@ -3275,7 +3275,7 @@
     <string name="forget_password_dialog_content_one"><Data>Если вы забыли свой пароль, то не сможете его восстановить. Однако вы можете сбросить его после &lt;font color=#ec2700>удаления всех данных на устройстве&lt;/font> (включая фото, контакты и т.д.). Создайте резервную копию всех важных данных.</Data></string>
     <string name="forget_password_dialog_content_three"><Data>"1. Выключите устройство. Одновременно нажмите кнопки [Питание] и [Громкость+], и удерживайте их, пока не увидите логотип MI.</Data></string>
     <string name="forget_password_dialog_content_two">Как стереть данные:</string>
-    <string name="forget_password_dialog_title">Сбросьте свой пароль</string>
+    <string name="forget_password_dialog_title">Сброс пароля</string>
     <string name="forget_pattern"><u>Забыли ключ?</u></string>
     <string name="forget_privacy_password_setting">Привязать Mi Аккаунт</string>
     <string name="forget_privacy_password_summary">Использовать Mi Аккаунт для сброса пароля</string>
@@ -3316,7 +3316,8 @@
     <string name="freeform_guide_notification_drop_down_summary">Потяните панель действий уведомления вниз</string>
     <string name="freeform_guide_notification_drop_down_title">Открытие</string>
     <string name="freeform_guide_settings">Плавающие окна</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Проведите от нижней части экрана к правому верхнему углу</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">"Проведите от нижней части экрана к правому верхнему углу.
+Функция работает при использовании жестов в качестве экранной навигации."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Жест для плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
@@ -3383,7 +3384,7 @@
     <string name="gesture_setting_on">Вкл.</string>
     <string name="gesture_settings_activity_title">Настройки жестов</string>
     <string name="gesture_settings_title">Функции жестов и кнопок</string>
-    <string name="gesture_wakeup_summary">Включение и выключение экрана двойным касанием. Работает только со стандартным экраном блокировки</string>
+    <string name="gesture_wakeup_summary">Включение и выключение экрана заблокированного устройства двойным касанием. Работает только со стандартными темами.</string>
     <string name="gesture_wakeup_title">Двойное касание</string>
     <string name="getConfiguredNetworks">Конфигурация сетей</string>
     <string name="getConnectionInfo">Информация о подключении</string>
@@ -4348,6 +4349,7 @@
     <string name="lockpassword_confirm_workspace_password">Проверка пароля рабочего профиля</string>
     <string name="lockpassword_confirm_your_lock_password_header">Подтвердите пароль</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Подтвердите графический ключ</string>
+    <string name="lockpassword_confirm_your_lock_pin_header">Подтвердите PIN-код</string>
     <string name="lockpassword_confirm_your_password_details_frp">Был выполнен сброс к заводским настройкам. Для использования устройства, введите свой предыдущий пароль.</string>
     <string name="lockpassword_confirm_your_password_generic">Введите пароль для продолжения.</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Чтобы продолжить, введите пароль рабочего профиля</string>
