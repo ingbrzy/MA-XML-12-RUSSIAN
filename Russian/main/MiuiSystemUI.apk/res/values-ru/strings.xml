@@ -157,6 +157,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Разблокировка по лицу</string>
     <string name="accessibility_left_control_center_button">Ярлык</string>
     <string name="accessibility_left_lock_screen_magazine_button">Карусель обоев</string>
+    <string name="accessibility_left_xmyzl_button" />
     <string name="accessibility_location_active">Есть активные запросы на определение местоположения</string>
     <string name="accessibility_long_click_tile">Открыть настройки</string>
     <string name="accessibility_manage_notification">Управление уведомлениями</string>
@@ -847,6 +848,7 @@
     <string name="development_settings_not_available">Этому пользователю недоступны возможности разработчика</string>
     <string name="development_settings_summary">Настройка параметров для разработчиков</string>
     <string name="development_settings_title">Для разработчиков</string>
+    <string name="device_locked_without_biometric">Биометрическая аутентификация недоступна при использовании сторонней блокировки</string>
     <string name="device_services">Службы устройства</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
@@ -1562,9 +1564,11 @@ d MMMM"</string>
     <string name="miui_notification_menu_more_setting">Еще</string>
     <string name="miui_notification_menu_msg_fold">Группировать все уведомления от %1$s?</string>
     <string name="miui_notification_menu_msg_not_allow">Ограничить все уведомления от %1$s?</string>
+    <string name="miui_notification_menu_msg_unfold">Отображать все уведомления от %1$s раздельно?</string>
     <string name="miui_notification_menu_setting_success">Готово</string>
     <string name="miui_notification_menu_snooze">Отложить</string>
     <string name="miui_notification_menu_title_not_allow">Ограничить</string>
+    <string name="miui_notification_menu_unfold">Отметить как важное</string>
     <string name="miui_ringer_count_down">Таймер</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключить звук для входящих вызовов и уведомлений</string>
@@ -1590,6 +1594,7 @@ d MMMM"</string>
     <string name="miui_toast_zen_to_standard">Звуки рингтонов и уведомлений отключены</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Звук отключен</string>
     <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Включен режим \"Без звука\". Звук и вибрация отключены.</string>
+    <string name="miui_unimportant_notifications">Неважные уведомления</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -1893,6 +1898,7 @@ d MMMM"</string>
     <string name="open_lock_screen_magazine_hint_text">Проведите вправо для выбора</string>
     <string name="open_remote_center_hint_text">Проведите вправо для доступа к ярлыкам</string>
     <string name="open_saver_setting_action">Настройки</string>
+    <string name="open_xmyzl_hint_text" />
     <string name="orb_search_action">Действие для поиска</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться</string>
@@ -2397,6 +2403,8 @@ d MMMM"</string>
     <string name="show_silently">Показывать без звука</string>
     <string name="show_touches">Отображать касания</string>
     <string name="show_touches_summary">Визуализировать касания и жесты</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Нажмите и удерживайте кнопки &lt;font color=#e6e6e6>[Питание]&lt;/font> и &lt;font color=#e6e6e6>[Громкость +]&lt;/font> пока не увидите &lt;img src=\"\">.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Выберите &lt;font color=#e6e6e6>[Wipe Data]&lt;/font> и нажмите &lt;font color=#e6e6e6>[Reboot]&lt;/font>.</Data></string>
     <string name="sim_state_locked_dialog_title">Неверная SIM-карта</string>
     <string name="sim_state_locked_puk_dialog_message">Неверный ввод PUK-кода (попытки: %d). SIM-карта теперь недействительна. Замените эту SIM-карту на другую.</string>
     <string name="simulate_color_space">Имитация аномалии</string>
