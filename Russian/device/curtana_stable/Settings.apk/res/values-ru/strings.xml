@@ -42,7 +42,7 @@
     <string name="abc_slices_permission_request">%1$s хочет показать фрагменты %2$s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_ad_service_instructions">О рекламных сервисах и конфиденциальности</string>
-    <string name="about_phone_device_name_warning">Имя вашего устройства видно приложениям. Также оно может быть видно другим людям при подключении к устройствам Bluetooth или включении точки доступа Wi-Fi.</string>
+    <string name="about_phone_device_name_warning">Имя вашего устройства видно приложениям. Также оно может быть видно другим людям при подключении к Bluetooth-устройствам  или включении точки доступа Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Подробнее</string>
     <string name="about_settings">Об устройстве</string>
     <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
@@ -1149,8 +1149,8 @@
     <string name="bluetooth_device">Bluetooth-устройство без названия</string>
     <string name="bluetooth_device_address">Адрес устройства:</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Разрешить получение файлов</string>
-    <string name="bluetooth_device_advanced_online_mode_summary">Подключиться к устройству Bluetooth</string>
-    <string name="bluetooth_device_advanced_online_mode_title">Подключить</string>
+    <string name="bluetooth_device_advanced_online_mode_summary">Подключение к Bluetooth-устройству</string>
+    <string name="bluetooth_device_advanced_online_mode_title">Подключение</string>
     <string name="bluetooth_device_advanced_profile_header_title">Использование</string>
     <string name="bluetooth_device_advanced_rename_device">Переименовать</string>
     <string name="bluetooth_device_advanced_title">Тип подключения</string>
@@ -1169,7 +1169,7 @@
     <string name="bluetooth_device_name_summary">Видимо для других устройств как “^1”</string>
     <string name="bluetooth_device_nearby_title">Устройства поблизости</string>
     <string name="bluetooth_device_searchable">Видимость</string>
-    <string name="bluetooth_devices">Устройства Bluetooth</string>
+    <string name="bluetooth_devices">Bluetooth-устройства</string>
     <string name="bluetooth_devices_card_off_summary">Нажмите, чтобы включить</string>
     <string name="bluetooth_devices_card_off_title">Bluetooth отключен</string>
     <string name="bluetooth_disable_a2dp_hw_offload">Отключить аппаратную разгрузку Bluetooth A2DP</string>
@@ -1207,7 +1207,7 @@
     <string name="bluetooth_dock_settings_title">Использовать док-станцию для звука</string>
     <string name="bluetooth_dun_profile_summary_connected">Подключено к серверу коммутируемого доступа</string>
     <string name="bluetooth_dun_profile_summary_use_for">Использовать для коммутируемого доступа к сети</string>
-    <string name="bluetooth_empty_list_bluetooth_off">Включите Bluetooth, чтобы подключаться к другим Bluetooth-устройствам</string>
+    <string name="bluetooth_empty_list_bluetooth_off">Включите Bluetooth для подключения к другим Bluetooth-устройствам</string>
     <string name="bluetooth_empty_list_user_restricted">У вас нет разрешения на смену настроек Bluetooth.</string>
     <string name="bluetooth_enable">Включить Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN-код содержит буквы или символы</string>
@@ -1356,9 +1356,9 @@
     <string name="bluetooth_sap_profile_summary_use_for">Использовать для доступа к SIM карте</string>
     <string name="bluetooth_sap_request">Запрос на доступ к SIM-карте</string>
     <string name="bluetooth_scan_for_devices">Поиск устройств</string>
-    <string name="bluetooth_scanning_on_info_message">""Когда Bluetooth включен, ваше устройство может связываться с Bluetooth-устройствами поблизости.
+    <string name="bluetooth_scanning_on_info_message">"Когда Bluetooth включен, ваше устройство может связываться с Bluetooth-устройствами поблизости.
 
-Чтобы улучшить работу устройства, приложения и службы могут сканировать устройства поблизости в любое время, даже если Bluetooth выключен. Это может быть использовано, например, для улучшения основанных на местоположении функций и услуг. Вы можете изменить это в "&lt;annotation id="link"&gt;настройках сканирования&lt;/annotation&gt;."</string>
+Чтобы улучшить работу устройства, приложения и службы могут сканировать устройства поблизости в любое время, даже если Bluetooth выключен. Это может быть использовано, например, для улучшения основанных на местоположении функций и услуг. Вы можете изменить это в &lt;annotation id="link"&gt;настройках сканирования&lt;/annotation&gt;."</string>
     <string name="bluetooth_search_for_devices">Обновить</string>
     <string name="bluetooth_searching_for_devices">Поиск…</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Режим кодека aptX Adaptive</string>
@@ -1411,7 +1411,7 @@
     <string name="bluetooth_unlock_add_device">Добавить устройство</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Заменить старое устройство на новое?</string>
     <string name="bluetooth_unlock_change_matched_device">Выберите другое устройство</string>
-    <string name="bluetooth_unlock_confirm_device_text">Коснитесь устройства Bluetooth для подтверждения.</string>
+    <string name="bluetooth_unlock_confirm_device_text">Коснитесь Bluetooth-устройства для подтверждения.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Нажмите кнопку на часах для разблокировки.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Подтвердите на устройстве</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Нажмите кнопку на браслете для разблокировки.</string>
@@ -1420,7 +1420,7 @@
     <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Нет доступных устройств</string>
     <string name="bluetooth_unlock_reject">Запрос на разблокировку этого устройства отклонен</string>
-    <string name="bluetooth_unlock_settings_devices_prompt">Поддерживаются только определенные устройства Bluetooth (например, фитнес-браслеты и смарт-часы)</string>
+    <string name="bluetooth_unlock_settings_devices_prompt">Поддерживаются только определенные Bluetooth-устройства (например, фитнес-браслеты и смарт-часы)</string>
     <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
     <string name="bluetooth_unlock_settings_toggle_title">Применение</string>
     <string name="bluetooth_unlock_settings_unlock_device">Разблокировка устройства</string>
@@ -1503,7 +1503,7 @@
     <string name="bssid_label">"BSSID: "</string>
     <string name="bt_aac_dialog_summary">"Данное устройство поддерживает AAC кодек. Однако AAC кодек может не воспроизводить звук из-за проблем с совместимостью, поэтому используется SBC кодек. 
 Вы можете изменить это в настройках."</string>
-    <string name="bt_aac_dialog_title">Bluetooth соединение</string>
+    <string name="bt_aac_dialog_title">Bluetooth-соединение</string>
     <string name="bt_aac_open_dialog_summary">"AAC кодек может не воспроизводить звук из-за проблем с совместимостью.
 Вы можете отключить его в Настройки &gt; Bluetooth &gt; Сопряженные устройства."</string>
     <string name="bt_aac_open_dialog_title">Переключение на AAC кодек</string>
@@ -1539,7 +1539,7 @@
     <string name="bt_leaudio_open_dialog_title">Внимание</string>
     <string name="bt_leaudio_pre_title">LC3</string>
     <string name="bt_leaudio_summary">Высокое качество звука</string>
-    <string name="bt_lhdc_declaration">Если устройство Bluetooth поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить высококачественный звук и снижает задержки во время игр, но также увеличивает энергопотребление. Проблемы могут возникнуть во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить высококачественный звук и снижает задержки во время игр, но также увеличивает энергопотребление. Проблемы могут возникнуть во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить высококачественный звук и снижает задержки во время игр, но также увеличивает энергопотребление.
 Эту функцию можно отключить в Настройках"</string>
     <string name="bt_lhdc_dialog_title">Включена поддержка LHDC</string>
@@ -2034,7 +2034,7 @@
     <string name="convert_to_file_encryption_done">Шифрование файлов уже включено</string>
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
     <string name="convo_not_supported_summary">%1$s не поддерживает расширенные функции диалогов. Изменение приоритета диалога и всплывающие уведомления не поддерживаются.</string>
-    <string name="cool_color">Холодный</string>
+    <string name="cool_color">Холодная</string>
     <string name="copy">Копировать</string>
     <string name="copyable_slice_toast">\"%1$s\" в буфере обмена.</string>
     <string name="copyright">Авторские права</string>
@@ -2124,7 +2124,7 @@
     <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
     <string name="custom_carrier_title">Оператор</string>
-    <string name="custom_color">Свой</string>
+    <string name="custom_color">Особая</string>
     <string name="custom_gesture_title">Выбор жестов</string>
     <string name="custom_wifi_name_title">Сеть Wi-Fi</string>
     <string name="customize_function">Доступные шаблоны</string>
@@ -2584,7 +2584,7 @@
     <string name="disallow_lock_screen_summary">Разрешите уведомления в \"Уведомлениях\"</string>
     <string name="disconnect">Отключить</string>
     <string name="disconnected">Нет подключения</string>
-    <string name="display_advanced_mode_summary">Цветовая гамма</string>
+    <string name="display_advanced_mode_summary">Выбор цветового профиля</string>
     <string name="display_advanced_mode_title">Расширенные настройки</string>
     <string name="display_animate_category">Анимационные эффекты</string>
     <string name="display_animate_content">Уменьшение количества анимационных эффектов при разблокировке устройства.</string>
@@ -3394,7 +3394,7 @@
     <string name="global_actions_panel_summary">Чтобы отобразить панель общих действий, нажмите и удерживайте кнопку питания</string>
     <string name="global_actions_panel_title">Панель общих действий</string>
     <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства.</string>
-    <string name="global_locale_change_title">Измените язык</string>
+    <string name="global_locale_change_title">Изменение языка</string>
     <string name="gmscore_settings_title">Основные сервисы Google</string>
     <string name="go_back_button_label">Назад</string>
     <string name="go_to_sleep">Отключение экрана</string>
@@ -4064,9 +4064,9 @@
     <string name="language_input_gesture_summary_on_non_assist" />
     <string name="language_input_gesture_summary_on_with_assist" />
     <string name="language_input_gesture_title">Языки, ввод и жесты</string>
-    <string name="language_keyboard_settings_title">Язык и ввод</string>
+    <string name="language_keyboard_settings_title">Языки и ввод</string>
     <string name="language_picker_title">Языки</string>
-    <string name="language_settings">Язык и ввод</string>
+    <string name="language_settings">Языки и ввод</string>
     <string name="last_synced">Обновлено %1$s</string>
     <string name="last_time_used_label">Последнее использование</string>
     <string name="lattice_smartcover_title">Сетчатая</string>
@@ -4719,6 +4719,8 @@
     <string name="miheadset_double_click_right">Дважды коснитесь правого наушника</string>
     <string name="miheadset_double_press_left">Дважды нажмите на левый наушник</string>
     <string name="miheadset_double_press_right">Дважды нажмите на правый наушник</string>
+    <string name="miheadset_dual_connect_mode">Подключение к двум устройствам</string>
+    <string name="miheadset_dual_connect_mode_summary">Одновременное подключение наушников к двум Bluetooth-устройствам</string>
     <string name="miheadset_enhanceVoice">Улучшение звучания</string>
     <string name="miheadset_enhence_high">Прибавить высокие частоты</string>
     <string name="miheadset_enhence_low">Прибавить низкие частоты</string>
@@ -5124,7 +5126,7 @@
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
     <string name="natural_haptic">Реалистичный виброотклик</string>
     <string name="natural_haptic_summary">Новые шаблоны виброотклика привносят дополнительное измерение во все, что вы видите и к чему прикасаетесь на экране</string>
-    <string name="nature_color">Стандартный</string>
+    <string name="nature_color">Стандарт</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
     <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо на полосе навигации</string>
     <string name="navigation_guide_app_quick_switch_title">Переключение</string>
@@ -6473,8 +6475,8 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_cancel">Отмена</string>
     <string name="screen_color_and_optimize">Цвета и контраст</string>
     <string name="screen_color_and_optimize_disabled">Настройка в режиме чтения недоступна</string>
-    <string name="screen_color_temperature">Тон</string>
-    <string name="screen_color_temperature_and_saturation">Тон и контрастность</string>
+    <string name="screen_color_temperature">Цветовая температура</string>
+    <string name="screen_color_temperature_and_saturation">Цветовая схема</string>
     <string name="screen_compatibility_label">Совместимость с экраном</string>
     <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
     <string name="screen_confirm">Включить</string>
@@ -6486,7 +6488,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_dark_mode_smart_dark_summary">Применить темный режим к сторонним приложениям. Некоторые приложения могут иметь проблемы с отображением.</string>
     <string name="screen_dark_mode_smart_dark_title">Глобальный темный режим</string>
     <string name="screen_dark_mode_time_title">Расписание темного режима</string>
-    <string name="screen_effect">Тон и контрастность</string>
+    <string name="screen_effect">Цветовая схема</string>
     <string name="screen_enhance_engine_ai_note">Улучшение изображения. Функция не будет работать, если используются оригинальные цвета или дополнительные настройки.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Улучшить можно только изображения из Галереи.</string>
     <string name="screen_enhance_engine_ai_note_3">%d. Функция не будет работать, если используются оригинальные цвета или дополнительные настройки</string>
@@ -6541,7 +6543,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_never_timeout_title">Не выключать</string>
     <string name="screen_on_proximity_sensor_summary">Предотвращать случайные нажатия, когда устройство в кармане</string>
     <string name="screen_on_proximity_sensor_title">Режим \"В кармане\"</string>
-    <string name="screen_optimize">Контрастность</string>
+    <string name="screen_optimize">Цвета</string>
     <string name="screen_optimize_disabled">Настройка в режиме чтения недоступна</string>
     <string name="screen_paper_mode_adjust_level">Уровень</string>
     <string name="screen_paper_mode_apps_loading">Подождите…</string>
@@ -6785,7 +6787,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_key_settings_title">Кнопки;Клавиши</string>
     <string name="search_lab_functions_title">Бета-функции;Функции в разработке</string>
     <string name="search_label">Настройки</string>
-    <string name="search_language_settings">Язык и ввод;Язык;Язык и ввод;Ввод;Клавиатура</string>
+    <string name="search_language_settings">Язык и ввод;Язык;Языки и ввод;Ввод;Клавиатура</string>
     <string name="search_led_settings">Светодиод;Световой индикатор;Светодиодный индикатор</string>
     <string name="search_legal_information">Юридическая информация</string>
     <string name="search_local_auto_backup_section_title">Резервное копирование;Автоматическое резервное копирование;Резервное копирование по расписанию</string>
@@ -8838,7 +8840,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
     <string name="wapi_yes">да</string>
-    <string name="warm_color">Теплый</string>
+    <string name="warm_color">Теплая</string>
     <string name="web_action_enable_summary">Открывать ссылки в приложениях, даже если они не установлены на устройстве</string>
     <string name="web_action_enable_title">Приложения с мгновенным запуском</string>
     <string name="web_action_section_title">Приложения с мгновенным запуском</string>

@@ -1197,9 +1197,9 @@
         <item>Правша</item>
     </string-array>
     <string-array name="screen_color_title">
-        <item>Теплый</item>
+        <item>Теплая</item>
         <item>Стандарт</item>
-        <item>Холодный</item>
+        <item>Холодная</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 секунды</item>
@@ -1216,14 +1216,14 @@
         <item>Показать меню</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Коррекция контрастности в зависимости от освещения</item>
-        <item>Увеличенная контрастность экрана</item>
-        <item>Контрастность останется неизменной при любом освещении</item>
+        <item>Регулировать в зависимости от содержимого</item>
+        <item>Использовать насыщенные цвета</item>
+        <item>Не изменять цвета</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Автонастройка</item>
-        <item>Повышенная</item>
-        <item>Стандартная</item>
+        <item>Авто (рекомендуется)</item>
+        <item>Насыщенные</item>
+        <item>Стандартные</item>
     </string-array>
     <string-array name="screen_reader_mode_input_type_selector_titles">
         <item>Одиночное касание</item>
@@ -1353,14 +1353,14 @@
         <item>Анимация 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Регулировка цвета в зависимости от освещения</item>
-        <item>Увеличенная насыщенность цвета</item>
-        <item>Восстановление стандартного цвета с помощью калибровки</item>
+        <item>Использовать регулировку, в зависимости от содержимого</item>
+        <item>Использовать насыщенные цвета</item>
+        <item>Использовать оригинальные цвета, полученные с помощью калибровки</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Автонастройка</item>
-        <item>Насыщенный</item>
-        <item>Оригинальный</item>
+        <item>Авто (рекомендуется)</item>
+        <item>Насыщенные</item>
+        <item>Оригинальные</item>
     </string-array>    
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>
