@@ -85,29 +85,30 @@
     <string name="bugreport_tool_log_dumping_title">Создание отчета об ошибке</string>
     <string name="catch_full_log_action_cancel">Отменить</string>
     <string name="catch_full_log_action_complete">Завершить и отправить</string>
-    <string name="catch_full_log_action_start">Создать журнал</string>
+    <string name="catch_full_log_action_start">Начать</string>
     <string name="catch_full_log_add_original_photo">Добавить оригинал фото или видео</string>
     <string name="catch_full_log_add_photo">Добавить фото</string>
     <string name="catch_full_log_add_photo_dialog_content">Если проблема, о которой вы сообщаете, связана с качеством изображения камеры, добавьте образец фото (без обрезки), чтобы помочь нам найти ее. Добавить фото?</string>
     <string name="catch_full_log_category">Категории</string>
     <string name="catch_full_log_dialog_confirm_text">На рабочий стол</string>
-    <string name="catch_full_log_dialog_content">MIUI создает журнал. Это может повлиять на общую производительность вашего устройства. Если вы не можете воспроизвести проблему, о которой хотите сообщить, вернитесь к журналам и нажмите \"Отменить\".</string>
+    <string name="catch_full_log_dialog_content">Это может повлиять на общую производительность вашего устройства. Если вы не можете воспроизвести проблему, о которой хотите сообщить, вернитесь к журналам и нажмите \"Отменить\".</string>
+    <string name="catch_full_log_dialog_title">Сбор журналов…</string>
     <string name="catch_full_log_dump_hprof_failed">Не удалось создать журнал задержек</string>
-    <string name="catch_full_log_item_content_catch_direct">"1. Вернитесь к функции, о которой вы хотите сообщить, и воспроизведите проблему.
+    <string name="catch_full_log_item_content_catch_direct">"1. Вернитесь к функции, о которой хотите сообщить, и воспроизведите проблему.
 2. Вернитесь на эту страницу и нажмите \"Завершить и отправить\"."</string>
     <string name="catch_full_log_item_content_catching">Сбор журналов…</string>
-    <string name="catch_full_log_item_content_need_open">"1. Нажмите \"Создать журнал\".
-2. Вернитесь к функции, о которой вы хотите сообщить, и воспроизведите проблему.
-3. Вернитесь на эту страницу и нажмите \"Завершить и отправить\"."</string>
-    <string name="catch_full_log_item_content_title">Шаги:</string>
-    <string name="catch_full_log_item_title_audio">Аудио, запись звука и вызовы</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Нажмите \"Начать\" для сбора журналов.
+%2$d. Воспроизведите проблему, с которой столкнулись.
+%3$d. Вернитесь на эту страницу и нажмите \"Завершить и отправить\"."</string>
+    <string name="catch_full_log_item_content_title">Как создать журналы</string>
+    <string name="catch_full_log_item_title_audio">Аудио, рингтон и аудиозапись</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Задержки</string>
     <string name="catch_full_log_item_title_gps">Службы местоположения</string>
     <string name="catch_full_log_item_title_sensor">Датчики</string>
     <string name="catch_full_log_item_title_signal">Телефон, сигнал и мобильные сети</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi и Mi Drop</string>
-    <string name="catch_full_log_item_title_wifi_china">Wi-Fi и ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
     <string name="catch_full_log_notification_content">Нажмите для возврата</string>
     <string name="catch_full_log_notification_title">Создание журнала…</string>
     <string name="catch_full_log_privacy_content_audio">"Вы создаете и сохраняете журналы на своем устройстве. Журналы могут содержать информацию об аудио на вашем устройстве, включая историю воспроизведения и историю записи. Будьте осторожны и не раскрывайте эти журналы другим людям. Нажав \"Принимаю\", вы соглашаетесь с тем, что мы будем собирать указанные данные при создании журналов и загружать журналы на наши серверы для поиска и решения проблем."</string>
