@@ -572,6 +572,7 @@
     <string name="app_running_tip_dialog_text">Закройте приложение %1$s, чтобы избежать его работы в фоновом режиме. Это ускорит работу устройства и снизит энергопотребление.</string>
     <string name="app_running_tip_dialog_title">Закрытие приложения</string>
     <string name="app_running_tip_uninstall">Удалить приложение</string>
+    <string name="app_settings_link">Доп. настройки в приложении</string>
     <string name="app_statusbar_audio_now">Используется микрофон</string>
     <string name="app_statusbar_camera_now">Используется камера</string>
     <string name="app_statusbar_location_now">Используется местоположение</string>
@@ -978,6 +979,8 @@
     <string name="confirm_fingerprint_msg">Подтвердите отпечаток пальца</string>
     <string name="confirm_leave">Нет, спасибо</string>
     <string name="confirm_open">Включить</string>
+    <string name="confirm_open_shut_down_password_content">Установите блокировку экрана перед включением подтверждения выключения</string>
+    <string name="confirm_open_shut_down_password_title">Включение защиты</string>
     <string name="confirm_prompt_all_permission">Запрашивать разрешения для всех приложений?</string>
     <string name="confirm_reject_all_permission">Запретить всем приложениям использовать эту функцию?</string>
     <string name="confirm_take">Получить</string>
@@ -3731,6 +3734,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sc_system_risk_fix_info_xspace">Нельзя решить проблему во втором пространстве. Повторите попытку в первом пространстве.</string>
     <string name="sc_warning_updater_not_found">Приложение \"Обновление\" не найдено.</string>
     <string name="scan_installed_games">Проверка установленных игр…</string>
+    <string name="scan_open_shut_down_password_content">Защита устройства от несанкционированного доступа</string>
+    <string name="scan_open_shut_down_password_title">Подтверждение выключения</string>
     <string name="scan_status_risk">Найдены угрозы</string>
     <string name="scan_status_safe">Система защищена</string>
     <string name="scanning_bar_number">%d%%</string>
@@ -3813,6 +3818,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="show_traffic_dialog_message">Информация о трафике будет показана в шторке уведомлений. Включить или отключить эту функцию можно в Настройках.</string>
     <string name="show_traffic_dialog_title">Виджет в шторке уведомлений</string>
     <string name="showpattern">Отображать ключ при вводе</string>
+    <string name="shut_down_password_content">У случае потери устройства, подтверждение выключения защитит его от выключения любым, кто его найдет</string>
     <string name="shutdown_cancel_reminder">Устройство не было выключено</string>
     <string name="shutdown_cancel_reminder_detail">Устройство не было выключено, так как совершался вызов</string>
     <string name="shutdown_cancel_reminder_detail2">Устройство не было выключено, так как запущено игровое приложение</string>
@@ -4244,6 +4250,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="suggest_app_tolock_masked">Содержимое скрыто</string>
     <string name="suggest_app_tolock_unmasked">Содержимое отображается</string>
     <string name="suggest_scan_again">Повторите проверку во избежание угроз безопасности.</string>
+    <string name="suggest_to_use_mi_sim">Используйте Mi Sim, чтобы избежать дополнительных расходов.</string>
     <string name="summary_app_lock_disable">Обезопасьте ваши данные с Защитой приложений</string>
     <string name="summary_app_update_new">Обновите приложения для доступа к новым функциям</string>
     <string name="summary_auto_update">MIUI подберет наиболее подходящее время для загрузки и установки обновлений.</string>
@@ -4687,6 +4694,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="traffic_setting_fragment_title_guide">Операторы и тарифные планы</string>
     <string name="traffic_to_limit_warning">Израсходовано %s трафика</string>
     <string name="traffic_usage_warning_body">Вы уже использовали %s мобильного трафика в этом месяце</string>
+    <string name="traffic_usage_warning_body_go_to_mi_sim">Использовано %s мобильного трафика в этом месяце. Нажмите, чтобы использовать Mi SIM.</string>
     <string name="traffic_usage_warning_limit">Порог предупреждения о трафике</string>
     <string name="traffic_usage_warning_title">Порог предупреждения</string>
     <string name="traffic_warning_purchase_title">Предупреждение о трафике</string>
@@ -4803,6 +4811,8 @@ Xiaomi не обещает и не гарантирует точность, до
 Включение функции приведет к отключению других."</string>
     <string name="vb_video_super_division_tips">"Не хватает четкости?
 Попробуйте увеличить разрешение!"</string>
+    <string name="verify_shut_down_password_content">Требовать ввода пароля, если устройство выключено в заблокированном состоянии</string>
+    <string name="verify_shut_down_password_title">Подтверждение выключения</string>
     <string name="video_repeat">Повторить</string>
     <string name="videobox_hangup_tips_content">Функция позволяет приложению работать в фоновом режиме, когда экран выключен. Включить?</string>
     <string name="videobox_hangup_tips_title">Внимание</string>

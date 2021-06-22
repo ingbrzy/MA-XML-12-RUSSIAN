@@ -1078,6 +1078,7 @@
     <string name="fdn_with_label">Разрешенные номера (%s)</string>
     <string name="fire_type_description">Активность</string>
     <string name="fiveg_bearer_status1">Статус носителя 5G :</string>
+    <string name="fiveg_carrier_aggregation_title">Агрегация несущих 5G</string>
     <string name="fiveg_endc_available1">Доступность NR ENDC :</string>
     <string name="fiveg_endc_status1">Статус ENDC :</string>
     <string name="fiveg_hosted_mode_summary">Автовыбор лучшей сети для экономии заряда</string>
@@ -1298,7 +1299,8 @@
     <string name="labelGsmMore_with_label">Настройки GSM вызовов (%s)</string>
     <string name="labelNwService">Настройки сети</string>
     <string name="label_available">Доступные сети</string>
-    <string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
+    <string name="label_ndp">PIN-код для разблокировки сети SIM-карты</string>
+    <string name="label_ndp_nck">NCK-код для разблокировки сети SIM-карты</string>
     <string name="label_phoneid">Perso заблокирован</string>
     <string name="label_puk2_code">Введите PUK2</string>
     <string name="lable_all_incoming">Все входящие вызовы</string>

@@ -31,6 +31,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_name">MiCloudSync</string>
+    <string name="audio_record_des">Для передачи звука с устройства на внешние мониторы</string>
     <string name="casting_tips">Отображение…</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
@@ -53,6 +54,8 @@
     <string name="dialog_connect_verify_perssion_fail">Не удалось получить разрешение для трансляции на телевизоре. Повторите попытку позже.</string>
     <string name="dialog_connected">Подключено</string>
     <string name="dialog_connecting">Подключение…</string>
+    <string name="dialog_location_permission_message">Приложению требуется доступ к местоположению для поиска внешних мониторов поблизости. Выберите \"Разрешать всегда\", чтобы избежать возможных ошибок.</string>
+    <string name="dialog_location_permission_title">Требуются разрешения</string>
     <string name="dialog_miplay_permission_message">Для нормальной работы приложения Трансляция предоставьте доступ к микрофону, местоположению и файлам в памяти устройства. Для продолжения нажмите \"Настройки\" и выберите \"Разрешения\".</string>
     <string name="dialog_miplay_permission_positive">Настройки</string>
     <string name="dialog_miplay_permission_title">Требуются разрешения</string>
@@ -90,6 +93,7 @@
     <string name="error_unauthorized">Синхронизация отключена из-за слишком большого количества попыток входа.</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
+    <string name="file_read_des">Для отображения фото и других файлов на внешних мониторах</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -200,6 +204,7 @@
     <string name="micloud_downloading_clipboard_message_from_web">Буфер обмена: получено сообщение с компьютера</string>
     <string name="micloud_send_message_desc">Отправка Mi Сообщения</string>
     <string name="midnight">Ночь</string>
+    <string name="mipaly_server_exit_touping">Сначала остановите текущую трансляцию</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -278,7 +283,9 @@
     <string name="notification_desc_scanning">Поиск устройств поблизости…</string>
     <string name="notification_rc_title">Помощник Xiaomi TV</string>
     <string name="notification_show_more">Дополнительные функции</string>
+    <string name="notify">Трансляция работает в фоновом режиме</string>
     <string name="open_game_accelerate">Включить Ускорение игр</string>
+    <string name="p2p_location_des">Для подключения  устройства к внешним мониторам</string>
     <string name="path_setting_cast">Подключения/Трансляция</string>
     <string name="path_setting_cast_demo">Подключения/Трансляция/Демонстрация</string>
     <string name="path_setting_cast_demo_document">Подключения/Трансляция/Демонстрация/Документы</string>

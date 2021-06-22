@@ -705,9 +705,9 @@
     <string name="fastmotion_pro_save_time_min_and_sec">Длительность: %1$s %2$s</string>
     <string name="fastmotion_pro_save_time_min_or_sec">Длительность: %1$s</string>
     <string name="film_landscape_timefreeze_hint">Поддерживается только пейзажная съемка</string>
-    <string name="film_timefreeze">включено</string>
+    <string name="film_timefreeze">Заморозить фон</string>
     <string name="film_timefreeze_hint">Не двигайте устройство</string>
-    <string name="film_timefreeze_reset">сброшено</string>
+    <string name="film_timefreeze_reset">Разморозить фон</string>
     <string name="film_video_a">Волшебный зум</string>
     <string name="film_video_b">Длинная выдержка</string>
     <string name="film_video_b_tip">Снимайте при слабом освещении</string>
@@ -1970,6 +1970,10 @@
     <string name="timbre_lady">Леди</string>
     <string name="timbre_normal">Оригинал</string>
     <string name="timbre_robot">Робот</string>
+    <string name="time_freeze_action_end_tip">Нажмите кнопку, чтобы разморозить фон</string>
+    <string name="time_freeze_action_start_tip">Нажмите кнопку, чтобы заморозить фон</string>
+    <string name="time_freeze_adjust_button_title">Настройка</string>
+    <string name="time_freeze_clipbox_tint">Заморозка</string>
     <string name="time_lapse_error">Нельзя снять ускоренное видео в данном разрешении</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
