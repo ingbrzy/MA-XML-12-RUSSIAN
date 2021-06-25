@@ -349,7 +349,7 @@
     <string name="launcher_icon_add_description">Добавить ярлык на рабочий стол</string>
     <string name="launcher_icon_remove_description_content">Приложение \"Проводник\" является системным, удалить его нельзя. После удаления ярлыка с рабочего стола, управление файлами на устройстве будет недоступно.</string>
     <string name="launcher_icon_remove_description_title">Удалить \"Проводник\" с рабочего стола?</string>
-    <string name="least_quick_category_hint">Добавьте ярлыки: %d</string>
+    <string name="least_quick_category_hint">Можно добавить еще %d</string>
     <string name="list_mode">Список</string>
     <string name="load_more">Показать еще</string>
     <string name="load_more_fail">Ошибка загрузки</string>
@@ -474,7 +474,7 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
-    <string name="most_quick_category_hint">Доступно для добавления: %d</string>
+    <string name="most_quick_category_hint">Можно добавить не более %d</string>
     <string name="move_failed">Ошибка перемещения</string>
     <string name="move_icon_to_desktop_hint">Создайте ярлык на рабочем столе для более эффективной работы с файлами</string>
     <string name="move_icon_to_desktop_success">Ярлык добавлен на рабочий стол</string>
@@ -632,7 +632,7 @@
     <string name="refreshing">Обновление</string>
     <string name="release_enter_private">Отпустите, чтобы открыть приватную папку</string>
     <string name="release_refresh">Отпустите для обновления</string>
-    <string name="remainder_size">Осталось: %s</string>
+    <string name="remainder_size">| %s доступно</string>
     <string name="rename_alert">Если вы измените расширение файла, возможно, вам не удастся открыть его.</string>
     <string name="rename_alert2">После изменения расширения файла он будет скрыт.</string>
     <string name="rename_failed">Не удалось переименовать \"%1$s\"</string>
@@ -736,7 +736,7 @@
     <string name="stop_server">Остановить сервер</string>
     <string name="storage_cloned_app">Память для клонов</string>
     <string name="storage_info_detail">Свободно: %1$s | Всего: %2$s</string>
-    <string name="storage_internal">Внутренняя память</string>
+    <string name="storage_internal">Память</string>
     <string name="storage_maintenance_mode">Память для режима техобслуживания</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB накопитель</string>
