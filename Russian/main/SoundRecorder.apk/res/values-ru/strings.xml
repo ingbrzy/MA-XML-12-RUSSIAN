@@ -154,8 +154,9 @@
     <string name="loading_more">Подождите…</string>
     <string name="loading_order_list">Подождите…</string>
     <string name="loading_order_list_empty">Заказов нет</string>
-    <string name="low_battery_error">Осталось менее 5% заряда батареи. Остановите и сохраните вашу запись, чтобы не потерять ее.</string>
+    <string name="low_battery_error">Заряд менее 5%. Остановите и сохраните запись, чтобы не потерять ее.</string>
     <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_for_pad">Заряд менее %s. Остановите и сохраните запись, чтобы не потерять ее.</string>
     <string name="low_battery_error_title">Батарея разряжена</string>
     <string name="lyric_item_point_count">От %1$d до %2$d</string>
     <string name="mark_point_list_title">Метки</string>
@@ -249,6 +250,7 @@
     <string name="notification_playback">Воспроизведение…</string>
     <string name="notification_recording">Запись…</string>
     <string name="notification_recording_ticker">Запись…</string>
+    <string name="notification_recording_ticker_for_pad">Устройство записывает звук в режиме \"Без звука\". Для выключения режима используйте кнопки громкости.</string>
     <string name="notification_save_as_complete">Успешно сохранено</string>
     <string name="notification_stopped">Запись остановлена</string>
     <string name="notification_title_all_paused">Загрузка приостановлена</string>
