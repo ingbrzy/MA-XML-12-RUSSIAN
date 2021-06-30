@@ -190,6 +190,7 @@
     <string name="app_download_success_text">Успешно</string>
     <string name="app_downloading_ratio_text">Загрузка %s</string>
     <string name="app_downloading_text">Загрузка</string>
+    <string name="app_id">ID приложенияFirebase (нажмите для экспорта)</string>
     <string name="app_installing_text">Установка</string>
     <string name="app_name">ad-sdk-native</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -991,6 +992,7 @@ ID:%s
     <string name="home_description">Домой</string>
     <string name="home_feed_channel">Показывать \"Новости\" на панели навигации</string>
     <string name="home_game_channel">Показывать \"Игры\" на панели навигации</string>
+    <string name="home_list_item_click">Нажмите на элемент главного списка</string>
     <string name="home_nf">Лента</string>
     <string name="home_nf_recommend_on">Рекомендуемые</string>
     <string name="homepage_delete_card_menu">Удалить</string>
@@ -1033,6 +1035,7 @@ ID:%s
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="ins_login_tips">Войдите в систему, чтобы скачивать видео с Instagram</string>
     <string name="ins_register_btn">Регистрация по адресу эл. почты или номеру телефона</string>
+    <string name="instance_id">ID экземпляра Firebase (нажмите для экспорта)</string>
     <string name="interest_card_button">Продолжить</string>
     <string name="interest_card_title">Выберите ваши интересы</string>
     <string name="into_info_flow_guide">Другие статьи</string>
@@ -1056,6 +1059,7 @@ ID:%s
     <string name="leto_permission_rationale_ask">Приложение может работать некорректно без запрошенных разрешений</string>
     <string name="leto_permission_rationale_ask_again">Приложение может работать некорректно без запрошенных разрешений. Откройте настройки приложения для изменения разрешений.</string>
     <string name="leto_permission_title_settings_dialog">Требуются разрешения</string>
+    <string name="list_item_click">Нажмите на элемент списка</string>
     <string name="list_menu_add_to_pf">Переместить в личную папку</string>
     <string name="list_menu_delete_task">Удалить загрузку</string>
     <string name="list_menu_delete_task_and_file">Удалить загрузку и файл</string>
@@ -1220,8 +1224,11 @@ ID:%s
     <string name="more_option">Дополнительно</string>
     <string name="more_recommend">Другие рекомендации</string>
     <string name="morning">Утро</string>
+    <string name="most_visited_sites">Часто посещаемые</string>
+    <string name="most_visited_sites_switch">Показывать часто посещаемые сайты на стартовой странице</string>
     <string name="move_bookmark">Переместить</string>
     <string name="movie_player_3g_tip_retry">Продолжить</string>
+    <string name="msg_token">Токен сообщений Firebase (нажмите для экспорта)</string>
     <string name="msn_ad_identification">Реклама</string>
     <string name="msn_privacy">Заявление о конфиденциальности Microsoft</string>
     <string name="msn_privacy_content">Для предоставляемых Microsoft News материалов</string>
@@ -1946,6 +1953,7 @@ ID:%s
     <string name="privacy_message_welcome_tip_first">- Быстрый и безопасный просмотр веб-страниц</string>
     <string name="privacy_message_welcome_tip_second">- Загрузка изображений и видео с платформ социальных сетей</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_reset_fail">Не удалось сбросить. Повторите попытку.</string>
     <string name="privacy_sub_title">Положения и условия</string>
     <string name="privacy_title">Добро пожаловать в Браузер</string>
     <string name="private_title">Скрытые файлы</string>
@@ -2011,6 +2019,7 @@ ID:%s
     <string name="regid">RegId (нажмите для экспорта)</string>
     <string name="release_to_refresh">Отпустите для обновления</string>
     <string name="remember_passwords_confirm_message">Отключение этой функции может повлиять на использование.</string>
+    <string name="remote_config">Удаленная конфигурация (нажмите для экспорта)</string>
     <string name="remove_bookmark">Удалить закладку</string>
     <string name="remove_bookmark_group">Удалить папку</string>
     <string name="remove_from_bookmarks">Удалить из закладок</string>
@@ -2155,6 +2164,7 @@ ID:%s
     <string name="setting_feed_language">Язык ленты</string>
     <string name="setting_home_page_show_title">Стартовая страница</string>
     <string name="setting_privacy_password">Установите графический ключ</string>
+    <string name="setting_swipe_up">Свайп вверх на рабочем столе</string>
     <string name="share_image_text">Посмотрите, чем я поделился! @MIUI</string>
     <string name="share_page_text">Посмотрите, чем я поделился: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">%1$s</string>
@@ -2459,6 +2469,7 @@ ID:%s
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="topic_content_default">тема</string>
+    <string name="topsite_click">Нажмите TopSite</string>
     <string name="traffic_fail_device_limit">Достигнут лимит авторизованных устройств</string>
     <string name="traffic_fail_free_no_left">Трафик закончился. Оформите подписку, чтобы продолжить.</string>
     <string name="traffic_fail_no_left">VPN-трафик закончился</string>
