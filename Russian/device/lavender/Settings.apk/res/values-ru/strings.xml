@@ -3456,6 +3456,7 @@
     <string name="gxzw_anim_rhythm">Ритм</string>
     <string name="gxzw_anim_star">Звезды</string>
     <string name="gxzw_anim_title">Анимация отпечатка</string>
+    <string name="gxzw_anim_unlock_effect">Анимация отпечатка %s</string>
     <string name="gxzw_aod_show_summary">Поднимите устройство или коснитесь экрана, чтобы появился значок отпечатка. Эта функция увеличивает расход батареи.</string>
     <string name="gxzw_aod_show_tittle">Показывать значок отпечатка при выключенном экране</string>
     <string name="gxzw_dialog_message">Для нормальной работы экранного сканера отпечатков не используйте средства защиты экрана. Если вы считаете, что защита экрана всё же необходима, выберите один из совместимых вариантов.</string>
@@ -3896,6 +3897,12 @@
     <string name="item_system_app">Системные приложения</string>
     <string name="join_two_items">%1$s и %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
+    <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_disabled_summary">Недоступно, функция NFC/Osaifu-keita отключена</string>
+    <string name="kddi_nfc_quick_toggle_summary">Включить функцию NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_secure_settings_title">Блокировать при заблокированном экране</string>
+    <string name="kddi_nfc_secure_toggle_summary">Разрешить функцию NFC/Osaifu-keitai только при разблокированном экране</string>
     <string name="keep_legacy_fingerprint">Оставить</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
@@ -4496,6 +4503,7 @@
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
     <string name="macaddr_label">MAC-адрес:</string>
+    <string name="magic_list_empty_text">Нет приложений, совместимых с этой функцией</string>
     <string name="magic_window_name">Разделение экрана</string>
     <string name="mah">%d мА·ч</string>
     <string name="main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
@@ -6389,6 +6397,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_network_final_desc">Сбросить все настройки сети? Вы не сможете отменить это действие.</string>
     <string name="reset_network_final_desc_esim">Сбросить все настройки сети и очистить данные eSIM-карт? Вы не сможете отменить это действие.</string>
     <string name="reset_network_title">Сброс настроек сети</string>
+    <string name="reset_network_title_noSim">Сброс настроек Wi-Fi и Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Все вышеперечисленные данные будут удалены навсегда. Прежде чем продолжить, сделайте резервную копию всех важных данных на компьютере или в Xiaomi Cloud.</string>
     <string name="reset_second_space_passwd">Сброс пароля второго пространства</string>
