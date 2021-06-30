@@ -64,6 +64,19 @@
         <item quantity="one">Отклонено %2$d раз в %1$s</item>
         <item quantity="few">Отклонено %2$d раза в %1$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Разрешено %3$d раз между %1$s и %2$s</item>
+        <item quantity="one">Разрешено %3$d раз между %1$s и %2$s</item>
+        <item quantity="few">Разрешено %3$d раза между %1$s и %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Использовалось %1$d мин.</item>
+        <item quantity="one">Использовалось %1$d мин.</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Использовалось %1$d мин. до %2$s</item>
+        <item quantity="one">Использовалось %1$d мин. до %2$s</item>
+    </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">Пустая информация отправлена %3$d раз с %1$s до %2$s</item>
         <item quantity="one">Пустая информация отправлена %3$d раз с %1$s до %2$s</item>
@@ -327,6 +340,14 @@
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Получите %d-дневную пробную версию</item>
         <item quantity="one">Получите %d-дневную пробную версию</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Функция автоматически снижает яркость экрана после %d мин. бездействия для экономии заряда. Оставить функцию включенной?</item>
+        <item quantity="one">Функция автоматически снижает яркость экрана после %d мин. бездействия для экономии заряда. Оставить функцию включенной?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Автоматически снижать яркость экрана для экономии заряда после %d мин. бездействия</item>
+        <item quantity="one">Автоматически снижать яркость экрана для экономии заряда после %d мин. бездействия</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">Разблокировано %s пасхальных яиц</item>

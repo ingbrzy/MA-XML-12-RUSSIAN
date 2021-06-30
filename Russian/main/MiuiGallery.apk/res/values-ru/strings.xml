@@ -58,6 +58,7 @@
     <string name="add_automatically_alert_title">Автоматическое добавление</string>
     <string name="add_nomedia_with_move_to_rubbish">Добавить файлы \".nomedia\" в выбранные альбомы, чтобы сделать их невидимыми для других приложений</string>
     <string name="add_remove_nomedia_dialog_message">Добавить файлы \".nomedia\" в выбранные альбомы? После этого другие приложения не смогут увидеть эти альбомы.</string>
+    <string name="add_secret_ensure_message_new">Для доступа к приватному альбому, потяните вниз на вкладке \"Альбомы\".</string>
     <string name="add_secret_ensure_title">Приватный альбом</string>
     <string name="add_sharer">Добавить пользователя</string>
     <string name="add_to_album">Выберите альбом</string>
@@ -184,7 +185,9 @@
     <string name="alert_secret_album_enter">Понятно</string>
     <string name="alert_secret_album_message">Потяните вниз на вкладке Альбомы</string>
     <string name="alert_secret_album_message_lower_case"> потяните вниз на вкладке Альбомы</string>
+    <string name="alert_secret_album_message_new">Потяните вниз на вкладке \"Альбомы\" для доступа к приватному альбому.</string>
     <string name="alert_secret_album_title">Просмотр приватного альбома</string>
+    <string name="alert_secret_album_title_new">Успешно добавлено</string>
     <string name="alert_selection_description">MIUI проанализирует похожие фото и отметит лучшие снимки.</string>
     <string name="alert_selection_title">Выберите лучший снимок</string>
     <string name="all_faces">Фото с этим человеком</string>
@@ -929,9 +932,11 @@
     <string name="filter_popular_purple">Пурпур</string>
     <string name="filter_popular_shallow_summer">Июнь</string>
     <string name="filter_popular_smokegreen">Шалфей</string>
+    <string name="filter_popular_summercloud">Летнее облако</string>
     <string name="filter_popular_watergreen">Изумруд</string>
     <string name="filter_popular_windchime">Колокольчик</string>
     <string name="filter_popular_wintersun">Середина зимы</string>
+    <string name="filter_popular_youth">Молодежь</string>
     <string name="filter_portrait_greyish">Пепел</string>
     <string name="filter_portrait_hint">Цветовой фокус</string>
     <string name="filter_portrait_mist">Туман</string>
@@ -1143,6 +1148,15 @@
     <string name="invite_tip">Поделитесь детскими фото</string>
     <string name="is">Да</string>
     <string name="is_higher_definition">HD просмотр</string>
+    <string name="keyboard_shortcut_copy">Копировать</string>
+    <string name="keyboard_shortcut_cut">Вырезать</string>
+    <string name="keyboard_shortcut_day">День</string>
+    <string name="keyboard_shortcut_delete">Удалить</string>
+    <string name="keyboard_shortcut_month">Месяц</string>
+    <string name="keyboard_shortcut_paste">Вставить</string>
+    <string name="keyboard_shortcut_search">Поиск</string>
+    <string name="keyboard_shortcut_select_all">Выбрать все</string>
+    <string name="keyboard_shortcut_year">Год</string>
     <string name="kick_owner_user_positive_button_text">Удалить</string>
     <string name="kick_owner_user_title">Удалить пользователя?</string>
     <string name="kick_sharer">Удалить пользователя</string>
@@ -1416,6 +1430,8 @@
     <string name="movie_audio_custom">На устройстве</string>
     <string name="movie_audio_dream">Дрим</string>
     <string name="movie_audio_electronics">Электро</string>
+    <string name="movie_audio_local_cd">Локальный аудиофайл</string>
+    <string name="movie_audio_no_cd">Нет трека</string>
     <string name="movie_audio_none">Нет</string>
     <string name="movie_audio_point1">Неон</string>
     <string name="movie_audio_point2">Закат</string>
@@ -1444,6 +1460,8 @@
     <string name="movie_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="movie_download_without_wifi_title">Предупреждение о трафике</string>
     <string name="movie_edit">Изменить</string>
+    <string name="movie_edit_photo">Фото</string>
+    <string name="movie_full_screen">Полноэкранное</string>
     <string name="movie_item_name">Клип</string>
     <string name="movie_preview_btn">Просмотр</string>
     <string name="movie_preview_share_title">Поделиться</string>
@@ -1884,7 +1902,7 @@
     <string name="recommanded_face_abandon_tip">Удалено из рекомендаций</string>
     <string name="recommanded_face_added_tip">Добавлено в \"%s\"</string>
     <string name="recommend_category_title">Выбор Галереи</string>
-    <string name="recommend_page_label">Рекомендации</string>
+    <string name="recommend_page_label">Истории</string>
     <string name="recovery_merge">Объединить</string>
     <string name="recovery_merge_or_rename">Объединение альбомов</string>
     <string name="recovery_merge_or_rename_message">Альбом с таким именем уже существует. Объединить?</string>
@@ -1949,7 +1967,7 @@
     <string name="remove_from_secret_failed_with_reason">Ошибка перемещения из приватного альбома. %1$s.</string>
     <string name="remove_from_secret_successful">Перемещено из приватного альбома</string>
     <string name="remove_hidden_status_success">Отменено скрытие для альбома %s</string>
-    <string name="remove_hidden_status_tip">После отмены скрытия этот альбом будет виден на вкладке Альбомы</string>
+    <string name="remove_hidden_status_tip">После отмены скрытия этот альбом будет виден во вкладке Альбомы</string>
     <string name="remove_hidden_status_title">Отмена скрытия</string>
     <string name="remove_single_album_from_rubbish_page_tip">Восстановить выбранные альбомы?</string>
     <string name="remove_single_manual_hide_album_from_rubbish_page_tip">Восстановить выбранные альбомы и удалить файлы \".nomedia\"?</string>
@@ -2777,6 +2795,14 @@
     <string name="welcome_to_micloud">Добро пожаловать в Xiaomi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>
+    <string name="widget_label_custom">Изображения</string>
+    <string name="widget_label_recommend">Истории</string>
+    <string name="widget_recommend_default_description_no_story">Ничего нет</string>
+    <string name="widget_recommend_default_description_open_story">Нажмите, чтобы открыть настройки и включить \"Истории\"</string>
+    <string name="widget_recommend_default_description_shop">Вернитесь к своим самым ярким моментам</string>
+    <string name="widget_recommend_default_example">Демо</string>
+    <string name="widget_recommend_default_title_on_story">Истории</string>
+    <string name="widget_recommend_default_title_open_story">Включение \"Историй\"</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_10">Mi 10</string>
     <string name="xiaomi_10_lite">Mi 10 Lite</string>

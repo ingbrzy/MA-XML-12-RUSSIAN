@@ -42,6 +42,7 @@
     <string name="app_all_purpose">"Добро пожаловать в Проводник!
 Вы можете использовать это приложение для управления файлами на устройстве.
 "</string>
+    <string name="app_all_purpose_pad">Добро пожаловать в Проводник! Вы можете использовать это приложение для управления файлами на устройстве.</string>
     <string name="app_function">Управление файлами на устройстве</string>
     <string name="app_name">Проводник</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -218,6 +219,7 @@
     <string name="encrypt_success">Файлы скрыты</string>
     <string name="encrypt_success_first_five">Успешно зашифровано и скрыто. Для просмотра потяните вниз на начальной странице Проводника.</string>
     <string name="encrypting">Шифрование…</string>
+    <string name="enter">Открыть Проводник</string>
     <string name="entry_phone_storage_internal">Внутренняя память</string>
     <string name="entry_storage_cloned_app">Клоны</string>
     <string name="entry_storage_usb">USB-устройство</string>
@@ -319,6 +321,12 @@
     <string name="group_title_extra_new">Новое</string>
     <string name="guide_newfunc_content">Теперь вы можете фильтровать файлы по типу, сортировать их и менять вид отображения с помощью ярлыков.</string>
     <string name="guide_newfunc_title">Новая функция</string>
+    <string name="guide_one_summary">Группировка файлов по дате в виде временной шкалы.</string>
+    <string name="guide_one_title">Группировка по дате</string>
+    <string name="guide_three_summary">Добавление, удаление и упорядочивание ярлыков на начальной странице.</string>
+    <string name="guide_three_title">Работа с ярлыками</string>
+    <string name="guide_two_summary">По умолчанию фотографии и скриншоты галереи скрыты.</string>
+    <string name="guide_two_title">Только важные файлы</string>
     <string name="handsome_boy">Мужчина</string>
     <string name="has_installed">Установлено</string>
     <string name="hint_switch_to_grid_mode">Отображение таблицей</string>
@@ -513,6 +521,7 @@
     <string name="need_read_storage_permission">Проводнику для нормальной работы необходимо разрешение на доступ к хранилищу устройства.</string>
     <string name="network_not_available">Ошибка подключения к сети</string>
     <string name="new_folder_name">Новая папка</string>
+    <string name="next">Далее</string>
     <string name="night">Вечер</string>
     <string name="no">Нет</string>
     <string name="no_apk">Нет приложений</string>
@@ -727,6 +736,7 @@
     <string name="sort_hint_type">Сортировка по расширению</string>
     <string name="sort_size_asc">От меньшего к большему</string>
     <string name="sort_size_desc">От большего к меньшему</string>
+    <string name="start_all">Все файлы</string>
     <string name="start_doc">Документы</string>
     <string name="start_phone">Устройство</string>
     <string name="start_server">Запустить сервер</string>

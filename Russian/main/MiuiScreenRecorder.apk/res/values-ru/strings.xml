@@ -105,9 +105,11 @@
     <string name="is_go_home_summary">Открывать главную страницу приложения после остановки записи</string>
     <string name="loopback_sound">Звуки системы</string>
     <string name="low_battery">Зарядите устройство перед началом записи</string>
+    <string name="low_battery_for_pad">Зарядите устройство перед началом записи</string>
     <string name="low_battery_title">Батарея разряжена</string>
     <string name="low_battery_warning">Батарея разряжена. Запись остановлена и сохранена.</string>
-    <string name="low_memory">Осталось менее 1 ГБ свободного места. Вы сможете записать не более 20 минут видео.</string>
+    <string name="low_memory">Менее 1 ГБ свободного места. Доступно для записи до 20 минут видео.</string>
+    <string name="low_memory_for_pad">Менее %1$d ГБ свободного места. Доступно для записи до %2$d мин. видео.</string>
     <string name="low_memory_title">Недостаточно места</string>
     <string name="low_momery_warning">Недостаточно места. Запись остановлена и сохранена.</string>
     <string name="memory_not_allowed">Память заполнена. Освободите место для записи.</string>
@@ -314,6 +316,7 @@
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_recorded_file">Нажмите для просмотра</string>
+    <string name="view_recorded_videos">Просмотр записей</string>
     <string name="warning_recording_when_a2dp_connect">Устройство не поддерживает запись системных звуков во время использования Bluetooth-гарнитуры</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>

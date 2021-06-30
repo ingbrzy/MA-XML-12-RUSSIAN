@@ -849,6 +849,8 @@
     <string name="development_settings_summary">Настройка параметров для разработчиков</string>
     <string name="development_settings_title">Для разработчиков</string>
     <string name="device_locked_without_biometric">Биометрическая аутентификация недоступна при использовании сторонней блокировки</string>
+    <string name="device_locked_without_biometric_face">Биометрическая аутентификация недоступна из-за использования сторонней функции блокировки экрана</string>
+    <string name="device_locked_without_biometric_finger">Биометрическая аутентификация недоступна из-за использования сторонней функции блокировки экрана</string>
     <string name="device_services">Службы устройства</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
@@ -1031,12 +1033,18 @@
     <string name="fingerprint_add_text">Алгоритм разблокировки обновлен. Добавьте отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
     <string name="fingerprint_again_identified_msg">Разблокировка отпечатком снова доступна. Используйте его или введите пароль.</string>
+    <string name="fingerprint_again_identified_msg_password">Разблокировка отпечатком снова доступна. Можно использовать отпечаток или пароль для разблокировки.</string>
+    <string name="fingerprint_again_identified_msg_pattern">Разблокировка отпечатком снова доступна. Можно использовать отпечаток или графический ключ для разблокировки.</string>
+    <string name="fingerprint_again_identified_msg_pin">Разблокировка отпечатком снова доступна. Можно использовать отпечаток или PIN-код для разблокировки.</string>
     <string name="fingerprint_dialog_touch_sensor">Коснитесь сканера отпечатков</string>
     <string name="fingerprint_enter_second_psw_msg">Введите пароль второго пространства для использования отпечатков пальцев</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Нельзя войти во второе пространство в Простом режиме</string>
     <string name="fingerprint_enter_second_psw_title">Введите пароль второго пространства</string>
     <string name="fingerprint_not_identified_msg">Слишком много неудачных попыток. Введите пароль или используйте отпечаток через несколько секунд.</string>
     <string name="fingerprint_not_identified_msg_lock">Слишком много неудачных попыток. Введите пароль.</string>
+    <string name="fingerprint_not_identified_msg_password">Слишком много неудачных попыток. Попробуйте снова позже или используйте пароль для разблокировки.</string>
+    <string name="fingerprint_not_identified_msg_pattern">Слишком много неудачных попыток. Попробуйте снова позже или используйте графический ключ для разблокировки.</string>
+    <string name="fingerprint_not_identified_msg_pin">Слишком много неудачных попыток. Попробуйте снова позже или используйте PIN-код для разблокировки.</string>
     <string name="fingerprint_not_identified_title">Введите пароль</string>
     <string name="fingerprint_not_recognized">Отпечаток не распознан</string>
     <string name="fingerprint_try_again_msg">Отпечаток не распознан, повторите попытку</string>
@@ -1079,6 +1087,7 @@
     <string name="fs_gesture_back_ready_title">Возврат</string>
     <string name="fs_gesture_final_over">Закончить</string>
     <string name="fs_gesture_final_restart">Повторить</string>
+    <string name="fs_gesture_final_see_more">Больше подробностей в Настройки &gt; Рабочий стол &gt; Экранная навигация</string>
     <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в меню Настройки &gt; Дополнительно &gt; Экранная навигация</string>
     <string name="fs_gesture_final_title">Всё готово!</string>
     <string name="fs_gesture_finish">Отлично!</string>
@@ -1215,8 +1224,10 @@
     <string name="input_password_after_boot_msg_must_enter_owner_space">После перезагрузки необходимо войти в первое пространство</string>
     <string name="input_password_hint_text">Введите пароль</string>
     <string name="input_password_hint_text_v11">Введите пароль</string>
+    <string name="input_pattern_after_boot_msg">Требуется ввод графического ключа для перезагрузки устройства</string>
     <string name="input_pattern_hint_text">Введите графический ключ</string>
     <string name="input_pattern_hint_text_v11">Введите графический ключ</string>
+    <string name="input_pin_after_boot_msg">Требуется ввод PIN-кода для перезагрузки устройства</string>
     <string name="input_pin_code">Введите PIN-код</string>
     <string name="input_pin_hint_text_v11">Введите PIN-код</string>
     <string name="input_puk_code">Введите PUK-код</string>

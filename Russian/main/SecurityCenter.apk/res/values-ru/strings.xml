@@ -274,9 +274,13 @@
     <string name="app_behavior_denied">Отклонить</string>
     <string name="app_behavior_desc_allow_once">Разрешено в %1$s</string>
     <string name="app_behavior_desc_allowed">Разрешено</string>
+    <string name="app_behavior_desc_allowed_at">Разрешено в %s</string>
     <string name="app_behavior_desc_allowed_on_background">Разрешено в фоновом режиме</string>
+    <string name="app_behavior_desc_allowed_on_background_at">Разрешено в фоновом режиме в %s</string>
     <string name="app_behavior_desc_denied">Отклонено</string>
+    <string name="app_behavior_desc_denied_at">Отклонено в %s</string>
     <string name="app_behavior_desc_denied_on_background">Отклонено в фоновом режиме</string>
+    <string name="app_behavior_desc_denied_on_background_at">Отклонено в фоновом режиме в %s</string>
     <string name="app_behavior_desc_deny_once">Отклонено в %1$s</string>
     <string name="app_behavior_desc_other_perm_allowed">Активность: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Активность за последние %d ч.</string>
@@ -1544,6 +1548,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="first_aid_card_wifi_or_flow_title">Не удается подключиться к интернету</string>
     <string name="first_aid_dialog_msg_stop_scan">Остановить проверку?</string>
     <string name="first_aid_dialog_title_stop_scan">Остановка проверки</string>
+    <string name="first_aid_exception_sub_title">Игнорируемые элементы во время сканирования</string>
     <string name="first_aid_item1_content">Производительность</string>
     <string name="first_aid_item2_content">Сеть</string>
     <string name="first_aid_item3_content">Настройки</string>
@@ -1971,6 +1976,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gs_show_way_vertical">Вертикальная</string>
     <string name="gs_sign_notification">Напоминать об отмечании в 8 вечера ежедневно</string>
     <string name="gs_slip_gamebox_detail">Используйте слайдер или свайп в верхней части края экрана для отображения панели быстрого доступа</string>
+    <string name="gtb_brightness_dialog_right_btn">Оставить</string>
+    <string name="gtb_brightness_dialog_sub_message">*Функцию можно включить или выключить в настройках.</string>
     <string name="gtb_dialog_btn_close">Отключить</string>
     <string name="gtb_dialog_btn_open">Включить</string>
     <string name="gtb_dialog_hint_smart_5g">Вы можете включить или выключить эту функцию в Ускорение игр &gt; Настройки.</string>
@@ -1980,6 +1987,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_exit_game_to_home">Вернуться на рабочий стол</string>
     <string name="gtb_setting_item_summary_smart_5g">При обнаружении сети 5G, устройство будет переключено на лучшую доступную сеть для уменьшения задержек сети</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Увеличение скорости соединения на 10-20% при подключении к роутерам Mi/Redmi</string>
+    <string name="gtb_setting_item_title_brightness">Автоматическое снижение яркости экрана</string>
     <string name="gtb_setting_item_title_smart_5g">Оптимизация сети 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Повышение скорости Mi Wi-Fi</string>
     <string name="gtb_spring_festival_back_game">Вернуться в игру</string>
@@ -2753,8 +2761,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активный режим</string>
     <string name="pc_hidemode_normal">Сбалансированный</string>
+    <string name="pc_hidemode_normal_title">Сбалансированный режим</string>
     <string name="pc_hidemode_performance">Производительный</string>
-    <string name="pc_hidemode_performance_title">Режим производительности</string>
+    <string name="pc_hidemode_performance_title">Производительный режим</string>
     <string name="pc_hidemode_power_save">Энергосберегающий</string>
     <string name="pc_install_manager">Установка через USB</string>
     <string name="pc_main_activity_back">Назад</string>
