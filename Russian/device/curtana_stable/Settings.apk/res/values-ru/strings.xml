@@ -193,8 +193,8 @@
     <string name="accessibility_settings_tabs_physical">Физические</string>
     <string name="accessibility_settings_tabs_visual">Зрение</string>
     <string name="accessibility_settings_title">Настройки специальных возможностей</string>
-    <string name="accessibility_shortcut_description">Чтобы использовать функцию специальных возможностей, когда она включена, нажмите и удерживайте несколько секунд обе клавиши регулировки громкости.</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_hardware">Нажмите и удерживайте обе клавиши громкости</string>
+    <string name="accessibility_shortcut_description">Чтобы использовать функцию специальных возможностей, когда она включена, нажмите и удерживайте несколько секунд обе кнопки громкости.</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_hardware">Нажмите и удерживайте обе кнопки громкости</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software">"Нажмите кнопку спец. возможностей %s внизу экрана.
 
 Для переключения между функциями, нажмите и удерживайте кнопку спец. возможностей."</string>
@@ -206,19 +206,19 @@
 Для переключения между функциями, проведите вверх 3 пальцами и удерживайте."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Быстро коснитесь экрана 3 раза. Этот ярлык может замедлить работу устройства.</string>
     <string name="accessibility_shortcut_edit_dialog_title_advance">Дополнительно</string>
-    <string name="accessibility_shortcut_edit_dialog_title_hardware">Удержание клавиш громкости</string>
+    <string name="accessibility_shortcut_edit_dialog_title_hardware">Удержание кнопок громкости</string>
     <string name="accessibility_shortcut_edit_dialog_title_software">Кнопка спец. возможностей</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Свайп вверх 2 пальцами</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Свайп вверх 3 пальцами</string>
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Тройное касание</string>
     <string name="accessibility_shortcut_edit_summary_software">Кнопка спец. возможностей</string>
-    <string name="accessibility_shortcut_hardware_keyword">удержание клавиш громкости</string>
+    <string name="accessibility_shortcut_hardware_keyword">удержание кнопок громкости</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Разрешить на заблокированном экране</string>
     <string name="accessibility_shortcut_service_title">Быстрое включение сервиса</string>
     <string name="accessibility_shortcut_settings">Настройка ярлыков</string>
     <string name="accessibility_shortcut_title">%1$s</string>
     <string name="accessibility_shortcut_triple_tap_keyword">тройное касание</string>
-    <string name="accessibility_shortcut_type_hardware">Удержание клавиш громкости</string>
+    <string name="accessibility_shortcut_type_hardware">Удержание кнопок громкости</string>
     <string name="accessibility_shortcut_type_software">Кнопка спец. возможностей</string>
     <string name="accessibility_shortcut_type_software_gesture">свайп двумя пальцами сверху вниз</string>
     <string name="accessibility_shortcut_type_triple_tap">Тройное касание</string>
@@ -277,12 +277,12 @@
 
 Для переключения между сервисами проведите двумя пальцами вверх и удерживайте.</string>
     <string name="accessibility_tutorial_dialog_message_triple">Чтобы запустить или остановить увеличение, трижды коснитесь в любом месте экрана.</string>
-    <string name="accessibility_tutorial_dialog_message_volume">Для использования этой функции нажмите и удерживайте обе клавиши громкости.</string>
+    <string name="accessibility_tutorial_dialog_message_volume">Для использования этой функции нажмите и удерживайте обе кнопки громкости.</string>
     <string name="accessibility_tutorial_dialog_title_button">Кнопка \"Спец. возможности\"</string>
     <string name="accessibility_tutorial_dialog_title_gesture">Используйте жест</string>
     <string name="accessibility_tutorial_dialog_title_gesture_settings">Новые жесты спец. возможностей</string>
     <string name="accessibility_tutorial_dialog_title_triple">Тройное касание для открытия</string>
-    <string name="accessibility_tutorial_dialog_title_volume">Удержание клавиш громкости для открытия</string>
+    <string name="accessibility_tutorial_dialog_title_volume">Удержание кнопок громкости для открытия</string>
     <string name="accessibility_tutorial_pager">Страница %1$d из %2$d</string>
     <string name="accessibility_usage_title">Использование спец. возможностей</string>
     <string name="accessibility_vibration_intensity_high">Сильная</string>
@@ -910,7 +910,7 @@
     <string name="battery_desc_bluetooth">Использование батареи модулем Bluetooth</string>
     <string name="battery_desc_camera">Расход батареи камерой</string>
     <string name="battery_desc_display">Использование батареи для подсветки экрана</string>
-    <string name="battery_desc_flashlight">Расход батареи на вспышку</string>
+    <string name="battery_desc_flashlight">Расход батареи на фонарик</string>
     <string name="battery_desc_overcounted">Преувеличенное энергопотребление</string>
     <string name="battery_desc_radio">Расход батареи на поддержание связи с сетью в режиме ожидания</string>
     <string name="battery_desc_standby">Расход батареи в режиме ожидания</string>
@@ -1637,16 +1637,16 @@
     <string name="camera_gesture_desc">Чтобы открыть приложение \"Камера\", дважды поверните запястье.</string>
     <string name="camera_gesture_title">Включать камеру движением запястья</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>
-    <string name="camera_key_action_category_title">Действия Mi клавиши</string>
+    <string name="camera_key_action_category_title">Действия Mi кнопки</string>
     <string name="camera_key_action_none_title">Запуск камеры</string>
-    <string name="camera_key_action_setting_title">Mi клавиша</string>
+    <string name="camera_key_action_setting_title">Mi кнопка</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>
     <string name="camera_key_action_shortcut_home">Рабочий стол</string>
     <string name="camera_key_action_shortcut_screenshot">Снимок экрана</string>
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_title">Функция</string>
     <string name="camera_key_action_shortcut_wake">Блокировка</string>
-    <string name="camera_key_action_title">Клавиша MI</string>
+    <string name="camera_key_action_title">Mi кнопка</string>
     <string name="camera_key_action_toggle_title">Переключатель</string>
     <string name="camera_laser_sensor_switch">Лазерный сенсор камеры</string>
     <string name="camera_rear">Основная %s</string>
@@ -4073,7 +4073,7 @@
     <string name="knock_guide_launch_desc">Запуск Mi AI, когда устройство лежит экраном вверх</string>
     <string name="knock_guide_set_screenshot">Скриншот</string>
     <string name="knock_guide_set_voiceassist">Mi AI</string>
-    <string name="knock_guide_sub_title">Вы можете запустить Mi AI или сделать скриншот костяшкой</string>
+    <string name="knock_guide_sub_title">Запуск Mi AI или скриншот костяшкой</string>
     <string name="knock_guide_title">Двойное касание костяшкой</string>
     <string name="knock_long_press_horizontal_slid">Нажмите и проведите горизонтально костяшкой</string>
     <string name="knock_slide_shape">Нарисуйте окружность костяшкой</string>
@@ -4504,7 +4504,7 @@
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
     <string name="macaddr_label">MAC-адрес:</string>
     <string name="magic_list_empty_text">Нет приложений, совместимых с этой функцией</string>
-    <string name="magic_window_name">Разделение экрана</string>
+    <string name="magic_window_name">Оптимизация приложений для альбомной ориентации</string>
     <string name="mah">%d мА·ч</string>
     <string name="main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
     <string name="main_running_process_description">Основной используемый процесс.</string>
@@ -8745,6 +8745,9 @@ UT-интерфейс: %5$s"</string>
     <string name="voice_service_preference_section_title">Голосовой ввод</string>
     <string name="voicemail_number_not_set">&lt;Не задано&gt;</string>
     <string name="voip_assistant_settings">VoIP ассистент</string>
+    <string name="voip_assistant_settings_off">Откл.</string>
+    <string name="voip_assistant_settings_on">Вкл.</string>
+    <string name="voip_assistant_settings_summary">Запись VoIP вызовов и оптимизация голосовых отпечатков</string>
     <string name="volte_5G_limited_text">"Это также отключает соединение 5G.
 Во время голосового вызова вы не сможете использовать интернет, некоторые приложения могут не работать."</string>
     <string name="volte_5G_limited_title">Отключить VoLTE?</string>
