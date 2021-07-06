@@ -1,0 +1,80 @@
+cls
+;
+
+call run_copy_translation.bat AuthManager
+call run_copy_translation.bat Backup
+call run_copy_translation.bat BackupRestoreConfirmation
+call run_copy_translation.bat Bluetooth
+call run_copy_translation.bat BuiltInPrintService
+call run_copy_translation.bat Calendar
+call run_copy_translation.bat CalendarProvider
+call run_copy_translation.bat CertInstaller
+call run_copy_translation.bat CloudBackup
+call run_copy_translation.bat Contacts
+call run_copy_translation.bat ContactsProvider
+call run_copy_translation.bat DeskClock
+call run_copy_translation.bat DownloadProvider
+call run_copy_translation.bat DownloadProviderUi
+call run_copy_translation.bat ExternalStorageProvider
+call run_copy_translation.bat FindDevice
+call run_copy_translation.bat FM
+
+call run_copy_translation.bat framework-ext-res -rRU
+
+call run_copy_translation.bat framework-res
+call run_copy_translation.bat GuardProvider
+call run_copy_translation.bat HTMLViewer
+call run_copy_translation.bat InCallUI
+call run_copy_translation.bat Joyose
+call run_copy_translation.bat ManagedProvisioning
+call run_copy_translation.bat MiCloudSync
+call run_copy_translation.bat MiService
+call run_copy_translation.bat MiSettings
+call run_copy_translation.bat MiSound
+
+call run_copy_translation.bat miui -rRU
+
+call run_copy_translation.bat MiuiAccessibility
+call run_copy_translation.bat MiuiBiometric
+call run_copy_translation.bat MiuiBluetooth
+call run_copy_translation.bat MiuiBugReport
+call run_copy_translation.bat MiuiCamera
+call run_copy_translation.bat MiuiContentCatcher
+call run_copy_translation.bat MiuiFreeformService
+call run_copy_translation.bat MiuiFrequentPhrase
+call run_copy_translation.bat MiuiGallery
+call run_copy_translation.bat MiuiHome
+
+call run_copy_translation.bat miuisystem -rRU
+
+call run_copy_translation.bat MiuiSystemUI
+call run_copy_translation.bat MiuiSystemUIPlugin
+call run_copy_translation.bat MiuiWallpaper
+call run_copy_translation.bat MusicFX
+call run_copy_translation.bat NotificationCenter
+call run_copy_translation.bat PaymentService
+call run_copy_translation.bat PersonalAssistant
+call run_copy_translation.bat PowerChecker
+call run_copy_translation.bat PowerKeeper
+call run_copy_translation.bat PrintRecommendationService
+call run_copy_translation.bat PrintSpooler
+call run_copy_translation.bat Provision
+call run_copy_translation.bat QuickSearchBox
+call run_copy_translation.bat SecurityAdd
+call run_copy_translation.bat SecurityCenter
+call run_copy_translation.bat SecurityCoreAdd
+call run_copy_translation.bat Settings
+call run_copy_translation.bat SettingsProvider
+call run_copy_translation.bat Shell
+call run_copy_translation.bat SmsExtra
+call run_copy_translation.bat TelephonyProvider
+call run_copy_translation.bat ThemeManager
+call run_copy_translation.bat TouchAssistant
+call run_copy_translation.bat Traceur
+call run_copy_translation.bat Updater
+call run_copy_translation.bat VpnDialogs
+call run_copy_translation.bat VsimCore
+call run_copy_translation.bat WallpaperCropper
+call run_copy_translation.bat XiaomiAccount
+call run_copy_translation.bat XiaomiServiceFramework
+call run_copy_translation.bat XiaomiSimActivateService
