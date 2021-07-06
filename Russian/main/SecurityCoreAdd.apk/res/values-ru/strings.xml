@@ -470,7 +470,7 @@
     <string name="setting_finger_print_title">Добавить отпечаток второго пространства</string>
     <string name="setting_fingerprint_title">Задать пароль второго пространства</string>
     <string name="setting_is_show_text_contacts">Настройте личные контакты и сообщения</string>
-    <string name="settings_cross_notification_summary">Получать уведомления от другого пространства</string>
+    <string name="settings_cross_notification_summary">Получать уведомления из другого пространства</string>
     <string name="settings_cross_notification_title">Уведомления</string>
     <string name="settings_msg_add_shortcut_to_owner_space">Ярлык добавлен в первое пространство</string>
     <string name="settings_msg_add_shortcut_to_second_space">Ярлык добавлен во второе пространство</string>
@@ -478,8 +478,10 @@
     <string name="settings_msg_remove_shortcut_from_second_space">Ярлык удален из второго пространства</string>
     <string name="settings_notification_and_switch_owner_space">Настройки первого пространства</string>
     <string name="settings_notification_and_switch_second_space">Настройки второго пространства</string>
-    <string name="settings_notification_from_owner_space_title">Показывать уведомления от первого пространства</string>
-    <string name="settings_notification_from_second_space_title">Показывать уведомления от второго пространства</string>
+    <string name="settings_notification_from_owner_space_title">Показывать уведомления из первого пространства</string>
+    <string name="settings_notification_from_second_space_title">Показывать уведомления из второго пространства</string>
+    <string name="settings_notification_second_space_show_in_locked_summary">Показывать уведомления из второго пространства на экране блокировки</string>
+    <string name="settings_notification_second_space_show_in_locked_title">Уведомления на экране блокировки</string>
     <string name="settings_second_space_entrance_summary">Показывать ярлык второго пространства в Настройках</string>
     <string name="settings_second_space_entrance_title">Ярлык в Настройках</string>
     <string name="settings_set_password_for_owner_space">Настройте защиту устройства</string>

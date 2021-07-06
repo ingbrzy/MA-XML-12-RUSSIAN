@@ -92,6 +92,10 @@
     <string name="HIPS_Perm_install_shortcut_Desc">Добавление ярлыков на рабочий стол</string>
     <string name="HIPS_Perm_mediaVolume">Изменение громкости</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Изменение громкости мультимедиа</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner">Запрос номера телефона</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Запрос номера телефона у оператора связи для входа в систему</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Если не удалось войти в систему одним нажатием, вернитесь на страницу входа и повторите попытку</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Приложение пытается запросить ваш номер телефона у оператора связи для входа в систему. Разрешить?</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Использование NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Доступ к телефону</string>

@@ -2818,6 +2818,11 @@
     <string name="enable_gnss_raw_meas_full_tracking_summary">Отслеживать все группировки GNSS и частоты без дежурного цикла</string>
     <string name="enable_gpu_debug_layers">Отладочный слой GPU</string>
     <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
+    <string name="enable_local_backup">Включить</string>
+    <string name="enable_local_backup_cancel">Отмена</string>
+    <string name="enable_local_backup_message">Включение этой функции позволяет создавать локальные резервные копии на устройстве, которые можно скопировать на ПК или USB-устройство. Включить?</string>
+    <string name="enable_local_backup_ok">ОК</string>
+    <string name="enable_local_backup_title">Локальное резервное копирование</string>
     <string name="enable_mms_notification_channel_title">MMS-сообщение</string>
     <string name="enable_mms_notification_summary">Нажмите, чтобы разрешить MMS-сообщения на %1$s при отключенном мобильном интернете</string>
     <string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
@@ -3901,8 +3906,8 @@
     <string name="kddi_nfc_disabled_summary">Недоступно, функция NFC/Osaifu-keita отключена</string>
     <string name="kddi_nfc_quick_toggle_summary">Включить функцию NFC/Osaifu-keitai</string>
     <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
-    <string name="kddi_nfc_secure_settings_title">Блокировать при заблокированном экране</string>
-    <string name="kddi_nfc_secure_toggle_summary">Разрешить функцию NFC/Osaifu-keitai только при разблокированном экране</string>
+    <string name="kddi_nfc_secure_settings_title">Выключение после блокировки</string>
+    <string name="kddi_nfc_secure_toggle_summary">Держать функцию NFC/Osaifu-keitai включенной только когда устройство разблокировано</string>
     <string name="keep_legacy_fingerprint">Оставить</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
@@ -4192,6 +4197,7 @@
     <string name="local_backup_section_summary_new">Резервное копирование аккаунтов, настроек системы, рабочего стола, приложений и других данных</string>
     <string name="local_backup_section_title">Резервное копирование</string>
     <string name="local_backup_section_title_new">На устройстве</string>
+    <string name="local_backup_usestatus_title">Локальное резервное копирование отключено</string>
     <string name="locale_default">По умолчанию</string>
     <string name="locale_not_translated">Может быть недоступен в некоторых приложениях</string>
     <string name="locale_remove_menu">Удалить</string>
@@ -4484,6 +4490,7 @@
     <string name="login_account_dialog_message">Войдите в свой Mi Аккаунт и включите синхронизацию с облаком.</string>
     <string name="login_account_dialog_title">Войдите в Mi Аккаунт</string>
     <string name="login_account_summary">Управление аккаунтами, облачными сервисами и прочим</string>
+    <string name="login_account_summary_temp">Управление аккаунтами, облачными сервисами и много другое</string>
     <string name="login_action">Войти</string>
     <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
     <string name="long_press_buttom_key">Долгое нажатие \"Домой\" на экране блокировки</string>
@@ -4702,6 +4709,7 @@
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Аккаунт Mi Pay</string>
     <string name="micloud_service_summary">Синхронизация списка приложений, резервное копирование настроек системы и рабочего стола</string>
+    <string name="micloud_service_summary_temp">Синхронизация фото, видео, контактов и прочих данных</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Центральная область</string>
     <string name="midnight">Ночь</string>
@@ -7864,6 +7872,17 @@ UT-интерфейс: %5$s"</string>
     <string name="style_and_wallpaper_settings_title">Стили и обои</string>
     <string name="style_suggestion_summary">Попробуйте различные стили, обои, часы и прочее</string>
     <string name="style_suggestion_title">Персонализация Pixel</string>
+    <string name="stylus_ota_check_update">Проверка и обновление</string>
+    <string name="stylus_ota_current_firmware_version">Текущая версия прошивки</string>
+    <string name="stylus_ota_downloading_firmware">Загрузк прошивки</string>
+    <string name="stylus_ota_firmware_update">Обновление прошивки</string>
+    <string name="stylus_ota_hardware_version">Версия оборудования</string>
+    <string name="stylus_ota_latest">Актуальная версия</string>
+    <string name="stylus_ota_model">Модель</string>
+    <string name="stylus_ota_new_version">Новая версия</string>
+    <string name="stylus_ota_serial_number">Серийный номер</string>
+    <string name="stylus_ota_update">Обновить</string>
+    <string name="stylus_ota_updating">Обновление</string>
     <string name="subscription_available">Доступна</string>
     <string name="sud_back_button_label">Назад</string>
     <string name="sud_more_button_label">Еще</string>

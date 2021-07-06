@@ -848,9 +848,9 @@
     <string name="development_settings_not_available">Этому пользователю недоступны возможности разработчика</string>
     <string name="development_settings_summary">Настройка параметров для разработчиков</string>
     <string name="development_settings_title">Для разработчиков</string>
-    <string name="device_locked_without_biometric">Биометрическая аутентификация недоступна при использовании сторонней блокировки</string>
-    <string name="device_locked_without_biometric_face">Биометрическая аутентификация недоступна из-за использования сторонней функции блокировки экрана</string>
-    <string name="device_locked_without_biometric_finger">Биометрическая аутентификация недоступна из-за использования сторонней функции блокировки экрана</string>
+    <string name="device_locked_without_biometric">Разблокировка с помощью отпечатка или данных лица недоступна при использовании сторонней блокировки</string>
+    <string name="device_locked_without_biometric_face">Разблокировка с помощью данных лица недоступна при использовании сторонней блокировки</string>
+    <string name="device_locked_without_biometric_finger">Разблокировка с помощью отпечатка недоступна при использовании сторонней блокировки</string>
     <string name="device_services">Службы устройства</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
@@ -1032,19 +1032,25 @@
     <string name="finger_error_single_mode">Сканер отпечатков недоступен в режиме управления одной рукой. Выйдите из режима и попробуйте еще раз.</string>
     <string name="fingerprint_add_text">Алгоритм разблокировки обновлен. Добавьте отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
-    <string name="fingerprint_again_identified_msg">Разблокировка отпечатком снова доступна. Используйте его или введите пароль.</string>
-    <string name="fingerprint_again_identified_msg_password">Разблокировка отпечатком снова доступна. Можно использовать отпечаток или пароль для разблокировки.</string>
-    <string name="fingerprint_again_identified_msg_pattern">Разблокировка отпечатком снова доступна. Можно использовать отпечаток или графический ключ для разблокировки.</string>
-    <string name="fingerprint_again_identified_msg_pin">Разблокировка отпечатком снова доступна. Можно использовать отпечаток или PIN-код для разблокировки.</string>
+    <string name="fingerprint_again_identified_msg">Разблокировка отпечатком снова активна. Используйте отпечаток или введите пароль.</string>
+    <string name="fingerprint_again_identified_msg_password">"Разблокировка отпечатком снова активна. 
+Используйте отпечаток или введите пароль для разблокировки."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"Разблокировка отпечатком снова активна. 
+Используйте отпечаток или введите графический ключ для разблокировки."</string>
+    <string name="fingerprint_again_identified_msg_pin">"Разблокировка отпечатком снова активна. 
+Используйте отпечаток или введите PIN-код для разблокировки."</string>
     <string name="fingerprint_dialog_touch_sensor">Коснитесь сканера отпечатков</string>
     <string name="fingerprint_enter_second_psw_msg">Введите пароль второго пространства для использования отпечатков пальцев</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Нельзя войти во второе пространство в Простом режиме</string>
     <string name="fingerprint_enter_second_psw_title">Введите пароль второго пространства</string>
     <string name="fingerprint_not_identified_msg">Слишком много неудачных попыток. Введите пароль или используйте отпечаток через несколько секунд.</string>
-    <string name="fingerprint_not_identified_msg_lock">Слишком много неудачных попыток. Введите пароль.</string>
-    <string name="fingerprint_not_identified_msg_password">Слишком много неудачных попыток. Попробуйте снова позже или используйте пароль для разблокировки.</string>
-    <string name="fingerprint_not_identified_msg_pattern">Слишком много неудачных попыток. Попробуйте снова позже или используйте графический ключ для разблокировки.</string>
-    <string name="fingerprint_not_identified_msg_pin">Слишком много неудачных попыток. Попробуйте снова позже или используйте PIN-код для разблокировки.</string>
+    <string name="fingerprint_not_identified_msg_lock">Слишком много неудачных попыток.  Введите пароль для разблокировки.</string>
+    <string name="fingerprint_not_identified_msg_password">"Слишком много неудачных попыток. 
+Введите пароль для разблокировки."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Слишком много неудачных попыток. 
+Введите графический ключ для разблокировки."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Слишком много неудачных попыток. 
+Введите PIN-код для разблокировки."</string>
     <string name="fingerprint_not_identified_title">Введите пароль</string>
     <string name="fingerprint_not_recognized">Отпечаток не распознан</string>
     <string name="fingerprint_try_again_msg">Отпечаток не распознан, повторите попытку</string>
@@ -1337,6 +1343,7 @@
     <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
     <string name="keyguard_instructions_when_pattern_disabled">Нажмите Меню для разблокировки</string>
+    <string name="keyguard_invalid_sim_puk_hint">PUK-код должен содержать %1$d цифр.</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
     <string name="keyguard_left_remotecentral">Mi Remote</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
