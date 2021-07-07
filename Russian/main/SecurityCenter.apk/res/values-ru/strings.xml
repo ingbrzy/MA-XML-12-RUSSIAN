@@ -632,6 +632,7 @@
     <string name="applock_no_account_login">Вход в Mi Аккаунт не выполнен</string>
     <string name="applock_not_add_account"><u>Не сейчас</u></string>
     <string name="applock_not_login_account">Вход не выполнен</string>
+    <string name="applock_numeric_pwd_type_line">Всего цифр в пароле: %1$d. Введено: %2$d.</string>
     <string name="applock_operate_faceunlock_summary">Разблокируйте приложения взглядом на экран</string>
     <string name="applock_operate_faceunlock_title">Использовать распознавание по лицу</string>
     <string name="applock_operate_fingerprint_summary">Защита приложений поддерживает добавление несколько отпечатков</string>
@@ -2623,7 +2624,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="oaid_apps_title">Управление виртуальным ID</string>
     <string name="oaid_reset_content_tip">Если вы отключите виртуальный ID, некоторые приложения могут перестать работать должным образом, некоторые данные приложений могут быть потеряны или стать непригодными для использования.</string>
     <string name="oaid_reset_final_tip">Отключить виртуальный ID?</string>
-    <string name="oaid_tips_content">Виртуальные ID (OAID) могут использоваться для отслеживания ваших предпочтений и персонализации рекламы. Вы можете выбрать, каким приложениям разрешен доступ к вашему виртуальному ID. Обратите внимание, если вы ограничите доступ, рекомендации по рекламе могут стать неактуальными или приложения не будут нормально работать.</string>
+    <string name="oaid_tips_content">Виртуальный ID (OAID) используется для отслеживания ваших предпочтений и персонализации рекламы. Вы можете выбрать, каким приложениям разрешен доступ к вашему виртуальному ID. Обратите внимание, если вы ограничите доступ, рекомендации по рекламе могут стать неактуальными или приложения не будут нормально работать.</string>
     <string name="offline_voice_input">Голосовой ввод офлайн</string>
     <string name="offline_voice_input_detail">Голосовой ввод без использования интернета</string>
     <string name="ok">ОК</string>
@@ -2776,8 +2777,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_main_power_manager_hour_minute">%1$s ч. %2$s мин. до полной зарядки</string>
     <string name="pc_main_sub_battery_text_day_hour">Осталось: %1$s д. %2$s ч.</string>
     <string name="pc_main_sub_battery_text_hour_minute">Осталось: %1$s ч. %2$s мин.</string>
-    <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в выбранном режиме производительности. Обратите внимание, что этот режим увеличивает энергопотребление и может привести к перегреву.</string>
-    <string name="pc_performance_mode_dialog_title">Режим производительности</string>
+    <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в производительном режиме. Обратите внимание, что режим увеличит расход батареи и может привести к перегреву.</string>
+    <string name="pc_performance_mode_dialog_summary2">Производительность будет повышена. Это увеличит расход батареи и может привести к перегреву. Включить?</string>
+    <string name="pc_performance_mode_dialog_title">Производительный режим</string>
+    <string name="pc_performance_mode_noti_summary">Производительный режим увеличит расход батареи и может привести к перегреву.</string>
+    <string name="pc_performance_mode_noti_title">Повышенная производительность</string>
     <string name="pc_search_keywords_battery">Батарея</string>
     <string name="pc_search_keywords_battery_save">Экономия</string>
     <string name="pc_search_keywords_battery_use">Расход батареи</string>
@@ -3246,6 +3250,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_wireless_update_notification_title">Обновление беспроводной зарядки</string>
     <string name="power_wireless_update_text">Обновление не требуется</string>
     <string name="power_wireless_update_tv_text">Обновление прошивки… не выключайте устройство</string>
+    <string name="pp_anti_track_summary">Запрет отслеживания активности</string>
+    <string name="pp_antitrack_detail">Приложения могут отслеживать вашу активность с помощью персональных идентификаторов, информации о местоположении и другой личной информации, переданной им. Отслеживание вашей активности в приложениях и на веб-сайтах позволяет им персонализировать рекламу и рекомендовать соответствующий контент.</string>
     <string name="pp_app_behavior_record_detail">Записи действий приложений</string>
     <string name="pp_app_del_img_intercept_detail">Уведомлять об удалении файлов из галереи без подтверждения</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Разрешения с высоким риском</string>
@@ -3257,6 +3263,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI будет управлять доступом к буферу обмена и уведомлять о доступе</string>
     <string name="pp_app_warning_permission_tips">Уведомлять о действиях</string>
     <string name="pp_app_warning_permission_tips_detail">Уведомлять о доступе к местоположению, микрофону или камере</string>
+    <string name="pp_block_mac">Ограничение доступа к MAC-адресу</string>
+    <string name="pp_block_mac_summary">По умолчанию доступ к MAC-адресу ограничен для всех приложений</string>
     <string name="pp_call_phone_msg">Журнал вызовов</string>
     <string name="pp_capability_approved_title">Наши меры защиты конфиденциальности были протестированы и сертифицированы ведущими экспертами</string>
     <string name="pp_chain_start_is_prohibited">Ограничение цепного запуска</string>
@@ -3273,14 +3281,19 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_hide_app_form_desktop">Скрытие с рабочего стола</string>
     <string name="pp_icon_layout_status_bg_content_enable">Защищено</string>
     <string name="pp_icon_layout_status_bg_content_unable">Отключено</string>
+    <string name="pp_identifier_protection">Защита персональных идентификаторов</string>
     <string name="pp_interception_net_visit_content_manager">Управление доступом</string>
     <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешен доступ к Галерее и файлам соцсетей</string>
     <string name="pp_local_msg">Местоположение</string>
     <string name="pp_manage_apps_location_information">Разрешение приложениям получать доступ к местоположению</string>
+    <string name="pp_manage_track">Мониторинг трекеров</string>
+    <string name="pp_manage_track_summary">Обнаружение и отключение трекеров, встроенных в приложения. Трекеры могут передавать ваши персональные идентификаторы, получая доступ к данным во внутренней памяти, или использовать общие SDK для отслеживания вашей активности.</string>
     <string name="pp_one_app_two_use">Несколько аккаунтов</string>
     <string name="pp_one_phone_two_space">Одно устройство как два</string>
     <string name="pp_only_allow_permission_during_this_run">Однократное разрешение</string>
     <string name="pp_only_allow_permission_during_this_run_detail">Разрешение использовать местоположение, микрофон или контакты можно предоставить один раз, после закрытия приложения разрешение будет сброшено</string>
+    <string name="pp_operator_get_number">Доступ к номеру телефона</string>
+    <string name="pp_operator_get_number_summary">Приложения будут запрашивать разрешение на доступ к номеру телефона для входа в систему</string>
     <string name="pp_optional_protection_function">Дополнительная защита</string>
     <string name="pp_permission_action_virtual_detail">В приложения отправляется пустая информация вместо личных данных</string>
     <string name="pp_permission_settings">Разрешения</string>
@@ -3289,6 +3302,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_privacy_lab_blur_location_summary">Обезличивание информации о местоположении и отправка в приложения приблизительных данных</string>
     <string name="pp_privacy_lab_clipboard">Защита буфера обмена</string>
     <string name="pp_privacy_lab_clipboard_summary">MIUI будет принимать решения о предоставлении приложениям доступа к буферу обмена и оповещать о доступе</string>
+    <string name="pp_privacy_lab_operator_get_number">Доступ к номеру телефона</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Приложения будут запрашивать разрешение на доступ к номеру телефона для входа в систему</string>
+    <string name="pp_privacy_lab_operator_introduction">Внимание</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">Приложения могут хранить номер телефона. Изменение разрешения не приведет к удалению номера телефона, если он был получен ранее.</string>
     <string name="pp_privacy_protection">Защита</string>
     <string name="pp_privacy_protection_function">Функции защиты конфиденциальности</string>
     <string name="pp_privacy_protection_lab">Лаборатория защиты конфиденциальности</string>
@@ -3316,6 +3333,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_storage_msg">Память устройства</string>
     <string name="pp_understanding_privacy">Действия</string>
     <string name="pp_virtual_identity_manager">Виртуальный ID</string>
+    <string name="pp_virtual_identity_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это защитит конфиденциальность и позволит контролировать отслеживание приложениями ваших действий и предпочтений.</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
     <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>
@@ -3474,7 +3492,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_look_all_permission_status">Все разрешения</string>
     <string name="privacy_look_all_permission_times">Все действия</string>
     <string name="privacy_manage_title">Управление</string>
-    <string name="privacy_mask_summary">Вместо вашего реального идентификатора MIUI предоставит сторонним приложениям виртуальный ID (OAID). Он не позволяет приложениям отслеживать ваши действия и предпочтения, а также защищает вашу конфиденциальность.</string>
+    <string name="privacy_mask_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это не позволит приложениям отслеживать ваши действия и предпочтения и защитит конфиденциальность.</string>
     <string name="privacy_mask_title">Виртуальный ID включен</string>
     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
     <string name="privacy_more_info_title">Узнайте больше о функциях защиты конфиденциальности</string>
