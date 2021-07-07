@@ -120,6 +120,7 @@ call run_copy_translation.bat %1 WallpaperCropper
 call run_copy_translation.bat %1 Weather
 call run_copy_translation.bat %1 WeatherProvider
 call run_copy_translation.bat %1 WfdService
+call run_copy_translation.bat %1 WifiResCommon
 call run_copy_translation.bat %1 wps-lite
 call run_copy_translation.bat %1 XiaomiAccount
 call run_copy_translation.bat %1 XiaomiEUExt

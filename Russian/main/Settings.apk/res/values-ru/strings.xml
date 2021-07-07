@@ -3359,7 +3359,7 @@
     <string name="gadget_picker_title">Выбор гаджета</string>
     <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
-    <string name="gallery_privacy_password_role_instruction">Здесь будут храниться ваши скрытые фотографии</string>
+    <string name="gallery_privacy_password_role_instruction">Для доступа к приватному альбому потяните вниз на вкладке \"Альбомы\"</string>
     <string name="game_booster">Игра;Игры;Турбо;Ускорение игр;Игровой режим</string>
     <string name="game_booster_title">Ускорение игр</string>
     <string name="game_controller_settings_category">Игровые контроллеры</string>
@@ -5272,6 +5272,8 @@
     <string name="nfc_disabled_summary">Недоступно, NFC отключен.</string>
     <string name="nfc_disclaimer_content">Связь малого радиуса действия (NFC) позволяет обмениваться данными с другими устройствами поблизости, например кассовыми терминалами, устройствами доступа, интерактивной рекламой и метками.</string>
     <string name="nfc_disclaimer_title">Включите NFC</string>
+    <string name="nfc_dnd_mode_summary">Отвечать на NFC-метки с ограниченным количеством записей NDEF</string>
+    <string name="nfc_dnd_mode_title">Режим NFC \"Не беспокоить\"</string>
     <string name="nfc_how_it_works_content">Настройте платежное приложение, а затем приложите заднюю панель устройства к терминалу со значком бесконтактной оплаты.</string>
     <string name="nfc_how_it_works_got_it">ОК</string>
     <string name="nfc_how_it_works_title">Как оплатить</string>
@@ -7525,6 +7527,7 @@ UT-интерфейс: %5$s"</string>
 Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить Режим SOS или не использовать его.
 Перед использованием прочитайте и примите наши %s."</string>
     <string name="sos_privacy_dialog_title">Условия использования</string>
+    <string name="sos_privacy_policy">Политика конфиденциальности</string>
     <string name="sound_assist_summary">Настройки параметров звука</string>
     <string name="sound_assist_title">Звуковой помощник</string>
     <string name="sound_category_call_ringtone_vibrate_title">Мелодии и звуки уведомлений</string>
