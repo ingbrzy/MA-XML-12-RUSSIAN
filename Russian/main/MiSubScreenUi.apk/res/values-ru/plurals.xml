@@ -29,15 +29,15 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
     </plurals>
-<!-- ### FROM SOURCE -->
     <plurals name="accessibility_battery_level">
-        <item quantity="other">Battery charge is at %d percent.</item>
-        <item quantity="one">Battery charge is at %d percent.</item>
+        <item quantity="other">Заряд батареи %d процентов.</item>
+        <item quantity="one">Заряд батареи %d процент.</item>
+        <item quantity="few">Заряд батареи %d процента.</item>
     </plurals>
-<!-- ### FROM SOURCE -->
     <plurals name="accessibility_battery_level_charging">
-        <item quantity="other">Charging %d percent</item>
-        <item quantity="one">Charging %d percent</item>
+        <item quantity="other">Заряжено %d процентов</item>
+        <item quantity="one">Заряжено %d процент</item>
+        <item quantity="few">Заряжено %d процента</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
@@ -69,10 +69,10 @@
         <item quantity="one">%d новое уведомление</item>
         <item quantity="few">%d новых уведомления</item>
      </plurals>
-<!-- ### FROM SOURCE -->
     <plurals name="notification_mms">
-        <item quantity="other">%d new messages</item>
-        <item quantity="one">%d new message</item>
+        <item quantity="other">%d новых сообщений</item>
+        <item quantity="one">%d новое сообщение</item>
+        <item quantity="few">%d новых сообщения</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут назад</item>
