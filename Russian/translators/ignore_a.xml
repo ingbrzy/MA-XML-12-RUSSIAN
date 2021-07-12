@@ -307,6 +307,7 @@
     <array name="input_method_function_icons_blue"></array>
     <string-array name="input_method_function_title"></string-array>
     <string-array name="input_package_names"></string-array>
+    <string-array name="international_notification_list"></string-array>
     <array name="item_shake_animation_scaler"></array>
     <string-array name="ivr_type_settings_entries"></string-array>
     <string-array name="ivr_type_settings_values"></string-array>
@@ -324,6 +325,7 @@
     <string-array name="lang_detect"></string-array>
     <string-array name="language_code_list"></string-array>
     <string-array name="language_name_list"></string-array>
+    <array name="light_calling_revolve_light_colors"></array>
     <string-array name="list_language_values"></string-array>
     <string-array name="loan_rulers"></string-array>
     <string-array name="local_white_list"></string-array>
@@ -383,12 +385,14 @@
     <string-array name="months_shortest"></string-array>
     <string-array name="motion_behavior_entry_values"></string-array>
     <integer-array name="muscle_rate_line_chart_default_y"></integer-array>
+    <string-array name="music_app_pkg"></string-array>
     <array name="mw_config_keySystemUuidMapping" />
     <string-array name="nav_bar_button_values"></string-array>
     <string-array name="nav_bar_layouts_values"></string-array>
     <string-array name="navigation_picker_disappear_devices"></string-array>
     <string-array name="network_state_display"></string-array>
     <string-array name="network_state_display_values"></string-array>
+    <string-array name="notification_list"></string-array>
     <string-array name="notification_style_values"></string-array>
     <string-array name="number_key_entries"></string-array>
     <array name="number_value_entries_dark"></array>
@@ -484,6 +488,7 @@
     <string-array name="report_method_entry_values"></string-array>
     <string-array name="reproductivity"></string-array>
     <string-array name="required_monthly_test_range_strings"></string-array>
+    <array name="revolve_default_light_colors"></array>
     <string-array name="rf_key"></string-array>
     <string-array name="rf_value"></string-array>
     <string-array name="screenrecorder_settings_bit_rate_values"></string-array>
@@ -540,6 +545,7 @@
     <array name="small_thunder_2"></array>
     <string-array name="sms_exclude_category"></string-array>
     <string-array name="smtp_host_prefixes"></string-array>
+    <string-array name="smusic_lists"></string-array>
     <string-array name="sogou"></string-array>
     <string-array name="sogou_in_list"></string-array>
     <string-array name="solar_terms"></string-array>
@@ -574,6 +580,7 @@
     <string-array name="st_antispam_notification_show_types"></string-array>
     <string-array name="st_antispam_notification_show_types_value"></string-array>
     <array name="status_bar_show_spn_by_gid_when_airplane" />
+    <string-array name="subscreen_timeout_values"></string-array>
     <integer-array name="subtitle_font_size"></integer-array>
     <string-array name="subtitle_font_title"></string-array>
     <string-array name="super_wallpaper_list_complete_packages"></string-array>

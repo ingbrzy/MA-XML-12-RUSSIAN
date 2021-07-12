@@ -42,6 +42,7 @@ call run_copy_translation.bat %1 HTMLViewer
 call run_copy_translation.bat %1 imssettings
 call run_copy_translation.bat %1 InCallUI
 call run_copy_translation.bat %1 Joyose
+call run_copy_translation.bat %1 MaintenanceMode
 call run_copy_translation.bat %1 ManagedProvisioning
 call run_copy_translation.bat %1 MediaFeature
 call run_copy_translation.bat %1 MediaProvider
@@ -58,6 +59,7 @@ call run_copy_translation.bat %1 MiService
 call run_copy_translation.bat %1 MiSettings
 call run_copy_translation.bat %1 MiShare
 call run_copy_translation.bat %1 MiSound
+call run_copy_translation.bat %1 MiSubScreenUi
 call run_copy_translation.bat %1 MiuiAccessibility
 call run_copy_translation.bat %1 MiuiAod
 call run_copy_translation.bat %1 MiuiBiometric

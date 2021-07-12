@@ -1572,6 +1572,8 @@ ID: %s
     <string name="video_download_fail">Не удалось загрузить видео</string>
     <string name="video_download_fail_hint">Не удалось загрузить</string>
     <string name="video_download_floating_guide">Загрузить видео бесплатно</string>
+<!-- ### FROM SOURCE -->
+    <string name="video_download_folder_title">Загрузки Mi Видео</string>
     <string name="video_download_forbidden">Не удалось загрузить с этого сайта</string>
     <string name="video_download_login_guide">Войдите в %s для возможности загрузки видео</string>
     <string name="video_download_network_error">Ошибка сети</string>
@@ -1595,7 +1597,7 @@ ID: %s
     <string name="video_resolution_mb_size_suffix">%.2f МБ</string>
     <string name="video_resolution_tag_suffix">%dP</string>
     <string name="view">Просмотр</string>
-    <string name="vp_VideoView_error_button">OK</string>
+    <string name="vp_VideoView_error_button">ОК</string>
     <string name="vp_VideoView_error_text_unknown">Произошла ошибка</string>
     <string name="vp_VideoView_error_title">Неизвестная ошибка</string>
     <string name="vp_app_name">Видеоплеер</string>

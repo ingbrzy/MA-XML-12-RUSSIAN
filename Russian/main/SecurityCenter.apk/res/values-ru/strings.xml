@@ -1080,7 +1080,7 @@
     <string name="deleted_apps">Удаленные приложения</string>
     <string name="descx_quick_scan_cancel">Проверка отменена</string>
     <string name="descx_quick_scan_preparation">Подождите…</string>
-    <string name="detail_app_button">Сведения</string>
+    <string name="detail_app_button">О приложении</string>
     <string name="details_subtitle">Подробности</string>
     <string name="device_manager_apply_step_1">Активировать администратора устройства?</string>
     <string name="device_manager_apply_step_2">"Активация администратора устройства для этого приложения может привести к раскрытию ваших личных данных.
@@ -2278,7 +2278,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_item_about_content">Версия: %s</string>
     <string name="menu_item_about_privacy_title">Политика конфиденциальности</string>
     <string name="menu_item_about_summary">Версия: %s</string>
-    <string name="menu_item_about_title">О приложении</string>
+    <string name="menu_item_about_title">Сведения</string>
     <string name="menu_item_app_details">Сведения</string>
     <string name="menu_item_app_permissions_control">Управление разрешениями</string>
     <string name="menu_item_control_app_permissions">Приложения будут запрашивать доступ к разрешениям перед использованием</string>
@@ -4751,6 +4751,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
     <string name="unlock_set_unlock_pin_summary">Введите 4 цифры</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
+    <string name="untrust_app_perm_install_list">Разрешить доступ к списку приложений на устройстве</string>
+    <string name="untrust_app_perm_network">Разрешить подключение к сети</string>
+    <string name="untrust_app_perm_notification">Разрешить уведомления</string>
+    <string name="untrust_app_perm_oaid">Разрешить доступ к виртуальному ID</string>
+    <string name="untrust_app_perm_title">Неизвестный источник</string>
+    <string name="untrust_app_perm_warn">Приложение получено из неизвестного источника и может представлять угрозу безопасности и конфиденциальности. Предоставляйте нижеперечисленные разрешения только после тщательного рассмотрения и по необходимости.</string>
     <string name="updating_diagnostic_botton">Анализ данных…</string>
     <string name="usage_sorted_activity_lable">Расход трафика</string>
     <string name="usage_sorted_empty_text">Пусто</string>

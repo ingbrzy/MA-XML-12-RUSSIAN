@@ -662,6 +662,7 @@
     <string name="app_sees_restricted_accounts_and_controlled_by">Этому приложению разрешен доступ к вашим аккаунтам. Управляется приложением \"%1$s\".</string>
     <string name="app_settings_link">Настройки уведомлений в приложении</string>
     <string name="app_switch_key">Кнопка \"Меню\"</string>
+    <string name="app_uninstall_sounds_enable_title">Звук удаления приложения</string>
     <string name="app_usage_cycle">Цикл использования данных приложения</string>
     <string name="app_usage_preference">Настройки использования приложения</string>
     <string name="app_version">"Версия: "</string>
@@ -1816,7 +1817,11 @@
     <string name="color_game_led_applications_title_summary">Выберите приложения, которые могут использовать светодиод для уведомлений</string>
     <string name="color_game_led_battery_title">Держать включенным во время зарядки</string>
     <string name="color_game_led_charging_summary">Отключить по окончанию зарядки</string>
+    <string name="color_game_led_color_title">Цвет индикатора</string>
     <string name="color_game_led_end_time">Окончание</string>
+    <string name="color_game_led_feature_off">Откл.</string>
+    <string name="color_game_led_feature_on">Вкл.</string>
+    <string name="color_game_led_freq_title">Частота мерцания</string>
     <string name="color_game_led_game_mode_summary">Использовать для эффектов, когда включено Ускорение игр</string>
     <string name="color_game_led_game_mode_title">Использовать в Ускорении игр</string>
     <string name="color_game_led_incall_pulse_title">Мигать при входящих вызовах</string>
@@ -4345,6 +4350,7 @@
     <string name="lock_settings_title">Безопасность устройства</string>
     <string name="lock_settings_with_fingerprint">Блокировка и защита</string>
     <string name="lock_setup">Блокировка настроена.</string>
+    <string name="lock_sound_effect_enable_title">Звук блокировки устройства</string>
     <string name="lock_sounds_enable_title">Звук блокировки экрана</string>
     <string name="lockdown_settings_summary">Добавить в меню кнопки питания функцию, которая отключает Smart Lock, разблокировку отпечатком и уведомления на заблокированном экране</string>
     <string name="lockdown_settings_title">Показать опцию блокировки</string>
@@ -4906,7 +4912,7 @@
     <string name="miui_sos_remind_add">Добавить</string>
     <string name="miui_sos_remind_close">Режим SOS включен. Отключить режим SOS и все связанные с ним функции?</string>
     <string name="miui_sos_remind_close_confirm">Отключить</string>
-    <string name="miui_sos_remind_infocontent">Вы добавлены в качестве моего экстренного контакта. Вы получите сообщение с моим местоположением, если я окажусь в опасности. [Режим Mi SOS]</string>
+    <string name="miui_sos_remind_infocontent">Вы добавлены в качестве моего экстренного контакта. Если я окажусь в опасности, вы получите сообщение с моим местоположением. [Режим Mi SOS]</string>
     <string name="miui_sos_remind_open">Режиму SOS требуется хотя бы 1 экстренный контакт.</string>
     <string name="miui_sos_remind_sendinfo">Не забудьте сообщить этим людям, что они являются вашими экстренными контактами. Так они смогут быстрее помочь вам в случае чрезвычайной ситуации.</string>
     <string name="miui_sos_remind_sendnow">Сообщить</string>
@@ -7886,6 +7892,7 @@ UT-интерфейс: %5$s"</string>
     <string name="stylus_ota_serial_number">Серийный номер</string>
     <string name="stylus_ota_update">Обновить</string>
     <string name="stylus_ota_updating">Обновление…</string>
+    <string name="subscreen_title">Задний экран</string>
     <string name="subscription_available">Доступна</string>
     <string name="sud_back_button_label">Назад</string>
     <string name="sud_more_button_label">Еще</string>
@@ -8362,6 +8369,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
     <string name="unlock_setup_wizard_fingerprint_details">После включения блокировки экрана, перейдите \"Настройки > Пароли и безопасность\", чтобы добавить отпечаток.</string>
+    <string name="unlock_sound_effect_enable_title">Звук разблокировки устройства</string>
     <string name="unlock_type_category_title">Метод распознавания</string>
     <string name="unlogin_account_summary">Все Mi сервисы. Один Mi Аккаунт</string>
     <string name="unlogin_account_title">Вход в Mi Аккаунт</string>
