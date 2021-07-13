@@ -56,8 +56,11 @@
     <string name="adding_attachments_title">Добавление вложений</string>
     <string name="adding_recipients">Добавление получателей…</string>
     <string name="afternoon">После полудня</string>
+    <string name="aim_show_card">Показать карточку</string>
+    <string name="aim_show_original">Показать сообщение</string>
     <string name="alert_dlg_cancel_button">Отмена</string>
-    <string name="alert_dlg_ok_button">OK</string>
+    <string name="alert_dlg_ok_button">ОК</string>
+    <string name="allow">ОК</string>
     <string name="allow_network_hint">Включите \"Обновить информацию автоматически\" или проверьте подключение к сети</string>
     <string name="already_updated">Актуально</string>
     <string name="am">AM</string>
@@ -118,6 +121,7 @@
     <string name="call_sender">Отправитель</string>
     <string name="can_not_send_by_rcs">Невозможно использовать сообщения China Mobile</string>
     <string name="can_not_view_group_chat_stranger">Сведения о незнакомых людях недоступны.</string>
+    <string name="cancel">Отмена</string>
     <string name="cannot_add_picture_and_video">Нельзя добавить изображение и видео на один слайд</string>
     <string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов</string>
     <string name="cannot_forward_drm_obj">Нельзя переслать DRM объект из этого сообщения</string>
@@ -346,6 +350,7 @@
     <string name="from_pkg_name">От приложения:</string>
     <string name="ft_cfs_dialog_content">"Файлы не могут быть доставлены с использованием RCS. Отправить ссылку в текстовом сообщении вместо этого?"</string>
     <string name="ft_cfs_dialog_title">Альтернативная передача файлов</string>
+    <string name="go_close">Настройки</string>
     <string name="go_to">"Открыть "</string>
     <string name="google_message_promo_content">Xiaomi рекомендует перейти на приложение Сообщения от Google. Приложение позволит отправлять текстовые сообщения по Wi-Fi, обмениваться высококачественными медиафайлами и многое другое. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Подробности&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="google_message_promo_title">Обновление приложения</string>
@@ -393,9 +398,15 @@
     <string name="invalid_destination">Неверный адрес получателя</string>
     <string name="invalid_private_contact">Неверный контакт</string>
     <string name="invalid_recipient_message">Убедитесь, что все получатели указаны верно.</string>
+    <string name="invisible_mode_on">Режим инкогнито</string>
     <string name="is_composing">Печатает…</string>
     <string name="kilobyte">" КБ"</string>
     <string name="layout_selector_title">"Макет слайд-шоу "</string>
+    <string name="leave_mms_tips_context_app">Выйти из \"Сообщения\" и открыть приложение?</string>
+    <string name="leave_mms_tips_context_app_name">Выйти из \"Сообщения\" и открыть \"%s\"?</string>
+    <string name="leave_mms_tips_context_browser">Выйти из \"Сообщения\" и открыть веб-браузер?</string>
+    <string name="leave_mms_tips_context_email">Выйти из \"Сообщения\" и открыть почтовый клиент?</string>
+    <string name="leave_mms_tips_context_map">Выйти из \"Сообщения\" и открыть карту?</string>
     <string name="loading_all_messages">Подождите…</string>
     <string name="loading_conversations">Подождите…</string>
     <string name="loading_mms">Подождите…</string>
@@ -726,6 +737,7 @@
     <string name="pref_summary_on_system_mms_priority">Использовать системное приложение для отправки и получения MMS</string>
     <string name="pref_summary_privacy_authority">Используйте переключатель для предоставления или отмены разрешения</string>
     <string name="pref_summary_send_delivery_reports">Отправлять отчет о доставке при получении MMS</string>
+    <string name="pref_summary_switch_aim_card">Отображение сообщений, содержащих видео, изображения и сложное форматирование в виде карточек</string>
     <string name="pref_summary_voice_report">Читать сообщения вслух при поступлении. Для остановки воспроизведения нажмите кнопку уменьшения громкости или кнопку питания.</string>
     <string name="pref_summary_wake_up_screen">Включать подсветку экрана при получении нового сообщения</string>
     <string name="pref_switch_sdk_setting">Сменить поставщика Умных сообщений</string>
@@ -759,6 +771,7 @@
     <string name="pref_title_sms_delete">Максимальное количество SMS</string>
     <string name="pref_title_sms_validity_period">Срок действия SMS</string>
     <string name="pref_title_storage_status">Информация о хранении сообщения</string>
+    <string name="pref_title_switch_aim_card">Преобразование сообщений в карточки</string>
     <string name="pref_title_system_mms_priority">Приложение по умолчанию</string>
     <string name="pref_title_vcard">Отправлять как vCard</string>
     <string name="pref_title_voice_report">Читать сообщения вслух</string>
@@ -1322,6 +1335,9 @@
     <string name="type_to_compose_text_or_leave_blank">Введите сообщение</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">видео</string>
+    <string name="unable_connect_camera">Режим инкогнито: камера недоступна</string>
+    <string name="unable_get_location">Режим инкогнито: сервисы местоположения недоступны</string>
+    <string name="unable_use_microphone">Режим инкогнито: микрофон недоступен</string>
     <string name="undelivered_msg_dialog_body">"Не удалось отправить сообщение.
 Последняя попытка: %s."</string>
     <string name="undelivered_msg_dialog_title">Сообщение не доставлено</string>
