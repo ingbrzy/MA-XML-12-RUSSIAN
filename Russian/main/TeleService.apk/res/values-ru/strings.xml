@@ -1382,6 +1382,8 @@
     <string name="menu_delete">Удалить номер</string>
     <string name="menu_dial">Набрать номер</string>
     <string name="menu_edit">Изменить номер</string>
+    <string name="menu_new_display_open">Открыть в новом окне</string>
+    <string name="menu_pc_open">Открыть на ПК</string>
     <string name="messageCFB">Номер для переадресации, если линия занята</string>
     <string name="messageCFNRc">Номер для переадресации, если абонент недоступен</string>
     <string name="messageCFNRc_kr_kt">"Сетевой сервис для перенаправления всех входящих вызовов и текстовых сообщений на указанный номер, когда вы не можете отвечать на вызовы или ваше устройство выключено. Необходима подписка на этот сервис. Свяжитесь с центром поддержки (114+[Отправить]), чтобы подписаться или отказаться от этого сервиса. Введите *72+[номер для переадресации][Отправить], чтобы включить, или *720[Отправить], чтобы отключить.
@@ -2130,6 +2132,9 @@ UT-интерфейс: %5$s"</string>
     <string name="reject_via_sms">Быстрые ответы</string>
     <string name="reject_via_sms_summary">Показывать кнопку для завершения вызова и отправки SMS</string>
     <string name="reject_via_sms_title">Быстрые ответы</string>
+    <string name="relay_call_answered_by_other_devices">Этот вызов принят на другом устройстве</string>
+    <string name="relay_call_released_due_to_connect_lost">Соединение было потеряно. Продолжайте вызов на отключенном устройстве.</string>
+    <string name="relay_connection_service_label">Встроенная ретрансляция вызова</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="remove">Удалить</string>
     <string name="remove_sip_account">Удалить аккаунт</string>
