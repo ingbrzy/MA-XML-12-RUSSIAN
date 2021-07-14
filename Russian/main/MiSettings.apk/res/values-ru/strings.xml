@@ -704,7 +704,7 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать приложение. Вы можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1s\"&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=\"%2s\"&gt;Политикой конфиденциальности&lt;/a&gt;."&lt;/Data&gt;</string>
     <string name="usage_home_premission_second_summary_new">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить разрешения, вы не сможете использовать приложение. Вы всегда можете отозвать свою авторизацию в меню Время экрана &gt; Настройки &gt; Отключение функции. По дополнительным вопросам о конфиденциальности вы можете связаться по адресу privacy@xiaomi.com</string>
-    <string name="usage_new_home_app_limit_summary">Установите ежедневный лимит для приложения</string>
+    <string name="usage_new_home_app_limit_summary">Ежедневный лимит для приложения</string>
     <string name="usage_new_home_app_limit_title">Лимит времени экрана</string>
     <string name="usage_new_home_average">"Среднее "</string>
     <string name="usage_new_home_avg_usage_day">В среднем в день: %s</string>
@@ -786,7 +786,7 @@
     <string name="usage_state_channel_mouth">За месяц</string>
     <string name="usage_state_channel_week">За неделю</string>
     <string name="usage_state_date">d MMMM</string>
-    <string name="usage_state_device_limit_summary">Установить лимит использования</string>
+    <string name="usage_state_device_limit_summary">Ежедневный лимит использования</string>
     <string name="usage_state_device_limit_title">Лимит для устройства</string>
     <string name="usage_state_device_noti_today_tip_title">C %1$d:00 до %2$d:00</string>
     <string name="usage_state_device_unlock_today_tip_title">C %1$d:00 до %2$d:00</string>
@@ -861,15 +861,15 @@
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Рабочие дни</string>
     <string name="usage_state_work_day_hour_minute">Рабочие дни: %1$d ч. %2$d мин.</string>
-    <string name="usage_stats_device_limit">Ежедневный лимит</string>
-    <string name="usage_stats_device_limit_summary">Установите ежедневный лимит времени экрана</string>
-    <string name="usage_stats_experience_text">Нажмите, чтобы попробовать (1 мин)</string>
+    <string name="usage_stats_device_limit">Лимит времени экрана</string>
+    <string name="usage_stats_device_limit_summary">Ежедневный лимит использования</string>
+    <string name="usage_stats_experience_text">Нажмите, чтобы попробовать (1 мин.)</string>
     <string name="usage_stats_limit_time_accuracy_title">Оценка времени</string>
-    <string name="usage_stats_limit_time_high_accuracy_summary">Точность до минуты (повышенный расход батареи)</string>
-    <string name="usage_stats_limit_time_high_accuracy_summary_new">Точность до минуты (увеличение расхода батареи)</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary">Точность до минуты (расход батареи)</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">Точность до минуты (расхода батареи)</string>
     <string name="usage_stats_limit_time_high_accuracy_title">Высокая точность</string>
-    <string name="usage_stats_limit_time_low_accuracy_summary">Точность до минуты только последние 2 часа</string>
-    <string name="usage_stats_limit_time_low_accuracy_summary_new">Точность до минуты только последние %d ч. (экономия батареи) </string>
+    <string name="usage_stats_limit_time_low_accuracy_summary">Точность до минуты последние 2 часа</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">Точность до минуты последние %d ч. (экономия батареи) </string>
     <string name="usage_stats_limit_time_low_accuracy_title">Низкая точность</string>
     <string name="usage_stats_limit_time_warn">Предупреждать о лимите</string>
     <string name="usage_stats_limit_time_warn_summary">Показывать оставшееся время в шторке уведомлений</string>
