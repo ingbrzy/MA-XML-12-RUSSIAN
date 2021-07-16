@@ -670,7 +670,7 @@
     <string name="usage_device_limit_app_prolong_time3">Добавить 60 минут</string>
     <string name="usage_device_limit_app_prolong_time4">Не ограничивать сегодня</string>
     <string name="usage_device_limit_app_prolong_time5">Добавить время один раз</string>
-    <string name="usage_device_limit_notifation_summary_start">Достижение лимита в %1$s</string>
+    <string name="usage_device_limit_notifation_summary_start">Достижение лимита через %1$s</string>
     <string name="usage_device_limit_notifation_title">Оставшееся время</string>
     <string name="usage_device_limit_time_over">Достигнут лимит на сегодня (%1$s)</string>
     <string name="usage_exit">Выход</string>
@@ -864,13 +864,13 @@
     <string name="usage_stats_device_limit">Лимит времени экрана</string>
     <string name="usage_stats_device_limit_summary">Ежедневный лимит использования</string>
     <string name="usage_stats_experience_text">Нажмите, чтобы попробовать (1 мин.)</string>
-    <string name="usage_stats_limit_time_accuracy_title">Оценка времени</string>
+    <string name="usage_stats_limit_time_accuracy_title">Точность оценки времени</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Точность до минуты (расход батареи)</string>
     <string name="usage_stats_limit_time_high_accuracy_summary_new">Точность до минуты (расход батареи)</string>
-    <string name="usage_stats_limit_time_high_accuracy_title">Высокая точность</string>
+    <string name="usage_stats_limit_time_high_accuracy_title">Высокая</string>
     <string name="usage_stats_limit_time_low_accuracy_summary">Точность до минуты последние 2 часа</string>
     <string name="usage_stats_limit_time_low_accuracy_summary_new">Точность до минуты последние %d ч. (экономия батареи) </string>
-    <string name="usage_stats_limit_time_low_accuracy_title">Низкая точность</string>
+    <string name="usage_stats_limit_time_low_accuracy_title">Низкая</string>
     <string name="usage_stats_limit_time_warn">Предупреждать о лимите</string>
     <string name="usage_stats_limit_time_warn_summary">Показывать оставшееся время в шторке уведомлений</string>
     <string name="usage_stats_limit_time_warn_title">Предупреждение</string>
@@ -891,7 +891,7 @@
     <string name="usagestats_app_category_miui_medicine">Здоровье</string>
     <string name="usagestats_app_category_miui_news">Новости</string>
     <string name="usagestats_app_category_miui_photo">Фото</string>
-    <string name="usagestats_app_category_miui_productivity">Продуктивность</string>
+    <string name="usagestats_app_category_miui_productivity">Офис</string>
     <string name="usagestats_app_category_miui_reading">Чтение</string>
     <string name="usagestats_app_category_miui_shopping">Магазины</string>
     <string name="usagestats_app_category_miui_social">Соцсети</string>
