@@ -27,6 +27,10 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="accessible_cancel">Отмена</string>
+    <string name="accessible_ellipse">Овал</string>
+    <string name="accessible_irregular">Произвольная форма</string>
+    <string name="accessible_rect">Прямоугольник</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_name">Скриншот</string>
@@ -131,6 +135,9 @@
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
     <string name="partial_screenshot_edit">Изменить </string>
+    <string name="partial_screenshot_failed_to_capture_title">Скриншот запрещен</string>
+    <string name="partial_screenshot_failed_to_save_title">Недостаточно места для нового скриншота</string>
+    <string name="partial_screenshot_insert_failed">Не удалось сохранить скриншот</string>
     <string name="partial_screenshot_repaint">Повторить</string>
     <string name="partial_screenshot_save">Сохранить</string>
     <string name="partial_screenshot_save_successful">Сохранено</string>
@@ -176,6 +183,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="take_screenshot">Весь экран</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

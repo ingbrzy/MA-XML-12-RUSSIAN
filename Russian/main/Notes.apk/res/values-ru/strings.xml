@@ -386,6 +386,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Введите текст "</string>
     <string name="note_mindnote_entrance_icon_text">Ментальная карта</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Ментальная карта</string>
+    <string name="note_not_text_stub">Текст отсутствует</string>
     <string name="note_sort_way">Сортировка</string>
     <string name="notealert_enter">Открыть заметку</string>
     <string name="notealert_ok">Закрыть</string>
@@ -668,6 +669,7 @@
     <string name="toast_notes_hidden_count">Скрыто: %1$s</string>
     <string name="toast_notes_hidden_edit">Заметка успешно скрыта. Потяните вниз для просмотра скрытых заметок.</string>
     <string name="toast_notes_hidden_home">Заметка успешно скрыта. Потяните вниз для просмотра скрытых заметок.</string>
+    <string name="toast_notes_hidden_pad">Заметка успешно скрыта. Потяните вниз боковую панель для просмотра скрытых заметок.</string>
     <string name="toast_notes_unhidden">Скрытие заметки отменено</string>
     <string name="toast_pic_is_not_really">Сохранение изображения…</string>
     <string name="toast_reach_text_limit_attachment">Невозможно прикрепить файл. Нет свободного места в заметке.</string>
@@ -778,7 +780,10 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="widget_content_loading">Подождите…</string>
+    <string name="widget_create_select_size">Выбор размера</string>
+    <string name="widget_empty_content">Нажмите для выбора заметки</string>
     <string name="widget_havenot_content">Нажмите для создания заметки. Удерживайте виджет для изменения размера.</string>
+    <string name="widget_note_list_page_title">Выбор заметки</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
