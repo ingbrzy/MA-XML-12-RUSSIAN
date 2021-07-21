@@ -2981,7 +2981,7 @@
     <string name="every_day">Ежедневно</string>
     <string name="exceptional_case">Исключения</string>
     <string name="expand_button_title">Дополнительные</string>
-    <string name="expandable_under_keyguard_title">Показывать на экране блокировки</string>
+    <string name="expandable_under_keyguard_title">Доступ с экрана блокировки</string>
     <string name="experimental_category_title">Экспериментальные функции</string>
     <string name="experimental_preference">(экспериментальная настройка)</string>
     <string name="expert_detail_content_description">Подробности</string>
@@ -3190,6 +3190,8 @@
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключиться к Интернету с помощью Wi-Fi.</string>
     <string name="firmware_version">Версия Android</string>
+    <string name="fiveg_sa_switch_summary">Использовать сеть SA на вторичной SIM-карте (только для тестирования)</string>
+    <string name="fiveg_sa_vice_switch_title">SA на вторичной SIM-карте</string>
     <string name="flash_drive_backup_disable">Подключите USB-накопитель</string>
     <string name="flash_drive_backup_enable">Используйте USB-накопитель для резервного копирования</string>
     <string name="flash_drive_backup_restore">USB-накопитель</string>
@@ -4121,7 +4123,7 @@
     <string name="launch_noapp_dialog_replace"/>
     <string name="launch_notification_center">Шторка уведомлений</string>
     <string name="launch_recents">Вызов Недавних</string>
-    <string name="launch_smarthome">Xiaomi Quick Connect</string>
+    <string name="launch_smarthome">Xiaomi Magic Control</string>
     <string name="launch_voice_assistant">Голосовой помощник</string>
     <string name="launch_wechat_health_code">Код состояния WeChat</string>
     <string name="launch_wechat_health_code_auto_close">Ярлык кода состояния WeChat не доступен. Вы можете переключиться на другой ярлык.</string>
@@ -7894,6 +7896,8 @@ UT-интерфейс: %5$s"</string>
     <string name="style_suggestion_title">Персонализация Pixel</string>
     <string name="stylus_ota_check_update">Проверить обновления</string>
     <string name="stylus_ota_current_firmware_version">Версия прошивки</string>
+    <string name="stylus_ota_demands">Устройство и стилус должны быть подключены по Bluetooth и заряжены как минимум на %1$ на протяжении всего обновления.</string>
+    <string name="stylus_ota_download_failed">Не удалось загрузить прошивку</string>
     <string name="stylus_ota_downloading_firmware">Загрузка прошивки</string>
     <string name="stylus_ota_firmware_update">Обновление прошивки</string>
     <string name="stylus_ota_hardware_version">Версия оборудования</string>
@@ -7901,7 +7905,9 @@ UT-интерфейс: %5$s"</string>
     <string name="stylus_ota_model">Модель</string>
     <string name="stylus_ota_new_version">Обновление</string>
     <string name="stylus_ota_serial_number">Серийный номер</string>
+    <string name="stylus_ota_timeout_failed">Время сессии истекло</string>
     <string name="stylus_ota_update">Обновить</string>
+    <string name="stylus_ota_update_failed">Не удалось обновить прошивку</string>
     <string name="stylus_ota_updating">Обновление…</string>
     <string name="subscreen_title">Задний экран</string>
     <string name="subscription_available">Доступна</string>
