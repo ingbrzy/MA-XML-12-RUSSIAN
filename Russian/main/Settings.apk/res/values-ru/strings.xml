@@ -1934,9 +1934,9 @@
     <string name="confirm_action">OK</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Mi Аккаунта</string>
     <string name="confirm_convert_to_fbe_warning">Удалить пользовательские данные и перейти к шифрованию?</string>
-    <string name="confirm_device_credential_password">Ввести пароль</string>
-    <string name="confirm_device_credential_pattern">Ввести графический ключ</string>
-    <string name="confirm_device_credential_pin">Ввести PIN-код</string>
+    <string name="confirm_device_credential_password">Введите пароль</string>
+    <string name="confirm_device_credential_pattern">Введите графический ключ</string>
+    <string name="confirm_device_credential_pin">Введите PIN-код</string>
     <string name="confirm_download_cancelation_dialog_message">Отменить загрузку?</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
@@ -3129,7 +3129,7 @@
     <string name="fingerprint_for_keyguard_disabled">Использование отпечатков отключено из соображений безопасности.</string>
     <string name="fingerprint_gesture_screen_title">Сканер отпечатков</string>
     <string name="fingerprint_gxzw_add_fingerprint_finish">Сохранен как \"%s\"</string>
-    <string name="fingerprint_identify_input_password_msg">Ввести пароль</string>
+    <string name="fingerprint_identify_input_password_msg">Введите пароль</string>
     <string name="fingerprint_identify_msg">Чтение отпечатка…</string>
     <string name="fingerprint_identify_try_again_msg">Отпечаток не распознан, повторите попытку</string>
     <string name="fingerprint_intro_error_max">Вы уже добавили максимальное количество отпечатков</string>
@@ -6370,7 +6370,7 @@ UT-интерфейс: %5$s"</string>
     <string name="remove_managed_profile_label">Удалить рабочий профиль</string>
     <string name="repeat">Повтор</string>
     <string name="repeat_call">Повторные вызовы</string>
-    <string name="repeat_call_info">Не отключать звук и вибрацию при вызовах от тех же контактов в течение %d мин. в режиме \"Не беспокоить\"</string>
+    <string name="repeat_call_info">Не отключать звук и вибрацию при вызовах от тех же контактов в режиме \"Не беспокоить\" в течение %d мин.</string>
     <string name="repeat_days_in_week">Повтор</string>
     <string name="repeat_never">Никогда</string>
     <string name="repeat_title">Повторить</string>
@@ -7554,7 +7554,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_dashboard_summary">Звук, вибрация, режим \"Не беспокоить\"</string>
     <string name="sound_effects_enable_title">Звук нажатия на экран</string>
     <string name="sound_haptic_settings">Звук и виброотклик</string>
-    <string name="sound_mode">Режимы \"Без звука\" и \"Не беспокоить\"</string>
+    <string name="sound_mode">Режим \"Без звука\"</string>
     <string name="sound_settings">Громкость</string>
     <string name="sound_settings_example_summary">Громкость звонка: 80%</string>
     <string name="sound_settings_summary">Громкость звонка: %1$s</string>
@@ -9911,7 +9911,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_schedule_rule_days_all">Каждый день</string>
     <string name="zen_mode_schedule_rule_days_none">–</string>
     <string name="zen_mode_schedule_title">Расписание</string>
-    <string name="zen_mode_screen_locked_only">Включить при блокировке</string>
+    <string name="zen_mode_screen_locked_only">Включать при блокировке</string>
     <string name="zen_mode_screen_off">При отключенном экране</string>
     <string name="zen_mode_screen_off_summary">Не включать экран и световой индикатор для уведомлений, отключенных в режиме \"Не беспокоить\"</string>
     <string name="zen_mode_screen_off_summary_no_led">Не включать экран для уведомлений, отключенных в режиме \"Не беспокоить\"</string>
