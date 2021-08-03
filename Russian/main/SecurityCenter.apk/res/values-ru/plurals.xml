@@ -961,6 +961,21 @@
         <item quantity="one">Удален %d вирус</item>
         <item quantity="few">Удалено %d вируса</item>
     </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Осталось %d попыток ввода PUK для SIM-карты. При достижении лимита попыток SIM-карта будет аннулирована. Продолжить?</item>
+        <item quantity="one">Осталась %d попытка ввода PUK для SIM-карты. При достижении лимита попыток SIM-карта будет аннулирована. Продолжить?</item>
+        <item quantity="few">Осталось %d попытки ввода PUK для SIM-карты. При достижении лимита попыток SIM-карта будет аннулирована. Продолжить?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Некорректный PIN-код. Осталось %d попыток.</item>
+        <item quantity="one">Некорректный PIN-код. Осталась %d попытка.</item>
+        <item quantity="few">Некорректный PIN-код. Осталось %d попытки.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Введите SIM PUK. Осталось %d попыток.</item>
+        <item quantity="one">Введите SIM PUK. Осталась %d попытка.</item>
+        <item quantity="few">Введите SIM PUK. Осталось %d попытки.</item>
+    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">Защищено %s платежных приложений</item>
         <item quantity="one">Защищено %s платежное приложение</item>
@@ -1049,6 +1064,11 @@
         <item quantity="other">%1$d просмотров</item>
         <item quantity="one">%1$d просмотр</item>
         <item quantity="few">%1$d просмотра</item>
+    </plurals>
+<!-- ### FROM SOURCE -->
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Clear %d selected apps?</item>
+        <item quantity="one">Clear %d selected app?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Опасных приложений: %d</item>

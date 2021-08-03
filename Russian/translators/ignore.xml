@@ -2725,6 +2725,11 @@
     <string name="mars_view_height_0">287.3 km</string>
     <string name="mars_view_height_1">256.7 km</string>
     <string name="mars_view_height_2">286.2 km</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="max_sleep_time">%d</string>
     <string name="media_size_l">L</string>
     <string name="mediasize_default">ISO_A4</string>

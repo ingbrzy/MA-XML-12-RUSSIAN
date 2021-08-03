@@ -327,6 +327,11 @@
         <item quantity="one">Всего %1$d файл</item>
         <item quantity="few">Всего %1$d файла</item>
     </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Поворот на %d градусов</item>
+        <item quantity="one">Поворот на %d градус</item>
+        <item quantity="few">Поворот на %d градуса</item>
+    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d дней</item>
         <item quantity="one">%d день</item>
@@ -542,13 +547,33 @@
         <item quantity="other">Оптимизировано %d фото</item>
         <item quantity="one">Оптимизировано %d фото</item>
     </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Оптимизировано %d фото</item>
+        <item quantity="one">Оптимизировано %d фото</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Оптимизировано %d видео</item>
+        <item quantity="one">Оптимизировано %d видео</item>
+    </plurals>
     <plurals name="slim_exit_dialog_message">
         <item quantity="other">%d фото не оптимизировано. Остановить?</item>
         <item quantity="one">%d фото не оптимизировано. Остановить?</item>
     </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+    </plurals>
     <plurals name="slim_remain_photo_count">
         <item quantity="other">Осталось %d фото</item>
         <item quantity="one">Осталось %d фото</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">Осталось оптимизировать %d фото</item>
+        <item quantity="one">Осталось оптимизировать %d фото</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">Не выгружено %d фото или видео</item>
@@ -574,6 +599,11 @@
     <plurals name="synced_videos_count">
         <item quantity="other">Синхронизировано %d видео</item>
         <item quantity="one">Синхронизировано %d видео</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s элементов</item>
+        <item quantity="one">%1$s, %2$s элемент</item>
+        <item quantity="few">%1$s, %2$s элемента</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">Вы не сможете восстановить %d выбранных фото. Все равно удалить?</item>
