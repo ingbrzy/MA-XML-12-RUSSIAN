@@ -272,6 +272,10 @@ ID:%s
     <string name="mibi_giftcard_with_num">&lt;Data&gt;&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Купон Mi Coin доступен&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="mibi_header_network_error">Не удалось подключиться к сети.</string>
     <string name="mibi_illegal_intent">Запрос о незаконном умысле</string>
+    <string name="mibi_incognito_mode_dialog_cancel">Отмена</string>
+    <string name="mibi_incognito_mode_dialog_summary_camera">Камера недоступна. Отключите режим инкогнито в настройках.</string>
+    <string name="mibi_incognito_mode_dialog_title">Режим инкогнито</string>
+    <string name="mibi_incognito_mode_dialog_to_close">Настройки</string>
     <string name="mibi_is_what">Что можно купить с Mi Coins?</string>
     <string name="mibi_label_balance">Баланс</string>
     <string name="mibi_label_giftcard">Подарочная карта</string>
@@ -586,8 +590,8 @@ ID:%s
     <string name="passport_error_sim_not_ready">SIM-карта не найдена</string>
     <string name="passport_error_ssl_hand_shake">Не удалось подключиться к серверу</string>
     <string name="passport_error_unknown">Ошибка авторизации</string>
-    <string name="passport_error_user_agreement_error">Сначала согласитесь с условиями</string>
-    <string name="passport_error_user_name">Неверное имя пользователя.</string>
+    <string name="passport_error_user_agreement_error">Примите условия и положения</string>
+    <string name="passport_error_user_name">Неверное имя пользователя</string>
     <string name="passport_error_verify_activator_phone_message">Убедитесь, что SIM-карта активирована и устройство подключено к сети.</string>
     <string name="passport_error_verify_activator_phone_title">Не удалось проверить номер телефона</string>
     <string name="passport_failed_to_send_activate_email">Не удалось отправить письмо активации</string>

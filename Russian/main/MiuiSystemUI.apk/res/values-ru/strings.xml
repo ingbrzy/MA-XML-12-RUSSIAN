@@ -1055,8 +1055,6 @@
     <string name="fingerprint_not_recognized">Отпечаток не распознан</string>
     <string name="fingerprint_try_again_msg">Отпечаток не распознан, повторите попытку</string>
     <string name="fingerprint_try_again_text">Повторите попытку</string>
-    <string name="fiveg_sa_switch_summary">Использовать сеть SA на вторичной SIM-карте (только для тестирования)</string>
-    <string name="fiveg_sa_vice_switch_title">SA на вторичной SIM-карте</string>
     <string name="float_incall_ignore">Игнорировать</string>
     <string name="float_incall_message">Сообщение</string>
     <string name="float_notification_snooze_strategy">Скрытие всплывающих уведомлений</string>
@@ -1318,6 +1316,7 @@
     <string name="keyguard_carrier_name_with_sim_locked_template" formatted="false">%s (%s)</string>
     <string name="keyguard_charged">Батарея заряжена</string>
     <string name="keyguard_charging_back_to_lockscreen">Назад к экрану блокировки</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">Ускорение зарядки %s</string>
     <string name="keyguard_charging_info_battery_used_time_text">Без подзарядки</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>

@@ -3025,7 +3025,7 @@
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
     <string name="face_data_suggesstion_first">Разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью.</string>
-    <string name="face_data_suggesstion_second">Убедитесь, что лицо видно отчетливо</string>
+    <string name="face_data_suggesstion_second">Убедитесь, что лицо хорошо видно и равномерно освещено, избегайте прямого света, не надевайте аксессуары.</string>
     <string name="face_intro_error_max">Добавлено максимальное количество лиц</string>
     <string name="face_intro_error_unknown">Не удалось добавить данные лица</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
@@ -7896,7 +7896,7 @@ UT-интерфейс: %5$s"</string>
     <string name="style_suggestion_title">Персонализация Pixel</string>
     <string name="stylus_ota_check_update">Проверить обновления</string>
     <string name="stylus_ota_current_firmware_version">Версия прошивки</string>
-    <string name="stylus_ota_demands">Устройство и стилус должны быть подключены по Bluetooth и заряжены как минимум на %1$ на протяжении всего обновления.</string>
+    <string name="stylus_ota_demands">Не выключайте Bluetooth во время обновления. Убедитесь, что заряд батареи не ниже %1$s.</string>
     <string name="stylus_ota_download_failed">Не удалось загрузить прошивку</string>
     <string name="stylus_ota_downloading_firmware">Загрузка прошивки</string>
     <string name="stylus_ota_firmware_update">Обновление прошивки</string>
