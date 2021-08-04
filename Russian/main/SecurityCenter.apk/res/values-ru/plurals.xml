@@ -1065,10 +1065,10 @@
         <item quantity="one">%1$d просмотр</item>
         <item quantity="few">%1$d просмотра</item>
     </plurals>
-<!-- ### FROM SOURCE -->
     <plurals name="virus_clear_dialog_content">
-        <item quantity="other">Clear %d selected apps?</item>
-        <item quantity="one">Clear %d selected app?</item>
+        <item quantity="other">Удалить %d выбранных приложений?</item>
+        <item quantity="one">Удалить %d выбранное приложение?</item>
+        <item quantity="few">Удалить %d выбранных приложения?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Опасных приложений: %d</item>
