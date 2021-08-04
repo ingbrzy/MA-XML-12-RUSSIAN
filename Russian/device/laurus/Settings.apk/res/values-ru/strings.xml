@@ -1934,9 +1934,9 @@
     <string name="confirm_action">OK</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Mi Аккаунта</string>
     <string name="confirm_convert_to_fbe_warning">Удалить пользовательские данные и перейти к шифрованию?</string>
-    <string name="confirm_device_credential_password">Ввести пароль</string>
-    <string name="confirm_device_credential_pattern">Ввести графический ключ</string>
-    <string name="confirm_device_credential_pin">Ввести PIN-код</string>
+    <string name="confirm_device_credential_password">Введите пароль</string>
+    <string name="confirm_device_credential_pattern">Введите графический ключ</string>
+    <string name="confirm_device_credential_pin">Введите PIN-код</string>
     <string name="confirm_download_cancelation_dialog_message">Отменить загрузку?</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
@@ -2557,6 +2557,7 @@
     <string name="disable_overlays">Отключить наложение</string>
     <string name="disable_overlays_summary">Всегда использовать GPU при компоновке экрана</string>
     <string name="disable_power_key_long_press_under_keyguard">Отключить меню кнопки \"Питание\"</string>
+    <string name="disable_quick_start">Отключить быстрый запуск</string>
     <string name="disable_service_message">Нажмите %1$s для остановки %2$s.</string>
     <string name="disable_service_title">Остановка сервиса 
 %1$s</string>
@@ -2833,6 +2834,7 @@
     <string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
     <string name="enable_quick_setting">Показывать в быстрых настройках</string>
+    <string name="enable_quick_start">Включить быстрый запуск</string>
     <string name="enable_receiving_mms_notification_title">Входящее MMS-сообщение</string>
     <string name="enable_screen_projection_summary">Вывод на внешний монитор</string>
     <string name="enable_sending_mms_notification_title">Не удалось отправить MMS-сообщение</string>
@@ -3025,7 +3027,7 @@
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
     <string name="face_data_suggesstion_first">Разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью.</string>
-    <string name="face_data_suggesstion_second">Убедитесь, что лицо видно отчетливо</string>
+    <string name="face_data_suggesstion_second">Убедитесь, что лицо хорошо видно и равномерно освещено, избегайте прямого света, не надевайте аксессуары.</string>
     <string name="face_intro_error_max">Добавлено максимальное количество лиц</string>
     <string name="face_intro_error_unknown">Не удалось добавить данные лица</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
@@ -3129,7 +3131,7 @@
     <string name="fingerprint_for_keyguard_disabled">Использование отпечатков отключено из соображений безопасности.</string>
     <string name="fingerprint_gesture_screen_title">Сканер отпечатков</string>
     <string name="fingerprint_gxzw_add_fingerprint_finish">Сохранен как \"%s\"</string>
-    <string name="fingerprint_identify_input_password_msg">Ввести пароль</string>
+    <string name="fingerprint_identify_input_password_msg">Введите пароль</string>
     <string name="fingerprint_identify_msg">Чтение отпечатка…</string>
     <string name="fingerprint_identify_try_again_msg">Отпечаток не распознан, повторите попытку</string>
     <string name="fingerprint_intro_error_max">Вы уже добавили максимальное количество отпечатков</string>
@@ -3193,7 +3195,7 @@
     <string name="fiveg_sa_switch_summary">Использовать сеть SA на вторичной SIM-карте (только для тестирования)</string>
     <string name="fiveg_sa_vice_switch_title">SA на вторичной SIM-карте</string>
     <string name="flash_drive_backup_disable">Подключите USB-накопитель</string>
-    <string name="flash_drive_backup_enable">Используйте USB-накопитель для резервного копирования</string>
+    <string name="flash_drive_backup_enable">Используйте USB-накопитель для резервного копирования или восстановления</string>
     <string name="flash_drive_backup_restore">USB-накопитель</string>
     <string name="flash_drive_backup_restore_summary">Подключите USB-накопитель</string>
     <string name="flashback_background_start_switch_summary">Автоматически создавать карточки с основными сведениями о приложениях, когда они работают в фоновом режиме</string>
@@ -3563,6 +3565,8 @@
     <string name="headset_find_tip_title">Внимание</string>
     <string name="headset_find_title">Поиск наушников</string>
     <string name="headset_find_voice_warning">Предупреждение о высокой громкости</string>
+    <string name="headset_head_tracking_desc">Регулировка объемного звука движением головы</string>
+    <string name="headset_head_tracking_title">Отслеживание движения головы</string>
     <string name="headset_notification_switch_summary">Отображать статус на виджете в шторке уведомлений при подключении наушников</string>
     <string name="headset_notification_switch_title">Виджет в шторке уведомлений</string>
     <string name="headset_remove_message">Отменить сопряжение?</string>
@@ -5671,6 +5675,7 @@ OTG отключается автоматически через 10 минут �
     <string name="pad_backup_summary">Резервное копирование и восстановление на этом устройстве</string>
     <string name="pad_backup_title">Мобильное устройство</string>
     <string name="pad_computer_backup_summary">Резервное копирование и восстановление с использованием компьютера</string>
+    <string name="pad_flash_drive_backup_enable">Используйте USB-накопитель для резервного копирования или восстановления</string>
     <string name="pad_how_backup_content">"Способы резервного копирования:
 
 Резервные копии можно сохранить локально или в облаке. Локальные резервные копии можно сохранить на мобильном устройстве, ПК или USB-накопителе.
@@ -7554,7 +7559,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_dashboard_summary">Звук, вибрация, режим \"Не беспокоить\"</string>
     <string name="sound_effects_enable_title">Звук нажатия на экран</string>
     <string name="sound_haptic_settings">Звук и виброотклик</string>
-    <string name="sound_mode">Режимы \"Без звука\" и \"Не беспокоить\"</string>
+    <string name="sound_mode">Режим \"Без звука\"</string>
     <string name="sound_settings">Громкость</string>
     <string name="sound_settings_example_summary">Громкость звонка: 80%</string>
     <string name="sound_settings_summary">Громкость звонка: %1$s</string>
@@ -7894,15 +7899,22 @@ UT-интерфейс: %5$s"</string>
     <string name="style_and_wallpaper_settings_title">Стили и обои</string>
     <string name="style_suggestion_summary">Попробуйте различные стили, обои, часы и прочее</string>
     <string name="style_suggestion_title">Персонализация Pixel</string>
+    <string name="stylus_ota_check_failed_battery">Не удалось проверить. Батарея стилуса разряжена.</string>
+    <string name="stylus_ota_check_failed_info">Не удалось проверить версию прошивки. Подключите стилус.</string>
     <string name="stylus_ota_check_update">Проверить обновления</string>
+    <string name="stylus_ota_completed">Успешно обновлено</string>
+    <string name="stylus_ota_completed_tip">Прошивка успешно обновлена. Подключите стилус.</string>
     <string name="stylus_ota_current_firmware_version">Версия прошивки</string>
-    <string name="stylus_ota_demands">Устройство и стилус должны быть подключены по Bluetooth и заряжены как минимум на %1$ на протяжении всего обновления.</string>
+    <string name="stylus_ota_demands">Не выключайте Bluetooth во время обновления. Убедитесь, что заряд батареи не ниже %1$s.</string>
     <string name="stylus_ota_download_failed">Не удалось загрузить прошивку</string>
     <string name="stylus_ota_downloading_firmware">Загрузка прошивки</string>
+    <string name="stylus_ota_firmware_info">Прошивка</string>
     <string name="stylus_ota_firmware_update">Обновление прошивки</string>
     <string name="stylus_ota_hardware_version">Версия оборудования</string>
+    <string name="stylus_ota_hava_new_version">"Новая версия: "</string>
     <string name="stylus_ota_latest">Обновление не требуется</string>
     <string name="stylus_ota_model">Модель</string>
+    <string name="stylus_ota_net_error">Не удалось проверить наличие обновлений. Подключитесь к сети и повторите попытку.</string>
     <string name="stylus_ota_new_version">Обновление</string>
     <string name="stylus_ota_serial_number">Серийный номер</string>
     <string name="stylus_ota_timeout_failed">Время сессии истекло</string>
@@ -7944,6 +7956,10 @@ UT-интерфейс: %5$s"</string>
     <string name="supplicant_state_label">Статус подключения:</string>
     <string name="support_summary">Справочные статьи, поддержка по телефону и в чате</string>
     <string name="sure_sync_now">Синхронизировать объекты?</string>
+    <string name="surround_sound_all_desc">Усиление глубины звука для наушников и динамиков</string>
+    <string name="surround_sound_only_headset_desc">Усиление глубины звука для наушников</string>
+    <string name="surround_sound_only_speaker_desc">Усиление глубины звука для динамиков</string>
+    <string name="surround_sound_title">Объемный звук</string>
     <string name="suw_back_button_label">Назад</string>
     <string name="suw_more_button_label">Ещё</string>
     <string name="suw_next_button_label">Далее</string>
@@ -9911,7 +9927,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_schedule_rule_days_all">Каждый день</string>
     <string name="zen_mode_schedule_rule_days_none">–</string>
     <string name="zen_mode_schedule_title">Расписание</string>
-    <string name="zen_mode_screen_locked_only">Включить при блокировке</string>
+    <string name="zen_mode_screen_locked_only">Включать при блокировке</string>
     <string name="zen_mode_screen_off">При отключенном экране</string>
     <string name="zen_mode_screen_off_summary">Не включать экран и световой индикатор для уведомлений, отключенных в режиме \"Не беспокоить\"</string>
     <string name="zen_mode_screen_off_summary_no_led">Не включать экран для уведомлений, отключенных в режиме \"Не беспокоить\"</string>
