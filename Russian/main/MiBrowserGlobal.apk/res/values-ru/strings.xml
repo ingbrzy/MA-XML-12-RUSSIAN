@@ -568,7 +568,8 @@
     <string name="debug_feed_title">Тест ленты</string>
     <string name="debug_jump_title">Переход на страницу</string>
     <string name="debug_mediation_title">Общий тест sdk</string>
-    <string name="debug_mode_toast">Режим отладки включен</string>
+    <string name="debug_mode_toast">Включен режим отладки</string>
+    <string name="debug_youtube_file">Отладка файла YouTube</string>
     <string name="debug_youtube_in_release">Отладка youtube в релизе</string>
     <string name="deeplink_intrercept_hint">Нажмите всплывающее окно, чтобы открыть приложение</string>
     <string name="deeplink_intrercept_second_hint">Веб-сайт откроет приложение, которое было заблокировано</string>
@@ -1313,6 +1314,27 @@ ID:%s
     <string name="mw_copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
     <string name="mw_crash_label">Сбой (%1$s) - [%2$s]</string>
     <string name="mw_crash_report_button_text">Отправить доп. информацию</string>
+    <string name="mw_crash_report_template">"ВАЖНО: сбой уже автоматически зафиксирован в системе сбоев. Заполнение формы необходимо только в том случае, если можете поделиться дополнительной информацией, например, шагами по воспроизведению сбоя.
+
+Имя устройства:
+Версия ОС Android:
+Версия WebView (На Android L-M это версия приложения \"Android System WebView\". На Android N-P, скорее всего, это версия Chrome. Вы можете найти версию любого приложения в разделе Настройки > Приложения > 3 точки в правом верхнем углу > Показать системные):
+Приложение: (Если возможно, дайте ссылку на страницу приложения в Play Store, нажав на 3 точки в правом верхнем углу > Поделиться. Либо найдите приложение в Play Store: https://play.google.com/store/apps .)
+Версия приложения:
+
+
+Шаги для воспроизведения:
+(1)
+(2)
+(3)
+
+
+Ожидаемый результат:
+(Что должно было произойти?)
+
+
+****НЕ МЕНЯЙТЕ НИЧЕГО НИЖЕ ЭТОЙ СТРОКИ****
+ID сбоя: http://crash/%1$s"</string>
     <string name="mw_crashes_list_activity_title">Сбои WebView</string>
     <string name="mw_crashes_num">Сбои (%1$d)</string>
     <string name="mw_current_detected_ui_locale_name">ru-RU</string>

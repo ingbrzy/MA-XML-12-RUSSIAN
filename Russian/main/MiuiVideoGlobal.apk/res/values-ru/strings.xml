@@ -384,6 +384,7 @@ ID: %s
     <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Mi аккаунтом</string>
     <string name="failed_to_fetch_data">Не удалось загрузить данные.</string>
     <string name="failure">Не удалось загрузить</string>
+    <string name="favor_movie">Фильмы</string>
     <string name="favor_online_video">Видео</string>
     <string name="favor_playlist">Плейлисты</string>
     <string name="favorite">Избранное</string>
@@ -519,6 +520,8 @@ ID: %s
 
 1. Доступ к памяти
 2. Доступ к ID устройства"</string>
+    <string name="galleryplus_permission_content_opt">Для нормальной работы Mi Video предоставьте необходимые разрешения. Выполните очистку данных приложения и снова откройте приложение.</string>
+    <string name="galleryplus_permission_content_xms">Для нормальной работы Mi Video предоставьте необходимые разрешения</string>
     <string name="galleryplus_permission_open_settings">Настройки</string>
     <string name="galleryplus_permission_refuse">Нет, спасибо</string>
     <string name="galleryplus_permission_retry">Разрешения</string>
@@ -632,6 +635,9 @@ ID: %s
     <string name="logo_neverthink">Куратор Neverthink.tv</string>
     <string name="logout">Выход</string>
     <string name="logout_account">Выход</string>
+    <string name="long_video_no_more_content">Больше ничего нет</string>
+    <string name="long_video_watch_on">Смотреть дальше</string>
+    <string name="long_video_you_may_also_like">Также может понравиться</string>
     <string name="lp_base_folder">SD-карта</string>
     <string name="lp_play_mode_list_loop">Повторять все</string>
     <string name="lp_play_mode_pause">Однократно</string>
@@ -911,6 +917,7 @@ ID: %s
     <string name="open_settings">Настройки</string>
     <string name="order_recently_subscribe">Новые подписки</string>
     <string name="order_recently_updated">Недавние</string>
+    <string name="out_of_memory_background_playback_is_suspended">Фоновое воспроизведение приостановлено из-за нехватки памяти</string>
     <string name="ovp_alert_dialog_download_install_task">Загрузка HD плагина…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Буферизация…</string>
     <string name="ovp_category">Категории</string>

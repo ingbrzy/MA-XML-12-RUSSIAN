@@ -2562,6 +2562,7 @@
     <string name="disable_service_title">Остановка сервиса 
 %1$s</string>
     <string name="disable_text">Отключить</string>
+    <string name="disable_uft">Включить uft</string>
     <string name="disable_wifi_hotspot_title">Не использовать точку доступа Wi-Fi</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Раздавать интернет только по Bluetooth и Ethernet</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">Раздавать интернет только по Bluetooth</string>
@@ -2849,6 +2850,7 @@
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_text">Включить</string>
+    <string name="enable_uft">Отключить uft</string>
     <string name="enable_verbose_vendor_logging">Журналы поставщиков</string>
     <string name="enable_verbose_vendor_logging_summary">Включение дополнительных журналов поставщиков конкретных устройств в отчеты об ошибках</string>
     <string name="enable_wifi_display">Беспроводной дисплей</string>
@@ -7952,6 +7954,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sunlight_mode">Дневной режим</string>
     <string name="sunlight_mode_summary">Использовать регулировку при ярком освещении, когда автояркость отключена</string>
+    <string name="sunlight_mode_summary_new">Использовать регулировку при ярком освещении. В верхней части экрана появится небольшой значок солнца.</string>
     <string name="supl_not_set">&lt;Не настроено&gt;</string>
     <string name="supplicant_state_label">Статус подключения:</string>
     <string name="support_summary">Справочные статьи, поддержка по телефону и в чате</string>
