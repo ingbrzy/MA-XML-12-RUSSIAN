@@ -1738,8 +1738,8 @@
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_animation_style_lollipop">Поток</string>
     <string name="charge_animation_style_none">Нет</string>
-    <string name="charge_animation_style_summary">Выбор анимации зарядки на экране блокировки</string>
-    <string name="charge_animation_style_title">Анимация зарядки</string>
+    <string name="charge_animation_style_summary">Выбор вида анимации зарядки</string>
+    <string name="charge_animation_style_title">Вид анимации</string>
     <string name="charge_animation_style_video">Свечение</string>
     <string name="charge_animation_style_wave">Волна</string>
     <string name="charge_length_format">%1$s назад</string>
@@ -2562,6 +2562,7 @@
     <string name="disable_service_title">Остановка сервиса 
 %1$s</string>
     <string name="disable_text">Отключить</string>
+    <string name="disable_uft">Включить uft</string>
     <string name="disable_wifi_hotspot_title">Не использовать точку доступа Wi-Fi</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Раздавать интернет только по Bluetooth и Ethernet</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">Раздавать интернет только по Bluetooth</string>
@@ -2826,7 +2827,8 @@
     <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
     <string name="enable_local_backup">Включить</string>
     <string name="enable_local_backup_cancel">Отмена</string>
-    <string name="enable_local_backup_message">Включение этой функции позволяет создавать локальные резервные копии на устройстве, которые можно скопировать на ПК или USB-устройство. Включить?</string>
+    <string name="enable_local_backup_message">Функция позволяет создавать локальные резервные копии на устройстве, которые можно скопировать на ПК или USB-устройство. Включить?</string>
+    <string name="enable_local_backup_message_intledition">Функция позволяет создавать локальные резервные копии на устройстве, которые можно скопировать на ПК. Включить?</string>
     <string name="enable_local_backup_ok">ОК</string>
     <string name="enable_local_backup_title">Локальное резервное копирование</string>
     <string name="enable_mms_notification_channel_title">MMS-сообщение</string>
@@ -2849,6 +2851,7 @@
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_text">Включить</string>
+    <string name="enable_uft">Отключить uft</string>
     <string name="enable_verbose_vendor_logging">Журналы поставщиков</string>
     <string name="enable_verbose_vendor_logging_summary">Включение дополнительных журналов поставщиков конкретных устройств в отчеты об ошибках</string>
     <string name="enable_wifi_display">Беспроводной дисплей</string>
@@ -7208,7 +7211,12 @@ UT-интерфейс: %5$s"</string>
     <string name="settings_backup">Создать резервную копию настроек</string>
     <string name="settings_backup_summary">Резервная копия настроек.</string>
     <string name="settings_button">Настройки</string>
-    <string name="settings_forbidden_message">Эта настройка ограничена</string>
+    <string name="settings_charging_at_fast_speed">Быстрая зарядка</string>
+    <string name="settings_charging_at_normal_speed">Зарядка</string>
+    <string name="settings_charging_at_top_speed">Зарядка на макс. скорости</string>
+    <string name="settings_charging_fully_charged">Полностью заряжено</string>
+    <string name="settings_charging_not_charging">Без зарядки</string>
+    <string name="settings_forbidden_message">Настройка ограничена</string>
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_license_activity_loading">Загрузка…</string>
@@ -7283,7 +7291,7 @@ UT-интерфейс: %5$s"</string>
 на иконке"</string>
     <string name="show_carrier_under_keyguard_title">Оператор на экране блокировки</string>
     <string name="show_charging_in_non_lockscreen_animation">Анимация зарядки</string>
-    <string name="show_charging_in_non_lockscreen_animation_summary">Отображать анимацию зарядки после разблокировки устройства и скрывать при воспроизведении видео или полноэкранных сцен</string>
+    <string name="show_charging_in_non_lockscreen_animation_summary">Отображать анимацию зарядки после разблокировки устройства и скрывать при воспроизведении видео или в полноэкранных сценах</string>
     <string name="show_connected_devices_summary">Просмотр подключенных устройств</string>
     <string name="show_connected_devices_title">Подключенные устройства</string>
     <string name="show_dev_already">Не нужно, вы уже разработчик</string>
@@ -7952,6 +7960,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sunlight_mode">Дневной режим</string>
     <string name="sunlight_mode_summary">Использовать регулировку при ярком освещении, когда автояркость отключена</string>
+    <string name="sunlight_mode_summary_new">Использовать регулировку при ярком освещении. В верхней части экрана появится небольшой значок солнца.</string>
     <string name="supl_not_set">&lt;Не настроено&gt;</string>
     <string name="supplicant_state_label">Статус подключения:</string>
     <string name="support_summary">Справочные статьи, поддержка по телефону и в чате</string>
