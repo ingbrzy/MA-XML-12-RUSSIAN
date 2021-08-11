@@ -2827,7 +2827,8 @@
     <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
     <string name="enable_local_backup">Включить</string>
     <string name="enable_local_backup_cancel">Отмена</string>
-    <string name="enable_local_backup_message">Включение этой функции позволяет создавать локальные резервные копии на устройстве, которые можно скопировать на ПК или USB-устройство. Включить?</string>
+    <string name="enable_local_backup_message">Функция позволяет создавать локальные резервные копии на устройстве, которые можно скопировать на ПК или USB-устройство. Включить?</string>
+    <string name="enable_local_backup_message_intledition">Функция позволяет создавать локальные резервные копии на устройстве, которые можно скопировать на ПК. Включить?</string>
     <string name="enable_local_backup_ok">ОК</string>
     <string name="enable_local_backup_title">Локальное резервное копирование</string>
     <string name="enable_mms_notification_channel_title">MMS-сообщение</string>
@@ -7210,7 +7211,12 @@ UT-интерфейс: %5$s"</string>
     <string name="settings_backup">Создать резервную копию настроек</string>
     <string name="settings_backup_summary">Резервная копия настроек.</string>
     <string name="settings_button">Настройки</string>
-    <string name="settings_forbidden_message">Эта настройка ограничена</string>
+    <string name="settings_charging_at_fast_speed">Быстрая зарядка</string>
+    <string name="settings_charging_at_normal_speed">Зарядка</string>
+    <string name="settings_charging_at_top_speed">Зарядка на макс. скорости</string>
+    <string name="settings_charging_fully_charged">Полностью заряжено</string>
+    <string name="settings_charging_not_charging">Без зарядки</string>
+    <string name="settings_forbidden_message">Настройка ограничена</string>
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_license_activity_loading">Загрузка…</string>

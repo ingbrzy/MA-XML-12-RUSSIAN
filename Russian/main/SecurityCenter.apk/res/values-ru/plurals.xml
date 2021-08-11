@@ -171,6 +171,16 @@
         <item quantity="one">Будет защищено %s приложение</item>
         <item quantity="few">Будет защищено %s приложения</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d приложений, включая %1$s</item>
+        <item quantity="one">%2$d приложение, включая %1$s</item>
+        <item quantity="few">%2$d приложения, включая %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d раз</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d раза</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d приложений с подключением к сети в фоновом режиме</item>
         <item quantity="one">%d приложение с подключением к сети в фоновом режиме</item>

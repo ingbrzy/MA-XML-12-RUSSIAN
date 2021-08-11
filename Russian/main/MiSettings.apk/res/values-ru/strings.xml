@@ -153,6 +153,10 @@
     <string name="dc_light_hint_other">Включение DC dimming может повлиять на частоту обновления и отображение некоторых элементов.</string>
     <string name="dc_lignt_enable_hint">Для устранения мерцания частота обновления экрана будет переключена на 60 Гц. Переключить?</string>
     <string name="delete_first_to_add_animal">Удалите какой-либо из элементов для добавления нового</string>
+    <string name="desktop_widget_authorization">Нажмите, чтобы предоставить разрешения для просмотра статистики</string>
+    <string name="desktop_widget_not_support">"Статистика времени экрана 
+не генерируется для второго пространства"</string>
+    <string name="desktop_widget_screen_use_time">Время экрана</string>
     <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
     <string name="dynamic_ringtone_desc">Мы исследовали различные экосистемы и воссоздали их особенные звуки. Начните изучать звуки природы вместе с нами!</string>
@@ -642,6 +646,7 @@
     <string name="unlock_times_per_day">"В среднем за день: "</string>
     <string name="unlock_times_per_hour">"В среднем в час: "</string>
     <string name="usage_agree">Принимаю</string>
+    <string name="usage_app_desktop_widget_limit">Осталось %s</string>
     <string name="usage_app_get_it">Понятно</string>
     <string name="usage_app_holiday_limit">Выходные дни</string>
     <string name="usage_app_limit_alter_summary">Устанавливаемый лимит меньше времени использования приложения сегодня. Все равно установить лимит?</string>

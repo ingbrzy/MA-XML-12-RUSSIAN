@@ -825,9 +825,14 @@
     <string name="battery_status_unknown">Неизвестная ошибка</string>
     <string name="battery_temperature_title">Температура</string>
     <string name="begin_date">Дата начала учета</string>
-    <string name="best_booster_status">Ускорение игр включено</string>
-    <string name="best_warning_dialog_button">Я знаю</string>
-    <string name="best_warning_dialog_title">Совет</string>
+    <string name="behavior_widget_get_installed_apps">Доступ к приложениям</string>
+    <string name="behavior_widget_get_location">Доступ к местоположению</string>
+    <string name="behavior_widget_read_clipboard">Доступ к буферу обмена</string>
+    <string name="behavior_widget_read_contact">Доступ к контактам</string>
+    <string name="behavior_widget_read_write_external_storage">Доступ к файлам</string>
+    <string name="best_booster_status">Наилучшая скорость игры на данный момент</string>
+    <string name="best_warning_dialog_button">Понятно</string>
+    <string name="best_warning_dialog_title">Подсказка</string>
     <string name="bg_network_exception_title">Фоновые подключения</string>
     <string name="bill_limit_notification_text_format">Карта: %1$s | Баланс: %2$s CNY</string>
     <string name="bill_limit_notification_title">Недостаточно средств</string>
@@ -1860,9 +1865,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_operat_frequently">Не так быстро!</string>
     <string name="gb_performance_balance">Сбалансированный</string>
     <string name="gb_performance_high">Производительный</string>
-    <string name="gb_performance_mode">Режим производительности</string>
-    <string name="gb_performance_tips">"Производительный режим может улучшить производительность устройства,
-а также увеличит энергопотребление и тепловыделение, поэтому длительное использование не рекомендуется."</string>
+    <string name="gb_performance_mode">Игровой режим</string>
+    <string name="gb_performance_tips">"Длительное использование производительного режима
+может привести к повышенному разряду батареи и перегреву"</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
     <string name="gb_shoulder_key">Навесные триггеры</string>
     <string name="gb_shoulder_key_add_show_btn">Показывать виртуальные кнопки во время игр</string>
@@ -1899,6 +1904,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_storage_game_uninstall">Удаление игр</string>
     <string name="gb_storage_summary">Не показывать на рабочем столе игры, которые добавлены в Ускорение игр</string>
     <string name="gb_storage_title">Скрытие игр</string>
+    <string name="gb_turbo_collimator_subtitle">Используйте устройство для прицеливания</string>
+    <string name="gb_turbo_macro_subtitle">Играйте на высоком уровне</string>
+    <string name="gb_turbo_new_flag">НОВОЕ</string>
+    <string name="gb_turbo_shoulder_subtitle">Настройте элементы управления</string>
+    <string name="gb_turbo_time_subtitle">Засеките время игровых сессий</string>
+    <string name="gb_turbo_voice_subtitle">Оживите разговоры</string>
+    <string name="gb_turbo_wonder_subtitle">Запишите ключевые моменты</string>
+    <string name="gb_voice_change_audition_tip">Демо</string>
     <string name="gb_voice_change_settinged">Синтезатор голоса включен</string>
     <string name="gb_voice_changer_cartoon">Мультик</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Продлите подписку для обратной связи в реальном времени</string>
@@ -1941,6 +1954,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_voice_changer_user_status_remain_time">Оставшееся время: %s</string>
     <string name="gb_voice_changer_user_status_renew">Возобновить</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Срок действия подписки истек. Продлите подписку!</string>
+    <string name="gb_voice_changer_user_vip_expired">Срок действия истек</string>
+    <string name="gb_voice_changer_user_vip_remain_time">Дата окончания: %s</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">Записывайте ключевые моменты ваших игровых сессий</string>
     <string name="gb_wonderful_video_cancel">Отмена</string>
     <string name="gb_wonderful_video_checkall">Выбрать все</string>
@@ -2019,6 +2034,17 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_dialog_title_smart_5g">Оптимизация сети 5G</string>
     <string name="gtb_exit_game_to_gtb">Открыть Ускорение игр</string>
     <string name="gtb_exit_game_to_home">Вернуться на рабочий стол</string>
+    <string name="gtb_guide_finish">Пропустить</string>
+    <string name="gtb_guide_gtb_button_done">Готово</string>
+    <string name="gtb_guide_gtb_community_desc">Обмен опытом с другими игроками</string>
+    <string name="gtb_guide_gtb_community_title">Сообщество</string>
+    <string name="gtb_guide_gtb_func_desc">Повысьте уровень игры</string>
+    <string name="gtb_guide_gtb_func_title">Ускорение игр</string>
+    <string name="gtb_guide_gtb_game_effected">Применено</string>
+    <string name="gtb_guide_gtb_game_new">Новое</string>
+    <string name="gtb_guide_gtb_line_new">Повысьте уровень игры с помощью совершенно нового Ускорения игр!</string>
+    <string name="gtb_guide_small_window_app_desc">Использование других приложений во время игры</string>
+    <string name="gtb_guide_small_window_app_title">Плавающие окна</string>
     <string name="gtb_setting_item_summary_smart_5g">При обнаружении сети 5G, устройство будет переключено на лучшую доступную сеть для уменьшения задержек сети</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Увеличение скорости соединения на 10-20% при подключении к роутерам Mi/Redmi</string>
     <string name="gtb_setting_item_title_brightness">Автоматическое снижение яркости экрана</string>
@@ -5133,7 +5159,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_policeassist_noti_send">Поделиться местоположением с полицией</string>
     <string name="warningcenter_policeassist_noti_title">Поделиться местоположением во время экстренных вызовов</string>
     <string name="warningcenter_policeassist_open_btn">Включить</string>
-    <string name="warningcenter_policeassist_open_content">Автоматически отправлять информацию о своем местоположении в полицию с помощью SMS или через интернет время звонка на номер 110, 120, 119, 122 или 12122."</string>
+    <string name="warningcenter_policeassist_open_content">Автоматически отправлять информацию о своем местоположении в полицию с помощью SMS или через интернет время звонка на номер 110, 120, 119 или 122."</string>
     <string name="warningcenter_policeassist_open_title">Поделиться местоположением с полицией во время экстренных вызовов</string>
     <string name="warningcenter_policeassist_privacy"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="warningcenter_policeassist_title">Местоположение при экстренной ситуации</string>
