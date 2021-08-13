@@ -130,12 +130,12 @@
     <string name="accessibility_magnification_service_settings_title">Настройки увеличения</string>
     <string name="accessibility_manual_zen_less_time">Уменьшить время.</string>
     <string name="accessibility_manual_zen_more_time">Увеличить время.</string>
-    <string name="accessibility_menu_description">"Доступ к дополнительным ярлыкам управления устройством.
+    <string name="accessibility_menu_description">"Меню спец. возможностей предоставляет удобный доступ к функциям управления устройством.
 
-Включите эту функцию и нажмите иконку человечка на панели экранных кнопок."</string>
+Включите эту функцию и нажмите кнопку \"Спец. возможности\" на панели экранных кнопок."</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
-    <string name="accessibility_menu_service_name">Дополнительные ярлыки</string>
-    <string name="accessibility_menu_summary">Доступ к дополнительным ярлыкам управления устройством на панели экранных кнопок</string>
+    <string name="accessibility_menu_service_name">Меню спец. возможностей</string>
+    <string name="accessibility_menu_summary">Доступ функциям спец. возможностей на панели экранных кнопок</string>
     <string name="accessibility_more_settings">Дополнительные настройки</string>
     <string name="accessibility_no_service_selected">Сервис не выбран</string>
     <string name="accessibility_no_services_installed">Сервисы не установлены</string>
@@ -180,7 +180,7 @@
     <string name="accessibility_service_action_perform_title">Отслеживание и выполнение действий</string>
     <string name="accessibility_service_default_description">Нет описания</string>
     <string name="accessibility_service_master_open_title">Открыть %1$s</string>
-    <string name="accessibility_service_master_switch_title">Использование сервиса</string>
+    <string name="accessibility_service_master_switch_title">Сервис %1$s</string>
     <string name="accessibility_service_screen_control_description">Чтение содержимого на экране и отображение поверх других приложений.</string>
     <string name="accessibility_service_screen_control_title">Просмотр и управление экраном</string>
     <string name="accessibility_service_warning">%1$s запрашивает полный контроль над этим устройством. Сервис может читать содержимое экрана и взаимодействовать от имени пользователя.</string>
@@ -192,9 +192,9 @@
     <string name="accessibility_settings_tabs_hearing">Слух</string>
     <string name="accessibility_settings_tabs_physical">Физические</string>
     <string name="accessibility_settings_tabs_visual">Зрение</string>
-    <string name="accessibility_settings_title">Настройки специальных возможностей</string>
-    <string name="accessibility_shortcut_description">Чтобы использовать функцию специальных возможностей, когда она включена, нажмите и удерживайте несколько секунд обе кнопки громкости.</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_hardware">Нажмите и удерживайте обе кнопки громкости</string>
+    <string name="accessibility_settings_title">Настройки спец. возможностей</string>
+    <string name="accessibility_shortcut_description">Запуск функции спец. возможностей на экране блокировки нажатием и удержанием кнопок громкости несколько секунд</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_hardware">Нажмите и удерживайте кнопки громкости</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software">"Нажмите кнопку спец. возможностей %s внизу экрана.
 
 Для переключения между функциями, нажмите и удерживайте кнопку спец. возможностей."</string>
@@ -213,10 +213,10 @@
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Тройное касание</string>
     <string name="accessibility_shortcut_edit_summary_software">Кнопка спец. возможностей</string>
     <string name="accessibility_shortcut_hardware_keyword">удержание кнопок громкости</string>
-    <string name="accessibility_shortcut_service_on_lock_screen_title">Разрешить на заблокированном экране</string>
-    <string name="accessibility_shortcut_service_title">Быстрое включение сервиса</string>
-    <string name="accessibility_shortcut_settings">Настройка ярлыков</string>
-    <string name="accessibility_shortcut_title">%1$s</string>
+    <string name="accessibility_shortcut_service_on_lock_screen_title">Запуск на экране блокировки</string>
+    <string name="accessibility_shortcut_service_title">Быстрый вызов сервиса</string>
+    <string name="accessibility_shortcut_settings">Настройки</string>
+    <string name="accessibility_shortcut_title">Вызов %1$s</string>
     <string name="accessibility_shortcut_triple_tap_keyword">тройное касание</string>
     <string name="accessibility_shortcut_type_hardware">Удержание кнопок громкости</string>
     <string name="accessibility_shortcut_type_software">Кнопка спец. возможностей</string>
