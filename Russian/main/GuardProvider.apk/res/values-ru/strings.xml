@@ -37,6 +37,12 @@
     <string name="default_sdcard_volume_path"/>
     <string name="hello_world">Привет, мир!</string>
     <string name="menu_settings">Настройки</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="tencent_dialog_cloudscan">Названия и данные приложений будут загружаться на сервер и проверяться на наличие вирусов.</string>
     <string name="tencent_dialog_dbupdate">Автоматическое обновление базы антивируса</string>
     <string name="tencent_dialog_header">При использовании функции ID вашего устройства шифруется и отправляется на серверы Tencent (%s).</string>

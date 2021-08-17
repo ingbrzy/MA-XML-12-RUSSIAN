@@ -64,10 +64,10 @@
     <string name="backup_warning_reason_app_usage_denied">"Не удалось синхронизировать данные.
 Требуются разрешения."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">Не удалось создать резервную копию</string>
-    <string name="backup_warning_reason_disk_space_not_enough">"Недостаточно места.
-Не удалось создать резервную копию."</string>
-    <string name="backup_warning_reason_network_error">"Ошибка сети.
-Не удалось создать резервную копию."</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"Не удалось создать резервную копию.
+Недостаточно места."</string>
+    <string name="backup_warning_reason_network_error">"Не удалось создать резервную копию.
+Ошибка сети."</string>
     <string name="backup_warning_reason_no_server_response">"Соединение прервано.
 Повторите попытку."</string>
     <string name="btn_back">Назад</string>
@@ -156,7 +156,7 @@
     <string name="confirm_cancel_restore_title">Отменить восстановление?</string>
     <string name="confirm_restore">Восстановить</string>
     <string name="confirm_restore_app_data">Перезапись данных</string>
-    <string name="confirm_restore_app_data_summary">При восстановлении текущие данные WeChat будen перезаписаны. Продолжить?</string>
+    <string name="confirm_restore_app_data_summary">На устройстве уже есть данные WeChat. Перезаписать их данными из резервной копии?</string>
     <string name="confirm_restore_summary">Рабочий стол будет перезапущен. Приложения из бэкапа будут добавлены автоматически.</string>
     <string name="confirm_restore_title">Восстановление</string>
     <string name="copy">Копировать</string>
@@ -381,6 +381,8 @@
     <string name="restore_init_description">Запуск восстановления</string>
     <string name="restore_network_pause">Приостановлено (используется мобильный интернет). Нажмите для возобновления.</string>
     <string name="restore_network_unconnect">%s (ожидание подключения)</string>
+    <string name="restore_prepare_item_type_enable">Доступные резервные копии</string>
+    <string name="restore_prepare_item_type_other">Другие резервные копии</string>
     <string name="restore_task_cancelling">Отмена…</string>
     <string name="restore_task_in_process">Восстановление…</string>
     <string name="restore_task_unfinished">"Не удалось восстановить"</string>
@@ -396,8 +398,8 @@
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Поиск</string>
     <string name="selected">Выбрано</string>
-    <string name="self_device_main_space">Первое пространство этого устройства</string>
-    <string name="self_device_second_space">Второе пространство этого устройства</string>
+    <string name="self_device_main_space">Первое пространство</string>
+    <string name="self_device_second_space">Второе пространство</string>
     <string name="send">Отправить</string>
     <string name="settings_backup">Настройки системы</string>
     <string name="size_unknown">Размер неизвестен</string>
