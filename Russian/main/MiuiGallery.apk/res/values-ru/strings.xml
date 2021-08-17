@@ -464,6 +464,9 @@
     <string name="clip_speedX_3.0x">3.0X</string>
     <string name="close">Закрыть</string>
     <string name="close_dialog_desc">Закрыть окно диалога</string>
+    <string name="cloud_action_open">Включить</string>
+    <string name="cloud_action_upgrade">Обновить</string>
+    <string name="cloud_action_view">Просмотр</string>
     <string name="cloud_authorize_to_share_to_device">Авторизуйтесь для просмотра на ТВ, связанных с Mi Аккаунтом</string>
     <string name="cloud_authorizing_to_device">Авторизация…</string>
     <string name="cloud_backup_enable_title">Синхронизировать</string>
@@ -935,7 +938,9 @@
     <string name="filter_popular_coffee">Кофе</string>
     <string name="filter_popular_coldsmoke">Прохладный туман</string>
     <string name="filter_popular_comic">Аниме</string>
+    <string name="filter_popular_cyan">Барвинок</string>
     <string name="filter_popular_dream">Мечты</string>
+    <string name="filter_popular_french">Монмартр</string>
     <string name="filter_popular_freshfood">Гурман</string>
     <string name="filter_popular_gingertea">Имбирь</string>
     <string name="filter_popular_hill">Холмы</string>
@@ -945,6 +950,7 @@
     <string name="filter_popular_lnk">Чернила</string>
     <string name="filter_popular_mango">Манго</string>
     <string name="filter_popular_pinellia">Пинеллия</string>
+    <string name="filter_popular_polaroid">Полароид</string>
     <string name="filter_popular_purple">Пурпур</string>
     <string name="filter_popular_shallow_summer">Июнь</string>
     <string name="filter_popular_smokegreen">Шалфей</string>
@@ -1706,6 +1712,11 @@
     <string name="photo_editor_crop_auto_tips">Обрезано автоматически</string>
     <string name="photo_editor_crop_reset">Сбросить</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
+    <string name="photo_editor_crop_size_former_latter" formatted="false">%d:%d</string>
+    <string name="photo_editor_crop_size_free">Произвольный</string>
+    <string name="photo_editor_crop_size_fullscreen">Весь экран</string>
+    <string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
+    <string name="photo_editor_crop_size_origin">Исходный</string>
     <string name="photo_editor_doodle">Эскиз</string>
     <string name="photo_editor_filter">Эффекты</string>
     <string name="photo_editor_font_default">Mi Lanting (стандартный)</string>
@@ -1826,6 +1837,7 @@
     <string name="photo_purge_dialog_message_video">Вы не сможете восстановить видео, если удалите их. Удалить?</string>
     <string name="photo_save_to_msg">Сохранено в %s</string>
     <string name="photo_size_not_support">Это разрешение изображения не поддерживается</string>
+    <string name="photo_video_count">%1$s и %2$s</string>
     <string name="photo_vlog_module_finish">Видеоредактор загружен</string>
     <string name="photo_vlog_module_loading">Загрузка видеоредактора…</string>
     <string name="photodetail_failed_already_exist">Файл уже существует</string>
@@ -2070,6 +2082,21 @@
     <string name="screen_save_dialog_btn_cancel">Отмена</string>
     <string name="screen_save_dialog_btn_delete">Удалить скриншот</string>
     <string name="screen_save_dialog_btn_save">Сохранить в Галерее</string>
+    <string name="screen_talkback_a_little_large">Большой</string>
+    <string name="screen_talkback_a_little_small">Маленький</string>
+    <string name="screen_talkback_alpha_x">Прозрачность %s</string>
+    <string name="screen_talkback_color_x">Цвет %d</string>
+    <string name="screen_talkback_eraser">Ластик</string>
+    <string name="screen_talkback_large">Очень большой</string>
+    <string name="screen_talkback_mark">Маркер</string>
+    <string name="screen_talkback_medium">Средний</string>
+    <string name="screen_talkback_mosaic">Мозаика</string>
+    <string name="screen_talkback_mosaic_size_x">Область мозаики: %s</string>
+    <string name="screen_talkback_pen">Перо</string>
+    <string name="screen_talkback_row_x_column_x">Строка %1$d. Столбец %2$d.</string>
+    <string name="screen_talkback_shape">Форма</string>
+    <string name="screen_talkback_small">Очень маленький</string>
+    <string name="screen_talkback_text">Текст</string>
     <string name="search_backup_full_screen">Включите синхронизацию с облаком для поиска объектов и людей</string>
     <string name="search_backup_full_screen_new">Включите синхронизацию с облаком, чтобы сделать поиск более эффективным</string>
     <string name="search_backup_now">Включить</string>
