@@ -470,10 +470,10 @@
     <string name="app_manager_manage_space">Очистить</string>
     <string name="app_manager_memory">ОЗУ</string>
     <string name="app_manager_menu_clear_data">Очистить</string>
-    <string name="app_manager_mobile_slot1">3G/4G (SIM 1)</string>
-    <string name="app_manager_mobile_slot2">3G/4G (SIM 2)</string>
+    <string name="app_manager_mobile_slot1">Моб. интернет (SIM 1)</string>
+    <string name="app_manager_mobile_slot2">Моб. интернет (SIM 2)</string>
     <string name="app_manager_net_control_title">Сетевые подключения</string>
-    <string name="app_manager_net_mobile">3G/4G</string>
+    <string name="app_manager_net_mobile">Мобильный интернет</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_not_allow">Нет</string>
     <string name="app_manager_open_show_all_apps_immediate">Показать все результаты</string>
@@ -505,7 +505,7 @@
     <string name="app_manager_show_all_apps_opened">Показ результатов для всех приложений…</string>
     <string name="app_manager_show_detail_infos">Показать все</string>
     <string name="app_manager_start_by">Запущено приложением %s</string>
-    <string name="app_manager_system_mobile_disable">Запретить 3G/4G</string>
+    <string name="app_manager_system_mobile_disable">Запретить моб. интернет</string>
     <string name="app_manager_tab_app">Приложения</string>
     <string name="app_manager_tab_manager">Управление</string>
     <string name="app_manager_thumbnail_blur_summary">Размывать миниатюру приложения в Недавних</string>
@@ -526,7 +526,7 @@
     <string name="app_manager_updater_notify_message">Обновите приложения для доступа к новым функциям</string>
     <string name="app_managere_not_have_app">Пусто</string>
     <string name="app_manger_des_separator">", "</string>
-    <string name="app_mobile">3G/4G</string>
+    <string name="app_mobile">Мобильный интернет</string>
     <string name="app_name">Защита приложений</string>
     <string name="app_name_na">Трафик</string>
     <string name="app_name_securitycenter">Безопасность</string>
@@ -1531,11 +1531,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="firewall_applist">Приложения</string>
     <string name="firewall_fragment_nonesys_listempty">Список пуст</string>
     <string name="firewall_fragment_sys_listempty">Список пуст</string>
-    <string name="firewall_mobile">3G/4G</string>
+    <string name="firewall_mobile">Моб. интернет</string>
     <string name="firewall_mobile_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключиться к интернету по мобильной сети.</string>
     <string name="firewall_network_allow">Приложение %1$s может использовать %2$s подключение</string>
     <string name="firewall_network_restrict_notify_message">Нажмите для изменения настроек.</string>
-    <string name="firewall_network_restrict_notify_mobile">Мобильный трафик</string>
+    <string name="firewall_network_restrict_notify_mobile">Мобильный интернет</string>
     <string name="firewall_partial">Разрешить некоторым приложениям подключение следующим способом</string>
     <string name="firewall_restrict_all">Запретить всем приложениям подключение следующим способом</string>
     <string name="firewall_restrict_android_dialog_content">Для обеспечения нормальной работы вашего устройства некоторые приложения будут подключаться к интернету. Они будут использовать мобильный интернет и могут расходовать незначительное количество трафика.</string>
@@ -2246,7 +2246,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="main_button_mi_sim_close">Активировать Mi SIM</string>
     <string name="main_button_mi_sim_open">Подробности</string>
     <string name="main_button_usage_adjust">Синхронизировать данные</string>
-    <string name="main_button_usage_adjust_manual">Ввести расход</string>
+    <string name="main_button_usage_adjust_manual">Ввод израсходованного трафика</string>
     <string name="main_button_usage_adjusting">Изменение…</string>
     <string name="main_button_usage_adjusting_bill">Изменение…</string>
     <string name="main_button_usage_package_setting">Установить лимит</string>
@@ -2956,7 +2956,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_with_SMS_and_MMS">Доступ к SMS и MMS</string>
     <string name="permission_with_call_and_contact">Доступ к контактам и вызовам</string>
     <string name="permission_with_read_write_clipboard">Доступ к буферу обмена и изменение содержимого</string>
-    <string name="permit_running_network">Фоновое подключение</string>
+    <string name="permit_running_network">Фоновый трафик</string>
     <string name="person_hotpot">Мобильные точки доступа</string>
     <string name="phone">Телефон</string>
     <string name="phone_manage">Утилиты</string>

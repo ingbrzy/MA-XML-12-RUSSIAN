@@ -137,10 +137,10 @@
         <item>Tencent карта</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Вчера (3G/4G) "</item>
-        <item>"Сегодня (3G/4G) "</item>
-        <item>"За прошлый месяц (3G/4G) "</item>
-        <item>"За месяц (3G/4G) "</item>
+        <item>"Вчера (моб. интернет) "</item>
+        <item>"Сегодня (моб. интернет) "</item>
+        <item>"За прошлый месяц (моб. интернет) "</item>
+        <item>"За месяц (моб. интернет) "</item>
         <item>"Вчера (Wi-Fi) "</item>
         <item>"Сегодня (Wi-Fi) "</item>
         <item>"За прошлый месяц (Wi-Fi) "</item>
@@ -197,8 +197,8 @@
         <item>При блокировке или через минуту после выхода из приложения</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Трафик 3G/4G "</item>
-        <item>"Трафик Wi-Fi "</item>
+        <item>"мобильный трафик "</item>
+        <item>"Wi-Fi трафик "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
         <item>Важно: некоторые системные приложения могут работать неправильно.</item>
@@ -273,7 +273,7 @@
         <item>Безлимитный тариф</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Трафик 3G/4G "</item>
-        <item>"Трафик Wi-Fi "</item>
+        <item>"мобильный трафик "</item>
+        <item>"Wi-Fi трафик "</item>
     </string-array>
 </resources>

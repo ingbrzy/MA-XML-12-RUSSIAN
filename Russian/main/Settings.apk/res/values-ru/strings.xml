@@ -626,7 +626,7 @@
     <string name="app_list_memory_use">Приложения</string>
     <string name="app_list_preference_none">Нет</string>
     <string name="app_memory_use">Использование памяти</string>
-    <string name="app_mobile">3G/4G</string>
+    <string name="app_mobile">Мобильный интернет</string>
     <string name="app_name">Настройки</string>
     <string name="app_name_label">Приложение</string>
     <string name="app_name_na">Передача данных</string>
@@ -2255,7 +2255,7 @@
     <string name="data_usage_empty">В этот период не было трафика от приложений.</string>
     <string name="data_usage_enable_3g">Передача данных по сетям 2G/3G</string>
     <string name="data_usage_enable_4g">Передача данных 4G</string>
-    <string name="data_usage_enable_mobile">Моб. Интернет</string>
+    <string name="data_usage_enable_mobile">Моб. интернет</string>
     <string name="data_usage_forground_label">Активный режим:</string>
     <string name="data_usage_label_background">Фоновый режим</string>
     <string name="data_usage_label_foreground">Активный режим</string>
@@ -3028,7 +3028,7 @@
     <string name="face_data_manage_unlock_slide_msg">Заменить действия слайдера разблокировкой по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
-    <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
+    <string name="face_data_siggesstion_next_time">Далее (%d сек.)</string>
     <string name="face_data_suggesstion_first">Разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что лицо хорошо видно и равномерно освещено, избегайте прямого света, не надевайте аксессуары.</string>
     <string name="face_intro_error_max">Добавлено максимальное количество лиц</string>
@@ -3177,10 +3177,10 @@
     <string name="firewall_allow_network">Разрешить</string>
     <string name="firewall_allow_wlan">Разрешить использование Wi-Fi</string>
     <string name="firewall_applist">Приложения</string>
-    <string name="firewall_mobile">3G/4G</string>
+    <string name="firewall_mobile">Моб. интернет</string>
     <string name="firewall_network_allow">Приложение %1$s может использовать %2$s подключение</string>
     <string name="firewall_network_restrict_notify_message">Нажмите для изменения настроек.</string>
-    <string name="firewall_network_restrict_notify_mobile">Мобильный трафик</string>
+    <string name="firewall_network_restrict_notify_mobile">Мобильный интернет</string>
     <string name="firewall_partial">Разрешить некоторым приложениям подключение следующим способом</string>
     <string name="firewall_permission">Разрешения на подключение</string>
     <string name="firewall_restrict_all">Запретить всем приложениям подключение следующим способом</string>
@@ -5829,7 +5829,7 @@ OTG отключается автоматически через 10 минут �
     <string name="permissions_label">Разрешения</string>
     <string name="permit_draw_overlay">Поверх других приложений</string>
     <string name="permit_manage_external_storage">Управление файлами</string>
-    <string name="permit_running_network">Фоновое подключение</string>
+    <string name="permit_running_network">Фоновый трафик</string>
     <string name="permit_usage_access">Доступ к истории использования</string>
     <string name="permit_write_settings">Изменение системных настроек</string>
     <string name="person_hotpot">Мобильные точки доступа</string>
