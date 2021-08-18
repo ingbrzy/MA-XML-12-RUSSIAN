@@ -66,7 +66,7 @@ ID вашего аккаунта: %s"</string>
     <string name="account_token_expired_title">Ошибка аутентификации</string>
     <string name="account_user_avatar">Фото профиля</string>
     <string name="account_user_avatar_from_album">Выбрать фото</string>
-    <string name="account_user_avatar_from_camera">Снять фото</string>
+    <string name="account_user_avatar_from_camera">Сделать фото</string>
     <string name="account_user_base_info">Личная информация</string>
     <string name="account_user_birthday">Дата рождения</string>
     <string name="account_user_details">Личная информация</string>
@@ -222,11 +222,11 @@ ID:%s
     <string name="find_device_access_denied">Не удалось получить статус, доступ ограничен</string>
     <string name="find_device_account_error">Не удалось получить статус из-за ошибки аккаунта</string>
     <string name="find_device_activate_account">Активировать аккаунт</string>
-    <string name="find_device_bad_response_error">Ошибка сервера, подождите немного и повторите попытку</string>
+    <string name="find_device_bad_response_error">Ошибка сервера. Подождите немного и повторите попытку.</string>
     <string name="find_device_clear_data">Стереть все данные</string>
     <string name="find_device_close">Откл.</string>
     <string name="find_device_error_password_not_confirmed">Не удалось отключить Поиск устройства. Повторите ввод пароля Mi Аккаунта.</string>
-    <string name="find_device_error_password_recently_changed">Вы меняли пароль в течение последних 3 дней. Невозможно отключить Поиск устройства по соображениям безопасности.</string>
+    <string name="find_device_error_password_recently_changed">Вы меняли пароль в течение последних %d дней. Отключение Поиска устройства недоступно по соображениям безопасности.</string>
     <string name="find_device_interrupted">Действие было прервано. Подождите немного и повторите попытку.</string>
     <string name="find_device_io_error">Не удалось подключиться к сети</string>
     <string name="find_device_location">Найти</string>
