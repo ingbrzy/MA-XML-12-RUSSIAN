@@ -91,6 +91,10 @@
         <item>Делайте резервные копии настроек системы, включая Wi-Fi</item>
         <item>Блокируйте устройство удаленно в случае его потери</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Синхронизируйте фото, заметки, записи и другие данные</item>
+        <item>Блокируйте устройство удаленно в случае его потери</item>
+    </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Синхронизируйте контакты, сообщения, заметки, календарь и другие данные</item>
         <item>Делайте резервные копии приложений и рабочего стола</item>
@@ -101,6 +105,10 @@
         <item>Синхронизация данных</item>
         <item>Настройки рабочего стола</item>
         <item>Настройки системы</item>
+        <item>Поиск устройства</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Синхронизация данных</item>
         <item>Поиск устройства</item>
     </string-array>
     <string-array name="priv_dialog_finddevice_runtime_perm_desc">
@@ -207,13 +215,23 @@
         <item>Восстановление контактов, фото, сообщений и прочего</item>
         <item>Мусор;Удаленные элементы;Корзина;Восстановление;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Удаленные элементы в Xiaomi Cloud</item>
+        <item>Восстановление фото, заметок и прочего</item>
+        <item>Мусор;Удаленные элементы;Корзина;Восстановление;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
     <string-array name="settings_search_restore_device">
         <item>Восстановление элементов из Xiaomi Cloud</item>
         <item>Загрузка сохраненных элементов на устройство</item>
         <item>Облако;Резервное копирование;Резервирование;Восстановление;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Синхронизировать Безопасность</item>
+        <item>Безопасность облачной синхронизации</item>
+        <item>Включить синхронизацию</item>
+        <item>Безопасность;Облако;Xiaomi Cloud;Синхронизация;Облачные сервисы</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Безопасность облачной синхронизации</item>
         <item>Включить синхронизацию</item>
         <item>Безопасность;Облако;Xiaomi Cloud;Синхронизация;Облачные сервисы</item>
     </string-array>
@@ -229,7 +247,12 @@
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Xiaomi Cloud. Все Mi сервисы в одном месте.</item>
-        <item>доступ к фото, контактам, сообщениям и устройствам из любого места</item>
+        <item>Доступ к фото, контактам, сообщениям и устройствам из любого места</item>
+        <item>Недостаточно места;Членство;Память;Место для хранения;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud;Мусор;Удаленные элементы;Безопасность</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Все Mi сервисы в одном месте.</item>
+        <item>Доступ к фото, заметкам и устройствам из любого места</item>
         <item>Недостаточно места;Членство;Память;Место для хранения;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud;Мусор;Удаленные элементы;Безопасность</item>
     </string-array>
     <string-array name="settings_search_wlan">
