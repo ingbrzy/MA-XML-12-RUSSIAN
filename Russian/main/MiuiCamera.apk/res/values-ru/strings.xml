@@ -100,15 +100,15 @@
     <string name="accessibility_flash_off">Вспышка отключена</string>
     <string name="accessibility_flash_on">Вспышка включена</string>
     <string name="accessibility_flash_torch">Вспышка включена, режим фонарика</string>
-    <string name="accessibility_focus_face_pos_bottom">Ниже</string>
-    <string name="accessibility_focus_face_pos_left">Левее</string>
-    <string name="accessibility_focus_face_pos_left_bottom">Ниже и левее</string>
-    <string name="accessibility_focus_face_pos_left_top">Выше и левее</string>
-    <string name="accessibility_focus_face_pos_mid">По центру</string>
-    <string name="accessibility_focus_face_pos_right">Правее</string>
-    <string name="accessibility_focus_face_pos_right_bottom">Правее и ниже</string>
-    <string name="accessibility_focus_face_pos_right_top">Правее и выше</string>
-    <string name="accessibility_focus_face_pos_top">Выше</string>
+    <string name="accessibility_focus_face_pos_bottom">Расположено у нижнего края кадра</string>
+    <string name="accessibility_focus_face_pos_left">Расположено у левого края кадра</string>
+    <string name="accessibility_focus_face_pos_left_bottom">Расположено в левом нижнем углу кадра</string>
+    <string name="accessibility_focus_face_pos_left_top">Расположено в левом верхнем углу кадра</string>
+    <string name="accessibility_focus_face_pos_mid">Расположено недалеко от центра кадра</string>
+    <string name="accessibility_focus_face_pos_right">Расположено у правого края кадра</string>
+    <string name="accessibility_focus_face_pos_right_bottom">Расположено в правом нижнем углу кадра</string>
+    <string name="accessibility_focus_face_pos_right_top">Расположено в правом верхнем углу кадра</string>
+    <string name="accessibility_focus_face_pos_top">Расположено у верхнего края кадра</string>
     <string name="accessibility_focus_status">Приближение %1$sX</string>
     <string name="accessibility_foucs_peak">Пиковое значение</string>
     <string name="accessibility_front_preview_status">Предпросмотр фронтальной камеры</string>
@@ -612,11 +612,13 @@
     <string name="dolly_zoom_guide_tip9">Переулки.</string>
     <string name="dolly_zoom_guide_video_title1">Волшебный зум</string>
     <string name="dolly_zoom_guide_video_title2">Сцены</string>
+    <string name="download_alert">Редактирование недоступно во время загрузки</string>
     <string name="download_cancel_hint">Отменить загрузку %1$s?</string>
     <string name="download_confirm">Загрузка</string>
     <string name="download_hint">Для загрузки потребуется %1$s MB мобильного трафика. Загрузить?</string>
     <string name="download_in_progress">Загрузка…</string>
     <string name="download_title">Мобильный трафик</string>
+    <string name="download_waiting">Ожидание…</string>
     <string name="dual_camera_lens_covered_toast">Объектив закрыт</string>
     <string name="dual_camera_lowlight_toast">Похоже, что здесь слишком темно</string>
     <string name="dual_camera_too_close_toast">Камера находится слишком близко к объекту</string>
@@ -1208,6 +1210,7 @@
 и увеличивает резкость переднего плана"</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
+    <string name="pre_volume_gain_adjust">Регулировка усиления</string>
     <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
     <string name="pref_a_c_f">Сонограф</string>
     <string name="pref_advance_settings">Дополнительные настройки</string>
@@ -2091,6 +2094,7 @@
     <string name="video_effect_entry_wind_sing">Бриз</string>
     <string name="video_hdr10_tip">HDR10</string>
     <string name="video_hdr10plus_tip">HDR10+</string>
+    <string name="video_overheat_tip_content">Устройство слишком горячее. Попробуйте съемку видео в более низком разрешении.</string>
     <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
     <string name="video_shortcut_long">Видео</string>
     <string name="video_shortcut_short">Видео</string>

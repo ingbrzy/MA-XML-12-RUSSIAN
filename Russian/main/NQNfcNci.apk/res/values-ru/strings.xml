@@ -108,7 +108,7 @@
     <string name="title_discover_tag">Обнаружена NFC-метка</string>
     <string name="title_sms">Отправка сообщения</string>
     <string name="title_weblink">Открытие ссылки</string>
-    <string name="toast_bluetooth_enable_fail">Bluetooth не включен, сопряжение не удалось</string>
+    <string name="toast_bluetooth_enable_fail">Не удалось выполнить сопряжение. Включите Bluetooth.</string>
     <string name="transaction_failure">Не удалось завершить транзакцию с помощью %1$s</string>
     <string name="wifi_connect">Подключиться</string>
 </resources>

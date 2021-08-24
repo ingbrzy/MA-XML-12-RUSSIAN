@@ -157,7 +157,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Разблокировка по лицу</string>
     <string name="accessibility_left_control_center_button">Ярлык</string>
     <string name="accessibility_left_lock_screen_magazine_button">Карусель обоев</string>
-    <string name="accessibility_left_xmyzl_button" />
+    <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
     <string name="accessibility_location_active">Есть активные запросы на определение местоположения</string>
     <string name="accessibility_long_click_tile">Открыть настройки</string>
     <string name="accessibility_manage_notification">Управление уведомлениями</string>
@@ -1917,7 +1917,7 @@ d MMMM"</string>
     <string name="open_lock_screen_magazine_hint_text">Проведите вправо для выбора</string>
     <string name="open_remote_center_hint_text">Проведите вправо для доступа к ярлыкам</string>
     <string name="open_saver_setting_action">Настройки</string>
-    <string name="open_xmyzl_hint_text" />
+    <string name="open_xmyzl_hint_text">Проведите вправо, чтобы открыть Xiaomi Magic Control</string>
     <string name="orb_search_action">Действие для поиска</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться</string>
@@ -2988,6 +2988,7 @@ d MMMM"</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
     <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
+    <string name="wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_none_owe">Без защиты/Улучшенное открытие</string>
     <string name="wifi_security_owe">Улучшенное открытие</string>
