@@ -52,6 +52,14 @@
         <item quantity="other">Вы можете создать до %d клонов за раз.</item>
         <item quantity="one">Вы можете создать до %d клона за раз.</item>
      </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>"Не удалось подключиться к камере.&lt;br>Приложение будет закрыто через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> После этого подождите минуту или две и повторите попытку."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Не удалось подключиться к камере.&lt;br>Приложение будет закрыто через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> После этого подождите минуту или две и повторите попытку."&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Устройство слишком горячее.&lt;br>Приложение будет закрыто через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> Текущий прогресс автоматически сохранен.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Устройство слишком горячее.&lt;br>Приложение будет закрыто через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> Текущий прогресс автоматически сохранен.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d мин.</item>
         <item quantity="one">%1$d мин.</item>

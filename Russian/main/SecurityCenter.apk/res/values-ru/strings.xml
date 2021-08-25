@@ -612,6 +612,7 @@
     <string name="applock_add_account_setting">Привязка к Mi Аккаунту</string>
     <string name="applock_add_account_tips">С помощью Mi Аккаунта вы можете восстановить защиту приложений, если забудете пароль.</string>
     <string name="applock_add_account_title">Добавление Mi Аккаунта</string>
+    <string name="applock_add_account_title_part">Добавьте свой Mi аккаунт для возможности сброса пароля</string>
     <string name="applock_already_add_account">Текущий аккаунт: %s</string>
     <string name="applock_app_recommend_lock_title">Можно защитить</string>
     <string name="applock_bind_account_dialog_content">Ваш Mi Аккаунт - единственный способ восстановить защиту приложений, если вы забудете пароль. Войдите, чтобы добавить свой Mi Аккаунт.</string>
@@ -622,6 +623,8 @@
     <string name="applock_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
     <string name="applock_face_unlock_summary">Разблокировка приложений с помощью распознавания по лицу</string>
     <string name="applock_face_unlock_title">Разблокировка по лицу</string>
+    <string name="applock_fingerprint_detect">Используйте отпечаток</string>
+    <string name="applock_fingerprint_unlock">Используйте отпечаток</string>
     <string name="applock_function_base_settings">Защита приложений</string>
     <string name="applock_function_pwd_settings">Пароль</string>
     <string name="applock_go_to">Настройки</string>
@@ -640,6 +643,7 @@
     <string name="applock_guide_tip3">Скрыть содержание уведомления.</string>
     <string name="applock_guide_tip3_global">Скрыть содержание уведомления.</string>
     <string name="applock_guide_title">Защитите свои личные данные с помощью блокировки приложений</string>
+    <string name="applock_gulide_third_part">Аккаунт будет удален после выхода</string>
     <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
     <string name="applock_lock_all">Выбрать все</string>
     <string name="applock_login_and_add_account">Привязать</string>
@@ -647,6 +651,7 @@
     <string name="applock_mixtype_showpwd_icon">Показать</string>
     <string name="applock_no_account_login">Вход в Mi Аккаунт не выполнен</string>
     <string name="applock_not_add_account"><u>Не сейчас</u></string>
+    <string name="applock_not_add_account_normal">Не добавлять аккаунт</string>
     <string name="applock_not_login_account">Вход не выполнен</string>
     <string name="applock_numeric_pwd_type_line">Всего цифр в пароле: %1$d. Введено: %2$d.</string>
     <string name="applock_operate_faceunlock_summary">Разблокируйте приложения взглядом на экран</string>
@@ -860,6 +865,7 @@
     <string name="boot_time_day">Включение через %1$d д. в %2$s</string>
     <string name="boot_time_day_tomorrow">Включение завтра в %1$s</string>
     <string name="bottom_func_guide_default_text">Дополнительные функции</string>
+    <string name="bottom_notice_title">Проведите вверх, чтобы открыть панель инструментов</string>
     <string name="brand_diagnostic">Диагностика бренда оператора</string>
     <string name="btn_back">Назад</string>
     <string name="btn_finish_diagnostic">OK</string>
@@ -1003,6 +1009,8 @@
     <string name="cmcc_app_check_dialog_negative">Позже</string>
     <string name="cmcc_app_check_dialog_positive">Перезагрузить</string>
     <string name="cmcc_app_check_dialog_title">Система восстановлена</string>
+    <string name="commonly_used_func_card_title">Общие функции</string>
+    <string name="commonly_used_func_edit_too_many_func">Больше нельзя добавить</string>
     <string name="comprehensive_protection_measures">Комплексная защита</string>
     <string name="confirmSecondSpacePassword">Подтвердите пароль второго пространства</string>
     <string name="confirm_allow_all_permission">Разрешить всем приложениям использовать эту функцию?</string>
@@ -1252,6 +1260,7 @@
     <string name="ew_alert_earthquake_level_title">Расчетная величина</string>
     <string name="ew_alert_emergency_text">"Показать
 медицинскую карту"</string>
+    <string name="ew_alert_emergency_text_single">Показать медицинскую карту</string>
     <string name="ew_alert_help_earthquake_title">Сейсмическая волна прибыла</string>
     <string name="ew_alert_help_place_navigation">Навигация</string>
     <string name="ew_alert_help_place_text">При необходимости отправляйтесь в ближайший приют для безопасности и получения необходимой помощи.</string>
@@ -2400,6 +2409,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mi_service_app_detail">Информация о трафике</string>
     <string name="mi_service_traffic_detail">Информация о Framework</string>
     <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Нажмите вверху, чтобы открыть Mi Sim.&lt;/U>&lt;/font>"</string>
+    <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Зарубежный роуминг</string>
     <string name="midnight">Ночь</string>
     <string name="midrop_post_notification_contentText">Воспользуйтесь Mi Drop со скоростью до 50 Мбит/с.</string>
@@ -2820,6 +2830,19 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активный режим</string>
+    <string name="pc_fast_charge_notifi_action_text_off">Выключить</string>
+    <string name="pc_fast_charge_notifi_action_text_on">Ускорение</string>
+    <string name="pc_fast_charge_notifi_power_threshold_title">Порог заряда для уведомлений</string>
+    <string name="pc_fast_charge_notifi_summary">Зарядка на %s быстрее…</string>
+    <string name="pc_fast_charge_notifi_summary_on">Эта функция может привести к нагреву устройства</string>
+    <string name="pc_fast_charge_notifi_switch_summary">Уведомлять об ускорении зарядки, если подключено  %dW зарядное устройство и заряд батареи ниже установленного уровня</string>
+    <string name="pc_fast_charge_notifi_switch_title">Уведомлять об ускорении</string>
+    <string name="pc_fast_charge_notifi_title">Зарядка %dW</string>
+    <string name="pc_fast_charge_notifi_title_on">Выключить ускорение зарядки</string>
+    <string name="pc_fast_charge_switch_summary">Включите для ускорения зарядки. MIUI отдаст приоритет скорости зарядки, обеспечивая при этом безопасность устройства. Чем меньше заряд батареи, тем быстрее скорость зарядки. Эта функция может привести к нагреву устройства.</string>
+    <string name="pc_fast_charge_switch_title">Ускорение зарядки</string>
+    <string name="pc_fast_charge_switch_toast_message">Изменения будут применены при следующей зарядке</string>
+    <string name="pc_fast_charge_title">Ускорение зарядки</string>
     <string name="pc_hidemode_normal">Сбалансированный</string>
     <string name="pc_hidemode_normal_title">Сбалансированный режим</string>
     <string name="pc_hidemode_performance">Производительный</string>
@@ -2967,6 +2990,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="phone_manage_special_title">Специальные функции</string>
     <string name="phone_manage_system_tool_summary">Системные инструменты</string>
     <string name="phone_manage_system_tool_title">Инструменты</string>
+    <string name="phone_manager_edit_commonly_used_func_title">Редактирование общих функций</string>
+    <string name="phone_manager_title">Панель инструментов</string>
     <string name="pkg_traffic">Лимит трафика</string>
     <string name="pm_auto_start_by_other">Цепной запуск</string>
     <string name="pm_auto_start_by_other_app">Разрешение запускать другие приложения</string>
@@ -3072,6 +3097,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_super_wireless_charge_dialog_summary">Этот режим увеличивает скорость вращения вентилятора кулера беспроводного зарядного устройства. Оставьте режим включенным для более быстрой зарядки, либо отключите его, если шум слишком высокий.</string>
     <string name="power_center_super_wireless_charge_dialog_summary2">Для дополнительных настроек перейдите в Безопасность > Батарея > Настройки</string>
     <string name="power_center_super_wireless_charge_dialog_title">Быстрая беспроводная зарядка</string>
+    <string name="power_center_super_wireless_charge_enter_noti_summary">Повышение скорости вентилятора беспроводного зарядного устройства и ускорение зарядки</string>
+    <string name="power_center_super_wireless_charge_enter_noti_title">Ускорение беспроводной зарядки</string>
     <string name="power_center_super_wireless_charge_noti_summary">Нажмите, чтобы открыть Настройки</string>
     <string name="power_center_super_wireless_charge_noti_switch">Уведомлять о быстрой беспроводной зарядке</string>
     <string name="power_center_super_wireless_charge_noti_title">Быстрая беспроводная зарядка включена</string>
@@ -3375,6 +3402,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_private_photo_album_detail">Шифрование и защита с помощью пароля конфиденциальности</string>
     <string name="pp_prohibit_use_camera_in_background">Запрет использования камеры в фоновом режиме</string>
     <string name="pp_prohibit_use_camera_in_background_detail">По умолчанию приложениям недоступно использование камеры в фоновом режиме</string>
+    <string name="pp_read_phone_info_summary">Доступ к информации о SIM-карте</string>
     <string name="pp_record_msg">Запись аудио</string>
     <string name="pp_safe_box">Личное пространство</string>
     <string name="pp_safe_box_detail">Личные данные шифруются и хранятся только на этом устройстве. Посторонние лица и приложения, а также само устройство не смогут получить к ним доступ.</string>
@@ -3384,6 +3412,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_safe_save_pwd_and_account">Управление паролями</string>
     <string name="pp_safe_share_img_detail">Отправлять фото без метаданных и информации о местоположении</string>
     <string name="pp_smart_manager_pwd">Пароли</string>
+    <string name="pp_sms_and_contacts">Контакты и сообщения</string>
     <string name="pp_special_permission_settings">Специальные разрешения</string>
     <string name="pp_special_permission_settings_detail">Контроль использования приложениями специальных разрешений</string>
     <string name="pp_storage_msg">Память устройства</string>
@@ -3917,6 +3946,18 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="signed_rule_one">1. Отмечайтесь 10, 20 или 28 дней подряд каждый месяц для получения ускорения Xunyou на 1, 2 или 3 дня соответственно.</string>
     <string name="signed_rule_three">3. Счетчик отмечаний сбрасывается в начале каждого месяца. Остаток дней не переходит на следующий месяц.</string>
     <string name="signed_rule_two">2. Вы можете получить только 1 ускорение Xunyou в месяц.</string>
+    <string name="sim_car_absent__tip">Введите пароль разблокировки для отключения \"Режима пропажи\"</string>
+    <string name="sim_car_absent_intercept_action">Введите пароль разблокировки (%d)</string>
+    <string name="sim_car_absent_intercept_action_last">Введите пароль разблокировки</string>
+    <string name="sim_car_absent_intercept_item_summary">Поиск устройства включен. Для выключения устройства или извлечения SIM-карты требуется ввод пароля разблокировки.</string>
+    <string name="sim_car_absent_intercept_item_summary_last">Поиск устройства включен. Для выключения устройства или извлечения SIM-карты требуется ввод пароля разблокировки. Активирован \"Режим пропажи\".</string>
+    <string name="sim_car_absent_intercept_item_title">Задействованы механизмы защиты</string>
+    <string name="sim_car_absent_intercept_summary">SIM-карта извлечена. Введите пароль разблокировки, чтобы использовать это устройство.</string>
+    <string name="sim_car_absent_intercept_title">Введите пароль разблокировки</string>
+    <string name="sim_car_absent_summary">Введите пароль разблокировки, чтобы использовать это устройство.</string>
+    <string name="sim_car_absent_title">Это устройство потеряно</string>
+    <string name="sim_card_absent_intercept_tip">Если не будет введен пароль разблокировки, активируется \"Режим пропажи\".</string>
+    <string name="sim_card_absent_warning_voice">SIM-карта извлечена. Введите пароль разблокировки.</string>
     <string name="sim_location_diagnostic">Диагностика местоположения</string>
     <string name="sim_location_error_dialog_message">Ваша SIM-карта из региона %1$s. Это не совпадает с регионом, введенным вручную (%2$s). Изменить регион SIM-карты на %3$s?</string>
     <string name="sim_location_error_notify_message">Нажмите для изменения местоположения SIM-карты.</string>
