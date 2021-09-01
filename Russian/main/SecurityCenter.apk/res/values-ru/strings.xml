@@ -148,7 +148,7 @@
     <string name="adjust_traffic_carrier_summary_two_day_before">Обновлено 2 дня назад</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
     <string name="adjust_traffic_data">Расход трафика</string>
-    <string name="after_the_lock_screen">Блокировать вместе с экраном</string>
+    <string name="after_the_lock_screen">Включена блокировка приложения при блокировке экрана</string>
     <string name="afternoon">После полудня</string>
     <string name="ai_allow_all">По выбору системы</string>
     <string name="alert_back_diving_mode_summary">Отключить режим погружения?</string>
@@ -1716,7 +1716,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_brightness">Яркость</string>
     <string name="gamebox_browser_not_find">Установите сначала Mi Браузер</string>
     <string name="gamebox_collimator">Коллиматор</string>
-    <string name="gamebox_display_1">Нет</string>
+    <string name="gamebox_display_1">По умолчанию</string>
     <string name="gamebox_display_2">Насыщенность</string>
     <string name="gamebox_display_3">Яркость</string>
     <string name="gamebox_display_4">Яркость и насыщенность</string>
@@ -1730,7 +1730,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_func_switch_simcard_immersion">"Невозможно переключить SIM-карты в режиме погружения"</string>
     <string name="gamebox_func_wlan_close">Wi-Fi отключен</string>
     <string name="gamebox_func_wlan_open">Wi-Fi включен</string>
-    <string name="gamebox_hangup">Выключить экран</string>
+    <string name="gamebox_hangup">Выключение экрана</string>
     <string name="gamebox_hangup_tips_content">Эта функция позволяет выключить экран, сохранив игру в фоновом режиме. Отключается автоматически после разблокировки устройства.</string>
     <string name="gamebox_hangup_tips_title">Выключение экрана</string>
     <string name="gamebox_immersion">Режим погружения</string>
@@ -1751,7 +1751,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_type_close">Не показывать</string>
     <string name="gamebox_type_float">Фиксированная</string>
     <string name="gamebox_type_gesture">Свайп для показа</string>
-    <string name="gamebox_voicechanger">Синтезатор голоса</string>
+    <string name="gamebox_voicechanger">Синтезатор</string>
     <string name="gamebox_wechat_not_find">Установите WeChat и повторите попытку.</string>
     <string name="gamebox_wifi">Wi-Fi</string>
     <string name="gamecenter_install_fail">Не удалось установить</string>
@@ -1917,9 +1917,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_turbo_macro_subtitle">Играйте на высоком уровне</string>
     <string name="gb_turbo_new_flag">НОВОЕ</string>
     <string name="gb_turbo_shoulder_subtitle">Настройте элементы управления</string>
-    <string name="gb_turbo_time_subtitle">Засеките время игровых сессий</string>
-    <string name="gb_turbo_voice_subtitle">Оживите разговоры</string>
-    <string name="gb_turbo_wonder_subtitle">Запишите ключевые моменты</string>
+    <string name="gb_turbo_time_subtitle">Засекание времени</string>
+    <string name="gb_turbo_voice_subtitle">Изменение голоса</string>
+    <string name="gb_turbo_wonder_subtitle">Запись ключевых моментов</string>
     <string name="gb_voice_change_audition_tip">Демо</string>
     <string name="gb_voice_change_settinged">Синтезатор голоса включен</string>
     <string name="gb_voice_changer_cartoon">Мультик</string>
@@ -2036,6 +2036,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gs_slip_gamebox_detail">Используйте слайдер или свайп в верхней части края экрана для отображения панели быстрого доступа</string>
     <string name="gtb_brightness_dialog_right_btn">Оставить</string>
     <string name="gtb_brightness_dialog_sub_message">*Функцию можно включить или выключить в настройках.</string>
+    <string name="gtb_content_switch">Рекомендации</string>
+    <string name="gtb_content_switch_summary">Получать рекомендации по игровому контенту</string>
     <string name="gtb_dialog_btn_close">Отключить</string>
     <string name="gtb_dialog_btn_open">Включить</string>
     <string name="gtb_dialog_hint_smart_5g">Вы можете включить или выключить эту функцию в Ускорение игр &gt; Настройки.</string>
@@ -2416,6 +2418,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="midrop_post_notification_contentTitle">Нужно передать файлы?</string>
     <string name="miui_optimization_close_final_tip">Отключить оптимизацию MIUI?</string>
     <string name="miui_optimization_close_title">Эта функция предназначена для разработчиков. Отключение оптимизации MIUI может привести к:</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -2433,6 +2437,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>

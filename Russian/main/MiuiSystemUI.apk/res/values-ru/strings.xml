@@ -1614,6 +1614,8 @@ d MMMM"</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Звук отключен</string>
     <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Включен режим \"Без звука\". Звук и вибрация отключены.</string>
     <string name="miui_unimportant_notifications">Неважные уведомления</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -1628,6 +1630,7 @@ d MMMM"</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -2191,7 +2194,7 @@ d MMMM"</string>
     <string name="quick_settings_rotation_locked_landscape_label">Альбомная</string>
     <string name="quick_settings_rotation_locked_portrait_label">Книжная</string>
     <string name="quick_settings_rotation_unlocked_label">Автоповорот</string>
-    <string name="quick_settings_rotationlock_label">Автоповорот отключен</string>
+    <string name="quick_settings_rotationlock_label">Запрет автоповорота</string>
     <string name="quick_settings_rssi_emergency_only">Только экстренные вызовы</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">Запись экрана</string>
