@@ -75,6 +75,8 @@
     <string name="ad_download">Загрузка</string>
     <string name="ad_join">Присоединиться</string>
     <string name="ad_more">Еще</string>
+    <string name="add_local_shortcut_add">Добавить</string>
+    <string name="add_local_shortcut_des">Добавьте ярлык \"Мое видео\" на рабочий стол для удобного просмотра локальных видеозаписей</string>
     <string name="add_search_channel_link">URL-адрес</string>
     <string name="add_search_channel_name">Имя</string>
     <string name="add_search_channel_tip">Выполните поиск \"%s\" на указанном сайте, затем скопируйте и вставьте URL-адрес здесь</string>
@@ -170,10 +172,11 @@
     <string name="choose_to_signin">Да</string>
     <string name="choose_to_signup">Создать новый</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="click_to_open_pip">Нажмите для переключения в режим \"Картинка в картинке\"</string>
     <string name="click_to_reload_more">Нажмите для загрузки</string>
     <string name="click_to_retry">Повторить</string>
     <string name="close">Закрыть</string>
-    <string name="cloud_auto_pip_play_switch">Использовать функцию \"Картинка в картинке\" автоматически</string>
+    <string name="cloud_auto_pip_play_switch">Использовать режим \"Картинка в картинке\" автоматически</string>
     <string name="cloud_online_player">Плеер</string>
     <string name="cloud_online_switch">Персонализированные рекомендации</string>
     <string name="cloud_online_switch_close_time">Вы можете включить персонализированные рекомендации по контенту в %s</string>
@@ -312,6 +315,8 @@ ID: %s
     <string name="download_complete">Загружено</string>
     <string name="download_delete_tip">Удалить выбранные файлы?</string>
     <string name="download_delete_title">Удалить</string>
+    <string name="download_guide_click_icon_to_website_or_enter_url">Нажмите на ярлык, чтобы открыть веб-сайт или ввести URL-адрес</string>
+    <string name="download_guide_known">Понятно</string>
     <string name="download_paused">Приостановлено</string>
     <string name="download_pending">Ожидание…</string>
     <string name="download_power_off_tips">Эта функция сейчас недоступна</string>
@@ -625,6 +630,7 @@ ID: %s
     <string name="local_video_notification_btn">Посмотреть в приложении Mi Видео</string>
     <string name="local_video_notification_title">Найдены новые видео</string>
     <string name="local_video_number_of_selected">Выбрано: %1$d/%2$d</string>
+    <string name="local_video_shortcut_name">Мое видео</string>
     <string name="local_video_size">Размер</string>
     <string name="local_video_space">Занято: %s</string>
     <string name="local_video_time">Длительность</string>
@@ -765,6 +771,7 @@ ID: %s
     <string name="lv_video_null">Нет видео</string>
     <string name="lv_volume">Громкость</string>
     <string name="manage">Управление</string>
+    <string name="mediation_ad">Реклама</string>
     <string name="mediation_ad_can_not_share">Не удалось поделиться этим видео</string>
     <string name="mi_video">Mi Видео</string>
     <string name="midnight">Ночь</string>
@@ -953,6 +960,8 @@ ID: %s
     <string name="ovp_favor">Избранное</string>
     <string name="ovp_favor_null">Ничего нет</string>
     <string name="ovp_feedback_title">Отзыв о Mi Видео</string>
+    <string name="ovp_hint_new">Обновление</string>
+    <string name="ovp_hint_the_latest_version">Обновлений нет</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">Не удалось обнаружить медиафайл. Переход в папку верхнего уровня.</string>
     <string name="ovp_home_item_camera">Галерея</string>
     <string name="ovp_home_item_download">Загрузки</string>
@@ -968,6 +977,7 @@ ID: %s
     <string name="ovp_local_videos_title">Локальные видео</string>
     <string name="ovp_navigation_category">Категории</string>
     <string name="ovp_navigation_content">Контент</string>
+    <string name="ovp_navigation_darkmode">Темный режим</string>
     <string name="ovp_navigation_favorites">Избранное</string>
     <string name="ovp_navigation_feedback">Отзыв</string>
     <string name="ovp_navigation_history">История</string>
@@ -977,6 +987,7 @@ ID: %s
     <string name="ovp_navigation_notice">Уведомления</string>
     <string name="ovp_navigation_setting">Настройки</string>
     <string name="ovp_navigation_subscribe">Подписка</string>
+    <string name="ovp_navigation_version_update">Проверка обновлений</string>
     <string name="ovp_player_cached_error_btn">Онлайн видео</string>
     <string name="ovp_player_cached_error_hint_info">Воспроизведение сейчас недоступно</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Закрыть</string>
@@ -1258,6 +1269,7 @@ ID: %s
     <string name="plus_sort_type_time">Время</string>
     <string name="plus_tab_gallery">Папки</string>
     <string name="plus_tab_time">Временная шкала</string>
+    <string name="popup_click_for_download_video">Загрузить</string>
     <string name="privacy_revoke_setting">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Mi Видео.</string>
     <string name="privacy_revoke_title">Отзыв согласия</string>
     <string name="progressbar_title">Проверка на наличие проблем безопасности…</string>
@@ -1273,6 +1285,14 @@ ID: %s
     <string name="push_message_tips">Включите для получения push-уведомлений</string>
     <string name="pw_channels">Каналы</string>
     <string name="qq_application_id"/>
+    <string name="question_click_bottom_tab">Нажмите на ярлык, чтобы открыть веб-сайт</string>
+    <string name="question_click_with_light">Нажмите кнопку загрузки после того, как она станет активной</string>
+    <string name="question_edit_url_here">Введите адрес или поисковый запрос</string>
+    <string name="question_how_to_download_video">Как загрузить видео?</string>
+    <string name="question_known">Понятно</string>
+    <string name="question_look_video_here">Загруженные видео будут сохранены здесь</string>
+    <string name="question_next">Далее</string>
+    <string name="question_step">Пропустить</string>
     <string name="read_and_agree">Принимаю</string>
     <string name="recommend_channels">Рекомендуемые каналы</string>
     <string name="recommend_online_switch">Онлайн рекомендации</string>
@@ -1455,6 +1475,7 @@ ID: %s
     <string name="t_password_null">Пароль не может быть пустым</string>
     <string name="t_password_wrong">Неверный пароль. Повторите попытку.</string>
     <string name="t_start_download">Начинается загрузка:</string>
+    <string name="tab_name_download">Загрузки</string>
     <string name="tab_name_local">Локальные</string>
     <string name="tab_name_me">Профиль</string>
     <string name="tab_name_moment">Моменты</string>

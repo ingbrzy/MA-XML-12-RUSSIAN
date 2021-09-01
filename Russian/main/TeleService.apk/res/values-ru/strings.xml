@@ -154,6 +154,7 @@
     <string name="accessor_no_description_text">Описание отсутствует</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="active_input_method_subtypes">Активные способы ввода</string>
+    <string name="activity_title_fakecell">Защита от поддельных базовых станций</string>
     <string name="adb_device_fingerprint_title_format">Отпечаток устройства: %1$s</string>
     <string name="adb_device_forget">Забыть</string>
     <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех компьютеров, которым он был разрешен?</string>
@@ -866,6 +867,7 @@
     <string name="description_image_button_two">два</string>
     <string name="description_image_button_zero">ноль</string>
     <string name="description_voicemail_button">Голосовая почта.</string>
+    <string name="detect_fakecell">Распознавание SMS от поддельных базовых станций</string>
     <string name="dev_logpersist_clear_warning_message">Прекратив отслеживание постоянного журнала, мы будем обязаны удалить его данные, сохраненные на устройстве.</string>
     <string name="dev_logpersist_clear_warning_title">Очистить постоянный диск журнала?</string>
     <string name="dev_settings_warning_message">Только для разработчиков. Изменение этих настроек может привести к сбоям или неправильной работе устройства и приложений.</string>
@@ -1124,6 +1126,8 @@
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="fold_answer_pref_summary">Сверните устройство для приема входящего вызова автоматически</string>
     <string name="fold_answer_pref_title">Сверните для приема вызова</string>
+    <string name="forbidden_fakecell">Защита от поддельных базовых станций</string>
+    <string name="forbidden_fakecell_summary">Предотвращать подключение устройства к поддельным базовым станциям</string>
     <string name="forbidden_network">(доступ запрещен)</string>
     <string name="force_allow_on_external">Разрешить сохранение на внешние накопители</string>
     <string name="force_allow_on_external_summary">Разрешить сохранение приложений на внешних накопителях (независимо от значений в манифесте)</string>
@@ -1678,6 +1682,7 @@
     <string name="not_a_valid_port">Номер порта должен быть от %1$d до %2$d.</string>
     <string name="not_allowed">Ваша SIM-карта не поддерживает подключение к этой сети</string>
     <string name="not_set">Не задано</string>
+    <string name="not_support_forbidden_fakecell">Устройство не поддерживает на аппаратном уровне защиту от поддельных базовых станций</string>
     <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
     <string name="notice_header" />
     <string name="notification_channel_demo">Демонстрационное устройство</string>
@@ -2161,6 +2166,9 @@ UT-интерфейс: %5$s"</string>
     <string name="respond_via_sms_setting_summary">Изменить шаблоны для быстрого ответа</string>
     <string name="respond_via_sms_setting_title">Быстрые ответы</string>
     <string name="response_error">Неожиданный отклик сети.</string>
+    <string name="restart_details">Включение или выключение этой функции требует перезагрузки устройства. Перезагрузить?</string>
+    <string name="restart_later">Позже</string>
+    <string name="restart_now">ОК</string>
     <string name="restaurants_disable">Рестораны отключены</string>
     <string name="restaurants_enable">Рестораны включены</string>
     <string name="retail_demo_reset_message">Чтобы сбросить настройки в деморежиме, введите пароль.</string>
@@ -2451,6 +2459,7 @@ UT-интерфейс: %5$s"</string>
     <string name="supp_service_over_ut_precautions_dual_sim">Чтобы использовать %1$s, убедитесь, что мобильный интернет включен для SIM-карты %2$d. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="supp_service_over_ut_precautions_roaming">Чтобы использовать %s, убедитесь, что включены мобильный интернет и роуминг данных. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Чтобы использовать %1$s, убедитесь, что для SIM-карты %2$d включены мобильный интернет и роуминг данных. Вы можете изменить это в настройках мобильной сети.</string>
+    <string name="support_forbidden_fakecell">Предупреждение: ограничение подключения к поддельным базовым станциям может снизить сигнал в областях с плохим покрытием</string>
     <string name="switch_dds_to_sub_alert">Установите эту карту по умолчанию для мобильного интернета.</string>
     <string name="switch_dds_to_sub_alert_msg">Переключите мобильные данные на CT SIM</string>
     <string name="switch_off">Откл.</string>
