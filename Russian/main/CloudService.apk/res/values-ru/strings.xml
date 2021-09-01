@@ -97,6 +97,11 @@
     <string name="device_activation_card_no_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="device_activation_card_title">Первая активация</string>
     <string name="device_activation_page_title">Активация устройства</string>
+    <string name="dialog_add_shortcut_content">Добавьте ярлык для Xiaomi Cloud на рабочий стол для более эффективного управления облачным хранилищем</string>
+    <string name="dialog_add_shortcut_title">Добавление ярлыка</string>
+    <string name="dialog_storage_full_title">Облачное хранилище заполнено</string>
+    <string name="dialog_storage_low_content">Обновите тарифный план облачного хранилища, чтобы избежать проблем с синхронизацией</string>
+    <string name="dialog_storage_low_title">Недостаточно места в облачном хранилище</string>
     <string name="do_not_merge">Отмена</string>
     <string name="early_morning">Утро</string>
     <string name="enable_find_device_success">Поиск устройства включен.</string>
@@ -444,11 +449,16 @@
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_soundrecorder_detail">Управляйте диктофонными записями на устройстве</string>
     <string name="micloud_space_soundrecorder_title">Записи диктофона</string>
+    <string name="micloud_storage_detail">Подробности</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Необходимо продлить подписку</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Необходимо продлить подписку</string>
     <string name="micloud_storage_expires_soon_title">Срок действия купленного места в Xiaomi Cloud истекает</string>
     <string name="micloud_storage_expires_very_soon_title">Срок действия купленного места в Xiaomi Cloud истекает</string>
-    <string name="micloud_storage_full">Память Xiaomi Cloud заполнена</string>
+    <string name="micloud_storage_family_quota">Семейный доступ</string>
+    <string name="micloud_storage_full">Облачное хранилище заполнено</string>
+    <string name="micloud_storage_full_tip">Хранилище заполнено</string>
+    <string name="micloud_storage_normal_tip">Осталось %s</string>
+    <string name="micloud_storage_share_family">Семейный доступ</string>
     <string name="micloud_storage_unit_gb">%s ГБ</string>
     <string name="micloud_storage_unit_mb">%s МБ</string>
     <string name="micloud_sync_alert_dialog_message">Синхронизируйте фото, контакты, заметки, приложения и многое другое на всех устройствах</string>
@@ -476,6 +486,7 @@
     <string name="micloud_sync_result_wifi_only">Этот объект слишком большой. Синхронизируйте его при подключении к Wi-Fi.</string>
     <string name="micloud_sync_result_wifi_only_china">Этот объект слишком большой. Синхронизируйте его при подключении к Wi-Fi.</string>
     <string name="micloud_upgrade_member">Добавить место</string>
+    <string name="micloud_upgrade_storage">Обновить тарифный план</string>
     <string name="micloud_user_space_title">Информация о памяти</string>
     <string name="micloud_warn_full_sum">Память Xiaomi Cloud заполнена на 100%</string>
     <string name="micloud_warn_full_title">Место закончилось</string>

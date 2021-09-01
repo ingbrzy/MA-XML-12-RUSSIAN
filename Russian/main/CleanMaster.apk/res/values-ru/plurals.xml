@@ -139,6 +139,11 @@
         <item quantity="one">Удалить %1$s фото со всех устройств?</item>
         <item quantity="few">Удалить %1$s фото со всех устройств?</item>
     </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">Каждые %d дней</item>
+        <item quantity="one">Каждый %d день</item>
+        <item quantity="few">Каждые %d дня</item>
+    </plurals>
     <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data>Освобождено &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достаточно для &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> треков)&lt;/Data></item>
         <item quantity="one">&lt;Data>Освобождено &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достаточно для &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> трека)&lt;/Data></item>
@@ -201,6 +206,11 @@
         <item quantity="other">Найдено %d приложений</item>
         <item quantity="one">Найдено %d приложение</item>
         <item quantity="few">Найдено %d приложения</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Последние %d дней</item>
+        <item quantity="one">Последний %d день</item>
+        <item quantity="few">Последние %d дня</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>

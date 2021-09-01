@@ -31,6 +31,7 @@
     <string name="access_token_expired_warning">Срок действия аккаунта Weibo истек</string>
     <string name="access_token_invalid_warning">Некорректный аккаунт Weibo</string>
     <string name="account">Аккаунт</string>
+    <string name="account_and_password">Пароль</string>
     <string name="account_bind_devices">Привязанные устройства</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
@@ -82,11 +83,15 @@ ID вашего аккаунта: %s"</string>
     <string name="account_user_name_dialog_title">Введите имя пользователя</string>
     <string name="account_user_other_info">Другие сведения</string>
     <string name="account_user_phone">Телефон</string>
+    <string name="account_user_phone_show">Телефон: %s</string>
     <string name="account_user_recovery_phone">Номер для восстановления</string>
     <string name="account_user_region">Регион</string>
     <string name="account_user_using_facebook_avatar">Использовать фото из Facebook</string>
     <string name="account_user_using_qq_avatar">Использовать фото из QQ</string>
     <string name="account_user_using_weibo_avatar">Использовать фото из Sina Weibo</string>
+    <string name="account_verify_guide_bind_mail_desc">Добавьте адрес электронной почты для восстановления</string>
+    <string name="account_verify_guide_bind_phone_desc">Добавьте номер телефона для восстановления</string>
+    <string name="account_verify_guide_set_password_desc">Установите пароль</string>
     <string name="account_xiaomi_service">Сервисы</string>
     <string name="action_add_phone">Добавить номер телефона</string>
     <string name="action_retry">Повторить</string>
@@ -218,6 +223,7 @@ ID:%s
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Войти через аккаунт Facebook</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Mi Аккаунтом</string>
+    <string name="family_share">Семейный доступ</string>
     <string name="find_device">Поиск устройства</string>
     <string name="find_device_access_denied">Не удалось получить статус, доступ ограничен</string>
     <string name="find_device_account_error">Не удалось получить статус из-за ошибки аккаунта</string>
@@ -246,6 +252,7 @@ ID:%s
     <string name="find_device_set_lost_model">Режим пропажи</string>
     <string name="find_device_title">Поиск устройства</string>
     <string name="find_device_unknown_error">Не удалось получить статус устройства. Подождите немного и повторите попытку.</string>
+    <string name="find_equipment">Поиск устройства</string>
     <string name="first_login_time">Первая попытка входа: %s</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -267,6 +274,7 @@ ID:%s
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="get_back_password">Сброс пароля</string>
     <string name="get_back_pwd">Сброс пароля</string>
     <string name="get_device_list_failed">Не удалось получить список устройств</string>
     <string name="get_identity_auth_url_failed">Не удалось проверить ID</string>
@@ -311,6 +319,7 @@ ID:%s
     <string name="mi_finance">Мои финансы</string>
     <string name="mi_finance_info">Бонусы для новых пользователей</string>
     <string name="mi_health">Здоровье</string>
+    <string name="mi_member">Mi Сообщество</string>
     <string name="mi_vip_info">Просмотреть привилегии</string>
     <string name="midnight">Ночь</string>
     <string name="mipay">Оплата</string>
@@ -321,6 +330,8 @@ ID:%s
     <string name="mipay_indentity_done">Проверено</string>
     <string name="mipay_others">Прочее</string>
     <string name="mipay_transit_card">Транспортная карта</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -335,6 +346,7 @@ ID:%s
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -391,14 +403,18 @@ ID:%s
     <string name="my_device_title">Текущее устройство</string>
     <string name="need_install_wechat">Установите WeChat</string>
     <string name="night">Вечер</string>
+    <string name="no_install">Не установлено</string>
     <string name="no_network_btn">Обновить</string>
     <string name="no_network_title">Не удалось подключиться к сети</string>
+    <string name="no_password_set">Не задан</string>
     <string name="no_phone">Нет номера телефона</string>
     <string name="no_response_retry">Нет ответа, повторите попытку.</string>
     <string name="no_sim_card_or_unactivated">SIM-карта не установлена или не активирована</string>
     <string name="nobind">Не подключено</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
+    <string name="notify_bind_security_phone">Добавьте номер телефона для восстановления</string>
+    <string name="notify_complete_security_info">Добавьте информацию для восстановления</string>
     <string name="notify_network_restricted_content_bg_network">Доступ Mi Аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
     <string name="notify_network_restricted_content_hidden_state">Фоновая активность Mi Аккаунта ограничена. Нажмите, чтобы разрешить.</string>
     <string name="notify_network_restricted_content_mobile_network">Доступ Mi Аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
@@ -665,6 +681,7 @@ ID:%s
     <string name="permission_group_phone">Телефон</string>
     <string name="permission_group_sms">СМС</string>
     <string name="permission_group_storage">Память</string>
+    <string name="personal_info_desc">Фото, псевдоним и другое</string>
     <string name="phone_activated">%s активирован</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
@@ -716,6 +733,7 @@ ID:%s
     <string name="search_user_detail_top_key_words">Личные данные,Личная информация,Персональная информация,Персональные данные,Сменить аватар,Изменить фотографию профиля,Изменить аватар,Изменить фото профиля,Фото профиля,Аватар профиля,Изменить имя пользователя,Изменить ник,Изменить дату рождения,Дата рождения,Изменить пол</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_location_title">Выберите местоположение</string>
+    <string name="self_account_info">Личная информация</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="send_email_activate_message">Письмо для подтверждения отправлено</string>
@@ -806,6 +824,7 @@ ID:%s
     <string name="the_united_nations_day">День Организации Объединенных Наций</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
+    <string name="third_party_login">Сторонние аккаунты</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
