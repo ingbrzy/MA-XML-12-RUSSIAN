@@ -4940,6 +4940,8 @@
     <string name="miui_touch_filtered_warning">Если приложение блокирует диалог разрешений, переместите мешающий объект или закройте приложение.</string>
     <string name="miui_updater">Обновление системы</string>
     <string name="miui_userguide">Руководство пользователя</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -4954,6 +4956,7 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -9151,6 +9154,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_connect_frequency">Частота Wi-Fi:</string>
     <string name="wifi_connected_mac_randomization">Рандомизация MAC-адреса</string>
     <string name="wifi_connected_no_internet">Подключено, без доступа в интернет</string>
+    <string name="wifi_connected_to_message">Подключено к %1$s</string>
     <string name="wifi_connecting">Подключение…</string>
     <string name="wifi_connection_management">Управление подключениями</string>
     <string name="wifi_context_menu_change_password">Изменить пароль</string>

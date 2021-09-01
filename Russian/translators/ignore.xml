@@ -2902,7 +2902,13 @@
     <string name="mobile_data_text_format">%1$s — %2$s</string>
     <string name="mobile_network_settings_class">com.android.phone.MobileNetworkSettings</string>
     <string name="mobile_network_settings_package">com.android.phone</string>
+    <string name="module_assets">assets</string>
     <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Crashes &amp; reboots\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Heating\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobile networks\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Other errors\",\"categoryId\":10,\"order\":2}]</string>
+    <string name="module_feature_assets">assets</string>
+    <string name="module_feature_java">java</string>
+    <string name="module_feature_native">native</string>
+    <string name="module_java">java</string>
+    <string name="module_native">native</string>
     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_vpn_settings_separator">" "</string>
@@ -4517,7 +4523,6 @@ feedsContentId:
     <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
     <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
-    <string name="wifi_connected_to_message">@string/bluetooth_connected_summary</string>
     <string name="wifi_disconnect">@string/bluetooth_device_context_disconnect</string>
     <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2_hint">8.8.4.4</string>
