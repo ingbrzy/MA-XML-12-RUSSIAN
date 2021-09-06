@@ -55,16 +55,16 @@
     <string name="config_classify">Сортировать по настройкам</string>
     <string name="config_description">MIUI может распознавать приложения с особыми видами фоновой активности (например, мессенджеры, навигаторы, плееры) и контролировать их активность без ущерба для важных фоновых процессов</string>
     <string name="config_mode_title">Контроль фоновой активности</string>
-    <string name="config_no_restrict_description">Контроль активности не будет ограничивать работу приложений</string>
-    <string name="config_no_restrict_title">Нет ограничений</string>
-    <string name="config_restrict_function_description">Может влиять на некоторые функции (например, уведомления), но приложения не будут закрыты</string>
-    <string name="config_restrict_function_title">Мягкое ограничение</string>
-    <string name="config_restrict_running_description">Работающие приложения могут быть закрыты для экономии заряда</string>
-    <string name="config_restrict_running_title">Жесткое ограничение</string>
-    <string name="config_restrict_running_warning">Фоновые приложения будут закрыты. Возможно нарушение их работы.</string>
+    <string name="config_no_restrict_description">Контроль активности не будет ограничивать работу приложения</string>
+    <string name="config_no_restrict_title">Без ограничений</string>
+    <string name="config_restrict_function_description">Приложение будет закрыто после 10 минут работы в фоне</string>
+    <string name="config_restrict_function_title">Ограничение работы в фоне</string>
+    <string name="config_restrict_running_description">Приложение в фоне будет закрыто для экономии заряда</string>
+    <string name="config_restrict_running_title">Запрет работы в фоне</string>
+    <string name="config_restrict_running_warning">Приложение в фоне будет закрыто. Возможно нарушение его работы.</string>
     <string name="config_scenario_policies_title">Сценарии</string>
     <string name="config_suggest_description">"Распознавание приложений и действий для поддержания работы важных процессов.
-Контроль активности будет обрабатывать важные приложения избирательно."</string>
+Контроль активности будет избирательно обрабатывать важные приложения."</string>
     <string name="config_suggest_suffix_title">Умный режим (рекомендуется)</string>
     <string name="confirm">OK</string>
     <string name="connect_intranet_hint">Подключитесь к интранету</string>
