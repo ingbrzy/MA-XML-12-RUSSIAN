@@ -20,8 +20,8 @@
     <string name="HIPS_Perm_add_voicemail_Desc">Добавление системных голосовых сообщений</string>
     <string name="HIPS_Perm_get_accounts_Desc">Доступ ко всем аккаунтам на устройстве</string>
     <string name="HIPS_Perm_process_nfc_Desc">Использование NFC</string>
-    <string name="HIPS_Perm_tencentControl">Файлы соцсетей</string>
-    <string name="HIPS_Perm_tencentControl_Desc">Доступ к файлам соцсетей</string>
+    <string name="HIPS_Perm_tencentControl">Файлы приложений соцсетей</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Доступ к файлам приложений соцсетей</string>
     <string name="HIPS_Perm_use_sip_Desc">Использование протокола SIP для потокового видео</string>
     <string name="Phonepass">Разрешить вызовы</string>
     <string name="SMS_and_MMS">SMS и MMS</string>
@@ -230,8 +230,8 @@
     <string name="app_behavior_about_setting">Настройки</string>
     <string name="app_behavior_access_gallery">%1s - доступ к Галерее</string>
     <string name="app_behavior_access_gallery_single">Доступ к Галерее</string>
-    <string name="app_behavior_access_sociality">%1s - доступ к файлам соцсетей</string>
-    <string name="app_behavior_access_sociality_single">Доступ к файлам соцсетей</string>
+    <string name="app_behavior_access_sociality">%1s - доступ к файлам приложений соцсетей</string>
+    <string name="app_behavior_access_sociality_single">Доступ к файлам приложений соцсетей</string>
     <string name="app_behavior_allowed">Разрешить</string>
     <string name="app_behavior_audio">%1s - доступ к микрофону</string>
     <string name="app_behavior_audio_bg">%1s - доступ к микрофону в фоновом режиме</string>
@@ -1521,7 +1521,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="fast_open_list_open_title">Включено для %s приложений</string>
     <string name="fast_open_noti_summary">%s отправил красный конверт</string>
     <string name="fast_open_summary">Быстрое получение красного конверта</string>
-    <string name="file_confirm_start_activity">Приложение %s запрашивает доступ к Галерее и файлам соцсетей. Разрешить?</string>
+    <string name="file_confirm_start_activity">Приложение %s запрашивает доступ к Галерее и файлам приложений соцсетей. Разрешить?</string>
     <string name="finger_remind_message">Добавьте отпечаток пальца. Нажмите для открытия Настроек.</string>
     <string name="fingerprint_identify_msg">Разблокировка отпечатком</string>
     <string name="fingerprint_not_identified_msg">Отпечаток не распознан. Введите пароль.</string>
@@ -1686,7 +1686,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="fw_blocked_join">" и "</string>
     <string name="fw_oversea">Блокировать вызовы из-за границы</string>
     <string name="fw_oversea_content">Блокировать входящие вызовы с иностранных номеров</string>
-    <string name="gallery_confirm_start_activity">Приложение %s хочет получить доступ к Галерее и файлам соцсетей. Разрешить?</string>
+    <string name="gallery_confirm_start_activity">Приложение %s хочет получить доступ к Галерее и файлам приложений соцсетей. Разрешить?</string>
     <string name="game_ad_recommendation">Игры для всех</string>
     <string name="game_anti_disturb_msg">Не беспокоить</string>
     <string name="game_booster">Ускорение игр</string>
@@ -2935,7 +2935,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_draw_overlay">Это разрешение позволяет приложениям отображать плавающие окна поверх любого другого интерфейса на вашем устройстве, что может повлиять на нормальное использование других приложений. Вредоносные приложения могут использовать это разрешение для чтения или сбора личной информации (например, паролей) через прозрачные плавающие окна.</string>
     <string name="permission_instruction_external_storage">Это разрешение позволяет приложениям получать доступ к фотографиям, мультимедиа и файлам на вашем устройстве. Будьте осторожны с этим разрешением, чтобы избежать ненужного разглашения личной информации.</string>
     <string name="permission_instruction_gallery">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к Галерее для приложений, у которых есть доступ к файлам во внутренней памяти</string>
-    <string name="permission_instruction_get_accounts">Это разрешение позволяет приложениям получать доступ к списку учетных записей, хранящихся на вашем устройстве. Этот список может содержать все ваши личные учетные записи, созданные установленными приложениями, а также учетные записи соц. сетей и средств связи.</string>
+    <string name="permission_instruction_get_accounts">Это разрешение позволяет приложениям получать доступ к списку аккаунтов, хранящихся на вашем устройстве. Этот список может содержать все ваши личные аккаунты, созданные установленными приложениями, а также аккаунты соц. сетей и средств связи.</string>
     <string name="permission_instruction_install_shortcuts">Это разрешение позволяет приложениям создавать ярлыки на рабочем столе.</string>
     <string name="permission_instruction_install_unknown_source">Это разрешение позволяет приложениям устанавливать другие приложения на ваше устройство. Вредоносные программы используют это разрешение для установки приложений без вашего подтверждения.</string>
     <string name="permission_instruction_modify_audio_settings">Это разрешение позволяет приложениям изменять настройки звука (например, регулировать громкость без вашего подтверждения). Возможно, вы не сможете регулировать громкость в некоторых приложениях, если не дадите им это разрешение.</string>
@@ -2961,8 +2961,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_send_payment_sms">Это разрешение позволяет приложениям отправлять платные текстовые сообщения.</string>
     <string name="permission_instruction_send_sms">Это разрешение позволяет приложениям отправлять текстовые сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
     <string name="permission_instruction_show_locked">Это разрешение позволяет приложениям отображать элементы на экране блокировки. Вредоносные программы могут использовать это разрешение для показа вам надоедливой рекламы.</string>
-    <string name="permission_instruction_sociality">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к файлам соцсетей для приложений, у которых есть доступ к файлам во внутренней памяти</string>
-    <string name="permission_instruction_storage">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к Галерее и файлам соцсетей для приложений, у которых есть доступ к файлам во внутренней памяти</string>
+    <string name="permission_instruction_sociality">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к файлам приложений соцсетей для тех приложений, у которых есть доступ к внутренней памяти. Для приложений с уровнем API 29 и выше, поддерживающих разделы памяти, выбор не предоставляется.</string>
+    <string name="permission_instruction_storage">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к Галерее и файлам приложений соцсетей для тех приложений, у которых есть доступ к внутренней памяти. Для приложений с уровнем API 29 и выше, поддерживающих разделы памяти, выбор не предоставляется.</string>
     <string name="permission_instruction_touch_pay">Это разрешение позволяет приложениям выполнять бесконтактные платежи.</string>
     <string name="permission_instruction_use_sip">Это разрешение позволяет приложениям использовать видеосервисы SIP.</string>
     <string name="permission_instruction_vr_assistant">Это разрешение позволяет приложениям использовать службы помощника VR.</string>
@@ -3371,7 +3371,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_icon_layout_status_bg_content_unable">Отключено</string>
     <string name="pp_identifier_protection">Защита персональных идентификаторов</string>
     <string name="pp_interception_net_visit_content_manager">Управление доступом</string>
-    <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешен доступ к Галерее и файлам соцсетей</string>
+    <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешен доступ к Галерее и файлам приложений соцсетей</string>
     <string name="pp_local_msg">Местоположение</string>
     <string name="pp_manage_apps_location_information">Разрешение приложениям получать доступ к местоположению</string>
     <string name="pp_manage_track">Мониторинг трекеров</string>
