@@ -205,6 +205,7 @@
     <string name="app_name_view_picture">Галерея</string>
     <string name="app_name_view_video">Просмотреть видео</string>
     <string name="app_summary">Управление и редактирование фото и видео на устройстве и в Xiaomi Cloud</string>
+    <string name="app_summary_2">Хранение, управление и редактирование фото и видео на устройстве</string>
     <string name="apply">Применить</string>
     <string name="art_still_cancel_download">Отмена</string>
     <string name="art_still_download">Загрузить</string>
@@ -586,6 +587,8 @@
     <string name="create_quick_icon_on_desk">Создать ярлык</string>
     <string name="creating_baby_album">Создание альбома…</string>
     <string name="crop_label">Кадрированные фото</string>
+    <string name="cta_agreement_declare"><Data>Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> перед использованием этого приложения.</Data></string>
+    <string name="cta_network_declare">Для синхронизации фото и видео с Xiaomi Cloud приложению требуется подключение к интернету.</string>
     <string name="custom_select_title_deselect_all">Снять выбор</string>
     <string name="custom_select_title_quickly_share">Поделиться</string>
     <string name="custom_select_title_select_all">Выбрать все</string>
@@ -1085,11 +1088,18 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">" ГБ"</string>
     <string name="grant_permission_go_and_set">Настроить</string>
+    <string name="grant_permission_go_and_set_2">Настроить</string>
+    <string name="grant_permission_go_and_set_3">Настроить</string>
+    <string name="grant_permission_shortcut">Разрешите приложению создание ярлыков на рабочем столе</string>
+    <string name="grant_permission_storage">Разрешите приложению доступ к памяти</string>
+    <string name="grant_permission_storage_unlock">Разблокируйте устройство и разрешите приложению доступ к памяти</string>
     <string name="grant_permission_text">"Приложению Галерея требуется доступ к 
 %s
  нажмите \"Настроить\" для перехода к разрешениям."</string>
     <string name="grant_permission_title">Требуются разрешения</string>
     <string name="grant_permission_unlock_and_set">Разблокировать</string>
+    <string name="grant_permission_unlock_and_set_2">Разблокировать</string>
+    <string name="grant_permission_write_clipboard">Для возможности копирования содержимого, разрешите приложению запись в буфер обмена</string>
     <string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
     <string name="have_known">Понятно</string>
     <string name="hello_blank_fragment">Пустой фрагмент</string>
@@ -1685,14 +1695,22 @@
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
     <string name="people_page_unname">Без имени</string>
-    <string name="permission_contacts_desc">Для назначения контактов людям на фотографиях</string>
+    <string name="permission_account_desc">Вход и управление системным аккаунтом</string>
+    <string name="permission_account_name">Доступ к аккаунтам</string>
+    <string name="permission_clipboard_desc">Доступ к содержимому в буфере обмена и его изменение</string>
+    <string name="permission_clipboard_name">Доступ к буферу обмена</string>
+    <string name="permission_contacts_desc">Связывание людей на фото с контактами</string>
+    <string name="permission_contacts_desc_2">Связывание людей на фото с контактами</string>
     <string name="permission_contacts_name">Контакты</string>
+    <string name="permission_contacts_name_2">Доступ к контактам</string>
     <string name="permission_optional_category">Необязательные разрешения</string>
-    <string name="permission_phone_desc">Для синхронизации на связанных устройствах недавно удаленных файлов в Xiaomi Cloud</string>
+    <string name="permission_phone_desc">Синхронизация на связанных устройствах недавно удаленных файлов в Xiaomi Cloud</string>
     <string name="permission_phone_name">Устройство</string>
     <string name="permission_require_category">Обязательные разрешения</string>
-    <string name="permission_storage_desc">Для хранения, отображения, редактирования, синхронизации и загрузки ваших фото и видео</string>
+    <string name="permission_storage_desc">Хранение, отображение, редактирование, синхронизация и загрузка фото и видео</string>
+    <string name="permission_storage_desc_2">@string/permission_storage_desc</string>
     <string name="permission_storage_name">Память</string>
+    <string name="permission_storage_name_2">Сохранение файлов на устройстве и доступ к ним</string>
     <string name="permission_use_desc">Разрешения</string>
     <string name="pet_album_display_name">Фото питомцев</string>
     <string name="petabyteShort">" ПБ"</string>
