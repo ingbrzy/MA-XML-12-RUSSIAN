@@ -1302,6 +1302,7 @@
     <string name="bluetooth_pairing_rejected_error_message">Устройство %1$s не разрешило подключение.</string>
     <string name="bluetooth_pairing_request">Добавить %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Разрешить доступ к контактам и журналу вызовов</string>
+    <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Разрешить доступ к контактам</string>
     <string name="bluetooth_pairing_toast_add_to_blackfile">Успешно заблокировано. Для управления заблокированными устройствами перейдите в \"Дополнительные настройки\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">Подключение обеспечивает доступ к вашим контактам и журналу вызовов.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
@@ -2516,6 +2517,8 @@
     <string name="dialog_check_title">Ошибка подключения</string>
     <string name="dialog_chose_item">Выберите объект</string>
     <string name="dialog_content_login">Войти в Mi Аккаунт для обновления?</string>
+    <string name="dialog_esim_button_negative">Отмена</string>
+    <string name="dialog_esim_button_positive">ОК</string>
     <string name="dialog_location_message">"Заряд батареи расходуется слишком быстро, так как приложение %1$s запрашивает данные о вашем местоположении, даже когда вы им не пользуетесь.
 
 Чтобы устранить эту проблему, запретите приложению доступ к местоположению."</string>
@@ -2529,6 +2532,12 @@
     <string name="dialog_restrict_all_wlan_title">Ограничение Wi-Fi</string>
     <string name="dialog_restrict_negative">Ограничить</string>
     <string name="dialog_restrict_positive">Отмена</string>
+    <string name="dialog_softbank_esim_wipe_cancel">Отмена</string>
+    <string name="dialog_softbank_esim_wipe_info">Все данные eSIM будут очищены. Продолжить?</string>
+    <string name="dialog_softbank_esim_wipe_ok">ОК</string>
+    <string name="dialog_softbank_esim_wipe_title">Очистка eSIM</string>
+    <string name="dialog_softbank_esime_context">Для активации eSIM требуется подключение к интернету. Пропустить активацию?</string>
+    <string name="dialog_softbank_esime_title">Активация eSIM</string>
     <string name="dialog_speaker_auto_clean_button">Понятно</string>
     <string name="dialog_speaker_auto_clean_content">Очистка занимает 30 секунд. Не покидайте эту страницу. Увеличьте громкость звука для лучшего эффекта.</string>
     <string name="dialog_speaker_auto_clean_title">Внимание</string>
@@ -6501,7 +6510,7 @@ UT-интерфейс: %5$s"</string>
     <string name="ringtones_category_preference_title">Рингтоны</string>
     <string name="ringtones_install_custom_sound_content">Этот файл будет скопирован в папку \"%s\"</string>
     <string name="ringtones_install_custom_sound_title">Добавление пользовательского сигнала</string>
-    <string name="risk_tip">Выявлена угроза</string>
+    <string name="risk_tip">Найдена угроза</string>
     <string name="roaming">Роуминг</string>
     <string name="roaming_alert_title">Разрешить интернет-роуминг?</string>
     <string name="roaming_check_price_warning">Информацию о тарифах вы можете получить у оператора связи.</string>

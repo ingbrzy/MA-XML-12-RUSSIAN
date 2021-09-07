@@ -10,6 +10,7 @@
     <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам во внутренней памяти</string>
     <string name="HIPS_Perm_External_Storage_Group">Управление доступом</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Выбор файлов, к которым разрешен доступ приложениям</string>
+    <string name="HIPS_Perm_GetInstall_Desc">Получение информации о приложениях, установленных на устройстве</string>
     <string name="HIPS_Perm_PhoneID_Desc">Доступ к номеру телефона, IMEI и IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и состоянию устройства</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Чтение журнала вызовов</string>
@@ -2414,7 +2415,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Зарубежный роуминг</string>
     <string name="midnight">Ночь</string>
-    <string name="midrop_post_notification_contentText">Воспользуйтесь Mi Drop со скоростью до 50 Мбит/с.</string>
     <string name="midrop_post_notification_contentTitle">Нужно передать файлы?</string>
     <string name="miui_optimization_close_final_tip">Отключить оптимизацию MIUI?</string>
     <string name="miui_optimization_close_title">Эта функция предназначена для разработчиков. Отключение оптимизации MIUI может привести к:</string>
@@ -3794,12 +3794,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="reset_data_title">Невозможно восстановить пароль</string>
     <string name="result_autoscan_header">Мониторинг платежей</string>
     <string name="result_autoscan_info">Автоматический мониторинг системы при запуске платежных приложений</string>
-    <string name="result_sms_header">Найдены угрозы для сообщений</string>
+    <string name="result_sms_header">Угроза для сообщений</string>
     <string name="result_sms_info_antispam">Включите Антиспам для защиты устройства от вредоносных ссылок</string>
     <string name="result_sms_info_auth">Ограничьте доступ сторонних приложений к кодам подтверждения</string>
     <string name="result_sms_title_antispam">Угроза вредоносных ссылок в SMS</string>
     <string name="result_sms_title_auth">Угроза утечки финансовых данных</string>
-    <string name="result_wifi_header">Найдены угрозы для Wi-Fi</string>
+    <string name="result_wifi_header">Угроза для Wi-Fi</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Доверять этому приложению</string>
     <string name="risk_app_install_agree_checkbox">Я осознаю возможные риски</string>
@@ -3814,7 +3814,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="risk_detail_app">Создает угрозы</string>
     <string name="risk_detail_title">Возможные угрозы</string>
     <string name="risk_info_title">Описание</string>
-    <string name="risk_tip">Выявлена угроза</string>
+    <string name="risk_tip">Найдена угроза</string>
     <string name="risk_type_title">Тип</string>
     <string name="roaming_allow_network_dialog_title">Интернет-роуминг</string>
     <string name="roaming_limit_dialog_message">Достигнут суточный лимит трафика в роуминге.</string>
@@ -5245,6 +5245,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="write_clipboard_tip_content">Это разрешение позволяет приложениям запись в буфер обмена. Спам-сообщения могут повлиять на использование буфера обмена.</string>
     <string name="write_clipboard_tip_title">Запись в буфер обмена</string>
     <string name="wrong_password">Неверный пароль</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xiaomi_privacy_protection_measures">Способы защиты конфиденциальности</string>
     <string name="xspace_warning_dialog_button">Понятно</string>
     <string name="xspace_warning_dialog_message">Из-за ограничений в Android %d, все клоны приложений имеют доступ только к своим созданным и сохраненным фото и видео</string>

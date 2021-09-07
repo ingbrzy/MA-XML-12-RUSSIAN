@@ -64,6 +64,7 @@
     <string name="ad_data_exception">Ошибка данных рекламы</string>
     <string name="ad_recommend">Показывать рекламу</string>
     <string name="ad_setting">Дополнительные настройки</string>
+    <string name="add">Добавить</string>
     <string name="add_music">Добавить треки</string>
     <string name="add_to_last_of_playlist">Добавить в конец плейлиста</string>
     <string name="add_to_playlist">Добавить в плейлист</string>
@@ -231,6 +232,7 @@
     <string name="dialog_cannot_resume">Загрузка прервана и не может быть возобновлена.</string>
     <string name="dialog_clear_history">Очистить список недавно проигранных треков?</string>
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
+    <string name="dialog_continue">ОК</string>
     <string name="dialog_failed_body">Загрузить файл позже или удалить его из очереди загрузок?</string>
     <string name="dialog_file_already_exists">Ошибка загрузки. Такой файл уже существует.</string>
     <string name="dialog_file_missing_body">Не удалось найти загруженный файл.</string>
@@ -266,6 +268,7 @@
     <string name="dialog_song_view_type_artist">По исполнителям</string>
     <string name="dialog_song_view_type_folder">По папкам</string>
     <string name="dialog_song_view_type_song">По трекам</string>
+    <string name="dialog_stop_audio_in">Таймер воспроизведения</string>
     <string name="dialog_subtitle_make_playlist_public">Общие плейлисты доступны всем. Личные плейлисты доступны только вам на всех синхронизированных устройствах.</string>
     <string name="dialog_title_clearlist_tracks">Удалить из очереди</string>
     <string name="dialog_title_delete_tracks">Удалить</string>
@@ -773,6 +776,7 @@
     <string name="mulit_choice_management">Управление элементами</string>
     <string name="music_browser_label">Музыка</string>
     <string name="music_filter">Фильтр аудиофайлов</string>
+    <string name="music_quality">Качество звука</string>
     <string name="music_recommendation">Рекомендации</string>
     <string name="music_service">Сервисы музыки</string>
     <string name="music_settings">Музыка</string>
@@ -806,6 +810,7 @@
     <string name="no_local_songs_selected">Невозможно отправить трек, который не загружен.</string>
     <string name="no_local_source_find">Файл не найден</string>
     <string name="no_longer_prompt">Больше не показывать</string>
+    <string name="no_lyrics">Ничего нет</string>
     <string name="no_results_return">Ничего не найдено</string>
     <string name="no_scanned_songs">Нет треков</string>
     <string name="no_song_downloaded">Треки для загрузки не найдены</string>
@@ -1217,11 +1222,12 @@
     <string name="toast_download_in_process">Загрузка…</string>
     <string name="toast_favorite_has_been_added">Добавлено в плейлист</string>
     <string name="toast_follow_success">Добавлено в подписки</string>
+    <string name="toast_hungama_vip_song">Эта трек доступен только PRO подписчикам. Оформите подписку для скачивания.</string>
     <string name="toast_is_pro">Вы уже являетесь PRO подписчиком</string>
-    <string name="toast_my_playlist_illegal_name">"Некорректное название плейлиста. Переименуйте плейлист."</string>
-    <string name="toast_my_playlist_set_to_private">"Плейлист закрыт. Никто не может видеть его."</string>
-    <string name="toast_my_playlist_set_to_public">Плейлист доступен. Все могут видеть его.</string>
-    <string name="toast_my_playlist_sync_failed">"Не удалось синхронизировать плейлисты из-за ошибки сети."</string>
+    <string name="toast_my_playlist_illegal_name">Некорректное название плейлиста. Переименуйте плейлист.</string>
+    <string name="toast_my_playlist_set_to_private">Плейлист закрыт и никому не доступен</string>
+    <string name="toast_my_playlist_set_to_public">Плейлист доступен всем</string>
+    <string name="toast_my_playlist_sync_failed">Не удалось синхронизировать плейлисты из-за ошибки сети</string>
     <string name="toast_new_playlist_name_no_enter">Не удалось начать новый абзац</string>
     <string name="toast_new_playlist_name_too_long">Имя плейлиста слишком длинное</string>
     <string name="toast_normal_songs_for_download">Качество загрузок: стандартное</string>

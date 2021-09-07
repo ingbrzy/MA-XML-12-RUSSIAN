@@ -772,13 +772,13 @@
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено к %1$s</string>
     <string name="connection_service_default_label">Встроенная служба подключения</string>
-    <string name="contactAddFailed">Ошибка добавления контакта на SIM-карту.</string>
-    <string name="contactAddSuccess">Контакт добавлен на SIM карту.</string>
+    <string name="contactAddFailed">Ошибка добавления контакта на SIM-карту</string>
+    <string name="contactAddSuccess">Контакт добавлен на SIM-карту</string>
     <string name="contactPhoto">Фото контакта</string>
     <string name="contactUpdateFailed">Ошибка обновления контакта на SIM-карте</string>
-    <string name="contactUpdateSuccess">Контакт на SIM-карте обновлен.</string>
+    <string name="contactUpdateSuccess">Контакт на SIM-карте обновлен</string>
     <string name="contactdeleteFailed">Ошибка удаления контакта с SIM-карты</string>
-    <string name="contactdeleteSuccess">Контакт удален с SIM-карты.</string>
+    <string name="contactdeleteSuccess">Контакт удален с SIM-карты</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="convert_to_fbe_warning">"Перейти к шифрованию отдельных файлов.
 Внимание! Все ваши данные будут удалены.
@@ -1041,9 +1041,10 @@
     <string name="enhanced_connectivity">Улучшенное соединение</string>
     <string name="enhanced_connectivity_summary">Включение функции улучшения соединения</string>
     <string name="enter_callbarring_password">Введите пароль запрета вызовов (%d символа)</string>
+    <string name="enter_esim_manager">Менеджер eSIM</string>
     <string name="enter_input" formatted="false">USSD запрос должен содержать от %d до %d символов. Повторите попытку.</string>
     <string name="enter_pin2_text">PIN2</string>
-    <string name="enter_pin_text">PIN SIM карты:</string>
+    <string name="enter_pin_text">PIN SIM-карты:</string>
     <string name="entertainment_news_settings">Развлечения</string>
     <string name="eo_disable">Вакансии отключены</string>
     <string name="eo_enable">Вакансии включены</string>
@@ -1052,8 +1053,13 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_updating_title">Ошибка настройки вызовов</string>
+    <string name="esim_goto_active">еSIM активна</string>
+    <string name="esim_inactive_message">еSIM неактивна</string>
+    <string name="esim_inactive_notification_channel">eSimInActiveNotification</string>
+    <string name="esim_inactive_notification_message">SIM-карта не обнаружена. Нажмите для активации.</string>
+    <string name="esim_inactive_settings_title">Настройки сети</string>
     <string name="evening">После полудня</string>
-    <string name="exception_error">Ошибка сети или SIM карты</string>
+    <string name="exception_error">Ошибка сети или SIM-карты</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="external_source_trusted">Разрешено</string>
     <string name="external_source_untrusted">Запрещено</string>
@@ -1675,7 +1681,7 @@
     <string name="no_unlock_chance_hint">"Вы исчерпали все попытки.
 Свяжитесь с оператором."</string>
     <string name="no_vm_number">Не указан номер голосовой почты</string>
-    <string name="no_vm_number_msg">На SIM карте нет номеров голосовой почты.</string>
+    <string name="no_vm_number_msg">На SIM-карте нет номеров голосовой почты.</string>
     <string name="no_voip">Вызовы через SIP не поддерживаются</string>
     <string name="no_wifi_available">Для вызова через SIP, требуется подключение к сети Wi-Fi (его можно настроить в разделе \"Беспроводные сети\").</string>
     <string name="noon">Полдень</string>
@@ -2042,7 +2048,7 @@
     <string name="puk_lock_warning">"
 SIM-карта будет заблокирована при неудачной попытке ввода."</string>
     <string name="puk_requested">Неверный пароль, PIN заблокирован. Введите код PUK.</string>
-    <string name="puk_unlocked">SIM карта разблокирована. Идет разблокировка устройства…</string>
+    <string name="puk_unlocked">SIM-карта разблокирована. Идет разблокировка устройства…</string>
     <string name="quick_dial_setting_title">Быстрый набор</string>
     <string name="radioInfo_cid">CID</string>
     <string name="radioInfo_data_connected">Подключено</string>
@@ -2269,9 +2275,9 @@ UT-интерфейс: %5$s"</string>
     <string name="show_screen_updates_summary">Подсвечивать поверхности окон при обновлении</string>
     <string name="show_touches">Визуальный отклик</string>
     <string name="show_touches_summary">Показывать места нажатия на экране</string>
-    <string name="simContacts_airplaneMode">Для импорта контактов с SIM карты отключите режим полета.</string>
-    <string name="simContacts_empty">На SIM карте нет контактов</string>
-    <string name="simContacts_emptyLoading">Загрузка контактов с SIM карты…</string>
+    <string name="simContacts_airplaneMode">Для импорта контактов с SIM-карты отключите режим полета.</string>
+    <string name="simContacts_empty">На SIM-карте нет контактов</string>
+    <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
     <string name="simContacts_title">Выберите контакты для импорта</string>
     <string name="simFdnContacts_empty">Нет разрешенных номеров</string>
     <string name="sim_accounts">Аккаунты SIM</string>
@@ -2690,8 +2696,8 @@ UT-интерфейс: %5$s"</string>
     <string name="vibrating_for_outgoing_call_accepted_summary">Включить вибрацию для разрешенного исходящего вызова</string>
     <string name="vibrating_for_outgoing_call_accepted_title">Вибрация для исходящего вызова</string>
     <string name="vice_card_data_in_use_alert">Могут возникнуть дополнительные затраты.</string>
-    <string name="vice_slot_volte_data_switch_prompt">Во время вызовов VoLTE ваше устройство сможет использовать мобильный интернет через вторую SIM карту. Это может вызвать дополнительные затраты. Обратитесь к вашему оператору связи за информацией о тарифном плане.</string>
-    <string name="vice_slot_volte_data_switch_summary">Во время вызовов VoLTE устройство сможет использовать мобильный интернет через вторую SIM карту</string>
+    <string name="vice_slot_volte_data_switch_prompt">Во время вызовов VoLTE ваше устройство сможет использовать мобильный интернет через вторую SIM-карту. Это может вызвать дополнительные затраты. Обратитесь к вашему оператору связи за информацией о тарифном плане.</string>
+    <string name="vice_slot_volte_data_switch_summary">Во время вызовов VoLTE устройство сможет использовать мобильный интернет через вторую SIM-карту</string>
     <string name="vice_slot_volte_data_switch_title">Мобильный интернет во время вызовов VoLTE</string>
     <string name="video_calling_settings_title">Видеовызовы</string>
     <string name="vm_change_failed">"Не удалось изменить номер голосовой почты.
@@ -2746,7 +2752,7 @@ UT-интерфейс: %5$s"</string>
     <string name="volte_provision_text">Использование VoLTE улучшает качество вызовов. Отправить SMS для активации?</string>
     <string name="volte_provision_title">Активация VoLTE</string>
     <string name="volte_provisioned_switch_string">Обслуживание VoLTE</string>
-    <string name="volte_switch_not_support_summary">Вызовы VoLTE не поддерживаются текущей SIM картой</string>
+    <string name="volte_switch_not_support_summary">Вызовы VoLTE не поддерживаются текущей SIM-картой</string>
     <string name="volte_switch_not_support_summary2">Вызовы VoLTE не поддерживаются оператором</string>
     <string name="volte_switch_summary">Использовать VoLTE для улучшения качества голосовых вызовов и видеовызовов</string>
     <string name="volte_switch_summary2">Перед включением убедитесь, что ваш оператор поддерживает эту функцию. В противном случае могут быть затронуты обычные вызовы.</string>

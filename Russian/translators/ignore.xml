@@ -696,6 +696,8 @@
     <string name="back_draco">2:SHOT ON MIX ALPHA:AI DUAL CAMERA:108MP DUAL CAMERA</string>
     <string name="back_durandal">4:REDMI NOTE 9S:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_durandal_india">4:REDMI NOTE 9 PRO:AI QUAD CAMERA:48MP QUAD CAMERA</string>
+    <string name="back_elish">2:XIAOMI PAD 5 PRO</string>
+    <string name="back_enuma">2:XIAOMI PAD 5 PRO 5G</string>
     <string name="back_equuleus">2:SHOT ON MI 8 UD:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_equuleus_global">2:SHOT ON MI 8 PRO:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_excalibur">4:REDMI NOTE 9 PRO:AI QUAD CAMERA:64MP QUAD CAMERA</string>
@@ -751,6 +753,7 @@
     <string name="back_merlin_india">4:REDMI NOTE 9:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_merlinnfc_global">4:REDMI NOTE 9:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_monet">4:MI10 LITE 5G:AI QUAD CAMERA:48MP QUAD CAMERA</string>
+    <string name="back_nabu">1000:XIAOMI PAD 5</string>
     <string name="back_odin">3:XIAOMI MIX 4</string>
     <string name="back_onc">2:SHOT ON REDMI Y3:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_onc_global_lite">2:SHOT ON REDMI 7:AI DUAL CAMERA:48MP DUAL CAMERA</string>
@@ -4500,6 +4503,8 @@ feedsContentId:
     <string name="warn_function_no_work"> </string>
     <string name="watch_the_long_video">看正片</string>
     <string name="watermark_count_format" formatted="false">%d/%d</string>
+    <string name="wave_path_1">M120,40 A80,80,0,0,1,120,200 A80,80,0,0,1,120,40</string>
+    <string name="wave_path_2">M120,0 A120,120,0,0,1,120,240 A120,120,0,0,1,120,0</string>
     <string name="weChat_not_found"> </string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="wechat">WeChat</string>
@@ -4519,6 +4524,10 @@ feedsContentId:
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
+    <string name="widget_size_item">%1$d×%2$d</string>
+    <string name="widget_size_item_2x2">%1$d×%2$d</string>
+    <string name="widget_size_item_4x2">%1$d×%2$d</string>
+    <string name="widget_size_item_4x4">%1$d×%2$d</string>
     <string name="widget_small_text_separator">-</string>
     <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
     <string name="wifi_calling_roaming_mode_summary">%1$s</string>
