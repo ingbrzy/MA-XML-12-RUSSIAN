@@ -1041,7 +1041,7 @@
     <string name="enhanced_connectivity">Улучшенное соединение</string>
     <string name="enhanced_connectivity_summary">Включение функции улучшения соединения</string>
     <string name="enter_callbarring_password">Введите пароль запрета вызовов (%d символа)</string>
-    <string name="enter_esim_manager">Менеджер eSIM</string>
+    <string name="enter_esim_manager">Управление eSIM</string>
     <string name="enter_input" formatted="false">USSD запрос должен содержать от %d до %d символов. Повторите попытку.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN SIM-карты:</string>
@@ -1053,11 +1053,11 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_updating_title">Ошибка настройки вызовов</string>
-    <string name="esim_goto_active">еSIM активна</string>
+    <string name="esim_goto_active">Активировать</string>
     <string name="esim_inactive_message">еSIM неактивна</string>
     <string name="esim_inactive_notification_channel">eSimInActiveNotification</string>
-    <string name="esim_inactive_notification_message">SIM-карта не обнаружена. Нажмите для активации.</string>
-    <string name="esim_inactive_settings_title">Настройки сети</string>
+    <string name="esim_inactive_notification_message">SIM-карта не обнаружена. Нажмите для активации eSIM.</string>
+    <string name="esim_inactive_settings_title">Мобильные сети</string>
     <string name="evening">После полудня</string>
     <string name="exception_error">Ошибка сети или SIM-карты</string>
     <string name="expand_button_title">Дополнительно</string>
@@ -1486,7 +1486,7 @@
     <string name="mobile_geo_location_config_summary">Отмечать места с аномалиями сетевого сигнала для улучшения качества связи</string>
     <string name="mobile_geo_location_config_title">Оптимизация сети с фиксированной точкой</string>
     <string name="mobile_intelligent_connection_title">Оптимизация мобильной сети</string>
-    <string name="mobile_network_dual_card_optimizationmobile_title">Двойная SIM и мобильные сети</string>
+    <string name="mobile_network_dual_card_optimizationmobile_title">Мобильные сети</string>
     <string name="mobile_network_settings_not_available">Настройки мобильных сетей недоступны этому пользователю</string>
     <string name="mobile_networks">Мобильные сети</string>
     <string name="mobile_property">Свойства</string>

@@ -30,6 +30,7 @@
     <string name="action_settings">Настройки</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activity_title_fakecell">Защита от поддельных базовых станций</string>
+    <string name="add_Ovrride_Config">Добавить данные</string>
     <string name="afternoon">После полудня</string>
     <string name="app_name">Провайдер шагов</string>
     <string name="booster_config_version">"Текущая версия: "</string>
@@ -40,13 +41,18 @@
     <string name="copy">Копировать</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
+    <string name="delDialog">Внимание: операция удаления</string>
+    <string name="delDialog_msg">Удаление параметра игры</string>
     <string name="detect_fakecell">Распознавание SMS от поддельных базовых станций</string>
+    <string name="dynamic_fps">Режим производительности ：</string>
+    <string name="dynamic_fps_M">Модель равновесия ：</string>
     <string name="early_morning">Утро</string>
     <string name="end_title">Конец игры</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
+    <string name="exportJson">Экспорт JSON-файла</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -73,6 +79,9 @@
     <string name="hello_world">Хеллоу, мир!</string>
     <string name="joyose_name">Joyose</string>
     <string name="lab_switch_server">Переключение серверов</string>
+    <string name="local_ctrl">Локальная отладка</string>
+    <string name="local_ctrl_dialog_cancle">Отмена</string>
+    <string name="local_ctrl_dialog_confirm">ОК</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
@@ -143,6 +152,7 @@
     <string name="not_set">Не задано</string>
     <string name="not_support_forbidden_fakecell">Устройство не поддерживает на аппаратном уровне защиту от поддельных базовых станций</string>
     <string name="open_cta">Разрешите приложению подключение к интернету в приложении Безопасность</string>
+    <string name="package_name">Имя пакета ：</string>
     <string name="permstep_description">Разрешение приложению доступ к информации о шагах</string>
     <string name="permstep_label">Информация о шагах</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
@@ -155,6 +165,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="selectJson">Выбор JSON-файла</string>
     <string name="send">Отправить</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
@@ -181,12 +192,14 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="stop_sync">Остановить синхронизацию автоматически?</string>
+    <string name="submit_data">Изменить данные</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="support_forbidden_fakecell">Предупреждение: ограничение подключения к поддельным базовым станциям может снизить сигнал в областях с плохим покрытием</string>
     <string name="switch_international">Переключиться на международный сервер</string>
     <string name="switch_to_official">Переключиться на официальный сервер</string>
+    <string name="switch_to_russia">Переключиться на российский сервер</string>
     <string name="switch_to_staging">Переключиться на тестовый сервер</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
