@@ -3280,6 +3280,7 @@
     <string name="font_size_summary1">"Если шрифт слишком мал, попробуйте "</string>
     <string name="font_size_summary2">Простой режим.</string>
     <string name="forbidden_network">(доступ запрещен)</string>
+    <string name="forbidden_set_unlock_password_msg">Пароль не может быть установлен или изменен при активном режиме обслуживания</string>
     <string name="forbidden_switch_apn_string">Выбранные настройки точки доступа не соответствуют текущему типу сети</string>
     <string name="force_allow_on_external">Внешний накопитель</string>
     <string name="force_allow_on_external_summary">Разрешать приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
@@ -4849,6 +4850,7 @@
     <string name="miheadset_unpair_device">Отменить сопряжение?</string>
     <string name="miheadset_unpair_device_text">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="miheadset_voiceIncrease">Улучшение звучания</string>
+    <string name="miheadset_windnoise">Ветер</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Разное</string>
     <string name="misc_files_selected_count">Выбрано: %1$d из %2$d</string>
