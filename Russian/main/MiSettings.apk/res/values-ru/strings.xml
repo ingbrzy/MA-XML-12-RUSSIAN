@@ -44,9 +44,9 @@
     <string name="animal_class">Класс</string>
     <string name="animal_item">Отряд</string>
     <string name="animal_select_alert_info">Можно выбрать не более 5 пунктов</string>
-    <string name="anti_flicker_mode">Устранение мерцания</string>
+    <string name="anti_flicker_mode">Режим антимерцания</string>
     <string name="anti_flicker_mode_categroy">Режимы</string>
-    <string name="anti_flicker_mode_summary">Устранять мерцание при низкой освещенности для снижения нагрузки на глаза</string>
+    <string name="anti_flicker_mode_summary">Устранение мерцания при низкой освещенности для снижения нагрузки на глаза</string>
     <string name="anti_flicker_title">Устранение мерцания</string>
     <string name="app_name">Настройки</string>
     <string name="application_sound">Звук уведомления для приложения</string>
@@ -141,6 +141,8 @@
     <string name="created_successfully">Ярлык создан</string>
     <string name="crowned_hornbill">Птица-носорог</string>
     <string name="cu_confirm">Установить</string>
+    <string name="customize_radio_btn_summary">Предпочтительная частота обновления</string>
+    <string name="customize_radio_btn_title">Выбор</string>
     <string name="dall_sheep">Баран Далла</string>
     <string name="dart_frog_info">Его ярко-синяя кожа и ядовитые железы - механизмы защиты от потенциальных хищников</string>
     <string name="date_picker_label_day" />
@@ -150,8 +152,12 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="dc_light_hint_enable_title">Внимание</string>
     <string name="dc_light_hint_normal">Включение DC dimming может повлиять на отображение некоторых элементов.</string>
-    <string name="dc_light_hint_other">Включение DC dimming может повлиять на частоту обновления и отображение некоторых элементов.</string>
-    <string name="dc_lignt_enable_hint">Для устранения мерцания частота обновления экрана будет переключена на 60 Гц. Переключить?</string>
+    <string name="dc_light_hint_normal_anit">Режим антимерцания может повлиять на отображение некоторых элементов</string>
+    <string name="dc_light_hint_normal_other">Режим антимерцания может повлиять на частоту обновления и отображение некоторых элементов</string>
+    <string name="dc_light_hint_other">Включение DC dimming может повлиять на частоту обновления и отображение некоторых элементов</string>
+    <string name="dc_light_hint_unnormal_low">Режим антимерцания при низкой освещенности может повлиять на отображение некоторых элементов</string>
+    <string name="dc_light_hint_unnormal_other">Режим антимерцания при низкой освещенности может повлиять на частоту обновления и отображение некоторых элементов</string>
+    <string name="dc_lignt_enable_hint">Режим антимерцания установит частоту обновления экрана 60 Гц. Продолжить?</string>
     <string name="delete_first_to_add_animal">Удалите какой-либо из элементов для добавления нового</string>
     <string name="desktop_widget_authorization">Нажмите, чтобы предоставить разрешения для просмотра статистики</string>
     <string name="desktop_widget_not_support">"Статистика времени экрана 
@@ -251,13 +257,19 @@
     <string name="focus_mode_timer_pick_dialog_title">Длительность</string>
     <string name="focus_time_exception_tip">Системное время изменилось. Режим медитации выключен.</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
+    <string name="fps_high">Высокая</string>
     <string name="fps_nature_summary">Максимальная частота обновления делает все четким и ясным</string>
     <string name="fps_nature_title">Максимальная</string>
+    <string name="fps_normal">Стандартная</string>
+    <string name="fps_radio_btn_title">Частота обновления</string>
+    <string name="fps_save_battery_tips">Включена экономия заряда. Установлена частота обновления %d Гц.</string>
     <string name="fps_smooth_summary">Высокая частота обновления добавляет четкость деталям</string>
     <string name="fps_smooth_title">Высокая</string>
     <string name="fps_standard_summary">Стандартная частота обновления экономит заряд батареи</string>
     <string name="fps_standard_title">Стандартная</string>
     <string name="fps_user_tip">- Демо-анимация воспроизводится на низкой скорости для примера. Фактическая производительность может отличаться в зависимости от различных факторов.</string>
+    <string name="fps_user_tip_footer">"%1$d. Чтобы увидеть разницу между более высокой и более низкой частотой обновления, деморолики воспроизводятся с замедлением. При обычном использовании заметить разницу будет сложнее.
+%2$d. В некоторых случаях частота обновления может изменяться динамически, в зависимости от контента на экране."</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -282,12 +294,15 @@
     <string name="has_applied">Применено</string>
     <string name="healthy_use_phone">Управление временем экрана</string>
     <string name="helmeted_guineafowl">Цесарка</string>
-    <string name="high_fps_description">Высокая частота обновления экрана. Повышенное энергопотребление.</string>
+    <string name="high_fps_description">Высокая частота обновления экрана. Повышенный расход заряда.</string>
+    <string name="high_fps_tip_footer">Высокая частота обновления делает просмотр более плавным, но сильнее расходует заряд.</string>
     <string name="hippopotamus">Гиппопотам</string>
     <string name="hsv_space_color">Цветовая модель HSV</string>
     <string name="hsv_space_color_hue">Оттенок</string>
     <string name="hsv_space_color_saturation">Насыщенность</string>
     <string name="hsv_space_color_value">Значение</string>
+    <string name="intelligent_radio_btn_summary">Динамическая регулировка частоты обновления для баланса между производительностью и расходом заряда</string>
+    <string name="intelligent_radio_btn_title">Авто (рекомендуется)</string>
     <string name="intelligent_recognition_item_summary">Использовать определенные рингтоны для служб доставки или такси. Эта функция будет работать, если %s установлен в качестве рингтона по умолчанию.</string>
     <string name="intelligent_recognition_item_title">Идентификация сервисов</string>
     <string name="item_anura">Бесхвостые</string>
@@ -327,6 +342,8 @@
     <string name="lion_info">Львы - свирепые и сильные хищники, живут группами и имеют сильное чувство территории</string>
     <string name="lock_summary">Защитите личную информацию</string>
     <string name="long_tai1ed_iaeger">Длиннохвостый поморник</string>
+    <string name="low_flicker_mode">Низкая освещенность</string>
+    <string name="low_flicker_mode_summary">Предотвращение мерцания при низкой освещенности для снижения нагрузки на глаза</string>
     <string name="low_fps_description">Низкая частота обновления экрана. Пониженное энергопотребление.</string>
     <string name="low_light_preview">Предпросмотр при низкой освещенности</string>
     <string name="lynx">Рысь</string>
@@ -431,6 +448,7 @@
     <string name="noon">Полдень</string>
     <string name="normal_mode">Обычный режим</string>
     <string name="normal_mode_summary">Не устранять мерцание при низкой освещенности</string>
+    <string name="normal_mode_summary_new">Не устранять мерцание при низкой освещенности</string>
     <string name="north_white_rhinoceros">Белый носорог</string>
     <string name="norway_lemmings">Норвежские лемминги</string>
     <string name="norway_lemmings_info">Норвежский лемминг обитает в тундре и на болотах, предпочитает жить у воды</string>
@@ -548,6 +566,8 @@
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="southern_elephant_seal">Южный морской слон</string>
     <string name="southern_ground_hornbill">Кафрский рогатый ворон</string>
+    <string name="split_page_authorization">Добро пожаловать в функцию Время экрана! Здесь вы можете установить лимит использования устройства и просмотреть статистику. Нажмите \"Начать\", чтобы включить.</string>
+    <string name="split_page_start">Начать</string>
     <string name="spotted_hyaena">Пятнистая гиена</string>
     <string name="spotted_hyaena_info">Гиены - ночные хищники с самым сложным социальным поведением</string>
     <string name="spur_winged_plover">Шпорцевый чибис</string>
@@ -697,16 +717,16 @@
     <string name="usage_home_permission_account_title">Доступ к учетной записи</string>
     <string name="usage_home_permission_phone_summary">Идентификация устройства с помощью VAID</string>
     <string name="usage_home_permission_phone_title">Доступ к информации об устройстве</string>
-    <string name="usage_home_premission_main_summary">"Добро пожаловать в приложение Время экрана! 
-Вы можете использовать это приложение для задания лимита времени экрана, просмотра статистики, переключения в Режим медитации. Для работы приложению требуется разрешение для сбора информации о времени экрана (сколько раз вы разблокировали устройство или включали экран, продолжительность использования приложений)."</string>
-    <string name="usage_home_premission_main_summary_new">"Добро пожаловать в приложение Время экрана!
-Для работы приложению требуется собирать следующую статистику: сколько раз вы разблокировали устройство, продолжительность использования приложений. 
-Приложению также требуются подключение к интернету и следующие разрешения для сбора вашей личной информации:"</string>
-    <string name="usage_home_premission_main_summary_new_o">"Добро пожаловать в приложение Время экрана!
-Для работы приложению требуется собирать следующую статистику: сколько раз вы разблокировали устройство, продолжительность использования приложений. 
-Приложению также требуются подключение к интернету и следующие разрешения для сбора вашей личной информации:"</string>
-    <string name="usage_home_premission_second_summary">Для работы приложению требуется разрешения для сбора вашей личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать приложение. Вы можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции</string>
+    <string name="usage_home_premission_main_summary">"Добро пожаловать в функцию Время экрана! 
+Вы можете использовать эту функцию для задания лимита времени экрана, просмотра статистики или переключения в Режим медитации. Для работы функции требуется разрешение на сбор информации о времени экрана (сколько раз разблокировалось устройство или включался экран, продолжительность использования приложений)."</string>
+    <string name="usage_home_premission_main_summary_new">"Добро пожаловать в функцию Время экрана!
+Для работы функции требуется разрешение на сбор следующей статистики: сколько раз разблокировалось устройство, продолжительность использования приложений. 
+Также требуются подключение к интернету и нижеперечисленные разрешения на сбор личной информации:"</string>
+    <string name="usage_home_premission_main_summary_new_o">"Добро пожаловать в функцию Время экрана!
+Для работы функции требуется разрешение на сбор следующей статистики: сколько раз разблокировалось устройство, продолжительность использования приложений. 
+Также требуются подключение к интернету и нижеперечисленные разрешения на сбор личной информации:"</string>
+    <string name="usage_home_premission_second_summary">Для работы функции требуется разрешения на сбор личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать функцию. Вы можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1s\"&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=\"%2s\"&gt;Политикой конфиденциальности&lt;/a&gt;."&lt;/Data&gt;</string>
     <string name="usage_home_premission_second_summary_new">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить разрешения, вы не сможете использовать приложение. Вы всегда можете отозвать свою авторизацию в меню Время экрана &gt; Настройки &gt; Отключение функции. По дополнительным вопросам о конфиденциальности вы можете связаться по адресу privacy@xiaomi.com</string>
     <string name="usage_new_home_app_limit_summary">Ежедневный лимит для приложения</string>
@@ -751,11 +771,11 @@
     <string name="usage_no_net_summary">Проверьте настройки сети и повторите попытку</string>
     <string name="usage_optional_summary">Эти разрешения необходимы для дополнительных функций.</string>
     <string name="usage_optional_title">Дополнительные разрешения</string>
-    <string name="usage_permisison_agree_desc_o">Для предоставления статистики времени экрана приложению требуется разрешение собирать следующие данные: сколько раз разблокировалось устройство, список приложений и продолжительность их использования.</string>
-    <string name="usage_permisison_agree_desc_p">Для предоставления статистики времени экрана и режима медитации приложению требуется разрешение собирать следующие данные: сколько раз разблокировалось устройство, список приложений и продолжительность их использования, сколько раз включался экран, настройки режима медитации.</string>
-    <string name="usage_permission_double_link" formatted="false">"Для правильной работы приложению требуются подключение к интернету и разрешение на сбор личных данных. Используя это приложение, вы соглашаетесь с нашими Пользовательским соглашением и Политикой конфиденциальности."</string>
-    <string name="usage_permission_main_desc">"Добро пожаловать в приложение Время экрана!
-Для правильной работы приложению требуются подключение к интернету и следующие разрешения:"</string>
+    <string name="usage_permisison_agree_desc_o">Для предоставления статистики времени экрана функции требуется разрешение собирать следующие данные: сколько раз разблокировалось устройство, список приложений и продолжительность их использования.</string>
+    <string name="usage_permisison_agree_desc_p">Для предоставления статистики времени экрана и режима медитации функции требуется разрешение собирать следующие данные: сколько раз разблокировалось устройство, список приложений и продолжительность их использования, сколько раз включался экран, настройки режима медитации.</string>
+    <string name="usage_permission_double_link" formatted="false">"Для правильной работы функции требуются подключение к интернету и разрешение на сбор личных данных. Используя эту функцию, вы соглашаетесь с нашими Пользовательским соглашением и Политикой конфиденциальности."</string>
+    <string name="usage_permission_main_desc">"Добро пожаловать в функцию Время экрана!
+Для правильной работы функции требуются подключение к интернету и следующие разрешения:"</string>
     <string name="usage_permission_title">Внимание</string>
     <string name="usage_reach_device_limit">Время вышло! Вы достигли лимита.</string>
     <string name="usage_reach_device_limit_warning_text">Достигнут лимит времени экрана на сегодня</string>

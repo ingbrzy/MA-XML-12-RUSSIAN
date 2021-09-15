@@ -2346,7 +2346,7 @@
     <string name="dc_light_dialog_summary">Включение DC dimming может повлиять на качество изображения. Все равно включить?</string>
     <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
     <string name="dc_light_summary_new">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
-    <string name="dc_light_title">Устранение мерцания</string>
+    <string name="dc_light_title">Режим антимерцания</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
     <string name="debug_app_set">Приложение: %1$s</string>
@@ -3046,7 +3046,7 @@
     <string name="face_password_unlock">Пароли и защита</string>
     <string name="face_unlock">Сканер лица</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
-    <string name="face_unlock_by_notification_screen_on_msg">Разрешить разблокировку по лицу, когда экран включается при уведомлениях. Возможен повышенный расход батареи.</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Разрешить разблокировку по лицу, когда экран включается при уведомлениях. Возможен повышенный расход заряда.</string>
     <string name="face_unlock_by_notification_screen_on_title">Разблокировать при уведомлениях</string>
     <string name="face_unlock_category_title">Параметры экрана блокировки</string>
     <string name="face_unlock_check_failed">Не удалось распознать</string>
@@ -4533,6 +4533,7 @@
     <string name="lost_internet_access_switch">Переключаться на мобильный интернет</string>
     <string name="lost_internet_access_text">Вы можете переключаться на мобильную сеть при слабом сигнале Wi-Fi. Может взиматься плата за передачу данных.</string>
     <string name="lost_internet_access_title">Сеть Wi-Fi без доступа к интернету</string>
+    <string name="low_dc_light_title">Режим антимерцания при низкой освещенности</string>
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
     <string name="macaddr_label">MAC-адрес:</string>
@@ -6456,7 +6457,7 @@ UT-интерфейс: %5$s"</string>
     <string name="resolution_fhd">FHD+ (Full HD)</string>
     <string name="resolution_fhd_summary">2400×1080</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
-    <string name="resolution_qhd_summary">3200×1440 (повышенный расход батареи)</string>
+    <string name="resolution_qhd_summary">3200×1440 (повышенный расход заряда)</string>
     <string name="resolution_sub_title">При переключении разрешения MIUI может закрыть приложения, работающие в фоновом режиме</string>
     <string name="resolver_settings_label">Сортировка</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию…</string>
