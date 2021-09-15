@@ -411,7 +411,7 @@
     <string name="app_manager_app_info_label">О приложении</string>
     <string name="app_manager_app_info_name">Имя приложения</string>
     <string name="app_manager_app_info_pkg">Имя пакета</string>
-    <string name="app_manager_app_power">"Расход заряда: "</string>
+    <string name="app_manager_app_power">"Расход батареи: "</string>
     <string name="app_manager_app_storage">"Память: "</string>
     <string name="app_manager_app_traffic">"Трафик: "</string>
     <string name="app_manager_app_update">Обновления</string>
@@ -619,7 +619,7 @@
     <string name="applock_bind_account_dialog_content">Ваш Mi Аккаунт - единственный способ восстановить защиту приложений, если вы забудете пароль. Войдите, чтобы добавить свой Mi Аккаунт.</string>
     <string name="applock_bind_account_dialog_title">Добавление Mi Аккаунта</string>
     <string name="applock_bind_account_title">Забыли пароль?</string>
-    <string name="applock_close_dialog_summary">Защита приложений будет отключена. Ярлыки скрытых приложений будут восстановлены на рабочем столе, а пароль защиты удален. Отключить защиту?</string>
+    <string name="applock_close_dialog_summary">Пароль защиты приложений будет удален. Отключить защиту приложений?</string>
     <string name="applock_close_dialog_title">Отключение защиты</string>
     <string name="applock_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
     <string name="applock_face_unlock_summary">Разблокировка приложений с помощью распознавания по лицу</string>
@@ -801,7 +801,7 @@
     <string name="battery_health_temperature_text">Температура батареи</string>
     <string name="battery_health_title_text">Исправность батареи</string>
     <string name="battery_health_voltage_text">Напряжение батареи</string>
-    <string name="battery_history_activity_title">График расхода заряда</string>
+    <string name="battery_history_activity_title">График расхода батареи</string>
     <string name="battery_history_days">%1$d д. %2$d ч. %3$d мин. %4$d сек.</string>
     <string name="battery_history_hours">%1$d ч. %2$d мин. %3$d сек.</string>
     <string name="battery_history_minutes">%1$d мин. %2$d сек.</string>
@@ -877,7 +877,7 @@
     <string name="btn_text_goto_setup">Настройки</string>
     <string name="btn_text_network_speed_detail">Подключение</string>
     <string name="btn_text_open_now">Включить</string>
-    <string name="btn_text_optimize_extend_battery_time">Добавить %s к автономности</string>
+    <string name="btn_text_optimize_extend_battery_time">Добавить %sк автономности</string>
     <string name="btn_text_optimize_manually">Оптимизировать вручную</string>
     <string name="btn_text_optimize_now">Оптимизировать</string>
     <string name="btn_text_power_cleanup">Глубокая очистка</string>
@@ -1110,7 +1110,7 @@
     <string name="deep_power_save_item_title_auto_brightness">Включение автояркости</string>
     <string name="deep_power_save_item_title_bluetooth">Отключение Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Спящий режим</string>
-    <string name="deep_save_memory_clean_summary">Очистка памяти при блокировке устройства для снижения расхода заряда батареи приложениями</string>
+    <string name="deep_save_memory_clean_summary">Очистка памяти при блокировке устройства для снижения расхода батареи приложениями</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Включение и выключение устройства по расписанию</string>
     <string name="delete">Удалить</string>
     <string name="delete_all_sms">Удалить все</string>
@@ -3080,7 +3080,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_power_save_summary_text">Увеличить автономность до %1$d ч. %2$d мин.</string>
     <string name="power_center_power_save_title_text">Экономия заряда</string>
     <string name="power_center_problem_title">Решение проблем</string>
-    <string name="power_center_reduce_dpi_summary">QHD+ больше расходует заряд</string>
+    <string name="power_center_reduce_dpi_summary">QHD+ сильнее расходует батарею</string>
     <string name="power_center_reduce_resolution">Уменьшить разрешение дисплея</string>
     <string name="power_center_repeat">Повтор</string>
     <string name="power_center_scan_item_title_5g">5G подключение</string>
@@ -3197,9 +3197,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_optimize_btn_text_fixed">✓</string>
     <string name="power_optimize_catagory_fixed_title">Выполнено</string>
     <string name="power_optimize_clean_memory">Очистить память через %d мин. после блокировки</string>
-    <string name="power_optimize_clean_memory_summary">Фоновая активность расходует заряд</string>
+    <string name="power_optimize_clean_memory_summary">Активность в фоне расходует батарею</string>
     <string name="power_optimize_close_app">Закрытие приложений, разряжающих батарею</string>
-    <string name="power_optimize_close_bluetooth_summary">Bluetooth расходует заряд в фоновом режиме</string>
+    <string name="power_optimize_close_bluetooth_summary">Bluetooth расходует батарею в фоновом режиме</string>
     <string name="power_optimize_close_consume_app">Закрыть приложения</string>
     <string name="power_optimize_close_gps">Отключить службы местоположения</string>
     <string name="power_optimize_close_haptic_feedback">Отключить виброотклик</string>
@@ -3213,15 +3213,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_optimize_darkmode_extend_summary">Темный режим экономит заряд и снижает нагрузку на глаза</string>
     <string name="power_optimize_darkmode_summary">Темный режим экономит заряд</string>
     <string name="power_optimize_disable_5g">Ограничить 5G подключение</string>
-    <string name="power_optimize_disable_5g_summary"> 5G подключение расходует заряд</string>
+    <string name="power_optimize_disable_5g_summary"> 5G подключение расходует батарею</string>
     <string name="power_optimize_disable_aod">Отключить Активный дисплей</string>
     <string name="power_optimize_disable_app_autostart">Ограничить автозапуск</string>
     <string name="power_optimize_disable_gps">Отключить GPS</string>
     <string name="power_optimize_disable_gps_high_accuracy">Отключить определение местоположения с высокой точностью</string>
     <string name="power_optimize_disable_start_other_app">Ограничить цепной запуск</string>
-    <string name="power_optimize_disable_start_other_app_summary">Цепной запуск приложений расходует заряд</string>
+    <string name="power_optimize_disable_start_other_app_summary">Цепной запуск приложений расходует батарею</string>
     <string name="power_optimize_disconnect_data">Отключить мобильный интернет через %d мин. после блокировки</string>
-    <string name="power_optimize_disconnect_data_summary">Использование мобильного интернета в фоне расходует заряд</string>
+    <string name="power_optimize_disconnect_data_summary">Использование мобильного интернета в фоне расходует батарею</string>
     <string name="power_optimize_enable_now_button">Включить</string>
     <string name="power_optimize_gps_summary">Ограничить приложениям доступ к местоположению</string>
     <string name="power_optimize_loading">Загрузка</string>
@@ -3535,7 +3535,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_apps_shield_message_title">Не показывать уведомления</string>
     <string name="privacy_apps_tutorial">Руководство</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Разведите два пальца на рабочем столе для доступа к скрытым приложениям</string>
-    <string name="privacy_apps_tutorial_dlg_message_2">Примечание: При скрытии приложения скрывается только его ярлык на рабочем столе</string>
+    <string name="privacy_apps_tutorial_dlg_message_2">Примечание: При скрытии приложения скрывается только его ярлык с рабочего стола</string>
     <string name="privacy_apps_tutorial_dlg_title">Как найти скрытые приложения</string>
     <string name="privacy_apps_tutorial_prompt_pageone">Эта функция позволяет скрыть иконки приложений на рабочем столе</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">После ввода пароля появится папка со скрытыми приложениями</string>
@@ -4533,7 +4533,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sunday_shortest">Вс</string>
     <string name="superpower_dialog_button_disable_dialog">Больше не показывать</string>
     <string name="superpower_dialog_button_ok">ОК</string>
-    <string name="superpower_dialog_massage">"Ультраэкономия заряда ограничивает большинство функций, расходующих заряд, и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультраэкономию?"</string>
+    <string name="superpower_dialog_massage">"Ультраэкономия заряда ограничивает большинство функций, расходующих батарею, и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультраэкономию?"</string>
     <string name="superpower_dialog_title">Включить</string>
     <string name="superpower_notification_new_title">Заряд менее %d%%</string>
     <string name="superpower_notification_summary">Зарядите устройство или включите ультраэкономию заряда</string>

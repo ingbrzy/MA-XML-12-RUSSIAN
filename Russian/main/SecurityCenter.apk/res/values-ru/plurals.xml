@@ -569,9 +569,9 @@
         <item quantity="few">Разряд %2$d%% за последние %1$d минуты</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d приложений, включая %1$s, расходуют заряд</item>
-        <item quantity="one">%2$d приложение, включая %1$s, расходуют заряд</item>
-        <item quantity="few">%2$d приложения, включая %1$s, расходуют заряд</item>
+        <item quantity="other">%2$d приложений, включая %1$s, расходуют батарею</item>
+        <item quantity="one">%2$d приложение, включая %1$s, расходуют батарею</item>
+        <item quantity="few">%2$d приложения, включая %1$s, расходуют батарею</item>
     </plurals>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Удалите %d APK</item>
@@ -641,9 +641,9 @@
         <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d приложений расходуют заряд</item>
-        <item quantity="one">%d приложение расходует заряд</item>
-        <item quantity="few">%d приложения расходуют заряд</item>
+        <item quantity="other">%d приложений расходуют батарею</item>
+        <item quantity="one">%d приложение расходует батарею</item>
+        <item quantity="few">%d приложения расходуют батарею</item>
     </plurals>
     <plurals name="pc_battery_history_hour">
         <item quantity="other">" ч."</item>
@@ -765,14 +765,14 @@
         <item quantity="one">"%d мин. "</item>
     </plurals>
     <plurals name="power_center_battery_problem">
-        <item quantity="other">Решите %d проблем с питанием</item>
-        <item quantity="one">Решите %d проблему с питанием</item>
-        <item quantity="few">Решите %d проблемы с питанием</item>
+        <item quantity="other">Можно решить %d проблем с питанием</item>
+        <item quantity="one">Можно решить %d проблему с питанием</item>
+        <item quantity="few">Можно решить %d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Можно исправить %d проблем с питанием</item>
-        <item quantity="one">Можно исправить %d проблему с питанием</item>
-        <item quantity="few">Можно исправить %d проблемы с питанием</item>
+        <item quantity="other">Можно решить %d проблем с питанием</item>
+        <item quantity="one">Можно решить %d проблему с питанием</item>
+        <item quantity="few">Можно решить %d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">%d рекомендаций</item>
@@ -840,9 +840,9 @@
         <item quantity="few">%d приложения часто используют автозапуск</item>
     </plurals>
     <plurals name="power_optimize_close_app_summary">
-        <item quantity="other">%d приложений расходуют заряд</item>
-        <item quantity="one">%d приложение расходует заряд</item>
-        <item quantity="few">%d приложения расходуют заряд</item>
+        <item quantity="other">%d приложений расходуют батарею</item>
+        <item quantity="one">%d приложение расходует батарею</item>
+        <item quantity="few">%d приложения расходуют батарею</item>
     </plurals>
     <plurals name="pp_times">
         <item quantity="other">%s раз</item>

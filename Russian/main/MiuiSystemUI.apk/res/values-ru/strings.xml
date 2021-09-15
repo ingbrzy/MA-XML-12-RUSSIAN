@@ -687,7 +687,7 @@
     <string name="clock_24hr_format">Hm</string>
     <string name="clock_city_name_local">Местное</string>
     <string name="clock_seconds">Показывать секунды</string>
-    <string name="clock_seconds_desc">Показывать в строке состояния время с точностью до секунды (заряд батареи может расходоваться быстрее)</string>
+    <string name="clock_seconds_desc">Показывать в строке состояния время с точностью до секунды (повышенный расход батареи)</string>
     <string name="clock_title_analog">Аналоговые</string>
     <string name="clock_title_bubble">Пузырь</string>
     <string name="clock_title_default">По умолчанию</string>
@@ -1318,7 +1318,7 @@
     <string name="keyguard_charging_back_to_lockscreen">Назад к экрану блокировки</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Ускорение зарядки %s</string>
     <string name="keyguard_charging_info_battery_used_time_text">Без подзарядки</string>
-    <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">Расход батареи</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Вчера %s</string>
