@@ -118,14 +118,12 @@
         <item quantity="one">Была ограничена работа %1$s</item>
     </plurals>
     <plurals name="battery_tip_restrict_summary">
-        <item quantity="other">%2$d приложений сильно расходуют заряд батареи в фоновом режиме</item>
-        <item quantity="one">%1$s приложение сильно расходует заряд батареи в фоновом режиме</item>
+        <item quantity="other">%2$d приложений сильно расходуют батарею в фоновом режиме</item>
+        <item quantity="one">%1$s приложение сильно расходует батарею в фоновом режиме</item>
     </plurals>
     <plurals name="battery_tip_restrict_title">
         <item quantity="other">Ограничение работы %1$d приложений</item>
         <item quantity="one">Ограничение работы %1$d приложения</item>
-        <item quantity="other">Restrict %1$d apps</item>
-        <item quantity="one">Restrict %1$d app</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d приложений с подключением к сети в фоновом режиме</item>
@@ -431,8 +429,8 @@
         <item quantity="one">%1$s работает ненормально</item>
     </plurals>
     <plurals name="power_high_usage_title">
-        <item quantity="other">Приложения расходуют заряд</item>
-        <item quantity="one">%1$s расходует заряд</item>
+        <item quantity="other">Приложения расходуют батарею</item>
+        <item quantity="one">%1$s расходует батарею</item>
     </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d заданий печати</item>

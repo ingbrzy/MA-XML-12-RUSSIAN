@@ -444,7 +444,7 @@
     <string name="admin_support_more_info">Подробнее…</string>
     <string name="advanced_apps">Дополнительно</string>
     <string name="advanced_battery_graph_subtext">Оценка оставшегося заряда батареи основана на использовании вашего устройства</string>
-    <string name="advanced_battery_title">Сведения о расходе заряда</string>
+    <string name="advanced_battery_title">Сведения о расходе батареи</string>
     <string name="advanced_gesture">Пользовательские жесты</string>
     <string name="advanced_screen_paper_mode_title">Режим чтения</string>
     <string name="advanced_section_header">Дополнительно</string>
@@ -977,7 +977,7 @@
     <string name="battery_manager_off">ОТКЛ.</string>
     <string name="battery_manager_on">ВКЛ. / Контроль разряда батареи</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="battery_msg_unaccounted">Данные о расходе заряда батареи отдельными приложениями являются приблизительными и не включают все возможные потребители энергии. Этот показатель соответствует разнице между расчетным энергопотреблением и фактическим расходом заряда батареи.</string>
+    <string name="battery_msg_unaccounted">Данные о расходе батареи отдельными приложениями являются приблизительными и не включают все возможные потребители энергии. Этот показатель соответствует разнице между расчетным и фактическим расходом батареи.</string>
     <string name="battery_overall_usage">%1$s заряда батареи</string>
     <string name="battery_percentage">Уровень заряда батареи</string>
     <string name="battery_percentage_description">Показывать уровень заряда батареи в строке состояния</string>
@@ -1037,7 +1037,7 @@
 
 Рейтинг по энергопотреблению:</string>
     <string name="battery_tip_dialog_message_footer">Фоновые процессы с высоким энергопотреблением</string>
-    <string name="battery_tip_dialog_summary_message">Приложения расходуют заряд батареи нормально. При повышенном расходе вы получите рекомендации.
+    <string name="battery_tip_dialog_summary_message">Приложения расходуют батарею нормально. При повышенном расходе вы получите рекомендации.
 
 При низком заряде батареи можно включить экономию заряда.</string>
     <string name="battery_tip_early_heads_up_done_summary">Некоторые функции могут быть ограничены</string>
@@ -1057,7 +1057,7 @@
 %1$s."</string>
     <string name="battery_tip_smart_battery_summary">Включить менеджер батареи</string>
     <string name="battery_tip_smart_battery_title">Продлите время работы батареи</string>
-    <string name="battery_tip_summary_summary">Устройство расходует заряд батареи как обычно</string>
+    <string name="battery_tip_summary_summary">Устройство расходует батарею как обычно</string>
     <string name="battery_tip_summary_title">Приложения работают нормально</string>
     <string name="battery_tip_unrestrict_app_dialog_cancel">Отмена</string>
     <string name="battery_tip_unrestrict_app_dialog_message">Приложение может использовать батарею в фоновом режиме. Батарея может разрядиться раньше.</string>
@@ -2346,7 +2346,7 @@
     <string name="dc_light_dialog_summary">Включение DC dimming может повлиять на качество изображения. Все равно включить?</string>
     <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
     <string name="dc_light_summary_new">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
-    <string name="dc_light_title">Устранение мерцания</string>
+    <string name="dc_light_title">Режим антимерцания</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
     <string name="debug_app_set">Приложение: %1$s</string>
@@ -2503,7 +2503,7 @@
     <string name="devices_title">Устройства</string>
     <string name="dial_application_title">Вызов</string>
     <string name="dial_pad_tones_title">Звук набора номера</string>
-    <string name="dialog_background_check_message">"Заряд батареи расходуется слишком быстро, так как приложение %1$s часто выводит устройство из спящего режима.
+    <string name="dialog_background_check_message">"Повышенный расход батареи, приложение %1$s часто выводит устройство из спящего режима.
 
 Чтобы устранить эту проблему, запретите приложению %1$s работать в фоновом режиме."</string>
     <string name="dialog_background_check_ok">Запретить</string>
@@ -2519,7 +2519,7 @@
     <string name="dialog_content_login">Войти в Mi Аккаунт для обновления?</string>
     <string name="dialog_esim_button_negative">Отмена</string>
     <string name="dialog_esim_button_positive">ОК</string>
-    <string name="dialog_location_message">"Заряд батареи расходуется слишком быстро, так как приложение %1$s запрашивает данные о вашем местоположении, даже когда вы им не пользуетесь.
+    <string name="dialog_location_message">"Повышенный расход батареи, приложение %1$s запрашивает данные о вашем местоположении, даже когда вы им не пользуетесь.
 
 Чтобы устранить эту проблему, запретите приложению доступ к местоположению."</string>
     <string name="dialog_location_ok">Запретить</string>
@@ -2541,12 +2541,12 @@
     <string name="dialog_speaker_auto_clean_button">Понятно</string>
     <string name="dialog_speaker_auto_clean_content">Очистка занимает 30 секунд. Не покидайте эту страницу. Увеличьте громкость звука для лучшего эффекта.</string>
     <string name="dialog_speaker_auto_clean_title">Внимание</string>
-    <string name="dialog_stop_message">"Заряд батареи расходуется слишком быстро, приложение %1$s не позволяет устройству перейти в спящий режим.
+    <string name="dialog_stop_message">"Повышенный расход батареи, приложение %1$s не позволяет устройству перейти в спящий режим.
 
 Для устранения проблемы остановите приложение.
 
 Если это не поможет, удалите его."</string>
-    <string name="dialog_stop_message_wakeup_alarm">"Заряд батареи расходуется слишком быстро, приложение %1$s часто выводит устройство из спящего режима.
+    <string name="dialog_stop_message_wakeup_alarm">"Повышенный расход батареи, приложение %1$s часто выводит устройство из спящего режима.
 
 Для устранения проблемы остановите приложение %1$s.
 
@@ -3280,6 +3280,7 @@
     <string name="font_size_summary1">"Если шрифт слишком мал, попробуйте "</string>
     <string name="font_size_summary2">Простой режим.</string>
     <string name="forbidden_network">(доступ запрещен)</string>
+    <string name="forbidden_set_unlock_password_msg">Пароль не может быть установлен или изменен при активном режиме обслуживания</string>
     <string name="forbidden_switch_apn_string">Выбранные настройки точки доступа не соответствуют текущему типу сети</string>
     <string name="force_allow_on_external">Внешний накопитель</string>
     <string name="force_allow_on_external_summary">Разрешать приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
@@ -4532,6 +4533,7 @@
     <string name="lost_internet_access_switch">Переключаться на мобильный интернет</string>
     <string name="lost_internet_access_text">Вы можете переключаться на мобильную сеть при слабом сигнале Wi-Fi. Может взиматься плата за передачу данных.</string>
     <string name="lost_internet_access_title">Сеть Wi-Fi без доступа к интернету</string>
+    <string name="low_dc_light_title">Режим антимерцания при низкой освещенности</string>
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
     <string name="macaddr_label">MAC-адрес:</string>
@@ -4849,6 +4851,7 @@
     <string name="miheadset_unpair_device">Отменить сопряжение?</string>
     <string name="miheadset_unpair_device_text">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="miheadset_voiceIncrease">Улучшение звучания</string>
+    <string name="miheadset_windnoise">Ветер</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Разное</string>
     <string name="misc_files_selected_count">Выбрано: %1$d из %2$d</string>
@@ -7486,7 +7489,7 @@ UT-интерфейс: %5$s"</string>
     <string name="slot_number">(разъем %1$d)</string>
     <string name="slot_status_title">Информация об IMEI</string>
     <string name="smallwindow_smartcover_title">С окошком</string>
-    <string name="smart_battery_footer">Менеджер батареи определяет, какие приложения быстрее всего расходуют заряд батареи, и предлагает ограничить их работу. Ограничение фоновых процессов может привести к нарушению работы приложений и задержке уведомлений от них.</string>
+    <string name="smart_battery_footer">Менеджер батареи определяет, какие приложения быстрее всего расходуют батарею, и предлагает ограничить их работу. Ограничение фоновых процессов может привести к нарушению работы приложений и задержке уведомлений от них.</string>
     <string name="smart_battery_manager_title">Менеджер батареи</string>
     <string name="smart_battery_summary">Ограничить работу редко используемых приложений</string>
     <string name="smart_battery_title">Автоматическое управление приложениями</string>
@@ -9161,6 +9164,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_connect_cmcc_dialog_title">Уведомление о трафике</string>
     <string name="wifi_connect_failed_message">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_connect_frequency">Частота Wi-Fi:</string>
+    <string name="wifi_connected_low_quality">Низкое качество</string>
     <string name="wifi_connected_mac_randomization">Рандомизация MAC-адреса</string>
     <string name="wifi_connected_no_internet">Подключено, без доступа в интернет</string>
     <string name="wifi_connected_to_message">Подключено к %1$s</string>
