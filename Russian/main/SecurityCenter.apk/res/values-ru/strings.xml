@@ -2616,8 +2616,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_battery_scan_consume_abnormal_title_set">%s разряжает батарею</string>
     <string name="notification_channel_battery">Батарея</string>
     <string name="notification_checker_installed_apk_hint">Нет необходимости сохранять APK после установки</string>
-    <string name="notification_enter_power_save_mode_subtitle">Отключить экономию при уровне %s или полном заряде</string>
-    <string name="notification_enter_power_save_mode_title">Включена экономия заряда</string>
+    <string name="notification_enter_power_save_mode_subtitle">Отключить при уровне %s или полном заряде</string>
+    <string name="notification_enter_power_save_mode_title">Экономия заряда</string>
     <string name="notification_exit_power_save_mode">Экономия заряда отключена</string>
     <string name="notification_exit_power_save_mode_full_subtitle">Устройство полностью заряжено</string>
     <string name="notification_exit_power_save_mode_now">Отключить</string>
@@ -2871,8 +2871,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в производительном режиме. Обратите внимание, что режим увеличит расход батареи и может привести к перегреву.</string>
     <string name="pc_performance_mode_dialog_summary2">Производительность будет повышена. Это увеличит расход батареи и может привести к перегреву. Включить?</string>
     <string name="pc_performance_mode_dialog_title">Производительный режим</string>
-    <string name="pc_performance_mode_noti_summary">Производительный режим увеличит расход батареи и может привести к перегреву.</string>
-    <string name="pc_performance_mode_noti_title">Повышенная производительность</string>
+    <string name="pc_performance_mode_noti_summary">Повышенный расход батареи и возможен перегрев</string>
+    <string name="pc_performance_mode_noti_title">Производительный режим</string>
     <string name="pc_search_keywords_battery">Батарея</string>
     <string name="pc_search_keywords_battery_save">Экономия</string>
     <string name="pc_search_keywords_battery_use">Расход батареи</string>
@@ -3096,7 +3096,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_scan_item_title_power_saver">Экономия заряда</string>
     <string name="power_center_scan_item_title_running_app">Приложения в фоновом режиме</string>
     <string name="power_center_scan_result_safe">Оптимизация не требуется</string>
-    <string name="power_center_state_off">Откл</string>
+    <string name="power_center_state_off">Отключить</string>
     <string name="power_center_state_on">Вкл</string>
     <string name="power_center_stop_scan_title">Остановка проверки</string>
     <string name="power_center_super_save_summary_text">Увеличить автономность до %1$d ч. %2$d мин.</string>
