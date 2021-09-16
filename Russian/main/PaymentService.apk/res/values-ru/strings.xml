@@ -159,6 +159,7 @@ ID:%s
     <string name="mibi_btn_recharge_large">Пополнение</string>
     <string name="mibi_btn_recharge_other">Пополнение</string>
     <string name="mibi_btn_recharge_success_quick">Пополнение завершено</string>
+    <string name="mibi_btn_return_home">Домой</string>
     <string name="mibi_business_title">Другие услуги</string>
     <string name="mibi_button_bind_phone">Привязать сейчас</string>
     <string name="mibi_button_call">Вызов</string>
@@ -190,7 +191,7 @@ ID:%s
     <string name="mibi_detail_consume_name">Товар</string>
     <string name="mibi_detail_consume_order">ID покупки</string>
     <string name="mibi_detail_consume_time">Время</string>
-    <string name="mibi_detail_consume_title">Платежные записи</string>
+    <string name="mibi_detail_consume_title">Список расходов</string>
     <string name="mibi_detail_giftcard_activity">Предложения</string>
     <string name="mibi_detail_giftcard_expired_time">Дата окончания срока</string>
     <string name="mibi_detail_giftcard_theme">Темы покупки</string>
@@ -202,7 +203,7 @@ ID:%s
     <string name="mibi_detail_recharge_method">Метод</string>
     <string name="mibi_detail_recharge_order">Номер пополнения</string>
     <string name="mibi_detail_recharge_time">Время</string>
-    <string name="mibi_detail_recharge_title">Записи пополнений</string>
+    <string name="mibi_detail_recharge_title">Список пополнений</string>
     <string name="mibi_direct_pay_novalid_method">Нет возможного способа оплаты.</string>
     <string name="mibi_direct_payment_title">Информация о заказе</string>
     <string name="mibi_enter_failed">Не удалось открыть</string>
@@ -236,8 +237,10 @@ ID:%s
     <string name="mibi_error_web_summary">Ошибка сервера</string>
     <string name="mibi_forget_password">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
     <string name="mibi_format_bill_date">dd.MM.yyyy</string>
+    <string name="mibi_format_bill_time">dd.MM.yyyy HH:mm</string>
     <string name="mibi_format_date">d MMM yyyy</string>
     <string name="mibi_format_time">d MMM yyyy hh:mmaa</string>
+    <string name="mibi_format_time_giftcard">dd.MM.yyyy HH:mm:ss</string>
     <string name="mibi_frozen">Заморожен</string>
     <string name="mibi_frozen_prim">Аккаунт заблокирован</string>
     <string name="mibi_frozen_sub">Обнаружена нестандартная активность</string>
@@ -252,9 +255,11 @@ ID:%s
     <string name="mibi_giftcard_denom_available">Mi Coin доступны</string>
     <string name="mibi_giftcard_denom_frozen">Mi Coin заморожены</string>
     <string name="mibi_giftcard_discount">Купоны</string>
-    <string name="mibi_giftcard_discount_detail">Купон (потрачено%1$sMi Coins)</string>
+    <string name="mibi_giftcard_discount_detail">Купон (потрачено %1$sMi Coins)</string>
     <string name="mibi_giftcard_discount_detail2"> (потрачено %1$s Mi Coins на оплату)</string>
+    <string name="mibi_giftcard_discount_detail3">Потратьте %1$s Mi Coins для погашения</string>
     <string name="mibi_giftcard_empty_detail">Нет %1$s купонов.</string>
+    <string name="mibi_giftcard_expire_soon">Истекает</string>
     <string name="mibi_giftcard_has_expired">Срок действия истек %1$s</string>
     <string name="mibi_giftcard_has_unavailable">Просрочен</string>
     <string name="mibi_giftcard_has_used">Использован</string>
@@ -269,6 +274,7 @@ ID:%s
     <string name="mibi_giftcard_use_now">Использовать</string>
     <string name="mibi_giftcard_used">Использованы</string>
     <string name="mibi_giftcard_vaild_util">действует до %1$s</string>
+    <string name="mibi_giftcard_valid_time_last">Истекает через %1$s дней</string>
     <string name="mibi_giftcard_will_expire">Истекает %1$s</string>
     <string name="mibi_giftcard_with_num">&lt;Data&gt;&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Купон Mi Coin доступен&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="mibi_header_network_error">Не удалось подключиться к сети.</string>
@@ -280,6 +286,7 @@ ID:%s
     <string name="mibi_is_what">Что можно купить с Mi Coins?</string>
     <string name="mibi_label_balance">Баланс</string>
     <string name="mibi_label_giftcard">Подарочная карта</string>
+    <string name="mibi_label_giftcard_with_num">Подарочная карта (%1$s)</string>
     <string name="mibi_label_pay_remain">Сумма долга: %1$s Mi Coins</string>
     <string name="mibi_license_message_span">Mi Coin Пользовательское Соглашение</string>
     <string name="mibi_license_title">Условия</string>
@@ -318,6 +325,8 @@ ID:%s
     <string name="mibi_order_balance_lable">Mi Coins</string>
     <string name="mibi_order_balance_lable_append">Mi Coins + купон</string>
     <string name="mibi_order_balance_title">Мои Mi Coins</string>
+    <string name="mibi_order_discount_giftcard_title">Купоны (используйте по одному)</string>
+    <string name="mibi_order_mibi_to_money_rate">1 Mi Coin = 1 RMB</string>
     <string name="mibi_order_no_use_balance">Не использовать</string>
     <string name="mibi_order_pay_back">Подтвердить</string>
     <string name="mibi_order_pay_type">Способ оплаты</string>
@@ -335,9 +344,10 @@ ID:%s
     <string name="mibi_pay_grid_error_denomination">Размер должен между %1$s и %2$s Mi Coins.</string>
     <string name="mibi_pay_success_summary">Вы потратили %1$s Mi Coins</string>
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Coins пополнено，%2$s Mi Coins использовано</string>
-    <string name="mibi_payment_recharge_group_title">Выберите способ пополнения</string>
+    <string name="mibi_payment_recharge_group_title">Выберите способ</string>
     <string name="mibi_payment_success_title">Платеж получен</string>
     <string name="mibi_payment_with_login_title">Подтвердите Mi Аккаунт</string>
+    <string name="mibi_paymnet_failed_title">Ошибка транзакции</string>
     <string name="mibi_paytool_app_not_installed">Вы не установили %1$s. Скачать и установить сейчас?</string>
     <string name="mibi_paytool_error_install">Не удалось установить плагин безопасности для мобильных устройств %1$s</string>
     <string name="mibi_paytool_error_msp">Ошибка %1$s</string>
@@ -345,6 +355,10 @@ ID:%s
     <string name="mibi_paytool_wechat_return_cancel">WeChat возврат отменен</string>
     <string name="mibi_permanently_denied_perm_camera">Разрешите доступ к камере в Настройках для использования этих функций.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Разрешите отправку SMS-сообщений в Настройках для использования этих функций.</string>
+    <string name="mibi_prepaid_card_hint">Все пополнения являются одноразовыми, выбранный номинал должен соответствовать карте пополнения. Неправильный выбор приведет к потере средств.</string>
+    <string name="mibi_prepaid_card_hint_input_card_num">Введите номер карты</string>
+    <string name="mibi_prepaid_card_hint_input_pwd">Введите пароль</string>
+    <string name="mibi_prepaid_card_info">Информация о карте пополнения</string>
     <string name="mibi_prepaid_card_order_info">Карта пополнения %1$s: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Выберите оператора</string>
     <string name="mibi_prepaid_dialog_content">Любые убытки, вызванные несоответствием номера карты, номинальным значением, паролем и фактической информацией, несете вы. Прежде чем продолжить, дважды проверьте предоставленную вами информацию.</string>
@@ -399,7 +413,7 @@ ID:%s
     <string name="mibi_progress_warning_waiting">Платеж еще не пришел на ваш счет.</string>
     <string name="mibi_prompt_info_button_hint">Внимание(%d)</string>
     <string name="mibi_prompt_info_button_text">ОК</string>
-    <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&lt;font color=#ff7700&gt;Mi Coin не может быть использован для покупки аппаратных продуктов на Mi.com.&lt;/font&gt;"&lt;/Data&gt;</string>
+    <string name="mibi_prompt_info_for_first_use">Mi Coin нельзя использовать для покупки оборудования на Mi.com</string>
     <string name="mibi_prompt_info_title">Советы</string>
     <string name="mibi_push_register_fail">Ошибка регистрации</string>
     <string name="mibi_push_register_success">Успешная регистрация</string>
@@ -409,18 +423,23 @@ ID:%s
     <string name="mibi_push_set_alias_success">Псевдоним \"%1$s\" установлен.</string>
     <string name="mibi_push_unset_alias_fail">Ошибка сброса псевдонима для %1$s.</string>
     <string name="mibi_push_unset_alias_success">Сброс псевдонима \"%1$s\" завершен.</string>
-    <string name="mibi_recharge_grid_error_denomination">Сумма должна быть между %1$s и %2$s Mi Coins.</string>
+    <string name="mibi_recharge_amount_list_mibi_unit">Mi</string>
+    <string name="mibi_recharge_grid_error_denomination">Сумма должна быть между %1$s и %2$s Mi Coins</string>
     <string name="mibi_recharge_grid_item_more">Еще</string>
-    <string name="mibi_recharge_grid_mibi_picker_hint">Выберите сумму</string>
+    <string name="mibi_recharge_grid_mibi_picker_hint">Выберите сумму (1 Mi Coin = 1 RMB)</string>
     <string name="mibi_recharge_grid_money_picker_hint">Выберите сумму</string>
+    <string name="mibi_recharge_input_amount_hint">Введите сумму</string>
     <string name="mibi_recharge_label">Пополнение</string>
+    <string name="mibi_recharge_more_channels_title">Еще</string>
     <string name="mibi_recharge_novalid_method">Нет возможного способа пополнения.</string>
     <string name="mibi_recharge_other">Посмотреть другие способы</string>
+    <string name="mibi_recharge_other_amount">Другая сумма</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d отправил %2$s Mi Coins на ваш аккаунт</string>
     <string name="mibi_recharge_push_notification_sub_title">Пополнение завершено.</string>
     <string name="mibi_recharge_value_money">Покупка CNY %s стоит Mi Coins</string>
     <string name="mibi_recharge_value_money_special_unit">Покупка %1$s %2$s стоит Mi Coins</string>
     <string name="mibi_recharge_warn_text">Вы не можете покупать физические товары, используя Mi Coins.</string>
+    <string name="mibi_return">Возврат</string>
     <string name="mibi_scan_prompt_number">Отсканировать %1$s номер карты предоплаты</string>
     <string name="mibi_scan_prompt_password">Отсканировать %1$s пароль карты предоплаты</string>
     <string name="mibi_scan_prompt_voucher">Отсканировать пароль Mi Coin </string>
@@ -448,12 +467,15 @@ ID:%s
     <string name="mibi_voucher_card_text">Пожалуйста сотрите верх</string>
     <string name="mibi_voucher_error_password">Код неверен.</string>
     <string name="mibi_voucher_input_password_prompt">Введите код</string>
+    <string name="mibi_voucher_password">Пароль карты Mi Coin</string>
     <string name="mibi_web_login">Войти</string>
     <string name="mibi_web_login_app_description">Войти %1$s</string>
     <string name="mibi_web_login_description">Войти</string>
     <string name="mibi_web_login_waiting">Пожалуйста, подождите…</string>
     <string name="mibi_web_sso_login_fail">Вам нужно войти снова</string>
     <string name="midnight">Ночь</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -468,6 +490,7 @@ ID:%s
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
