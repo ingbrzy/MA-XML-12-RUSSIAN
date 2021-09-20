@@ -2346,7 +2346,7 @@
     <string name="dc_light_dialog_summary">Включение DC dimming может повлиять на качество изображения. Все равно включить?</string>
     <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
     <string name="dc_light_summary_new">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
-    <string name="dc_light_title">Режим антимерцания</string>
+    <string name="dc_light_title">Устранение мерцания</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
     <string name="debug_app_set">Приложение: %1$s</string>
@@ -4269,8 +4269,8 @@
     <string name="location_mode_screen_title">Определение местоположения</string>
     <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
     <string name="location_mode_sensors_only_title">По спутникам GPS</string>
-    <string name="location_modem_summary">Оператор связи будет получать информацию о вашем местоположении через базовые станции</string>
-    <string name="location_modem_title">Доступ оператора к местоположению</string>
+    <string name="location_modem_summary">Разрешить операторам связи определять местоположение устройства по базовым станциям</string>
+    <string name="location_modem_title">Доступ для операторов связи</string>
     <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
     <string name="location_neighborhood_level_wifi">Местоположение определяется по сетям Wi-Fi</string>
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
@@ -4533,7 +4533,7 @@
     <string name="lost_internet_access_switch">Переключаться на мобильный интернет</string>
     <string name="lost_internet_access_text">Вы можете переключаться на мобильную сеть при слабом сигнале Wi-Fi. Может взиматься плата за передачу данных.</string>
     <string name="lost_internet_access_title">Сеть Wi-Fi без доступа к интернету</string>
-    <string name="low_dc_light_title">Режим антимерцания при низкой освещенности</string>
+    <string name="low_dc_light_title">Устранение мерцания при низкой освещенности</string>
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
     <string name="macaddr_label">MAC-адрес:</string>
@@ -5827,7 +5827,7 @@ OTG отключается автоматически через 10 минут �
     <string name="peak_refresh_rate_title">Плавный экран</string>
     <string name="peek_notification_icon_title">Значки уведомлений</string>
     <string name="performance_category">Производительность</string>
-    <string name="permission_action_prompt">Спрашивать</string>
+    <string name="permission_action_prompt">Спросить</string>
     <string name="permission_bar_chart_details">Показать на панели все</string>
     <string name="permission_bar_chart_empty_text">Отсутствуют</string>
     <string name="permission_bar_chart_title">Разрешения за последние 24 часа</string>
