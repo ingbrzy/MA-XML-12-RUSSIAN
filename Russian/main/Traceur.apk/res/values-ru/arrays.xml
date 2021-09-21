@@ -264,6 +264,20 @@
         <item>Заблокировано</item>
         <item>Нестабильное соединение</item>
     </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Неуспешно</item>
+        <item>Заблокировано</item>
+        <item>Временный запрет плохого соединения</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимации</item>
         <item>Анимация 0.5x</item>
