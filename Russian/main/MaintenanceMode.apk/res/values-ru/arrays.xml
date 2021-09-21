@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Мужской</item>
-        <item>Женский</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
@@ -62,28 +58,5 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-    </string-array>
-    <string-array name="bh_array_switch_unit">
-        <item>ГБ</item>
-        <item>МБ</item>
-    </string-array>
-    <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (по умолчанию)</item>
-        <item>MAP 1.3</item>
-        <item>MAP 1.4</item>
-    </string-array>
-    <string-array name="wifitrackerlib_wifi_status">
-        <item></item>
-        <item>Сканирование…</item>
-        <item>Подключение…</item>
-        <item>Аутентификация…</item>
-        <item>Получение IP-адреса…</item>
-        <item>Подключено</item>
-        <item>Приостановлено</item>
-        <item>Отключение…</item>
-        <item>Отключено</item>
-        <item>Неуспешно</item>
-        <item>Заблокировано</item>
-        <item>Временный запрет плохого соединения</item>
     </string-array>
 </resources>

@@ -299,6 +299,7 @@
     <string name="confirm">ОК</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
+    <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
     <string name="connected_via_app">Подключено через %1$s</string>
     <string name="connected_via_carrier">Подключено к %1$s</string>
     <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
@@ -711,6 +712,7 @@ mm"</string>
     <string name="no_application">Нет</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="noon">Полдень</string>
+    <string name="not_default_data_content_description">Не настроено для использования данных</string>
     <string name="not_set">Не задано</string>
     <string name="notification_channel_alerts">Предупреждения</string>
     <string name="oem_unlock_enable">OEM разблокировка</string>
@@ -1314,4 +1316,11 @@ mm"</string>
     <string name="zen_mode_forever">До отключения</string>
     <string name="zen_mode_settings_summary_off">Никогда</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Включите режим \"Не беспокоить\"</string>
+    <string name="settingslib_learn_more_text">Подробнее</string>	
+    <string name="user_image_choose_photo">Выбрать изображение</string>
+    <string name="user_image_photo_selector">Выбрать фото</string>
+    <string name="user_image_take_photo">Сделать фото</string>	
+    <string name="user_nickname">Псевдоним</string>
+    <string name="wifi_hotspot_switch_off_text">Откл.</string>
+    <string name="wifi_hotspot_switch_on_text">Вкл.</string>
 </resources>

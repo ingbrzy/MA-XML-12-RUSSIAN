@@ -12,6 +12,8 @@
     <string name="connections">Подключения</string>
     <string name="connects_via_network">Подключение через текущую сеть к %1$s</string>
     <string name="connects_via_wifi_direct">Подключение через Wi-Fi Direct</string>
+    <string name="disable_wifi_direct">Отключить Wi-Fi Direct</string>
+    <string name="enable_location">Включить</string>
     <string name="failed_connection">Не удалось подключиться к %1$s</string>
     <string name="failed_printer_connection">Не удалось подключиться к принтеру</string>
     <string name="find_wifi_direct">Найти Wi-Fi Direct принтеры</string>
@@ -52,7 +54,9 @@
     <string name="unreadable_input">Не удалось прочитать документ</string>
     <string name="waiting_to_send">Ожидание отправки…</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
-    <string name="wifi_direct_permission_rationale">Службе печати требуется доступ к местоположению для поиска устройств поблизости.</string>
+    <string name="wifi_direct_location_rationale">Службе печати требуется включение служб определения местоположения, для поиска устройств поблизости</string>
+    <string name="wifi_direct_permission_rationale">Службе печати требуется доступ к местоположению, для поиска устройств поблизости</string>
     <string name="wifi_direct_printers">Wi-Fi Direct принтеры</string>
     <string name="wifi_direct_printing">Wi-Fi Direct печать</string>
+    <string name="wifi_direct_problem">Службе печати не удалось найти Wi-Fi Direct принтеры</string>
 </resources>

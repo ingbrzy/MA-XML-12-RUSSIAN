@@ -2279,6 +2279,7 @@
     <string name="heavenly_stems_yi">乙</string>
     <string name="heavy_snow">大雪</string>
     <string name="heavy_snow_tradition">大雪</string>
+    <string name="help_url">https://developer.android.com/studio/command-line/systrace.html</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
@@ -3076,6 +3077,7 @@
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="ng_haokan_glance_user_agreement">https://hksocial-cdn.levect.com/html/app_h5_user_agreement_ms.html</string>
     <string name="ng_haokan_privacy_policy">https://hksocial-cdn.levect.com/html/privacy_policy_ms.html</string>
+    <string name="ng_haokan_user_agreement">https://92.haokan.mobi/lockscreen/mi/user_agreement</string>
     <string name="ng_id_glance_privacy_policy">https://in.api.glance.inmobi.com/api/v0/glance/xiaomi/privacy?lang=%1$s_region=%2$s</string>
     <string name="ng_id_glance_user_agreement">https://in.api.glance.inmobi.com/api/v0/glance/xiaomi/eula?lang=%1$s_region=%2$s</string>
     <string name="ng_mailru_privacy_policy">https://help.mail.ru/feed/policy</string>
@@ -3328,11 +3330,13 @@
     <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_key_apps">all_apps</string>
+    <string name="pref_key_attach_to_bugreport">attach_to_bugreport</string>
     <string name="pref_key_buffer_size">buffer_size</string>
     <string name="pref_key_long_traces">long_traces</string>
     <string name="pref_key_max_long_trace_duration">max_long_trace_duration</string>
     <string name="pref_key_max_long_trace_size">max_long_trace_size</string>
     <string name="pref_key_quick_setting">quick_setting_enabled</string>
+    <string name="pref_key_stop_on_bugreport">stop_on_bugreport_enabled</string>
     <string name="pref_key_tags">current_tags_4</string>
     <string name="pref_key_tracing_on">tracing_on</string>
     <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>

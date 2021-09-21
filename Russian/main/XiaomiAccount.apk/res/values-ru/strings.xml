@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_device_info">Об устройстве</string>
+    <string name="accept">Разрешить</string>
     <string name="access_token_expired_warning">Срок действия аккаунта Weibo истек</string>
     <string name="access_token_invalid_warning">Некорректный аккаунт Weibo</string>
     <string name="account">Аккаунт</string>
@@ -118,6 +119,7 @@ ID вашего аккаунта: %s"</string>
     <string name="binded_description" formatted="false">"%s подключен к вашему Mi Аккаунту.
 Вы можете войти в Mi Аккаунт используя %s."</string>
     <string name="button_unbind">Отключить</string>
+    <string name="cancel">Отмена</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_email_address">Изменить адрес электронной почты</string>
     <string name="change_password">Изменить пароль</string>
@@ -198,6 +200,7 @@ ID вашего аккаунта: %s"</string>
     <string name="delete_device_failed">Ошибка удаления устройства</string>
     <string name="delete_device_notice">После удаления устройства Mi Аккаунт будет автоматически отвязан от него. Вы не сможете использовать это устройство для доступа к данным, которые хранятся в аккаунте.</string>
     <string name="delete_lock_device_success">Удаление завершено</string>
+    <string name="deny">Отклонить</string>
     <string name="device_delete_success_message">Если вы не входили в аккаунт с этого устройства, смените пароль!</string>
     <string name="device_delete_success_title">Устройство удалено</string>
     <string name="device_list__header">Мои устройства</string>
@@ -211,6 +214,7 @@ ID:%s
     <string name="download_file">Загрузка %s…</string>
     <string name="early_morning">Утро</string>
     <string name="empty_device_list_notice">Нет устройств</string>
+    <string name="enable">Настройки</string>
     <string name="ep_unsupported">Устройство не поддерживает вход в аккаунт Xiaomi</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -282,6 +286,7 @@ ID:%s
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
     <string name="google">Google</string>
     <string name="google_login">Войти через аккаунт Google</string>
+    <string name="goto_accept">ОК</string>
     <string name="guest_account_label">Гостевой Mi аккаунт</string>
     <string name="health_action_activate">Активировать</string>
     <string name="health_action_install">Установить</string>
@@ -679,10 +684,14 @@ ID:%s
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="password_view_hide_password">Скрыть пароль</string>
     <string name="password_view_show_password">Показать пароль</string>
+    <string name="permission_desc_read_sms">Для автозаполнения проверочных кодов</string>
+    <string name="permission_desc_write_external_storage">Для загрузки журналов для обратной связи</string>
     <string name="permission_group_contacts">Контакты</string>
     <string name="permission_group_phone">Телефон</string>
     <string name="permission_group_sms">СМС</string>
     <string name="permission_group_storage">Память</string>
+    <string name="permission_read_sms">Доступ к сообщениям</string>
+    <string name="permission_write_external_storage">Доступ и сохранение файлов</string>
     <string name="personal_info_desc">Фото, псевдоним и другое</string>
     <string name="phone_activated">%s активирован</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
@@ -705,9 +714,15 @@ ID:%s
     <string name="removing_account">Выход из аккаунта…</string>
     <string name="rename_current_device">Изменить имя устройства</string>
     <string name="replace_binded_phone">Заменить телефон</string>
+    <string name="request_open_permission">Требуются разрешения</string>
+    <string name="request_use_camera_message">Разрешить Mi Аккаунту доступ к камере?</string>
+    <string name="request_use_camera_title">Доступ к камере</string>
+    <string name="request_use_gallery_message">Разрешить Mi Аккаунту доступ к галерее?</string>
+    <string name="request_use_gallery_title">Доступ к галерее</string>
+    <string name="request_use_writing_clipboard_message">Для копирования идентификатора Mi аккаунта, разрешите запись в буфер обмена</string>
     <string name="resend_active_email">Отправить снова</string>
-    <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
-    <string name="resend_email_reach_limit_title">Слишком много попыток</string>
+    <string name="resend_email_reach_limit_message">Слишком много запросов писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
+    <string name="resend_email_reach_limit_title">Лимит запросов</string>
     <string name="resend_email_success">Письмо отправлено снова</string>
     <string name="restart_action">Начать сначала</string>
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
@@ -863,6 +878,8 @@ ID:%s
     <string name="used_cloud_storage_info">Использовано %s</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
+    <string name="user_instruction_all_purpose">Добро пожаловать в Mi Аккаунт! Вы можете создать учетную запись и войти в систему для доступа к сервисам, предоставляемым Xiaomi и ее аффилированными компаниями, такими как Mi.com, Xiaomi Cloud и GetApps. Вам будут доступны получение монет Mi Coins, покупка виртуальных товаров, включая игры, темы и электронные книги.</string>
+    <string name="user_instruction_tip">Чтобы войти в систему, прочтите и примите условия и положения</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verified_apps">Проверенные приложения</string>
