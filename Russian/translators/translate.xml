@@ -915,6 +915,7 @@ mm"</string>
     <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
+    <string name="settingslib_learn_more_text">Подробнее</string>
     <string name="share">Отправить</string>
     <string name="shared_data_delete_failure_text">Произошла ошибка при удалении общих данных</string>
     <string name="shared_data_no_accessors_dialog_text">Для этих общих данных нет договоров аренды. Удалить их?</string>
@@ -1109,10 +1110,14 @@ mm"</string>
     <string name="user_add_user_title">Добавить нового пользователя?</string>
     <string name="user_add_user_type_title">Добавить</string>
     <string name="user_guest">Гость</string>
+    <string name="user_image_choose_photo">Выбрать изображение</string>
+    <string name="user_image_photo_selector">Выбрать фото</string>
+    <string name="user_image_take_photo">Сделать фото</string>
     <string name="user_info_settings_title">Информация о пользователе</string>
     <string name="user_need_lock_message">Перед созданием ограниченного профиля необходимо настроить блокировку экрана для защиты приложений и персональных данных.</string>
     <string name="user_new_profile_name">Новый профиль</string>
     <string name="user_new_user_name">Новый пользователь</string>
+    <string name="user_nickname">Псевдоним</string>
     <string name="user_set_lock_button">Установить блокировку</string>
     <string name="user_setup_button_setup_later">Не сейчас</string>
     <string name="user_setup_button_setup_now">Настроить</string>
@@ -1205,6 +1210,8 @@ mm"</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к Wi-Fi сети, в которой доступна рандомизация MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
+    <string name="wifi_hotspot_switch_off_text">Откл.</string>
+    <string name="wifi_hotspot_switch_on_text">Вкл.</string>
     <string name="wifi_is_off">Wi-Fi отключен</string>
     <string name="wifi_limited_connection">Подключение к сети ограничено</string>
     <string name="wifi_metered_label">Трафик</string>
@@ -1316,11 +1323,4 @@ mm"</string>
     <string name="zen_mode_forever">До отключения</string>
     <string name="zen_mode_settings_summary_off">Никогда</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Включите режим \"Не беспокоить\"</string>
-    <string name="settingslib_learn_more_text">Подробнее</string>	
-    <string name="user_image_choose_photo">Выбрать изображение</string>
-    <string name="user_image_photo_selector">Выбрать фото</string>
-    <string name="user_image_take_photo">Сделать фото</string>	
-    <string name="user_nickname">Псевдоним</string>
-    <string name="wifi_hotspot_switch_off_text">Откл.</string>
-    <string name="wifi_hotspot_switch_on_text">Вкл.</string>
 </resources>
