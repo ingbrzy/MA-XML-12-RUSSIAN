@@ -944,6 +944,7 @@
     <string name="car_ui_direct_manipulation">android.rotary.DIRECT_MANIPULATION</string>
     <string name="car_ui_ellipsis">…</string>
     <string name="car_ui_ime_wide_screen_system_property_name">ro.build.automotive.ime.wide_screen.enabled</string>
+    <string name="car_ui_shared_library_package_system_property_name">ro.build.automotive.car.ui.shared.library.package.name</string>
     <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_title_somewhere">%1$s</string>
@@ -2205,6 +2206,7 @@
     <string name="front_tucana_global">5:SHOT ON MI NOTE 10</string>
     <string name="front_tucana_global_pro">5:MI NOTE 10 PRO</string>
     <string name="front_vela">1:MI CC 9 MEITU</string>
+    <string name="fully_managed_device_provisioning_permissions_subheader">@string/fully_managed_device_provisioning_step_2_subheader</string>
     <string name="function_aiqiyi_title">iQiyi</string>
     <string name="function_bilibili_title">Bilibili</string>
     <string name="function_jd_title">JD</string>
@@ -3670,6 +3672,7 @@
     <string name="senders_elided">..</string>
     <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="service_client_name">%1$s</string>
+    <string name="service_name">MiplayAudio</string>
     <string name="service_process_name">%1$s</string>
     <string name="set_primary">SetPrimary</string>
     <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
@@ -4353,6 +4356,7 @@
     <string name="time_numbers">%02d</string>
     <string name="time_picker_mode">clock</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_permission">PermissionActivity</string>
     <string name="title_desktop_uninstall">title_desktop_uninstall</string>
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="today_hot_search">今日热搜</string>
@@ -4431,6 +4435,7 @@
     <string name="url_gslb_root">http://gslb.hpplay.cn</string>
     <string name="url_hw_sdkauth">https://hwsdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
     <string name="url_imdns">http://imdns.hpplay.cn</string>
+    <string name="url_nubia_auth">https://sdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
     <string name="url_pin">http://pin.hpplay.cn</string>
     <string name="url_release_sdkauth">http://sdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
     <string name="url_rp">http://rp.hpplay.com.cn</string>
@@ -4588,4 +4593,9 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
+<!-- ### FROM SOURCE -->
+    <string name="wifitrackerlib_settings_package">com.android.settings</string>
+<!-- ### FROM SOURCE -->
+    <string name="wifitrackerlib_summary_separator">" / "</string>
+	
 </resources>

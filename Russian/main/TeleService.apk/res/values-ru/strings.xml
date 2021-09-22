@@ -773,10 +773,10 @@
     <string name="connect_disconnect_vibrate_weak">Слабая</string>
     <string name="connect_later">Не удалось подключиться к этой сети. Повторите попытку позже.</string>
     <string name="connected_via_app">Подключено через %1$s</string>
-    <string name="connected_via_carrier">Подключено к %1$s</string>
-    <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
+    <string name="connected_via_carrier">Подключено через %1$s</string>
+    <string name="connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
-    <string name="connected_via_passpoint">Подключено к %1$s</string>
+    <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="connection_service_default_label">Встроенная служба подключения</string>
     <string name="contactAddFailed">Ошибка добавления контакта на SIM-карту</string>
     <string name="contactAddSuccess">Контакт добавлен на SIM-карту</string>
@@ -2870,11 +2870,11 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к сети, в которой доступна рандомизация MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_hand_sel_wapi_cert">Сертификат WAPI</string>
-    <string name="wifi_limited_connection">Подключение к сети ограничено</string>
+    <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_metered_label">Трафик</string>
     <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
     <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учетными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>
-    <string name="wifi_no_internet">Нет подключения к интернету</string>
+    <string name="wifi_no_internet">Без доступа в интернет</string>
     <string name="wifi_no_internet_no_reconnect">Подключение не будет выполняться автоматически</string>
     <string name="wifi_not_in_range">Недоступна</string>
     <string name="wifi_passpoint_expired">Срок действия истек</string>

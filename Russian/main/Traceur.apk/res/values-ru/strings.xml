@@ -233,10 +233,10 @@
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
     <string name="connected_via_app">Подключено через %1$s</string>
-    <string name="connected_via_carrier">Подключено к %1$s</string>
-    <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
+    <string name="connected_via_carrier">Подключено через %1$s</string>
+    <string name="connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
-    <string name="connected_via_passpoint">Подключено к %1$s</string>
+    <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="convert_to_fbe_warning">"Перейти к шифрованию отдельных файлов.
 Внимание! Все ваши данные будут удалены.
@@ -509,7 +509,7 @@
     <string name="orb_search_action">Поиск действия</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться</string>
-    <string name="osu_opening_provider">Opening %1$s</string>
+    <string name="osu_opening_provider">Открытие %1$s</string>
     <string name="osu_sign_up_complete">Регистрация завершена. Подключение…</string>
     <string name="osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
@@ -783,12 +783,12 @@
     <string name="wifi_hotspot_switch_off_text">Откл.</string>
     <string name="wifi_hotspot_switch_on_text">Вкл.</string>
     <string name="wifi_is_off">Wi-Fi отключен</string>
-    <string name="wifi_limited_connection">Подключение к сети ограничено</string>
+    <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_metered_label">Трафик</string>
     <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
     <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учетными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>
-    <string name="wifi_no_internet">Нет подключения к интернету</string>
-    <string name="wifi_no_internet_no_reconnect">Нет подключения к интернету</string>
+    <string name="wifi_no_internet">Без доступа в интернет</string>
+    <string name="wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
     <string name="wifi_not_in_range">Недоступно</string>
     <string name="wifi_passpoint_expired">Срок действия истек</string>
     <string name="wifi_remembered">Сохранено</string>

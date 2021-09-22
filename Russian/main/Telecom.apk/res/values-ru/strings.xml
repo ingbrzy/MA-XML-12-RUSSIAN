@@ -264,10 +264,10 @@
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="connected_via_app">Подключено через %1$s</string>
-    <string name="connected_via_carrier">Подключено к %1$s</string>
-    <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
+    <string name="connected_via_carrier">Подключено через %1$s</string>
+    <string name="connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
-    <string name="connected_via_passpoint">Подключено к %1$s</string>
+    <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="convert_to_fbe_warning">"Перейти к шифрованию отдельных файлов.
 Внимание! Все ваши данные будут удалены.
@@ -555,7 +555,7 @@
     <string name="okay">ОК</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться</string>
-    <string name="osu_opening_provider">Opening %1$s</string>
+    <string name="osu_opening_provider">Открытие %1$s</string>
     <string name="osu_sign_up_complete">Регистрация завершена. Подключение…</string>
     <string name="osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Введен неверный номер телефона.</string>
@@ -917,7 +917,7 @@
     <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к сети с доступной рандомизацией MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
-    <string name="wifi_limited_connection">Подключение к сети ограничено</string>
+    <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_metered_label">Трафик</string>
     <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
     <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учетными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>

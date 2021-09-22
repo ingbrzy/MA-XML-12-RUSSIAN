@@ -710,7 +710,7 @@
     <string name="confirm_pin_msg">Повторите PIN-код</string>
     <string name="connected_via_app">Подключено через %1$s</string>
     <string name="connected_via_carrier">Подключено через %1$s</string>
-    <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
+    <string name="connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="content_description_menu_button">Меню</string>
@@ -1924,7 +1924,7 @@ d MMMM"</string>
     <string name="orb_search_action">Действие для поиска</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться</string>
-    <string name="osu_opening_provider">Opening %1$s</string>
+    <string name="osu_opening_provider">Открытие %1$s</string>
     <string name="osu_sign_up_complete">Регистрация завершена. Подключение…</string>
     <string name="osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
     <string name="other">Другое</string>
@@ -2978,10 +2978,10 @@ d MMMM"</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
     <string name="wifi_is_off">Wi-Fi отключен</string>
-    <string name="wifi_limited_connection">Подключение к сети ограничено</string>
+    <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_metered_label">Трафик</string>
-    <string name="wifi_no_internet">Нет подключения к интернету</string>
-    <string name="wifi_no_internet_no_reconnect">Нет подключения к интернету</string>
+    <string name="wifi_no_internet">Без доступа в интернет</string>
+    <string name="wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
     <string name="wifi_not_in_range">Недоступно</string>
     <string name="wifi_passpoint_expired">Срок действия истек</string>
     <string name="wifi_remembered">Сохранено</string>
