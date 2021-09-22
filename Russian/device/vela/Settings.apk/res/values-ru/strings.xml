@@ -1069,6 +1069,7 @@
     <string name="beauty_camera">Эффекты для видеовызовов</string>
     <string name="beauty_camera_summary">Использовать эффекты для видеовызовов WeChat</string>
     <string name="beauty_camera_switch">Эффекты</string>
+    <string name="beauty_fc_assistant">Помощник фронтальной камеры</string>
     <string name="billing_cycle">Платежный цикл</string>
     <string name="billing_cycle_fragment_summary">Ежемесячно с %1$s-го числа</string>
     <string name="billing_cycle_less_than_one_day_left">Осталось меньше 1 дня</string>
@@ -1318,6 +1319,9 @@
     <string name="bluetooth_phonebook_request">Запрос на доступ к списку контактов</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Должно быть 16 цифр</string>
+    <string name="bluetooth_plugins_check_summary">Проверить обновления плагинов bluetooth</string>
+    <string name="bluetooth_plugins_check_summary_new">Доступна новая версия плагина bluetooth</string>
+    <string name="bluetooth_plugins_check_title">Проверка обновлений</string>
     <string name="bluetooth_pref_summary">Разрешить устройству обмен с Bluetooth-устройствами поблизости</string>
     <string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
     <string name="bluetooth_preference_device_settings">Настройки устройства</string>
@@ -1759,7 +1763,7 @@
     <string name="choose_lock_pattern_header_text">Задайте графический ключ</string>
     <string name="choose_network_title">Выберите сеть</string>
     <string name="choose_profile">Выберите профиль</string>
-    <string name="choose_smartcover_type">Тип передней крышки</string>
+    <string name="choose_smartcover_type">Тип чехла</string>
     <string name="choose_spell_checker">Проверка правописания</string>
     <string name="choose_timezone">Выбор часового пояса</string>
     <string name="choose_unlock_face_msg">Настройте защиту устройства перед добавлением данных лица.</string>
@@ -2346,7 +2350,7 @@
     <string name="dc_light_dialog_summary">Включение DC dimming может повлиять на качество изображения. Все равно включить?</string>
     <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
     <string name="dc_light_summary_new">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
-    <string name="dc_light_title">Режим антимерцания</string>
+    <string name="dc_light_title">Устранение мерцания</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
     <string name="debug_app_set">Приложение: %1$s</string>
@@ -4269,8 +4273,8 @@
     <string name="location_mode_screen_title">Определение местоположения</string>
     <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
     <string name="location_mode_sensors_only_title">По спутникам GPS</string>
-    <string name="location_modem_summary">Оператор связи будет получать информацию о вашем местоположении через базовые станции</string>
-    <string name="location_modem_title">Доступ оператора к местоположению</string>
+    <string name="location_modem_summary">Разрешить операторам связи определять местоположение устройства по базовым станциям</string>
+    <string name="location_modem_title">Доступ для операторов связи</string>
     <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
     <string name="location_neighborhood_level_wifi">Местоположение определяется по сетям Wi-Fi</string>
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
@@ -4533,7 +4537,7 @@
     <string name="lost_internet_access_switch">Переключаться на мобильный интернет</string>
     <string name="lost_internet_access_text">Вы можете переключаться на мобильную сеть при слабом сигнале Wi-Fi. Может взиматься плата за передачу данных.</string>
     <string name="lost_internet_access_title">Сеть Wi-Fi без доступа к интернету</string>
-    <string name="low_dc_light_title">Режим антимерцания при низкой освещенности</string>
+    <string name="low_dc_light_title">Устранение мерцания при низкой освещенности</string>
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
     <string name="macaddr_label">MAC-адрес:</string>
@@ -5588,9 +5592,9 @@
     <string name="notification_vibrate_title">Вибросигнал</string>
     <string name="notification_volume_option_title">Громкость уведомлений</string>
     <string name="notification_volume_title">Уведомление</string>
-    <string name="notifications_bubble_setting_description">Некоторые диалоги будут отображаться в виде плавающих значков поверх других приложений.</string>
+    <string name="notifications_bubble_setting_description">Разрешить приложениям показывать \"пузыри\". Некоторые диалоги будут отображаться в виде плавающих значков поверх других приложений.</string>
     <string name="notifications_bubble_setting_on_summary">Вкл. / Диалоги могут отображаться в виде плавающих значков</string>
-    <string name="notifications_bubble_setting_title">Разрешить приложениям показывать \"пузыри\"</string>
+    <string name="notifications_bubble_setting_title">Показывать \"пузыри\"</string>
     <string name="notifications_disabled">Откл.</string>
     <string name="notifications_enabled">Вкл.</string>
     <string name="notifications_enabled_with_info">%1$s / %2$s</string>
@@ -5827,7 +5831,7 @@ OTG отключается автоматически через 10 минут �
     <string name="peak_refresh_rate_title">Плавный экран</string>
     <string name="peek_notification_icon_title">Значки уведомлений</string>
     <string name="performance_category">Производительность</string>
-    <string name="permission_action_prompt">Спрашивать</string>
+    <string name="permission_action_prompt">Спросить</string>
     <string name="permission_bar_chart_details">Показать на панели все</string>
     <string name="permission_bar_chart_empty_text">Отсутствуют</string>
     <string name="permission_bar_chart_title">Разрешения за последние 24 часа</string>
@@ -5891,19 +5895,19 @@ OTG отключается автоматически через 10 минут �
     <string name="pointer_location_summary">Отображать касания</string>
     <string name="pointer_settings_category">Мышь и сенсорная панель</string>
     <string name="pointer_speed">Скорость указателя</string>
-    <string name="popup_gesture_summary">Перейдите на рабочий стол, поднимите устройство и посмотрите на экран для автоматического открытия передней камеры</string>
-    <string name="popup_gesture_title">Открытие передней камеры</string>
-    <string name="popup_led_summary">Показывать анимацию, когда передняя камера появляется и убирается</string>
+    <string name="popup_gesture_summary">Перейдите на рабочий стол, поднимите устройство и посмотрите на экран для автооткрытия фронтальной камеры</string>
+    <string name="popup_gesture_title">Открытие фронтальной камеры</string>
+    <string name="popup_led_summary">Показывать анимацию, когда фронтальная камера появляется или убирается</string>
     <string name="popup_led_title">Визуальный эффект</string>
     <string name="popup_led_try_later">Повторите попытку позже</string>
-    <string name="popup_title">Эффекты передней камеры</string>
+    <string name="popup_title">Эффекты фронтальной камеры</string>
     <string name="popup_title_cangmen">Дверь</string>
     <string name="popup_title_chilun">Шестеренка</string>
     <string name="popup_title_jijia">Механизм</string>
     <string name="popup_title_mofa">Магия</string>
     <string name="popup_title_muqin">Ксилофон</string>
     <string name="popup_title_yingyan">Кондор</string>
-    <string name="popup_voice_summary">Воспроизводить звук, когда передняя камера появляется и убирается</string>
+    <string name="popup_voice_summary">Воспроизводить звук, когда фронтальная камера появляется или убирается</string>
     <string name="popup_voice_title">Звуковой эффект</string>
     <string name="popup_window">Запретить всплывающие уведомления</string>
     <string name="power_autorun_apps_empty">Пусто</string>
@@ -8451,7 +8455,7 @@ UT-интерфейс: %5$s"</string>
     <string name="upload_debug_log_detail">"Автоматически отправлять диагностику, данные об устройстве и использовании приложений в Xiaomi. Это поможет улучшить время автономной работы, стабильность системы и приложений MIUI, а также многое другое.
 Отправляемые данные будут содержать общую информацию об устройстве и его использовании (например, уровень заряда батареи, активность системы и приложений, ошибках). 
 Отключение этой функции не повлияет на отправку информации, которая необходима для основных служб, таких как Обновление и Безопасность."</string>
-    <string name="upload_debug_log_summary">Отправка данных для улучшения MIUI</string>
+    <string name="upload_debug_log_summary">"Отправка данных для улучшения MIUI. "</string>
     <string name="upload_debug_log_title">Использование и диагностика</string>
     <string name="usage">Мобильный интернет</string>
     <string name="usage_access">Доступ к истории использования</string>
