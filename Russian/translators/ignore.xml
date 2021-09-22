@@ -4555,6 +4555,8 @@ feedsContentId:
     <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+    <string name="wifitrackerlib_settings_package">com.android.settings</string>
+    <string name="wifitrackerlib_summary_separator">" / "</string>
     <string name="wind_power_unit_default">0</string>
     <string name="winter_begins">立冬</string>
     <string name="winter_begins_tradition">立冬</string>
@@ -4593,9 +4595,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-<!-- ### FROM SOURCE -->
-    <string name="wifitrackerlib_settings_package">com.android.settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="wifitrackerlib_summary_separator">" / "</string>
-	
 </resources>
