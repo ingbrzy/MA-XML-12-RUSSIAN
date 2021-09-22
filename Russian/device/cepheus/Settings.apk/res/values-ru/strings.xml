@@ -1989,8 +1989,8 @@
     <string name="connected_devices_dashboard_title">Подключенные устройства</string>
     <string name="connected_tws_device_saved_title">Сохраненные наушники</string>
     <string name="connected_via_app">Подключено через %1$s.</string>
-    <string name="connected_via_carrier">Подключено к %1$s</string>
-    <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
+    <string name="connected_via_carrier">Подключено через %1$s</string>
+    <string name="connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="connected_wifi">Подключенные сети</string>
@@ -8070,7 +8070,7 @@ UT-интерфейс: %5$s"</string>
     <string name="talkback_title">Talkback</string>
     <string name="talkback_watermark_enable">Водяной знак TalkBack</string>
     <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
-    <string name="tap_to_sign_up">Нажмите для входа</string>
+    <string name="tap_to_sign_up">Нажмите для регистрации</string>
     <string name="tap_to_wake">Включение нажатием</string>
     <string name="tap_to_wake_summary">Дважды нажмите в любом месте экрана, чтобы включить устройство</string>
     <string name="taplus_title">Taplus</string>
@@ -9343,7 +9343,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_ip_settings_menu_cancel">Отмена</string>
     <string name="wifi_ip_settings_menu_save">Сохранить</string>
     <string name="wifi_limit_optimizations_summary">Лимит расхода батареи (Wi-Fi)</string>
-    <string name="wifi_limited_connection">Подключение к сети ограничено</string>
+    <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_link_turbo">Увеличение скорости подключения</string>
     <string name="wifi_link_turbo_app_settings_summary">Выберите приложения, для которых будет доступна эта функция</string>
     <string name="wifi_link_turbo_app_settings_title">Выбор приложений</string>
@@ -9378,8 +9378,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_network_prefix_length">Префикс</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_domain_warning">Укажите домен.</string>
-    <string name="wifi_no_internet">Нет подключения к интернету</string>
-    <string name="wifi_no_internet_no_reconnect">Нет подключения к интернету</string>
+    <string name="wifi_no_internet">Без доступа в интернет</string>
+    <string name="wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
     <string name="wifi_no_user_cert_warning">Требуется сертификат.</string>
     <string name="wifi_not_in_range">Сеть недоступна</string>
     <string name="wifi_not_in_range_message">Сеть недоступна</string>
