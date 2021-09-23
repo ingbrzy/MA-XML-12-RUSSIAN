@@ -267,6 +267,7 @@
     <string name="anr_title"/>
     <string name="app_blocked_message">Приложение %1$s недоступно</string>
     <string name="app_blocked_title">Приложение недоступно</string>
+    <string name="app_category_accessibility">Спец. возможности</string>
     <string name="app_category_audio">Музыка и аудио</string>
     <string name="app_category_game">Игры</string>
     <string name="app_category_image">Изображения</string>
@@ -347,6 +348,7 @@
     <string name="biometric_dialog_default_title">Подтвердите, что это вы</string>
     <string name="biometric_error_canceled">Аутентификация отменена</string>
     <string name="biometric_error_device_not_secured">Укажите PIN-код, пароль или графический ключ</string>
+    <string name="biometric_error_generic">Ошибка аутентификации</string>
     <string name="biometric_error_hw_unavailable">Биометрическое оборудование недоступно</string>
     <string name="biometric_error_user_canceled">Аутентификация отменена</string>
     <string name="biometric_not_recognized">Не распознано</string>
@@ -417,6 +419,7 @@
     <string name="config_cameraLiftTriggerSensorStringType"/>
     <string name="config_companionDeviceManagerPackage" />
     <string name="config_customMediaKeyDispatcher" />
+    <string name="config_customMediaSessionPolicyProvider" />
     <string name="config_customResolverActivity"/>
     <string name="config_customSessionPolicyProvider" />
     <string name="config_defaultAppPredictionService"/>
@@ -428,12 +431,20 @@
     <string name="config_defaultContentCaptureService"/>
     <string name="config_defaultContentSuggestionsService"/>
     <string name="config_defaultListenerAccessPackages"/>
+    <string name="config_defaultMusicRecognitionService" />
     <string name="config_defaultNearbySharingComponent" />
     <string name="config_defaultNetworkRecommendationProviderPackage"/>
     <string name="config_defaultNetworkScorerPackageName"/>
+    <string name="config_defaultOnDeviceSpeechRecognitionService" />
+    <string name="config_defaultProfcollectReportUploaderAction" />
+    <string name="config_defaultProfcollectReportUploaderApp" />
+    <string name="config_defaultRotationResolverService" />
+    <string name="config_defaultSearchUiService" />
+    <string name="config_defaultSmartspaceService" />
     <string name="config_defaultSystemCaptionsManagerService"/>
     <string name="config_defaultSystemCaptionsService"/>
     <string name="config_defaultTextClassifierPackage"/>
+    <string name="config_defaultTranslationService" />
     <string name="config_defaultTrustAgent"/>
     <string name="config_defaultWellbeingPackage"/>
     <string name="config_deviceConfiguratorPackageName"/>
@@ -442,15 +453,18 @@
     <string name="config_deviceSpecificDevicePolicyManagerService"/>
     <string name="config_deviceSpecificDisplayAreaPolicyProvider" />
     <string name="config_displayLightSensorType"/>
+    <string name="config_display_features" />
     <string name="config_doubleTouchGestureEnableFile"/>
     <string name="config_dozeDoubleTapSensorType"/>
     <string name="config_dozeLongPressSensorType"/>
     <string name="config_dozeTapSensorType"/>
+    <string name="config_dozeUdfpsLongPressSensorType" />
     <string name="config_factoryResetPackage" />
     <string name="config_feedbackIntentExtraKey"/>
     <string name="config_feedbackIntentNameKey"/>
     <string name="config_foldedArea"/>
     <string name="config_forceVoiceInteractionServicePackage"/>
+    <string name="config_globalAppSearchDataQuerierPackage" />
     <string name="config_headlineFontFamily"/>
     <string name="config_headlineFontFeatureSettings"/>
     <string name="config_helpIntentExtraKey"/>
@@ -468,6 +482,7 @@
     <string name="config_mobile_hotspot_provision_response"/>
     <string name="config_networkCaptivePortalServerUrl"/>
     <string name="config_networkPolicyNotificationComponent"/>
+    <string name="config_notificationHandlerPackage" />
     <string name="config_optionalPackageVerifierName"/>
     <string name="config_overrideComponentUiPackage" />
     <string name="config_packagedKeyboardName"/>
@@ -477,14 +492,33 @@
     <string name="config_pdp_reject_user_authentication_failed" />
     <string name="config_persistentDataPackageName"/>
     <string name="config_powerSaveModeChangedListenerPackage" />
+    <string name="config_primaryLocationTimeZoneProviderPackageName" />
     <string name="config_qualified_networks_service_class" />
     <string name="config_qualified_networks_service_package"/>
+    <string name="config_quickPickupSensorType" />
     <string name="config_radio_access_family"/>
     <string name="config_retailDemoPackage" />
     <string name="config_retailDemoPackageSignature" />
+    <string name="config_secondaryLocationTimeZoneProviderPackageName" />
+    <string name="config_systemActivityRecognizer" />
+    <string name="config_systemAmbientAudioIntelligence" />
+    <string name="config_systemAudioIntelligence" />
+    <string name="config_systemAutomotiveCluster" />
+    <string name="config_systemAutomotiveProjection" />
+    <string name="config_systemCompanionDeviceProvider" />
+    <string name="config_systemImageEditor" />
+    <string name="config_systemNotificationIntelligence" />
+    <string name="config_systemSpeechRecognizer" />
+    <string name="config_systemTelevisionNotificationHandler" />
+    <string name="config_systemTextIntelligence" />
+    <string name="config_systemUiIntelligence" />
+    <string name="config_systemVisualIntelligence" />
+    <string name="config_systemWellbeing" />
+    <string name="config_systemWifiCoexManager" />
     <string name="config_timeZoneRulesDataPackage"/>
     <string name="config_tvRemoteServicePackage"/>
     <string name="config_useragentprofile_url"/>
+    <string name="config_vendorColorModesRestoreHint" />
     <string name="config_wifi_sar_sensor_type"/>
     <string name="config_wifi_softap_acs_supported_channel_list"/>
     <string name="config_wimaxManagerClassname"/>
@@ -582,6 +616,7 @@
     <string name="disable_accessibility_shortcut">Деактивировать быстрое включение</string>
     <string name="disable_tether_notification_message">Свяжитесь с администратором для подробностей</string>
     <string name="disable_tether_notification_title">Модем отключен</string>
+    <string name="dismiss_action">Отклонить</string>
     <string name="display_manager_built_in_display_name">Встроенный экран</string>
     <string name="display_manager_hdmi_display_name">Экран HDMI</string>
     <string name="display_manager_overlay_display_name">Наложение № %1$d</string>
@@ -728,9 +763,12 @@
     <string name="find_next">Cлед.</string>
     <string name="find_on_page">Найти на странице</string>
     <string name="find_previous">Пред.</string>
+    <string name="fingerprint_acquired_already_enrolled">Попробуйте другой отпечаток</string>
     <string name="fingerprint_acquired_imager_dirty">Очистите сканер и повторите попытку.</string>
+    <string name="fingerprint_acquired_immobile">Каждый раз слегка меняйте положение пальца</string>
     <string name="fingerprint_acquired_insufficient">Не удалось распознать отпечаток. Повторите попытку.</string>
     <string name="fingerprint_acquired_partial">Отсканирована только часть пальца. Повторите попытку.</string>
+    <string name="fingerprint_acquired_too_bright">Слишком ярко</string>
     <string name="fingerprint_acquired_too_fast">Вы слишком быстро убрали палец. Повторите попытку.</string>
     <string name="fingerprint_acquired_too_slow">Вы перемещали палец слишком медленно. Повторите попытку.</string>
     <string name="fingerprint_authenticated">Отпечаток проверен</string>
@@ -758,7 +796,11 @@
     <string name="foreground_service_tap_for_details">Нажмите, чтобы проверить энергопотребление и трафик</string>
     <string name="forward_intent_to_owner">Это приложение используется в личном профиле</string>
     <string name="forward_intent_to_work">Вы перешли в рабочий профиль</string>
+    <string name="fp_enrollment_powerbutton_intent_negative_button">Отмена</string>
+    <string name="fp_enrollment_powerbutton_intent_positive_button">Выключить</string>
+    <string name="fp_enrollment_powerbutton_intent_title">Выключить экран?</string>
     <string name="gadget_host_error_inflating">Не удалось добавить виджет.</string>
+    <string name="geofencing_service">Служба геозон</string>
     <string name="gigabyteShort">" ГБ"</string>
     <string name="global_action_assist">Помощник</string>
     <string name="global_action_bug_report">Отчет об ошибке</string>
@@ -782,6 +824,8 @@
     <string name="gnss_nfw_notification_message_carrier">Оператор связи получил доступ к вашему местоположению во время недавнего экстренного сеанса связи</string>
     <string name="gnss_nfw_notification_message_oem">Производитель устройства получил доступ к вашему местоположению во время недавнего экстренного сеанса связи</string>
     <string name="gnss_nfw_notification_title">Доступ к местоположению</string>
+    <string name="gnss_service">Служба GNSS</string>
+    <string name="gnss_time_update_service">Служба синхронизации времени GNSS</string>
     <string name="gpsNotifMessage">Запрашивает %1$s (%2$s)</string>
     <string name="gpsNotifTicker">Пользователь %s запрашивает ваше местоположение</string>
     <string name="gpsNotifTitle">Запрос местоположения</string>
@@ -1138,8 +1182,19 @@
     <string name="mediasize_japanese_jis_exec">JIS Exec</string>
     <string name="mediasize_japanese_kahu">Kaku</string>
     <string name="mediasize_japanese_kaku2">Kaku2</string>
+    <string name="mediasize_japanese_l">L</string>
     <string name="mediasize_japanese_oufuku">Oufuku</string>
     <string name="mediasize_japanese_you4">You4</string>
+    <string name="mediasize_na_ansi_c">ANSI C</string>
+    <string name="mediasize_na_ansi_d">ANSI D</string>
+    <string name="mediasize_na_ansi_e">ANSI E</string>
+    <string name="mediasize_na_ansi_f">ANSI F</string>
+    <string name="mediasize_na_arch_a">Arch A</string>
+    <string name="mediasize_na_arch_b">Arch B</string>
+    <string name="mediasize_na_arch_c">Arch C</string>
+    <string name="mediasize_na_arch_d">Arch D</string>
+    <string name="mediasize_na_arch_e">Arch E</string>
+    <string name="mediasize_na_arch_e1">Arch E1</string>
     <string name="mediasize_na_foolscap">Foolscap</string>
     <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
     <string name="mediasize_na_index_3x5">Index Card 3x5</string>
@@ -1151,6 +1206,7 @@
     <string name="mediasize_na_letter">Letter</string>
     <string name="mediasize_na_monarch">Monarch</string>
     <string name="mediasize_na_quarto">Quarto</string>
+    <string name="mediasize_na_super_b">Super B</string>
     <string name="mediasize_na_tabloid">Tabloid</string>
     <string name="mediasize_unknown_landscape">Неизвестный горизонтальный формат</string>
     <string name="mediasize_unknown_portrait">Неизвестный вертикальный формат</string>
@@ -1233,6 +1289,7 @@
     <string name="no_recent_tasks">Список недавно использованных приложений пуст.</string>
     <string name="noon">полдень</string>
     <string name="not_checked">не проверено</string>
+    <string name="not_selected">не выбрано</string>
     <string name="notification_alerted_content_description">Отправлено оповещение</string>
     <string name="notification_app_name_settings">Настройки</string>
     <string name="notification_app_name_system">Система</string>
@@ -1277,6 +1334,7 @@
     <string name="notification_ranker_binding_label">Сервис для оценки важности уведомлений</string>
     <string name="notification_reply_button_accessibility">Ответить</string>
     <string name="notification_title">Ошибка входа в аккаунт %1$s</string>
+    <string name="notification_verified_content_description">Проверено</string>
     <string name="notification_work_profile_content_description">Рабочий профиль</string>
     <string name="now_string_shortest">сейчас</string>
     <string name="number_picker_decrement_button">Уменьшить</string>
@@ -1287,6 +1345,7 @@
     <string name="old_app_action">Вернуться к приложению %1$s</string>
     <string name="older">Еще раньше</string>
     <string name="oneMonthDurationPast">1 месяц назад</string>
+    <string name="one_handed_mode_feature_name">Управление одной рукой</string>
     <string name="open_permission_deny">У вас нет доступа к этой странице.</string>
     <string name="orgTypeCustom">Новый тип</string>
     <string name="orgTypeOther">Другое</string>
@@ -1419,7 +1478,7 @@
     <string name="permdesc_systemCamera">Это привилегированное или системное приложение может в любое время делать снимки и записывать видео с помощью системной камеры. У приложения должно быть разрешение android.permission.CAMERA</string>
     <string name="permdesc_transmitIr">Приложение сможет использовать инфракрасный передатчик телефона.</string>
     <string name="permdesc_uninstall_shortcut">Приложение сможет удалять ярлыки с главного экрана без вмешательства пользователя.</string>
-    <string name="permdesc_useBiometric">Приложение сможет использовать аппаратные средства для биометрической аутентификации</string>
+    <string name="permdesc_useBiometric">Приложение сможет использовать аппаратные средства биометрической аутентификации</string>
     <string name="permdesc_useDataInBackground">Приложению разрешено передавать данные в фоновом режиме. Возможно увеличение расхода трафика.</string>
     <string name="permdesc_useFaceAuthentication">Приложение сможет использовать аппаратные средства для распознавания по лицу</string>
     <string name="permdesc_useFingerprint">Приложение сможет использовать сканер отпечатков пальцев для аутентификации.</string>
@@ -1444,6 +1503,7 @@
     <string name="permgroupdesc_contacts">доступ к контактам</string>
     <string name="permgroupdesc_location">доступ к данным о местоположении устройства</string>
     <string name="permgroupdesc_microphone">записывать аудио</string>
+    <string name="permgroupdesc_nearby_devices">обнаружение устройств поблизости и подключение</string>
     <string name="permgroupdesc_phone">осуществлять вызовы и управлять ими</string>
     <string name="permgroupdesc_sensors">доступ к данным датчиков о состоянии организма</string>
     <string name="permgroupdesc_sms">отправлять и просматривать SMS-сообщения</string>
@@ -1455,6 +1515,7 @@
     <string name="permgrouplab_contacts">Контакты</string>
     <string name="permgrouplab_location">Местоположение</string>
     <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_nearby_devices">Устройства поблизости</string>
     <string name="permgrouplab_phone">Телефон</string>
     <string name="permgrouplab_sensors">Нательные датчики</string>
     <string name="permgrouplab_sms">SMS</string>
@@ -1473,6 +1534,8 @@
     <string name="permgrouprequestdetail_location">Приложение будет иметь доступ к местоположению только на время использования</string>
     <string name="permission">Разрешение</string>
     <string name="permission_remember_choice">Запомнить</string>
+    <string name="permission_request_notification_for_app_with_subtitle">"%1$s требуется разрешение
+для аккаунта %2$s."</string>
     <string name="permission_request_notification_title">Разрешение запрошено</string>
     <string name="permission_request_notification_with_subtitle">"Требуется разрешение
 для аккаунта %s."</string>
@@ -1493,6 +1556,7 @@
     <string name="permlab_addVoicemail">Добавление голосовых сообщений</string>
     <string name="permlab_answerPhoneCalls">Ответ на входящие вызовы</string>
     <string name="permlab_audioWrite">Изменение коллекции музыки</string>
+    <string name="permlab_backgroundCamera">Съемка фото и видео в фоновом режиме</string>
     <string name="permlab_bindCarrierMessagingService">Подключение к службе обмена сообщениями</string>
     <string name="permlab_bindCarrierServices">Подключение к сервисам оператора связи</string>
     <string name="permlab_bindCellBroadcastService">Пересылка широковещательных сообщений сотовой связи</string>
@@ -1559,6 +1623,7 @@
     <string name="permlab_receiveSms">Прием SMS-сообщений</string>
     <string name="permlab_receiveWapPush">Прием WAP-сообщений</string>
     <string name="permlab_recordAudio">Запись аудио</string>
+    <string name="permlab_recordBackgroundAudio">Запись аудио в фоновом режиме</string>
     <string name="permlab_register_call_provider">Регистрация новых операторов связи</string>
     <string name="permlab_register_sim_subscription">Регистрация новых SIM-карт</string>
     <string name="permlab_removeDrmCertificates">Удаление сертификатов DRM</string>
@@ -1586,7 +1651,7 @@
     <string name="permlab_systemCamera">Доступ к камере для съемки фото и видео</string>
     <string name="permlab_transmitIr">Использование инфракрасного передатчика</string>
     <string name="permlab_uninstall_shortcut">Удаление ярлыков</string>
-    <string name="permlab_useBiometric">Использование аппаратных средств для биометрической аутентификации</string>
+    <string name="permlab_useBiometric">Использование аппаратных средств биометрической аутентификации</string>
     <string name="permlab_useDataInBackground">Передача данных в фоновом режиме</string>
     <string name="permlab_useFaceAuthentication">Использование аппаратных средств для распознавания по лицу</string>
     <string name="permlab_useFingerprint">Использование сканера отпечатков</string>
@@ -1688,6 +1753,7 @@
     <string name="reboot_to_update_title">Обновление системы Android</string>
     <string name="recent_tasks_title">Недавние</string>
     <string name="redo">Повторить</string>
+    <string name="reduce_bright_colors_feature_name">Очень тусклый</string>
     <string name="region_picker_section_all">Все регионы</string>
     <string name="relationTypeAssistant">Секретарь</string>
     <string name="relationTypeBrother">Брат</string>
@@ -1737,7 +1803,7 @@
     <string name="restr_pin_incorrect">Ошибка</string>
     <string name="restr_pin_try_later">Повторите попытку позже.</string>
     <string name="revoke">Отменить</string>
-    <string name="ringtone_default">Мелодия по умолчанию</string>
+    <string name="ringtone_default">Рингтон по умолчанию</string>
     <string name="ringtone_default_with_actual">По умолчанию (%1$s)</string>
     <string name="ringtone_picker_title">Мелодии</string>
     <string name="ringtone_picker_title_alarm">Сигнал будильника</string>
@@ -2145,6 +2211,7 @@
     <string name="zen_mode_forever">Пока вы не отключите режим \"Не беспокоить\"</string>
     <string name="zen_mode_forever_dnd">Пока вы не отключите режим \"Не беспокоить\"</string>
     <string name="zen_mode_until">До %1$s</string>
+    <string name="zen_mode_until_next_day">До %1$s</string>
     <string name="zen_upgrade_notification_content">Нажмите, чтобы проверить заблокированное</string>
     <string name="zen_upgrade_notification_title">Режим \"Не беспокоить\" изменен</string>
     <string name="zen_upgrade_notification_visd_content">Нажмите для ознакомления</string>

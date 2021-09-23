@@ -1469,6 +1469,7 @@
     <string name="config_batterymeterFillMask">M2,18 v-14 h8 v14 z</string>
     <string name="config_batterymeterPerimeterPath">M3.5,2 v0 H1.33 C0.6,2 0,2.6 0,3.33 V13v5.67 C0,19.4 0.6,20 1.33,20 h9.33 C11.4,20 12,19.4 12,18.67 V13V3.33 C12,2.6 11.4,2 10.67,2 H8.5 V0 H3.5 z M2,18v-7V4h8v9v5H2L2,18z</string>
     <string name="config_batterymeterPowersavePath">M9,10l-2,0l0,-2l-2,0l0,2l-2,0l0,2l2,0l0,2l2,0l0,-2l2,0z</string>
+    <string name="config_biometric_prompt_ui_package">com.android.systemui</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="config_camera_component">com.android.camera/com.android.camera.Camera</string>
@@ -1496,6 +1497,7 @@
     <string name="config_defaultDndAccessPackages">com.android.camera2</string>
     <string name="config_defaultModuleMetadataProvider">com.android.modulemetadata</string>
     <string name="config_defaultPictureInPictureScreenEdgeInsets">16x16</string>
+    <string name="config_defaultRingtoneVibrationSound">/product/media/audio/ui/AttentionalHaptics.ogg</string>
     <string name="config_defaultSms">@string/default_sms_application</string>
     <string name="config_defaultSupervisionProfileOwnerComponent">com.google.android.gms/.kids.account.receiver.ProfileOwnerReceiver</string>
     <string name="config_default_dns_server">8.8.8.8</string>
@@ -1558,20 +1560,27 @@
     <string name="config_screenshotServiceComponent">com.android.systemui/com.android.systemui.screenshot.TakeScreenshotService</string>
     <string name="config_secondaryHomeComponent">com.miui.home/com.miui.home.launcher.SecondaryDisplayLauncher</string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
+    <string name="config_sensorUseStartedActivity">com.android.systemui/com.android.systemui.sensorprivacy.SensorUseStartedActivity</string>
     <string name="config_servicesExtensionPackage">android.ext.services</string>
     <string name="config_settingsintelligence_package_name">com.android.settings.intelligence</string>
+    <string name="config_signalAttributionPath">M20,10h2v8h-2z M20,20h2v2h-2z</string>
     <string name="config_signalXPath">M22,16.41L20.59,15l-2.09,2.09L16.41,15L15,16.41l2.09,2.09L15,20.59L16.41,22l2.09-2.08L20.59,22L22,20.59l-2.08-2.09 L22,16.41z</string>
     <string name="config_simUnlockUiClass">@null</string>
     <string name="config_simUnlockUiPackage">@null</string>
     <string name="config_slicePermissionComponent">com.android.systemui/com.android.systemui.SlicePermissionActivity</string>
     <string name="config_somnambulatorComponent">com.android.systemui/com.android.systemui.Somnambulator</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.StatusBar</string>
+    <string name="config_systemContacts">com.android.contacts</string>
     <string name="config_systemGallery">com.android.gallery3d</string>
+    <string name="config_systemShell">com.android.shell</string>
+    <string name="config_systemTelevisionRemoteService">@string/config_tvRemoteServicePackage</string>
     <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
     <string name="config_systemUIServiceComponent">com.android.systemui/com.android.systemui.SystemUIService</string>
     <string name="config_systemUIVendorServiceComponent">com.android.systemui.MiuiVendorServices</string>
+    <string name="config_systemUi">com.android.systemui</string>
     <string name="config_system_install_component">com.android.settings/com.android.settings.security.CredentialStorage</string>
     <string name="config_timeZoneRulesUpdaterPackage">com.android.timezone.updater</string>
+    <string name="config_udfpsIcon">M25.5,16.3283C28.47,14.8433 31.9167,14 35.5834,14C39.2501,14 42.6968,14.8433 45.6668,16.3283 M20,28.6669C22.7683,24.3402 28.7084,21.3335 35.5834,21.3335C42.4585,21.3335 48.3985, 24.3402 51.1669,28.6669 M22.8607,47.0002C21.834,44.3235 21.834,41.5002 21.834,41.5002C21.834, 34.4051 27.7374,28.6667 35.5841,28.6667C43.4308,28.6667 49.3341,34.4051 49.3341,41.5002 M49.3344,41.5003V42.0319C49.3344,44.7636 47.1161,47.0003 44.3661,47.0003C41.9461, 47.0003 39.8744,45.2403 39.471,42.857L38.9577, 39.7769C38.591,37.5953 36.7027,36.0002 34.5027, 36.0002C26.5826,36.0002 29.846,49.1087 35.291,50.6487 M44.9713,54.6267C42.5513,56.7167 39.2879,58.0001 35.5846,58.0001C32.2296, 58.0001 29.2229,56.9551 26.8945,55.195</string>
     <string name="config_usbAccessoryUriActivity">com.android.systemui/com.android.systemui.usb.UsbAccessoryUriActivity</string>
     <string name="config_usbConfirmActivity">com.android.systemui/com.android.systemui.usb.UsbConfirmActivity</string>
     <string name="config_usbContaminantActivity">com.android.systemui/com.android.systemui.usb.UsbContaminantActivity</string>
@@ -1842,6 +1851,7 @@
     <string name="create_table_thirddesktop"> </string>
     <string name="create_table_vaid"> </string>
     <string name="create_talbe_fwlog"> </string>
+    <string name="crossSimFormat_spn">%s</string>
     <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
     <string name="current_page_template">%1$d/%2$d</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
@@ -2241,6 +2251,7 @@
     <string name="generate_view_failed">全国人民都来了? 稍候再试试</string>
     <string name="gift_count_format">%1$s+</string>
     <string name="give_lucky_money"> </string>
+    <string name="global_actions_change_description">%1$s</string>
     <string name="global_default_language">@string/language_value_english</string>
     <string name="google_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
     <string name="google_app_id">1:442074018142:android:1dd1f9d142d1661a12dfcf</string>
@@ -2355,6 +2366,7 @@
     <string name="keyguard_charging_info_data_ma">%sмА</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
     <string name="keyguard_charging_info_data_v">%sВ</string>
+    <string name="keyguard_face_failed_use_fp">@string/fingerprint_dialog_use_fingerprint_instead</string>
     <string name="keyguard_fancy_colon"></string>
     <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
@@ -3804,6 +3816,7 @@
     <string name="status_bar_alarm_clock">alarm_clock</string>
     <string name="status_bar_battery">battery</string>
     <string name="status_bar_bluetooth">bluetooth</string>
+    <string name="status_bar_call_strength">call_strength</string>
     <string name="status_bar_camera">camera</string>
     <string name="status_bar_cast">cast</string>
     <string name="status_bar_cdma_eri">cdma_eri</string>
@@ -3821,6 +3834,7 @@
     <string name="status_bar_mute">mute</string>
     <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_nfc">nfc</string>
+    <string name="status_bar_no_calling">no_calling</string>
     <string name="status_bar_no_sim">no_sim</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
