@@ -212,6 +212,8 @@
         <item>Естественный</item>
         <item>Стандартный</item>
     </string-array>
+    <array name="config_face_auth_props" />
+    <array name="config_showSpnByGIDWhenAirPlane" />
     <string-array name="debug_hw_overdraw_entries">
         <item>Отключено</item>
         <item>Показывать области наложения</item>
@@ -333,6 +335,131 @@
         <item>Рисовать область усечения синим</item>
         <item>Подсвечивать команды рисования зеленым</item>
     </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Отключено</item>
         <item>На экране в виде полос</item>
@@ -422,6 +549,20 @@
         <item>Ошибка</item>
         <item>Заблокировано</item>
         <item>Нестабильное соединение</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Неуспешно</item>
+        <item>Заблокировано</item>
+        <item>Временный запрет плохого соединения</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимации</item>

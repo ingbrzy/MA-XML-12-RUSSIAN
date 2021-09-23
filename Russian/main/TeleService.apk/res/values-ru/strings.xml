@@ -1283,6 +1283,11 @@
     <string name="incall_error_out_of_service_wfc">Мобильная сеть недоступна. Для совершения вызова подключитесь к сети Wi-Fi.</string>
     <string name="incall_error_outgoing_call_failed">Не удалось осуществить вызов</string>
     <string name="incall_error_power_off">Для совершения вызова отключите режим полета.</string>
+    <string name="incall_error_power_off_thermal"><b>Сильный нагрев устройства</b>"
+
+Не удается совершить вызов. Повторите позже, когда устройство остынет.
+
+Доступны только экстренные вызовы."</string>
     <string name="incall_error_power_off_wfc">Для совершения вызова отключите режим полета или подключитесь к сети Wi-Fi.</string>
     <string name="incall_error_promote_wfc">Чтобы позвонить, включите Wi-Fi вызовы.</string>
     <string name="incall_error_supp_service_conference">Не удалось создать конференц-вызов.</string>
@@ -2446,16 +2451,21 @@ UT-интерфейс: %5$s"</string>
     <string name="sip_account_disable">Аккаунт неактивен. Прием вызовов невозможен.</string>
     <string name="sip_account_list">SIP-аккаунты</string>
     <string name="sip_accounts">SIP-аккаунты</string>
+    <string name="sip_accounts_removed_notification_action">Настройки</string>
+    <string name="sip_accounts_removed_notification_message">"SIP-вызовы больше не поддерживаются платформой Android.
+Ваши существующие аккаунты SIP %s удалены.
+Подтвердите настройки вашего аккаунта для вызовов по умолчанию."</string>
+    <string name="sip_accounts_removed_notification_title">Найдены и удалены устаревшие аккаунты SIP</string>
     <string name="sip_accounts_title">Аккаунты</string>
     <string name="sip_add_account_tip_text">Добавьте аккаунт SIP</string>
     <string name="sip_always_send_keepalive">Отправлять всегда</string>
     <string name="sip_call_options_entry_1">Для всех вызовов при возможности передачи данных</string>
-    <string name="sip_call_options_entry_2">Только для звонков через SIP</string>
+    <string name="sip_call_options_entry_2">Только для вызовов через SIP</string>
     <string name="sip_call_options_entry_3">Спрашивать при каждом вызове</string>
-    <string name="sip_call_options_title">Звонок через SIP</string>
-    <string name="sip_call_options_wifi_only_entry_1">Для всех звонков</string>
-    <string name="sip_call_options_wifi_only_title">Звонок через SIP (только Wi-Fi)</string>
-    <string name="sip_connection_service_label">Встроенный сервис звонков через SIP</string>
+    <string name="sip_call_options_title">Вызов через SIP</string>
+    <string name="sip_call_options_wifi_only_entry_1">Для всех вызовов</string>
+    <string name="sip_call_options_wifi_only_title">Вызов через SIP (только Wi-Fi)</string>
+    <string name="sip_connection_service_label">Встроенный сервис вызовов через SIP</string>
     <string name="sip_edit_new_title">SIP-аккаунт</string>
     <string name="sip_edit_title">SIP-аккаунт</string>
     <string name="sip_menu_discard">Отменить</string>

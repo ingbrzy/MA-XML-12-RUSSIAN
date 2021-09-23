@@ -102,6 +102,11 @@
     <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="applications">Приложения</string>
+    <string name="attach_to_bug_report">Прикрепление трассировок</string>
+    <string name="attach_to_bug_report_summary">Автоматически прикреплять трассировки при отправке отчета об ошибках в BetterBug</string>
+    <string name="attached_to_report">Трассировка прикреплена к отчету об ошибках</string>
+    <string name="attached_to_report_summary">Нажмите, чтобы открыть BetterBug</string>
+    <string name="attaching_to_report">Прикрепление трассировки к отчету об ошибках</string>
     <string name="auto_connect_disable">Автоподключение отключено</string>
     <string name="available_via_app">Доступно через %1$s</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
@@ -432,6 +437,7 @@
     <string name="lb_search_bar_hint_speech">Поговорите с поиском</string>
     <string name="lb_search_bar_hint_with_title">Искать %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">Поговорите с поиском %1$s</string>
+    <string name="link_to_traces">Просмотр файлов трассировки</string>
     <string name="loading_injected_setting_summary">Загрузка…</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
