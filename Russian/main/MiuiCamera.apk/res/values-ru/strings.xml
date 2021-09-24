@@ -99,6 +99,7 @@
     <string name="accessibility_flash_back_soft_light">Мягкая вспышка включена</string>
     <string name="accessibility_flash_off">Вспышка отключена</string>
     <string name="accessibility_flash_on">Вспышка включена</string>
+    <string name="accessibility_flash_screen_halo">Кольцевая лампа включена</string>
     <string name="accessibility_flash_torch">Вспышка включена, режим фонарика</string>
     <string name="accessibility_focus_face_pos_bottom">Расположено у нижнего края кадра</string>
     <string name="accessibility_focus_face_pos_left">Расположено у левого края кадра</string>
@@ -613,6 +614,13 @@
     <string name="dolly_zoom_guide_video_title1">Волшебный зум</string>
     <string name="dolly_zoom_guide_video_title2">Сцены</string>
     <string name="download_alert">Редактирование недоступно во время загрузки</string>
+    <string name="download_automatic_cancel">Отмена</string>
+    <string name="download_automatic_confirm">Загрузить</string>
+    <string name="download_automatic_message">Загружать плагины автоматически при подключении устройства к Wi-Fi?</string>
+    <string name="download_automatic_message_cn">Загружать плагины автоматически при подключении устройства к Wi-Fi?</string>
+    <string name="download_automatic_summary">Автоматически загружать плагины по Wi-Fi</string>
+    <string name="download_automatic_summary_cn">Автоматически загружать плагины по Wi-Fi</string>
+    <string name="download_automatic_title">Автозагрузка плагинов</string>
     <string name="download_cancel_hint">Отменить загрузку %1$s?</string>
     <string name="download_confirm">Загрузка</string>
     <string name="download_hint">Для загрузки потребуется %1$s MB мобильного трафика. Загрузить?</string>
@@ -1175,13 +1183,17 @@
     <string name="portait_effect_entry_cool">Мята</string>
     <string name="portait_effect_entry_dusk">Сумерки</string>
     <string name="portait_effect_entry_fairytale">Детство</string>
+    <string name="portait_effect_entry_holiday">Праздник</string>
     <string name="portait_effect_entry_japanese">Небо</string>
     <string name="portait_effect_entry_lilt">Ритм</string>
     <string name="portait_effect_entry_maze">Лабиринт</string>
     <string name="portait_effect_entry_mood">Эмоции</string>
     <string name="portait_effect_entry_movie">Фильм</string>
     <string name="portait_effect_entry_nature">Природа</string>
+    <string name="portait_effect_entry_original">Оригинал</string>
+    <string name="portait_effect_entry_oxygen">Кислород</string>
     <string name="portait_effect_entry_pink">Румянец</string>
+    <string name="portait_effect_entry_pink_orange">Цитрус</string>
     <string name="portait_effect_entry_riddle">Загадка</string>
     <string name="portait_effect_entry_romance">Романтика</string>
     <string name="portait_effect_entry_sepia">Сепия</string>
@@ -1383,6 +1395,7 @@
     <string name="pref_camera_flashmode_entry_back_soft_light">Мягкий цвет</string>
     <string name="pref_camera_flashmode_entry_off">Откл</string>
     <string name="pref_camera_flashmode_entry_on">Вкл</string>
+    <string name="pref_camera_flashmode_entry_screen_halo">Кольцевая лампа</string>
     <string name="pref_camera_flashmode_entry_torch">Фонарик</string>
     <string name="pref_camera_flashmode_title">Вспышка</string>
     <string name="pref_camera_focus_shoot_summary">Коснитесь экрана для фокусировки, затем еще раз, чтобы сделать снимок</string>
@@ -1569,6 +1582,8 @@
     <string name="pref_camera_sr_enable_title">Суперразрешение</string>
     <string name="pref_camera_stereo_mode_title">Стерео</string>
     <string name="pref_camera_super_resolution_title">Суперразрешение</string>
+    <string name="pref_camera_tap_shoot_summary">Нажмите на область предпросмотра, чтобы сделать снимок</string>
+    <string name="pref_camera_tap_shoot_title">Съемка касанием</string>
     <string name="pref_camera_tilt_shift_entry_circle">Окружность</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Параллель</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
@@ -1633,6 +1648,8 @@
     <string name="pref_camera_zsl_entry_off">Откл.</string>
     <string name="pref_camera_zsl_entry_on">Вкл.</string>
     <string name="pref_capture_settings">Съемка фото</string>
+    <string name="pref_cup_camera_position_summary">Показывать положение фронтальной камеры, когда она используется</string>
+    <string name="pref_cup_camera_position_title">Положение фронтальной камеры</string>
     <string name="pref_custom_feature_layout_title">Режимы камеры</string>
     <string name="pref_custom_shutter_sound_title">Звук затвора</string>
     <string name="pref_custom_tint_title">Цветовая тема</string>
