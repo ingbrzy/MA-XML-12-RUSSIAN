@@ -131,13 +131,12 @@
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d совпадений из %2$d</item>
-        <item quantity="one">1 совпадение</item>
+        <item quantity="one">%d совпадение</item>
         <item quantity="few">%1$d совпадения из %2$d</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
-        <item quantity="other">Через %d секунд будет автоматически создана новая страница</item>
-        <item quantity="one">Через %d секунду будет автоматически создана новая страница</item>
-        <item quantity="few">Через %d секунды будет автоматически создана новая страница</item>
+        <item quantity="other">Новая страница будет автоматически создана через %d сек.</item>
+        <item quantity="one">Новая страница будет автоматически создана через %d сек.</item>
     </plurals>
     <plurals name="nf_item_like">
         <item quantity="other">%s лайков</item>

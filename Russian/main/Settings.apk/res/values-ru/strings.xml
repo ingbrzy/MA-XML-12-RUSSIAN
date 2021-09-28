@@ -3506,9 +3506,10 @@
     <string name="gxzw_quick_open_title">Ярлыки</string>
     <string name="handy_mode">Управление одной рукой</string>
     <string name="handy_mode_enable">Управление одной рукой</string>
+    <string name="handy_mode_no_touch_assistant">Управление одной рукой доступно при навигации кнопками. Переключиться на навигацию кнопками можно в меню \"Экранная навигация\" в Настройках.</string>
     <string name="handy_mode_size">Размер экрана</string>
     <string name="handy_mode_tips">Проведите влево или вправо от кнопки \"Домой\" для сдвига экрана к одной из сторон</string>
-    <string name="handy_mode_tips_full_screen">При использовании жестов вы можете включить режим управления одной рукой, используя Сенсорный помощник. Вы также можете переключиться на использование кнопок вместо жестов.</string>
+    <string name="handy_mode_tips_full_screen">При использовании навигации жестами, режим управления одной рукой доступен в Сенсорном помощнике, либо переключитесь на навигацию кнопками.</string>
     <string name="haptic_agent_completion_01_content_description">Завершенная задача</string>
     <string name="haptic_cursor_movement_07_content_description">Регулировка яркости</string>
     <string name="haptic_experience">Демонстрация</string>
@@ -3874,6 +3875,7 @@
     <string name="input_pattern_hint_text">Введите графический ключ</string>
     <string name="input_settings">Настройки ввода</string>
     <string name="input_text">Поле ввода</string>
+    <string name="insert_sim_card_and_try_again">Вставьте SIM-карту и повторите попытку</string>
     <string name="install_all_warning">Ваши личные данные и данные устройства более уязвимы для атак приложений из неизвестных источников. Устанавливая приложения из этого источника, вы принимаете на себя полную ответственность за любой ущерб, нанесенный устройству, и потерю данных при использовании этих приложений.</string>
     <string name="install_applications">Неизвестные источники</string>
     <string name="install_applications_title">Разрешить из всех источников</string>
@@ -8455,6 +8457,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unrestricted_app_title">Неогранич. передача данных</string>
     <string name="unrestricted_data_saver">Мобильный интернет без ограничения</string>
     <string name="unsupported_setting_summary">Настройка не поддерживается на этом устройстве.</string>
+    <string name="unsupported_usim_card">Неподдерживаемая USIM-карта</string>
     <string name="untitled_apn">Без названия</string>
     <string name="update_new_version">Доступно обновление</string>
     <string name="update_progress_for_updates">Обновление (%s)</string>

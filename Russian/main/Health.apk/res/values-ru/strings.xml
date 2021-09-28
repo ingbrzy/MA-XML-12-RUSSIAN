@@ -51,7 +51,7 @@
     <string name="achieve_stand_goals">Достигните цели дня</string>
     <string name="acting">Сила</string>
     <string name="actionbar_button_up_description">Назад</string>
-    <string name="activity_title_basic_info">Основная информация</string>
+    <string name="activity_title_basic_info">Информация</string>
     <string name="activity_title_exercise">Активность</string>
     <string name="activity_title_exercise_goal">Цель активности</string>
     <string name="activity_title_settings">Настройки</string>
@@ -112,6 +112,7 @@
     <string name="average_menstruation_days">Средняя продолжительность менструации</string>
     <string name="avg_altitude">Средн. высота</string>
     <string name="avg_day">Средн.</string>
+    <string name="avg_earphone_listening_duration">Наушники</string>
     <string name="avg_finish_stand">Среднее время активности</string>
     <string name="avg_freq">Средн. частота</string>
     <string name="avg_heart_rate">Средн. пульс</string>
@@ -120,6 +121,7 @@
     <string name="avg_low_pressure">Средн. диастолическое (нижнее)</string>
     <string name="avg_pace">Средн. темп</string>
     <string name="avg_steps">Шагов в день</string>
+    <string name="avg_treble_duration">Громкий звук</string>
     <string name="awake_count">Пробуждения</string>
     <string name="awake_count_abnormal_description">Частые пробуждения.</string>
     <string name="awake_count_normal_description">Однократное пробуждение. Это нормально.</string>
@@ -214,6 +216,7 @@
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_finish_stand">Нажмите, чтобы завершить</string>
+    <string name="click_to_solve">Помощь</string>
     <string name="climb">Подъем по лестнице</string>
     <string name="climbing">Восхождение</string>
     <string name="close">Отключить</string>
@@ -313,7 +316,7 @@
     <string name="default_notification_channel_name">Сейчас играет</string>
     <string name="delete">Удалить</string>
     <string name="delete_aid_file">Удалить</string>
-    <string name="delete_aid_file_desc">Удаление экстренного медицинского паспорта с устройства</string>
+    <string name="delete_aid_file_desc">Удаление мед. паспорта</string>
     <string name="delete_all_data">Удалить все данные</string>
     <string name="delete_all_data_sources">Удалить все источники данных</string>
     <string name="delete_all_data_sources_description">Удалить все добавленные источники данных?</string>
@@ -421,12 +424,15 @@ ID:%s
     <string name="each_week_day_format3">Кажд. %1$s до %2$s</string>
     <string name="early">Ранее</string>
     <string name="early_morning">AM</string>
-    <string name="edit_aid_file">Редактирование</string>
-    <string name="edit_basic_info_desc">Основная информация</string>
-    <string name="edit_immediately">Введите информацию</string>
-    <string name="edit_sleep_record_button">Редактирование</string>
+    <string name="earphone_listening_duration">Наушники</string>
+    <string name="edit_aid_file">Изменить</string>
+    <string name="edit_basic_info_desc">Информация</string>
+    <string name="edit_immediately">Введите данные</string>
+    <string name="edit_sleep_record_button">Изменить</string>
     <string name="elliptical_machine">Эллипсоид</string>
     <string name="emergency_contact">Экстренный контакт</string>
+    <string name="emergency_lock_show_subtitle">Мед. паспорт экстренной помощи можно посмотреть на экране блокировки, нажав \"SOS\", затем \"Мед. паспорт\</string>
+    <string name="emergency_lock_show_title">Доступ на экране блокировки</string>
     <string name="empty" />
     <string name="empty_data">-</string>
     <string name="enable">Включить</string>
@@ -445,6 +451,7 @@ ID:%s
     <string name="equivalent_exercise">≈%1$s км ходьбы (%2$s Кал)</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
+    <string name="evaluation_origin_health">Рекомендации предоставлены приложением Здоровье</string>
     <string name="evening">PM</string>
     <string name="every_day">Каждый день</string>
     <string name="excessive">Избыточно</string>
@@ -530,6 +537,7 @@ ID:%s
     <string name="finish_stand">Завершить</string>
     <string name="finish_stand2">Завершить</string>
     <string name="finished_rate">Завершено %1$d%%</string>
+    <string name="first_aid_card">Мед. паспорт</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -603,6 +611,7 @@ ID:%s
     <string name="health_setting">Настройки</string>
     <string name="health_uninstall_dialog_content">Приложение \"Здоровье\" является системным. После удаления будут недоступны подсчет шагов, отслеживание сна, периодов и веса, синхронизация статистики с облаком. </string>
     <string name="health_uninstall_dialog_title">Удалить \"Здоровье\"?</string>
+    <string name="hearing">Слух</string>
     <string name="heart_rate">Пульс</string>
     <string name="height">Высота</string>
     <string name="high">Избыток</string>
@@ -757,6 +766,7 @@ ID:%s
     <string name="light_sleep_time_decrease_description">Ваш легкий сон слишком короткий</string>
     <string name="light_sleep_time_increase_description">Ваш легкий сон слишком длинный</string>
     <string name="light_sleep_time_normal_description">У вас достаточная длительность легкого сна</string>
+    <string name="listening_duration">Наушники</string>
     <string name="load_failed">Ошибка загрузки, повторите попытку позже</string>
     <string name="loading">Подождите…</string>
     <string name="location_perm_description">Для отслеживания тренировок на открытом воздухе и записи маршрутов</string>
@@ -770,6 +780,16 @@ ID:%s
     <string name="location_service_dialog_title">Службы определения местоположения отключены</string>
     <string name="location_service_ntfc_content">Xiaomi Health</string>
     <string name="location_service_ntfc_title">Поиск GPS…</string>
+    <string name="lock_not_support_description">Для включения доступа к мед. паспорту экстренней помощи на экране блокировки, нажмите \"Еще\" > \"Изменить\" и включите \"Доступ на экране блокировки\"</string>
+    <string name="lock_show_dialog_content">"Доступ к вашему мед. паспорту будет возможен без разблокировки устройства.
+Если вы не хотите чтобы мед. паспорт был доступен, отключите эту функцию."</string>
+    <string name="lock_show_dialog_title">Внимание</string>
+    <string name="lock_show_solve_description">Для включения доступа к мед. паспорту экстренней помощи на экране блокировки, разрешите приложению Здоровье отображение на экране блокировки</string>
+    <string name="lock_show_solve_go">Настройки</string>
+    <string name="lock_show_solve_path">Нажмите \"Настройки\" ниже, выберите \"Доступ на экране блокировки\", затем \"Всегда разрешать\".</string>
+    <string name="lock_show_solve_title">Доступ на экран блокировки</string>
+    <string name="lock_support_description">Мед. паспорт экстренной помощи можно посмотреть на экране блокировки, нажав \"SOS\", затем \"Мед. паспорт\"</string>
+    <string name="lock_support_description2">Не можете найти мед. паспорт на экране блокировки?</string>
     <string name="login_and_open_sync">Войти и синхронизировать</string>
     <string name="login_and_open_sync2">Войти и синхронизировать</string>
     <string name="low">Низкий</string>
@@ -818,10 +838,10 @@ ID:%s
     <string name="mcv2_video_quality_button_desc">Качество видео</string>
     <string name="measure_date">Время измерения</string>
     <string name="measure_time">Время измерения</string>
-    <string name="medical_file_desc1">Информация для экстренной помощи в чрезвычайной ситуации</string>
-    <string name="medical_file_desc2">Данные о здоровье и контакты на случай чрезвычайной ситуации</string>
+    <string name="medical_file_desc1">Данные для экстренной помощи в чрезвычайной ситуации</string>
+    <string name="medical_file_desc2">Данные о здоровье и контакты в случае чрезвычайной ситуации</string>
     <string name="medical_file_desc3">Xiaomi Health уважает вашу конфиденциальность и будет хранить всю информацию локально, не собирая, не храня и не загружая на сервер</string>
-    <string name="medical_first_aid_files">Медицинская информация</string>
+    <string name="medical_first_aid_files">Мед. паспорт</string>
     <string name="medication_and_treatment">Медикаменты и текущее лечение</string>
     <string name="medication_and_treatment_hint">Перечислите лекарства, которые вы принимаете или которые вам могут понадобиться в экстренных случаях, а также протезы, брекеты и перенесенные операции.</string>
     <string name="medium_intensity">Умеренная</string>
@@ -889,6 +909,8 @@ ID:%s
     <string name="min_pace">Мин. темп</string>
     <string name="minimum">Минимум</string>
     <string name="minute"> мин.</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -906,6 +928,7 @@ ID:%s
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -1634,6 +1657,10 @@ ID:%s
     <string name="tb_go_next_a_day">Прошлый день</string>
     <string name="tb_go_on_detection">Возобновить</string>
     <string name="tb_has_snore_dream_talk">Обнаружен разговор во сне и храп</string>
+    <string name="tb_hearing_card">Слух | Наушники: %1$s | Записано: %2$s.</string>
+    <string name="tb_hearing_column">%1$s | Наушники: %2$s | Громкий звук: %3$s.</string>
+    <string name="tb_hearing_daily_card">%1$s | Наушники: %2$s | Громкий звук: %3$s.</string>
+    <string name="tb_hearing_wm_card">%1$s | Наушники: %2$s | Громкий звук: %3$s.</string>
     <string name="tb_heart_rate_max_min">Пульс. Макс: %1$d. Мин: %2$d.</string>
     <string name="tb_home_blood_pressure_card">Давление. Систолическое: %1$d. Диастолическое: %2$d. Запись: %3$s. Статус: %4$s.</string>
     <string name="tb_home_blood_pressure_card_no_data">Давление: нет данных</string>
@@ -1710,6 +1737,7 @@ ID:%s
     <string name="tb_user_step_card_info">Дневная цель: %1$s, около %2$s или %3$s.</string>
     <string name="tb_user_step_target_btn">Изменить цель</string>
     <string name="tb_user_weight_card_info">ИМТ %1$s, %2$s. Рекомендуемый вес: %3$s.</string>
+    <string name="tb_volume_list_item">%1$s | Окружающие звуки: %3$s (%2$d дБ).</string>
     <string name="tb_weight_choice">%2$s от %1$s - %3$s</string>
     <string name="tb_weight_decrease">Снижение веса</string>
     <string name="tb_weight_has_record">Найдено взвешивание</string>
@@ -1814,6 +1842,8 @@ ID:%s
     <string name="tracking_progress_labe_up_nodata">нет данных</string>
     <string name="tracking_progress_labe_up_refresh">потяните для обновления</string>
     <string name="treadmill">Беговая дорожка</string>
+    <string name="treble_duration">Громкий звук</string>
+    <string name="treble_sum_duration">Громкий звук</string>
     <string name="try_again">Повтор</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
@@ -1860,6 +1890,15 @@ ID:%s
     <string name="visceral_fat">Висцеральный жир</string>
     <string name="visceral_fat_descripe_content">Висцеральный жир необходим для стабилизации и защиты внутренних органов. Однако высокий уровень висцерального жира увеличивает риск сердечно-сосудистых и метаболических заболеваний.</string>
     <string name="voice_remind">Громкость увеличена для лучшей слышимости инструкций</string>
+    <string name="volume_decibel">дБ</string>
+    <string name="volume_decibel_abridge">дБ</string>
+    <string name="volume_high">Громко</string>
+    <string name="volume_high_description">Чтобы избежать повреждения слуха, используйте наушники с шумоподавлением. Не увеличивайте громкость, чтобы заглушить шум.</string>
+    <string name="volume_level">Окружающие звуки</string>
+    <string name="volume_normal">ОК</string>
+    <string name="volume_normal_description">Тихие звуки не вредят слуху и способствуют концентрации внимания</string>
+    <string name="volume_too_high">Очень громко</string>
+    <string name="volume_too_high_description">Многократное и длительное воздействие очень громких звуков может повредить слух. Для защиты слуха используйте беруши или наушники с шумоподавлением.</string>
     <string name="walk">Ходьба</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>

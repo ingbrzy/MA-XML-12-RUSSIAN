@@ -1335,9 +1335,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_crashes_list_activity_title">Сбои WebView</string>
     <string name="mw_crashes_num">Сбои (%1$d)</string>
     <string name="mw_current_detected_ui_locale_name">ru-RU</string>
-    <string name="mw_data_traffic_prompt_change">Использование мобильного интернета для просмотра видео может привести к дополнительным расходам. При превышении лимита тарифного плана, оператор может взимать с вас дополнительную плату.</string>
-    <string name="mw_data_traffic_prompt_message">Использование мобильного интернета для просмотра видео может привести к дополнительным расходам. При превышении лимита тарифного плана, оператор может взимать с вас дополнительную плату.</string>
-    <string name="mw_data_traffic_prompt_message_short">Использование мобильного интернета для потоковой передачи видео может привести к превышению лимита тарифного плана</string>
+    <string name="mw_data_traffic_prompt_change">Использование мобильного интернета для потокового видео может привести к дополнительным расходам. При превышении лимита тарифного плана, оператор будет взимать с вас дополнительную плату.</string>
+    <string name="mw_data_traffic_prompt_message">Использование мобильного интернета для потокового видео может привести к дополнительным расходам. При превышении лимита тарифного плана, оператор будет взимать с вас дополнительную плату.</string>
+    <string name="mw_data_traffic_prompt_message_short">Использование мобильного интернета для потокового видео может привести к превышению лимита тарифного плана</string>
     <string name="mw_data_traffic_prompt_title">Предупреждение о трафике</string>
     <string name="mw_date_picker_dialog_clear">Очистить</string>
     <string name="mw_date_picker_dialog_other_button_label">Другое</string>
@@ -1349,7 +1349,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_find_previous">Назад</string>
     <string name="mw_js_dialog_before_unload">%s
 
-Вы уверены, что хотите покинуть эту страницу?</string>
+Покинуть эту страницу?</string>
     <string name="mw_js_dialog_before_unload_negative_button">Остаться</string>
     <string name="mw_js_dialog_before_unload_positive_button">Покинуть</string>
     <string name="mw_js_dialog_before_unload_title">Подтверждение действия</string>
@@ -1357,7 +1357,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_last_month">Последний месяц</string>
     <string name="mw_license_activity_title">Системные лицензии WebView</string>
     <string name="mw_link_copied">Ссылка скопирована</string>
-    <string name="mw_low_memory_error">Невозможно завершить предыдущую операцию из-за нехватки памяти</string>
+    <string name="mw_low_memory_error">Не удалось завершить предыдущую операцию из-за нехватки памяти</string>
     <string name="mw_menu_refresh">Обновить</string>
     <string name="mw_miui_content_copy">Копировать</string>
     <string name="mw_miui_content_cut">Вырезать</string>
@@ -1451,14 +1451,14 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_no_matches">Нет совпадений</string>
     <string name="mw_older">Старше</string>
     <string name="mw_opening_file_error">Не удалось открыть выбранный файл</string>
-    <string name="mw_permission_alert_window">Чтобы использовать эту функцию, откройте системную опцию Показывать всплывающее окно.</string>
+    <string name="mw_permission_alert_window">Для использования этой функции разрешите отображение всплывающих окон</string>
     <string name="mw_permission_unknown">Неизвестный вариант</string>
     <string name="mw_private_browsing_warning">Данная функциональность не поддерживается в этой версии Android.</string>
     <string name="mw_profiler_error_toast">Не удалось запустить профайлер</string>
     <string name="mw_profiler_no_storage_toast">Не удается запустить профайлер. Внешний накопитель не готов.</string>
     <string name="mw_profiler_started_toast">Профайлер запущен</string>
     <string name="mw_profiler_stopped_toast">Профайлер закончил работу. Результаты в %1$s.</string>
-    <string name="mw_save_password_message">Хотите, чтобы браузер запомнил этот пароль?</string>
+    <string name="mw_save_password_message">Запомнить этот пароль?</string>
     <string name="mw_save_password_never">Никогда</string>
     <string name="mw_save_password_notnow">Не сейчас</string>
     <string name="mw_save_password_remember">Запомнить</string>
@@ -1467,10 +1467,10 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_time_picker_dialog_title">Установите время</string>
     <string name="mw_url_copied">URL-адрес скопирован</string>
     <string name="mw_video_buffering_percent">Буферизация </string>
-    <string name="mw_video_download_no_permission">Нет разрешений для загрузки</string>
-    <string name="mw_video_float_drag_scale_msg">Проведите для изменения масштаба</string>
-    <string name="mw_video_float_window">Всплывающие</string>
-    <string name="mw_video_float_window_playing">Видео воспроизводится в плавающем окне</string>
+    <string name="mw_video_download_no_permission">Требуются разрешения для загрузки</string>
+    <string name="mw_video_float_drag_scale_msg">Перетащите для масштабирования</string>
+    <string name="mw_video_float_window">Режим \"Картинка в картинке\"</string>
+    <string name="mw_video_float_window_playing">Воспроизведение в режиме \"Картинка в картинке\"...</string>
     <string name="mw_video_play_error">Не удалось воспроизвести видео</string>
     <string name="mw_webview_find_on_page">Найти на странице</string>
     <string name="mw_webviewchromium_private_browsing_warning">Данная функциональность не поддерживается в этой версии Android.</string>
@@ -1965,8 +1965,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="privacy_authorize_summary">Используйте переключатель для предоставления или отзыва разрешения.</string>
     <string name="privacy_authorize_title">Предоставление разрешения</string>
     <string name="privacy_btn_more">Еще</string>
-    <string name="privacy_improve_performance">Помогать в улучшении производительности Браузера</string>
-    <string name="privacy_improve_performance_desc">Автоматически отправлять агрегированные данные и отчеты об ошибках в Браузер.</string>
+    <string name="privacy_improve_performance">Программа пользовательского опыта</string>
+    <string name="privacy_improve_performance_desc">Разрешить Xiaomi собирать и анализировать пользовательские данные для улучшения продуктов и сервисов</string>
     <string name="privacy_message">Перед использованием Браузера вы должны принять наши &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Условия использования&lt;/a>&lt;/font> и &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">Браузер должен собирать необходимую личную информацию, чтобы предоставить вам базовые услуги. Вы можете узнать, как мы обрабатываем информацию, которую собираем, в нашей Политике конфиденциальности. Вы всегда можете отозвать свое согласие с Политикой конфиденциальности Браузера в Настройках - Конфиденциальность и безопасность. Прочтите и примите наше Пользовательское соглашение и Политику конфиденциальности перед использованием Браузера.</string>
     <string name="privacy_message_main_tips_second">Чтобы иметь возможность искать приложения на этом устройстве и знать, какие приложения установлены, Браузер должен получить доступ к информации об установленных приложениях, которая не будет сохранена локально или загружена в любой форме.</string>
@@ -2056,6 +2056,50 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="replace">Заменить</string>
     <string name="replay">Повторить</string>
     <string name="reply_comment_title">"Ответ на %s: "</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_change_language">切换语言</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_channel_click">点击频道</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_channel_page_slide_expose">滑动选择频道</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_channel_title_slide_expose">滑动曝光</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_click_empty_page">空内容</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_click_history_notify">历史提示</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_click_refresh_button">刷新按钮</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_click_tab">点击频道</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_intent_jump_in">第三方跳转进入</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_manual_pull_refresh">下拉刷新</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_refresh_guide">刷新引导</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_scroll_tab">滑动频道</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_select_language_confirm">点击选择</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_slide_up_load_more">上滑加载更多</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_timed_refresh">定时刷新</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_action_try_again">重试按钮</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_event_channel">频道操作</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_event_enter_news_flow">进入信息流</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_event_load_more">加载更多</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_event_refresh">刷新</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_event_select_language">语言选择</string>
+<!-- ### FROM SOURCE -->
+    <string name="report_path_extra">未进入</string>
     <string name="request_camera_permission_message">"Необходимо предоставить приложению следующее разрешение:
 - Доступ к камере: для настройки аватара в режиме реального времени.
 Если вы не согласны предоставить это разрешение, то функция не будет работать должным образом, но она не повлияет на использование вами основных функций этого приложения. Вы можете отключить вышеуказанное разрешение в настройках системы."</string>
