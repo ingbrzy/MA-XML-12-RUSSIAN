@@ -1319,9 +1319,9 @@
     <string name="bluetooth_phonebook_request">Запрос на доступ к списку контактов</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Должно быть 16 цифр</string>
-    <string name="bluetooth_plugins_check_summary">Проверить обновления плагинов bluetooth</string>
-    <string name="bluetooth_plugins_check_summary_new">Доступна новая версия плагина bluetooth</string>
-    <string name="bluetooth_plugins_check_title">Проверка обновлений</string>
+    <string name="bluetooth_plugins_check_summary">Проверка обновлений</string>
+    <string name="bluetooth_plugins_check_summary_new">Доступно обновление</string>
+    <string name="bluetooth_plugins_check_title">Обновление плагина Bluetooth</string>
     <string name="bluetooth_pref_summary">Разрешить устройству обмен с Bluetooth-устройствами поблизости</string>
     <string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
     <string name="bluetooth_preference_device_settings">Настройки устройства</string>
@@ -3506,9 +3506,10 @@
     <string name="gxzw_quick_open_title">Ярлыки</string>
     <string name="handy_mode">Управление одной рукой</string>
     <string name="handy_mode_enable">Управление одной рукой</string>
+    <string name="handy_mode_no_touch_assistant">Управление одной рукой доступно при навигации кнопками. Переключиться на навигацию кнопками можно в меню \"Экранная навигация\" в Настройках.</string>
     <string name="handy_mode_size">Размер экрана</string>
     <string name="handy_mode_tips">Проведите влево или вправо от кнопки \"Домой\" для сдвига экрана к одной из сторон</string>
-    <string name="handy_mode_tips_full_screen">При использовании жестов вы можете включить режим управления одной рукой, используя Сенсорный помощник. Вы также можете переключиться на использование кнопок вместо жестов.</string>
+    <string name="handy_mode_tips_full_screen">При использовании навигации жестами, режим управления одной рукой доступен в Сенсорном помощнике, либо переключитесь на навигацию кнопками.</string>
     <string name="haptic_agent_completion_01_content_description">Завершенная задача</string>
     <string name="haptic_cursor_movement_07_content_description">Регулировка яркости</string>
     <string name="haptic_experience">Демонстрация</string>
@@ -3590,11 +3591,12 @@
     <string name="headset_remove_message_indicate">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Звуковые эффекты</string>
-    <string name="headset_toast_tip_disconnect_others">Не удается настроить гарнитуру, возможно, она подключена к другому устройству</string>
+    <string name="headset_spatial_audio">Пространственный звук</string>
+    <string name="headset_toast_tip_disconnect_others">Возможно, наушники подключены к другому устройству</string>
     <string name="headset_unsaved_device">Удалить устройство</string>
     <string name="headset_unsaved_devices">Используется на других устройствах</string>
     <string name="hearing_aids_category">Вспомогательные инструменты</string>
-    <string name="heavy_weight_stop_description">Если закрыть это приложение, можно потерять несохраненные данные.</string>
+    <string name="heavy_weight_stop_description">Если закрыть это приложение, несохраненные данные могут быть потеряны.</string>
     <string name="height_light_list_text">Список важных пунктов</string>
     <string name="help_and_feedback_title">Обратная связь</string>
     <string name="help_feedback_label">Обратная связь</string>
@@ -3788,6 +3790,7 @@
     <string name="imei_information_summary">Сведения, касающиеся IMEI-кода</string>
     <string name="imei_information_title">Данные IMEI-кода</string>
     <string name="imei_multi_sim">IMEI (слот %1$d)</string>
+    <string name="imei_multi_sim_softbank">IMEI %1$d</string>
     <string name="immediately_destroy_activities">Не хранить активити</string>
     <string name="immediately_destroy_activities_summary">Уничтожать активити приложения после их завершения</string>
     <string name="importance_default">По умолчанию</string>
@@ -3872,6 +3875,7 @@
     <string name="input_pattern_hint_text">Введите графический ключ</string>
     <string name="input_settings">Настройки ввода</string>
     <string name="input_text">Поле ввода</string>
+    <string name="insert_sim_card_and_try_again">Вставьте SIM-карту и повторите попытку</string>
     <string name="install_all_warning">Ваши личные данные и данные устройства более уязвимы для атак приложений из неизвестных источников. Устанавливая приложения из этого источника, вы принимаете на себя полную ответственность за любой ущерб, нанесенный устройству, и потерю данных при использовании этих приложений.</string>
     <string name="install_applications">Неизвестные источники</string>
     <string name="install_applications_title">Разрешить из всех источников</string>
@@ -3964,6 +3968,7 @@
     <string name="keyboard_and_input_methods_category">Клавиатура и способы ввода</string>
     <string name="keyboard_assistance_category">Подсказки клавиатуры</string>
     <string name="keyboard_disconnected">Не подключено</string>
+    <string name="keyboard_funtion_key">Функциональная клавиша</string>
     <string name="keyboard_layout_default_label">По умолчанию</string>
     <string name="keyboard_layout_dialog_setup_button">Настроить раскладки клавиатуры</string>
     <string name="keyboard_layout_dialog_switch_hint">Для смены нажмите CTRL + Пробел</string>
@@ -7441,6 +7446,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_slot_empty">Пустая SIM-карта</string>
     <string name="sim_status_title">Статус SIM-карты</string>
     <string name="sim_status_title_sim_slot">Статус SIM (слот %1$d)</string>
+    <string name="sim_status_title_sim_softbank">Статус SIM %1$d</string>
     <string name="simulate_color_space">Имитация аномалии</string>
     <string name="single_key_use">Управление одной кнопкой</string>
     <string name="single_key_use_summary">Использовать кнопку \"Домой\" для действий, выполняемых другими двумя кнопками</string>
@@ -7669,6 +7675,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_msid_number">MSID</string>
     <string name="status_number">Мой номер телефона</string>
     <string name="status_number_sim_slot">Номер телефона (слот %1$d)</string>
+    <string name="status_number_sim_softbank">Номер телефона %1$d</string>
     <string name="status_number_sim_status">Номер телефона на SIM</string>
     <string name="status_operator">Сеть</string>
     <string name="status_prl_version">Версия PRL</string>
@@ -7930,6 +7937,11 @@ UT-интерфейс: %5$s"</string>
     <string name="style_and_wallpaper_settings_title">Стили и обои</string>
     <string name="style_suggestion_summary">Попробуйте различные стили, обои, часы и прочее</string>
     <string name="style_suggestion_title">Персонализация Pixel</string>
+    <string name="stylus_connect_fail">Не удалось подключить. Повторите сопряжение.</string>
+    <string name="stylus_connect_fail_no_battery">Зарядите стилус</string>
+    <string name="stylus_connect_fail_no_reason">Не удалось подключить</string>
+    <string name="stylus_connect_fail_not_open_gps">Не удалось подключить. Включите службы местоположения и повторите попытку.</string>
+    <string name="stylus_connecting">Подключение…</string>
     <string name="stylus_ota_check_failed_battery">Не удалось проверить. Батарея стилуса разряжена.</string>
     <string name="stylus_ota_check_failed_info">Не удалось проверить версию прошивки. Подключите стилус.</string>
     <string name="stylus_ota_check_update">Проверить обновления</string>
@@ -8445,6 +8457,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unrestricted_app_title">Неогранич. передача данных</string>
     <string name="unrestricted_data_saver">Мобильный интернет без ограничения</string>
     <string name="unsupported_setting_summary">Настройка не поддерживается на этом устройстве.</string>
+    <string name="unsupported_usim_card">Неподдерживаемая USIM-карта</string>
     <string name="untitled_apn">Без названия</string>
     <string name="update_new_version">Доступно обновление</string>
     <string name="update_progress_for_updates">Обновление (%s)</string>
