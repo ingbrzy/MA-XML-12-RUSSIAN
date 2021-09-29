@@ -44,7 +44,11 @@
     <string name="atrace_saving">Сохранение журнала atrace…</string>
     <string name="atrace_start">Создание журнала atrace…</string>
     <string name="base_info">Основная информация</string>
+    <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="checking_intranet">Проверка интранет-соединения, подождите...</string>
+    <string name="chip_text">Текст</string>
+    <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="cloud_addr_info">Облачная информация</string>
@@ -117,6 +121,7 @@
     <string name="high_temp_state">Перегрев</string>
     <string name="high_temp_state_message">Устройство перегрелось. Мобильный интернет, точка доступа Wi-Fi, GPS и камера будут отключены.</string>
     <string name="hints_loading_text">Подождите…</string>
+    <string name="icon_content_description">Иконка диалога</string>
     <string name="important_warning">Внимание</string>
     <string name="insert_data">Вставить данные</string>
     <string name="kill_pkg_toast_message">Устройство перегрелось. Приложение будет закрыто.</string>
@@ -188,6 +193,10 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mtrl_picker_date_format">d MMM yyyy</string>
+    <string name="mtrl_picker_header_prompt">Выберите дату</string>
+    <string name="mtrl_picker_range_header_prompt">Выберите диапазон дат</string>
     <string name="night">Вечер</string>
     <string name="nonui_mode_config_description">Когда MIUI определяет, что устройство не используется, световой индикатор, сканер отпечатков и сенсорное управление отключаются для экономии заряда. Экран при получении уведомлений не включается.</string>
     <string name="nonui_mode_config_title">Неинтерактивный режим</string>
@@ -198,6 +207,7 @@
     <string name="notification_open_extreme_mode_text">Экстремальная экономия заряда включена</string>
     <string name="open_dark_mode">Переключиться в Темный режим</string>
     <string name="open_dark_mode_tip">Качество отображения некоторых функций в Темном режиме может ухудшиться. При выходе из режима оно вернется к нормальному состоянию. Переключиться?</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="performance_category">Производительность</string>
     <string name="permstep_description">Разрешить приложению доступ к информации о количестве шагов</string>
     <string name="permstep_label">Чтение информации о количестве шаги</string>
@@ -329,6 +339,8 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
+    <string name="title_history">История</string>
+    <string name="title_home">Домой</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="tuesday">Вторник</string>

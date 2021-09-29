@@ -114,6 +114,18 @@
         <item quantity="one">%d сеть Wi-Fi</item>
         <item quantity="few">%d сети Wi-Fi</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Попробуйте снова через %d сек.</item>
         <item quantity="one">Попробуйте снова через %d сек.</item>
