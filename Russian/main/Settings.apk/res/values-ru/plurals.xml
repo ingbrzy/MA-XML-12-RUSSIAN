@@ -79,6 +79,20 @@
         <item quantity="other">Очень короткая задержка (%1$d мсек.)</item>
         <item quantity="one">Очень короткая задержка (%1$d мсек.)</item>
     </plurals>
+    <plurals name="app_launch_supported_links_title">
+        <item quantity="other">%d поддерживаемых ссылок</item>
+        <item quantity="one">%d поддерживаемая ссылка</item>
+        <item quantity="few">%d поддерживаемые ссылки</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_message">
+        <item quantity="other">Эти ссылки проверены и автоматически открыты в приложении.</item>
+        <item quantity="one">Эта ссылка проверена и автоматически открыта в приложении.</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_title">
+        <item quantity="other">%d проверенных ссылок</item>
+        <item quantity="one">%d проверенная ссылка</item>
+        <item quantity="few">%d проверенные ссылки</item>
+    </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">Приложению требуется обработать %d ссылок</item>
         <item quantity="one">Приложению требуется обработать %d ссылку</item>
@@ -100,6 +114,11 @@
         <item quantity="other">%d приложений с автозапуском</item>
         <item quantity="one">%d приложение с автозапуском</item>
         <item quantity="few">%d приложения с автозапуском</item>
+    </plurals>
+    <plurals name="autofill_passwords_count">
+        <item quantity="other">%1$d паролей</item>
+        <item quantity="one">%1$d пароль</item>
+        <item quantity="few">%1$d пароля</item>
     </plurals>
     <plurals name="battery_manager_app_restricted">
         <item quantity="other">Ограничена работа %1$d приложений</item>
@@ -365,6 +384,11 @@
         <item quantity="other">%1$d SIM</item>
         <item quantity="one">%1$d SIM</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+     </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d ограничений</item>
         <item quantity="one">%1$d ограничение</item>
@@ -413,6 +437,11 @@
         <item quantity="other">%d активных приложений</item>
         <item quantity="one">%d активное приложение</item>
         <item quantity="few">%d активных приложения</item>
+    </plurals>
+    <plurals name="number_of_urls">
+        <item quantity="other">%d URL-адресов</item>
+        <item quantity="one">%d URL-адрес</item>
+        <item quantity="few">%d URL-адреса</item>
     </plurals>
     <plurals name="permission_bar_chart_label">
         <item quantity="other">%s приложений</item>
@@ -598,6 +627,11 @@
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Оповещать, когда один из наушников находится вне уха или кейса больше %d минут.</item>
         <item quantity="one">Оповещать, когда один из наушников находится вне уха или кейса больше %d минуты.</item>
+    </plurals>
+    <plurals name="unused_apps_summary">
+        <item quantity="other">%d неиспользуемых приложений</item>
+        <item quantity="one">%d неиспользуемое приложение</item>
+        <item quantity="few">%d неиспользуемых приложения</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d объектов</item>
