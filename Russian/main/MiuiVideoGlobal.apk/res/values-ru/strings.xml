@@ -182,6 +182,7 @@
     <string name="cloud_online_switch_close_time">Вы можете включить персонализированные рекомендации по контенту в %s</string>
     <string name="cloud_online_switch_open_time">Показывать персонализированные рекомендации по контенту</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
+    <string name="columbus_ad_flag_text">Реклама</string>
     <string name="columbus_player_close_desc">Вы потеряете полученное вознаграждение</string>
     <string name="columbus_player_close_resume">ВОЗОБНОВИТЬ</string>
     <string name="columbus_player_close_title">Закрыть видео?</string>
@@ -191,6 +192,7 @@
     <string name="columbus_player_speed_title">Пропустить видео?</string>
     <string name="columbus_player_speed_video">Пропустить</string>
     <string name="columbus_player_unit_sec">сек.</string>
+    <string name="columbus_skip_ad">Пропустить</string>
     <string name="com_facebook_device_auth_instructions">Перейдите на facebook.com/device и введите код, показанный выше.</string>
     <string name="com_facebook_image_download_unknown_error">Непредвиденная ошибка при загрузке изображения.</string>
     <string name="com_facebook_internet_permission_error_message">Для входа в WebView требуется доступ к интернету</string>
@@ -286,6 +288,12 @@ Mi Видео готово к обновлению.
     <string name="diagnosis_log_sent_format">"Журналы отправлены.
 ID: %s
 Отправьте этот код руководителю."</string>
+    <string name="dialog_app_comment_cancel">Отмена</string>
+    <string name="dialog_app_comment_default_content">Вам нравится Mi Видео?</string>
+    <string name="dialog_app_comment_ok">ОК</string>
+    <string name="dialog_app_comment_select_feedback">Могли бы вы оставить отзыв?</string>
+    <string name="dialog_app_comment_select_praise">Хотите оценить приложение в Play Маркете?</string>
+    <string name="dialog_app_comment_title">Оцените приложение</string>
     <string name="dialog_disagree_privacychange_info">В случае несогласия с нашей Политикой конфиденциальности, вы не сможете использовать онлайн-сервисы потоковой передачи Mi Видео. Нажмите \"Отмена\", чтобы вернуться, или \"Отказ\", чтобы продолжить использовать Mi Видео только как локальный видеоплеер.</string>
     <string name="dialog_disagree_privacychange_title">Отказ</string>
     <string name="dialog_privacy_change_info">Мы обновили политику конфиденциальности Mi Видео в связи с корректировкой предлагаемых услуг. Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</string>
@@ -513,6 +521,12 @@ ID: %s
     <string name="galleryplus_network_connect_confirm">Подключитесь к Wi-Fi или включите мобильный интернет в настройках сети</string>
     <string name="galleryplus_network_error">Не удалось подключиться к сети</string>
     <string name="galleryplus_network_not_wifi">Использование мобильного интернета для потоковой передачи видео может повлечь за собой дополнительные расходы</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Управление файлами %$s Добавление субтитров %$s Трансляция %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">Защитите личные видео паролем %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">Загружайте видео из TikTok, Instagram и Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_title1">%$s Оцените все возможности Mi Видео!</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s Нажмите для управления видео</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s Бесплатная загрузка видео %2$s Управление файлами</string>
     <string name="galleryplus_online_cta">Приложению Mi Видео для нормальной работы необходимо подключение к интернету. Разрешить?</string>
     <string name="galleryplus_online_cta_agree">Разрешить</string>
     <string name="galleryplus_online_cta_disagree">Выход</string>
@@ -530,6 +544,9 @@ ID: %s
     <string name="galleryplus_permission_open_settings">Настройки</string>
     <string name="galleryplus_permission_refuse">Нет, спасибо</string>
     <string name="galleryplus_permission_retry">Разрешения</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">Чтобы использовать локальный видеоплеер, разрешите приложению доступ к памяти</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">Чтобы использовать локальный видеоплеер, разрешите приложению доступ к памяти в разделе \"Разрешения\" в настройках</string>
+    <string name="galleryplus_permission_storage_title">Требуется доступ к памяти</string>
     <string name="galleryplus_permission_title">Внимание</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Восстановлена скорость воспроизведения по умолчанию</string>
@@ -612,12 +629,14 @@ ID: %s
     <string name="live_title">Прямой эфир</string>
     <string name="live_tv_title">Прямой эфир</string>
     <string name="loading">Подождите…</string>
+    <string name="local_empty_guide">Видео, которые вы снимаете, появятся здесь</string>
     <string name="local_play_tip">Воспроизведение видео на устройстве</string>
     <string name="local_push_setting_power_tag">Уведомления о локальных видео</string>
     <string name="local_push_title">Популярное сегодня</string>
     <string name="local_video_create_a_new_playlist">Создать плейлист</string>
     <string name="local_video_date">Дата</string>
     <string name="local_video_dialog_default">По умолчанию</string>
+    <string name="local_video_edit_playlist">Редактирование плейлиста</string>
     <string name="local_video_from_a_to_z">От А до Я</string>
     <string name="local_video_from_big_to_small">Сначала большие</string>
     <string name="local_video_from_long_to_short">Сначала длинные</string>
@@ -985,6 +1004,7 @@ ID: %s
     <string name="ovp_navigation_language">Язык</string>
     <string name="ovp_navigation_localvideo">Локальные</string>
     <string name="ovp_navigation_notice">Уведомления</string>
+    <string name="ovp_navigation_score">Оценить приложение</string>
     <string name="ovp_navigation_setting">Настройки</string>
     <string name="ovp_navigation_subscribe">Подписка</string>
     <string name="ovp_navigation_version_update">Проверка обновлений</string>
@@ -1307,6 +1327,7 @@ ID: %s
     <string name="remaining_space_not_enough">Недостаточно места для загрузки</string>
     <string name="reminder">Внимание</string>
     <string name="rename">Переименовать</string>
+    <string name="rename_word_out">Имя файла слишком длинное</string>
     <string name="report">Отчет</string>
     <string name="report_content_dislike">Насилие или неподобающее поведение</string>
     <string name="report_content_fakement">Спам или мошенничество</string>
@@ -1499,6 +1520,7 @@ ID: %s
     <string name="the_forth_day">Четвертый день китайского нового года</string>
     <string name="the_hksar_establishment_day">День образования САР Гонконг</string>
     <string name="the_international_womens_day">Международный женский день</string>
+    <string name="the_item_choosed_tint">Выбрано: %s</string>
     <string name="the_laba_festival">Фестиваль Лаба</string>
     <string name="the_labour_day">День труда</string>
     <string name="the_lantern_festival">Фестиваль фонарей</string>
@@ -1547,6 +1569,7 @@ ID: %s
     <string name="tool_bar_notification_setting_title">Панель инструментов</string>
     <string name="top_bar_game_desc">Откройте для себя новые игры</string>
     <string name="top_bar_game_title">Игровой канал</string>
+    <string name="trending_scroll_load_more">Свайп вверх для просмотра других видео</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
@@ -1625,6 +1648,7 @@ ID: %s
     <string name="video_resolution_kb_size_suffix">%.2f КБ</string>
     <string name="video_resolution_mb_size_suffix">%.2f МБ</string>
     <string name="video_resolution_tag_suffix">%dP</string>
+    <string name="videos_guide_tip">Откройте для себя тренды Индонезии</string>
     <string name="view">Просмотр</string>
     <string name="vp_VideoView_error_button">ОК</string>
     <string name="vp_VideoView_error_text_unknown">Произошла ошибка</string>

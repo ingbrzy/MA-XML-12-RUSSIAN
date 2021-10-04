@@ -1600,7 +1600,9 @@
     <string name="config_wwan_data_service_package">com.android.phone</string>
     <string name="config_wwan_network_service_package">com.android.phone</string>
     <string name="config_xiaoaiComponent">com.miui.voiceassist/com.xiaomi.voiceassistant.VoiceService</string>
+    <string name="content_country_key">content_country</string>
     <string name="content_desktop_uninstall">content_desktop_uninstall</string>
+    <string name="content_language_key">content_language</string>
     <string name="content_preview_ratio">1:1</string>
     <string name="control_quick_settings_tiles_default"> </string>
     <string name="control_quick_settings_tiles_stock"> </string>
@@ -1855,6 +1857,7 @@
     <string name="crossSimFormat_spn">%s</string>
     <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
     <string name="current_page_template">%1$d/%2$d</string>
+    <string name="current_service_key">service</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
@@ -1938,6 +1941,7 @@
     <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
     <string name="default_imap">IMAP</string>
     <string name="default_language">@string/language_value_chinese_cn</string>
+    <string name="default_localization_key">system</string>
     <string name="default_lock_wallpaper_path">/system/media/theme/default/lock_wallpaper</string>
     <string name="default_long_trace_duration">30</string>
     <string name="default_long_trace_size">10240</string>
@@ -2340,7 +2344,10 @@
     <string name="intent_host_base">base</string>
     <string name="intent_host_stock">stock</string>
     <string name="intent_scheme">personalassistant</string>
+    <string name="international_details_chance_of_rain">@string/indices_title_chance_of_rain</string>
+    <string name="international_details_humidity">@string/realtime_humidity_title</string>
     <string name="international_details_no_data">@string/item_city_list_temperature_no_data</string>
+    <string name="international_details_real_feel_title">@string/indices_title_feel</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_womens_day">情人节</string>
     <string name="international_womens_day_tradition">情人節</string>
@@ -3160,6 +3167,7 @@
     <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="peace_day">和平紀念</string>
     <string name="peace_day_tradition">和平紀念</string>
+    <string name="peertube_selected_instance_key">peertube_selected_instance</string>
     <string name="pengzu">彭祖</string>
     <string name="percent_formatted_text">%s%%</string>
     <string name="percent_sign">%1$s</string>
@@ -3560,6 +3568,7 @@
     <string name="radial_numbers_typeface">sans-serif</string>
     <string name="reading__shared__page_num_with_total_pages">%1$d / %2$d</string>
     <string name="readmode_font_size_setting_button">A</string>
+    <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recommend_add_one_card">添加%s</string>
     <string name="recommend_close">关闭</string>
@@ -4607,6 +4616,7 @@ feedsContentId:
     <string name="yiji_app_download_card_lebal">" "</string>
     <string name="yoigo_mcc">214</string>
     <string name="yoigo_mnc">04</string>
+    <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zhifubao_not_found"> </string>

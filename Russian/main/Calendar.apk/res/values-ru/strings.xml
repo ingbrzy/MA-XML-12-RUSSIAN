@@ -27,8 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="accessbility_suggestion_dropdown_closed">Нет доступных предложений</string>
-    <string name="accessbility_suggestion_dropdown_opened">Предложение контактов активно</string>
+    <string name="accessbility_suggestion_dropdown_closed">Нет доступных рекомендаций</string>
+    <string name="accessbility_suggestion_dropdown_opened">Рекомендации контактов включены</string>
     <string name="accessibility_add_attendee">Добавить участника</string>
     <string name="accessibility_alarm_remind">Сигнал напоминаний</string>
     <string name="accessibility_all_day">Весь день</string>
@@ -175,6 +175,7 @@
     <string name="click_for_create_event">Нажмите, чтобы создать событие для %s</string>
     <string name="click_paste">Нажмите, чтобы вставить</string>
     <string name="click_to_share">Нажмите, чтобы поделиться</string>
+    <string name="close">Закрыть</string>
     <string name="close_alarm">Выключить</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
@@ -254,6 +255,7 @@
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Традиционный китайский календарь</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="date_today">" (сегодня)"</string>
     <string name="day">День</string>
     <string name="day_view_new_event_hint">Новое мероприятие</string>
@@ -466,6 +468,7 @@
     <string name="guide_card_second_text">Не пропускайте важные даты</string>
     <string name="guide_card_title">Импорт дней рождения</string>
     <string name="guide_setting">Предоставьте следующие данные для получения более точной статистики</string>
+    <string name="hide_menstruation_info">Скрыть информацию о менструации</string>
     <string name="hint_attendees">Гости</string>
     <string name="hint_description">Описание</string>
     <string name="hint_what">Название мероприятия</string>
@@ -663,6 +666,8 @@
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_wechat_title">WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -680,6 +685,7 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sb_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sb_tracking_progress_labe_refreshing">Обновление</string>
@@ -1066,6 +1072,7 @@
     <string name="select_menstruation_end_date">Дата окончания менструации</string>
     <string name="select_today_tip">Сегодня</string>
     <string name="select_weekly_off_dialog_title">Выберите выходные</string>
+    <string name="send">Отправить</string>
     <string name="service_rejected_temporarily">Сертификат временно отклонен</string>
     <string name="set_interval">Установить интервал</string>
     <string name="set_reminder">Установить напоминание</string>
@@ -1127,8 +1134,15 @@
     <string name="shortcut_settings">Настройки</string>
     <string name="show_day_view">Показать день</string>
     <string name="show_indic_date_summary">Индийский календарь доступен только если в качестве системного языка выбран один из языков Индии.</string>
+    <string name="show_menstruation_info">Показать информацию о менструации</string>
     <string name="simple_date_format">dd.MM.yyyy</string>
     <string name="single_selected_holiday">%1$s - выходной</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="skip">Пропустить</string>
     <string name="small_week_date_format">EEE dd.MM.yyyy</string>
     <string name="sms_import_description">Управление событиями из сообщений</string>

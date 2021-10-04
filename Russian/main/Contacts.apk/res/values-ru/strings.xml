@@ -224,6 +224,7 @@
     <string name="bh_perm_ask_read_contacts">Разрешите Mi Carrier Services доступ к контактам.</string>
     <string name="bh_perm_ask_read_phone_state">Разрешите Mi Carrier Services доступ к хранилищу в настройках.</string>
     <string name="bh_perm_desc_read_contacts">Для отображения контактов при пополнении</string>
+    <string name="bh_permission_contact_desc">Для пополнения баланса контактов</string>
     <string name="bh_permission_get_accounts_desc">Для размещения заказов и проверки их статуса</string>
     <string name="bh_permission_read_call_log_desc">Для отображения продолжительности разговора</string>
     <string name="bh_permission_read_phone_state_desc">Для отображения номеров телефонов и соответствующей информации оператора связи</string>
@@ -1360,7 +1361,7 @@
     <string name="people">Контакты</string>
     <string name="permission_access_fine_location_desc">Для улучшения сигнала локальной сети</string>
     <string name="permission_camera_desc">Для фотографирования во время проверки личности</string>
-    <string name="permission_contact_desc">Для пополнения баланса ваших контактов</string>
+    <string name="permission_contact_desc">Для пополнения баланса контактов</string>
     <string name="permission_dailog_positive_button">Далее</string>
     <string name="permission_dailog_title">Требуются разрешения</string>
     <string name="permission_record_audio_desc">Для использования голоса при проверке личности</string>
