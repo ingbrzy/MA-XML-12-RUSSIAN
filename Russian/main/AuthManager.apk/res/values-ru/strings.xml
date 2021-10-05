@@ -176,6 +176,7 @@
     <string name="clipboard_read_allow_once">Приложение %1$s получило доступ к буферу обмена</string>
     <string name="clipboard_read_deny_dialog_title">Приложению %1$s отказано в доступе к буферу обмена</string>
     <string name="close">Закрыть</string>
+    <string name="copy">Копировать</string>
     <string name="current_permission_template">%1$s из %2$s</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
@@ -184,6 +185,7 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -226,6 +228,8 @@
     <string name="location_settings">Настройки местоположения</string>
     <string name="location_warning">Приложение %1$s является поставщиком сервиса определения местоположения. Изменить поставщика можно в настройках.</string>
     <string name="midnight">Ночь</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -240,6 +244,7 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -293,6 +298,7 @@
     <string name="night">Вечер</string>
     <string name="no">Нет</string>
     <string name="noon">Полдень</string>
+    <string name="not_set">Не задано</string>
     <string name="notification_click_tip">Подробности</string>
     <string name="ok">OК</string>
     <string name="perm_action_allow">Разрешить</string>
@@ -347,6 +353,7 @@
     <string name="permission_warning_template_ask">Приложение %1$s запрашивает следующее разрешение:</string>
     <string name="permisson_reject_notice_toast_text2">нет разрешения на %1$s.</string>
     <string name="pp_privacy_lab_operator_introduction">Внимание</string>
+    <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="real_location_off">Размытие местоположения: вкл.</string>
     <string name="real_location_on">Размытие местоположения: откл.</string>
     <string name="saturday">Суббота</string>
@@ -447,6 +454,8 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="virtual_reject_notice_content">В приложение отправлена пустая информация для защиты конфиденциальности</string>
     <string name="virtual_reject_notice_title_calendar">Приложение %1$s пытается получить доступ к календарю</string>
     <string name="virtual_reject_notice_title_calllog">Приложение %1$s пытается получить доступ к журналу вызовов</string>
