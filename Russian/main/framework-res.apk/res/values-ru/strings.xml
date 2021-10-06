@@ -194,6 +194,7 @@
 Вы можете изменить ее в Настройки &gt; Дополнительно &gt; Спец. возможности"</string>
     <string name="accessibility_shortcut_warning_dialog_title">Использовать быстрое включение?</string>
     <string name="accessibility_system_action_back_label">Назад</string>
+    <string name="accessibility_system_action_dismiss_notification_shade">Закрыть шторку уведомлений</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Ярлык спец. возможностей</string>
     <string name="accessibility_system_action_home_label">Домой</string>
     <string name="accessibility_system_action_lock_screen_label">Блокировка</string>
@@ -345,6 +346,8 @@
     <string name="battery_saver_sticky_disabled_notification_summary">Батарея заряжена достаточно. Экономия заряда будет включена снова при низком уровне заряда батареи.</string>
     <string name="battery_saver_sticky_disabled_notification_title">Экономия заряда будет включена снова при низком уровне заряда батареи.</string>
     <string name="beforeOneMonthDurationPast">Более месяца назад</string>
+    <string name="biometric_app_setting_name">Используйте биометрию</string>
+    <string name="biometric_dialog_default_subtitle">Используйте биометрию, чтобы продолжить</string>
     <string name="biometric_dialog_default_title">Подтвердите, что это вы</string>
     <string name="biometric_error_canceled">Аутентификация отменена</string>
     <string name="biometric_error_device_not_secured">Укажите PIN-код, пароль или графический ключ</string>
@@ -352,6 +355,8 @@
     <string name="biometric_error_hw_unavailable">Биометрическое оборудование недоступно</string>
     <string name="biometric_error_user_canceled">Аутентификация отменена</string>
     <string name="biometric_not_recognized">Не распознано</string>
+    <string name="biometric_or_screen_lock_app_setting_name">Используйте биометрию или заданный способ разблокировки</string>
+    <string name="biometric_or_screen_lock_dialog_default_subtitle">Используйте биометрию или заданный способ разблокировки, чтобы продолжить</string>
     <string name="bluetooth_a2dp_audio_route_name">Воспроизведение звука через Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth останется включенным в режиме полета</string>
     <string name="browse">Браузер</string>
@@ -365,6 +370,13 @@
     <string name="bugreport_screenshot_success_toast">Сделан скриншот с отчетом об ошибке</string>
     <string name="bugreport_title">Отчет об ошибке</string>
     <string name="byteShort">" Б"</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Сброс входящего вызова</string>
     <string name="cancel">Отмена</string>
     <string name="candidates_style">&lt;u&gt;кандидаты&lt;/u&gt;</string>
     <string name="capability_desc_canCaptureFingerprintGestures">Сохраняет жесты, выполненные на сканере отпечатков пальцев.</string>
@@ -549,6 +561,7 @@
     <string name="country_selection_title">Региональные настройки</string>
     <string name="create_contact_using">"Создать контакт
 с номером %s"</string>
+    <string name="crossSimFormat_spn_cross_sim_calling">Перекрестный вызов %s</string>
     <string name="cut">Вырезать</string>
     <string name="data_conn_status_title"/>
     <string name="data_saver_description">В режиме экономии трафика фоновая передача для некоторых приложений отключена. Приложение, которым вы пользуетесь, может получать и отправлять данные, но реже, чем обычно. Например, изображения могут не загружаться, пока вы не нажмете на них.</string>
@@ -727,24 +740,31 @@
     <string name="face_acquired_too_much_motion">Держите неподвижно.</string>
     <string name="face_acquired_too_right">Переместите левее.</string>
     <string name="face_acquired_too_similar">Слишком похоже, пожалуйста, смените позу.</string>
+    <string name="face_app_setting_name">Используйте разблокировку по лицу</string>
     <string name="face_authenticated_confirmation_required">Успешно распознано, нажмите для подтверждения</string>
     <string name="face_authenticated_no_confirmation_required">Успешно распознано</string>
+    <string name="face_dialog_default_subtitle">Используйте разблокировку по лицу, чтобы продолжить</string>
     <string name="face_error_canceled">Распознавание отменено</string>
     <string name="face_error_hw_not_available">Не удалось распознать. Аппаратная часть недоступна.</string>
-    <string name="face_error_hw_not_present">Распознавание по лицу не поддерживается на этом устройстве</string>
+    <string name="face_error_hw_not_present">Разблокировка по лицу не поддерживается на этом устройстве</string>
     <string name="face_error_lockout">Слишком много попыток. Попробуйте позже.</string>
-    <string name="face_error_lockout_permanent">Слишком много попыток. Распознавание по лицу отключено.</string>
+    <string name="face_error_lockout_permanent">Слишком много попыток. Разблокировка по лицу отключена.</string>
+    <string name="face_error_lockout_screen_lock">Слишком много попыток. Используйте другой способ разблокировки.</string>
     <string name="face_error_no_space">Не удалось сохранить новые данные лица. Удалите старые.</string>
-    <string name="face_error_not_enrolled">Распознавание по лицу не настроено</string>
+    <string name="face_error_not_enrolled">Разблокировка по лицу не настроена</string>
     <string name="face_error_security_update_required">Камера временно отключена</string>
     <string name="face_error_timeout">Повторите попытку</string>
     <string name="face_error_unable_to_process">Не удалось распознать лицо. Повторите попытку.</string>
     <string name="face_error_user_canceled">Отменено пользователем</string>
     <string name="face_icon_content_description">Значок лица</string>
     <string name="face_name_template">Данные лица %d</string>
-    <string name="face_recalibrate_notification_content">Для улучшения распознавания добавьте данные лица еще раз.</string>
+    <string name="face_or_screen_lock_app_setting_name">Используйте разблокировку по лицу или заданный способ разблокировки</string>
+    <string name="face_or_screen_lock_dialog_default_subtitle">Используйте разблокировку по лицу или заданный способ разблокировки, чтобы продолжить</string>
+    <string name="face_recalibrate_notification_content">Для улучшения распознавания добавьте данные лица еще раз</string>
     <string name="face_recalibrate_notification_name">Распознавание по лицу</string>
     <string name="face_recalibrate_notification_title">Подтверждение данных лица</string>
+    <string name="face_setup_notification_content">Разблокируйте устройство, взглянув на него</string>
+    <string name="face_setup_notification_title">Настройка разблокировки по лицу</string>
     <string name="faceunlock_multiple_failures">Попытки исчерпаны</string>
     <string name="factory_reset_message">"Невозможно использовать приложение для администрирования. С устройства будут удалены все данные.
 
@@ -764,27 +784,38 @@
     <string name="find_on_page">Найти на странице</string>
     <string name="find_previous">Пред.</string>
     <string name="fingerprint_acquired_already_enrolled">Попробуйте другой отпечаток</string>
-    <string name="fingerprint_acquired_imager_dirty">Очистите сканер и повторите попытку.</string>
+    <string name="fingerprint_acquired_imager_dirty">Очистите сканер и повторите попытку</string>
     <string name="fingerprint_acquired_immobile">Каждый раз слегка меняйте положение пальца</string>
     <string name="fingerprint_acquired_insufficient">Не удалось распознать отпечаток. Повторите попытку.</string>
     <string name="fingerprint_acquired_partial">Отсканирована только часть пальца. Повторите попытку.</string>
     <string name="fingerprint_acquired_too_bright">Слишком ярко</string>
     <string name="fingerprint_acquired_too_fast">Вы слишком быстро убрали палец. Повторите попытку.</string>
     <string name="fingerprint_acquired_too_slow">Вы перемещали палец слишком медленно. Повторите попытку.</string>
+    <string name="fingerprint_acquired_try_adjusting">Попробуйте изменить положение</string>
+    <string name="fingerprint_app_setting_name">Используйте отпечаток</string>
     <string name="fingerprint_authenticated">Отпечаток проверен</string>
-    <string name="fingerprint_error_canceled">Операция с отпечатком отменена.</string>
-    <string name="fingerprint_error_hw_not_available">Сканер недоступен</string>
-    <string name="fingerprint_error_hw_not_present">На этом устройстве нет сканера отпечатков пальцев</string>
+    <string name="fingerprint_dialog_default_subtitle">Используйте отпечаток, чтобы продолжить</string>
+    <string name="fingerprint_error_bad_calibration">Сканер отпечатков не работает. Обратитесь в сервисный центр.</string>
+    <string name="fingerprint_error_canceled">Распознавание отпечатка отменено</string>
+    <string name="fingerprint_error_hw_not_available">Сканер отпечатков недоступен</string>
+    <string name="fingerprint_error_hw_not_present">На этом устройстве нет сканера отпечатков</string>
     <string name="fingerprint_error_lockout">Слишком много попыток. Повторите позже.</string>
-    <string name="fingerprint_error_lockout_permanent">Слишком много попыток. Сканер отпечатков пальцев отключен.</string>
+    <string name="fingerprint_error_lockout_permanent">Слишком много попыток. Сканер отпечатков отключен.</string>
     <string name="fingerprint_error_no_fingerprints">Отпечатки пальцев отсутствуют</string>
-    <string name="fingerprint_error_no_space">Чтобы сохранить новый отпечаток, удалите существующий.</string>
+    <string name="fingerprint_error_no_space">Чтобы сохранить новый отпечаток, удалите существующий</string>
     <string name="fingerprint_error_security_update_required">Сканер временно отключен.</string>
     <string name="fingerprint_error_timeout">Превышено время ожидания. Повторите попытку.</string>
     <string name="fingerprint_error_unable_to_process">Повторите попытку.</string>
-    <string name="fingerprint_error_user_canceled">Операция с отпечатком пальца отменена пользователем.</string>
+    <string name="fingerprint_error_user_canceled">Распознавание отпечатка отменено пользователем</string>
     <string name="fingerprint_icon_content_description">Значок отпечатка пальца</string>
     <string name="fingerprint_name_template">Отпечаток %d</string>
+    <string name="fingerprint_or_screen_lock_app_setting_name">Используйте отпечаток или заданный способ разблокировки</string>
+    <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Используйте отпечаток или заданный способ разблокировки, чтобы продолжить</string>
+    <string name="fingerprint_recalibrate_notification_content">Обратитесь в сервисный центр</string>
+    <string name="fingerprint_recalibrate_notification_name">Разблокировка отпечатком</string>
+    <string name="fingerprint_recalibrate_notification_title">Сканер отпечатков не работает</string>
+    <string name="fingerprint_setup_notification_content">Нажмите, чтобы добавить отпечаток</string>
+    <string name="fingerprint_setup_notification_title">Настройте дополнительные способы разблокировки</string>
     <string name="fingerprints">Отпечатки:</string>
     <string name="flip_screen_camera_tip">Переверните устройство, чтобы использовать камеру</string>
     <string name="floating_toolbar_close_overflow_description">Закрыть дополнительное меню</string>
@@ -796,6 +827,9 @@
     <string name="foreground_service_tap_for_details">Нажмите, чтобы проверить энергопотребление и трафик</string>
     <string name="forward_intent_to_owner">Это приложение используется в личном профиле</string>
     <string name="forward_intent_to_work">Вы перешли в рабочий профиль</string>
+    <string name="fp_enrollment_powerbutton_intent_message">"Во время настройки разблокировки отпечатком вы нажали кнопку питания.
+
+Это действие выключило экран."</string>
     <string name="fp_enrollment_powerbutton_intent_negative_button">Отмена</string>
     <string name="fp_enrollment_powerbutton_intent_positive_button">Выключить</string>
     <string name="fp_enrollment_powerbutton_intent_title">Выключить экран?</string>
@@ -1240,6 +1274,10 @@
     <string name="mime_type_spreadsheet_ext">Таблица %1$s</string>
     <string name="mime_type_video">Видео</string>
     <string name="mime_type_video_ext">Видео %1$s</string>
+    <string name="miniresolver_open_in_personal">Открыть в %s в личном профиле?</string>
+    <string name="miniresolver_open_in_work">Открыть в %s в рабочем профиле?</string>
+    <string name="miniresolver_use_personal_browser">Использовать личный браузер</string>
+    <string name="miniresolver_use_work_browser">Использовать рабочий браузер</string>
     <string name="minute">мин.</string>
     <string name="minute_picker_description">Выбор минут на циферблате</string>
     <string name="minutes">мин.</string>
@@ -1263,7 +1301,16 @@
     <string name="more_item_label">Ещё</string>
     <string name="move_button_text">Нажмите кнопку заголовка для перемещения всего окна</string>
     <string name="multi_conn_to_same_pdn_not_allowed"/>
+    <string name="music_recognition_manager_service">Служба управления распознаванием музыки</string>
     <string name="muted_by">Звук отключен приложением \"%1$s\"</string>
+    <string name="nas_upgrade_notification_content">Рекомендации для действий и ответов теперь предоставляются расширенными уведомлениями. Адаптивные уведомления Android больше не поддерживаются.</string>
+    <string name="nas_upgrade_notification_disable_action">Отключить</string>
+    <string name="nas_upgrade_notification_enable_action">ОК</string>
+    <string name="nas_upgrade_notification_learn_more_action">Подробнее</string>
+    <string name="nas_upgrade_notification_learn_more_content">"Расширенные уведомления заменили адаптивные уведомления в Android 12. Эта функция предоставляет рекомендации для действий и ответов, а также упорядочивает уведомления.
+
+Расширенные уведомления могут получить доступ к содержимому уведомлений, включая личную информацию, такую как имена контактов и содержимое сообщений. Эта функция также может отклонять уведомления или отвечать на них, например отвечать на телефонные звонки, и управлять режимом \"Не беспокоить\"."</string>
+    <string name="nas_upgrade_notification_title">Расширенные уведомления</string>
     <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
     <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
     <string name="negative_duration">−%1$s</string>
@@ -1296,6 +1343,8 @@
     <string name="notification_appops_camera_active">Камера</string>
     <string name="notification_appops_microphone_active">Микрофон</string>
     <string name="notification_appops_overlay_active">отображение поверх других окон</string>
+    <string name="notification_channel_accessibility_magnification">Увеличение</string>
+    <string name="notification_channel_accessibility_security_policy">Использование спец. возможностей</string>
     <string name="notification_channel_account">Статус аккаунта</string>
     <string name="notification_channel_alerts">Уведомления</string>
     <string name="notification_channel_call_forward">Переадресация вызовов</string>
@@ -1331,6 +1380,7 @@
     <string name="notification_history_title_placeholder">Уведомление приложения</string>
     <string name="notification_inbox_ellipsis">…</string>
     <string name="notification_listener_binding_label">Служба просмотра уведомлений</string>
+    <string name="notification_phishing_alert_content_description">Предупреждение о фишинге</string>
     <string name="notification_ranker_binding_label">Сервис для оценки важности уведомлений</string>
     <string name="notification_reply_button_accessibility">Ответить</string>
     <string name="notification_title">Ошибка входа в аккаунт %1$s</string>
@@ -1363,6 +1413,11 @@
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="paste">Вставить</string>
     <string name="paste_as_plain_text">Вставить как обычный текст</string>
+    <string name="pasted_content">Приложение %1$s вставило скопированный вами контент</string>
+    <string name="pasted_from_app">Приложение %1$s вставило контент из %2$s</string>
+    <string name="pasted_from_clipboard">Приложение %1$s вставило контент из буфера обмена</string>
+    <string name="pasted_image">Приложение %1$s вставило скопированное вами изображение</string>
+    <string name="pasted_text">Приложение %1$s вставило скопированный вами текст</string>
     <string name="peerTtyModeFull">На устройстве абонента выбран режим телетайпа \"ВСЕ\"</string>
     <string name="peerTtyModeHco">На устройстве абонента выбран режим телетайпа HCO</string>
     <string name="peerTtyModeOff">На устройстве абонента выбран режим телетайпа \"ВЫКЛ.\"</string>
@@ -1385,6 +1440,7 @@
     <string name="permdesc_addVoicemail">Приложение сможет добавлять голосовые сообщения в папку \"Входящие\".</string>
     <string name="permdesc_answerPhoneCalls">Приложению разрешено отвечать на входящие вызовы.</string>
     <string name="permdesc_audioWrite">Приложение сможет изменять коллекцию музыки.</string>
+    <string name="permdesc_backgroundCamera">Приложение может использовать камеру для съемки фото и видео в любое время</string>
     <string name="permdesc_bindCarrierMessagingService">Подключение к базовому интерфейсу службы обмена сообщениями, предоставляемой оператором связи. Это разрешение обычно используется только специальными приложениями.</string>
     <string name="permdesc_bindCarrierServices">Приложение сможет подключаться к сервисам оператора связи. Это разрешение не используется обычными приложениями.</string>
     <string name="permdesc_bindCellBroadcastService">Приложение сможет подключаться к модулю широковещательной рассылки для пересылки широковещательных сообщений, которые содержат предупреждения о чрезвычайных ситуациях. Вредоносные приложения могут помешать работе во время экстренней трансляции.</string>
@@ -1782,8 +1838,11 @@
     <string name="resolver_cant_share_with_personal_apps_explanation">ИТ-администратор запретил отправку этого контента с помощью приложений личного профиля</string>
     <string name="resolver_cant_share_with_work_apps">Не удалось отправить с помощью рабочих приложений</string>
     <string name="resolver_cant_share_with_work_apps_explanation">ИТ-администратор запретил отправку этого контента с помощью приложений рабочего профиля</string>
+    <string name="resolver_cross_profile_blocked">Заблокировано ИТ-администратором</string>
+    <string name="resolver_no_personal_apps_available">Нет личных приложений</string>
     <string name="resolver_no_personal_apps_available_resolve">Нет личных приложений для открытия этого контента</string>
     <string name="resolver_no_personal_apps_available_share">Личные приложения не поддерживают этот контент</string>
+    <string name="resolver_no_work_apps_available">Нет рабочих приложений</string>
     <string name="resolver_no_work_apps_available_resolve">Нет рабочих приложений для открытия этого контента</string>
     <string name="resolver_no_work_apps_available_share">Рабочие приложения не поддерживают этот контент</string>
     <string name="resolver_personal_tab">Личный профиль</string>
@@ -1837,6 +1896,8 @@
     <string name="screen_compat_mode_scale">Масштаб</string>
     <string name="screen_compat_mode_show">Всегда показывать</string>
     <string name="screen_lock">Блокировка экрана</string>
+    <string name="screen_lock_app_setting_name">Используйте разблокировку</string>
+    <string name="screen_lock_dialog_default_subtitle">Используйте заданный способ разблокировки, чтобы продолжить</string>
     <string name="screenshot_edit">Изменить</string>
     <string name="search_go">Поиск</string>
     <string name="search_hint">Поиск…</string>
@@ -1861,6 +1922,11 @@
     <string name="sendText">Выберите действие для текста</string>
     <string name="sending">Отправка…</string>
     <string name="sensor_notification_service">Служба уведомлений датчиков</string>
+    <string name="sensor_privacy_notification_channel_label">Конфиденциальность датчиков</string>
+    <string name="sensor_privacy_start_use_camera_notification_content_title">Разблокировать камеру</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Разблокировать</string>
+    <string name="sensor_privacy_start_use_mic_notification_content_title">Разблокировать микрофон</string>
+    <string name="sensor_privacy_start_use_notification_content_text">Для &lt;b>%s&lt;/b> и всех приложений и сервисов</string>
     <string name="serial_number">Серийный номер:</string>
     <string name="serviceClassData">Данные</string>
     <string name="serviceClassDataAsync">Асинхр.</string>
@@ -1994,6 +2060,7 @@
     <string name="translate">Перевести</string>
     <string name="translate_desc">Перевести выделенный текст</string>
     <string name="turn_off_radio">Отключить беспроводное соединение</string>
+    <string name="turn_on_magnification_settings_action">Включить в Настройках</string>
     <string name="turn_on_radio">Включить беспроводную связь</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
     <string name="twilight_service">Сумеречная служба</string>
@@ -2187,6 +2254,8 @@
     <string name="wifi_wakeup_onboarding_title">Wi-Fi включится автоматически</string>
     <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>
+    <string name="window_magnification_prompt_content">Теперь доступно увеличение части экрана</string>
+    <string name="window_magnification_prompt_title">Новые настройки увеличения</string>
     <string name="wireless_display_route_description">Беспроводной монитор</string>
     <string name="work_mode_off_message">Вы включите рабочий профиль, в том числе приложения, фоновую синхронизацию и связанные функции.</string>
     <string name="work_mode_off_title">Включить рабочий режим?</string>
