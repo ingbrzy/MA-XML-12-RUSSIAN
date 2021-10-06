@@ -85,8 +85,8 @@
         <item quantity="few">%d поддерживаемые ссылки</item>
     </plurals>
     <plurals name="app_launch_verified_links_message">
-        <item quantity="other">Эти ссылки проверены и автоматически открыты в приложении.</item>
-        <item quantity="one">Эта ссылка проверена и автоматически открыта в приложении.</item>
+        <item quantity="other">Ссылки проверены и автоматически откроются в этом приложении.</item>
+        <item quantity="one">Ссылка проверена и автоматически откроется в этом приложении.</item>
     </plurals>
     <plurals name="app_launch_verified_links_title">
         <item quantity="other">%d проверенных ссылок</item>
@@ -439,9 +439,8 @@
         <item quantity="few">%d активных приложения</item>
     </plurals>
     <plurals name="number_of_urls">
-        <item quantity="other">%d URL-адресов</item>
-        <item quantity="one">%d URL-адрес</item>
-        <item quantity="few">%d URL-адреса</item>
+        <item quantity="other">%d URL</item>
+        <item quantity="one">%d URL</item>
     </plurals>
     <plurals name="permission_bar_chart_label">
         <item quantity="other">%s приложений</item>
