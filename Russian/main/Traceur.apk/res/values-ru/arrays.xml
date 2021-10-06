@@ -238,7 +238,7 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Поиск сетей…</item>
+        <item>Поиск…</item>
         <item>Подключение…</item>
         <item>Аутентификация…</item>
         <item>Получение IP адреса…</item>
@@ -246,13 +246,13 @@
         <item>Приостановлено</item>
         <item>Отключение…</item>
         <item>Отключено</item>
-        <item>Ошибка</item>
+        <item>Сбой</item>
         <item>Заблокировано</item>
-        <item>Нестабильное соединение</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Поиск сетей…</item>
+        <item>Поиск…</item>
         <item>Подключение к %1$s…</item>
         <item>Аутентификация в %1$s…</item>
         <item>Получение IP адреса от %1$s…</item>
@@ -260,13 +260,13 @@
         <item>Приостановлено</item>
         <item>Отключение от %1$s…</item>
         <item>Отключено</item>
-        <item>Ошибка</item>
+        <item>Сбой</item>
         <item>Заблокировано</item>
-        <item>Нестабильное соединение</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
-        <item>Сканирование…</item>
+        <item>Поиск…</item>
         <item>Подключение…</item>
         <item>Аутентификация…</item>
         <item>Получение IP-адреса…</item>
@@ -274,9 +274,9 @@
         <item>Приостановлено</item>
         <item>Отключение…</item>
         <item>Отключено</item>
-        <item>Неуспешно</item>
+        <item>Сбой</item>
         <item>Заблокировано</item>
-        <item>Временный запрет плохого соединения</item>
+        <item>Временно избегать плохого соединения</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимации</item>
