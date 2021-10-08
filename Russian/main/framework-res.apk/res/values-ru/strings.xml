@@ -17,7 +17,7 @@
     <string name="CwMmi">Параллельный вызов</string>
     <string name="DndMmi">Не беспокоить</string>
     <string name="EmergencyCallWarningSummary">Для экстренных вызовов требуется мобильная сеть.</string>
-    <string name="EmergencyCallWarningTitle">Включена функция \"Звонки по Wi‑Fi\"</string>
+    <string name="EmergencyCallWarningTitle">Включена функция \"Вызовы по Wi-Fi\"</string>
     <string name="Midnight">Полночь</string>
     <string name="NetworkPreferenceSwitchSummary">Чтобы улучшить сигнал, попробуйте выбрать другой тип сети в настройках (раздел \"Мобильные сети\").</string>
     <string name="NetworkPreferenceSwitchTitle">Сеть недоступна</string>
@@ -346,7 +346,7 @@
     <string name="battery_saver_sticky_disabled_notification_summary">Батарея заряжена достаточно. Экономия заряда будет включена снова при низком уровне заряда батареи.</string>
     <string name="battery_saver_sticky_disabled_notification_title">Экономия заряда будет включена снова при низком уровне заряда батареи.</string>
     <string name="beforeOneMonthDurationPast">Более месяца назад</string>
-    <string name="biometric_app_setting_name">Используйте биометрию</string>
+    <string name="biometric_app_setting_name">Использовать биометрию</string>
     <string name="biometric_dialog_default_subtitle">Используйте биометрию, чтобы продолжить</string>
     <string name="biometric_dialog_default_title">Подтвердите, что это вы</string>
     <string name="biometric_error_canceled">Аутентификация отменена</string>
@@ -355,8 +355,8 @@
     <string name="biometric_error_hw_unavailable">Биометрическое оборудование недоступно</string>
     <string name="biometric_error_user_canceled">Аутентификация отменена</string>
     <string name="biometric_not_recognized">Не распознано</string>
-    <string name="biometric_or_screen_lock_app_setting_name">Используйте биометрию или заданный способ разблокировки</string>
-    <string name="biometric_or_screen_lock_dialog_default_subtitle">Используйте биометрию или заданный способ разблокировки, чтобы продолжить</string>
+    <string name="biometric_or_screen_lock_app_setting_name">Использовать биометрию или другой способ разблокировки</string>
+    <string name="biometric_or_screen_lock_dialog_default_subtitle">Чтобы продолжить, используйте биометрию или другой способ разблокировки</string>
     <string name="bluetooth_a2dp_audio_route_name">Воспроизведение звука через Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth останется включенным в режиме полета</string>
     <string name="browse">Браузер</string>
@@ -561,7 +561,7 @@
     <string name="country_selection_title">Региональные настройки</string>
     <string name="create_contact_using">"Создать контакт
 с номером %s"</string>
-    <string name="crossSimFormat_spn_cross_sim_calling">Перекрестный вызов %s</string>
+    <string name="crossSimFormat_spn_cross_sim_calling">Резервный способ связи %s</string>
     <string name="cut">Вырезать</string>
     <string name="data_conn_status_title"/>
     <string name="data_saver_description">В режиме экономии трафика фоновая передача для некоторых приложений отключена. Приложение, которым вы пользуетесь, может получать и отправлять данные, но реже, чем обычно. Например, изображения могут не загружаться, пока вы не нажмете на них.</string>
@@ -758,8 +758,8 @@
     <string name="face_error_user_canceled">Отменено пользователем</string>
     <string name="face_icon_content_description">Значок лица</string>
     <string name="face_name_template">Данные лица %d</string>
-    <string name="face_or_screen_lock_app_setting_name">Используйте разблокировку по лицу или заданный способ разблокировки</string>
-    <string name="face_or_screen_lock_dialog_default_subtitle">Используйте разблокировку по лицу или заданный способ разблокировки, чтобы продолжить</string>
+    <string name="face_or_screen_lock_app_setting_name">Использовать разблокировку по лицу или другой способ разблокировки</string>
+    <string name="face_or_screen_lock_dialog_default_subtitle">Чтобы продолжить, используйте разблокировку по лицу или другой способ разблокировки</string>
     <string name="face_recalibrate_notification_content">Для улучшения распознавания добавьте данные лица еще раз</string>
     <string name="face_recalibrate_notification_name">Распознавание по лицу</string>
     <string name="face_recalibrate_notification_title">Подтверждение данных лица</string>
@@ -809,8 +809,8 @@
     <string name="fingerprint_error_user_canceled">Распознавание отпечатка отменено пользователем</string>
     <string name="fingerprint_icon_content_description">Значок отпечатка пальца</string>
     <string name="fingerprint_name_template">Отпечаток %d</string>
-    <string name="fingerprint_or_screen_lock_app_setting_name">Используйте отпечаток или заданный способ разблокировки</string>
-    <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Используйте отпечаток или заданный способ разблокировки, чтобы продолжить</string>
+    <string name="fingerprint_or_screen_lock_app_setting_name">Использовать отпечаток или другой способ разблокировки</string>
+    <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Чтобы продолжить, используйте отпечаток или другой способ разблокировки</string>
     <string name="fingerprint_recalibrate_notification_content">Обратитесь в сервисный центр</string>
     <string name="fingerprint_recalibrate_notification_name">Разблокировка отпечатком</string>
     <string name="fingerprint_recalibrate_notification_title">Сканер отпечатков не работает</string>
@@ -1373,8 +1373,13 @@
     <string name="notification_channel_virtual_keyboard">Виртуальная клавиатура</string>
     <string name="notification_channel_voice_mail">Голосовые сообщения</string>
     <string name="notification_channel_vpn">Статус VPN</string>
-    <string name="notification_channel_wfc">Звонки по Wi-Fi</string>
+    <string name="notification_channel_wfc">Вызовы по Wi-Fi</string>
     <string name="notification_description">Состояние голосового вызова</string>
+    <string name="notification_feedback_indicator">Отправить отзыв</string>
+    <string name="notification_feedback_indicator_alerted">Уровень важности этого уведомления был повышен до \"По умолчанию\". Нажмите, чтобы отправить отзыв.</string>
+    <string name="notification_feedback_indicator_demoted">Уровень важности этого уведомления был понижен. Нажмите, чтобы отправить отзыв.</string>
+    <string name="notification_feedback_indicator_promoted">Уровень важности этого уведомления был повышен. Нажмите, чтобы отправить отзыв.</string>
+    <string name="notification_feedback_indicator_silenced">Уровень важности этого уведомления был понижен до \"Без звука\". Нажмите, чтобы отправить отзыв.</string>
     <string name="notification_header_divider_symbol">•</string>
     <string name="notification_hidden_text">Новое уведомление</string>
     <string name="notification_history_title_placeholder">Уведомление приложения</string>
@@ -1451,6 +1456,9 @@
     <string name="permdesc_bind_incall_service">Управление экраном во время разговора.</string>
     <string name="permdesc_bluetooth">Приложение сможет просматривать конфигурацию Bluetooth на телефоне, а также запрашивать и подтверждать соединение с другими устройствами.</string>
     <string name="permdesc_bluetoothAdmin">Приложение сможет настраивать параметры локального телефона с поддержкой Bluetooth, а также обнаруживать удаленные устройства и выполнять сопряжение с ними.</string>
+    <string name="permdesc_bluetooth_advertise">Приложение сможет передавать рекламу на устройства Bluetooth поблизости.</string>
+    <string name="permdesc_bluetooth_connect">У приложения будет доступ к подключенным устройствам Bluetooth.</string>
+    <string name="permdesc_bluetooth_scan">Приложение сможет находить устройства Bluetooth поблизости и подключаться к ним.</string>
     <string name="permdesc_bodySensors">Приложение сможет получить доступ к данным датчиков, размещенных на теле, например измеряющих частоту сердцебиения.</string>
     <string name="permdesc_broadcastSticky">Приложение сможет делать несрочные рассылки, которые не удаляются после их отправки. Злоупотребление этими рассылками может замедлить работу телефона или сделать ее нестабильной из-за чрезмерного использования памяти.</string>
     <string name="permdesc_callCompanionApp">Приложение сможет просматривать и контролировать вызовы, получать информацию о телефонных номерах и состоянии вызовов.</string>
@@ -1470,10 +1478,12 @@
     <string name="permdesc_exemptFromAudioRecordRestrictions">Снятие ограничения приложения на аудиозапись.</string>
     <string name="permdesc_expandStatusBar">Приложение сможет разворачивать и сворачивать строку состояния.</string>
     <string name="permdesc_foregroundService">Приложение сможет использовать активные сервисы.</string>
+    <string name="permdesc_fullScreenIntent">Приложение сможет показывать уведомления в полноэкранном режиме на заблокированном устройстве</string>
     <string name="permdesc_getAccounts">Приложение сможет получить список всех используемых на устройстве аккаунтов, в том числе созданных установленными приложениями.</string>
     <string name="permdesc_getPackageSize">Приложение сможет получать сведения о размере кода, данных и кеша.</string>
     <string name="permdesc_getTasks">Приложение сможет получать информацию о недавно запущенных и выполняемых задачах, а следовательно, и о приложениях, используемых на устройстве.</string>
     <string name="permdesc_handoverStatus">Получение информации о текущих передачах Android Beam.</string>
+    <string name="permdesc_highSamplingRateSensors">Приложение сможет считывать данные датчиков на частоте более 200 Гц.</string>
     <string name="permdesc_imagesWrite">Приложение сможет изменять фотоальбомы.</string>
     <string name="permdesc_install_shortcut">Приложение сможет добавлять ярлыки на главный экран без вмешательства пользователя.</string>
     <string name="permdesc_invokeCarrierSetup">Владелец сможет запускать приложение настроек, предоставленное оператором. Это разрешение не используется обычными приложениями.</string>
@@ -1481,6 +1491,7 @@
     <string name="permdesc_manageFace">Приложение сможет добавлять и удалять шаблоны лиц.</string>
     <string name="permdesc_manageFingerprint">Приложение сможет добавлять и удалять шаблоны отпечатков пальцев.</string>
     <string name="permdesc_manageNetworkPolicy">Приложение сможет управлять сетевыми политиками и определять правила для отдельных приложений.</string>
+    <string name="permdesc_manageOngoingCalls">Приложение сможет управлять текущими вызовами на устройстве, а также получит доступ к сведениям о них.</string>
     <string name="permdesc_manageOwnCalls">Приложение сможет перенаправлять звонки в системе с целью улучшения качества связи.</string>
     <string name="permdesc_manageProfileAndDeviceOwners">Приложения смогут определять владельцев профилей и владельца устройства.</string>
     <string name="permdesc_mediaLocation">Приложение сможет читать данные о местоположении из вашей медиаколлекции.</string>
@@ -1490,6 +1501,7 @@
     <string name="permdesc_persistentActivity">Приложение сможет постоянно хранить свои компоненты в памяти. Это может уменьшить объем памяти, доступный другим приложениям, и замедлить работу устройства.</string>
     <string name="permdesc_preferredPaymentInfo">Приложение сможет получать информацию о предпочтительном платежном сервисе NFC.</string>
     <string name="permdesc_processOutgoingCalls">Приложение сможет видеть набранный номер во время исходящего вызова и при необходимости перенаправлять вызов или завершать его.</string>
+    <string name="permdesc_queryAllPackages">Приложение сможет просматривать все установленные пакеты.</string>
     <string name="permdesc_readCalendar">Приложение может считывать, отправлять и сохранять информацию о мероприятиях в календаре телефона.</string>
     <string name="permdesc_readCallLog">Приложение может считывать данные журнала звонков.</string>
     <string name="permdesc_readCellBroadcasts">Приложение получит доступ к сообщениям широковещательных SMS-служб, которые в некоторых странах используются для информирования населения об экстренных ситуациях. Вредоносные программы могут помешать работе устройства, на которое поступают такие сообщения.</string>
@@ -1507,6 +1519,7 @@
     <string name="permdesc_receiveSms">Приложение сможет получать и обрабатывать SMS. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</string>
     <string name="permdesc_receiveWapPush">Приложение сможет получать и обрабатывать WAP-сообщения. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</string>
     <string name="permdesc_recordAudio">Приложение может в любое время записывать аудио с помощью микрофона.</string>
+    <string name="permdesc_recordBackgroundAudio">Приложение может в любое время записывать аудио с помощью микрофона.</string>
     <string name="permdesc_register_call_provider">Регистрация новых операторов связи.</string>
     <string name="permdesc_register_sim_subscription">Регистрация новых SIM-карт.</string>
     <string name="permdesc_removeDrmCertificates">Удаление сертификатов DRM. Большинству приложений это разрешение не требуется.</string>
@@ -1539,6 +1552,7 @@
     <string name="permdesc_useFaceAuthentication">Приложение сможет использовать аппаратные средства для распознавания по лицу</string>
     <string name="permdesc_useFingerprint">Приложение сможет использовать сканер отпечатков пальцев для аутентификации.</string>
     <string name="permdesc_use_sip">Разрешить вызовы по протоколу SIP.</string>
+    <string name="permdesc_uwb_ranging">Приложение сможет определять относительное позиционирование устройств с технологией сверхширокополосной связи поблизости.</string>
     <string name="permdesc_vibrate">Приложение сможет контролировать вибросигналы.</string>
     <string name="permdesc_vibrator_state">Разрешает приложению получать доступ к состоянию вибромотора.</string>
     <string name="permdesc_videoWrite">Приложение сможет изменять коллекцию видео.</string>
@@ -1623,6 +1637,9 @@
     <string name="permlab_bind_incall_service">Управление экраном во время разговора</string>
     <string name="permlab_bluetooth">Установление связи с устройствами Bluetooth</string>
     <string name="permlab_bluetoothAdmin">Доступ к настройкам Bluetooth</string>
+    <string name="permlab_bluetooth_advertise">Передача рекламы на устройства Bluetooth рядом</string>
+    <string name="permlab_bluetooth_connect">Доступ к подключенным устройствам Bluetooth</string>
+    <string name="permlab_bluetooth_scan">Поиск устройств Bluetooth поблизости и подключение к ним</string>
     <string name="permlab_bodySensors">Датчики (например, пульсометр)</string>
     <string name="permlab_broadcastSticky">Отправка сообщений с их последующим сохранением</string>
     <string name="permlab_callCompanionApp">Просмотр и контроль вызовов</string>
@@ -1641,11 +1658,13 @@
     <string name="permlab_enableCarMode">Включение режима громкой связи</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">Снятие ограничений на аудиозапись</string>
     <string name="permlab_expandStatusBar">Разворачивание/сворачивание строки состояния</string>
-    <string name="permlab_foregroundService">Запуск активного сервиса</string>
+    <string name="permlab_foregroundService">Запуск активных сервисов</string>
+    <string name="permlab_fullScreenIntent">Показ уведомлений в полноэкранном режиме на заблокированном устройстве</string>
     <string name="permlab_getAccounts">Поиск аккаунтов на устройстве</string>
     <string name="permlab_getPackageSize">Вычисление объема памяти приложений</string>
     <string name="permlab_getTasks">Получение данных о запущенных приложениях</string>
     <string name="permlab_handoverStatus">Получение статуса передачи Android Beam</string>
+    <string name="permlab_highSamplingRateSensors">Доступ к данным датчиков при высокой частоте дискретизации</string>
     <string name="permlab_imagesWrite">Изменение фотоальбомов</string>
     <string name="permlab_install_shortcut">Создание ярлыков</string>
     <string name="permlab_invokeCarrierSetup">Запуск приложения настроек, предоставленного оператором</string>
@@ -1653,7 +1672,8 @@
     <string name="permlab_manageFace">Управление аппаратными средствами распознавания по лицу</string>
     <string name="permlab_manageFingerprint">управление сканером отпечатков</string>
     <string name="permlab_manageNetworkPolicy">Управление сетевой политикой</string>
-    <string name="permlab_manageOwnCalls">перенаправлять звонки в системе</string>
+    <string name="permlab_manageOngoingCalls">Управление текущими вызовами</string>
+    <string name="permlab_manageOwnCalls">Перенаправлять вызовы в системе</string>
     <string name="permlab_manageProfileAndDeviceOwners">Управление профилями и владельцами</string>
     <string name="permlab_mediaLocation">Чтение местоположений из ваших носителей</string>
     <string name="permlab_modifyAudioSettings">Изменение настроек аудио</string>
@@ -1662,6 +1682,7 @@
     <string name="permlab_persistentActivity">Поддержание приложения в рабочем режиме</string>
     <string name="permlab_preferredPaymentInfo">Информация о предпочтительном платежном сервисе NFC</string>
     <string name="permlab_processOutgoingCalls">Перенаправление исходящих вызовов</string>
+    <string name="permlab_queryAllPackages">Запрос всех пакетов</string>
     <string name="permlab_readCalendar">Чтение мероприятий и данных</string>
     <string name="permlab_readCallLog">Просмотр журнала вызовов</string>
     <string name="permlab_readCellBroadcasts">Читать сообщения массовой рассылки</string>
@@ -1712,6 +1733,7 @@
     <string name="permlab_useFaceAuthentication">Использование аппаратных средств для распознавания по лицу</string>
     <string name="permlab_useFingerprint">Использование сканера отпечатков</string>
     <string name="permlab_use_sip">Входящие и исходящие вызовы SIP</string>
+    <string name="permlab_uwb_ranging">Определять относительное позиционирование устройств с технологией сверхширокополосной связи поблизости</string>
     <string name="permlab_vibrate">Управление функцией вибросигнала</string>
     <string name="permlab_videoWrite">Изменение коллекции видео</string>
     <string name="permlab_wakeLock">Отключение спящего режима</string>
@@ -1896,8 +1918,8 @@
     <string name="screen_compat_mode_scale">Масштаб</string>
     <string name="screen_compat_mode_show">Всегда показывать</string>
     <string name="screen_lock">Блокировка экрана</string>
-    <string name="screen_lock_app_setting_name">Используйте разблокировку</string>
-    <string name="screen_lock_dialog_default_subtitle">Используйте заданный способ разблокировки, чтобы продолжить</string>
+    <string name="screen_lock_app_setting_name">Использовать разблокировку</string>
+    <string name="screen_lock_dialog_default_subtitle">Чтобы продолжить, используйте разблокировку</string>
     <string name="screenshot_edit">Изменить</string>
     <string name="search_go">Поиск</string>
     <string name="search_hint">Поиск…</string>
@@ -1919,6 +1941,7 @@
     <string name="select_keyboard_layout_notification_title">Настройка физической клавиатуры</string>
     <string name="select_minutes">Выберите минуты</string>
     <string name="select_year">Выберите год</string>
+    <string name="selected">выбрано</string>
     <string name="sendText">Выберите действие для текста</string>
     <string name="sending">Отправка…</string>
     <string name="sensor_notification_service">Служба уведомлений датчиков</string>
@@ -1997,6 +2020,8 @@
     <string name="sms_short_code_remember_undo_instruction">Это можно изменить позже в разделе настроек \"Приложения\".</string>
     <string name="smv_application">Приложение \"%1$s\" (процесс: %2$s) нарушило собственную политику StrictMode.</string>
     <string name="smv_process">Процесс %1$s нарушил собственную политику StrictMode.</string>
+    <string name="splash_screen_view_branding_description">Образ бренда приложения</string>
+    <string name="splash_screen_view_icon_description">Иконка приложения</string>
     <string name="ssl_ca_cert_noti_by_administrator">Администратор рабочего профиля</string>
     <string name="ssl_ca_cert_noti_by_unknown">администратором</string>
     <string name="ssl_ca_cert_noti_managed">администратором домена %s</string>
@@ -2064,6 +2089,8 @@
     <string name="turn_on_radio">Включить беспроводную связь</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
     <string name="twilight_service">Сумеречная служба</string>
+    <string name="ui_translation_accessibility_translated_text">Перевод: %1$s.</string>
+    <string name="ui_translation_accessibility_translation_finished">Сообщение переведено с %1$s на %2$s.</string>
     <string name="undo">Отменить</string>
     <string name="unknownName">Неизвестно</string>
     <string name="unpin_specific_target">Открепить %1$s</string>
@@ -2122,6 +2149,8 @@
     <string name="user_switched">Выбран аккаунт пользователя %1$s.</string>
     <string name="user_switching_message">Смена профиля на %1$s…</string>
     <string name="validity_period">Срок действия:</string>
+    <string name="view_and_control_notification_content">%s может просматривать и контролировать то, что отображается на вашем экране. Нажмите для подробностей.</string>
+    <string name="view_and_control_notification_title">Проверьте настройки доступа</string>
     <string name="view_calendar">Открыть</string>
     <string name="view_calendar_desc">Посмотреть выбранную дату в календаре</string>
     <string name="view_flight">Отслеживание</string>
