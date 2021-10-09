@@ -1465,6 +1465,7 @@
     <string name="config_aosp_emergency_intent_action">android.settings.EDIT_EMERGENCY_INFO</string>
     <string name="config_aosp_emergency_package_name">com.android.emergency</string>
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
+    <string name="config_audio_storage_category_uri">content://com.android.providers.media.documents/root/audio_root</string>
     <string name="config_bandwidthEstimateSource">carrier_config</string>
     <string name="config_batterymeterBoltPath">M5,17.5 V12 H3 L7,4.5 V10 h2 L5,17.5 z</string>
     <string name="config_batterymeterErrorPerimeterPath">@string/config_batterymeterPerimeterPath</string>
@@ -1476,6 +1477,7 @@
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="config_camera_component">com.android.camera/com.android.camera.Camera</string>
     <string name="config_carrierAppInstallDialogComponent">com.android.simappdialog/com.android.simappdialog.InstallCarrierAppActivity</string>
+    <string name="config_cell_broadcast_receiver_package">com.android.cellbroadcastreceiver.module</string>
     <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
     <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
     <string name="config_chooserActivity">com.android.systemui/com.android.systemui.chooser.ChooserActivity</string>
@@ -1507,6 +1509,7 @@
     <string name="config_deletion_helper_package">com.android.storagemanager</string>
     <string name="config_disable_cdma_activation_code">false</string>
     <string name="config_displayWhiteBalanceColorTemperatureSensorName">com.google.sensor.color</string>
+    <string name="config_documents_and_other_storage_category_uri">content://com.android.providers.media.documents/root/documents_root</string>
     <string name="config_dozeComponent">com.miui.aod/com.miui.aod.doze.DozeService</string>
     <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
     <string name="config_emergency_call_number">112</string>
@@ -1527,6 +1530,7 @@
     <string name="config_headlineFontFamilyMedium">@string/font_family_button_material</string>
     <string name="config_iccHotswapPromptForRestartDialogComponent">@null</string>
     <string name="config_icon_mask">M50,0L100,0 100,100 0,100 0,0z</string>
+    <string name="config_images_storage_category_uri">content://com.android.providers.media.documents/root/images_root</string>
     <string name="config_import_vcard_type">default</string>
     <string name="config_inCallNotificationSound">/product/media/audio/ui/InCallNotification.ogg</string>
     <string name="config_incidentReportApproverPackage">com.android.permissioncontroller</string>
@@ -1588,9 +1592,11 @@
     <string name="config_usbContaminantActivity">com.android.systemui/com.android.systemui.usb.UsbContaminantActivity</string>
     <string name="config_usbPermissionActivity">com.android.systemui/com.android.systemui.usb.UsbPermissionActivity</string>
     <string name="config_usbResolverActivity">com.android.systemui/com.android.systemui.usb.UsbResolverActivity</string>
+    <string name="config_videos_storage_category_uri">content://com.android.providers.media.documents/root/videos_root</string>
     <string name="config_wallpaperCropperPackage">com.android.wallpapercropper</string>
     <string name="config_wallpaperManagerServiceName">com.android.server.wallpaper.WallpaperManagerService</string>
     <string name="config_wallpaper_picker_class">com.android.settings.Settings$WallpaperSettingsActivity</string>
+    <string name="config_wallpaper_picker_launch_extra">com.android.wallpaper.LAUNCH_SOURCE</string>
     <string name="config_wallpaper_picker_package">com.android.settings</string>
     <string name="config_wifi_framework_sap_2G_channel_list">1,6,11</string>
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
