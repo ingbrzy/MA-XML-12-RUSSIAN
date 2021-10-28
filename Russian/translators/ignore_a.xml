@@ -148,6 +148,7 @@
     <string-array name="cmas_amber_alerts_channels_range_strings"></string-array>
     <string-array name="cmas_presidential_alerts_channels_range_strings"></string-array>
     <integer-array name="color_mode_ids"></integer-array>
+    <array name="color_pick_view_colors"></array>
     <string-array name="color_value"></string-array>
     <array name="combined_view_account_colors"></array>
     <string-array name="commute_navigation_choice_item"></string-array>
@@ -306,6 +307,7 @@
     <string-array name="global_elderly_man_like_apps"></string-array>
     <string-array name="google"></string-array>
     <string-array name="google_in_list"></string-array>
+    <array name="gradual_color"></array>
     <string-array name="hdcp_checking_values"></string-array>
     <string-array name="heavenly_stems"></string-array>
     <string-array name="hide_fingerprint_instantly_prefixes"></string-array>
@@ -369,6 +371,8 @@
     <string-array name="magic_idp_size_category_visa_value"></string-array>
     <string-array name="map_keyword"></string-array>
     <string-array name="map_title"></string-array>
+    <array name="mark_pen_default_color_item"></array>
+    <integer-array name="mark_pen_default_size_item"></integer-array>
     <integer-array name="media2_widget_speed_multiplied_by_100"></integer-array>
     <string-array name="mediasize_to_standard_map"></string-array>
     <string-array name="message_sending_method_value"></string-array>
@@ -458,6 +462,12 @@
     <string-array name="pc_fast_charge_entry"></string-array>
     <string-array name="pc_fast_charge_entry_value"></string-array>
     <integer-array name="pc_time_choice_items"></integer-array>
+    <array name="pen_default_color_item"></array>
+    <integer-array name="pen_default_size_item"></integer-array>
+    <string-array name="permission_array"></string-array>
+    <string-array name="permission_array_pie"></string-array>
+    <string-array name="permission_array_pie_subtitle"></string-array>
+    <string-array name="permission_array_subtitle"></string-array>
     <string-array name="permissions"></string-array>
     <string-array name="permissions_v12"></string-array>
     <string-array name="persist_apns_for_plmn"></string-array>
@@ -566,9 +576,12 @@
     <string-array name="setting_home_page_show_list_code"></string-array>
     <string-array name="settings_atmospheric_pressure_unit_detail"></string-array>
     <string-array name="settings_atmospheric_pressure_unit_values"></string-array>
+    <array name="shape_default_color_item"></array>
     <string-array name="show_non_rect_clip_values"></string-array>
     <string-array name="show_style_entries"></string-array>
+    <string-array name="show_style_entries_5"></string-array>
     <string-array name="show_style_values"></string-array>
+    <string-array name="sign_in_dialog_item"></string-array>
     <string-array name="sign_in_dialog_item"></string-array>
     <string-array name="simulate_color_space_entries"></string-array>
     <string-array name="simulate_color_space_values"></string-array>
@@ -649,7 +662,9 @@
     <string-array name="system_cta_runtime_perm"></string-array>
     <string-array name="system_cta_runtime_perm_desc"></string-array>
     <string-array name="system_cta_runtime_perm_desc_non_phone_state"></string-array>
+    <string-array name="system_cta_runtime_perm_desc_non_phone_state_install_app"></string-array>
     <string-array name="system_cta_runtime_perm_non_phone_state"></string-array>
+    <string-array name="system_cta_runtime_perm_phone_state_and_install_app"></string-array>
     <string-array name="system_foreground_notification_whitelist"></string-array>
     <string-array name="t9_indexing_method_entries"></string-array>
     <string-array name="t9_indexing_method_entry_values"></string-array>

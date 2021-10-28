@@ -75,8 +75,8 @@
     <string name="ad_download">Загрузка</string>
     <string name="ad_join">Присоединиться</string>
     <string name="ad_more">Еще</string>
-    <string name="add_local_shortcut_add">+Добавить</string>
-    <string name="add_local_shortcut_des">Добавьте ярлык \"Мое видео\" на рабочий стол для удобного просмотра видео</string>
+    <string name="add_local_shortcut_add">Добавить</string>
+    <string name="add_local_shortcut_des">Добавьте ярлык \"Мое видео\" на рабочий стол для просмотра видео одним касанием</string>
     <string name="add_search_channel_link">URL-адрес</string>
     <string name="add_search_channel_name">Имя</string>
     <string name="add_search_channel_tip">Выполните поиск \"%s\" на указанном сайте, затем скопируйте и вставьте URL-адрес здесь</string>
@@ -1502,6 +1502,7 @@ ID: %s
     <string name="tab_name_moment">Моменты</string>
     <string name="tab_name_trending">Рекомендуемые</string>
     <string name="tab_name_video">Видео</string>
+    <string name="target_sdk_version_30_upgrade_tips">Некоторые видео могут быть недоступны для просмотра из-за ограничений Android 11. Нажмите \"Файлы\", чтобы найти другие видео</string>
     <string name="temporary_not_available">Эта функция пока недоступна</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>

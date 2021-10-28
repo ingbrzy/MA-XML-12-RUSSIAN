@@ -125,15 +125,28 @@
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Для идентификации устройства</item>
-        <item>Для поиска устройства и переключения в соответствующий режим в случае утери</item>
+        <item>Для поиска устройства и переключения в режим потери</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Для поиска устройства и переключения в режим потери</item>
+        <item>Для определения местоположения устройства, когда оно не подключено к интернету</item>
+        <item>Для доступа к номеру телефона, чтобы определить местоположение устройства, когда оно не подключено к Интернету</item>
     </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
-        <item>Для синхронизации событий</item>
+        <item>Для синхронизации мероприятий</item>
         <item>Для синхронизации сообщений</item>
         <item>Для синхронизации сообщений</item>
         <item>Для синхронизации контактов</item>
         <item>Для синхронизации контактов</item>
-        <item>Для сохранения файлов на устройстве (изображения, видео, песни и прочее)</item>
+        <item>Для сохранения файлов на устройстве (фото, видео, аудио и др.)</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Доступ к мероприятиям календаря</item>
+        <item>Отправка SMS</item>
+        <item>Чтение MMS</item>
+        <item>Доступ к контактам</item>
+        <item>Изменение и удаление контактов</item>
+        <item>Доступ к фото и файлам на устройстве</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Резервные копии</item>

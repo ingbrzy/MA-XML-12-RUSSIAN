@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="action_mode_select_all">Выбрать все</string>
+    <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">PM</string>
     <string name="age_label_add_to_calendar">Добавить в календарь</string>
     <string name="age_label_dob">Дата рождения</string>
@@ -73,6 +74,8 @@
     <string name="clear">C</string>
     <string name="clearDesc">очистить</string>
     <string name="clear_history">Очистить историю</string>
+    <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="close">Закрыть</string>
     <string name="combine_loan">Комбинированный кредит</string>
     <string name="commercial_loan">Коммерческий кредит</string>
     <string name="common_google_play_services_enable_button">Включить</string>
@@ -104,6 +107,7 @@
     <string name="convertion_unit_velocity">Конвертер скорости</string>
     <string name="convertion_unit_volume">Конвертер объема</string>
     <string name="convertion_unit_weight">Конвертер массы</string>
+    <string name="copy">Копировать</string>
     <string name="cos">cos</string>
     <string name="cosDesc">косинус</string>
     <string name="cos_mathematical_value">cos</string>
@@ -118,6 +122,7 @@
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
+    <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="dateformat">dd.MM.yyyy</string>
     <string name="daughter">Дочь</string>
@@ -172,6 +177,7 @@
     <string name="error_fomrat">Неправильный формат</string>
     <string name="evening">PM</string>
     <string name="exit">Выход</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="extra_deduction_instruction">Детали вычета</string>
     <string name="extra_deduction_tips">Нажмите кнопку в верхнем углу экрана, чтобы просмотреть сведения о вычете.</string>
     <string name="extra_deduction_title">Дополнительные вычеты</string>
@@ -353,6 +359,28 @@
     <string name="minus">−</string>
     <string name="minusDesc">минус</string>
     <string name="minusOne">-1</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
+    <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_cancel_description">Отмена</string>
+    <string name="miuix_appcompat_confirm_description">Подтверждение</string>
+    <string name="miuix_appcompat_delete_description">Удаление</string>
+    <string name="miuix_appcompat_deselect_all">Отменить</string>
+    <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
+    <string name="miuix_appcompat_search_input_description">Поиск</string>
+    <string name="miuix_appcompat_select_all">Выбрать все</string>
+    <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -455,6 +483,7 @@
     <string name="night">PM</string>
     <string name="none">Нет</string>
     <string name="noon">PM</string>
+    <string name="not_set">Не задано</string>
     <string name="not_supported_due_to_language">Эта функция доступна только для китайского языка</string>
     <string name="ok">ОК</string>
     <string name="percent" />
@@ -482,6 +511,7 @@
     <string name="preference_check_update_summary_current_version">Текущая версия: %s</string>
     <string name="preference_check_update_summary_new_version">Новая версия: %s</string>
     <string name="preference_check_update_title">Проверить обновления</string>
+    <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preference_feedback_title">Вопросы и ответы</string>
     <string name="preference_follow_qq_group">QQ группа: 523274279</string>
     <string name="preference_follow_us">Подписки</string>
@@ -526,6 +556,7 @@
     <string name="secondFunctionDesc">Переключение на вторую функцию</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_item">Выбрать</string>
+    <string name="send">Отправить</string>
     <string name="settingsDesc">настройки</string>
     <string name="sin">sin</string>
     <string name="sinDesc">синус</string>
@@ -679,6 +710,7 @@
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
+    <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="times" />
@@ -1072,6 +1104,8 @@
     <string name="updating">Обновление калькулятора…</string>
     <string name="user_agreement">Пользовательским соглашением</string>
     <string name="user_experience_program_title">Программа пользовательского опыта</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_float_window_move">Перемещение калькулятора</string>
     <string name="voiceDesc">Голосовое управление</string>
     <string name="voice_guide_text">Вы можете здесь включить речевой вывод</string>

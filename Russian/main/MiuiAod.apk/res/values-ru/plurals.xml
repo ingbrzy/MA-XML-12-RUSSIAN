@@ -34,6 +34,12 @@
         <item quantity="one">" %1$sчас %2$s"</item>
         <item quantity="few">" %1$sчаса %2$s"</item>
     </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"Продолжительность анимации не может превышать %d сек.
+Более длинная анимация будет прервана по истечению интервала."</item>
+        <item quantity="one">"Продолжительность анимации не может превышать %d сек.
+Более длинная анимация будет прервана по истечению интервала."</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">Выбрано %d элементов</item>
         <item quantity="one">Выбран %d элемент</item>

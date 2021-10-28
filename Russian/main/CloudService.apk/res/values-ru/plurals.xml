@@ -130,6 +130,11 @@
         <item quantity="other">Попробуйте снова через %d сек.</item>
         <item quantity="one">Попробуйте снова через %d сек.</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Не удалось синхронизировать %s объектов</item>
+        <item quantity="one">Не удалось синхронизировать %s объект</item>
+        <item quantity="few">Не удалось синхронизировать %s объекта</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>
