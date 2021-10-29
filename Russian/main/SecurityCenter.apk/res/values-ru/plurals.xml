@@ -1014,15 +1014,31 @@
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Включить Режим медитации на %d мин.</item>
+        <item quantity="one">Включить Режим медитации на %d мин.</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Доступны обновления для %d приложений.</item>
         <item quantity="one">Доступны обновления для %d приложения.</item>
         <item quantity="few">Доступны обновления для %d приложений.</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">После блокировки экрана на %d мин.</item>
+        <item quantity="one">После блокировки экрана на %d мин.</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">Статистика трафика не синхронизирована с оператором %d дней</item>
         <item quantity="one">Статистика трафика не синхронизирована с оператором %d день</item>
         <item quantity="few">Статистика трафика не синхронизирована с оператором %d дня</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Блокировка экрана через %d мин.</item>
+        <item quantity="one">Блокировка экрана через %d мин.</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">Защищено: %1$d</item>

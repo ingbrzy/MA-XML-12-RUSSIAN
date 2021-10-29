@@ -160,6 +160,7 @@
     <string name="dc_lignt_enable_hint">При включении устранения мерцания частота обновления экрана может быть установлена в 60 Гц. Продолжить?</string>
     <string name="delete_first_to_add_animal">Удалите какой-либо из элементов для добавления нового</string>
     <string name="desktop_widget_authorization">Нажмите, чтобы предоставить разрешения для просмотра статистики</string>
+    <string name="desktop_widget_authorization_new">Статистика времени экрана</string>
     <string name="desktop_widget_not_support">"Статистика времени экрана 
 не генерируется для второго пространства"</string>
     <string name="desktop_widget_screen_use_time">Время экрана</string>
@@ -685,12 +686,15 @@
     <string name="usage_app_over_content">"Вы уже использовали это приложение %s сегодня."</string>
     <string name="usage_app_over_summary">"Вы достигли своего лимита. Время вышло!"</string>
     <string name="usage_app_set_limit_time">Установка лимита</string>
+    <string name="usage_app_stop_desc">После отключения функции Время экрана, все локальные данные, индивидуальные настройки и разрешения этой функции, будут удалены.​</string>
     <string name="usage_app_system_app_summary">Ограничение времени экрана для системных приложений недоступно</string>
     <string name="usage_app_weekday_limit">Рабочие дни</string>
     <string name="usage_app_weekend_limit">Выходные дни</string>
     <string name="usage_beat_fans">Лучше, чем %s пользователей</string>
     <string name="usage_continuous_days">Период</string>
     <string name="usage_creating_weekly_report">Создание еженедельного отчета…</string>
+    <string name="usage_cta_desc">"Добро пожаловать в Настройки! Для получения статистики и настройки функций Время экрана и Режим медитации требуется разрешение на сбор следующей информации: сколько раз разблокировалось устройство или включался экран, продолжительность использования приложений. Собранные данные будут храниться локально на этом устройстве.
+"</string>
     <string name="usage_current_week_usage">%s в среднем за 7 дней</string>
     <string name="usage_device_limit_app_prolong">Продлить</string>
     <string name="usage_device_limit_app_prolong_time1">Добавить 20 минут</string>
