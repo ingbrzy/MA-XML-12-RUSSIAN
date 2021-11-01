@@ -135,6 +135,7 @@ ID:%s
     <string name="loading">Подождите…</string>
     <string name="logout_account">Выход</string>
     <string name="mibi_all_license_message">Вы собираетесь использовать Mi Coin, сервис, предоставляемый Xiaomi Inc. Прежде чем вы сможете его использовать, вы должны согласиться с Условиями обслуживания. Нажмите OK, если вы согласны с условиями, описанными в %1$s и %2$s. Вам нужно подключиться к Интернету, найти ваше устройство, чтобы использовать Mi Coin.</string>
+    <string name="mibi_all_purpose">Добро пожаловать в Mi Coin! Вы можете использовать это приложение для пополнения баланса Mi Coin, проверки подарочных карт и т. д.</string>
     <string name="mibi_applock_config">Невозможно установить блокировку приложения при использовании разделенного экрана.</string>
     <string name="mibi_applock_dialog_cancel">Не сейчас</string>
     <string name="mibi_applock_dialog_content">В связи с обновлением системы срок действия вашего текущего пароля истек. Пожалуйста, установите новый.</string>
@@ -355,6 +356,7 @@ ID:%s
     <string name="mibi_paytool_wechat_return_cancel">WeChat возврат отменен</string>
     <string name="mibi_permanently_denied_perm_camera">Разрешите доступ к камере в Настройках для использования этих функций.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Разрешите отправку SMS-сообщений в Настройках для использования этих функций.</string>
+    <string name="mibi_permission_des_camera">Для распознавания номеров карт пополнения счета мобильного телефона и т.д.</string>
     <string name="mibi_prepaid_card_hint">Все пополнения являются одноразовыми, выбранный номинал должен соответствовать карте пополнения. Неправильный выбор приведет к потере средств.</string>
     <string name="mibi_prepaid_card_hint_input_card_num">Введите номер карты</string>
     <string name="mibi_prepaid_card_hint_input_pwd">Введите пароль</string>
