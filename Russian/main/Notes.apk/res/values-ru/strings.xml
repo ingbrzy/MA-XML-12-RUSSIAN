@@ -27,11 +27,14 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="action_collapse">Свернуть</string>
+    <string name="action_expand">Развернуть</string>
     <string name="action_folder_description">Просмотреть папки</string>
     <string name="action_mode_cancel_folder_priority">По умолчанию</string>
     <string name="action_mode_switcher_folder_priority">Сначала папки</string>
     <string name="action_mode_switcher_grid_description">Плитка</string>
     <string name="action_mode_switcher_list_description">Список</string>
+    <string name="action_search_description">Поиск</string>
     <string name="action_settings_description">Настройки</string>
     <string name="action_to_link">Открыть URL</string>
     <string name="actionbar_button_up_description">Назад</string>
@@ -115,10 +118,12 @@
     <string name="dialog_button_confirm">ОК</string>
     <string name="dialog_button_confirm_delete">Удалить</string>
     <string name="dialog_button_continue_work">Продолжить</string>
+    <string name="dialog_button_i_know">Понятно</string>
     <string name="dialog_button_move">Переместить</string>
     <string name="dialog_privacy_revoke_tips">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение? Для обеспечения безопасности вашего аккаунта войдите на сайт i.mi.com до отзыва разрешения для Облачных сервисов.</string>
     <string name="dialog_share_as_pic">Отправить как изображение</string>
     <string name="dialog_share_as_text">Отправить как сообщение</string>
+    <string name="dialog_tip_title">Внимание</string>
     <string name="dlg_btn_set_password">Задать пароль</string>
     <string name="dlg_check_reminder">Больше не показывать</string>
     <string name="dlg_delete_message">Удаление…</string>
@@ -247,6 +252,8 @@
     <string name="gesture_guide_ok">ОК</string>
     <string name="gesture_guide_title">Жесты</string>
     <string name="hand_write_only_support_tablet_editing">Рукописные заметки можно редактировать только на планшетах</string>
+    <string name="hand_write_syncing">Синхронизация…</string>
+    <string name="hand_write_syncing_phone">Синхронизация…</string>
     <string name="handwrite_description">Рукописная заметка</string>
     <string name="hear_note">Голосовые заметки</string>
     <string name="hidden_notes_fragment_title">Приватные заметки</string>
@@ -269,6 +276,7 @@
     <string name="loading_text">Подождите…</string>
     <string name="login_sync">ОК</string>
     <string name="lunar_day">Лунный %1$s</string>
+    <string name="manage_folders">Управление папками</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_selection">Часы</string>
@@ -289,6 +297,7 @@
     <string name="menu_add_folder">Добавить в папку</string>
     <string name="menu_add_folder_description">Добавить папку</string>
     <string name="menu_add_handwrite_description">Добавить рукописную заметку</string>
+    <string name="menu_add_handwritten_note_description">Создать рукописную заметку</string>
     <string name="menu_create_folder">Новая папка</string>
     <string name="menu_delete">Удалить</string>
     <string name="menu_delete_forever">Удалить навсегда</string>
@@ -316,6 +325,8 @@
     <string name="merge_to_folder">Создать папку</string>
     <string name="midnight">Ночь</string>
     <string name="mind_note_first_enter_guide">Нажмите, чтобы создать ментальную карту</string>
+    <string name="mind_note_mind_map_view">Просмотр ментальной карты</string>
+    <string name="mind_note_outline_view">Обзор</string>
     <string name="miui_lite_open_mind_toast">Просмотр ментальных карт для этой модели не поддерживается</string>
     <string name="miui_penengine_button_cancel">Отмена</string>
     <string name="miui_penengine_button_confirm">ОК</string>
@@ -455,6 +466,7 @@
     <string name="note_gesture_guide_step3">Чтобы переместить заметку в папку, нажмите и удерживайте ее, затем перетащите на папку</string>
     <string name="note_header_first_enter_guide">Потяните вниз, чтобы посмотреть больше</string>
     <string name="note_invalid_mindnote_hint">Ментальные карты в этой версии недоступны. Обновите приложение.</string>
+    <string name="note_item_default_title">Текст отсутствует</string>
     <string name="note_link_email">Написать письмо</string>
     <string name="note_link_other">Открыть с помощью карт</string>
     <string name="note_link_select">Выделить текст</string>
@@ -518,7 +530,8 @@
     <string name="permission_phone_state_desc">Для остановки записи голосовых заметок во время вызовов</string>
     <string name="permission_read_contact_desc">Связывание заметок, созданных во время вызовов, с контактами</string>
     <string name="permission_storage_desc">Для сохранения заметок в виде изображений</string>
-    <string name="permission_storage_desc_v12">Добавление изображений в заметки и сохранение заметок в виде изображений</string>
+    <string name="permission_storage_desc_pad_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
+    <string name="permission_storage_desc_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI сохранит ваши голосовые записи и ID устройства для транскрибирования и создания голосовых заметок. Узнайте больше о Mi AI в &lt;a href=\"%1$s\"&gt;Политике конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
     <string name="pm">PM</string>
@@ -526,6 +539,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Используйте свайп двумя пальцами вверх для удаления заметок без подтверждения.</string>
     <string name="pref_desc_todo_float_mode">Проведите от края экрана, чтобы открыть панель инструментов задач</string>
     <string name="pref_excerpt_link_float">Предлагать создать выдержку каждый раз, когда копируется URL-адрес</string>
+    <string name="pref_permission_allowed">Предоставлено</string>
+    <string name="pref_permission_manage">Сведения о разрешениях</string>
+    <string name="pref_permission_manage_key_contact">Доступ к контактам</string>
+    <string name="pref_permission_manage_key_recording">Запись аудио</string>
+    <string name="pref_permission_manage_key_storage">Доступ к памяти</string>
+    <string name="pref_permission_not_allowed">Не предоставлено</string>
     <string name="pref_quick_note_desc">Используйте ярлык жестов для создания заметок и задач, а также сохранения скопированных URL-адресов, текста и изображений в Заметках.</string>
     <string name="pref_remind_type_summary">Воспроизведение звука напоминания в режиме \"Без звука\"</string>
     <string name="pref_remind_type_summary_new">Игнорировать режим \"Без звука\" и воспроизводить звук, пока будильник не будет отключен</string>
@@ -585,6 +604,7 @@
     <string name="rich_text_font_increase_description">Увеличить шрифт</string>
     <string name="rich_text_hightlight_description">Выделение</string>
     <string name="rich_text_italic_description">Курсив</string>
+    <string name="rich_text_left_description">По левому краю</string>
     <string name="rich_text_right_description">По правому краю</string>
     <string name="rich_text_size_description">Размер</string>
     <string name="rich_text_underline_description">Подчеркнутый</string>
@@ -864,6 +884,9 @@
     <string name="widget_havenot_content">Нажмите для создания заметки. Удерживайте для изменения размера.</string>
     <string name="widget_havenot_content_new">Нажмите для создания заметки. Удерживайте для изменения размера.</string>
     <string name="widget_note_list_page_title">Выбор заметки</string>
+    <string name="widget_size_item_big">Большой</string>
+    <string name="widget_size_item_medium">Средний</string>
+    <string name="widget_size_item_small">Маленький</string>
     <string name="widget_take_notes_title">Заметки</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
