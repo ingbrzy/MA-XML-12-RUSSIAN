@@ -640,6 +640,7 @@
     <string name="back_alioth">3:REDMI K40</string>
     <string name="back_alioth_global">3:POCO F3</string>
     <string name="back_aliothin">3:MI 11X</string>
+    <string name="back_amber">3:MI 11T</string>
     <string name="back_andromeda">2:MI MIX 3 5G:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_apollo">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_apollo_global">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
@@ -740,6 +741,7 @@
     <string name="back_limegl">4:REDMI 9 POWER</string>
     <string name="back_limegl_global">4:REDMI 9T</string>
     <string name="back_limein">4:SHOT ON MI PHONE</string>
+    <string name="back_lisa_global">3:XIAOMI 11 LITE 5G NE</string>
     <string name="back_lmi">4:REDMI K30 PRO:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_lmi_global">0:POCO:SHOT ON POCO F2 PRO:SHOT ON POCO F2 PRO</string>
     <string name="back_lmiin_india">4:REDMI K30 PRO 5G:AI QUAD CAMERA:64MP QUAD CAMERA</string>
@@ -749,6 +751,7 @@
     <string name="back_lmipro_pro">4:REDMI K30 PRO ZOOM:AI QUAD CAMERA</string>
     <string name="back_maltose">4:REDMI NOTE 10S</string>
     <string name="back_mars">3:MI 11 PRO</string>
+    <string name="back_marsgl">3:MI 11 PRO</string>
     <string name="back_merlin">4:SHOT ON REDMI 10X:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_merlin_global">4:REDMI NOTE 9:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_merlin_india">4:REDMI NOTE 9:AI QUAD CAMERA:48MP QUAD CAMERA</string>
@@ -767,6 +770,12 @@
     <string name="back_picasso_48m">4:REDMI K30i 5G:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_picasso_speed">4:REDMI K30 5G SPEED:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_picassoin">4:REDMI K30 5G:AI QUAD CAMERA:64MP QUAD CAMERA</string>
+    <string name="back_pissarro">3:REDMI NOTE 11 PRO</string>
+    <string name="back_pissarro_global">3:REDMI NOTE 11 PRO</string>
+    <string name="back_pissarroin_india">3:XIAOMI 11i</string>
+    <string name="back_pissarroinpro_india">3:XIAOMI 11i HYPERCHARGE</string>
+    <string name="back_pissarropro">3:REDMI NOTE 11 PRO+</string>
+    <string name="back_pissarropro_global">3:REDMI NOTE 11 PRO+ 5G</string>
     <string name="back_pomelo">4:MI PHONE</string>
     <string name="back_pyxis">3:SHOT ON MI CC 9:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_pyxis_global">3:SHOT ON MI 9 LITE:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
@@ -784,6 +793,7 @@
     <string name="back_shiva_india_reloaded">0:POCO:POCO M2 RELOADED</string>
     <string name="back_sirius">2:SHOT ON MI 8 SE:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_star_pro">3:MI 11 ULTRA</string>
+    <string name="back_stargl_pro">3:MI 11 ULTRA</string>
     <string name="back_sunny">4:REDMI NOTE 10</string>
     <string name="back_surya">4:REDMI NOTE 9S:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_sweet_pro_global">4:REDMI NOTE 10 PRO</string>
@@ -802,6 +812,7 @@
     <string name="back_vangogh">4:MI10 LITE ZOOM:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_vayu">4:POCO X3 PRO</string>
     <string name="back_venus">3:SHOT ON MI 11</string>
+    <string name="back_vili_global">3:XIAOMI 11T PRO</string>
     <string name="back_violet">2:REDMI NOTE 7 PRO:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_willow">4:REDMI NOTE 8T:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word={searchTerms}&amp;tn=ins</string>
@@ -940,6 +951,9 @@
     <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="camera_new_slow_motion_quality_default">5</string>
+    <string name="camera_newcta_permission_camera">android.permission-group.CAMERA</string>
+    <string name="camera_newcta_permission_microphone">android.permission-group.MICROPHONE</string>
+    <string name="camera_newcta_permission_storage">android.permission-group.STORAGE</string>
     <string name="camera_path">/DCIM/Camera</string>
     <string name="cannot_get_download_url">获取不到安全服务下载地址</string>
     <string name="car_ui_dialog_preference_negative">@android:string/cancel</string>
@@ -4497,6 +4511,7 @@
     <string name="vernal_equinox_tradition">春分</string>
     <string name="vertical_text_divider">|</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_hybrid_tip">hybrid</string>
     <string name="video_post_module_failed">@string/error_install_connect_fail</string>
     <string name="vo_debug_info_flow_agg_dialog" formatted="false">"imageMode
 %s
