@@ -91,6 +91,8 @@
     <string name="app_setting">Приложения</string>
     <string name="audio_permission_dialog_desc">Разрешение на запись аудио было отклонено, предоставьте его</string>
     <string name="audio_permission_dialog_title">Запись аудио</string>
+    <string name="audio_permission_subtitle">Для обнаружения храпа и разговора во сне</string>
+    <string name="audio_permission_title">Доступ к микрофону</string>
     <string name="audio_record_perm_description">Запись храпа и сна</string>
     <string name="audio_record_permission_description">Для записи разговора во сне и храпа</string>
     <string name="auth_description">Разрешить %1$s синхронизировать данные со следующих устройств</string>
@@ -171,6 +173,8 @@
     <string name="bmi_label">ИМТ</string>
     <string name="body_bmi_descripe_content">Индекс массы тела (ИМТ) определяется как масса тела в килограммах, деленная на квадрат роста в метрах. Знание ИМТ может помочь понять, влияет ли ваш вес на ваше здоровье.</string>
     <string name="body_composition">Состав тела</string>
+    <string name="body_sport_permission_subtitle">Для отслеживания шагов</string>
+    <string name="body_sport_permission_title">Доступ к данным о состоянии здоровья и активности</string>
     <string name="body_water">Процент воды</string>
     <string name="body_water_descripe_content">Процент воды в организме определяется как доля воды в общей массе тела. Мышечная ткань обычно содержит больше воды, чем другие части тела.</string>
     <string name="body_weight">Вес</string>
@@ -195,6 +199,8 @@
     <string name="buy">Купить</string>
     <string name="calories">калории</string>
     <string name="camera_permission_desc">Для установки фото профиля</string>
+    <string name="camera_permission_subtitle">Для детектирования изменений кровотока и определения частоты пульса, для установки фото профиля</string>
+    <string name="camera_permission_title">Доступ к камере</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_edit">Отмена</string>
     <string name="cancel_mark_end">Менструация еще не закончилась</string>
@@ -236,6 +242,8 @@
 %2$s | %3$s"</string>
     <string name="contact_format3">%1$s | %2$s | %3$s</string>
     <string name="contact_permission_desc">Для установки экстренных контактов</string>
+    <string name="contact_permission_subtitle">Для установки экстренных контактов</string>
+    <string name="contact_permission_title">Доступ к контактам</string>
     <string name="copy">Копировать</string>
     <string name="copy_done">Скопировано</string>
     <string name="copyright_statement">Авторское право © Xiaomi Inc. Все права защищены.</string>
@@ -521,6 +529,8 @@ ID:%s
     <string name="expand_all">Показать все</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
+    <string name="external_storage_permission_subtitle">Для установки фото профиля</string>
+    <string name="external_storage_permission_title">Доступ к памяти устройства</string>
     <string name="fall_sleep_hard">Проблема засыпания</string>
     <string name="falling_duration">Засыпание</string>
     <string name="falling_duration_hard_description">"Засыпание - период с момента отхода ко сну до полного засыпания. Если вам требуется более 30 минут, чтобы заснуть, это может быть признаком бессонницы.
@@ -769,11 +779,13 @@ ID:%s
     <string name="listening_duration">Наушники</string>
     <string name="load_failed">Ошибка загрузки, повторите попытку позже</string>
     <string name="loading">Подождите…</string>
-    <string name="location_perm_description">Для отслеживания тренировок на открытом воздухе и записи маршрутов</string>
-    <string name="location_permission_dialog_content">Разрешите Xiaomi Health доступ к местоположению в \"Xiaomi Health\" > \"Управление разрешениями\" для отслеживания тренировок на открытом воздухе.</string>
+    <string name="location_perm_description">Для записи тренировок на открытом воздухе и маршрутов</string>
+    <string name="location_permission_dialog_content">Разрешите Xiaomi Health доступ к местоположению в \"Xiaomi Health\" > \"Управление разрешениями\" для записи тренировок на открытом воздухе.</string>
     <string name="location_permission_dialog_negative">Не сейчас</string>
     <string name="location_permission_dialog_positive">Разрешить</string>
     <string name="location_permission_dialog_title">Доступ к местоположению</string>
+    <string name="location_permission_subtitle">Для записи тренировок на открытом воздухе и маршрутов</string>
+    <string name="location_permission_title">Доступ к местоположению</string>
     <string name="location_service_dialog_content">Включите службы определения местоположения в настройках, чтобы записывать тренировки на открытом воздухе.</string>
     <string name="location_service_dialog_negative">Не сейчас</string>
     <string name="location_service_dialog_positive">Включить</string>
@@ -1473,6 +1485,9 @@ ID:%s
     <string name="sport_btn_pause">Пауза</string>
     <string name="sport_btn_unlock">Разблокировать</string>
     <string name="sport_counter_begin">Начать</string>
+    <string name="sport_data_use_subtitle">Для отслеживания тренировок и прогресса, мы собираем и обрабатываем ваши данные, которые включают маршруты тренировок, данные о сне, частоту пульса и вес.</string>
+    <string name="sport_data_use_tip">Прочтите и примите &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Политику использования данных о состоянии здоровья и активности&lt;/a>&lt;/font>, чтобы понять, как мы собираем и обрабатываем ваши данные. Вы не сможете использовать этот сервис, если не дадите согласие на сбор и обработку данных.</string>
+    <string name="sport_data_use_title">Доступ к данным</string>
     <string name="sport_home_begin">Начать</string>
     <string name="sport_home_set_goal">Задать цель</string>
     <string name="sport_invalid_dialog_distance_content">Расстояние, которое вы преодолели во время этой тренировки, слишком мало для создания записи. Все равно завершить тренировку?</string>
@@ -1594,6 +1609,7 @@ ID:%s
     <string name="sync_status_never_done">Не синхронизировано</string>
     <string name="sync_status_oauth_error">Не удалось синхронизировать. Предоставьте сначала необходимые разрешения.</string>
     <string name="system_app_setting">Настройки</string>
+    <string name="system_permission">Сведения о разрешениях</string>
     <string name="systolic_pressure">Систолическое</string>
     <string name="tb_audio_progress_bar">Панель воспроизведения звука</string>
     <string name="tb_blood_pressure_day_chart">%1$s. Макс. систолическое давление: %2$d мм рт.ст. | Мин. систолическое давление: %3$d мм рт.ст.</string>

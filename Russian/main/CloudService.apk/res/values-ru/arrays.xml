@@ -113,7 +113,7 @@
     </string-array>
     <string-array name="priv_dialog_finddevice_runtime_perm_desc">
         <item>Для идентификации устройства</item>
-        <item>Для поиска устройства и переключения в режим потери</item>
+        <item>Для определения местоположения устройства и переключения в режим потери</item>
     </string-array>
     <string-array name="priv_dialog_sync_runtime_perm_desc">
         <item>Для синхронизации событий</item>
@@ -125,12 +125,12 @@
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Для идентификации устройства</item>
-        <item>Для поиска устройства и переключения в режим потери</item>
+        <item>Для определения местоположения устройства и переключения в режим потери</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
-        <item>Для поиска устройства и переключения в режим потери</item>
+        <item>Для определения местоположения устройства и переключения в режим потери</item>
         <item>Для определения местоположения устройства, когда оно не подключено к интернету</item>
-        <item>Для доступа к номеру телефона, чтобы определить местоположение устройства, когда оно не подключено к Интернету</item>
+        <item>Для доступа к номеру телефона, чтобы определить местоположение устройства, когда оно не подключено к интернету</item>
     </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Для синхронизации мероприятий</item>

@@ -251,6 +251,8 @@
     <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
     <string name="app_name">Настройка</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
+    <string name="arrears_sim_summary">Пополните баланс, чтобы быть на связи</string>
+    <string name="arrears_sim_title">Недостаточно средств</string>
     <string name="atr_disable">Информация о пробках отключена</string>
     <string name="atr_enable">Информация о пробках включена</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -1151,6 +1153,7 @@
     <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешенных номеров или определенными префиксами</string>
     <string name="fdn_with_label">Разрешенные номера (%s)</string>
     <string name="fire_type_description">Активность</string>
+    <string name="fiveg_available_status1">Доступность NR :</string>
     <string name="fiveg_bearer_status1">Статус носителя 5G :</string>
     <string name="fiveg_carrier_aggregation_title">Агрегация несущих 5G</string>
     <string name="fiveg_endc_available1">Доступность NR ENDC :</string>
@@ -1512,6 +1515,8 @@
     <string name="mi_mobile_sim_activate_message">Активируйте SIM %d, чтобы использовать Mi Mobile. Это может занять до 5 минут.</string>
     <string name="mi_mobile_sim_activate_ok">Активировать</string>
     <string name="mi_mobile_sim_activate_title">Добро пожаловать в Mi Mobile!</string>
+    <string name="mi_sim_not_active">SIM-карта не активирована</string>
+    <string name="mi_sim_not_active_tips">SIM-карта Mi Mobile установлена в качестве дополнительной, но не активирована. Отключите Mi Mobile для улучшения работы основной SIM-карты.</string>
     <string name="mi_sim_settings_summary">Использование мобильного интернета без SIM-карты</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="midnight">Ночь</string>

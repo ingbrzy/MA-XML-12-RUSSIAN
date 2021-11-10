@@ -43,7 +43,8 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_boss_terminal_name">Mi Блокнот</string>
     <string name="default_error_msg">Неизвестная ошибка</string>
-    <string name="display_max_screen_count_toast">В этой версии можно открыть не более 2 окон</string>
+    <string name="device_max_screen_count_toast">Устройство поддерживает открытие только двух окон одновременно</string>
+    <string name="display_max_screen_count_toast">В этой версии можно открыть не более двух окон</string>
     <string name="display_not_support_secondary_toast">Не удается открыть это приложение в новом окне</string>
     <string name="download_aborted">Передача не удалась из-за прерванного соединения</string>
     <string name="download_cancel">Отмена</string>
@@ -191,7 +192,7 @@
     <string name="privacy_describe_change_wifi_state">Для подключения устройств и передачи файлов по Wi-Fi</string>
     <string name="privacy_describe_location">Для поиска ПК поблизости и передачи файлов</string>
     <string name="privacy_describe_record_audio">Для перенаправления вывода звука на ПК</string>
-    <string name="privacy_describe_storage">Для отправки и получения файлов</string>
+    <string name="privacy_describe_storage">Для отправки и приема файлов</string>
     <string name="relay_msg_photo_text">Успешно сохранено в Галерее</string>
     <string name="relay_msg_photo_title">Новое изображение</string>
     <string name="relay_msg_screenshot_text">Успешно сохранено в Галерее</string>

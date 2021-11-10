@@ -108,6 +108,7 @@
     <string name="copy_info">Скопировано в буфер обмена. Можно делиться с друзьями!</string>
     <string name="creat_task_success">Добавлено в очередь загрузки.</string>
     <string name="create_task">Создать задачу</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для загрузки файлов и управления загрузками</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="delete">Удалить</string>
@@ -141,6 +142,9 @@ ID: %s
     <string name="dialog_media_not_found">Подключите внешний накопитель.</string>
     <string name="dialog_msg_disabled_net">Приложение %1$s ограничило загрузки для текущей сети. Нажмите \"Настройки сети\" для перехода в приложение \"Безопасность\".</string>
     <string name="dialog_msg_recommend">Вы не сможете просматривать рекомендуемые источники после отключения. Вы можете выбрать \"Загружать содержимое только по Wi-Fi\" для экономии мобильного трафика.</string>
+    <string name="dialog_privacy_update_button1">Отмена</string>
+    <string name="dialog_privacy_update_button2">Принимаю</string>
+    <string name="dialog_privacy_update_title">Обновленная политика конфиденциальности</string>
     <string name="dialog_queued_body">Файл добавлен в очередь и скоро будет загружен.</string>
     <string name="dialog_speed_cancel">Отмена</string>
     <string name="dialog_speed_msg">Использование мобильных данных для тестирования сети может потреблять большие объемы мобильных данных. Продолжить в любом случае?</string>
@@ -150,6 +154,10 @@ ID: %s
     <string name="dialog_title_not_available">Ошибка загрузки</string>
     <string name="dialog_title_queued_body">Файл еще не доступен</string>
     <string name="dialog_title_recommend">Отключить рекомендации?</string>
+    <string name="dialog_user_know_button1">Выход</string>
+    <string name="dialog_user_know_button2">Принимаю</string>
+    <string name="dialog_user_know_content"><Data>Вы не сможете продолжать использовать эту функцию, если не примите обновленную &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. Принимаете обновленную Политику конфиденциальности?"</Data></string>
+    <string name="dialog_user_know_title">Внимание</string>
     <string name="disable">Откл.</string>
     <string name="display_expire_netiv1">Этот месяц</string>
     <string name="do_not_support_url">Этот тип URL не поддерживается</string>
@@ -306,6 +314,8 @@ ID: %s
     <string name="mi_money_">Mi Credits</string>
     <string name="midnight">Ночь</string>
     <string name="missing_title">&lt;Без названия&gt;</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -320,6 +330,8 @@ ID: %s
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -422,10 +434,12 @@ ID: %s
     <string name="paused_waiting_to_retry">Ожидание повтора</string>
     <string name="percent_title">%1$s людей скачали</string>
     <string name="period_of_validity">Срок действия:</string>
+    <string name="permission">Разрешения</string>
     <string name="petabyteShort">" ПБ"</string>
     <string name="pref_download_revert_default">Использовать каталог по умолчанию</string>
     <string name="pref_download_settings_title">Максимальный размер файла</string>
     <string name="pref_download_storage_path">Каталог для сохранения</string>
+    <string name="pref_permission_description">Сведения о разрешениях</string>
     <string name="pref_sniff_shortcut">Создать ярлык на главном экране для веб-поиска</string>
     <string name="pref_summary_any_bytes_popup">Загружать файлы только при наличии подключения к Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">Предупреждать при загрузке файлов через мобильный интернет</string>
@@ -434,6 +448,7 @@ ID: %s
     <string name="pref_title_enable_max_bytes_popup">Предупреждать о лимите трафика</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preferences_title">Настройки</string>
+    <string name="privacy">Конфиденциальность</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_tip_cancel">Отмена</string>
     <string name="privacy_tip_content">Использовать ускоритель Xunlei для ускорения загрузки? URL-адрес узла загрузки будет загружен на серверы Xunlei. Ваши данные учетной записи Mi также будут загружены, чтобы проверить, есть ли у вас какие-либо активные подписки на эту услугу.</string>

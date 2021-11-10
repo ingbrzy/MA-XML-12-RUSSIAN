@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="allow">Разрешить</string>
+    <string name="allowed">Предоставлено</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Высота</string>
@@ -103,6 +104,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="get_location">Разрешить</string>
     <string name="gradienter_title">Уровень</string>
     <string name="guide_toast">Для калибровки вращайте телефон так, как показано ниже</string>
     <string name="keywords_search_compass">Компас;Калибровка компаса;Давление;Высота;Широта;Долгота;MIUI Компас;Приложение компас;Направление;Атмосферное давление;Какая высота</string>
@@ -119,6 +121,8 @@
     <string name="location_west">ДОЛГОТА (З)</string>
     <string name="longitude">ДОЛГОТА</string>
     <string name="midnight">Ночь</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -133,6 +137,7 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -184,16 +189,24 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
+    <string name="new_cta_v2_app_purpose">Отображение направления, координат, атмосферного давления и текущей высоты</string>
+    <string name="new_permission_camera_desc">Для калибровки</string>
+    <string name="new_permission_location_desc">Для отображения координат</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
+    <string name="not_allowed">Не предоставлено</string>
     <string name="not_set">Не задано</string>
+    <string name="open_camera">Разрешить</string>
     <string name="open_perm_msg">Приложению Компас требуется доступ к местоположению и камере. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
     <string name="open_perm_msg_no_camera">Приложению Компас требуется доступ к местоположению для определения координат. Разрешить?</string>
     <string name="open_perm_title">Требуются разрешения</string>
     <string name="permission_camera_desc">Использование в качестве уровня</string>
+    <string name="permission_description">Сведения о разрешениях</string>
     <string name="permission_location_desc">Отображение координат и атмосферного давления</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preference_other">Прочее</string>
+    <string name="preference_privacy_policy">Политика конфиденциальности</string>
+    <string name="preference_privacy_setting">Конфиденциальность</string>
     <string name="preference_privacy_title">Политика конфиденциальности</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Давление</string>
