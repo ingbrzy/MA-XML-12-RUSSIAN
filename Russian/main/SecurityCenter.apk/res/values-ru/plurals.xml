@@ -351,6 +351,14 @@
         <item quantity="other">Получите %d-дневную пробную версию</item>
         <item quantity="one">Получите %d-дневную пробную версию</item>
     </plurals>
+    <plurals name="gd_app_edit_desc">
+        <item quantity="other">Можно добавить до %d приложений. Перетаскивайте для сортировки.</item>
+        <item quantity="one">Можно добавить до %d приложения. Перетаскивайте для сортировки..</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Можно добавить до %d приложений. Нажмите и удерживайте для сортировки.</item>
+        <item quantity="one">Можно добавить до %d приложения. Нажмите и удерживайте для сортировки.</item>
+    </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Функция автоматически снижает яркость экрана после %d мин. бездействия для экономии заряда. Оставить функцию включенной?</item>
         <item quantity="one">Функция автоматически снижает яркость экрана после %d мин. бездействия для экономии заряда. Оставить функцию включенной?</item>

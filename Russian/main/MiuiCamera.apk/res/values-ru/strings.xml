@@ -323,7 +323,7 @@
     <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
     <string name="aiwatermark_location_absent_hint">Не удалось получить информацию о местоположении</string>
     <string name="aiwatermark_location_list_title">Местоположение</string>
-    <string name="aiwatermark_location_tips">Разрешите приложению Камера доступ к информации о местоположении для получения актуальных водяных знаков</string>
+    <string name="aiwatermark_location_tips">Разрешите приложению доступ к информации о местоположении для получения актуальных водяных знаков</string>
     <string name="altitude_text">Высота</string>
     <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">О длительной выдержке</string>
@@ -870,7 +870,7 @@
     <string name="location_access_allow">Разрешить</string>
     <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение на доступ к местоположению. Разблокируйте устройство.</string>
     <string name="location_permission_des">Добавлять информацию о местоположении в фото и видео</string>
-    <string name="location_permission_not_ask_again">Разрешите приложению  \"Камера\" доступ к местоположению в настройках.</string>
+    <string name="location_permission_not_ask_again">Разрешите приложению доступ к местоположению</string>
     <string name="location_permission_not_ask_again_go_to_settings">Разрешить</string>
     <string name="log_format">LOG</string>
     <string name="longitude_text">Долгота</string>
@@ -1271,7 +1271,7 @@
     <string name="pref_audio_focus_entry_rear">Задняя</string>
     <string name="pref_audio_focus_title">Аудио фокус</string>
     <string name="pref_auto_boot">Автозапуск</string>
-    <string name="pref_auto_boot_summary">Разрешите приложению \"Камера\" автозапуск для улучшения скорости работы. Разрешение можно изменить в настройках приложения.</string>
+    <string name="pref_auto_boot_summary">Разрешите приложению автозапуск для улучшения скорости работы</string>
     <string name="pref_burst_shoot_title">Серийная съемка</string>
     <string name="pref_camcorder_settings">Съемка видео</string>
     <string name="pref_camcorder_settings_category">Настройки</string>
@@ -2058,7 +2058,7 @@
     <string name="timefreeze_guide_tip6">Подвесьте объекты в воздухе.</string>
     <string name="timefreeze_guide_tip7">Или создайте свои трюки!</string>
     <string name="timefreeze_guide_title">Остановка времени</string>
-    <string name="timer_burst">Таймер серийной съемки</string>
+    <string name="timer_burst">Серийная съемка</string>
     <string name="timer_burst_manu_param_interval">Интервал без выдержки</string>
     <string name="timer_burst_param_interval">Интервал</string>
     <string name="timer_burst_param_total_count">Количество снимков</string>

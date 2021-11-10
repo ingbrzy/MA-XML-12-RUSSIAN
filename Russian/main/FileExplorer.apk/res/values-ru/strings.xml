@@ -39,6 +39,7 @@
     <string name="added_category">Добавленные</string>
     <string name="afternoon">После полудня</string>
     <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
+    <string name="agree">Принимаю</string>
     <string name="app_all_purpose">"Добро пожаловать в Проводник!
 Вы можете использовать это приложение для управления файлами на устройстве.
 "</string>
@@ -55,6 +56,7 @@
     <string name="app_name_miuimusic">Музыка</string>
     <string name="app_name_miuiringtone">Рингтоны</string>
     <string name="app_name_miuiwallpaper">Обои</string>
+    <string name="app_name_recorder">Диктофон</string>
     <string name="app_name_screenshot">Скриншоты</string>
     <string name="available_size">Доступно: %s</string>
     <string name="backup_cancel">Не создавать резервные копии</string>
@@ -240,6 +242,7 @@
     <string name="error_not_support">Не поддерживается</string>
     <string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
     <string name="evening">После полудня</string>
+    <string name="exit">Выход</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_next_description">Следующий трек</string>
     <string name="exo_controls_pause_description">Приостановить</string>
@@ -548,6 +551,7 @@
     <string name="ok">ОК</string>
     <string name="online_not_support">Не удается просмотреть файл онлайн</string>
     <string name="open">Открыть</string>
+    <string name="open_or_close_wlan">Включение и выключение Wi-Fi</string>
     <string name="open_private_folder">Отпустите для просмотра скрытых папок</string>
     <string name="operation_add_fav">Добавление в избранные…</string>
     <string name="operation_cancel">Отмена</string>
@@ -601,6 +605,7 @@
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_name_email">Email</string>
     <string name="permission_denial">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.</string>
+    <string name="permission_description">Сведения о разрешениях</string>
     <string name="permission_required">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.​</string>
     <string name="petabyteShort">" ПБ"</string>
     <string name="phone">Память</string>
@@ -621,8 +626,13 @@
     <string name="pick_folder">Выберите папку</string>
     <string name="pkgname_zsxq">Планета знаний</string>
     <string name="port_range">Номер порта должен быть между 1024 и 65535</string>
+    <string name="pref_permission_allowed">Предоставлено</string>
+    <string name="pref_permission_manage_key_storage">Доступ к фото и файлам на устройстве</string>
+    <string name="pref_permission_not_allowed">Не предоставлено</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_policy_renew">Обновленная политика конфиденциальности</string>
+    <string name="privacy_policy_renew_content"><Data>Обновлена &lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> приложения Проводник. Прежде чем продолжить, прочтите и примите обновленную политику конфиденциальности, чтобы полностью понять ваши права как пользователя, а также то, как мы используем ваши данные.</Data></string>
     <string name="private_files">Скрытые</string>
     <string name="private_folder">Приватная папка</string>
     <string name="private_folder_no_file_hints">Нет скрытых файлов</string>
@@ -856,6 +866,12 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="wifi_state">Сеть Wi-Fi</string>
+    <string name="withdraw">Отозвать</string>
+    <string name="withdraw_consent">Отзыв согласия</string>
+    <string name="withdraw_consent_content">"Если вы продолжите, согласие с политикой конфиденциальности приложения \"Проводник\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное.
+	
+Поскольку приложение \"Проводник\" предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласиябудет рассматриваться как отказ от использования этих сервисов."</string>
+    <string name="withdraw_consent_summary">Отзыв согласия с политикой конфиденциальности приложения \"Проводник\"</string>
     <string name="year_month_day_format">d MMM yyyy</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
