@@ -4701,7 +4701,7 @@
     <string name="location_agps_supl_server_addr">Сервер</string>
     <string name="location_agps_supl_server_port">Порт</string>
     <string name="location_agps_supl_settings">Настройки SUPL</string>
-    <string name="location_app_level_permissions">Управление доступом</string>
+    <string name="location_app_level_permissions">Разрешения приложений</string>
     <string name="location_app_permission_summary_location_off">Доступ к местоположению отключен</string>
     <string name="location_category">Местоположение</string>
     <string name="location_category_location_services">Службы местоположения</string>
@@ -4720,8 +4720,8 @@
     <string name="location_mode_screen_title">Определение местоположения</string>
     <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
     <string name="location_mode_sensors_only_title">По спутникам GPS</string>
-    <string name="location_modem_summary">Разрешить операторам связи определять местоположение устройства по базовым станциям</string>
-    <string name="location_modem_title">Доступ для операторов связи</string>
+    <string name="location_modem_summary">Разрешение операторам связи определять местоположение устройства по базовым станциям</string>
+    <string name="location_modem_title">Разрешение операторам связи</string>
     <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
     <string name="location_neighborhood_level_wifi">Местоположение определяется по сетям Wi-Fi</string>
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
@@ -4731,7 +4731,7 @@
     <string name="location_recent_location_access_view_details">Подробнее</string>
     <string name="location_recent_location_requests_see_all">Показать все</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Разрешить приложениям и сервисам искать устройства поблизости, даже когда Bluetooth отключен. Это может улучшить работу функций и сервисов, использующих данные о местоположении.</string>
-    <string name="location_scanning_bluetooth_always_scanning_title">Поиск Bluetooth-устройств</string>
+    <string name="location_scanning_bluetooth_always_scanning_title">Поиск устройств Bluetooth</string>
     <string name="location_scanning_screen_title">Поиск</string>
     <string name="location_scanning_wifi_always_scanning_description">Разрешить приложениям и сервисам искать сети Wi-Fi, даже когда Wi-Fi отключен. Это может улучшить работу функций и сервисов, использующих данные о местоположении.</string>
     <string name="location_scanning_wifi_always_scanning_title">Поиск сетей Wi-Fi</string>
@@ -7077,7 +7077,7 @@ UT-интерфейс: %5$s"</string>
     <string name="recent_conversations">Недавние диалоги</string>
     <string name="recent_convo_removed">Диалог удален</string>
     <string name="recent_convos_removed">Недавние диалоги удалены</string>
-    <string name="recent_location_requests_summary">Доступ приложений к местоположению</string>
+    <string name="recent_location_requests_summary">Управление разрешениями приложений</string>
     <string name="recent_location_requests_title">Доступ к местоположению</string>
     <string name="recent_notifications">Недавно отправленные</string>
     <string name="recent_notifications_see_all_title">За последние 7 дней</string>
@@ -7312,10 +7312,10 @@ UT-интерфейс: %5$s"</string>
     <string name="scan_list_label">Результаты сканирования:</string>
     <string name="scanning_status_text_off">Откл.</string>
     <string name="scanning_status_text_on">Вкл.</string>
-    <string name="scanning_status_text_wifi_off_ble_off">Сканирование Wi-Fi и Bluetooth отключено</string>
-    <string name="scanning_status_text_wifi_off_ble_on">Сканирование Bluetooth включено, сканирование Wi-Fi отключено</string>
-    <string name="scanning_status_text_wifi_on_ble_off">Сканирование Wi-Fi включено, сканирование Bluetooth отключено</string>
-    <string name="scanning_status_text_wifi_on_ble_on">Сканирование Wi-Fi и Bluetooth включено</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Поиск сетей Wi-Fi и устройств Bluetooth выключен</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Поиск устройств Bluetooth включен, поиск сетей Wi-Fi выключен</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Поиск сетей Wi-Fi включен, поиск устройств Bluetooth выключен</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Поиск сетей Wi-Fi и устройств Bluetooth включен</string>
     <string name="scheduled_style">Запланированные</string>
     <string name="screen">Экран</string>
     <string name="screen_cancel">Отмена</string>
@@ -7809,44 +7809,20 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Добавлены данные лица и отпечатки</string>
     <string name="security_settings_biometric_preference_summary_both_fp_single">Добавлены данные лица и отпечаток</string>
     <string name="security_settings_biometric_preference_summary_none_enrolled">Нажмите для настройки</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Face &amp; Fingerprint Unlock] -->
-    <string name="security_settings_biometric_preference_title">"Фейсконтроль и отпечаток пальца"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [When you set up face and fingerprint unlock, your phone will ask for your fingerprint when you wear a mask or are in a dark area] -->
-    <string name="security_settings_biometrics_description">"Если вы настроили фейсконтроль и функцию разблокировки по отпечатку пальца, то телефон будет предлагать использовать отпечаток пальца, когда вы в маске или вокруг вас темно."</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Authentication in apps] -->
-    <string name="security_settings_biometrics_preference_use_with_apps">"Аутентификация в приложениях"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Use face or fingerprint for] -->
-    <string name="security_settings_biometrics_preferences_category">"Использовать фейсконтроль или отпечаток пальца для"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Face and fingerprint] -->
-    <string name="security_settings_biometrics_summary_both">"Фейсконтроль и отпечаток пальца"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Face only] -->
-    <string name="security_settings_biometrics_summary_face">"Только фейсконтроль"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Fingerprint only] -->
-    <string name="security_settings_biometrics_summary_fingerprint">"Только отпечаток пальца"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Tap to set up] -->
-    <string name="security_settings_biometrics_summary_none">"Нажмите, чтобы настроить"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Face &amp; fingerprint unlock] -->
-    <string name="security_settings_biometrics_title">"Фейсконтроль и отпечаток пальца"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Ways to unlock] -->
-    <string name="security_settings_biometrics_types_category">"Способы разблокировки"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Allow face unlock] -->
-    <string name="security_settings_face_enroll_consent_introduction_title">"Разрешите фейсконтроль"</string>
+    <string name="security_settings_biometric_preference_title">Разблокировка по лицу и отпечатком</string>
+    <string name="security_settings_biometrics_description">Если вы настроили разблокировку по лицу и отпечатком, устройство будет предлагать использовать отпечаток, когда вы в маске или вокруг вас темно</string>
+    <string name="security_settings_biometrics_preference_use_with_apps">Аутентификация в приложениях</string>
+    <string name="security_settings_biometrics_preferences_category">Использовать разблокировку по лицу или отпечатком для</string>
+    <string name="security_settings_biometrics_summary_both">По лицу и отпечатком</string>
+    <string name="security_settings_biometrics_summary_face">Только по лицу</string>
+    <string name="security_settings_biometrics_summary_fingerprint">Только отпечатком</string>
+    <string name="security_settings_biometrics_summary_none">Нажмите для настройки</string>
+    <string name="security_settings_biometrics_title">Разблокировка по лицу и отпечатком</string>
+    <string name="security_settings_biometrics_types_category">Способы разблокировки</string>
+    <string name="security_settings_face_enroll_consent_introduction_title">Разрешите разблокировку по лицу</string>
     <string name="security_settings_face_enroll_dialog_ok">ОК</string>
     <string name="security_settings_face_enroll_done">Готово</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [If accessibility Face Unlock is turned off, some setup steps may not work properly with TalkBack.] -->
-    <string name="security_settings_face_enroll_education_accessibility_dialog_message">"Если упрощенная настройка фейсконтроля отключена, некоторые действия при работе с TalkBack могут выполняться некорректно."</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message">Если упрощенная настройка разблокировки по лицу отключена, некоторые действия при работе с TalkBack могут выполняться некорректно.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Назад</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Продолжить настройку</string>
     <string name="security_settings_face_enroll_education_message" />
@@ -7932,23 +7908,15 @@ UT-интерфейс: %5$s"</string>
 Устройство может быть разблокировано кем-то другим, если оно поднесено к вашему лицу, когда открыты глаза.
 
 Устройство может быть разблокировано кем-то похожим, вашим ребенком или близнецом."</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [When using Face Unlock] -->
-    <string name="security_settings_face_settings_preferences_category">"Если фейсконтроль включен"</string>
-    <string name="security_settings_face_settings_remove_dialog_details">Данные лица для разблокировки будут удалены. После удаления потребуется PIN-код, графический ключ или пароль для разблокировки, входа в приложения и подтверждения платежей.</string>
+    <string name="security_settings_face_settings_preferences_category">Если разблокировка по лицу включена</string>
+    <string name="security_settings_face_settings_remove_dialog_details">Данные лица будут удалены навсегда. После этого для разблокировки устройства и аутентификации в приложениях вам потребуется PIN-код, графический ключ или пароль.</string>
     <string name="security_settings_face_settings_remove_dialog_title">Удалить данные лица?</string>
     <string name="security_settings_face_settings_remove_face_data">Удалить</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Delete face model] -->
-    <string name="security_settings_face_settings_remove_face_model">"Удалить модель лица"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### ["Your face model will be permanently and securely deleted.
+    <string name="security_settings_face_settings_remove_face_model">Удалить данные лица</string>
+    <string name="security_settings_face_settings_remove_model_dialog_details">"Данные лица будут удалены навсегда.
 
-After deletion, you will need your fingerprint, PIN, pattern, or password to unlock your phone or for authentication in apps."] -->
-    <string name="security_settings_face_settings_remove_model_dialog_details">"Модель вашего лица будет удалена навсегда.\n\nПосле этого для разблокировки телефона и аутентификации в приложениях вам потребуется отпечаток пальца, PIN-код, графический ключ или пароль."</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Delete face model?] -->
-    <string name="security_settings_face_settings_remove_model_dialog_title">"Удалить модель лица?"</string>
+После этого для разблокировки устройства и аутентификации в приложениях вам потребуется отпечаток, PIN-код, графический ключ или пароль."</string>
+    <string name="security_settings_face_settings_remove_model_dialog_title">Удалить данные лица?</string>
     <string name="security_settings_face_settings_require_attention">Держите глаза открытыми</string>
     <string name="security_settings_face_settings_require_attention_details">Для разблокировки смотрите на экран открытыми глазами</string>
     <string name="security_settings_face_settings_require_category">Обязательные параметры</string>
@@ -8013,21 +7981,17 @@ After deletion, you will need your fingerprint, PIN, pattern, or password to unl
     <string name="security_settings_fingerprint_enroll_introduction_title">Сканер отпечатков</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Сканер отпечатков</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Поднимите палец и снова приложите его к сканеру</string>
-    <string name="security_settings_fingerprint_enroll_repeat_message">Немного перемещайте палец, чтобы получить полный отпечаток.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Немного перемещайте палец, чтобы получить полный отпечаток</string>
     <string name="security_settings_fingerprint_enroll_repeat_title">Нажмите ещё раз</string>
     <string name="security_settings_fingerprint_enroll_setup_screen_lock">Настроить блокировку экрана</string>
-    <string name="security_settings_fingerprint_enroll_start_message">Приложите палец к сканеру и удерживайте, пока не почувствуете вибрацию.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Приложите палец к сканеру отпечатков и удерживайте, пока не почувствуете вибрацию.</string>
     <string name="security_settings_fingerprint_enroll_start_title">Начало работы</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Он точно есть на устройстве. Найдите его!</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">Мимо! Это не сканер отпечатков…</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Touch &amp; hold the fingerprint sensor] -->
-    <string name="security_settings_fingerprint_enroll_udfps_title">"Нажмите на сканер отпечатка пальца и удерживайте"</string>
+    <string name="security_settings_fingerprint_enroll_udfps_title">Приложите палец к сканеру отпечатков и удерживайте</string>
     <string name="security_settings_fingerprint_preference_summary_none" />
     <string name="security_settings_fingerprint_preference_title">Отпечатки</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [This fingerprint has already been added] -->
-    <string name="security_settings_fingerprint_v2_enroll_acquire_already_enrolled">"Этот отпечаток уже добавлен."</string>
+    <string name="security_settings_fingerprint_v2_enroll_acquire_already_enrolled">Этот отпечаток уже добавлен</string>
 <!-- ### FROM TRANSLATION + [SOURCE] -->
 <!-- ### [Clean your screen near the sensor and try again] -->
     <string name="security_settings_fingerprint_v2_enroll_acquire_clean_sensor">"Очистите экран рядом со сканером и повторите попытку."</string>
@@ -8154,9 +8118,7 @@ After deletion, you will need your fingerprint, PIN, pattern, or password to unl
     <string name="select_webview_provider_title">Сервис WebView</string>
     <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
     <string name="send">Отправить</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [For all apps and services] -->
-    <string name="sensor_toggle_description">"Для всех приложений и сервисов"</string>
+    <string name="sensor_toggle_description">Для всех приложений и сервисов</string>
     <string name="sensors_off_quick_settings_title">Датчики отключены</string>
     <string name="service_background_processes">%1$s свободно</string>
     <string name="service_foreground_processes">%1$s занято</string>
@@ -8261,12 +8223,8 @@ After deletion, you will need your fingerprint, PIN, pattern, or password to unl
     <string name="show_carrier_under_keyguard_title">Оператор на экране блокировки</string>
     <string name="show_charging_in_non_lockscreen_animation">Анимация зарядки</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Отображать анимацию зарядки после разблокировки устройства и скрывать при воспроизведении видео или в полноэкранных сценах</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Show clipboard access] -->
-    <string name="show_clip_access_notification">"Уведомления о доступе к буферу обмена"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Show a message when apps access text, images, or other content you’ve copied] -->
-    <string name="show_clip_access_notification_summary">"Показывать уведомления, когда приложения обращаются к скопированному тексту, изображениям или другому контенту"</string>
+    <string name="show_clip_access_notification">Уведомления о доступе к буферу обмена</string>
+    <string name="show_clip_access_notification_summary">Уведомлять, когда приложения получают доступ к содержимому в буфере обмена</string>
     <string name="show_connected_devices_summary">Просмотр подключенных устройств</string>
     <string name="show_connected_devices_title">Подключенные устройства</string>
     <string name="show_dev_already">Не нужно, вы уже разработчик</string>
@@ -8322,48 +8280,20 @@ After deletion, you will need your fingerprint, PIN, pattern, or password to unl
     <string name="silent_time">Длительность режима \"Без звука\"</string>
     <string name="silent_total">Не беспокоить</string>
     <string name="sim_action_continue">Продолжить</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [This device can have 2 SIMs active at once. To continue using 1 SIM at a time, tap \"No thanks\".] -->
-    <string name="sim_action_enable_dsds_text">"На этом устройстве можно использовать сразу две SIM-карты. Если вам достаточно одной, нажмите \"Нет, спасибо\"."</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Use 2 SIMs?] -->
-    <string name="sim_action_enable_dsds_title">"Использовать две SIM-карты?"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [The carrier can’t be switched due to an error.] -->
-    <string name="sim_action_enable_sim_fail_text">"Не удалось сменить оператора."</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Can’t switch carrier] -->
-    <string name="sim_action_enable_sim_fail_title">"Произошла ошибка"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Turn on %1$s?] -->
-    <string name="sim_action_enable_sub_dialog_title">"Включить %1$s?"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Turn on SIM?] -->
-    <string name="sim_action_enable_sub_dialog_title_without_carrier_name">"Включить SIM-карту?"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Connecting to network…] -->
-    <string name="sim_action_enabling_sim_without_carrier_name">"Подключение к сети…"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [No thanks] -->
-    <string name="sim_action_no_thanks">"Нет, спасибо"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Restart] -->
-    <string name="sim_action_reboot">"Перезапустить"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [To get started, restart your device. Then you can add another SIM.] -->
-    <string name="sim_action_restart_text">"Чтобы начать, перезапустите устройство. После этого вы сможете добавить ещё одну SIM-карту."</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Restart device?] -->
-    <string name="sim_action_restart_title">"Перезапустить устройство?"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Switch to using SIM card?] -->
-    <string name="sim_action_switch_psim_dialog_title">"Переключиться на SIM-карту?"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Switch to %1$s] -->
-    <string name="sim_action_switch_sub_dialog_confirm">"Переключиться на %1$s"</string>
-<!-- ### FROM TRANSLATION + [SOURCE] -->
-<!-- ### [Switching to %1$s] -->
-    <string name="sim_action_switch_sub_dialog_progress">"Переключение на %1$s…"</string>
+    <string name="sim_action_enable_dsds_text">На этом устройстве можно использовать сразу две SIM-карты. Если вам достаточно одной, нажмите \"Нет, спасибо\".</string>
+    <string name="sim_action_enable_dsds_title">Использовать две SIM-карты?</string>
+    <string name="sim_action_enable_sim_fail_text">Не удалось сменить оператора</string>
+    <string name="sim_action_enable_sim_fail_title">Произошла ошибка</string>
+    <string name="sim_action_enable_sub_dialog_title">Включить %1$s?</string>
+    <string name="sim_action_enable_sub_dialog_title_without_carrier_name">Включить SIM-карту?</string>
+    <string name="sim_action_enabling_sim_without_carrier_name">Подключение к сети…</string>
+    <string name="sim_action_no_thanks">Нет, спасибо</string>
+    <string name="sim_action_reboot">Перезапустить</string>
+    <string name="sim_action_restart_text">Перезапустите устройство, чтобы добавить ещё одну SIM-карту</string>
+    <string name="sim_action_restart_title">Перезапустить устройство?</string>
+    <string name="sim_action_switch_psim_dialog_title">Переключиться на SIM-карту?</string>
+    <string name="sim_action_switch_sub_dialog_confirm">Переключиться на %1$s</string>
+    <string name="sim_action_switch_sub_dialog_progress">Переключение на %1$s…</string>
 <!-- ### FROM TRANSLATION + [SOURCE] -->
 <!-- ### ["Only one SIM can be active at a time.
 
