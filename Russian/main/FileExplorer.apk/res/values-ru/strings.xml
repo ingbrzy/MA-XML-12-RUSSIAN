@@ -522,7 +522,9 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="name_empty">Введите имя</string>
-    <string name="need_read_storage_permission">Проводнику для нормальной работы необходимо разрешение на доступ к хранилищу устройства.</string>
+    <string name="need_open_content">Для использования этой функции, Проводнику требуется разрешение на доступ к фото и файлам</string>
+    <string name="need_open_permission">Требуются разрешения</string>
+    <string name="need_read_storage_permission">Проводнику для нормальной работы требуется разрешение на доступ к памяти устройства</string>
     <string name="network_not_available">Ошибка подключения к сети</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="next">Далее</string>
@@ -533,6 +535,7 @@
     <string name="no_enough_storage_indication">Память устройства заполнена</string>
     <string name="no_enough_storage_title">Недостаточно места</string>
     <string name="no_file">Ничего нет</string>
+    <string name="no_permission">Предоставьте необходимые разрешения для доступа к этой функции</string>
     <string name="no_recent_files">Ничего нет</string>
     <string name="no_wifi">Сеть не обнаружена</string>
     <string name="no_wifi_hint">Нет соединения</string>
@@ -828,6 +831,8 @@
     <string name="title_expire_video">Срок истекает</string>
     <string name="title_recent">Недавние</string>
     <string name="title_select_volume">Выберите папку</string>
+    <string name="to_open">Настройки</string>
+    <string name="to_setting">Настройки</string>
     <string name="toast_file_not_can_read">Нет приложения для открытия этого файла</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
@@ -870,7 +875,7 @@
     <string name="withdraw_consent">Отзыв согласия</string>
     <string name="withdraw_consent_content">"Если вы продолжите, согласие с политикой конфиденциальности приложения \"Проводник\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное.
 	
-Поскольку приложение \"Проводник\" предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласиябудет рассматриваться как отказ от использования этих сервисов."</string>
+Поскольку приложение \"Проводник\" предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласия будет рассматриваться как отказ от использования этих сервисов."</string>
     <string name="withdraw_consent_summary">Отзыв согласия с политикой конфиденциальности приложения \"Проводник\"</string>
     <string name="year_month_day_format">d MMM yyyy</string>
     <string name="yes">Да</string>

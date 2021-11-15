@@ -114,6 +114,11 @@
         <item quantity="one">Убрать %d трек?</item>
         <item quantity="few">Убрать %d трека?</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d выбранных треков находятся во внешней папке. Предоставьте необходимые разрешения для их удаления.</item>
+        <item quantity="one">%d выбранный трек находится во внешней папке. Предоставьте необходимые разрешения для их удаления.</item>
+        <item quantity="few">%d выбранных трека находятся во внешней папке. Предоставьте необходимые разрешения для их удаления.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">Загружено &lt;font color==\"red\"&gt;%d треков&lt;/font&gt;</item>
         <item quantity="one">Загружен &lt;font color==\"red\"&gt;%d трек&lt;/font&gt;</item>
