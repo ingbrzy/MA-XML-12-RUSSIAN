@@ -35,6 +35,8 @@
     <string name="ai_mode_auto">Авто</string>
     <string name="ai_mode_manual">Вручную</string>
     <string name="ai_mode_subtitles">Субтитры</string>
+    <string name="antifraud_center">Платформа предупреждения о мошенничестве</string>
+    <string name="antifraud_center_incoming_prompt">Не пропустите ни одного вызова при использовании официальной платформы предупреждения о мошенничестве</string>
     <string name="antispam_local_marked">Отмечено локально</string>
     <string name="antispam_notification_title">Неизвестный номер</string>
     <string name="antispam_provider">Определено %s</string>
@@ -68,6 +70,17 @@
     <string name="call_contacts_deny_permission_msg">Отсутствует разрешение на чтение контактов, просмотр информации недоступен</string>
     <string name="call_description_recording">Запись…</string>
     <string name="call_not_support_high_frequency_click">Не нажимайте эту кнопку так часто</string>
+    <string name="call_progress_info_call_forwarding">Вызов переадресован на другой номер</string>
+    <string name="call_progress_info_call_rejected">вызов отклонен</string>
+    <string name="call_progress_info_call_waiting">Абонент занят, пожалуйста, подождите</string>
+    <string name="call_progress_info_no_answer_from_user">нет ответа</string>
+    <string name="call_progress_info_no_user_responding">абонент не отвечает</string>
+    <string name="call_progress_info_nonuser_call_rejected">nonusr - вызов отклонен</string>
+    <string name="call_progress_info_remote_available">Абонент оповещен</string>
+    <string name="call_progress_info_subscriber_absent">Абонент недоступен</string>
+    <string name="call_progress_info_unallocated_number">Номер не существует</string>
+    <string name="call_progress_info_user_busy">абонент занят</string>
+    <string name="call_progress_info_user_call_rejected">usr - вызов отклонен</string>
     <string name="call_record_wait_label">Ожидание</string>
     <string name="call_recording_deny_permission_msg">Отсутствует разрешение, запись недоступна</string>
     <string name="call_recording_error_low_storage">Недостаточно места на накопителе.</string>
@@ -95,6 +108,7 @@
     <string name="card_title_hanging_up_weak_signal">Слабый сигнал сети. Завершение вызова…</string>
     <string name="card_title_in_call">Входящий вызов</string>
     <string name="card_title_in_call_short">Вызов</string>
+    <string name="card_title_in_crbt">Ожидание ответа</string>
     <string name="card_title_in_video">Видео</string>
     <string name="card_title_incoming_conference_call">Входящий конференц-вызов</string>
     <string name="card_title_on_hold">"Ждет ответа "</string>
@@ -211,6 +225,7 @@
     <string name="incoming_circle_text_reject_p">Потяните вверх</string>
     <string name="incoming_circle_text_video_answer">Отпустите</string>
     <string name="incoming_circle_text_video_answer_p">Потяните вверх</string>
+    <string name="incoming_video_crs_call">Видео CRS прием вызова от</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="manager_conference_done">Готово</string>
     <string name="midnight">Ночь</string>
@@ -230,6 +245,7 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
@@ -369,6 +385,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="speakerphone_tip">Сложите устройство, чтобы использовать наушник или динамик</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
