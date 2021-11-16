@@ -40,6 +40,7 @@
     <string name="afternoon">PM</string>
     <string name="antispam">Список блокировок</string>
     <string name="app_name">Mi Mover</string>
+    <string name="app_update_title">Обновление приложений</string>
     <string name="appname_app_data_suffix">Данные приложения %1$s</string>
     <string name="audio">Аудио</string>
     <string name="audio_video_document">Аудио, видео и документы</string>
@@ -83,6 +84,7 @@
     <string name="cancel_description">Отмена</string>
     <string name="cancel_moving_dialog_message">Прекратить импорт сейчас?</string>
     <string name="cancel_moving_dialog_title">Прекратить импорт</string>
+    <string name="cancel_tranfer">Отмена</string>
     <string name="cannot_use_mi_huanji_button">Понятно</string>
     <string name="cannot_use_mi_huanji_summary">Похоже, MIUI сейчас выполняет резервное копирование. Остановите текущее резервное копирование или перезагрузите устройство, чтобы Mi Mover мог начать передачу.</string>
     <string name="cannot_use_mi_huanji_title">Не могу перенести сейчас</string>
@@ -179,6 +181,7 @@
     <string name="err_bakfile_broken">Невозможно использовать эту резервную копию</string>
     <string name="err_bakfile_not_exist">Файл резервной копии не существует.</string>
     <string name="err_binder_died">Приложение неожиданно остановилось.</string>
+    <string name="err_install_incompatible">Проблема совместимости</string>
     <string name="err_low_storage">Недостаточно места для хранения</string>
     <string name="err_no_gms">Несовместимая версия приложения. Установите это приложение отдельно.</string>
     <string name="err_not_allow">Не поддерживается</string>
@@ -235,6 +238,7 @@
     <string name="guest_unfinished_task_alert_message">Похоже, у вас есть незавершенные задания. Продолжить передачу?</string>
     <string name="guest_unfinished_task_alert_title">Незавершенные задания</string>
     <string name="hide_password_description">Скрыть пароль</string>
+    <string name="high_temp_summary">Во время передачи большого объема данных устройство может нагреваться, это нормальное явление</string>
     <string name="host_boot_installation_bottom_tips">Не можете найти Mi Mover? Нажмите, чтобы загрузить.</string>
     <string name="host_boot_installation_button">Далее</string>
     <string name="host_boot_installation_content">"1. Зайдите в настройки на вашем старом устройстве.
@@ -338,17 +342,21 @@
     <string name="manual_connection_content1">1. Нажмите \"Подключиться вручную\" на старом устройстве.</string>
     <string name="manual_connection_content2">2. Выберите указанную точку доступа Wi-Fi.</string>
     <string name="manual_connection_content3">3. Введите этот пароль на старом устройстве для подключения.</string>
+    <string name="manual_connection_hint">Нажмите \"Подключиться вручную\" на старом устройстве.</string>
     <string name="manual_connection_summary2">Если вы не можете найти эту точку доступа, обновите список доступных сетей Wi-Fi и повторите попытку.</string>
     <string name="manual_connection_title">Подключение вручную</string>
+    <string name="message_request_manage_external_storage_perm">Mi Mover требуется доступ ко всем файлам на устройстве, чтобы перенести их со старого устройства на новое.</string>
     <string name="message_request_package_stats_perm">Нажмите \"Продолжить\", чтобы открыть настройки и дать Mi Mover необходимые разрешения.</string>
     <string name="midnight">Ночь</string>
-    <string name="miui_need_location_permission_summary">Разрешите Mi Mover получить доступ к вашему местоположению, чтобы найти устройства поблизости. Вы не сможете использовать Mi Mover, если не предоставите это разрешение.</string>
-    <string name="miui_need_location_permission_title">Разрешить доступ к местоположению</string>
-    <string name="miui_need_open_high_accuracy_summary">Разрешите Mi Mover получить доступ к вашему местоположению в режиме высокой точности, чтобы найти устройства поблизости. Вы не сможете использовать Mi Mover, если не предоставите это разрешение.</string>
-    <string name="miui_need_open_high_accuracy_title">Разрешить доступ к точной информации о местоположении</string>
+    <string name="miui_need_location_permission_summary">Разрешите Mi Mover доступ к местоположению для поиска устройств поблизости. Вы не сможете использовать Mi Mover, если не предоставите это разрешение.</string>
+    <string name="miui_need_location_permission_title">Доступ к местоположению</string>
+    <string name="miui_need_open_high_accuracy_summary">Разрешите Mi Mover доступ к местоположению с повышенной точностью для поиска устройств поблизости. Вы не сможете использовать Mi Mover, если не предоставите это разрешение.</string>
+    <string name="miui_need_open_high_accuracy_title">Доступ к местоположению с повышенной точностью</string>
     <string name="miui_wait_link_message_1">Кнопка \"Я отправитель\" находится на начальной странице Mi Mover.</string>
     <string name="miui_wait_link_title_1">%d. Нажмите \"Я отправитель\" и немного подождите.</string>
     <string name="miui_wait_link_title_2">%d. Выберите эту точку доступа на вашем старом устройстве для подключения.</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -363,6 +371,8 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -514,6 +524,7 @@
     <string name="password">Введите пароль</string>
     <string name="password_null">Пароль не может быть пустым</string>
     <string name="perm_location">Местоположение</string>
+    <string name="perm_manage_external_storage">Доступ ко всем файлам</string>
     <string name="perm_package_stats">Доступ к статистике использования приложений</string>
     <string name="perm_payment_dspt">Разрешить приложению оплачивать через Mi Pay Service</string>
     <string name="perm_read_call_log">Доступ к журналу вызовов</string>
@@ -563,6 +574,7 @@
     <string name="qq_app_send_fail">Не удалось отправить QQ</string>
     <string name="qq_data_external">QQ данные SD-карты</string>
     <string name="quit_now">Выход</string>
+    <string name="receiver">Передать</string>
     <string name="receiver_finish_detail_button">Подробности</string>
     <string name="receiver_finish_detail_fail">Не удалось передать</string>
     <string name="receiver_finish_detail_success">Переданные данные</string>
@@ -579,6 +591,10 @@
     <string name="restore_data_to_device_content">"Ваши данные были синхронизированы с Xiaomi Cloud.
 Войдите в ваш Mi Аккаунт, чтобы восстановить их."</string>
     <string name="restore_data_to_device_title">Восстановление данных на этом устройстве</string>
+    <string name="revoke">Отозвать</string>
+    <string name="revoke_agree">Отзыв согласия</string>
+    <string name="revoke_confirm_dialog_statement">"Если вы продолжите, согласие с политикой конфиденциальности приложения Mi Mover будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Mi Mover предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов Mi Mover."</string>
+    <string name="revoke_confirm_dialog_yes">ОК</string>
     <string name="sar">Информация о воздействии RF</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -633,6 +649,7 @@
     <string name="send_sms_for_sync_title">Предупреждение</string>
     <string name="send_verification_code_fail">Не удалось отправить код подтверждения</string>
     <string name="send_verification_code_fail_tips">Убедитесь, что вы вошли в эту учетную запись на своем устройстве Apple. В противном случае вы не сможете получить код.</string>
+    <string name="sender">Отправить</string>
     <string name="sender_finish_bottom_tips">Перед удалением данных на этом устройстве убедитесь, что вы создали резервные копии всех важных данных.</string>
     <string name="sender_finish_title">Успешно передано</string>
     <string name="settings_phone">Настройки телефона</string>
@@ -746,6 +763,7 @@
     <string name="time_spent">Время: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
     <string name="title_open_wlan">Включите Wi-Fi</string>
     <string name="title_request_alert_window_perm">Разрешить плавающие окна</string>
+    <string name="title_request_manage_external_storage_perm">Требуются разрешения</string>
     <string name="title_request_package_stats_perm">Требуются разрешения</string>
     <string name="title_request_write_settings_perm">Требуется разрешение на изменение настроек системы</string>
     <string name="today">Сегодня</string>
@@ -765,7 +783,10 @@
     <string name="trans_receive_time_remained">Получено: %1$s | Осталось: %2$s</string>
     <string name="trans_send_time_remained">Отправлено: %1$s | Осталось: %2$s</string>
     <string name="trans_show_qr_code_label">Подключиться к старому устройству</string>
+    <string name="trans_show_qr_code_label_for_pad">Откройте Mi Mover на старом устройстве</string>
     <string name="trans_sync_transfer_data_list">Выберите данные для передачи на старое устройство</string>
+    <string name="trans_sync_transfer_data_list_hint">Подождите…</string>
+    <string name="trans_sync_transfer_data_list_summary_for_pad">Выберите файлы на старом устройстве и нажмите \"Отправить\".</string>
     <string name="trans_time_format_second">Менее 1 минуты</string>
     <string name="trans_time_spent">Время: %s</string>
     <string name="transfer_bottom_tip">Вы не сможете использовать Wi-Fi или Bluetooth во время передачи. Не покидайте эту страницу.</string>
