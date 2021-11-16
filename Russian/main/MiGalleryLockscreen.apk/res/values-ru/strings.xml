@@ -32,6 +32,7 @@
     <string name="about_item_function">Новые возможности</string>
     <string name="about_net_error">Проверьте настройки сети и повторите попытку.</string>
     <string name="about_newest">Карусель обоев устарела.</string>
+    <string name="about_permission">Разрешения</string>
     <string name="about_update">Обновление</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
@@ -94,6 +95,7 @@
     <string name="add_wallpaper">Добавить обои</string>
     <string name="addcw_apply_btn_txt">Добавить обои</string>
     <string name="afternoon">После полудня</string>
+    <string name="allowed">Предоставлено</string>
     <string name="and"> и </string>
     <string name="app_name">Карусель обоев</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Игнорировать эту версию</string>
@@ -113,11 +115,16 @@
     <string name="back_icon_content_description">Назад</string>
     <string name="bind_sign_in_title">Привязать к Mi Аккаунт</string>
     <string name="cancel">Отмена</string>
+    <string name="cancel_button">Да</string>
     <string name="cancel_international">Отмена</string>
     <string name="cancel_lockscreen">Отмена</string>
+    <string name="cancel_mfashiongallery_service">Отказ от использования приложения Карусель обоев</string>
     <string name="cancel_network">Выход</string>
+    <string name="cancel_service">Отказ от использования</string>
+    <string name="cancel_service_running">Отказ от использования…</string>
+    <string name="cancel_service_summary">Если вы продолжите, это будет означать отказ от использования приложения Карусель обоев. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока, в соответствии с действующими законами и правилами, если не требуется иное. Продолжить?</string>
     <string name="carousel_declaration_btn_text">Включить Карусель обоев</string>
-    <string name="carousel_declaration_cta">"Приложению Карусель обоев для нормальной работы требуется интернет. Чтобы получить доступ к онлайн контенту, вы должны принять нашу &lt;a href='%s'&gt;Политику конфиденциальности&lt;/a&gt;. Принять?"</string>
+    <string name="carousel_declaration_cta">"Приложению Карусель обоев для нормальной работы требуется интернет. Чтобы получить доступ к онлайн контенту, вы должны принять нашу &lt;a href=\"%s\"&gt;Политику конфиденциальности&lt;/a&gt;. Принять?"</string>
     <string name="carousel_declaration_cta_btn_text">Принять и включить</string>
     <string name="carousel_declaration_des">Получайте красивые изображения и захватывающие пейзажи в Карусели обоев</string>
     <string name="carousel_declaration_des2">Добавляйте свои изображения в Карусель обоев</string>
@@ -152,6 +159,7 @@
     <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
     <string name="confirm_new_pwd">Подтвердите новый пароль</string>
     <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с Mi Аккаунтом %2$s. Если вы продолжите, он больше не будет связан с Mi Аккаунтом %3$s. Продолжить?</string>
+    <string name="copy">Копировать</string>
     <string name="create_shortcut">Создать ярлык на рабочем столе</string>
     <string name="create_shortcut_btn">Создать</string>
     <string name="create_shortcut_title">Ярлык на рабочем столе</string>
@@ -258,8 +266,11 @@ ID:%s
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
     <string name="evening">После полудня</string>
     <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi Аккаунтом.</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="explorer_activity_title">Карусель обоев</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
+    <string name="external_storage_permission">Память</string>
+    <string name="external_storage_permission_summary">Для выбора обоев и сохранения загруженных изображений</string>
     <string name="facebook_application_id"/>
     <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Mi Аккаунтом</string>
     <string name="favor_list_no_data">Ничего нет</string>
@@ -294,6 +305,7 @@ ID:%s
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 аккаунтов. Невозможно добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
     <string name="google_application_id"/>
+    <string name="goto_confirm">Настройки</string>
     <string name="goto_sign_up">Создать аккаунт</string>
     <string name="history_list_no_data">Ничего нет</string>
     <string name="hour_1">Каждый час</string>
@@ -367,7 +379,12 @@ ID:%s
     <string name="lockscreen_magazine_summary">Выберите категорию</string>
     <string name="lockscreen_magazine_system_title">По умолчанию</string>
     <string name="lockscreen_magazine_title">Карусель обоев</string>
+    <string name="logout">Выход</string>
     <string name="logout_account">Выйти из аккаунта</string>
+    <string name="logout_cancel">Отмена</string>
+    <string name="logout_confirm">ОК</string>
+    <string name="logout_summary">После выхода из аккаунта, вы не сможете синхронизировать свои подписки и индивидуальные настройки на связанных с аккаунтом устройствах. Выйти?</string>
+    <string name="logout_title">Выйти из аккаунта?</string>
     <string name="look_str">Популярные</string>
     <string name="main_fragment_title_discover">Тематические</string>
     <string name="main_fragment_title_home">Рекомендуемые</string>
@@ -509,6 +526,10 @@ mm"</string>
     <string name="no_phone">Нет номера телефона</string>
     <string name="no_pic_data">Не удалось найти изображения</string>
     <string name="noon">Полдень</string>
+    <string name="not_allowed">Не предоставлено</string>
+    <string name="not_cancel_button">Нет</string>
+    <string name="not_revoke_button">Отмена</string>
+    <string name="not_set">Не задано</string>
     <string name="ok">ОК</string>
     <string name="ok_enable_network_prov">Принять</string>
     <string name="ok_enable_network_prov2">Принять</string>
@@ -621,8 +642,10 @@ mm"</string>
     <string name="passport_wrong_voice">Код введен неверно</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="permission_account_tip">Доступ к информации учетной записи</string>
+    <string name="permission_manager">Сведения о разрешениях</string>
     <string name="permission_storage_read_tip">Доступ к фотографиям на устройстве</string>
     <string name="permission_storage_tip">Сохранение файлов на устройстве</string>
+    <string name="personalized">Персонализация</string>
     <string name="phone_bind_too_many">Этот телефон был связан с несколькими учетными записями Mi Аккаунт за короткий период времени. Попробуйте использовать другой номер телефона.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
@@ -633,8 +656,16 @@ mm"</string>
     <string name="platform_unavailable_wechat">Установите WeChat</string>
     <string name="platform_unavailable_wechatmoment">Установите WeChat</string>
     <string name="platform_unavailable_weibo">Установите Weibo</string>
+    <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_setting">Настройки конфиденциальности</string>
-    <string name="prv_end">Больше ничего нет.</string>
+    <string name="privacy_update_cancel">Отмена</string>
+    <string name="privacy_update_confirm">Принимаю</string>
+    <string name="privacy_update_quit">Выход</string>
+    <string name="privacy_update_summary1">Политика конфиденциальности Карусели обоев обновлена:</string>
+    <string name="privacy_update_summary2">Прежде чем продолжить, прочтите и примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a>."</string>
+    <string name="privacy_update_summary3">"Вы не сможете продолжать использовать Карусель обоев, если не примете обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?"</string>
+    <string name="prv_end">Больше ничего нет</string>
     <string name="prv_loading">Подождите…</string>
     <string name="prv_nodata">Нет данных</string>
     <string name="psw_hint">Пароль</string>
@@ -654,6 +685,8 @@ mm"</string>
     <string name="refresh_network">Обновить</string>
     <string name="remove">Удалить</string>
     <string name="req_permission_dis_tip">Требуются разрешения</string>
+    <string name="require_permission">Требуются разрешения</string>
+    <string name="require_permission_text">Разрешите Карусели обоев доступ к памяти устройства для сохранения и просмотра файлов</string>
     <string name="resend_active_email">Отправить снова</string>
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
     <string name="resend_email_reach_limit_title">Слишком много попыток</string>
@@ -663,6 +696,16 @@ mm"</string>
     <string name="restart_action">Начать сначала</string>
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
     <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
+    <string name="revoke_button">Отозвать</string>
+    <string name="revoke_failed1">Ошибка</string>
+    <string name="revoke_failed2">Ошибка</string>
+    <string name="revoke_failed_internet">Ошибка сети. Попробуйте позже.</string>
+    <string name="revoke_failed_internet_confirm">Понятно</string>
+    <string name="revoke_failed_service">Ошибка сервера. Попробуйте позже.</string>
+    <string name="revoke_failed_service_confirm">Понятно</string>
+    <string name="revoke_privacy">Отзыв согласия</string>
+    <string name="revoke_privacy_running">Отзыв согласия…</string>
+    <string name="revoke_privacy_summary">Если вы продолжите, согласие с политикой конфиденциальности приложения \"Карусель обоев\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока, в соответствии с действующими законами и правилами, если не требуется иное. Поскольку \"Карусель обоев\" предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов \"Карусель обоев\". Отозвать согласие?</string>
     <string name="rv_with_footer_empty">Пока ничего нет.</string>
     <string name="rv_with_footer_loading">Подождите…</string>
     <string name="rv_with_footer_pull_load_more">Потяните вниз, чтобы увидеть больше</string>
@@ -833,8 +876,11 @@ mm"</string>
     <string name="subscribe_success_content_per_three_hour">Обновлять каждые 3 часа</string>
     <string name="subscribe_success_content_per_unlock">Обновлять при разблокировке</string>
     <string name="subscribe_update_time_setting">Установить другой интервал</string>
-    <string name="summary">"Для просмотра онлайн контента необходимо принять нашу &lt;a href='%s'&gt;Политику конфиденциальности&lt;/a&gt; В случае отказа будут доступны только локальные обои."</string>
-    <string name="summary2">"Используя это приложение, вы принимаете наши &lt;font color='#37A5FF'&gt;&lt;a href =\"%1$s\"&gt;Пользовательское соглашение&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/font&gt;&lt;/a&gt;. Приложению для нормальной работы необходимо подключение к интернету.​"</string>
+    <string name="summary">"Для просмотра онлайн контента необходимо принять нашу &lt;a href=\"%s\"&gt;Политику конфиденциальности&lt;/a&gt; В случае отказа будут доступны только локальные обои."</string>
+    <string name="summary2">"Используя это приложение, вы принимаете наши &lt;font color='#37A5FF'&gt;&lt;a href =\"%1$s\"&gt;Пользовательское соглашение&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/font&gt;&lt;/a&gt;. Приложению для нормальной работы требуется подключение к интернету.​"</string>
+    <string name="summary3">"Добро пожаловать в Карусель обоев! Здесь вы можете подписаться на любимые категории обоев и регулярно получать новые изображения на экран блокировки. Для нормальной работы приложению требуется подключение к интернету и разрешение на сбор необходимых личных данных.&lt;br>Для предоставления дополнительных сервисов мы можем запросить разрешение на доступ к памяти устройства и сохранение файлов.&lt;br>Чтобы полностью понять ваши права как пользователя, а также то, как мы используем ваши данные, прочтите и примите наши &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/font>&lt;/a> и &lt;font color ='#37A5FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a>."</string>
+    <string name="summary4">"Добро пожаловать в Карусель обоев! Здесь вы можете подписаться на любимые категории обоев и регулярно получать новые изображения на экран блокировки. "</string>
+    <string name="summary5">"Для предоставления дополнительных сервисов мы можем запросить разрешение на доступ к памяти устройства и сохранение файлов. "</string>
     <string name="summary_international">"Используя это приложение, вы принимаете наши &lt;a href =\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;. Приложению для нормальной работы необходимо подключение к интернету.​"</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
@@ -885,7 +931,7 @@ mm"</string>
     <string name="the_united_nations_day">День Организации Объединенных Наций</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
-    <string name="theme_apply_failured">Не удалось применить, повторите попытку позже</string>
+    <string name="theme_apply_failured">Не удалось применить. Повторите попытку позже.</string>
     <string name="theme_apply_lockscreen_apply">Включение Карусели обоев…</string>
     <string name="theme_apply_lockscreen_failed">Не удалось применить</string>
     <string name="theme_apply_lockscreen_success">Успешно применено</string>
@@ -941,6 +987,8 @@ mm"</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_id_hint">Электронная почта/Телефон</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="v_code_title">Введите 2-шаговый проверочный код</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
     <string name="wallpaper">Обои</string>
