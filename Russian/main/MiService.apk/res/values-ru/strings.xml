@@ -64,6 +64,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="i_get_it">Понятно</string>
     <string name="icon_add_description">Добавить ярлык на Рабочий стол</string>
     <string name="icon_remove_confirm">Удалить</string>
     <string name="icon_remove_description_content">Приложение \"Обратная связь\" является системным, удалить его нельзя. Будет удален ярлык приложения с рабочего стола. Запуск приложения по-прежнему будет доступен в Настройках.</string>
@@ -153,6 +154,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">Нельзя отправить файл размером более 100 МБ</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Введите имя приложения</string>
     <string name="miui_feedback_main_answer_title">У нас есть ответ на этот вопрос</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Горячая линия: 0120-300-521
+Часы работы: 9:00 - 18:00 (кроме выходных)
+Email: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">Вопросы и ответы</string>
     <string name="miui_feedback_main_item_catch_full_log">Журналы</string>
     <string name="miui_feedback_main_item_customer_service">Послепродажное обслуживание</string>
@@ -160,6 +164,7 @@
     <string name="miui_feedback_main_menu_catch_full_log">Создать журнал</string>
     <string name="miui_feedback_main_menu_feedback_list">Мои отчеты</string>
     <string name="miui_feedback_main_menu_view_privacy">Политика конфиденциальности</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Отзыв согласия</string>
     <string name="miui_feedback_main_search_footer">Это не те вопросы, которые вы хотите задать?</string>
     <string name="miui_feedback_main_search_footer_submit">Отправить отзыв</string>
     <string name="miui_feedback_main_search_issue">Введите ключевые слова</string>
@@ -169,6 +174,8 @@
     <string name="miui_feedback_main_submit_dialog_content">Похоже, мы не смогли найти решение вашей проблемы. Вы можете отправить нам отчет.</string>
     <string name="miui_feedback_main_submit_dialog_title">Отправьте отчет</string>
     <string name="miui_feedback_main_title">Обратная связь</string>
+    <string name="miui_feedback_main_withdraw">Отозвать</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">"Если вы продолжите, согласие с политикой конфиденциальности %1$s будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку %2$s предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов %3$s. Отозвать согласие?"</string>
     <string name="miui_guide_accessibility_image_desc">Изображение</string>
     <string name="miui_guide_clear_db_service">Приложение \"Обратная связь\" очищает языковой кэш…</string>
     <string name="miui_guide_footer_desc">Данное руководство разработано, чтобы помочь узнать больше о вашем устройстве и MIUI. Некоторые изображения и видео в руководстве были созданы только для справочных целей и могут отличаться от реального продукта. Функции, описанные в этом руководстве, могут различаться в зависимости от модели вашего устройства, версии MIUI и перевода.</string>
@@ -319,10 +326,14 @@
     <string name="permission_region_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="permission_select_all">Выбрать все</string>
     <string name="permission_storage">Память</string>
-    <string name="permission_storage_introduce">Для сохранения файлов на вашем устройстве</string>
+    <string name="permission_storage_introduce">Для сохранения файлов на устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="privacy_policy_update_hint">"Политика конфиденциальности %1$s обновлена:
+%2$s
+Прежде чем продолжить, прочтите и примите обновленную %3$s."</string>
+    <string name="privacy_policy_update_title">Обновленная политика конфиденциальности</string>
     <string name="public_authorize_now">Настройки</string>
     <string name="public_loading_text">Подождите…</string>
     <string name="public_net_error_retry">Повторить</string>
@@ -427,10 +438,16 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="user_must_known">Внимание</string>
+    <string name="user_must_known_content">Вы не сможете продолжать использовать наши сервисы, если не примете обновленную %s. Принимаете обновленную политику конфиденциальности?</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="withdraw_consent_failed">Не удалось отозвать согласие</string>
+    <string name="withdraw_consent_failed_hint">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку</string>
+    <string name="withdrawing">Отзыв согласия…</string>
     <string name="yesterday">Вчера</string>
 </resources>

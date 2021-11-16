@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
+    <string name="add_remark_hint">Добавьте комментарий</string>
+    <string name="add_remark_tip">Нажмите, чтобы добавить комментарий</string>
     <string name="afternoon">После полудня</string>
     <string name="agree_description">Разрешите приложению подключение к интернету для использования всех его функций.</string>
     <string name="alert_message_clear_records">Удалить выбранные записи?</string>
@@ -35,6 +37,7 @@
     <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Xiaomi Cloud. Удалить запись?</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="all_record">Все записи</string>
+    <string name="allowed">Предоставлено</string>
     <string name="app_name">Диктофон</string>
     <string name="app_record">Записи</string>
     <string name="app_record_preference_title">Записи</string>
@@ -84,6 +87,7 @@
     <string name="duration_format_second">%s сек.</string>
     <string name="early_morning">Утро</string>
     <string name="empty_recognition_tip">Пусто</string>
+    <string name="empty_tips">Нажмите кнопку, чтобы начать запись</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="err_msg_abandon">Заказ не завершен</string>
@@ -109,6 +113,7 @@
     <string name="error_filename_illegal_char">Имя файла содержит недопустимые символы</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
     <string name="error_icon_content_description">Ошибка</string>
+    <string name="error_remark_too_long">Комментарий слишком длинный</string>
     <string name="error_sdcard_access">Нет доступа к SD-карте</string>
     <string name="error_sdcard_unmounted">Вставьте SD-карту</string>
     <string name="evening">После полудня</string>
@@ -294,8 +299,10 @@
     <string name="no_file">Нет записей</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="no_playback_file">Выберите запись для просмотра сведений</string>
+    <string name="no_records">Ничего нет</string>
     <string name="noon">Полдень</string>
     <string name="normal_settings_pref_title">Общие настройки</string>
+    <string name="not_allowed">Не предоставлено</string>
     <string name="not_set">Не задано</string>
     <string name="notification_message_all_paused">Ожидание подключения Wi-Fi.</string>
     <string name="notification_playback">Воспроизведение…</string>
@@ -341,6 +348,15 @@
     <string name="pay_error_cancel">Платеж отменен</string>
     <string name="pay_error_null">Не удалось завершить платеж. Проверьте свой аккаунт.</string>
     <string name="pay_error_unknown">Неизвестная ошибка</string>
+    <string name="permission_desc">Сведения о разрешениях</string>
+    <string name="permission_dialog_cancel">Отмена</string>
+    <string name="permission_dialog_ok">Настройки</string>
+    <string name="permission_record">Микрофон</string>
+    <string name="permission_record_description">Для записи аудио</string>
+    <string name="permission_storage">Память</string>
+    <string name="permission_storage_description">Для управления записями и загрузки их из облака</string>
+    <string name="permission_storage_description_for_download">Для загрузки записей из облака</string>
+    <string name="permission_storage_description_for_manage_files">Для управления записями</string>
     <string name="play_speed">Скорость: %1$.1fX</string>
     <string name="playback_delete_records">Удалить запись</string>
     <string name="playback_share_records">Отправить запись</string>
@@ -361,6 +377,7 @@
     <string name="preference_status_bar_indicator_prompt">Показывать ярлык строки состояния во время записи</string>
     <string name="preference_tip_rename">Именовать записи вручную</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="privacy_settings">Конфиденциальность</string>
     <string name="recognition_button_add_to_queue">Добавить в очередь</string>
     <string name="recognition_button_cancel">Не сейчас</string>
     <string name="recognition_button_start">Начать</string>
@@ -416,6 +433,9 @@
     <string name="record_downloading_notification_complete">Загрузка завершена</string>
     <string name="record_downloading_notification_count">Загружается: %d</string>
     <string name="record_format_preference_title">Формат записи</string>
+    <string name="record_item_title_multi_choice">Выбор</string>
+    <string name="record_item_title_remark">Добавление комментария</string>
+    <string name="record_item_title_send">Отправка</string>
     <string name="record_list">Мои записи</string>
     <string name="record_list_app">Записи приложения</string>
     <string name="record_list_call">Записи вызовов</string>
@@ -428,6 +448,7 @@
     <string name="record_mark_point">Метка %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
+    <string name="record_permission_dialog_title">Требуются разрешения на использование микрофона</string>
     <string name="record_quliaty_preference_title">Качество записи</string>
     <string name="record_resotre">Восстановить записи</string>
     <string name="recorder_record">Аудио</string>
@@ -520,13 +541,18 @@
     <string name="status_bar_back">Вернуться в диктофон</string>
     <string name="status_bar_recording">Запись…</string>
     <string name="status_bar_recording_pause">Пауза</string>
+    <string name="storage_permission_dialog_title">Требуются разрешения на доступ к памяти устройства</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="tab_all">Все</string>
+    <string name="tab_apps">Приложения</string>
+    <string name="tab_call">Вызовы</string>
+    <string name="tab_fm">Радио</string>
     <string name="tap_to_record">Нажмите кнопку для записи</string>
-    <string name="text_btn_backward_3_seconds">3 секунды назад</string>
+    <string name="text_btn_backward_3_seconds">3 сек. назад</string>
     <string name="text_btn_complete">Стоп</string>
-    <string name="text_btn_forward_3_seconds">3 секунды вперед</string>
+    <string name="text_btn_forward_3_seconds">3 сек. вперед</string>
     <string name="text_btn_list">Мои записи</string>
     <string name="text_btn_mark">Метка</string>
     <string name="text_btn_pause">Пауза</string>
@@ -605,6 +631,7 @@
     <string name="user_feedback">Обратная связь</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="view_privacy">Политика конфиденциальности</string>
     <string name="webview_check_network">Настройки сети</string>
     <string name="webview_data_error">Произошла ошибка</string>
     <string name="webview_locating_fail">Не удалось определить местоположение</string>
