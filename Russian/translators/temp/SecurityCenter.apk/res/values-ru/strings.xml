@@ -100,20 +100,13 @@
     <string name="action_source_call_title">Заблокированные вызовы</string>
     <string name="action_source_sms_title">Заблокированные SMS</string>
     <string name="actionbar_button_up_description">Назад</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_edit_task_name">Edit task</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_mine_task">My tasks</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_new_condition_name">Add condition</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_new_result_name">Add result</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_new_task_name">Add task</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_no_task">No tasks here yet</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_task_center">Task center</string>
+    <string name="activity_edit_task_name">Редактирование задачи</string>
+    <string name="activity_mine_task">Мои задачи</string>
+    <string name="activity_new_condition_name">Добавить условие</string>
+    <string name="activity_new_result_name">Добавить действие</string>
+    <string name="activity_new_task_name">Добавить задачу</string>
+    <string name="activity_no_task">Нет задач</string>
+    <string name="activity_task_center">Центр задач</string>
     <string name="activity_title_antispam">Антиспам</string>
     <string name="activity_title_antivirus">Антивирус</string>
     <string name="activity_title_antivirus_kddi">Антивирус</string>
@@ -125,8 +118,7 @@
     <string name="activity_title_networkassistants">Трафик</string>
     <string name="activity_title_other_permission_manager">Другие разрешения</string>
     <string name="activity_title_permission_manager">Разрешения приложений</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_title_permissions_instruction">Permissions details</string>
+    <string name="activity_title_permissions_instruction">Сведения о разрешениях</string>
     <string name="activity_title_permissions_manager">Разрешения</string>
     <string name="activity_title_power_manager">Батарея</string>
     <string name="activity_title_risk_app_install_manager">Приложения с возможными рисками</string>
@@ -140,18 +132,6 @@
     <string name="ad_btn_default_text">Подробнее</string>
     <string name="ad_floating_window_title">Закройте плавающее окно для разблокировки</string>
     <string name="ad_split_screen_title">Выйдите из режима разделения экрана</string>
-<!-- ### FROM SOURCE -->
-    <string name="ad_text_adx">广告</string>
-<!-- ### FROM SOURCE -->
-    <string name="ad_text_btn_download">立即安装</string>
-<!-- ### FROM SOURCE -->
-    <string name="ad_text_develop">开发者:%1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="ad_text_permission">权限</string>
-<!-- ### FROM SOURCE -->
-    <string name="ad_text_privacy">隐私</string>
-<!-- ### FROM SOURCE -->
-    <string name="ad_text_version">版本:%1$s</string>
     <string name="ad_update_time">Последнее обновление: %s</string>
     <string name="ad_update_time_unKnown">Последнее обновление: неизвестно</string>
     <string name="adb_install_no_network">Подключитесь к сети и повторите попытку</string>
@@ -160,8 +140,7 @@
     <string name="adb_install_reject_notiy">Не допускается установка %s через USB</string>
     <string name="adb_install_reject_notiy_desc">Вы можете разрешить установку через USB в настройках разработчика</string>
     <string name="adb_login_xiaomi_account">Сначала войдите в Mi Аккаунт</string>
-<!-- ### FROM SOURCE -->
-    <string name="add_auto_task_desktop_icon">Add Home screen shortcut</string>
+    <string name="add_auto_task_desktop_icon">Добавить ярлык на рабочий стол</string>
     <string name="add_done">Успешно добавлено</string>
     <string name="add_game">Добавить</string>
     <string name="add_game_notification_summary">Нажмите для запуска и ускорения.</string>
@@ -179,12 +158,9 @@
     <string name="adjust_traffic_carrier_summary_two_day_before">Обновлено 2 дня назад</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
     <string name="adjust_traffic_data">Расход трафика</string>
-<!-- ### FROM SOURCE -->
-    <string name="adv_permission_text">Permissions</string>
-<!-- ### FROM SOURCE -->
-    <string name="adv_privacy_text">Privacy</string>
-<!-- ### FROM SOURCE -->
-    <string name="adv_version_text">Version: %s</string>
+    <string name="adv_permission_text">Разрешения</string>
+    <string name="adv_privacy_text">Конфиденциальность</string>
+    <string name="adv_version_text">Версия: %s</string>
     <string name="after_the_lock_screen">Включена блокировка приложения при блокировке экрана</string>
     <string name="afternoon">После полудня</string>
     <string name="ai_allow_all">По выбору системы</string>
@@ -194,10 +170,6 @@
     <string name="alert_back_milink_hangup_tips_content_vb">"Трансляция не будет прервана, пока экран отключен и приложение работает в фоновом режиме. Чтобы включить экран, нажмите кнопку питания."</string>
     <string name="all_address_choose_hint">Все номера в этой провинции</string>
     <string name="allow_all">Разрешить всем</string>
-<!-- ### FROM SOURCE -->
-    <string name="allow_notify">allow_notify</string>
-<!-- ### FROM SOURCE -->
-    <string name="allow_tips_smart_task">allow_tips_smart_task</string>
     <string name="already_close_gamebooster">Ускорение игр отключено</string>
     <string name="anti_disturb_msg_detail">Отключить все уведомления, кроме входящих вызовов</string>
     <string name="anti_disturb_msg_title">Режим \"Не беспокоить\"</string>
@@ -743,10 +715,8 @@
     <string name="auto_import_games">Разместите все ваши игры в одном месте</string>
     <string name="auto_send_correcting_msg">Если не заполнить, система автоматически отправит подтверждение по SMS.</string>
     <string name="auto_set_by_brand">Автоматическая настройка трафика и информации о свободном трафике в соответствии с брендом</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_allow_suggestion">Smart task suggestions</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_available_device">Available devices</string>
+    <string name="auto_task_allow_suggestion">Рекомендации по задачам</string>
+    <string name="auto_task_available_device">Доступные устройства</string>
     <string name="auto_task_condition_choose_battery_level_down">Разряд батареи до определённого уровня</string>
     <string name="auto_task_condition_choose_end_time">Окончание</string>
     <string name="auto_task_condition_choose_ontime">Таймер</string>
@@ -757,103 +727,64 @@
     <string name="auto_task_condition_time_duration_text">С %1$s до %2$s</string>
     <string name="auto_task_condition_time_pick_title">Установите таймер</string>
     <string name="auto_task_condition_time_text">В %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_conncet_to_some_device">Connect to %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_create_success">Created task successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_custom_time">Set time</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_custom_time_lable">min</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_add_action">Add action</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_add_task">Add to \"My tasks\"</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_add_to_task_list">Add to \"My tasks\"</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_do_action">Then</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_if_exclude">If</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_summary_driver_car">Turn on portable hotspot when connected to car system via Bluetooth</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_summary_get_up">Turn off DND mode and turn Bluetooth, Wi-Fi, and mobile data back on</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_summary_listen_music">Play music and select earphone type</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_summary_meet">Schedule meeting time and turn on DND mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_summary_noon_break">Schedule nap time and turn on DND mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_summary_save_power">Turn on Battery saver when battery is lower than %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_summary_sleep">Schedule bedtime and customize device behavior</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_summary_watch_video">Open app, turn on Wi-Fi, adjust volume</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_title_driver_car">Drive</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_title_get_up">Get up</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_title_listen_music">Listen to music</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_title_meet">Meeting</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_title_noon_break">Nap</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_title_save_power">Save battery</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_title_sleep">Sleep</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_default_task_title_watch_video">Watch videos</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_delete_task">Delete task</string>
+    <string name="auto_task_conncet_to_some_device">Подключиться к %s</string>
+    <string name="auto_task_create_success">Задача успешно создана</string>
+    <string name="auto_task_custom_time">Установить время</string>
+    <string name="auto_task_custom_time_lable">мин.</string>
+    <string name="auto_task_default_add_action">Добавить действие</string>
+    <string name="auto_task_default_add_task">Добавить в \"Мои задачи\"</string>
+    <string name="auto_task_default_add_to_task_list">Добавить в \"Мои задачи\"</string>
+    <string name="auto_task_default_do_action">ЕСЛИ</string>
+    <string name="auto_task_default_if_exclude">ТО</string>
+    <string name="auto_task_default_task_summary_driver_car">Включение точки доступа при подключении к автомобильной системе через Bluetooth</string>
+    <string name="auto_task_default_task_summary_get_up">Отключение режима \"Не беспокоить\", включение Bluetooth, Wi-Fi и мобильного интернета</string>
+    <string name="auto_task_default_task_summary_listen_music">Воспроизведение музыки и выбор типа наушников</string>
+    <string name="auto_task_default_task_summary_meet">Планирование времени встречи и включение режима \"Не беспокоить\"</string>
+    <string name="auto_task_default_task_summary_noon_break">Планирование времени перерыва и включение режима \"Не беспокоить\"</string>
+    <string name="auto_task_default_task_summary_save_power">Включение экономии заряда батареи при %s</string>
+    <string name="auto_task_default_task_summary_sleep">Планирование времени отхода ко сну и настройка поведения устройства</string>
+    <string name="auto_task_default_task_summary_watch_video">Открытие приложения, включение Wi-Fi, настройка громкости</string>
+    <string name="auto_task_default_task_title_driver_car">Вождение</string>
+    <string name="auto_task_default_task_title_get_up">Подъем</string>
+    <string name="auto_task_default_task_title_listen_music">Прослушивание музыки</string>
+    <string name="auto_task_default_task_title_meet">Встреча</string>
+    <string name="auto_task_default_task_title_noon_break">Перерыв</string>
+    <string name="auto_task_default_task_title_save_power">Экономия заряда</string>
+    <string name="auto_task_default_task_title_sleep">Сон</string>
+    <string name="auto_task_default_task_title_watch_video">Просмотр видео</string>
+    <string name="auto_task_delete_task">Удалить задачу</string>
     <string name="auto_task_dialog_button_close">Готово</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_disconnect_to_some_device">Disconnect from %s</string>
+    <string name="auto_task_disconnect_to_some_device">Отключиться от %s</string>
     <string name="auto_task_edit_abandon_change">Отменить изменения?</string>
     <string name="auto_task_edit_activity_title">Настройки задачи</string>
     <string name="auto_task_edit_adandon_button_text">Выход</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_edit_address">Edit address</string>
+    <string name="auto_task_edit_address">Редактирование адреса</string>
     <string name="auto_task_edit_choose_condition_title">Выбор условия</string>
     <string name="auto_task_edit_choose_new_operation">Новое действие</string>
     <string name="auto_task_edit_choose_operation_title">Выбор действия</string>
     <string name="auto_task_edit_condition_summary_new">Например, \"В %s\"</string>
     <string name="auto_task_edit_condition_title">Новое условие</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_edit_default_task_name">Edit task name</string>
+    <string name="auto_task_edit_default_task_name">Имя задачи</string>
     <string name="auto_task_edit_my_custom_task">Имя</string>
     <string name="auto_task_edit_operation_summary">Например, \"Включить Режим полета\"</string>
     <string name="auto_task_edit_step1_new">%d.</string>
     <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">Имя</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_exit_finish">Task completed automatically</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_font_setting_weight_toast">"Can't adjust weight for this font"</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_leave_app">Leave %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_lock_screen_now">Lock screen</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_loop_exclude_cancel">Canceled looped task</string>
-    <string name="auto_task_main_title">"Автоматизация действий"</string>
+    <string name="auto_task_exit_finish">Задача автоматически завершена</string>
+    <string name="auto_task_font_setting_weight_toast">Не удалось настроить толщину этого шрифта</string>
+    <string name="auto_task_leave_app">Выйти из %s</string>
+    <string name="auto_task_lock_screen_now">Заблокировать экран</string>
+    <string name="auto_task_loop_exclude_cancel">Отмена зацикленной задачи</string>
+    <string name="auto_task_main_title">Автоматизация действий</string>
     <string name="auto_task_mamange_activity_title">Автоматизация действий</string>
     <string name="auto_task_manage_delete_prompt">Удалить выбранные задачи?</string>
     <string name="auto_task_manage_new_task">Новая задача</string>
     <string name="auto_task_manager_group_title">ЗАДАЧИ</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_nearby_device">Available devices</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_nearby_wlan">Available networks</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_no_in_call">When not having a call</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_no_need">No thanks</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_notification_tips">Notifications</string>
+    <string name="auto_task_nearby_device">Доступные устройства</string>
+    <string name="auto_task_nearby_wlan">Доступные сети</string>
+    <string name="auto_task_no_in_call">Когда не в процессе вызова</string>
+    <string name="auto_task_no_need">Нет, спасибо</string>
+    <string name="auto_task_notification_tips">Уведомления</string>
     <string name="auto_task_notify_do_task_title">Задача запущена</string>
     <string name="auto_task_notify_exit_task_title">Задача завершена</string>
     <string name="auto_task_notify_task_cancel_count_down_new">Задача будет отменена через %d сек.</string>
@@ -866,22 +797,14 @@
     <string name="auto_task_notify_task_continue_do">Запуск задач</string>
     <string name="auto_task_notify_task_count_down_new">Задача будет запущена через %d сек.</string>
     <string name="auto_task_notify_task_exit_task">Отмена задачи</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_notify_title_has_cancel">Task canceled</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_notify_title_has_cancel_exit">Auto completion canceled</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_notify_title_has_exclude">Task executed</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_offen_use_device">My devices</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_offen_use_wlan">My networks</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_open_app">Open %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_open_bluetooth">Turn on Bluetooth</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_open_wlan">Turn on Wi-Fi</string>
+    <string name="auto_task_notify_title_has_cancel">Задача отменена</string>
+    <string name="auto_task_notify_title_has_cancel_exit">Автозавершение отменено</string>
+    <string name="auto_task_notify_title_has_exclude">Задача выполнена</string>
+    <string name="auto_task_offen_use_device">Мои устройства</string>
+    <string name="auto_task_offen_use_wlan">Мои сети</string>
+    <string name="auto_task_open_app">Открыть %s</string>
+    <string name="auto_task_open_bluetooth">Включить Bluetooth</string>
+    <string name="auto_task_open_wlan">Включить Wi-Fi</string>
     <string name="auto_task_operation_airplane_mode">Режим полета</string>
     <string name="auto_task_operation_auto_brightness">Автояркость</string>
     <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -935,34 +858,20 @@
     <string name="auto_task_set_exit_condition_summary">Complete the task when one of the following conditions is met</string>
 <!-- ### FROM SOURCE -->
     <string name="auto_task_set_open_app">Set</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_setting_allow_notify">Allow notifications</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_setting_allow_tips_smart_task">Allow notifications with smart suggestions</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_setting_before_exclude_notify">Notifications before the task</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_setting_exclude_notify">Notifications during the task</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_setting_need_reset">Restore defaults after completing task</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_setting_show_task_shortcut_in_desktop">Home screen shortcut</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_show_notification_before_exclude">Notifications before execution</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_show_notification_before_exit">Notifications before completion</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_temp_allow">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_temp_no_exit">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_temp_no_need">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_voice_dialog_alarm_title">Alarms</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_voice_dialog_call_title">Calls, notifications, reminders</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_voice_dialog_media_title">Music, games, media</string>
+    <string name="auto_task_setting_allow_notify">Показывать уведомления</string>
+    <string name="auto_task_setting_allow_tips_smart_task">Разрешить уведомления с рекомендациями</string>
+    <string name="auto_task_setting_before_exclude_notify">Уведомления перед выполнением задачи</string>
+    <string name="auto_task_setting_exclude_notify">Уведомления во время выполнения задачи</string>
+    <string name="auto_task_setting_need_reset">Восстановить настройки по умолчанию после выполнения задачи</string>
+    <string name="auto_task_setting_show_task_shortcut_in_desktop">Ярлык на рабочем столе</string>
+    <string name="auto_task_show_notification_before_exclude">Уведомления перед выполнением</string>
+    <string name="auto_task_show_notification_before_exit">Уведомления перед завершением</string>
+    <string name="auto_task_temp_allow">ОК</string>
+    <string name="auto_task_temp_no_exit">Отмена</string>
+    <string name="auto_task_temp_no_need">Отмена</string>
+    <string name="auto_task_voice_dialog_alarm_title">Будильники</string>
+    <string name="auto_task_voice_dialog_call_title">Вызовы, уведомления, напоминания</string>
+    <string name="auto_task_voice_dialog_media_title">Музыка, игры, медиа</string>
     <string name="back_app_name">Вернуться в Защиту приложений</string>
     <string name="back_description_securitycenter">Назад</string>
     <string name="back_modifypassword">Вернуться к изменению способа защиты</string>
