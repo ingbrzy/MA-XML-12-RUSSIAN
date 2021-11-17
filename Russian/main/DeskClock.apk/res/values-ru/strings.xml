@@ -67,6 +67,7 @@
     <string name="alert_vibrate_enable_summary">Вибрировать при срабатывании будильника</string>
     <string name="alert_volume">Громкость звонка</string>
     <string name="alert_volume_summary">Громкость звонка для будильников и таймеров</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI говорит…</string>
     <string name="already_exist">Такой таймер уже существует</string>
     <string name="analog_gadget">Часы со стрелками</string>
     <string name="app_label">Часы</string>
@@ -413,6 +414,7 @@
     <string name="repeat_count_value_ten">10</string>
     <string name="repeat_count_value_three">3</string>
     <string name="repeat_count_value_two">2</string>
+    <string name="repeat_type">Повтор</string>
     <string name="reset">Сброс</string>
     <string name="revert">Назад</string>
     <string name="ringtone_all">Все мелодии</string>
@@ -432,7 +434,9 @@
     <string name="search_stopwatch_keywords">Секундомер</string>
     <string name="search_timer_keywords">Таймер</string>
     <string name="search_worldclock_keywords">Время;Мировое время;Часы</string>
+    <string name="select_all">Выбрать все</string>
     <string name="select_operation">Выбор</string>
+    <string name="selected">Выбрано</string>
     <string name="send">Отправить</string>
     <string name="set_alarm">Выберите время</string>
     <string name="set_alarm_choose_ringtone">Выбор мелодии</string>
@@ -647,6 +651,7 @@
     <string name="tv_blank_list_show_text">Ничего нет. Добавьте местоположение для мировых часов.</string>
     <string name="tv_world_clock_edit_title1">Рабочий стол</string>
     <string name="tv_world_clock_edit_title2">Другие</string>
+    <string name="unselect_all">Отменить</string>
     <string name="upcoming_alarm">Будильник: %s</string>
     <string name="upcoming_alarm_hint">Вы можете отключить этот будильник</string>
     <string name="update_health_app">Обновление приложения</string>
@@ -695,6 +700,7 @@
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_gap">| %s ч.</string>
     <string name="worldcolock_timezone_local">| как местное время</string>
+    <string name="xiaoai_ringtone_title">Mi AI рингтоны</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
