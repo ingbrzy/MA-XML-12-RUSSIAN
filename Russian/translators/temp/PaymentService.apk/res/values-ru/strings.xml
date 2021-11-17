@@ -134,6 +134,14 @@ ID:%s
     <string name="just_a_second">Подождите…</string>
     <string name="loading">Подождите…</string>
     <string name="logout_account">Выход</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_account_disable_dialog_btn_negative">Cancel</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_account_disable_dialog_btn_positive">Turn on</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_account_disable_dialog_msg">To use MiCoin, you need to log in your Xiaomi account. Please enable the Xiaomi account service in Settings-Application Management.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_account_disable_dialog_title">Notice</string>
     <string name="mibi_all_license_message">Вы собираетесь использовать Mi Coin, сервис, предоставляемый Xiaomi Inc. Прежде чем вы сможете его использовать, вы должны согласиться с Условиями обслуживания. Нажмите OK, если вы согласны с условиями, описанными в %1$s и %2$s. Вам нужно подключиться к Интернету, найти ваше устройство, чтобы использовать Mi Coin.</string>
     <string name="mibi_all_purpose">Добро пожаловать в Mi Coin! Вы можете использовать это приложение для пополнения баланса Mi Coin, проверки подарочных карт и т. д.</string>
     <string name="mibi_applock_config">Невозможно установить блокировку приложения при использовании разделенного экрана.</string>
@@ -141,6 +149,14 @@ ID:%s
     <string name="mibi_applock_dialog_content">В связи с обновлением системы срок действия вашего текущего пароля истек. Пожалуйста, установите новый.</string>
     <string name="mibi_applock_dialog_ok">Установить</string>
     <string name="mibi_applock_dialog_title">Установить новый пароль</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_auth_manage_access_camera">Access Camera</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_auth_manage_desc_camera">When you use a mobile phone recharge card to recharge MiCoin, you can use the camera permission to identify the card number and card secret, etc. by turning on the camera permission.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_auth_manage_perm_grant">Granted</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_auth_manage_perm_ungrant">Turn on</string>
     <string name="mibi_balance_title">Доступные Mi Coins</string>
     <string name="mibi_bill_delete_dialog_title">Удаление %1$s</string>
     <string name="mibi_bill_delete_message">Удалить %1$s?</string>
@@ -383,7 +399,13 @@ ID:%s
     <string name="mibi_prepaid_picker_title_default">Выберите размер</string>
     <string name="mibi_prepaid_picker_title_selected">размер</string>
     <string name="mibi_privacy_license_name">Политика конфиденциальности</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_privacy_manage_revoke_agreement">Withdraw Consent</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_privacy_manage_user_license">User Agreement</string>
     <string name="mibi_privacy_policy">Политика конфиденциальности</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_privacy_setting">Privacy Setting</string>
     <string name="mibi_privacy_tip_message">Вы не можете использовать Mi Coins после отмены авторизации.</string>
     <string name="mibi_privacy_tip_title">Разрешите авторизацию</string>
     <string name="mibi_process_expired">Срок данной операции истек</string>
@@ -442,10 +464,46 @@ ID:%s
     <string name="mibi_recharge_value_money_special_unit">Покупка %1$s %2$s стоит Mi Coins</string>
     <string name="mibi_recharge_warn_text">Вы не можете покупать физические товары, используя Mi Coins.</string>
     <string name="mibi_return">Возврат</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_revoke_agreement_failed_msg">Failed to withdraw consent, please try again</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_revoke_agreement_msg">"If you withdraw your consent to the Mibibi app privacy policy, we will stop collecting your personal information and delete the personal information collected by the app in accordance with the law, unless other laws and regulations specify the retention period of personal information.
+Because the provision of MiCoin services relies on the collection of necessary personal information, if you withdraw your consent, it will be deemed that you do not agree that we continue to provide MiCoin services to you and give up your assets and rights in the MiCoin app. Cause a certain loss, and personal information cannot be recovered, please choose carefully."</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_revoke_agreement_title">Risk Warning</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_revoke_service_failed_msg">Failed to log out of service, please try again</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_revoke_service_msg">"If you log out of the MiCoin service, we will stop collecting your personal information and delete the personal information collected by the application in accordance with the law, except for other laws and regulations that clearly stipulate the retention period of personal information.
+Because the provision of MiCoin services relies on the collection of necessary personal information, if you cancel the service, you will be deemed to disagree that we continue to provide MiCoin services to you and give up your assets and rights in the MiCoin app. Cause a certain loss, and personal information cannot be recovered, please choose carefully."</string>
     <string name="mibi_scan_prompt_number">Отсканировать %1$s номер карты предоплаты</string>
     <string name="mibi_scan_prompt_password">Отсканировать %1$s пароль карты предоплаты</string>
     <string name="mibi_scan_prompt_voucher">Отсканировать пароль Mi Coin </string>
     <string name="mibi_security_setting">Настройки</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_authorization_management">Authorization Management</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_cache_deleted_privacy">Withdrawal of consent has been completed and local data has been cleared</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_cache_deleted_service">The logout service has been completed, and the local data has been cleared.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_cancel_revoke_agreement">Cancel Withdrawal</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_cancel_revoke_service">Cancel Logout</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_confirm_revoke_agreement">Confirm Withdrawal</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_confirm_revoke_service">Confirm Logout</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_perm_setting_dialog_confirm">Yes, I know</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_perm_setting_dialog_msg">MiCoin permission changes are not supported in MIUI 10 and below versions. If you need to modify the permissions, please upgrade the MIUI system to MIUI 11 and above versions.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_perm_setting_dialog_title">Setting tips</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_privacy_management">Privacy Policy Management</string>
+<!-- ### FROM SOURCE -->
+    <string name="mibi_setting_revoke_service">Cancellation of MiCoin service</string>
     <string name="mibi_shurtcut_create_success">Размещено на главном экране</string>
     <string name="mibi_signing_pay_group_title">Выберите способ оплаты</string>
     <string name="mibi_signing_success_sub">Возобновляемые платежи будут осуществляться с использованием %1$s</string>

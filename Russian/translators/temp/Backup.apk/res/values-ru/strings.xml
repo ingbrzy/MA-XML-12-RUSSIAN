@@ -105,6 +105,8 @@
     <string name="cancel_moving_dialog_message">Остановить импорт?</string>
     <string name="cancel_moving_dialog_title">Остановка импорта</string>
     <string name="cancel_restore">Отменить</string>
+<!-- ### FROM SOURCE -->
+    <string name="check_privacy_policy">View Privacy Policy</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_soft_ap_to_link">Выберите точку доступа для подключения</string>
     <string name="click_to_view">Нажмите для просмотра</string>
@@ -186,6 +188,8 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="enable_local_backup">Включить локальное резервное копирование</string>
     <string name="enable_local_backup_and_restore">Включить локальное резервное копирование</string>
     <string name="enable_local_backup_tips">Включение этой функции позволяет создавать локальные резервные копии на устройстве, которые можно скопировать на ПК или USB-устройство. Включить?</string>
+<!-- ### FROM SOURCE -->
+    <string name="enable_local_backup_tips_global">Turn this feature on to be able to save backups on this device and copy them to your computer. Turn on now?</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="err_acquire_system_service">Ошибка запуска системной службы.</string>
@@ -360,6 +364,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
@@ -431,6 +436,11 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="new_local_detail_description">"Внимание:\u000d
 %1$d. Сохраните резервные копии на ПК, чтобы избежать потери данных. %2$s.\u000d
 %3$d. Резервные копии будут сохранены в папке MIUI/Backup/AllBackup."</string>
+<!-- ### FROM SOURCE -->
+    <string name="new_local_detail_description_global">"Note:
+%1$d. Copy backups to your computer to avoid data loss. %2$s.
+%3$d. Backups will be saved to MIUI-Backup-AllBackup.
+%4$d. Some apps might not support backups."</string>
     <string name="new_local_tab_backup">Резервное копирование</string>
     <string name="new_local_tab_backup_pad">Резервное копирование</string>
     <string name="new_local_tab_restore">Восстановление</string>
@@ -522,12 +532,84 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="perm_read_phone_state">Чтение статуса телефона</string>
     <string name="perm_read_sms">Чтение SMS</string>
     <string name="perm_storage">Чтение и запись на внешний накопитель</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_admitted">Granted</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_calendar">For backing up calendar events</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_calendar_desc">To be able to back up calendar events, allow this app to edit your calendar events first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_calllog">For backing up call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_calllog_desc">To be able to back up call history, allow this app to access your call history first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_contacts">For backing up contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_contacts_desc">To be able to back up contacts, allow this app to access your contacts first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_file">For backing up files</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_sms">For backing up messages</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_backup_sms_desc">To be able to back up messages, allow this app to access your messages first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_content_title">Permissions required</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_dialog_positive_btn">Settings</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_intro">Permissions details</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_not_admit">Not granted</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_purpose">This feature allows you to back up and restore items using your mobile device, computers, and USB drives.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_read_apps">Access the list of apps installed on this device</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_read_calendar">Access calendar events</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_read_calllog">Access call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_read_contacts">Access contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_read_sms">Access messages</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_read_storage">Access and save items to storage</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_read_write_storage">To be able to back up items, allow this feature to access storage first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_read_write_sys_app">To be able to back up and restore messages, contacts, and call history, allow this feature to access these items first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_related">Permissions</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_restore_calendar">For restoring calendar events</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_restore_calendar_desc">To be able to restore calendar events, allow this app to edit your calendar events first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_restore_calllog">For restoring call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_restore_calllog_desc">To be able to restore call history, allow this app to edit your call history first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_restore_contacts">For restoring contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_restore_contacts_desc">To be able to restore contacts, allow this app to edit your contacts first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_show_all_apps">For displaying the apps that can be backed up</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_show_all_apps_desc">To be able to view the apps that can be backed up, allow this app to access the list of apps installed on this device first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_write_calllog">Edit call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_write_contacts">Edit contacts</string>
     <string name="phone_title">Настройки телефона</string>
     <string name="platform_chooser_item_android_mi">Mi Phone</string>
     <string name="platform_chooser_item_android_others">Другие марки</string>
     <string name="platform_chooser_item_ios">Устройство iOS</string>
     <string name="platform_chooser_title">Выберите старое устройство</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings">Privacy</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_title">Privacy Policy</string>
     <string name="progress_backup_hint">Резервное копирование…</string>
     <string name="progress_restore_hint">Восстановление…</string>
     <string name="prompt_reading">Чтение…</string>

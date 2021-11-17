@@ -36,11 +36,21 @@
     <string name="add_short_cut">OK</string>
     <string name="added_successfully">Успешно добавлено</string>
     <string name="afternoon">После полудня</string>
+<!-- ### FROM SOURCE -->
+    <string name="agree_and_continue">Agree</string>
+<!-- ### FROM SOURCE -->
+    <string name="agreement_and_privacy_description">"Read and agree to the Xiaomi Cloud's &lt;a href=%1$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> before you continue."</string>
     <string name="antispam_sync">Режим \"Не беспокоить\"</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="btn_return">Назад</string>
+<!-- ### FROM SOURCE -->
+    <string name="button_agree">Agree</string>
     <string name="button_cancel">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="button_quit">Exit</string>
+<!-- ### FROM SOURCE -->
+    <string name="button_revoke">Withdraw</string>
     <string name="calendar_sync">Календарь</string>
     <string name="check_contact">Добавить</string>
     <string name="choose_contact_title">Контакты</string>
@@ -52,6 +62,10 @@
     <string name="cloud_find_device_off">Откл.</string>
     <string name="cloud_find_device_on">Вкл.</string>
     <string name="cloud_lab_title">Лаборатория</string>
+<!-- ### FROM SOURCE -->
+    <string name="cloud_service_open_authorization">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your notes, photos and videos, recordings, and other items from system apps across all connected devices. Home screen layout backups will also be stored in Xiaomi Cloud. You'll be able to view all synced items on i.mi.com."</string>
+<!-- ### FROM SOURCE -->
+    <string name="cloud_service_title">Xiaomi Cloud</string>
     <string name="cloud_space_full_gallery_notification_content_text">Обновите план, чтобы получить больше места</string>
     <string name="cloud_storage_already_full">Облачное хранилище заполнено: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Занято: %1$s/%2$s</string>
@@ -102,6 +116,8 @@
     <string name="dialog_storage_full_title">Облачное хранилище заполнено</string>
     <string name="dialog_storage_low_content">Обновите тарифный план, чтобы избежать проблем с синхронизацией</string>
     <string name="dialog_storage_low_title">Недостаточно места</string>
+<!-- ### FROM SOURCE -->
+    <string name="dialog_title_prompt">Attention</string>
     <string name="do_not_merge">Отмена</string>
     <string name="early_morning">Утро</string>
     <string name="enable_find_device_success">Поиск устройства включен.</string>
@@ -137,11 +153,25 @@
     <string name="find_device_dspt_provision">При утере устройства вы можете перейти на  &lt;font color=#0097FF&gt;%s&lt;/font&gt; для его обнаружения, блокировки или очистки данных. Включить или отключить эту функцию можно в настройках.</string>
     <string name="find_device_gdpr_prompt">Включив Поиск устройства, вы принимаете нашу <a href="app://com.miui.cloudservice.gdpr.license"><u>Политику конфиденциальности</u></a>. Для отзыва разрешения отключите эту функцию.</string>
     <string name="find_device_operation_failure_rpc">Не удалось выполнить операцию из-за ошибки RPC.</string>
+<!-- ### FROM SOURCE -->
+    <string name="find_device_privacy_policy_update_msg">Find device Privacy Policy was updated:&lt;br/>%1$s&lt;br/>Read and agree to the new version of &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before you continue.</string>
     <string name="find_device_send_sms_alert">При замене SIM карты может быть автоматически отправлено SMS для повторной активации.</string>
     <string name="find_device_service_title">Поиск устройства</string>
     <string name="find_device_status_summary">Определение местоположения устройства и блокировка, а также удаленное стирание данных</string>
     <string name="find_device_status_title_pad">Поиск устройства</string>
     <string name="find_device_status_title_phone">Поиск устройства</string>
+<!-- ### FROM SOURCE -->
+    <string name="find_permission_location_summary">For locating this device</string>
+<!-- ### FROM SOURCE -->
+    <string name="find_permission_location_title">Access location</string>
+<!-- ### FROM SOURCE -->
+    <string name="find_permission_phone_summary">"For accessing phone number in order to locate this device when it isn't connected to the internet"</string>
+<!-- ### FROM SOURCE -->
+    <string name="find_permission_phone_title">Access device info</string>
+<!-- ### FROM SOURCE -->
+    <string name="find_permission_sms_summary">"For locating this device when it isn't connected to the internet"</string>
+<!-- ### FROM SOURCE -->
+    <string name="find_permission_sms_title">Send SMS</string>
     <string name="finddevice_miservice_notification_content">Удаленная блокировка устройства в случае его утери</string>
     <string name="finddevice_miservice_notification_title">Включите Поиск устройства</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -164,6 +194,8 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+<!-- ### FROM SOURCE -->
+    <string name="gallery_auto_sync_fail_noti_content">Not enough storage space left in the cloud. Upgrade your storage plan to sync photos and videos.</string>
     <string name="help_and_feedback">Помощь и обратная связь</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>
     <string name="i_know">OK</string>
@@ -615,9 +647,13 @@
     <string name="noti_quota_low_title_without_button">Заканчивается место</string>
     <string name="notification_sync_fail_title">Не удалось синхронизировать пароли</string>
     <string name="notification_update_key_text">Код доступа менеджера паролей изменен. Проверьте новый код доступа.</string>
+<!-- ### FROM SOURCE -->
+    <string name="open_service_title">Turn on</string>
     <string name="pay_info_dialog_confirm_to_pay">Оплатить %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Использовать оставшиеся Mi Coins: %s</string>
     <string name="pay_info_dialog_title">Выберите метод оплаты</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_management">Permissions details</string>
     <string name="phone_number_required_dspt_provision">"Этому сервису требуется ваш номер телефона. "</string>
     <string name="picker_list_empty">Список пуст</string>
     <string name="picker_search_empty">Контакты не найдены</string>
@@ -726,7 +762,19 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">"Добро пожаловать в Поиск устройства! Вы можете использовать этот сервис, чтобы найти устройство, заблокировать его или стереть данные в случае утери. Зайдите на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> для перечисленных действий.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font>  будет автоматически отправлено для активации сервиса. В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения.&lt;br />&lt;br />Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.&lt;br />Сервису для нормальной работы необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:&lt;br />• Информация об устройстве:&lt;br />Для идентификации устройства&lt;br />• Местоположение:&lt;br />Для поиска вашего устройства и переключения в соответствующий режим в случае утери&lt;br />В случае отказа предоставить разрешения, вы не сможете пользоваться сервисами. В таком случае вы можете удалить приложение, выйти из аккаунта или ограничить разрешения в настройках.&lt;br />Прочтите и примите &lt;a href=\"%1$s\">&lt;u>Пользовательское соглашение&lt;/u>&lt;/a> и &lt;a href=\"%2$s\">&lt;u>Политику конфиденциальности&lt;/u>&lt;/a> перед использованием наших сервисов.&lt;br />"</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">"Добро пожаловать в Поиск устройства! Вы можете использовать этот сервис, чтобы найти устройство, заблокировать его или стереть данные в случае утери. Зайдите на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> для перечисленных действий.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>  будет автоматически отправлено для активации сервиса. В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения.&lt;br />&lt;br />Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.&lt;br />Сервису для нормальной работы необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:&lt;br />• Информация об устройстве:&lt;br />Для идентификации устройства&lt;br />• Местоположение:&lt;br />Для поиска вашего устройства и переключения в соответствующий режим в случае утери&lt;br />В случае отказа предоставить разрешения, вы не сможете пользоваться сервисами. В таком случае вы можете удалить приложение, выйти из аккаунта или ограничить разрешения в настройках.&lt;br />Прочтите и примите &lt;a href=\"%1$s\">&lt;u>Пользовательское соглашение&lt;/u>&lt;/a> и &lt;a href=\"%2$s\">&lt;u>Политику конфиденциальности&lt;/u>&lt;/a> перед использованием наших сервисов.&lt;br />"</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_policy_reject_confirm_msg">"You won't be able to keep using Xiaomi Cloud unless you agree to the new version of its &lt;a href=%1$s>&lt;u>Privacy Policy&lt;/u>&lt;/a>. Agree to the updated Privacy Policy now?"</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_policy_reject_confirm_title">Attention</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_policy_revoked_msg">Consent to the Privacy Policy of Xiaomi Cloud was withdrawn for this account. Try using a different account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_policy_update_msg">Xiaomi Cloud Privacy Policy was updated:&lt;br/>%1$s&lt;br/>Read and agree to the new version of &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before you continue.</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
     <string name="privacy_policy_url">app://com.miui.cloudservice.gdpr.license</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings">Privacy</string>
     <string name="provision_back">Назад</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
@@ -743,6 +791,18 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="recommend_service_title">Рекомендуемые сервисы</string>
     <string name="retain_data_high_quality_photo_waring_message">После выхода из системы, высококачественные копии фото и видео будут удалены из галереи. Оригиналы останутся в облаке. Вы можете загрузить оригиналы перед выходом из системы.</string>
     <string name="retain_data_high_quality_photo_waring_title">Удаление копий</string>
+<!-- ### FROM SOURCE -->
+    <string name="revoke_block_by_find_device">"Withdrawing consent will also turn off Find device. You'll have to verify your password after you continue."</string>
+<!-- ### FROM SOURCE -->
+    <string name="revoke_privacy_agreement_msg">"If you continue, you'll withdraw your consent to the Privacy Policy of Xiaomi Cloud. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Xiaomi Cloud provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Xiaomi Cloud services. Withdraw consent now?"</string>
+<!-- ### FROM SOURCE -->
+    <string name="revoke_privacy_confirm">Withdraw</string>
+<!-- ### FROM SOURCE -->
+    <string name="revoke_privacy_content">"If you continue, you'll withdraw your consent to the &lt;a href=app://com.miui.cloudservice.gdpr.license>Privacy Policy&lt;/a> of Find device. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Find device provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Find device services. Withdraw consent now?"</string>
+<!-- ### FROM SOURCE -->
+    <string name="revoke_privacy_failed">"Couldn't withdraw consent"</string>
+<!-- ### FROM SOURCE -->
+    <string name="revoke_privacy_title">Withdrawal of consent</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -762,6 +822,8 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="share_location_guide2_title">Помощь друзьям и семье</string>
     <string name="share_location_guide3_desc">Проверка информации о местоположении от друзей или семьи, чтобы быть в курсе их безопасности</string>
     <string name="share_location_guide3_title">Безопасность друзей и семьи</string>
+<!-- ### FROM SOURCE -->
+    <string name="share_location_guide_action_btn_loading_text">Just a sec…</string>
     <string name="share_location_guide_action_btn_text">Включить</string>
     <string name="share_location_guide_extra_btn_text">Пропустить</string>
     <string name="share_location_menu_create_shortcut">Ярлык на рабочем столе</string>
@@ -953,6 +1015,10 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="system_busy_or_network_error">Произошла ошибка. Повторите попытку позже.</string>
     <string name="system_cta_retry_get_permission_btn_pad">Начать</string>
     <string name="system_cta_retry_get_permission_msg_pad">Требуются разрешения</string>
+<!-- ### FROM SOURCE -->
+    <string name="talkback_hide_passcode">Hide passcode</string>
+<!-- ### FROM SOURCE -->
+    <string name="talkback_show_passcode">Show passcode</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

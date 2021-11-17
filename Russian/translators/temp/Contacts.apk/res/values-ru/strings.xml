@@ -119,6 +119,12 @@
     <string name="bh_buy_now">Покупка</string>
     <string name="bh_call_used">Использованные минуты</string>
     <string name="bh_cancel">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_cancellation_of_carrier_services">Cancel services</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_cancellation_of_carrier_services_des">Cancel Mi Carrier Services</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_cancellation_of_carrier_services_result">"If you continue, you'll cancel Mi Carrier Services. After that, we'll stop collecting and using your personal information and delete your order history permanently. Make sure all your transactions are completed before you cancel services."</string>
     <string name="bh_cannot_action">%1$s недоступно для использования. Установите соответствующее приложение.</string>
     <string name="bh_cannot_fetch_num">Неизвестный номер телефона</string>
     <string name="bh_cannot_login_miacount">Не удалось войти в Mi аккаунт</string>
@@ -155,6 +161,12 @@
     <string name="bh_delete_charged_phone_number">Удалить недавно использованный номер телефона</string>
     <string name="bh_delete_edited_phone_number">Удалить введенный номер телефона</string>
     <string name="bh_delete_success">Успешно удалено</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_deregister_service_failure_description">Wait a minute or two and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_deregister_service_failure_title">"Couldn't cancel services"</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_deregister_service_success">Canceled services successfully</string>
     <string name="bh_device_not_available_hint"><Data>"&lt;font color =#F22424>Устройство недоступно для использования.&lt;/font>Виртуальная SIM-карта была оформлена на устройство, на котором была совершена покупка (&lt;font color =#F22424>%1$s&lt;/font>), используйте то устройство."</Data></string>
     <string name="bh_discover">Изучить</string>
     <string name="bh_edit_saved_phone_number">Редактировать тег сохраненного номера</string>
@@ -172,17 +184,29 @@
     <string name="bh_gb">" ГБ"</string>
     <string name="bh_get_balance_success">Проверено успешно. Информация может обновляться с задержкой.</string>
     <string name="bh_get_charge_phone_number">Выбрать из контактов</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_goto_granted">去授权</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_goto_open">Not granted</string>
     <string name="bh_goto_set">Изменить</string>
     <string name="bh_hi">Здравствуйте, %1$s!</string>
     <string name="bh_hi1">Здравствуйте, %1$s (%2$s)!</string>
     <string name="bh_hi2">Здравствуйте %1$s!</string>
     <string name="bh_hour">" ч."</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_i_got_it">Got it</string>
     <string name="bh_in_used">Текущий</string>
     <string name="bh_input_hint">Введите номер телефона</string>
     <string name="bh_input_total_limit">Введите количество данных</string>
     <string name="bh_insert_card_number">Добавить SIM %1$d телефонный номер</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_is_open">Granted</string>
     <string name="bh_just_now">Только что</string>
     <string name="bh_kb">" КБ"</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_login_to_cancellation">To be able to cancel services, sign in first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_login_to_withdrawal">To be able to withdraw consent, sign in first.</string>
     <string name="bh_mb">" МБ"</string>
     <string name="bh_minute">" мин."</string>
     <string name="bh_misim_recharge">Пополнить</string>
@@ -197,6 +221,10 @@
     <string name="bh_net_error">Ошибка сети</string>
     <string name="bh_network_ctl">Управление подключением</string>
     <string name="bh_no_card">SIM-карта отсутствует</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_no_permission_read_call_log_desc">This permission allows displaying call duration</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_no_permission_read_contact_desc">This permission allows access to phone numbers in contacts</string>
     <string name="bh_no_sim">SIM-карта не установлена</string>
     <string name="bh_no_sim_inserted">SIM-карта не установлена</string>
     <string name="bh_none">Нет</string>
@@ -224,10 +252,20 @@
     <string name="bh_perm_ask_read_contacts">Разрешите Mi Carrier Services доступ к контактам.</string>
     <string name="bh_perm_ask_read_phone_state">Разрешите Mi Carrier Services доступ к хранилищу в настройках.</string>
     <string name="bh_perm_desc_read_contacts">Для отображения контактов при пополнении</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_permission_contact">Access contacts</string>
     <string name="bh_permission_contact_desc">Для пополнения баланса контактов</string>
     <string name="bh_permission_get_accounts_desc">Для размещения заказов и проверки их статуса</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_permission_read_call_log">Access call history</string>
     <string name="bh_permission_read_call_log_desc">Для отображения продолжительности разговора</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_permission_read_call_log_desc_and_reason">Read call log for displaying call duration</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_permission_read_contact_desc_and_reason">Read contacts for topping up balance of your contacts</string>
     <string name="bh_permission_read_phone_state_desc">Для отображения номеров телефонов и соответствующей информации оператора связи</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_permission_showing">Permissions details</string>
     <string name="bh_personal_center">Просмотреть профиль</string>
     <string name="bh_phone_card_order">SIM-карта</string>
     <string name="bh_pkg_data_cant_query">Подробная информация недоступна из-за ограничений оператора связи</string>
@@ -262,6 +300,12 @@
     <string name="bh_sim_two">SIM 2</string>
     <string name="bh_similar_number_hint">Этот номер похож на %1$s. Все равно пополнить этот номер?</string>
     <string name="bh_status_activating"><Data>&lt;font color =#0D84FF>Активация&lt;/font></Data></string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_stop_carrier_services">Turn off Mi Carrier Services</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_stop_carrier_services_short">Turn off Mi Carrier Services</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_stop_result">"You won't be able to manage your carrier plan or purchase data and call minutes if you turn off Mi Carrier Services. Turn off anyway?"</string>
     <string name="bh_system_recommend">Системные рекомендации</string>
     <string name="bh_system_recommend_des">Разрешите нам анализ трафика для рекомендации цифровых продуктов</string>
     <string name="bh_tag_phones">Часто используемые номера телефонов</string>
@@ -296,7 +340,25 @@
     <string name="bh_view_more_options">Ещё</string>
     <string name="bh_vs">Mi Roaming</string>
     <string name="bh_waiting_for_balance">Проверка баланса…</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_where_to_restart_carrier_services">You can always turn Mi Carrier Services back on in Contacts > Settings.</string>
     <string name="bh_will_open">Открытие %1$s…</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_withdraw_permission_failure_description">Wait a minute or two and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_withdraw_permission_failure_title">"Couldn't withdraw consent"</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_withdraw_permission_success">Withdrew consent successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_withdrawal_of_consent">Withdrawal of consent</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Withdrawal of consent and service cancelation</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_withdrawal_of_consent_des">Withdraw consent to the Privacy Policy of Mi Carrier Services</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_withdrawal_of_consent_long">Withdrawal of consent</string>
+<!-- ### FROM SOURCE -->
+    <string name="bh_withdrawal_of_consent_result">"If you continue, you'll withdraw your consent to the Privacy Policy of Mi Carrier Services. After that, we'll stop collecting and using your personal information and delete your order history permanently. Make sure all your transactions are completed before you withdraw consent."</string>
     <string name="bh_wrong_number_hint">Введите действующий номер телефона</string>
     <string name="bills_info_label">Детали</string>
     <string name="bind_simcard_default">SIM-карта по умолчанию для вызовов</string>
@@ -1123,6 +1185,8 @@
     <string name="miprofile_switch_on_alertdialog_title">Обновление фото профиля</string>
     <string name="missing_name">Мои группы</string>
     <string name="missing_required_permission">Вы не имеете необходимых разрешений.</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -1140,6 +1204,8 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Потяните для обновления</string>
     <string name="miuix_sb_tracking_progress_labe_refreshed">Обновлено</string>
     <string name="miuix_sb_tracking_progress_labe_refreshing">Обновление</string>
@@ -1364,7 +1430,41 @@
     <string name="permission_contact_desc">Для пополнения баланса контактов</string>
     <string name="permission_dailog_positive_button">Далее</string>
     <string name="permission_dailog_title">Требуются разрешения</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_access_fine_location">For importing contacts from other devices via Bluetooth</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_add_voicemail">For using voicemail and audio message functionality</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_call_phone">For making calls in third party apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_call_phone_for_pad">For making calls in third party apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_camera">For taking profile photos</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_read_call_logs">For viewing call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_read_contacts">For viewing contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_read_external_storage">For adding profile photos and importing vCards</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_read_phone_state">For accessing SIM info</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_title">Permissions required</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_write_call_logs">For editing call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_write_contacts">For managing contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_notice_desc_write_external_storage">For adding profile photos and importing vCards</string>
     <string name="permission_record_audio_desc">Для использования голоса при проверке личности</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_retry_deny">Cancel</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_retry_dialog_msg">To be able to use your SIM card with this app, manage your contacts, and keep call history up to date, allow this app to access and edit your contacts and call history, as well as to access device info.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_retry_dialog_msg_pad">To be able to use your SIM card with this app and manage your contacts, allow this app to access and edit your contacts, as well as to access device info.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_retry_setting">Settings</string>
     <string name="permission_write_external_storage_desc">Для сохранения данных приложения</string>
     <string name="phoneLabelsGroup">Телефон</string>
     <string name="phone_number_too_long_toast">Номер слишком длинный</string>
@@ -1441,6 +1541,10 @@
     <string name="preference_phone">Устройство</string>
     <string name="preference_phone_more_title">Вызовы</string>
     <string name="preference_privacy_policy_title">Политика конфиденциальности</string>
+<!-- ### FROM SOURCE -->
+    <string name="preference_privacy_settings">Privacy</string>
+<!-- ### FROM SOURCE -->
+    <string name="preference_privacy_settings_title">Privacy</string>
     <string name="preference_remove_duplicate">Объединение дубликатов</string>
     <string name="preference_show_firewall_calllog">Показывать заблокированные вызовы в журнале</string>
     <string name="preference_show_yellowpage_tab_description">Если эта функция отключена, Справочник может не работать должным образом</string>
@@ -1480,6 +1584,64 @@
     <string name="privacy_password_title3">Обновите ваш пароль</string>
     <string name="privacy_password_title4">Пароль обновлен</string>
     <string name="privacy_policy_and_user_agreement">Политика конфиденциальности и Пользовательское соглашение</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_call_phone">Make calls</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_call_phone_description">For making calls in third party apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_call_phone_description_for_pad">For making calls in third party apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_call_phone_for_pad">Make calls</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_contacts">Contacts and Phone</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_contacts_for_pad">Privacy</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_mallowed">Granted</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_mnotallowed">Not granted</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_permission_description">Permissions details</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_permission_related">Permissions</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_phone_position">Location</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_phone_position_description">For importing contacts from other devices via Bluetooth</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_privacy_policy">Privacy Policy</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_read_call_log">Access call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_read_call_log_description">For viewing call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_read_contacts">Access contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_read_contacts_description">For viewing contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_read_phone_state">Access device info</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_read_phone_state_description">For accessing SIM info</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_read_write_phone">Access storage</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_read_write_phone_description">For adding profile photos and importing vCards</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_take_photo_record_video">Take photos and record videos</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_take_photo_record_video_description">For taking profile photos</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_view_policy">View Privacy Policy</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_write_call_log">Edit call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_write_call_log_description">For editing call history</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_write_contacts">Edit contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_write_contacts_description">For managing contacts</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_settings_yellowpage">Yellow pages</string>
     <string name="private_num">Скрытый номер</string>
     <string name="profileSavedErrorToast">Не удалось сохранить изменения</string>
     <string name="profileSavedToast">Профиль сохранен</string>
@@ -1556,6 +1718,14 @@
     <string name="return_call_dialing">Набор номера</string>
     <string name="return_call_incoming">Входящий вызов</string>
     <string name="ringLabelsGroup">Мелодия</string>
+<!-- ### FROM SOURCE -->
+    <string name="saf_permission_dialog_content">"Android doesn't allow Contacts and Phone to access call recordings by default. Allow these apps to access call recordings to be able to view them."</string>
+<!-- ### FROM SOURCE -->
+    <string name="saf_permission_dialog_grant_permission_immediately">Allow</string>
+<!-- ### FROM SOURCE -->
+    <string name="saf_permission_dialog_later">Later</string>
+<!-- ### FROM SOURCE -->
+    <string name="saf_permission_dialog_title">Allow Contacts and Phone to access call recordings</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -1852,6 +2022,24 @@
     <string name="toast_for_saving_nickname">Изменения сохранены</string>
     <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
     <string name="toast_making_personal_copy">Создание персональной копии…</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_camera_perm_req">To be able to use camera for taking profile photos, allow this app to take photos and record videos first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_location_perm_req">To be able to import contacts from other devices via Bluetooth, allow this app to access your location first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_read_calllogs_perm_req">To be able to view call history, allow this app to access call history first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_read_contacts_perm_req">To be able to view contacts, allow this app to access contacts first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_read_phone_state_perm_req">To be able to use this app with your SIM card, allow this app to access device info first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_storage_perm_req">To be able to add profile photos and import vCards, allow this app to access storage first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_storage_perm_req_for_pad">To be able to add profile photos and import vCards, allow this app to access storage first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_write_calllogs_perm_req">To be able to keep call history up to date, allow this app to edit call history first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_not_show_write_contacts_perm_req">To be able to view contacts, allow this app to edit contacts first.</string>
     <string name="toast_start_intent_failed">Нет приложения для выполнения этого действия</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="today">Сегодня</string>

@@ -185,4 +185,9 @@
         <item quantity="one">Субтитры смещены на %.1f секунду назад</item>
         <item quantity="few">Субтитры смещены на %.1f секунды назад</item>
     </plurals>
+<!-- ### FROM SOURCE -->
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Add up to %d bookmarks</item>
+        <item quantity="one">Add up to %d bookmark</item>
+    </plurals>
 </resources>

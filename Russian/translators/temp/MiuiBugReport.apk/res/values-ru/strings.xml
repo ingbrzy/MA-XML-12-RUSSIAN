@@ -103,19 +103,31 @@
     <string name="catch_full_log_item_content_title">Как создать журналы</string>
     <string name="catch_full_log_item_title_audio">Аудио, рингтон и аудиозапись</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
+<!-- ### FROM SOURCE -->
+    <string name="catch_full_log_item_title_camera">Camera</string>
+<!-- ### FROM SOURCE -->
+    <string name="catch_full_log_item_title_charge">Charge</string>
     <string name="catch_full_log_item_title_dump_heap">Задержки</string>
     <string name="catch_full_log_item_title_gps">Службы местоположения</string>
     <string name="catch_full_log_item_title_sensor">Датчики</string>
     <string name="catch_full_log_item_title_signal">Телефон, сигнал и мобильные сети</string>
+<!-- ### FROM SOURCE -->
+    <string name="catch_full_log_item_title_trace">Lag</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
     <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
     <string name="catch_full_log_notification_content">Нажмите для возврата</string>
     <string name="catch_full_log_notification_title">Создание журнала…</string>
     <string name="catch_full_log_privacy_content_audio">"Вы создаете и сохраняете журналы на своем устройстве. Журналы могут содержать информацию об аудио на вашем устройстве, включая историю воспроизведения и историю записи. Будьте осторожны и не раскрывайте эти журналы другим людям. Нажав \"Принимаю\", вы соглашаетесь с тем, что мы будем собирать указанные данные при создании журналов и загружать журналы на наши серверы для поиска и решения проблем."</string>
     <string name="catch_full_log_privacy_content_bt">"Вы создаете и сохраняете журналы на своем устройстве. Журналы могут содержать информацию об использовании Bluetooth устройств (включая историю звонков, сообщения, переданные файлы и т.д.). Будьте осторожны и не раскрывайте эти журналы другим людям. Нажав \"Принимаю\", вы соглашаетесь с тем, что мы будем собирать указанные данные при создании журналов и загружать журналы на наши серверы для поиска и решения проблем."</string>
+<!-- ### FROM SOURCE -->
+    <string name="catch_full_log_privacy_content_camera">"You're generating logs and saving them on your device. The logs may contain Camera usage info (including CPU frequency, system call, memory usage etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
+<!-- ### FROM SOURCE -->
+    <string name="catch_full_log_privacy_content_charge">"You're generating logs and saving them on your device. The logs may contain Charge info. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
     <string name="catch_full_log_privacy_content_gps">"Вы создаете и сохраняете журналы на своем устройстве. Журналы могут содержать вашу личную информацию и информацию о местоположении. Будьте осторожны и не раскрывайте эти журналы другим людям. Нажав \"Принимаю\", вы соглашаетесь с тем, что мы будем собирать указанные данные при создании журналов и загружать журналы на наши серверы для поиска и решения проблем."</string>
     <string name="catch_full_log_privacy_content_sensor">"Вы создаете и сохраняете журналы на своем устройстве. Журналы могут содержать информацию, собранную датчиками вашего устройства (включая датчик внешней освещенности, барометр, шагомер, магнитометр и т.д.). Будьте осторожны и не раскрывайте эти журналы другим людям. Нажав \"Принимаю\", вы соглашаетесь с тем, что мы будем собирать указанные данные при создании журналов и загружать журналы на наши серверы для поиска и решения проблем."</string>
     <string name="catch_full_log_privacy_content_signal">"Вы создаете и сохраняете журналы на своем устройстве. Журналы могут содержать ваши сообщения, историю звонков, информацию о сети и данные обмена. Будьте осторожны и не раскрывайте эти журналы другим людям. Нажав \"Принимаю\", вы соглашаетесь с тем, что мы будем собирать указанные данные при создании журналов и загружать журналы на наши серверы для поиска и решения проблем."</string>
+<!-- ### FROM SOURCE -->
+    <string name="catch_full_log_privacy_content_trace">"You're generating logs and saving them on your device. The logs may contain app usage stats (including CPU frequency, system call, memory usage, etc.). Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
     <string name="catch_full_log_privacy_content_wifi">"Вы создаете и сохраняете журналы на своем устройстве. Журналы могут содержать вашу личную информацию, информацию о местоположении, а также IP-адреса и MAC-адреса вашего устройства. Если вы подключены к незашифрованной сети Wi-Fi, мы также можем получить доступ к части передаваемых данных. Будьте осторожны и не раскрывайте эти журналы другим людям. Нажав \"Принимаю\", вы соглашаетесь с тем, что мы будем собирать указанные данные при создании журналов и загружать журналы на наши серверы для поиска и решения проблем."</string>
     <string name="catch_full_log_privacy_content_wifi_china">"Вы создаете и сохраняете журналы на своем устройстве. Журналы могут содержать вашу личную информацию, информацию о местоположении, а также IP-адреса и MAC-адреса вашего устройства. Если вы подключены к незашифрованной сети Wi-Fi, мы также можем получить доступ к части передаваемых данных. Будьте осторожны и не раскрывайте эти журналы другим людям. Нажав \"Принимаю\", вы соглашаетесь с тем, что мы будем собирать указанные данные при создании журналов и загружать журналы на наши серверы для поиска и решения проблем."</string>
     <string name="catch_full_log_start_dump_hprof">Создание журнала задержек</string>
@@ -336,6 +348,8 @@ ID: %s
     <string name="goon_feedback_main">Продолжить</string>
     <string name="goto_sign_up">Создать аккаунт</string>
     <string name="hint_feedback_main">Опишите проблему (на английском)</string>
+<!-- ### FROM SOURCE -->
+    <string name="i_get_it">Got it</string>
     <string name="i_know">ОК</string>
     <string name="identity">Идентификация</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
@@ -439,6 +453,8 @@ ID: %s
     <string name="michat_webview_title">Подробности</string>
     <string name="midnight">Ночь</string>
     <string name="min_error">Ваш %1$s слишком короткий.</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -453,6 +469,7 @@ ID: %s
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -664,6 +681,12 @@ ID: %s
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_category_title">Конфиденциальность</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
+%2$s
+Read and agree to the new version of %3$s before you continue."</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Войти с паролем</string>
     <string name="pull_to_refresh_pull_label">Потяните вниз для обновления</string>
@@ -877,6 +900,10 @@ ID: %s
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_id_hint">Email/Phone/Mi Account ID</string>
+<!-- ### FROM SOURCE -->
+    <string name="user_must_known">Attention</string>
+<!-- ### FROM SOURCE -->
+    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="v_code_title">Введите код подтверждения</string>
@@ -890,6 +917,20 @@ ID: %s
     <string name="wednesday_shortest">Ср</string>
     <string name="weibo_application_id"/>
     <string name="weibo_redirect_uri"/>
+<!-- ### FROM SOURCE -->
+    <string name="withdraw">Withdraw</string>
+<!-- ### FROM SOURCE -->
+    <string name="withdraw_consent">Withdrawal of consent</string>
+<!-- ### FROM SOURCE -->
+    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
+<!-- ### FROM SOURCE -->
+    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="withdraw_consent_hint">"If you continue, you'll withdraw your consent to the Privacy Policy of %1$s. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As %2$s provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept %3$s services. Withdraw consent now?"</string>
+<!-- ### FROM SOURCE -->
+    <string name="withdrawing">Withdrawing consent…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
     <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
 Размер: %2$s"</string>

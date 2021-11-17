@@ -36,6 +36,17 @@
     <string name="account_add_other_sub_des">Другие аккаунты</string>
     <string name="account_add_title">Выберите почтовый сервис</string>
     <string name="account_change">Переключить аккаунт</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_child_dialog_neg_text">Exit</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_child_dialog_pos_text">Guardian agrees</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_child_dialog_text">"If you're a minor under the age of 14, inform your guardian that they must read and agree to \"Kingsoft Statement on Protection of Minors' Personal Data\". You must also seek their consent and guidance before using our services or submitting any personal information to us.
+To fully understand your rights as a user as well as the ways in which we process your data, read \"Kingsoft Statement on Protection of Minors' Personal Data\"."</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_child_dialog_title">"Statement on Protection of Minors' Personal Data"</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_child_save_statement">"Kingsoft Statement on Protection of Minors' Personal Data"</string>
     <string name="account_duplicate_dlg_message_fmt">Это имя пользователя уже используется в аккаунте \"%s\".</string>
     <string name="account_duplicate_dlg_title">Дубликат аккаунта</string>
     <string name="account_failure">Время сессии истекло</string>
@@ -44,6 +55,18 @@
     <string name="account_options_actionbar_title">Настройки аккаунта</string>
     <string name="account_options_sync_title">Синхронизация</string>
     <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Многие серверы не поддерживают пароли с пробелами.</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_permission_child_statement">"Statement on Protection of Minors' Personal Data"</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_permission_dialog_cancel_text">Withdraw</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_permission_dialog_text">"If you continue, you'll withdraw your consent to End User License Agreement, Privacy Policy, and Statement on Protection of Minors' Personal Data. After that, you won't be able to use WPS Mail, and all the data generated on this device will be deleted."</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_permission_dialog_title">Withdrawal of consent</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_permission_private_policy">Privacy Policy</string>
+<!-- ### FROM SOURCE -->
+    <string name="account_permission_user_privacy">End User License Agreement</string>
     <string name="account_security_dialog_content_fmt">%s требует обновления настроек безопасности.</string>
     <string name="account_security_dialog_title">Обновления безопасности</string>
     <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства.</string>
@@ -358,6 +381,8 @@
     <string name="chat_item_msg_people_unit">Участники</string>
     <string name="chat_item_msg_user_etc">и т.д.</string>
     <string name="check_setup_data">"    Проверка параметров сервера…"</string>
+<!-- ### FROM SOURCE -->
+    <string name="child_policy_url">https://www.wps.cn/privacy/full_kids</string>
     <string name="chip_text">Текст</string>
     <string name="choose_an_office365_international">Международная версия</string>
     <string name="choose_an_office365_provider">Поставщик услуг office365</string>
@@ -512,6 +537,8 @@
     <string name="disable_admin_warning">"ПРЕДУПРЕЖДЕНИЕ: Отключение прав на администрирование
  вашего устройства посредством почтового клиента приведет к удалению соответствующих почтовых аккаунтов,
  писем, контактов, событий в календаре и др."</string>
+<!-- ### FROM SOURCE -->
+    <string name="disallow_qq_auth_how_get_auth_code">How do I get an authorization code?</string>
     <string name="discard">Отменить</string>
     <string name="discard_drafts">Удалить черновики</string>
     <string name="dismiss_tip_hover_text">Не показывать</string>
@@ -715,6 +742,14 @@
     <string name="get_database_exception">Очистите данные приложения в Настройки > Системные приложения и повторите попытку.</string>
     <string name="get_oauth_code">Получить код</string>
     <string name="gmail_acceleration">Использовать прокси для доступа к Gmail</string>
+<!-- ### FROM SOURCE -->
+    <string name="gmail_invalid_tip_cancel">Cancel</string>
+<!-- ### FROM SOURCE -->
+    <string name="gmail_invalid_tip_confirm">Sign in</string>
+<!-- ### FROM SOURCE -->
+    <string name="gmail_invalid_tip_message">"Google's terms and conditions have changed. Sign in to Gmail again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="gmail_invalid_tip_title">Sign in to Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Использовать прокси для доступа к аккаунту Gmail?</string>
     <string name="gmail_login_failed_non_proxy_title">Не удалось получить доступ к серверу Gmail</string>
     <string name="gmail_server_authorization_deleted">Не удалось проверить подлинность аккаунта. Добавьте аккаунт повторно.</string>
@@ -1134,6 +1169,8 @@
     <string name="ntes_send_to_content">Если текущий номер телефона связан с учетной записью, нажмите \"Отправить SMS\".</string>
     <string name="ntes_verification_code">Введите код: %s</string>
     <string name="oauth_error_description">Ошибка аутентификации</string>
+<!-- ### FROM SOURCE -->
+    <string name="oauth_find_browser_error_description">Please install the browser before logging in</string>
     <string name="oauth_gmail_login_notify">Введите логин и пароль аккаунта Google в следующей форме.</string>
     <string name="oauth_login_continue">Продолжить</string>
     <string name="oauth_login_continue_qq">Получить пароль и войти в ></string>
@@ -1236,12 +1273,26 @@
     <string name="perference_setup_send_tag">Сервер исходящей почты</string>
     <string name="permission_access_provider_desc">Позволяет приложению получать доступ к данным почты, именам пользователей и паролям.</string>
     <string name="permission_access_provider_label">Доступ к данным пользователя</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_calendar_subtitle">For syncing events from email to your Calendar</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_calendar_title">Access and add Calendar events</string>
     <string name="permission_des_calendar">Для синхронизации событий календаря</string>
     <string name="permission_des_contact">Для доступа к электронным адресам контактов для автозаполнения получателей</string>
     <string name="permission_des_external_storage">Для создания новых электронных писем, сохранения и добавления вложений</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_get_accounts_subtitle">For signing in and managing system accounts</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_phone_status_subtitle">For identifying different devices</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_phone_status_title">Access accounts on device</string>
     <string name="permission_read_attachment_desc">Разрешает приложению открывать вложения электронных писем</string>
     <string name="permission_read_attachment_label">Открывать вложения</string>
     <string name="permission_tip">Ошибка конфигурации. Разрешите звонки и текстовые сообщения при настройке конфигурации.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_write_contacts_subtitle">"For displaying and changing contacts' email addresses"</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_write_external_storage_title">Access and save photos and files on device</string>
     <string name="personal_data_collection_summary">Когда переключатель включен, это означает, что вы даете согласие на сбор ваших личных данных. Вы можете в любое время отключить его, чтобы отозвать авторизацию и удалить свои данные с наших серверов.</string>
     <string name="personal_data_collection_title">Сбор личных данных</string>
     <string name="phone">телефоном</string>
@@ -1295,6 +1346,10 @@
     <string name="print">Печать</string>
     <string name="print_scheduler_title">Распечатать все планировщики</string>
     <string name="privacy_and_help">Конфиденциальность и помощь</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_and_private_permission">Consent to User Agreement and Privacy Policy</string>
+<!-- ### FROM SOURCE -->
+    <string name="privacy_and_private_permission_key">privacy_and_private_permission</string>
     <string name="privacy_des">"Журналы содержат отладочную информацию почтового клиента и информацию об устройстве. Эта информация используется для более быстрой локализации проблем. Нажав \"%1$s\" ниже, вы соглашаетесь с \"%2$s\"."</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_setting_agree">Принимаю</string>
@@ -1525,6 +1580,8 @@
     <string name="show_images_all">Загрузить и показать все изображения</string>
     <string name="show_password">Показать пароль</string>
     <string name="show_server_cet">Просмотр сертификата</string>
+<!-- ### FROM SOURCE -->
+    <string name="sign_in_dialog_office365">Office 365</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook для бизнеса (без календаря)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (с календарем)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (без календаря)</string>
