@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
     <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
-    <string name="abc_capital_off">ОТКЛ.</string>
-    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_capital_off">Откл.</string>
+    <string name="abc_capital_on">Вкл.</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
@@ -30,7 +30,7 @@
     <string name="about_app_name">О приложении</string>
     <string name="about_version_update">Что нового</string>
 <!-- ### FROM SOURCE -->
-    <string name="accessibiliy_ad">广告</string>
+    <string name="accessibiliy_ad">Реклама</string>
     <string name="accessibiliy_description_content_account">Профиль</string>
     <string name="accessibiliy_description_content_ad">Реклама</string>
     <string name="accessibiliy_description_content_add_resource">Добавить объекты</string>
@@ -67,7 +67,7 @@
     <string name="afternoon">После полудня</string>
     <string name="all_resources">Все</string>
 <!-- ### FROM SOURCE -->
-    <string name="allow">Granted</string>
+    <string name="allow">Разрешить</string>
     <string name="already_latest_version">Обновлений нет</string>
     <string name="already_newest_version">Обновление не требуется</string>
     <string name="am">AM</string>
@@ -91,7 +91,7 @@
     <string name="app_enable_transparent_wallpaper">Включить прозрачные обои</string>
     <string name="app_name">Темы</string>
 <!-- ### FROM SOURCE -->
-    <string name="application_list_permission_desc">For showing apps compatible with transparent wallpapers</string>
+    <string name="application_list_permission_desc">Приложения, совместимые с прозрачными обоями</string>
     <string name="apply_choosen_type_resource">Применить выбранные компоненты</string>
     <string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
     <string name="apply_failed">Не удалось применить</string>
@@ -106,7 +106,7 @@
     <string name="apply_success_not_support_aod">Не удалось совместить Активный экран с темой на устройстве. Остальные компоненты успешно применены.</string>
     <string name="apply_theme_with_ringtones">Применять с мелодией</string>
 <!-- ### FROM SOURCE -->
-    <string name="apply_warning_get_device_dialog_message">To be able to use downloaded content, allow this feature to access your device ID first. You can grant this permission in Settings > Privacy.</string>
+    <string name="apply_warning_get_device_dialog_message">Чтобы использовать загруженный контент, разрешите этой функции получить доступ к ID вашего устройства. Вы можете предоставить это разрешение в Настройки> Конфиденциальность.</string>
     <string name="apply_warning_tip_get_device_status">Разрешите приложению доступ к ID устройства</string>
     <string name="audio_duration_minutes_format">%1$d мин.</string>
     <string name="audio_duration_seconds_format">%1$d сек.</string>
@@ -124,19 +124,19 @@
     <string name="backup_theme_progress_message">Сохранение…</string>
     <string name="backup_theme_success_message">Сохранение текущей темы завершено.</string>
 <!-- ### FROM SOURCE -->
-    <string name="basic_mode">Offline mode</string>
+    <string name="basic_mode">Автономный режим</string>
 <!-- ### FROM SOURCE -->
-    <string name="basic_mode_desc">"Themes won't connect to the Internet and will only use local content. Your personal information won't be collected."</string>
+    <string name="basic_mode_desc">"Темы не будут подключаться к Интернету и будут использовать только локальный контент. Ваша личная информация не будет собрана."</string>
     <string name="boot_audio_dialog_cancel">Отмена</string>
-    <string name="boot_audio_dialog_confirm">ОК</string>
+    <string name="boot_audio_dialog_confirm">Ок</string>
     <string name="boot_audio_dialog_content">Мелодия загрузки отключена. Включить обратно и применить эту мелодию?</string>
     <string name="boot_audio_dialog_title">Внимание</string>
     <string name="both_all_apply_failured">Не удалось установить обои</string>
     <string name="both_all_apply_success">Обои установлены</string>
 <!-- ### FROM SOURCE -->
-    <string name="browse_mode">Online mode</string>
+    <string name="browse_mode">Автономный режим</string>
 <!-- ### FROM SOURCE -->
-    <string name="browse_mode_desc">"Themes will connect to the Internet and use both local and online content. Your personal information won't be collected."</string>
+    <string name="browse_mode_desc">"Темы будут подключаться к Интернету и использовать как локальный, так и онлайн-контент. Ваша личная информация не будет собрана."</string>
     <string name="browser_local_resource">Локальные ресурсы</string>
     <string name="can_not_apply">Не удалось применить</string>
     <string name="can_not_apply_error">Этот формат видео не поддерживается</string>
@@ -157,7 +157,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
 <!-- ### FROM SOURCE -->
-    <string name="close_custom_permission_warning_text">"Without storage permissions, this app won't be able to download items and personalize your device. Turn off anyway?"</string>
+    <string name="close_custom_permission_warning_text">"Без доступа к хранилищу, приложение не сможет загружать объекты и персонализировать Ваше устройство. Все равно выключить?"</string>
     <string name="common_applying">Применение…</string>
     <string name="common_downloading">Загрузка…</string>
     <string name="common_format_date_no_year">dd.MM</string>
@@ -190,7 +190,7 @@
     <string name="current_version">Текущая версия: %1$s</string>
     <string name="current_version_incompatible">Несовместимая версия</string>
 <!-- ### FROM SOURCE -->
-    <string name="custom_storage_permission_desc">To be able to change personalization preferences and save downloaded items, allow this feature to access storage first. You can grant this permission in Settings > Privacy.</string>
+    <string name="custom_storage_permission_desc">Чтобы иметь возможность изменять настройки персонализации и сохранять загруженные элементы, разрешите доступ к хранилищу. Вы можете предоставить это разрешение в Настройки> Конфиденциальность.</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
@@ -276,21 +276,21 @@
     <string name="dialog_apply_lock_screen_wallpaper_warning">Обои экрана блокировки</string>
     <string name="dialog_content_get_device_status">Приложению требуется доступ к ID устройства для проверки подлинности компонентов, приобретенных на других ваших устройствах. После отключения этой функции некоторые приобретенные компоненты могут быть недоступны. Отключить?</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_negative_button_text">Not now</string>
+    <string name="dialog_negative_button_text">Не сейчас</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_positive_button_text">Allow</string>
+    <string name="dialog_positive_button_text">Разрешить</string>
     <string name="dialog_show_never">Больше не показывать</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_trans_wallpaper_offline_detail">"Transparent wallpapers are no longer available because they aren't supported by Android 12."</string>
+    <string name="dialog_trans_wallpaper_offline_detail">"Прозрачные обои не поддерживаются Android 12."</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_trans_wallpaper_offline_inform_detail">Transparent wallpapers are no longer available due to Android 12 restrictions and compatibility issues.</string>
+    <string name="dialog_trans_wallpaper_offline_inform_detail">Прозрачные обои не доступны из-за ограничений Android 12 и проблем с совместимостью.</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_trans_wallpaper_offline_inform_title">Transparent wallpapers</string>
+    <string name="dialog_trans_wallpaper_offline_inform_title">Прозрачные обои</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_trans_wallpaper_offline_title">"Transparent wallpapers aren't available"</string>
+    <string name="dialog_trans_wallpaper_offline_title">"Прозрачные обои недоступны"</string>
     <string name="display">Экран</string>
 <!-- ### FROM SOURCE -->
-    <string name="do_not_allow">Restricted</string>
+    <string name="do_not_allow">Запрещено</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_preview_failed">Не удалось загрузить эскиз</string>
     <string name="download_success">Загрузка завершена</string>
@@ -413,7 +413,7 @@
     <string name="has_mamual_hide_theme">Скрытые</string>
     <string name="has_mamual_hide_wallpaper">Скрытые</string>
 <!-- ### FROM SOURCE -->
-    <string name="head_portraits">Profile photo</string>
+    <string name="head_portraits">Аватар</string>
     <string name="hide_free">Скрыть бесплатные %1$s</string>
     <string name="hide_free_aod">Не показывать бесплатные темы</string>
     <string name="hide_free_font">Скрыть бесплатные шрифты</string>
@@ -486,7 +486,7 @@
     <string name="lockscreen_wallpaper">Экран блокировки</string>
     <string name="lockstyle_personal_settings">Настройки</string>
 <!-- ### FROM SOURCE -->
-    <string name="login_theme">Sign in to Themes</string>
+    <string name="login_theme">Войти в Темы</string>
     <string name="long_click_can_hide_resource">Удерживайте элементы для скрытия</string>
     <string name="loop_wallpaper_is_here">Новые функции</string>
     <string name="material_slider_range_end">Конец диапазона,</string>
@@ -654,11 +654,11 @@ mm"</string>
     <string name="multiwindow_no_support">Это действие недоступно в режиме разделения экрана</string>
     <string name="multiwindow_no_support_icon">Смена иконок недоступна в режиме разделения экрана</string>
 <!-- ### FROM SOURCE -->
-    <string name="need_to_open_application_permission_desc">To be able to learn what apps are compatible with transparent wallpapers, allow Themes to access the list of apps installed on your device.</string>
+    <string name="need_to_open_application_permission_desc">Чтобы узнать, какие приложения совместимы с прозрачными обоями, разрешите Темам доступ к списку приложений, установленных на вашем устройстве.</string>
 <!-- ### FROM SOURCE -->
-    <string name="need_to_open_permission">Permissions required</string>
+    <string name="need_to_open_permission">Требуются разрешения</string>
 <!-- ### FROM SOURCE -->
-    <string name="need_to_open_storage_permission_desc">To be able to use and download items in Themes, allow the app to access storage first.</string>
+    <string name="need_to_open_storage_permission_desc">Чтобы иметь возможность использовать и загружать элементы в Tемах, разрешите приложению доступ к хранилищу.</string>
     <string name="network_exception">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">Вечер</string>
@@ -672,7 +672,7 @@ mm"</string>
     <string name="no_wallpaper">Ничего нет</string>
     <string name="noon">Полдень</string>
 <!-- ### FROM SOURCE -->
-    <string name="not_allow">Not granted</string>
+    <string name="not_allow">Не предоставлено</string>
     <string name="not_set">Не задано</string>
     <string name="not_support_incall_show">Эти обои не работают с видео профиля</string>
     <string name="official_accounts">WeChat</string>
@@ -694,21 +694,21 @@ mm"</string>
     <string name="ota_recovery_theme_notity_content">Вы можете вернуться к теме, которую использовали до обновления</string>
     <string name="ota_recovery_theme_notity_title">Восстановление темы</string>
 <!-- ### FROM SOURCE -->
-    <string name="pad_fold_exit_wallpaper_warning_content">"You won't be able to perform the following actions after you sign out:
-View and use the items you purchased or added to favorites."</string>
+    <string name="pad_fold_exit_wallpaper_warning_content">"После выхода Вы не сможете выполнять следующие действия:
+Просматривать и использовать все то, что Вы приобрели или добавили в Избранное."</string>
 <!-- ### FROM SOURCE -->
-    <string name="pad_fold_exit_wallpaper_warning_title">Sign out of Wallpaper and personalization?</string>
+    <string name="pad_fold_exit_wallpaper_warning_title">Выйти из Обои и персонализация?</string>
 <!-- ### FROM SOURCE -->
-    <string name="pad_fold_log_in_theme_detail"><Data>"I've read and agreed to Wallpaper and personalization's &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>, as well as Mi Account's &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font> (for signing in using the system account)."</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Я согласен с условиями Обои и персонализация &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Политикой конфиденциальности&lt;/a>&lt;/font>, условиями использования Mi Аккаунт &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское Соглашение&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> и &lt;a href=\"%4$s\">Политика конфиденциальности&lt;/a>&lt;/font> (для входа с использованием системной учетной записи)."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="pad_fold_log_in_wallpaper">Sign in to Wallpaper and personalization</string>
+    <string name="pad_fold_log_in_wallpaper">Войти в Обои и персонализация</string>
 <!-- ### FROM SOURCE -->
-    <string name="pad_fold_no_permission">Storage permissions required</string>
+    <string name="pad_fold_no_permission">Требуется доступ к храненилищу </string>
 <!-- ### FROM SOURCE -->
-    <string name="pad_fold_no_permission_detail">To be able to change personalization preferences and save downloaded items, allow this feature to access storage first.</string>
+    <string name="pad_fold_no_permission_detail">Чтобы изменять настройки персонализации и сохранять загруженные элементы, разрешите доступ к хранилищу.</string>
     <string name="password_toggle_content_description">Показать пароль</string>
 <!-- ### FROM SOURCE -->
-    <string name="personalize">Personalization</string>
+    <string name="personalize">Персонализация</string>
     <string name="personalize_alarm_ringtone_title">Будильники</string>
     <string name="personalize_aod_title">Активный экран</string>
     <string name="personalize_call_ringtone_title">Рингтоны</string>
@@ -720,7 +720,7 @@ View and use the items you purchased or added to favorites."</string>
     <string name="personalize_notify_ringtone_title">Уведомления</string>
     <string name="personalize_notify_style_title">Эффекты</string>
 <!-- ### FROM SOURCE -->
-    <string name="personalize_recommend_switch_desc">Receive personalized content recommendations based on device ID</string>
+    <string name="personalize_recommend_switch_desc">Получайте персонализированные рекомендации по содержанию на основе ID устройства</string>
     <string name="personalize_second_space_not_support_set_font">Смена шрифта недоступна во втором пространстве</string>
     <string name="personalize_theme_entrance">Темы</string>
     <string name="personalize_third_font">Шрифты</string>
@@ -728,23 +728,23 @@ View and use the items you purchased or added to favorites."</string>
     <string name="personalize_wallpaper_sub_title">Суперобои и популярные изображения</string>
     <string name="personalize_wallpaper_title">Обои</string>
 <!-- ### FROM SOURCE -->
-    <string name="phone_exit_theme_warning_content">"You won't be able to perform the following actions after you sign out:
-1. View and use the items you purchased or added to favorites.
-2. Add comments and likes, follow other people and interact with them."</string>
+    <string name="phone_exit_theme_warning_content">"После выхода Вы не сможете выполнять следующие действия:
+1. Просматривать и использовать все то, что Вы приобрели или добавили в Избранное.
+2. Добавляйть комментарии и лайки, подписываться на других людей и общатся с ними."</string>
 <!-- ### FROM SOURCE -->
-    <string name="phone_exit_theme_warning_title">Sign out of Themes?</string>
+    <string name="phone_exit_theme_warning_title">Выйти из Темы?</string>
 <!-- ### FROM SOURCE -->
-    <string name="phone_log_in_theme">Sign in to Themes</string>
+    <string name="phone_log_in_theme">Войти в Темы</string>
 <!-- ### FROM SOURCE -->
-    <string name="phone_log_in_theme_detail"><Data>"I've read and agreed to Themes' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>, as well as Mi Account's &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font> (for signing in using the system account)."</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"Я принимаю условия использования Темы' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское Соглашение&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Политика конфиденциальности&lt;/a>&lt;/font>, условиями использования Mi Аккаунт &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское Соглашение&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Политика конфиденциальности&lt;/a>&lt;/font> (для входа с использованием системной учетной записи)."</Data></string>
     <string name="playing_ringtone">Воспроизведение</string>
     <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">Замена обоев на слайд-шоу изображений из различных категорий</string>
     <string name="pref_privacy_policy">Политика конфиденциальности</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_read_write_function_detail">For changing personalization preferences and saving downloaded items</string>
+    <string name="pref_read_write_function_detail">Изменение предпочтений персонализации и сохранения загруженных элементов</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_reading_the_application_list_detail">For using transparent wallpapers</string>
+    <string name="pref_reading_the_application_list_detail">Использование прозрачных обоев</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preference_subtitle_get_device_status">Разрешите приложению доступ к ID устройства для загрузки компонентов, приобретенных на других ваших устройствах</string>
     <string name="preference_title_get_device_status">Доступ к ID устройства</string>
@@ -754,51 +754,51 @@ View and use the items you purchased or added to favorites."</string>
     <string name="present_official_themes">Наш выбор</string>
     <string name="present_online_themes">Онлайн-темы</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_action_failed_net_content">A network error occurred. Wait a minute or two and try again.</string>
+    <string name="privacy_action_failed_net_content">Ошибка сети. Попробуйте позже...</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_action_failed_server_content">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="privacy_action_failed_server_content">Ошибка сервера. Попробуйте позже...</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_action_failed_title">Error</string>
+    <string name="privacy_action_failed_title">Ошибка</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_confirm_logoff_and_exit">Cancel services</string>
+    <string name="privacy_confirm_logoff_and_exit">Отменить услуги</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_confirm_revoke_and_exit_btn">Withdraw consent</string>
+    <string name="privacy_confirm_revoke_and_exit_btn">Отзыв согласия</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_exit_btn">Exit</string>
+    <string name="privacy_exit_btn">Выход</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_give_up_logoff">Back</string>
+    <string name="privacy_give_up_logoff">Назад</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_give_up_revoke_btn">Back</string>
+    <string name="privacy_give_up_revoke_btn">Назад</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_i_know_btn">Continue</string>
+    <string name="privacy_i_know_btn">Продолжить</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_important_prompt_title">Attention</string>
+    <string name="privacy_important_prompt_title">Внимание</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_log_off_succeed">Canceled services successfully</string>
+    <string name="privacy_log_off_succeed">Услуги успешно отменены</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_loging_off_warning">Canceling services…</string>
+    <string name="privacy_loging_off_warning">Отмена услуг…</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_logoff_services_title">Cancel services</string>
+    <string name="privacy_logoff_services_title">Отказ от услуг</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_logoff_theme_content_1">1. All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.</string>
+    <string name="privacy_logoff_theme_content_1">1. Все заказы (в том числе оплаченные), сделанные на устройствах Xiaomi. Вы больше не сможете использовать купленные предметы.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_logoff_theme_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.</string>
+    <string name="privacy_logoff_theme_content_2">2. Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, созданная на устройствах Xiaomi.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_logoff_theme_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
+    <string name="privacy_logoff_theme_content_5">5. Все элементы персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут установлены по умолчанию.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_logoff_theme_service_warning">The following items will be deleted permanently after the services are canceled:</string>
+    <string name="privacy_logoff_theme_service_warning">Следующие элементы будут удалены навсегда после отмены услуг:</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_network_exception">A network error occurred. Wait a minute or two and try again.</string>
+    <string name="privacy_network_exception">Ошибка сети. Попробуйте позже...</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_Read_write_storage">Access storage</string>
+    <string name="privacy_pad_fold_Read_write_storage">Доступ к хранилищу</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_entry">Privacy</string>
+    <string name="privacy_pad_fold_entry">Конфиденциальность</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_service_content">Cancel Wallpaper and personalization services</string>
+    <string name="privacy_pad_fold_logoff_service_content">Отказ от услуг Обои и персонализация</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. All the wallpapers, fonts, and ringtones downloaded to this device.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Все обои, шрифты и рингтоны, загруженные на это устройство.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. All the permissions preferences, settings, and cached items generated on this device.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Все настройки разрешений, настройки и кэшированные элементы, созданные на этом устройстве.</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
 2. Cancelation of Wallpaper and personalization services won't affect the normal usage of other Xiaomi products.
