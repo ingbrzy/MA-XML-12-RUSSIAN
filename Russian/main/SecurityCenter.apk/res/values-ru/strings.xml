@@ -1156,6 +1156,14 @@
     <string name="cta_main_purpose">Добро пожаловать в Безопасность. Вы можете использовать это приложение для очистки мусора на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого.</string>
     <string name="cta_settings">Разрешить подключение к интернету и доступ к местоположению</string>
     <string name="current_network_state_not_need_diagnose">Интернет-соединение работает нормально.</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Для использования черного списка и вызова экстренных контактов для предупреждения о землетрясении</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Для отображения заблокированных вызовов в журнале вызовов</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Для использования черного списка</string>
+    <string name="custom_define_permission_desc_android.permission.READ_SMS">Для использования черного списка и распознавания сообщений от оператора связи</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Для использования черного списка и отправки калибровочных сообщений оператору связи</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Для удаления сообщений из черного списка</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для предоставления информации о вашем местоположении Центру предупреждения MIUI и экстренного вызова</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для очистки корзины и антивирусного сканирования</string>
     <string name="customize_limit_pkg">%s (особый)</string>
     <string name="customizer_mode_user_define_name">Мой профиль</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Оператор</string>
@@ -2179,7 +2187,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_dialog_btn_close">Отключить</string>
     <string name="gtb_dialog_btn_open">Включить</string>
     <string name="gtb_dialog_hint_smart_5g">Вы можете включить или выключить эту функцию в Ускорение игр &gt; Настройки.</string>
-    <string name="gtb_dialog_privacy_voice_title">Игровой синтезатор голоса Xunyou</string>
+    <string name="gtb_dialog_privacy_speed_message">Вы собираетесь использовать Ускорение игр Xunyou. Этот сервис будет использовать ID вашего Mi аккаунта для записи продолжительности вашего членства.</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> Ускорения игр Xunyou.</Data></string>
+    <string name="gtb_dialog_privacy_speed_title">Ускорение игр Xunyou</string>
+    <string name="gtb_dialog_privacy_voice_message">Вы собираетесь использовать Синтезатор голоса Xunyou. Этот сервис будет использовать ID вашего Mi аккаунта для записи продолжительности вашего членства.</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> Синтезатора голоса Xunyou.</Data></string>
+    <string name="gtb_dialog_privacy_voice_title">Синтезатор голоса Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">При обнаружении сети 5G, устройство будет переключено на лучшую доступную сеть для уменьшения задержек сети. Включить эту функцию?</string>
     <string name="gtb_dialog_title_smart_5g">Оптимизация сети 5G</string>
     <string name="gtb_exit_game_to_gtb">Открыть Ускорение игр</string>
@@ -4123,6 +4136,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="settings_show_detail">Подробности</string>
     <string name="settings_tip">Для дополнительных параметров перейдите в Галерея &gt; Настройки</string>
     <string name="settings_title">Безопасный обмен</string>
+    <string name="share_uid_app">Приложения с общими разрешениями</string>
+    <string name="share_uid_instruction">Это приложение должно иметь общие разрешения со связанными приложениями для обеспечения соответствующих системных сервисов. При изменении разрешений этого приложения, соответствующие разрешения будут изменены и для связанных приложений.</string>
     <string name="shield_keyboard_detail">Включить кнопки можно двойным нажатием на них</string>
     <string name="shield_keyboard_summary">Отключить кнопки и полноэкранные жесты во время игр</string>
     <string name="shield_keyboard_title">Отключить кнопки и жесты</string>
@@ -4362,7 +4377,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_sim_protect_summary">Защита информации на SIM-картах</string>
     <string name="sp_sim_protect_title">Безопасность SIM-карт</string>
     <string name="sp_sos_summary">Получение помощи в случае опасности</string>
-    <string name="sp_sos_title">Режим SOS</string>
+    <string name="sp_sos_title">Экстренный вызов</string>
     <string name="sp_system_security_title">Безопасность системы</string>
     <string name="sp_toast_removed_from_sign_white_list">Удалено из исключений. Объект будет проверен в следующий раз.</string>
     <string name="sp_website_scan_summary">Безопасный просмотр веб-страниц</string>
@@ -4804,7 +4819,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
     <string name="system_permission_perm_send_mms">Отправка MMS</string>
     <string name="system_tool_green_guard">Семейный защитник</string>
-    <string name="system_tool_sos">Режим SOS</string>
+    <string name="system_tool_sos">Экстренный вызов</string>
     <string name="tab_blacklist">Черный список</string>
     <string name="tab_block_log_unKnowNumber">Скрытый номер</string>
     <string name="tab_call">Вызовы</string>
