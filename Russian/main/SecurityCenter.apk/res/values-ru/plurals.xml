@@ -486,14 +486,12 @@
         <item quantity="few">Можно защитить %d объекта</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%s часов</item>
-        <item quantity="one">%s час</item>
-        <item quantity="few">%s часа</item>
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%s минут</item>
-        <item quantity="one">%s минута</item>
-        <item quantity="few">%s минуты</item>
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
@@ -667,14 +665,12 @@
         <item quantity="few"> %s дня</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_hour">
-        <item quantity="other"> %s часов</item>
-        <item quantity="one"> %s час</item>
-        <item quantity="few"> %s часа</item>
+        <item quantity="other"> %s ч.</item>
+        <item quantity="one"> %s ч.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_minute">
-        <item quantity="other"> %s минут</item>
-        <item quantity="one"> %s минута</item>
-        <item quantity="few"> %s минуты</item>
+        <item quantity="other"> %s мин.</item>
+        <item quantity="one"> %s мин.</item>
     </plurals>
     <plurals name="pc_main_power_manager_day">
         <item quantity="other">%s дней до полной зарядки</item>
@@ -682,14 +678,12 @@
         <item quantity="few">%s дня до полной зарядки</item>
     </plurals>
     <plurals name="pc_main_power_manager_hour">
-        <item quantity="other">%s часов до полной зарядки</item>
-        <item quantity="one">%s час до полной зарядки</item>
-        <item quantity="few">%s часа до полной зарядки</item>
+        <item quantity="other">%s ч. до полной зарядки</item>
+        <item quantity="one">%s ч. до полной зарядки</item>
     </plurals>
     <plurals name="pc_main_power_manager_minute">
-        <item quantity="other">%s минут до полной зарядки</item>
-        <item quantity="one">%s минута до полной зарядки</item>
-        <item quantity="few">%s минуты до полной зарядки</item>
+        <item quantity="other">%s мин. до полной зарядки</item>
+        <item quantity="one">%s мин. до полной зарядки</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_day">
         <item quantity="other">Осталось %s дней</item>
@@ -717,14 +711,12 @@
         <item quantity="few">Осталось %s минуты</item>
     </plurals>
     <plurals name="pc_statistics_battery_use_minute">
-        <item quantity="other">%d минут с момента зарядки</item>
-        <item quantity="one">%d минута с момента зарядки</item>
-        <item quantity="few">%d минуты с момента зарядки</item>
+        <item quantity="other">%d мин. с момента зарядки</item>
+        <item quantity="one">%d мин. с момента зарядки</item>
     </plurals>
     <plurals name="pc_statistics_battery_use_second">
-        <item quantity="other">%d секунд с момента зарядки</item>
-        <item quantity="one">%d секунда с момента зарядки</item>
-        <item quantity="few">%d секунды с момента зарядки</item>
+        <item quantity="other">%d сек. с момента зарядки</item>
+        <item quantity="one">%d сек. с момента зарядки</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Загрузок: %1$d</item>
@@ -869,6 +861,10 @@
         <item quantity="other">%s приложений с постоянным доступом</item>
         <item quantity="one">%s приложение с постоянным доступом</item>
         <item quantity="few">%s приложения с постоянным доступом</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Предоставлено для %s приложений</item>
+        <item quantity="one">Предоставлено для %s приложения</item>
     </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s раз</item>
@@ -1045,8 +1041,8 @@
         <item quantity="one">%d мин.</item>
     </plurals>
     <plurals name="summary_result_lock_screen_format">
-        <item quantity="other">Блокировка экрана через %d мин.</item>
-        <item quantity="one">Блокировка экрана через %d мин.</item>
+        <item quantity="other">Заблокировать экран через %d мин.</item>
+        <item quantity="one">Заблокировать экран через %d мин.</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">Защищено: %1$d</item>

@@ -775,7 +775,7 @@
     <string name="auto_task_leave_app">Выйти из %s</string>
     <string name="auto_task_lock_screen_now">Заблокировать экран</string>
     <string name="auto_task_loop_exclude_cancel">Отмена зацикленной задачи</string>
-    <string name="auto_task_main_title">Автоматизация действий</string>
+    <string name="auto_task_main_title">Центр задач</string>
     <string name="auto_task_mamange_activity_title">Автоматизация действий</string>
     <string name="auto_task_manage_delete_prompt">Удалить выбранные задачи?</string>
     <string name="auto_task_manage_new_task">Новая задача</string>
@@ -836,26 +836,20 @@
     <string name="auto_task_rule_read_mode">You can turn on Reading mode automatically while using reading apps. Create this task now?</string>
 <!-- ### FROM SOURCE -->
     <string name="auto_task_rule_zen_mode">You can turn on DND mode during naps between 12:00 and 14:00 automatically. Create this task now?</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_select_address_company">Work</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_select_address_home">Home</string>
+    <string name="auto_task_select_address_company">Работа</string>
+    <string name="auto_task_select_address_home">Дом</string>
 <!-- ### FROM SOURCE -->
     <string name="auto_task_select_address_leave">Leave</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_select_address_no_set">Not set</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_select_address_other">Frequent addresses</string>
+    <string name="auto_task_select_address_no_set">Не задан</string>
+    <string name="auto_task_select_address_other">Частые адреса</string>
 <!-- ### FROM SOURCE -->
     <string name="auto_task_select_address_to">Arrive</string>
 <!-- ### FROM SOURCE -->
     <string name="auto_task_set_conncet_bluetooth">Set</string>
 <!-- ### FROM SOURCE -->
     <string name="auto_task_set_conncet_wlan">Set</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_set_exit_condition">Use completion conditions</string>
-<!-- ### FROM SOURCE -->
-    <string name="auto_task_set_exit_condition_summary">Complete the task when one of the following conditions is met</string>
+    <string name="auto_task_set_exit_condition">Использовать условия завершения</string>
+    <string name="auto_task_set_exit_condition_summary">Завершить задачу, когда выполнено одно из условий</string>
 <!-- ### FROM SOURCE -->
     <string name="auto_task_set_open_app">Set</string>
     <string name="auto_task_setting_allow_notify">Показывать уведомления</string>
@@ -950,13 +944,10 @@
 <!-- ### FROM SOURCE -->
     <string name="beauty_fc_video_call_summary">Show Beautify options during WeChat video calls</string>
 <!-- ### FROM SOURCE -->
-    <string name="beauty_fun_filter">Beautify</string>
+    <string name="beauty_fun_filter">Улучшение</string>
 <!-- ### FROM SOURCE -->
     <string name="beauty_fun_light">Fill light</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_settings">Settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="before_execute_notify">before_exclude_notify</string>
+    <string name="beauty_settings">Настройки</string>
     <string name="begin_date">Дата начала учета</string>
     <string name="behavior_widget_get_installed_apps">Доступ к приложениям</string>
     <string name="behavior_widget_get_location">Доступ к местоположению</string>
@@ -1255,18 +1246,12 @@
     <string name="deep_power_save_item_title_lock_screen_time">Спящий режим</string>
     <string name="deep_save_memory_clean_summary">Очистка памяти при блокировке устройства для снижения расхода батареи приложениями</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Включение и выключение устройства по расписанию</string>
-<!-- ### FROM SOURCE -->
-    <string name="default_condition_summary">E.g. \"Battery is lower than %s\"</string>
-<!-- ### FROM SOURCE -->
-    <string name="default_condition_title">Add condition</string>
-<!-- ### FROM SOURCE -->
-    <string name="default_condition_title_continue">Add condition</string>
-<!-- ### FROM SOURCE -->
-    <string name="default_result_summary">E.g. \"Turn off Airplane mode\"</string>
-<!-- ### FROM SOURCE -->
-    <string name="default_result_title">Add result</string>
-<!-- ### FROM SOURCE -->
-    <string name="default_result_title_continue">Add result</string>
+    <string name="default_condition_summary">Например, \"Заряд батареи ниже %s\"</string>
+    <string name="default_condition_title">Добавить условие</string>
+    <string name="default_condition_title_continue">Добавить условие</string>
+    <string name="default_result_summary">Например, \"Отключить режим полета\"</string>
+   <string name="default_result_title">Добавить действие</string>
+    <string name="default_result_title_continue">Добавить действие</string>
     <string name="delete">Удалить</string>
     <string name="delete_all_sms">Удалить все</string>
     <string name="delete_from_manual_item_white_list">Удалить из списка</string>
@@ -1278,8 +1263,7 @@
     <string name="details_subtitle">Подробности</string>
 <!-- ### FROM SOURCE -->
     <string name="dev_sign_notification_content">"You're using Android 12 Beta now. The feedback you provide will help us identify and fix issues. Thanks for participating in this program!"</string>
-<!-- ### FROM SOURCE -->
-    <string name="dev_sign_notification_title">Android 12 Beta</string>
+    <string name="dev_sign_notification_title">Android 12 Бета</string>
     <string name="device_manager_apply_step_1">Активировать администратора устройства?</string>
     <string name="device_manager_apply_step_2">"Активация администратора устройства для этого приложения может привести к раскрытию ваших личных данных.
 Все данные на вашем устройстве могут быть удалены, а пароль блокировки экрана сброшен."</string>
@@ -1394,8 +1378,7 @@
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">Утро</string>
-<!-- ### FROM SOURCE -->
-    <string name="edit_new_task_name">Enter task name</string>
+    <string name="edit_new_task_name">Введите имя задачи</string>
 <!-- ### FROM SOURCE -->
     <string name="eew_privacy_revoke_title">Withdraw consent to the Privacy Policy of Earthquake warning</string>
     <string name="email">Email</string>
@@ -1600,11 +1583,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exception_dialog_ok_button">Перезагрузить</string>
     <string name="exception_notify_message">Не удалось подсчитать статистику трафика из-за ошибки. Требуется перезагрузка.</string>
     <string name="exception_titile">Произошла ошибка</string>
-<!-- ### FROM SOURCE -->
-    <string name="execute_notify">exclude_notify</string>
     <string name="exit">Выход</string>
-<!-- ### FROM SOURCE -->
-    <string name="exit_category">exit_category</string>
     <string name="exit_dialog_exit">Выход</string>
     <string name="exit_dialog_garbage_clean_message">Количество мусора на вашем устройстве превышает %s. Очистить мусор?</string>
     <string name="exit_dialog_garbage_clean_message_new"><Data>Очистка может освободить &lt;font color=#0099ff>%s&lt;/font>. Очистить?</Data></string>
@@ -1620,8 +1599,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exit_dialog_scan_message">Индекс производительности вашего устройства ниже 75 баллов. Оптимизировать его?</string>
     <string name="exit_dialog_scan_positive_button">Оптимизировать</string>
     <string name="exit_dialog_scan_title">Оптимизация устройства</string>
-<!-- ### FROM SOURCE -->
-    <string name="exit_notify">exit_notify</string>
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
     <string name="exo_controls_cc_enabled_description">Отключить субтитры</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -1888,8 +1865,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebooster_network_dialog_cn_message">Ускорению игр требуются разрешения для подключения к интернету и доступа к местоположению. Разрешить?</string>
     <string name="gamebooster_network_dialog_message">Разрешить подключение к интернету для использования всех функций Ускорения игр?</string>
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
-<!-- ### FROM SOURCE -->
-    <string name="gamebox_ai_subtitle">AI subtitles</string>
+    <string name="gamebox_ai_subtitle">AI субтитры</string>
     <string name="gamebox_app_not_find">Приложение не найдено</string>
     <string name="gamebox_brightness">Яркость</string>
     <string name="gamebox_browser_not_find">Установите сначала Mi Браузер</string>
@@ -2388,9 +2364,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="install_sucess">Установка %s завершена</string>
     <string name="install_title">Установка через USB</string>
     <string name="installing">Установка</string>
-<!-- ### FROM SOURCE -->
-    <string name="intercept_dimension_ratio">35:24</string>
-    <string name="international_Ad">Ad</string>
+    <string name="international_Ad">Реклама</string>
     <string name="international_roaming_setting">Роуминг данных</string>
     <string name="intl_app_manager_card_permission_title">Конфиденциальность и разрешения</string>
     <string name="intl_perm_intro_message">Нажмите для настройки разрешений, чтобы избежать утечки данных</string>
@@ -2821,34 +2795,23 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="networkchanged_exception_title">Подключена другая сеть</string>
     <string name="never">Один раз</string>
     <string name="never_new">%d раз</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_condition_communication">Interaction</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_condition_event">Event</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_condition_setting_item">Setting</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_condition_situation">Situation</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_result_function">Feature</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_result_screen_display">Display</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_result_setting_item">Setting</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_result_sound_and_vibration">Sound &amp; vibration</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_task_condition_name">If</string>
-<!-- ### FROM SOURCE -->
-    <string name="new_task_result_name">Then</string>
+    <string name="new_condition_communication">Взаимодействие</string>
+    <string name="new_condition_event">Событие</string>
+    <string name="new_condition_setting_item">Настройка</string>
+    <string name="new_condition_situation">Состояние</string>
+    <string name="new_result_function">Функция</string>
+    <string name="new_result_screen_display">Экран</string>
+    <string name="new_result_setting_item">Настройка</string>
+    <string name="new_result_sound_and_vibration">Звук и виброотклик</string>
+    <string name="new_task_condition_name">ЕСЛИ</string>
+    <string name="new_task_result_name">ТО</string>
     <string name="news_change">Изменить</string>
     <string name="nickname">Псевдоним</string>
     <string name="night">Вечер</string>
     <string name="no_game">Не удалось найти игры</string>
     <string name="no_limit_by_month">Безлимитный трафик</string>
     <string name="no_open">Не сейчас</string>
-<!-- ### FROM SOURCE -->
-    <string name="no_privacy_permission">Consent to Privacy Policy not required</string>
+    <string name="no_privacy_permission">Согласие с политикой конфиденциальности не требуется</string>
     <string name="noon">Полдень</string>
     <string name="not_limited_brand">Без ограничений</string>
     <string name="not_set">Не задано</string>
@@ -3857,13 +3820,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_dialog_danger_mission_title">Небезопасные разрешения</string>
     <string name="privacy_dialog_feedback">Обратная связь</string>
     <string name="privacy_dialog_message">При подключении к интернету это сообщение вместе с данными оператора будет зашифровано и загружено на серверы Mi для улучшения мониторинга трафика.</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_negative_button_text">Exit</string>
+    <string name="privacy_dialog_negative_button_text">Выход</string>
     <string name="privacy_dialog_ok">Понятно</string>
     <string name="privacy_dialog_ok_with_num">Понятно (%s сек.)</string>
     <string name="privacy_dialog_open">Включить</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_positive_button_text">Agree</string>
+    <string name="privacy_dialog_positive_button_text">Принимаю</string>
     <string name="privacy_dialog_revoking">Отзыв согласия…</string>
     <string name="privacy_dialog_title">Условия и положения</string>
     <string name="privacy_empty_call">Нет записей</string>
@@ -3887,8 +3848,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_location_info_title">Местоположение</string>
     <string name="privacy_look_all_permission_status">Все разрешения</string>
     <string name="privacy_look_all_permission_times">Все действия</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_look_privacy">Privacy Policy</string>
+    <string name="privacy_look_privacy">Политика конфиденциальности</string>
     <string name="privacy_manage_title">Управление</string>
     <string name="privacy_mask_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это не позволит приложениям отслеживать ваши действия и предпочтения и защитит конфиденциальность.</string>
     <string name="privacy_mask_title">Виртуальный ID включен</string>
@@ -3904,14 +3864,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_permission_call_title">Защита вызовов</string>
     <string name="privacy_permission_camera_title">Запрет камеры в фоновом режиме</string>
     <string name="privacy_permission_contacts">Контакты</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_permission_desc">Permissions details</string>
+    <string name="privacy_permission_desc">Сведения о разрешениях</string>
     <string name="privacy_permission_location">Местоположение</string>
     <string name="privacy_permission_management">Управление разрешениями</string>
     <string name="privacy_permission_management_summary">Приложения, использующие разрешения, которые позволяют осуществлять вызовы, отправлять SMS и получать доступ к контактам</string>
     <string name="privacy_permission_record">Микрофон</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_permission_relate">Permissions</string>
+    <string name="privacy_permission_relate">Разрешения</string>
     <string name="privacy_permission_right">Конфиденциальность</string>
     <string name="privacy_permission_status">Используется разрешение</string>
     <string name="privacy_permission_storage">Память устройства</string>
@@ -4228,8 +4186,7 @@ Withdraw consent now?"</string>
     <string name="section_title_security_defend">Безопасность</string>
     <string name="section_title_system">Система</string>
     <string name="security_bottom_guide_to_pm_text">Отпустите для открытия утилит</string>
-<!-- ### FROM SOURCE -->
-    <string name="security_center_auto_task">Task center</string>
+    <string name="security_center_auto_task">Центр задач</string>
     <string name="security_center_slogan">Безопасность</string>
     <string name="security_guide_bubble_text">Открыть</string>
     <string name="security_guide_summary">Единое место для инструментов и утилит</string>
@@ -4246,17 +4203,13 @@ Withdraw consent now?"</string>
     <string name="see_all_app_behavior_record">Все действия</string>
     <string name="see_detail">Подробности</string>
     <string name="see_more_content">Обновите Игры для просмотра новинок</string>
-<!-- ### FROM SOURCE -->
-    <string name="select_app_title_default">Open app</string>
-<!-- ### FROM SOURCE -->
-    <string name="select_app_title_music">Play music</string>
+    <string name="select_app_title_default">Открытие приложения</string>
+    <string name="select_app_title_music">Воспроизведение музыки</string>
     <string name="select_province_and_city">Выберите провинцию и город</string>
     <string name="send">Отправить</string>
     <string name="send_msg_to_query">Отправить бесплатное SMS для проверки</string>
     <string name="set_applock_password">Задать пароль</string>
     <string name="set_complete">Готово</string>
-<!-- ### FROM SOURCE -->
-    <string name="set_exit_condition">set_exit_condition</string>
     <string name="set_location">Местоположение</string>
     <string name="set_mixed_password_name">Задайте пароль</string>
     <string name="set_now">Настройки</string>
@@ -4300,8 +4253,6 @@ Withdraw consent now?"</string>
     <string name="shortcut_title_scan">Сканирование</string>
     <string name="shortcut_title_whatsapp_clean">Очистка WhatsApp</string>
     <string name="show_system_app">Показать системные приложения</string>
-<!-- ### FROM SOURCE -->
-    <string name="show_task_shortcut_in_desktop">show_task_shortcut_in_desktop</string>
     <string name="show_traffic_dialog_message">Информация о трафике будет показана в шторке уведомлений. Включить или отключить эту функцию можно в Настройках.</string>
     <string name="show_traffic_dialog_title">Виджет в шторке уведомлений</string>
     <string name="showpattern">Отображать ключ при вводе</string>
@@ -4844,44 +4795,25 @@ Withdraw consent now?"</string>
     <string name="summary_cloud_space_full">Получите больше места в облачном хранилище, а также доступ к новым функциям</string>
     <string name="summary_cmcc_app_check">Не удалось проверить некоторые приложения</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_charge_to_target">When battery is charged to set level</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_charge_to_target_percent">When battery is charged to %d%%</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_close_absorbed_mode">After turning off Focus mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_in_charge">When charging</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_insert_headset">Connect wired earphones</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_missing_call">Missed call</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_no_in_charge">When not charging</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_open_absorbed_mode">After turning on Focus mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_reduce_to_target">When battery is at set level</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_reduce_to_target_percent">When battery is at %d%%</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_scan_rubbish">Cleaner</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_scan_virus">Virus scan</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_unplug_headset">Disconnect wired earphones</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_wired_charge">When charger is connected</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_condition_wireless_charge">When charging wirelessly</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_confirm_open_flashligt">Turn on flashlight?</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_confirm_open_meeting_tips">Turn on meeting reminder?</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_confirm_open_phone_check">Run a security scan?</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_confirm_switch">Power off the device?</string>
+    <string name="summary_condition_charge_to_target">Когда батарея заряжена до</string>
+    <string name="summary_condition_charge_to_target_percent">Когда батарея заряжена до %d%%</string>
+    <string name="summary_condition_close_absorbed_mode">После отключения Режима медитации</string>
+    <string name="summary_condition_in_charge">При зарядке</string>
+    <string name="summary_condition_insert_headset">Подключены проводные наушники</string>
+    <string name="summary_condition_missing_call">Пропущенный вызов</string>
+    <string name="summary_condition_no_in_charge">Когда не заряжается</string>
+    <string name="summary_condition_open_absorbed_mode">После включения Режима медитации</string>
+    <string name="summary_condition_reduce_to_target">Когда заряд батареи достиг</string>
+    <string name="summary_condition_reduce_to_target_percent">Когда заряд батареи достиг %d%%</string>
+    <string name="summary_condition_scan_rubbish">Очистка</string>
+    <string name="summary_condition_scan_virus">Антивирус</string>
+    <string name="summary_condition_unplug_headset">Отсоединены проводные наушники</string>
+    <string name="summary_condition_wired_charge">Когда подключено зарядное устройство</string>
+    <string name="summary_condition_wireless_charge">При беспроводной зарядке</string>
+    <string name="summary_confirm_open_flashligt">Включить фонарик?</string>
+    <string name="summary_confirm_open_meeting_tips">Включить напоминание о встрече?</string>
+    <string name="summary_confirm_open_phone_check">Запустить Антивирус?</string>
+    <string name="summary_confirm_switch">Выключить устройство?</string>
     <string name="summary_consume_power">Поиск проблем, влияющих на экономию заряда</string>
     <string name="summary_dark_mode">Некоторые страницы отображаются чёрным из-за сторонних сервисов</string>
     <string name="summary_data_flow">Контроль мобильного трафика для уменьшения дополнительных затрат</string>
@@ -4897,17 +4829,14 @@ Withdraw consent now?"</string>
     <string name="summary_garbage_clean">Очистите кэш для освобождения места</string>
     <string name="summary_garbage_lib">Включите автообновление базы очистки</string>
     <string name="summary_install_virus">Проверка приложений на вирусы перед установкой</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_meeting_tips">Meeting reminder</string>
+    <string name="summary_meeting_tips">Напоминание о встрече</string>
     <string name="summary_mifi_insurance">Получите 1 год гарантии замены оборудования в случае его повреждения</string>
     <string name="summary_miui_update">Доступно обновление: %s</string>
     <string name="summary_mms">Блокируйте SMS спам автоматически</string>
     <string name="summary_network_switch">Доступ в интернет</string>
     <string name="summary_never_flow_verify">Этот номер не был подтвержден вашим оператором</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_open_flashligt">Turn on flashlight</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_open_phone_check">Run a security scan</string>
+    <string name="summary_open_flashligt">Включение фонарика</string>
+    <string name="summary_open_phone_check">Запуск Антивируса</string>
     <string name="summary_password_manager">Менеджер паролей позволяет шифровать пароли и хранить их в облаке</string>
     <string name="summary_payment_risk">Платежи с этого устройства небезопасны</string>
     <string name="summary_permission">Избегайте нежелательных платежей и защищайте личные данные</string>
@@ -4916,10 +4845,8 @@ Withdraw consent now?"</string>
     <string name="summary_rcs_switch">Бесплатная отправка SMS другим абонентам China Mobile</string>
     <string name="summary_realname_verify">Подтвердите вашу личность, чтобы сделать платежи более безопасными.</string>
     <string name="summary_restrict_data_usage">Вы ограничили трафик для этого приложения.</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_result_screen_brightness_format">Set screen brightness to %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="summary_safe_mode">Neutralize risks during installation</string>
+    <string name="summary_result_screen_brightness_format">Установить яркость экрана %s</string>
+    <string name="summary_safe_mode">Нейтрализовать риски во время установки</string>
     <string name="summary_show_notification">Очистка памяти, управление батареей и антиспамом из шторки уведомлений</string>
     <string name="summary_telecom_operator">Получение информации о трафике от вашего оператора</string>
     <string name="summary_usb">Препятствуйте проникновению вирусов через USB</string>
@@ -5012,89 +4939,47 @@ Withdraw consent now?"</string>
     <string name="tab_sms">SMS</string>
     <string name="tab_sort_all">Все</string>
     <string name="tab_title">Антиспам</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_airplane">Turn off Airplane mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_auto_brightness">Turn off auto brightness</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_bluetooth">Turn off Bluetooth</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_dark_mode">Turn off Dark mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_dc_light">Turn off Anti-flicker mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_dial_tone">Turn off dial pad tones</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_drive_mode">Turn off Car mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_eye_care_mode">Turn off Reading mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_hotspot">Turn off portable hotspot</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_location">Turn off location services</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_mute">Turn off Silent mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_network">Turn off mobile data</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_nfc">Turn off NFC</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_rotate_lock">Unlock orientation</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_save_battery">Turn off Battery saver</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_screen_display">Turn off Always-on display</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_system_touch">Turn off haptic feedback</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_wlan">Turn off Wi-Fi</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_close_zen_mode">Turn off DND mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_airplane">Turn on Airplane mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_auto_brightness">Turn on auto brightness</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_bluetooth">Turn on Bluetooth</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_dark_mode">Turn on Dark mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_dc_light">Turn on Anti-flicker mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_dial_tone">Turn on dial pad tones</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_disturb_mode">Turn on DND mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_drive_mode">Turn on Car mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_eye_care_mode">Turn on Reading mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_hotspot">Turn on portable hotspot</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_location">Turn on location services</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_mute">Turn on Silent mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_mute_mode">Turn on Silent mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_network">Turn on mobile data</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_nfc">Turn on NFC</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_rotate_lock">Lock orientation</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_save_battery">Turn on Battery saver</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_screen_display">Turn on Always-on display</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_system_touch">Turn on haptic feedback</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_wlan">Turn on Wi-Fi</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_summary_open_zen_mode">Turn on DND mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="task_title_charge">Charge</string>
-<!-- ### FROM SOURCE -->
+    <string name="task_summary_close_airplane">Отключить режим полета</string>
+    <string name="task_summary_close_auto_brightness">Отключить автояркость</string>
+    <string name="task_summary_close_bluetooth">Отключить Bluetooth</string>
+    <string name="task_summary_close_dark_mode">Отключить темный режим</string>
+    <string name="task_summary_close_dc_light">Отключить устранение мерцания</string>
+    <string name="task_summary_close_dial_tone">Отключить звук набора номера</string>
+    <string name="task_summary_close_drive_mode">Отключить режим вождения</string>
+    <string name="task_summary_close_eye_care_mode">Отключить режим чтения</string>
+    <string name="task_summary_close_hotspot">Отключить точку доступа</string>
+    <string name="task_summary_close_location">Отключить службы местоположения</string>
+    <string name="task_summary_close_mute">Отключить режим \"Без звука\"</string>
+    <string name="task_summary_close_network">Отключить мобильный интернет</string>
+    <string name="task_summary_close_nfc">Отключить NFC</string>
+    <string name="task_summary_close_rotate_lock">Включить автоповорот</string>
+    <string name="task_summary_close_save_battery">Отключить экономию заряда</string>
+    <string name="task_summary_close_screen_display">Отключить Активный дисплей</string>
+    <string name="task_summary_close_system_touch">Отключить виброотклик</string>
+    <string name="task_summary_close_wlan">Отключить Wi-Fi</string>
+    <string name="task_summary_close_zen_mode">Отключить режим \"Не беспокоить\"</string>
+    <string name="task_summary_open_airplane">Включить режим полета</string>
+    <string name="task_summary_open_auto_brightness">Включить автояркость</string>
+    <string name="task_summary_open_bluetooth">Включить Bluetooth</string>
+    <string name="task_summary_open_dark_mode">Включить темный режим</string>
+    <string name="task_summary_open_dc_light">Включить устранение мерцания</string>
+    <string name="task_summary_open_dial_tone">Включить звук набора номера</string>
+    <string name="task_summary_open_disturb_mode">Включить режим\"Не беспокоить\"</string>
+    <string name="task_summary_open_drive_mode">Включить режим вождения</string>
+    <string name="task_summary_open_eye_care_mode">Включить режим чтения</string>
+    <string name="task_summary_open_hotspot">Включить точку доступа</string>
+    <string name="task_summary_open_location">Включить службы местоположения</string>
+    <string name="task_summary_open_mute">Включить режим \"Без звука\"</string>
+    <string name="task_summary_open_mute_mode">Включить режим \"Без звука\"</string>
+    <string name="task_summary_open_network">Включить мобильный интернет</string>
+    <string name="task_summary_open_nfc">Включить NFC</string>
+    <string name="task_summary_open_rotate_lock">Отключить автоповорот</string>
+    <string name="task_summary_open_save_battery">Включить экономию заряда</string>
+    <string name="task_summary_open_screen_display">Включить Активный дисплей</string>
+    <string name="task_summary_open_system_touch">Включить виброотклик</string>
+    <string name="task_summary_open_wlan">Включить Wi-Fi</string>
+    <string name="task_summary_open_zen_mode">Включить режим\"Не беспокоить\"</string>
+    <string name="task_title_charge">Зарядка</string>
     <string name="task_title_nfc">NFC</string>
     <string name="tc_cmd_invalid">Недопустимый шаблон</string>
     <string name="tc_diagnostic_all_error_notification_summary">Нажмите для отправки отчета.</string>
@@ -5354,66 +5239,36 @@ Withdraw consent now?"</string>
     <string name="title_realname_verify">Проверка ID</string>
     <string name="title_reply">Отзыв</string>
     <string name="title_restrict_data_usage">%s не может подключиться к интернету?</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_absorbed">Focus mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_adjust_volume">Volume</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_airplan">Airplane mode</string>
-<!-- ### FROM SOURCE -->
+    <string name="title_result_absorbed">Режим медитации</string>
+    <string name="title_result_adjust_volume">Громкость</string>
+    <string name="title_result_airplan">Режим полета</string>
     <string name="title_result_bluetooth">Bluetooth</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_brightness">Auto brightness</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_dark">Dark mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_dial_tone">Dial pad tones</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_drive">Car mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_examination">Security scan</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_eye_care">Reading mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_flashlight">Flashlight</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_hotspot">Portable hotspot</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_location">Location</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_lock_screen">Lock screen</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_music">Play music</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_mute">Silent mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_network">Mobile data</string>
-<!-- ### FROM SOURCE -->
+    <string name="title_result_brightness">Автояркость</string>
+    <string name="title_result_dark">Темный режим</string>
+    <string name="title_result_dial_tone">Звук набора номера</string>
+    <string name="title_result_drive">Режим вождения</string>
+    <string name="title_result_examination">Антивирус</string>
+    <string name="title_result_eye_care">Режим чтения</string>
+    <string name="title_result_flashlight">Фонарик</string>
+    <string name="title_result_hotspot">Точка доступа</string>
+    <string name="title_result_location">Местоположение</string>
+    <string name="title_result_lock_screen">Автоповорот</string>
+    <string name="title_result_music">Воспроизведение музыки</string>
+    <string name="title_result_mute">Бесшумный режим</string>
+    <string name="title_result_network">Мобильный интернет</string>
     <string name="title_result_nfc">NFC</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_rotate_off">Screen orientation</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_save_battery">Battery saver</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_screen_brightness">Screen brightness</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_screen_display">Always-on display</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_start_activity">Open app</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_switch">Power off</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_touch">Haptic feedback</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_twinkle">Anti-flicker mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_typeface">Text size &amp; font weight</string>
-<!-- ### FROM SOURCE -->
+    <string name="title_result_rotate_off">Автоповорот экрана</string>
+    <string name="title_result_save_battery">Экономия заряда</string>
+    <string name="title_result_screen_brightness">Яркость экрана</string>
+    <string name="title_result_screen_display">Активный дисплей</string>
+    <string name="title_result_start_activity">Открыть приложение</string>
+    <string name="title_result_switch">Выключить</string>
+    <string name="title_result_touch">Виброотклик</string>
+    <string name="title_result_twinkle">Устранение мерцания</string>
+    <string name="title_result_typeface">Размер и толщина шрифта</string>
     <string name="title_result_wlan">Wi-Fi</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_result_zen_mode">DND mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_safe_mode">Turn on Secure mode</string>
+    <string name="title_result_zen_mode">Режим \"Не беспокоить\"</string>
+    <string name="title_safe_mode">Включить безопасный режим</string>
     <string name="title_show_notification">Виджет в шторке уведомлений</string>
     <string name="title_system_auto_download">Автозагрузка обновлений включена</string>
     <string name="title_telecom_operator">Автообновление</string>
