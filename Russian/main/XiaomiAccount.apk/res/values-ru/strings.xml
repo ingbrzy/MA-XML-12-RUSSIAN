@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
     <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
-    <string name="abc_capital_off">ОТКЛ.</string>
-    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_capital_off">Откл.</string>
+    <string name="abc_capital_on">Вкл.</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
@@ -118,6 +118,9 @@ ID вашего аккаунта: %s"</string>
     <string name="binded">Подключено</string>
     <string name="binded_description" formatted="false">"%s подключен к вашему Mi Аккаунту.
 Вы можете войти в Mi Аккаунт используя %s."</string>
+    <string name="button_agree">Принимаю</string>
+    <string name="button_close">Закрыть</string>
+    <string name="button_refuse">Отказаться</string>
     <string name="button_unbind">Отключить</string>
     <string name="cancel">Отмена</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
@@ -692,13 +695,19 @@ ID:%s
     <string name="permission_group_phone">Телефон</string>
     <string name="permission_group_sms">СМС</string>
     <string name="permission_group_storage">Память</string>
+    <string name="permission_instructions">Использование разрешений</string>
     <string name="permission_read_sms">Доступ к сообщениям</string>
+    <string name="permission_withdraw">Отозвать</string>
     <string name="permission_write_external_storage">Доступ и сохранение файлов</string>
     <string name="personal_info_desc">Фото, псевдоним и другое</string>
     <string name="phone_activated">%s активирован</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="privacy_policy_reject_confirm_msg">"Вы не сможете использовать Mi Аккаунт, если не примите обновленную Политику конфиденциальности. Вы Согласны с правилами обновленной учетной записи Mi Account &lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> сейчас?"</string>
+    <string name="privacy_policy_reject_confirm_title">Отказ от использования Mi Аккаунта</string>
+    <string name="privacy_policy_update_msg">Обновленная Политика конфиденциальности Mi Аккаунта:&lt;br/>%1$s&lt;br/>Прежде чем продолжить, прочтите и примите обновленную &lt;a href=\"%2$s\">&lt;u>Политику конфиденциальности&lt;/u>&lt;/a>.</string>
+    <string name="privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
     <string name="provision_back">Назад</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
@@ -729,6 +738,9 @@ ID:%s
     <string name="restart_action">Начать сначала</string>
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
     <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
+    <string name="revoke_privacy_policy">Отзыв согласия</string>
+    <string name="revoke_privacy_policy_instructions">"Если вы продолжите, согласие с Политикой конфиденциальности Mi Аккаунта будет отозвано. Сбор вашей личной информации будет прекращен. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Mi Акаунт предоставляет сервисы на основе сбора необходимой личной информации, отзыв согласия будет считаться отказом от сервисов Mi Аккаунта. Отозвать согласие? "</string>
+    <string name="revoke_privacy_policy_title">Отзыв согласия</string>
     <string name="risky_pwd_not_allow">Новый пароль небезопасен. Установите другой.</string>
     <string name="same_new_and_old_pwd">Новый пароль должен отличаться от старого</string>
     <string name="saturday">Суббота</string>
@@ -882,10 +894,18 @@ ID:%s
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_instruction_all_purpose">Добро пожаловать в Mi Аккаунт! Вы можете использовать свой аккаунт для доступа к сервисам, предоставляемым Xiaomi и ее аффилированными компаниями, таким как Mi.com, Xiaomi Cloud и GetApps. Вам будут доступны получение монет Mi Coins, покупка виртуальных товаров, включая игры, темы и электронные книги.</string>
     <string name="user_instruction_tip">Чтобы войти в систему, прочтите и примите условия и положения</string>
-    <string name="user_license_with_3rd_app"><Data>"Входя с использованием Mi аккаунта, я подтверждаю, что принимаю&lt;a href=%1$s>Пользовательское соглашение&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a> приложения, а также &lt;a href=%3$s>Пользовательское соглашение&lt;/a> и &lt;a href=%4$s>Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
-    <string name="user_license_without_3rd_app"><Data>"Я принимаю &lt;a href=%1$s>Пользовательское соглашение&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
-    <string name="v7_preference_off">ОТКЛ.</string>
-    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="user_license_with_3rd_app"><Data>Используя вход в Mi Аккаунт, я подтверждаю, что принимаю&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> приложения, а также &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта.</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=%4$s>Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Условия предоставления услуг верификации China Unicom&lt;/a>.</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, а также &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта.</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское Соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Условия предоставления услуг верификации учетной записи eSurfing&lt;/a>.</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Условия предоставления услуг верификации China Unicom&lt;/a>.</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта.</Data></string>
+    <string name="user_license_without_3rd_app"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта.</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s>Условия предоставления услуг верификации China Mobile&lt;/a>.</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Условия предоставления услуг верификации учетной записи eSurfing&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Условия предоставления услуг верификации China Unicom&lt;/a>.</Data></string>
+    <string name="v7_preference_off">Откл.</string>
+    <string name="v7_preference_on">Вкл.</string>
     <string name="verified_apps">Проверенные приложения</string>
     <string name="verified_devices">Проверенные устройства</string>
     <string name="verify_phone_prompt">Выберите номер телефона для проверки</string>
