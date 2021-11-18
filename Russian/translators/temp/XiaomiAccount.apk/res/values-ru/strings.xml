@@ -699,7 +699,7 @@ ID:%s
     <string name="permission_group_sms">СМС</string>
     <string name="permission_group_storage">Память</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_instructions">Permission usage</string>
+    <string name="permission_instructions">Доступ к использованию</string>
     <string name="permission_read_sms">Доступ к сообщениям</string>
 <!-- ### FROM SOURCE -->
     <string name="permission_withdraw">Withdraw</string>
@@ -710,13 +710,13 @@ ID:%s
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_reject_confirm_msg">"You won't be able to keep using Mi Account unless you agree to the new version of its Privacy Policy. Agree to the updated Mi Account &lt;a href=%1$s>Privacy Policy&lt;/a> now?"</string>
+    <string name="privacy_policy_reject_confirm_msg">"Вы не сможете использовать учетную запись Mi Account, если не согласитесь с новой версией ее Политики конфиденциальности. Вы Согласны с правилами обновленной учетной записью Mi Account &lt;a href=%1$s>Политика конфиденциальности&lt;/a> сейчас?"</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_reject_confirm_title">"Can't use Mi Account"</string>
+    <string name="privacy_policy_reject_confirm_title">"Не использовать Mi Account"</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_update_msg">Mi Account Privacy Policy was updated:&lt;br/>%1$s&lt;br/>Read and agree to the new version of &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before you continue.</string>
+    <string name="privacy_policy_update_msg">Обновленная Политика конфиденциальности Mi Account:&lt;br/>%1$s&lt;br/>Прочтите и согласитесь с новой версией &lt;a href=%2$s>&lt;u>Политика конфиденциальности&lt;/u>&lt;/a> прежде чем продолжить.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+    <string name="privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
     <string name="provision_back">Назад</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
@@ -748,11 +748,11 @@ ID:%s
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
     <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
 <!-- ### FROM SOURCE -->
-    <string name="revoke_privacy_policy">Withdrawal of consent</string>
+    <string name="revoke_privacy_policy">Отзыв согласия</string>
 <!-- ### FROM SOURCE -->
-    <string name="revoke_privacy_policy_instructions">"If you continue, you'll withdraw your consent to Mi Account Privacy Policy. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Mi Account provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Mi Account services. Withdraw consent now?"</string>
+    <string name="revoke_privacy_policy_instructions">"Если вы продолжите, Вы отзовете свое согласие с Политикой конфиденциальности учетной записи Mi. Мы перестанем собирать вашу личную информацию. Уже собранная и сохраненная личная информация будет удалена в течение определенного периода в соответствии с применимыми законами и постановлениями, если не требуется иное. Поскольку Mi Account предоставляет услуги на основе сбора необходимой личной информации, Ваш отзыв согласия будет считаться отказом от услуг Mi Account. Отозвать согласие сейчас? "</string>
 <!-- ### FROM SOURCE -->
-    <string name="revoke_privacy_policy_title">Withdrawal of consent</string>
+    <string name="revoke_privacy_policy_title">Отзыв согласия</string>
     <string name="risky_pwd_not_allow">Новый пароль небезопасен. Установите другой.</string>
     <string name="same_new_and_old_pwd">Новый пароль должен отличаться от старого</string>
     <string name="saturday">Суббота</string>
@@ -906,26 +906,26 @@ ID:%s
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_instruction_all_purpose">Добро пожаловать в Mi Аккаунт! Вы можете использовать свой аккаунт для доступа к сервисам, предоставляемым Xiaomi и ее аффилированными компаниями, таким как Mi.com, Xiaomi Cloud и GetApps. Вам будут доступны получение монет Mi Coins, покупка виртуальных товаров, включая игры, темы и электронные книги.</string>
     <string name="user_instruction_tip">Чтобы войти в систему, прочтите и примите условия и положения</string>
-    <string name="user_license_with_3rd_app"><Data>"Входя с использованием Mi аккаунта, я подтверждаю, что принимаю&lt;a href=%1$s>Пользовательское соглашение&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a> приложения, а также &lt;a href=%3$s>Пользовательское соглашение&lt;/a> и &lt;a href=%4$s>Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_license_with_3rd_app"><Data>"Входя с использованием Mi аккаунта, я подтверждаю, что принимаю&lt;a href=%1$s>Пользовательское соглашение&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a> приложения, а также &lt;a href=%3$s>Пользовательское соглашение&lt;/a> и &lt;a href=%4$s>Политика конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="user_license_with_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>"Я прочитал и согласен с &lt;a href=%1$s>Пользовательское Соглашение&lt;/a> and &lt;a href=%2$s>Политика конфиденциальности&lt;/a>, Mi Account's &lt;a href=%3$s>Пользовательское Соглашение&lt;/a> и &lt;a href=%4$s>Политика конфиденциальности&lt;/a>, а также &lt;a href=%5$s>Условия предоставления услуг верификации China Mobile&lt;/a>."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="user_license_with_3rd_app_no_operator"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>"Я прочитал и согласен с &lt;a href=%1$s>Пользовательское Соглашение&lt;/a> and &lt;a href=%2$s>Политика конфиденциальности&lt;/a> and Mi Account's &lt;a href=%3$s>Пользовательское Соглашение&lt;/a> и &lt;a href=%4$s>Политика конфиденциальности&lt;/a>."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="user_license_with_3rd_app_telcom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>"Я прочитал и согласен с &lt;a href=%1$s>Пользовательское Соглашение&lt;/a> and &lt;a href=%2$s>Политика конфиденциальности&lt;/a>, Mi Account's &lt;a href=%3$s>Пользовательское Соглашение&lt;/a> и &lt;a href=%4$s>Политика конфиденциальности&lt;/a>, а также &lt;a href=%5$s>Условия предоставления услуг верификации учетной записи eSurfing&lt;/a>."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="user_license_with_3rd_app_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>"Я прочитал и согласен с &lt;a href=%1$s>Пользовательское Соглашение&lt;/a> and &lt;a href=%2$s>Политика конфиденциальности&lt;/a>, Mi Account's &lt;a href=%3$s>Пользовательское Соглашение&lt;/a> и &lt;a href=%4$s>Политика конфиденциальности&lt;/a>, а также &lt;a href=%5$s>Условия предоставления услуг верификации China Unicom&lt;/a>."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"Я прочитал и согласен с политикой Mi Account &lt;a href=%1$s>Пользовательское соглашение&lt;/a> and &lt;a href=%2$s>Политика конфиденциальности&lt;/a>."</Data></string>
     <string name="user_license_without_3rd_app"><Data>"Я принимаю &lt;a href=%1$s>Пользовательское соглашение&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="user_license_without_3rd_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"Я прочитал и согласен с политикой Mi Account &lt;a href=%1$s>Пользовательское Соглашение&lt;/a> and &lt;a href=%2$s>Политика конфиденциальности&lt;/a>, а также &lt;a href=%3$s>Условия предоставления услуг верификации China Mobile&lt;/a>."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="user_license_without_3rd_telcom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>"Я прочитал и согласен с политикой Mi Account &lt;a href=%1$s>Пользовательское Соглашение&lt;/a> and &lt;a href=%2$s>Политика конфиденциальности&lt;/a>, а также &lt;a href=%3$s>Условия предоставления услуг верификации учетной записи eSurfing&lt;/a>."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="user_license_without_3rd_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="v7_preference_off">ОТКЛ.</string>
-    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="user_license_without_3rd_unicom"><Data>"Я прочитал и согласен с политикой Mi Account &lt;a href=%1$s>Пользовательское Соглашение&lt;/a> and &lt;a href=%2$s>Политика конфиденциальности&lt;/a>, а также &lt;a href=%3$s>Условия предоставления услуг верификации China Unicom&lt;/a>."</Data></string>
+    <string name="v7_preference_off">Откл.</string>
+    <string name="v7_preference_on">Вкл.</string>
     <string name="verified_apps">Проверенные приложения</string>
     <string name="verified_devices">Проверенные устройства</string>
     <string name="verify_phone_prompt">Выберите номер телефона для проверки</string>
