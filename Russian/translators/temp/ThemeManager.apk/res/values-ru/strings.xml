@@ -730,7 +730,7 @@ mm"</string>
 <!-- ### FROM SOURCE -->
     <string name="phone_exit_theme_warning_content">"После выхода Вы не сможете выполнять следующие действия:
 1. Просматривать и использовать все то, что Вы приобрели или добавили в Избранное.
-2. Добавляйть комментарии и лайки, подписываться на других людей и общатся с ними."</string>
+2. Добавлять комментарии и лайки, подписываться и общаться."</string>
 <!-- ### FROM SOURCE -->
     <string name="phone_exit_theme_warning_title">Выйти из Темы?</string>
 <!-- ### FROM SOURCE -->
@@ -801,32 +801,32 @@ mm"</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Настройки разрешений, кэшированные элементы, созданные на этом устройстве.</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
-2. Cancelation of Wallpaper and personalization services won't affect the normal usage of other Xiaomi products.
-3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
+2. Отказ от услуг Обои и персонализация не повлияет на нормальное использование других продуктов Xiaomi.
+3. Отказ от услуг является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных элементов, так как они могут быть удалены безвозвратно. Помните, что вы не сможете отменить свое решение после отказа от услуг. Следующие данные будут безвозвратно удалены или анонимизированы после отказа от услуг (за исключением случаев, предусмотренных законами и нормативными актами или иным образом требуемых регулирующими органами):"</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.
-All the wallpapers, fonts, and ringtones downloaded to this device.
-All the permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Все заказы (в том числе оплаченные), сделанные на устройствах Xiaomi. Вы больше не сможете использовать купленные предметы.
+Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, созданная на устройствах Xiaomi.
+Все обои, шрифты и рингтоны загружены на это устройство.
+Все настройки разрешений, настройки и кэшированные элементы, созданные на этом устройстве.
+Все элементы персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут установлены по умолчанию."</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Service cancelation does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to canceling the services.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Отказ от услуг не подразумевает освобождения или смягчения ответственности, вызванной действиями, выполненными до отказа от услуг.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Statement on the Cancelation of Wallpaper and Personalization Services</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Заявление об отказе от услуг Обои и персонализация</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Read and agree to the \"Statement on the Cancelation of Wallpaper and Personalization Services\" before canceling our services.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Прочтите и согласитесь с \"Заявление об отказе от услуг Обои и персонализация\" до отказа от услуг.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"You're about to cancel Wallpaper and personalozation services."</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Вы отказыватесь от услуг Обои и персонализация."</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancelation of Wallpaper and Personalization Services&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">SЗаявление об отказе от услуг Обои и персонализация&lt;/a>&lt;/font>\"."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отзыве согласия Политики конфиденциальности Обои и персонализация&lt;/a>&lt;/font>\"."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_revoke_agree_content_3">3. All the wallpapers, fonts, and ringtones downloaded to this device.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_3">3. Все обои, шрифты и рингтоны, загруженные на это устройство.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_revoke_agree_content_4">4. All the permissions preferences, settings, and cached items generated on this device.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. Настройки разрешений, кэшированные элементы, созданные на этом устройстве.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_prompt">аявление об отзыве согласия Политики конфиденциальности Обои и персонализация</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization\" before withdrawing your consent.</string>
 <!-- ### FROM SOURCE -->
