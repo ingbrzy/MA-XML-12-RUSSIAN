@@ -151,7 +151,7 @@
     <string name="accessibility_no_phone">Сигнал сети отсутствует.</string>
     <string name="accessibility_no_wifi">Wi-Fi отключен</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
-    <string name="accessibility_phone_signal_full">Cигнал сети полный.</string>
+    <string name="accessibility_phone_signal_full">Сигнал сети полный.</string>
     <string name="accessibility_phone_three_bars">Сигнал сети: три деления.</string>
     <string name="accessibility_phone_two_bars">Сигнал сети: два деления.</string>
     <string name="accessibility_settings_activity_title">Спец. возможности</string>
@@ -166,6 +166,7 @@
     <string name="accessor_expires_text">Аренда истекает %s</string>
     <string name="accessor_info_title">Приложения обмена данными</string>
     <string name="accessor_no_description_text">Описание отсутствует</string>
+    <string name="according_to_carrier">Показать предпочтения</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="active_input_method_subtypes">Активные способы ввода</string>
     <string name="activity_title_fakecell">Защита от поддельных базовых станций</string>
@@ -1007,6 +1008,8 @@
     <string name="do_not_show_again">Больше не показывать</string>
     <string name="domain_address_title">Сервер</string>
     <string name="doneButton">Готово</string>
+    <string name="dsda_summary">Режим ожидания с двумя SIM-картами 5G+4G поддерживается выбранными сетями</string>
+    <string name="dsda_title">Включить 5G+4G DSDA</string>
     <string name="dsds_dialog_cancel">Отмена</string>
     <string name="dsds_dialog_confirm">Перезагрузить</string>
     <string name="dsds_dialog_message">Для применения настройки необходимо перезагрузить устройство.</string>
@@ -1161,6 +1164,7 @@
     <string name="fiveg_hosted_mode_summary">Автовыбор лучшей сети для экономии заряда</string>
     <string name="fiveg_hosted_mode_title">Умное переключение 5G</string>
     <string name="fiveg_icon_type1">Тип значка NR :</string>
+    <string name="fiveg_info">Сведения о 5G</string>
     <string name="fiveg_infos">Сведения о 5G</string>
     <string name="fiveg_network_config_type1">Тип конфигурации сети :</string>
     <string name="fiveg_network_mode_default">Авто</string>
@@ -1170,12 +1174,15 @@
     <string name="fiveg_network_title">Сети 5G</string>
     <string name="fiveg_plmn_info_list1">Информация PLMN :</string>
     <string name="fiveg_power_secret_code_tip">управление через приложение Безопасность &gt; Батарея &gt; Экономия заряда для 5G</string>
+    <string name="fiveg_power_switch_summary"> Экономить заряд для 5G подключения в определенных сценариях</string>
+    <string name="fiveg_power_switch_title">Экономия заряда для 5G</string>
     <string name="fiveg_restrict_dcnr1">Ограничение DCNR :</string>
     <string name="fiveg_sa_switch_open_dialog_content">Соединение 5G может быть нестабильным в автономном режиме, что может повлиять на работу служб телефонии. Включить SA режим?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Внимание</string>
     <string name="fiveg_sa_switch_summary">Разрешить подключение к сетям 5G в автономном режиме</string>
     <string name="fiveg_sa_switch_title">Использовать сеть SA</string>
     <string name="fiveg_sa_switch_warning_toast">Перезагрузите устройство, чтобы изменения вступили в силу.</string>
+    <string name="fiveg_sa_vice_switch_summary">Разрешить вторичной SIM-карте использовать независимую сеть 5G</string>
     <string name="fiveg_sa_vice_switch_title">SA на вторичной SIM-карте</string>
     <string name="fiveg_signal_strength1">Сила сигнала 5G :</string>
     <string name="fiveg_switch_status1">Состояние переключателя 5G :</string>
@@ -1214,6 +1221,8 @@
     <string name="force_resizable_activities_summary">Разрешить изменение размера окон в многооконном режиме (независимо от значений в манифесте)</string>
     <string name="force_rtl_layout_all_locales">Отразить интерфейс</string>
     <string name="force_rtl_layout_all_locales_summary">Принудительно расположить элементы интерфейса справа налево во всех локалях</string>
+    <string name="forced_to_display">Принудительный показ</string>
+    <string name="forced_to_hide">Принудительное скрытие</string>
     <string name="four_point_five_switch_summary">Использовать 4.5G для улучшения скорости передачи данных и качества голосовой связи</string>
     <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">номер канала lte</string>
@@ -1232,8 +1241,9 @@
 Если проблема не будет решена, обратитесь к вашему оператору."</string>
     <string name="fw_get_in_vm_failed">"Не удалось сохранить текущие настройки переадресации.
 Все равно сменить провайдера?"</string>
-    <string name="general_news_settings">Основные новости</string>
-    <string name="general_setting">Основные настройки</string>
+    <string name="general_news_settings">Общие новости</string>
+    <string name="general_setting">Общие настройки</string>
+    <string name="general_settings_category">Общие</string>
     <string name="get_pin2">Введите PIN2</string>
     <string name="get_smsc_address_error">Не удалось подключиться к сети.</string>
     <string name="get_smsc_address_timeout">Время ожидания истекло</string>
@@ -1430,7 +1440,7 @@
     <string name="lgu_msim_emm_cause_others">SIM %d не удалось подключиться к сети. Посетите центр обслуживания клиентов. (+82-2-3416-7010).</string>
     <string name="limited_service_alert_dialog_description">"Экстренные вызовы по Wi-Fi:
 	
-Экстренные  вызовы по Wi-Fi невозможны. 
+Экстренные вызовы по Wi-Fi невозможны. 
 
 Устройство автоматически переключится на сотовую сеть (2G/3G) для экстренного вызова.
 
@@ -1746,6 +1756,8 @@
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="multi_category_disable">Подборка из нескольких категорий отключена</string>
     <string name="multi_category_enable">Подборка из нескольких категорий включена</string>
+    <string name="n28_summary">Использовать полосу частот 803 МГц</string>
+    <string name="n28_title">Полоса частот N28</string>
     <string name="name">Имя</string>
     <string name="national_disable">Национальные новости отключены</string>
     <string name="national_enable">Национальные новости включены</string>
@@ -1865,10 +1877,12 @@
     <string name="onscreenShowDialpadText">Клавиатура</string>
     <string name="onscreenSwapCallsText">Обменять</string>
     <string name="onscreenVideoCallText">Видеовызов</string>
+    <string name="opconfig_info">Сведения OpConfig</string>
     <string name="open_miui">Включить</string>
     <string name="opened_dual_4g_confirm_prompt">Ваша SIM-карта поддерживает только 4G. Режим Dual 4G включен автоматически.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s поддерживает только 4G. Для нормальной работы вашей SIM-карты был включен режим Dual 4G.</string>
     <string name="operator">Оператор</string>
+    <string name="optimization_settings_category">Оптимизация</string>
     <string name="optional_summary">&lt;Необязательно&gt;</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться.</string>
@@ -1905,6 +1919,7 @@
     <string name="other_available_phone_accounts">Другие аккаунты</string>
     <string name="other_settings">Другие настройки вызовов</string>
     <string name="other_settings_category">Прочие настройки</string>
+    <string name="other_settings_categorys">Дополнительные функции</string>
     <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
     <string name="overseas_roaming_setting">Интернет-роуминг</string>
     <string name="pane_title_emergency_dialpad">Экстренные вызовы</string>
@@ -2352,6 +2367,8 @@ UT-интерфейс: %5$s"</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
     <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
     <string name="runningservices_settings_title">Работающие приложения</string>
+    <string name="sa_switch_debug_summary">Показывать параметры режима 5G в дополнительных настройках SIM-карты</string>
+    <string name="sa_switch_debug_title">Параметры режима 5G</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -2417,7 +2434,13 @@ UT-интерфейс: %5$s"</string>
     <string name="show_screen_updates_summary">Подсвечивать поверхности окон при обновлении</string>
     <string name="show_touches">Визуальный отклик</string>
     <string name="show_touches_summary">Показывать места нажатия на экране</string>
-    <string name="simContacts_airplaneMode">Для импорта контактов с SIM-карты отключите режим полета.</string>
+    <string name="show_volte_switch_summary">Показывать переключатель VoLTE в сведениях о SIM-карте</string>
+    <string name="show_volte_switch_title">Переключатель VoLTE в сведениях о SIM-карте</string>
+    <string name="show_vonr_switch_summary">Показывать переключатель VoNR в сведениях о SIM-карте</string>
+    <string name="show_vonr_switch_title">Переключатель VoNR</string>
+    <string name="show_vowifi_switch_summary">Показывать переключатель вызовов Wi-Fi в сведениях о SIM-карте</string>
+    <string name="show_vowifi_switch_title">Переключатель вызовов Wi-Fi</string>
+    <string name="simContacts_airplaneMode">Для импорта контактов с SIM-карты отключите режим полета</string>
     <string name="simContacts_empty">На SIM-карте нет контактов</string>
     <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
     <string name="simContacts_title">Выберите контакты для импорта</string>
@@ -2507,7 +2530,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">Убедитесь, что номер правильный. В противном случае вы не сможете отправлять или получать SMS. Свяжитесь с вашим оператором, чтобы подтвердить номер SMS-центра.</string>
     <string name="softap_beacon_protection">Включить защиту SoftAp Beacon</string>
-    <string name="softap_beacon_protection_summary">Включить защиту SoftAp Beacon  с использованием точки доступа</string>
+    <string name="softap_beacon_protection_summary">Включить защиту SoftAp Beacon с использованием точки доступа</string>
     <string name="softap_ocv">Включить SoftAp OCV</string>
     <string name="softap_ocv_summary">Включить SoftAp OCV с использованием точки доступа</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
@@ -2615,6 +2638,7 @@ UT-интерфейс: %5$s"</string>
     <string name="support_forbidden_fakecell">Предупреждение: ограничение подключения к поддельным базовым станциям может снизить сигнал в областях с плохим покрытием</string>
     <string name="switch_dds_to_sub_alert">Установите эту карту по умолчанию для мобильного интернета.</string>
     <string name="switch_dds_to_sub_alert_msg">Переключите мобильные данные на CT SIM</string>
+    <string name="switch_debug_menu">Дополнительные настройки сети</string>
     <string name="switch_off">Откл.</string>
     <string name="switch_on">Вкл.</string>
     <string name="system_visual_voicemail_client" />
@@ -2809,8 +2833,10 @@ UT-интерфейс: %5$s"</string>
     <string name="uplmn_list_setting_add_plmn">Новая ССОП</string>
     <string name="uplmn_list_setting_title">Предпочтительные сети</string>
     <string name="uplmn_numeric_is_empty">Введите ID сети</string>
+    <string name="uplmn_summary">Показывать доступные настройки сети оператора связи в сведениях о SIM-карте</string>
+    <string name="uplmn_title">Настройки сети оператора</string>
     <string name="usb_audio_disable_routing">Откл. передачу аудио (USB)</string>
-    <string name="usb_audio_disable_routing_summary">Откл. автом. маршрутизацию на внеш. USB-устройства</string>
+    <string name="usb_audio_disable_routing_summary">Откл. автомат. маршрутизацию на внеш. USB-устройства</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
     <string name="user_add_profile_item_summary">Профиль с ограниченным доступом к приложениям и контенту</string>
     <string name="user_add_profile_item_title">Ограниченный профиль</string>
