@@ -190,7 +190,7 @@
     <string name="current_version">Текущая версия: %1$s</string>
     <string name="current_version_incompatible">Несовместимая версия</string>
 <!-- ### FROM SOURCE -->
-    <string name="custom_storage_permission_desc">Чтобы иметь возможность изменять настройки персонализации и сохранять загруженные элементы, разрешите доступ к хранилищу. Вы можете предоставить это разрешение в Настройки> Конфиденциальность.</string>
+    <string name="custom_storage_permission_desc">Чтобы иметь возможность изменять настройки персонализации и сохранять загруженные компоненты, разрешите доступ к хранилищу. Вы можете предоставить это разрешение в Настройки> Конфиденциальность.</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
@@ -216,7 +216,7 @@
     <string name="de_mix_mode_aod_desc">Настройка фона и формата часов</string>
     <string name="de_mix_mode_desktop">Рабочий стол</string>
     <string name="de_mix_mode_desktop_desc">Обои и часы</string>
-    <string name="de_mix_mode_global">Элементы системы</string>
+    <string name="de_mix_mode_global">Компоненты системы</string>
     <string name="de_mix_mode_global_desc">Шторка уведомлений, Телефон, Сообщения и т.д.</string>
     <string name="de_mix_mode_icon">Иконки</string>
     <string name="de_mix_mode_icon_desc">Иконки приложений</string>
@@ -451,7 +451,7 @@
     <string name="incall_show_remove_success">Видео профиля успешно удалено</string>
     <string name="incall_show_title">Видео профиля</string>
     <string name="incompatible_dialog_cancel">Не применять</string>
-    <string name="incompatible_dialog_message">Эта тема несовместима с версией MIUI, установленной на вашем устройстве. Если вы примените эту тему, компоненты MIUI могут работать неправильно.</string>
+    <string name="incompatible_dialog_message">Эта тема несовместима с версией MIUI, установленной на вашем устройстве. Если Вы примените эту тему, компоненты MIUI могут работать неправильно.</string>
     <string name="incompatible_dialog_ok">ОК</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
     <string name="install_failed">Не удалось установить</string>
@@ -461,7 +461,7 @@
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
     <string name="item_resource_audio_optional_phone_ring">Мелодии</string>
     <string name="item_view_role_description">Вкладка</string>
-    <string name="kuyin_user_agreement_content">Подписки на пользовательские рингтоны предоставлены iFlytek. Прежде чем использовать пользовательские рингтоны, вы должны принять %s. Согласны?</string>
+    <string name="kuyin_user_agreement_content">Подписки на пользовательские рингтоны предоставлены iFlytek. Прежде чем использовать пользовательские рингтоны, Вы должны принять %s. Согласны?</string>
     <string name="kuyin_user_agreement_content_href">Политика конфиденциальности iFlytek</string>
     <string name="lab">Лаборатория тем</string>
     <string name="like_list">Отмеченные</string>
@@ -569,7 +569,7 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="mix_global_option">Общие</string>
-    <string name="mix_global_option_des">Шторка уведомлений, Телефон, Сообщения и другие элементы системы. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
+    <string name="mix_global_option_des">Шторка уведомлений, Телефон, Сообщения и другие компоненты системы. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_home_option_des">Обои и часы. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_icons_option_des">Иконки рабочего стола. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_lockscreen_option_des">Обои и часы. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
@@ -658,7 +658,7 @@ mm"</string>
 <!-- ### FROM SOURCE -->
     <string name="need_to_open_permission">Требуются разрешения</string>
 <!-- ### FROM SOURCE -->
-    <string name="need_to_open_storage_permission_desc">Чтобы иметь возможность использовать и загружать элементы в Tемах, разрешите приложению доступ к хранилищу.</string>
+    <string name="need_to_open_storage_permission_desc">Чтобы иметь возможность использовать и загружать компоненты в Tемах, разрешите приложению доступ к хранилищу.</string>
     <string name="network_exception">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">Вечер</string>
@@ -705,7 +705,7 @@ mm"</string>
 <!-- ### FROM SOURCE -->
     <string name="pad_fold_no_permission">Требуется доступ к храненилищу </string>
 <!-- ### FROM SOURCE -->
-    <string name="pad_fold_no_permission_detail">Чтобы изменять настройки персонализации и сохранять загруженные элементы, разрешите доступ к хранилищу.</string>
+    <string name="pad_fold_no_permission_detail">Чтобы изменять настройки персонализации и сохранять загруженные компоненты, разрешите доступ к хранилищу.</string>
     <string name="password_toggle_content_description">Показать пароль</string>
 <!-- ### FROM SOURCE -->
     <string name="personalize">Персонализация</string>
@@ -784,9 +784,9 @@ mm"</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_logoff_theme_content_2">2. Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, созданная на устройствах Xiaomi.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_logoff_theme_content_5">5. Все элементы персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут установлены по умолчанию.</string>
+    <string name="privacy_logoff_theme_content_5">5. Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут установлены по умолчанию.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_logoff_theme_service_warning">Следующие элементы будут удалены навсегда после отмены услуг:</string>
+    <string name="privacy_logoff_theme_service_warning">Следующие компоненты будут удалены навсегда после отмены услуг:</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_network_exception">Ошибка сети. Попробуйте позже...</string>
 <!-- ### FROM SOURCE -->
@@ -798,17 +798,17 @@ mm"</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Все обои, шрифты и рингтоны, загруженные на это устройство.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Настройки разрешений, кэшированные элементы, созданные на этом устройстве.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Настройки разрешений, кэшированные компоненты, созданные на этом устройстве.</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
 2. Отказ от услуг Обои и персонализация не повлияет на нормальное использование других продуктов Xiaomi.
-3. Отказ от услуг является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных элементов, так как они могут быть удалены безвозвратно. Помните, что вы не сможете отменить свое решение после отказа от услуг. Следующие данные будут безвозвратно удалены или анонимизированы после отказа от услуг (за исключением случаев, предусмотренных законами и нормативными актами или иным образом требуемых регулирующими органами):"</string>
+3. Отказ от услуг является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных элементов, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отказа от услуг. Следующие данные будут безвозвратно удалены или анонимизированы после отказа от услуг (за исключением случаев, предусмотренных законами и нормативными актами или иным образом требуемых регулирующими органами):"</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Все заказы (в том числе оплаченные), сделанные на устройствах Xiaomi. Вы больше не сможете использовать купленные предметы.
 Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, созданная на устройствах Xiaomi.
 Все обои, шрифты и рингтоны загружены на это устройство.
-Все настройки разрешений, настройки и кэшированные элементы, созданные на этом устройстве.
-Все элементы персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут установлены по умолчанию."</string>
+Все настройки разрешений, настройки и кэшированные компоненты, созданные на этом устройстве.
+Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут установлены по умолчанию."</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Отказ от услуг не подразумевает освобождения или смягчения ответственности, вызванной действиями, выполненными до отказа от услуг.</string>
 <!-- ### FROM SOURCE -->
@@ -824,7 +824,7 @@ mm"</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Все обои, шрифты и рингтоны, загруженные на это устройство.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_pad_fold_revoke_agree_content_4">4. Настройки разрешений, кэшированные элементы, созданные на этом устройстве.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. Настройки разрешений, кэшированные компоненты, созданные на этом устройстве.</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">Заявление об отзыве согласия  с Политикой конфиденциальности Обои и персонализация</string>
 <!-- ### FROM SOURCE -->
@@ -835,7 +835,7 @@ mm"</string>
     <string name="privacy_pad_fold_update_content">Обновленная Политика конфиденциальности Обои и персонализация:</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_pad_important_prompt_content">"Вы еще не согласились с нашим Пользовательским соглашением и Политикой конфиденциальности. Однако основные функции и услуги Обои и персонализация по-прежнему доступны Вам.
-Каждый раз, когда вы используете компоненты, хранящиеся на этом устройстве, для персонализации (обои, ригтоны, и т.д.), мы просим Вас разрешить этому приложению доступ к хранилищу устройства."</string>
+Каждый раз, когда Вы используете компоненты, хранящиеся на этом устройстве, для персонализации (обои, ригтоны, и т.д.), мы просим Вас разрешить этому приложению доступ к хранилищу устройства."</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_permission_management_description">Детали разрешений</string>
 <!-- ### FROM SOURCE -->
@@ -844,7 +844,7 @@ mm"</string>
     <string name="privacy_permit_privacy_policy_content">"Вы не сможете продолжать пользоваться нашим сайтом, если не согласитесь с &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политикой конфиденциальности&lt;/font>&lt;/a>. Принять Политику конфиденциальности?"</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_phone_important_prompt_content">"Вы еще не согласились с нашим Пользовательским соглашением и Политикой конфиденциальности. Однако основные функции и услуги Обои и персонализация по-прежнему доступны Вам.
-Каждый раз, когда вы используете компоненты, хранящиеся на этом устройстве, для персонализации (обои, ригтоны, и т.д.), мы просим Вас разрешить этому приложению доступ к хранилищу устройства."</string>
+Каждый раз, когда Вы используете компоненты, хранящиеся на этом устройстве, для персонализации (обои, ригтоны, и т.д.), мы просим Вас разрешить этому приложению доступ к хранилищу устройства."</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_phone_logoff_service_content">Отказ от услуг Темы</string>
 <!-- ### FROM SOURCE -->
@@ -872,88 +872,88 @@ mm"</string>
 <!-- ### FROM SOURCE -->
     <string name="privacy_phone_read_and_write_storage">Доступ к хранилищу</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancelation of Themes Services&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отказе от услуг Темы&lt;/a>&lt;/font>\"."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>"I've read and agreed to the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the Privacy Policy of Themes&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отзыве согласия с Политикой конфиденциальности Темы&lt;/a>&lt;/font>\"."</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_revoke_agree_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
+    <string name="privacy_phone_revoke_agree_content_3">3. Все темы, обои, динамические обои, шрифты, значки и мелодии звонка, загруженные на это устройство.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_revoke_agree_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Историю поиска, настройки разрешений, настройки и кэшированные компоненты, созданные на этом устройстве.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Make sure that you have the right to withdraw consent before you continue.
-2. Your withdrawal of consent to the Privacy Policy of Themes won't affect the normal usage of other Xiaomi products.
-3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
+    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас есть право отозвать согласие.
+2. Ваш отзыв согласия с Политикой конфиденциальности Темы не повлияет на нормальное использование других продуктов Xiaomi.
+3. Отзыв согласия является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных компонентов, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отзыва согласия. Данные будут безвозвратно удалены или анонимизированы после отзыва согласия (за исключением случаев, предусмотренных законами и нормативными актами):"</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_revoke_agree_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.
-All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.
-All the search history records, permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт. Вы больше не сможете использовать купленные компоненты.
+Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт.
+Все темы, обои, динамические обои, шрифты, значки и мелодии звонка, загруженные на это устройство.
+Истории поиска, настройки разрешений, настройки и кэшированные компоненты, созданные на этом устройстве.
+Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут восстановлены по умолчанию."</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_revoke_agree_detail_content_3">"4. After you withdraw your consent to the Privacy policy of Themes, we will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. 
-5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"4. После того, как Вы отзовете свое согласие с Политикой конфиденциальности Темы, мы перестанем собирать Вашу личную информацию. Собранная и сохраненная личная информация будет удалена в течение определенного периода в соответствии с применимыми законами и постановлениями. 
+5. Отзыв согласия не подразумевает освобождения или смягчения ответственности в отношении действий, выполненных до отзыва согласия."</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Themes</string>
+    <string name="privacy_phone_revoke_agree_detail_prompt">Заявление об отзыве согласия на Политику конфиденциальности Темы</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Themes\" before withdrawing your consent.</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Прочтите \"Заявление об отзыве согласия на Политику конфиденциальности Темы\" перед тем, как отозвать свое согласие.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_revoke_agree_introduce">"If you continue, you'll withdraw your consent to the Privacy Policy of Themes. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Themes provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Themes services."</string>
+    <string name="privacy_phone_revoke_agree_introduce">"Если Вы продолжите, Вы отзовете свое согласие с Политикой конфиденциальности Темы. Собранная и сохраненная личная информация будет удалена в течение определенного периода в соответствии с применимыми законами и постановлениями. Поскольку Темы предоставляет свои услуги на основе сбора необходимой личной информации, Ваш отзыв согласия будет рассматриваться как отказ от услуг Темы."</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_phone_update_content">Themes Privacy Policy was updated:</string>
+    <string name="privacy_phone_update_content">Политика конфиденциальности Темы:</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_read_statement">Agree to the terms and conditions first</string>
+    <string name="privacy_read_statement">Принять Условия использования</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_read_the_updated_privacy_policy_content">"Read and agree to the new version of &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Privacy Policy&lt;/font>&lt;/a> before you continue."</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Принять &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a> перед тем как продолжить."</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_reading_the_application_list">Access the list of apps installed on this device</string>
+    <string name="privacy_reading_the_application_list">Доступ к списку приложений, установленных на этом устройстве</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_remind_user_mode_agree">Agree</string>
+    <string name="privacy_remind_user_mode_agree">Согласен</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_remind_user_mode_content"><Data>Agree to our Privacy Policy to use this feature. Read our &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/font> to learn how we collect, use, disclose, process, and store the personal information you provide to us when you use Themes.</Data></string>
+    <string name="privacy_remind_user_mode_content"><Data>Примите Политику конфиденциальности, чтобы использовать эту функцию. Прочтите &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>&lt;/font> чтобы узнать, как мы собираем, используем, раскрываем, обрабатываем и храним личную информацию, которую Вы предоставляете нам при использовании Темы.</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_remind_user_mode_title">Attention</string>
+    <string name="privacy_remind_user_mode_title">Внимание</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_revoke_agree_content">Withdrawal of consent</string>
+    <string name="privacy_revoke_agree_content">Отзыв Согласия</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_revoke_agree_content_1">1. All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.</string>
+    <string name="privacy_revoke_agree_content_1">1. Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт. Вы больше не сможете использовать купленные компоненты.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_revoke_agree_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.</string>
+    <string name="privacy_revoke_agree_content_2">2. Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, в которых Вы использовали свой Mi Аккаунт.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_revoke_agree_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
+    <string name="privacy_revoke_agree_content_5">5. Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут восстановлены по умолчанию.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_revoke_agree_data_warning">The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):</string>
+    <string name="privacy_revoke_agree_data_warning">Следующие данные будут безвозвратно удалены или анонимизированы после отзыва согласия (за исключением случаев, предусмотренных законами и нормативными актами):</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_revoke_succeed">Withdrew consent successfully</string>
+    <string name="privacy_revoke_succeed">Ваше Согласие отозвано</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_revoking_warning">Withdrawing consent…</string>
+    <string name="privacy_revoking_warning">Отзыв согласия…</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_select_mode">Select mode</string>
+    <string name="privacy_select_mode">Выберите режим</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_select_mode_desc">"Since you haven't agreed to our Privacy Policy, select one of the following modes:"</string>
+    <string name="privacy_select_mode_desc">"Поскольку Вы не согласились с нашей Политикой конфиденциальности, выберите один из следующих режимов:"</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_settings">Privacy</string>
+    <string name="privacy_settings">Конфиденциальность</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_update_prompt_title">Updated Privacy Policy</string>
+    <string name="privacy_update_prompt_title">Политика конфиденциальности</string>
 <!-- ### FROM SOURCE -->
-    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Make sure that you have the right to withdraw consent before you continue.
-2. Your withdrawal of consent to the Privacy Policy of Wallpaper and personalization won't affect the normal usage of other Xiaomi products.
-3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас есть право отозвать согласие.
+2. Ваш отзыв согласия с Политикой конфиденциальности Обои и персонализации не повлияет на нормальное использование других продуктов Xiaomi.
+3. Отзыв согласия является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных компонентов, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отзыва согласия. Следующие данные будут безвозвратно удалены или анонимизированы после отзыва согласия (за исключением случаев, предусмотренных законами и нормативными актами):"</string>
 <!-- ### FROM SOURCE -->
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.
-All the wallpapers, fonts, and ringtones downloaded to this device.
-All the permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт. Вы больше не сможете использовать купленные компоненты.
+Вся информация о Ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт.
+Все обои, шрифты и рингтоны, загруженные на это устройство.
+Все настройки разрешений, настройки и кэшированные компоненты, созданные на этом устройстве.
+Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут восстановлены по умолчанию."</string>
 <!-- ### FROM SOURCE -->
-    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. After you withdraw your consent to the Privacy policy of Wallpaper and personalization, we will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. 
-5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. После того, как Вы отзовете свое согласие с Политикой конфиденциальности Обои и персонализация, мы перестанем собирать Вашу личную информацию. Собранная и сохраненная личная информация будет удалена в течение определенного периода в соответствии с применимыми законами и постановлениями. 
+5. Отзыв согласия не подразумевает освобождения или смягчения ответственности в отношении действий, выполненных до отзыва согласия."</string>
     <string name="provision_default_theme_title">По умолчанию</string>
     <string name="provision_loading_tips">Подождите…</string>
-    <string name="provision_second_title">Выберите одну из различных тем по умолчанию</string>
+    <string name="provision_second_title">Выберите одну из тем по умолчанию</string>
     <string name="provision_title">Выбор темы</string>
 <!-- ### FROM SOURCE -->
-    <string name="prvicay_permission_not_allow_desc">"This app needs to access storage to delete all the data generated on this device. Without this permission, some data may not be deleted. Cancel services anyway?
-You can grant this permission in Settings > Privacy."</string>
+    <string name="prvicay_permission_not_allow_desc">"Приложению необходим доступ к хранилищу, чтобы удалить все данные, сгенерированные на этом устройстве. Без этого разрешения некоторые данные не могут быть удалены. Все хотите отказаться от услуг?
+Вы можете предоставить эти разрешения в Настройки> Конфиденциальность."</string>
     <string name="pull_down_view_error_message">Упс! Интернет-подключение отсутствует. Проверьте подключение и повторите попытку.</string>
     <string name="pull_down_view_refresh">Обновить</string>
     <string name="pull_down_view_title">Что нового</string>
@@ -961,7 +961,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="purchased_list_current">Оптимизированные</string>
     <string name="purchased_list_legacy">Устаревшие</string>
 <!-- ### FROM SOURCE -->
-    <string name="read_and_agree_account_privacy"><Data>"I've read and agreed to the Mi Account &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font>."</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>"Я согласен с условиями Mi Аккаунт &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательским Соглашением&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Политикой конфиденциальности&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Недавние</string>
     <string name="recommend_trigger">Персонализированные рекомендации</string>
     <string name="recommend_trigger_summary">Включите, чтобы получать рекомендации, основанные на ваших предпочтениях</string>
@@ -1067,7 +1067,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="resource_exchange_hint">Введите код</string>
     <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
     <string name="resource_exchange_share_code_content">Вы получили подарочный код (%2$s) для темы \"%1$s\". Нажмите %3$s для его использования.</string>
-    <string name="resource_exchange_share_code_dlg_content">Подарочный код для темы \"%1$s\": %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
+    <string name="resource_exchange_share_code_dlg_content">Подарочный код для темы \"%1$s\": %2$s. Когда Вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
     <string name="resource_exchange_share_code_dlg_title">Отправка</string>
     <string name="resource_exchange_success">Готово</string>
     <string name="resource_exchange_unavailable">Этот компонент недоступен</string>
@@ -1300,9 +1300,9 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="still_apply">Применить</string>
 <!-- ### FROM SOURCE -->
-    <string name="storage_migration_exit_msg">To make Themes compatible with the upcoming versions of Android, we moved your downloaded items to a new location. Restart the app to apply changes and view your downloaded content.</string>
+    <string name="storage_migration_exit_msg">Чтобы темы были совместимы с будущими версиями Android, мы переместили загруженные вами компоненты в новое место. Перезапустите приложение, чтобы применить изменения и просмотреть загруженный контент.</string>
 <!-- ### FROM SOURCE -->
-    <string name="storage_permission_denied_desc">Allow Themes access to storage to be able to view items</string>
+    <string name="storage_permission_denied_desc">Разрешить Темам доступ к хранилищу, чтобы иметь возможность просматривать компоненты</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
@@ -1444,10 +1444,10 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="theme_is_external_priority_storage">Сохранять на SD-карту</string>
     <string name="theme_is_external_priority_storage_summary">Для применения изменений потребуется перезапуск приложения</string>
 <!-- ### FROM SOURCE -->
-    <string name="theme_log_out">Sign out</string>
+    <string name="theme_log_out">Выход</string>
     <string name="theme_multiple_button_title_customize">Компоненты тем</string>
     <string name="theme_no">Отмена</string>
-    <string name="theme_not_include_module_desc">Тема не содержит следующие элементы: %s</string>
+    <string name="theme_not_include_module_desc">Тема не содержит следующие компоненты: %s</string>
     <string name="theme_on_the_phone_alert">Воспроизведение во время вызова недоступно</string>
     <string name="theme_preview">Предпросмотр</string>
     <string name="theme_select_others">Обзор</string>
@@ -1457,7 +1457,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="theme_share_app_name">Mi Темы</string>
     <string name="theme_staggered_item_text">Получить Mi Credits</string>
     <string name="theme_user_agreement_allow">Продолжить</string>
-    <string name="theme_user_agreement_content1">"Используя этот продукт, вы принимаете наши "</string>
+    <string name="theme_user_agreement_content1">"Используя этот продукт, Вы принимаете наши "</string>
     <string name="theme_user_agreement_content2">Условия использования</string>
     <string name="theme_user_agreement_content3">" и "</string>
     <string name="theme_user_agreement_content4">Политика конфиденциальности</string>
@@ -1492,7 +1492,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
 <!-- ### FROM SOURCE -->
-    <string name="trans_wallpaper_offline_notice">"Transparent wallpapers aren't available"</string>
+    <string name="trans_wallpaper_offline_notice">"Прозрачные обои недоступны"</string>
     <string name="transparency_pref_summary">Выберите уровень прозрачности обоев</string>
     <string name="transparency_pref_title">Уровень прозрачности</string>
     <string name="transparent_wallpaper">Прозрачные обои</string>
@@ -1507,7 +1507,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="transparent_wallpaper_filter_set_successfully">Установлено успешно</string>
     <string name="transparent_wallpaper_filter_setting">Выбранные приложения</string>
     <string name="transparent_wallpaper_guide">Перейти в Темы</string>
-    <string name="transparent_wallpaper_guide_tip">Теперь вы можете выбрать прозрачные обои в Темах.</string>
+    <string name="transparent_wallpaper_guide_tip">Теперь Вы можете выбрать прозрачные обои в Темах.</string>
     <string name="transparent_wallpaper_is_running_in_background">Прозрачные обои запущены в фоновом режиме</string>
     <string name="transparent_wallpaper_pref_summary">Обои с частичной прозрачностью</string>
     <string name="transparent_wallpaper_white_wallpaper">Установить белый фон</string>
@@ -1567,7 +1567,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="vip_level_dialog_positive">Я знаю</string>
     <string name="vip_level_dialog_title">Совет</string>
 <!-- ### FROM SOURCE -->
-    <string name="voice_input">Voice input</string>
+    <string name="voice_input">Голосовой ввод</string>
     <string name="wallpaper_24h">24ч</string>
     <string name="wallpaper_apply">Применить</string>
     <string name="wallpaper_crop">Обрезать</string>
