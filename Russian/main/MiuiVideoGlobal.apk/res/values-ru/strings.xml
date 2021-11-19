@@ -113,6 +113,8 @@
     <string name="background_playback_enabled">Включено фоновое воспроизведение</string>
     <string name="before_yestoday">2 дня назад</string>
     <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
+    <string name="box_title_gallery">Инструменты для видео</string>
+    <string name="box_title_mivideo">Дополнительные функции</string>
     <string name="brvah_app_name">Библиотека</string>
     <string name="brvah_load_end">Ничего нет</string>
     <string name="brvah_load_failed">Ошибка загрузки. Нажмите, чтобы повторить попытку.</string>
@@ -173,6 +175,7 @@
     <string name="choose_to_signup">Создать новый</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_to_open_pip">Нажмите для переключения в режим \"Картинка в картинке\"</string>
+    <string name="click_to_play_video_push_context">Нажмите для воспроизведения</string>
     <string name="click_to_reload_more">Нажмите для загрузки</string>
     <string name="click_to_retry">Повторить</string>
     <string name="close">Закрыть</string>
@@ -294,12 +297,19 @@ ID: %s
     <string name="dialog_app_comment_select_feedback">Могли бы вы оставить отзыв?</string>
     <string name="dialog_app_comment_select_praise">Хотите оценить приложение в Play Маркете?</string>
     <string name="dialog_app_comment_title">Оцените приложение</string>
+    <string name="dialog_bookmark_add">Добавить</string>
+    <string name="dialog_bookmark_cancel">Отмена</string>
     <string name="dialog_disagree_privacychange_info">В случае несогласия с нашей Политикой конфиденциальности, вы не сможете использовать онлайн-сервисы потоковой передачи Mi Видео. Нажмите \"Отмена\", чтобы вернуться, или \"Отказ\", чтобы продолжить использовать Mi Видео только как локальный видеоплеер.</string>
     <string name="dialog_disagree_privacychange_title">Отказ</string>
-    <string name="dialog_privacy_change_info">Мы обновили Политику конфиденциальности Mi Видео в связи с корректировкой предлагаемых услуг. Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</string>
-    <string name="dialog_privacy_change_title">Обновление Политики конфиденциальности</string>
+    <string name="dialog_edit_hint_bookmarks_name">Имя закладки</string>
+    <string name="dialog_edit_hint_bookmarks_url">URL</string>
+    <string name="dialog_jumpto_choose">Больше не показывать</string>
+    <string name="dialog_jumpto_content">Переключиться на Mi Видео для дополнительных функций воспроизведения?</string>
+    <string name="dialog_jumpto_title">Mi Видео</string>
+    <string name="dialog_privacy_change_info">Мы обновили политику конфиденциальности Mi Видео в связи с корректировкой предлагаемых услуг. Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</string>
+    <string name="dialog_privacy_change_title">Обновление политики конфиденциальности</string>
     <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Принимаю\", вы соглашаетесь с нашей Политикой конфиденциальности.</string>
-    <string name="dialog_privacy_info_new3">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные в соответствии с Политикой конфиденциальности. Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt; и &lt;a href=\"%3$s\"&gt;Пользовательским соглашением&lt;/a&gt; Xiaomi. &lt;br/&gt;&lt;br/&gt; Mi Видео получит доступ к списку приложений на устройстве для определения наличия приложений на устройстве, их версии и безопасности.</string>
+    <string name="dialog_privacy_info_new3">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные в соответствии с политикой конфиденциальности. Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt; и &lt;a href=\"%3$s\"&gt;Пользовательским соглашением&lt;/a&gt; Xiaomi. &lt;br/&gt;&lt;br/&gt; Mi Видео получит доступ к списку приложений на устройстве для определения наличия приложений на устройстве, их версии и безопасности.</string>
     <string name="dialog_privacy_info_new4">"Добро пожаловать в Mi Видео! Приложение предоставляет следующие сервисы:
 &lt;br/&gt; - Онлайн-сервисы потоковой передачи
 &lt;br/&gt; - Локальный видеоплеер
@@ -315,12 +325,16 @@ ID: %s
     <string name="dialog_privacy_title">Условия и положения</string>
     <string name="dialog_revoke_privacy_info_new2">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение?</string>
     <string name="dialog_revoke_privacy_title">Отзыв разрешения</string>
+    <string name="dialog_set_default_later">Нет, спасибо</string>
+    <string name="dialog_set_default_set">Установить</string>
+    <string name="dialog_set_default_text">Установить Mi Видео видеоплеером по умолчанию?</string>
     <string name="disagree">Отказ</string>
     <string name="diy_channels_tips">Теперь вы можете настроить список ваших каналов.</string>
     <string name="do_not_show_again">Больше не показывать</string>
     <string name="download">Загрузить</string>
     <string name="download_checking_tip">Подготовка к загрузке…</string>
     <string name="download_complete">Загружено</string>
+    <string name="download_completed_push_title">Загрузка завершена</string>
     <string name="download_delete_tip">Удалить выбранные файлы?</string>
     <string name="download_delete_title">Удалить</string>
     <string name="download_guide_click_icon_to_website_or_enter_url">Нажмите на ярлык, чтобы открыть веб-сайт или ввести URL-адрес</string>
@@ -539,8 +553,8 @@ ID: %s
 
 1. Доступ к памяти
 2. Доступ к ID устройства"</string>
-    <string name="galleryplus_permission_content_opt">Для нормальной работы Mi Video предоставьте необходимые разрешения. Выполните очистку данных приложения и снова откройте приложение.</string>
-    <string name="galleryplus_permission_content_xms">Для нормальной работы Mi Video предоставьте необходимые разрешения</string>
+    <string name="galleryplus_permission_content_opt">Для нормальной работы Mi Видео предоставьте необходимые разрешения. Выполните очистку данных приложения и снова откройте приложение.</string>
+    <string name="galleryplus_permission_content_xms">Для нормальной работы Mi Видео предоставьте необходимые разрешения</string>
     <string name="galleryplus_permission_open_settings">Настройки</string>
     <string name="galleryplus_permission_refuse">Нет, спасибо</string>
     <string name="galleryplus_permission_retry">Разрешения</string>
@@ -591,6 +605,8 @@ ID: %s
     <string name="have_learned">Понятно</string>
     <string name="hidden_channels">Следующие каналы не будут отображаться на главной странице.</string>
     <string name="hide">Скрыть</string>
+    <string name="hint_icon_ad_title">Рекомендация</string>
+    <string name="hint_in_mivideo">Посмотрите дополнительные функции в боковой панели</string>
     <string name="history">История</string>
     <string name="history_local_video">Локальные</string>
     <string name="history_online_video">Онлайн</string>
@@ -1561,6 +1577,13 @@ ID: %s
     <string name="title_firework_recommend">Рекомендации Firework</string>
     <string name="title_publisher">Создатели</string>
     <string name="title_subscribe">Подписки</string>
+    <string name="toast_bookmark_add_success">Закладка добавлена</string>
+    <string name="toast_bookmark_already_created">Эта закладка уже существует</string>
+    <string name="toast_bookmark_input_name">Введите имя закладки</string>
+    <string name="toast_bookmark_input_url">Введите URL</string>
+    <string name="toast_bookmark_success_to_add">Закладка добавлена</string>
+    <string name="toast_bookmark_success_to_delete">Закладка удалена</string>
+    <string name="toast_bookmark_url_error">Введите действительный URL</string>
     <string name="toast_no_data">Недоступно на данный момент. Попробуйте позже.</string>
     <string name="toast_request_too_frequently">Не так быстро!</string>
     <string name="toast_share_failed">Не удалось поделиться. Повторите попытку позже.</string>
@@ -1662,6 +1685,7 @@ ID: %s
     <string name="vp_replay">Повтор</string>
     <string name="vp_upcoming_auto_play">Автовоспроизведение</string>
     <string name="vp_upcoming_title">Далее</string>
+    <string name="website_button_add_bookmarks">Добавить закладку</string>
     <string name="wechat_application_id"/>
     <string name="wechat_scope"/>
     <string name="wechat_state"/>
@@ -1686,7 +1710,7 @@ ID: %s
     <string name="ytb_author_video">Видео</string>
     <string name="ytb_login">Войти</string>
     <string name="ytb_login_btn">Войти</string>
-    <string name="ytb_login_hint">Войдите для просмотра подпискок на YouTube</string>
+    <string name="ytb_login_hint">Войдите для просмотра подписок на YouTube</string>
     <string name="ytb_logout">Выход</string>
     <string name="ytb_play_next">Следующее</string>
     <string name="ytb_subscribed">Подписки</string>
