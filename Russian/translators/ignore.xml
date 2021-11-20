@@ -857,6 +857,7 @@
     <string name="beauty_level_3">3</string>
     <string name="beauty_level_4">4</string>
     <string name="beauty_level_5">5</string>
+    <string name="before_execute_notify">before_exclude_notify</string>
     <string name="best_warning_dialog_message"> </string>
     <string name="best_warning_dialog_message1"> </string>
     <string name="bh_number_info">%1$s (%2$s)</string>
@@ -2058,6 +2059,9 @@
     <string name="exception_network_slow">网络不给力</string>
     <string name="exception_report_cn">wpsoffice_exception_report_cn@kingsoft.com</string>
     <string name="exception_too_many_people_wait_retry">人气太旺啦，稍候再试试</string>
+    <string name="execute_notify">exclude_notify</string>
+    <string name="exit_category">exit_category</string>
+    <string name="exit_notify">exit_notify</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Мбит/с</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
@@ -2367,6 +2371,7 @@
     <string name="intent_host_base">base</string>
     <string name="intent_host_stock">stock</string>
     <string name="intent_scheme">personalassistant</string>
+    <string name="intercept_dimension_ratio">35:24</string>
     <string name="international_details_chance_of_rain">@string/indices_title_chance_of_rain</string>
     <string name="international_details_humidity">@string/realtime_humidity_title</string>
     <string name="international_details_no_data">@string/item_city_list_temperature_no_data</string>
@@ -3540,6 +3545,7 @@
     <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
     <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
     <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
+    <string name="privacy_policy_url">app://com.miui.cloudservice.gdpr.license</string>
     <string name="privacy_type_camera">camera</string>
     <string name="privacy_type_location">location</string>
     <string name="privacy_type_microphone">microphone</string>
@@ -3729,6 +3735,7 @@
     <string name="service_client_name">%1$s</string>
     <string name="service_name">MiplayAudio</string>
     <string name="service_process_name">%1$s</string>
+    <string name="set_exit_condition">set_exit_condition</string>
     <string name="set_primary">SetPrimary</string>
     <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
     <string name="setting_alipay">Alipay</string>
@@ -3812,6 +3819,7 @@
     <string name="shopping_setting_taobao">Taobao</string>
     <string name="shopping_setting_tmall">Tmall</string>
     <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
+    <string name="show_task_shortcut_in_desktop">show_task_shortcut_in_desktop</string>
     <string name="sign_percent">%</string>
     <string name="sign_secret_key">vha2n2sh808j7ni2p3af1mw58gxa9yrj</string>
     <string name="sim_settings_summary">%1$s - %2$s</string>
