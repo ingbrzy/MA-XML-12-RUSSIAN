@@ -83,7 +83,7 @@
     <string name="attach_video">Видео</string>
     <string name="attach_video_call">Видеозвонок</string>
 <!-- ### FROM SOURCE -->
-    <string name="attachment_panel_show_part">Page %1$d</string>
+    <string name="attachment_panel_show_part">Страница %1$d</string>
     <string name="audio_download_failed">Не удалось загрузить запись</string>
     <string name="audio_message_expired">Это голосовое сообщение уже недоступно.</string>
     <string name="audio_message_mx_offline">Не удалось загрузить аудио. \"Mi сообщения\" отключены или недоступны.</string>
@@ -153,9 +153,9 @@
     <string name="cm_privacy_dialog_title">Внимание</string>
     <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
 <!-- ### FROM SOURCE -->
-    <string name="cn_privacy_dialog_title">Attention</string>
+    <string name="cn_privacy_dialog_title">Внимание</string>
 <!-- ### FROM SOURCE -->
-    <string name="cn_privacy_update_dialog_title">Updated Privacy Policy</string>
+    <string name="cn_privacy_update_dialog_title">Обновленная Политика конфиденциальности</string>
     <string name="complain_message_title">Отчет</string>
     <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
     <string name="confirm">OK</string>
@@ -237,9 +237,9 @@
     <string name="delivery_report_activity">Отчет о доставке</string>
     <string name="delivery_toast_body">Сообщение для %s доставлено</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_agree">Agree</string>
+    <string name="dialog_agree">Принять</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_cancel">Отмена</string>
     <string name="dialog_choice_all_correct_as_normal">Все сообщения от %s</string>
     <string name="dialog_complain_tips">Разрешить Сообщениям подключение к сети, для возможности отчетов.</string>
     <string name="dialog_message_correct_as_ad">Все сообщения от %s (кроме проверочных кодов) будут перемещены в рекламные сообщения.</string>
@@ -249,9 +249,9 @@
     <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Сообщениям и Справочнику для нормальной работы требуется подключение к интернету и доступ к вашему местоположению. Разрешить?</string>
     <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае. Перед использованием Сообщений China Mobile вы должны принять \"%1$s\".</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_quit">Exit</string>
+    <string name="dialog_quit">Выход</string>
 <!-- ### FROM SOURCE -->
-    <string name="dialog_revoke">Withdraw</string>
+    <string name="dialog_revoke">Отзыв согласия</string>
     <string name="dialog_sim_locked_confirm">ОК</string>
     <string name="dialog_sim_locked_message">"Ваша SIM-карта не полностью работоспособна с этим телефоном, потому что не соответствует условиям подписки. Если у вас есть какие-либо вопросы или нужна дополнительная информация по этому вопросу, обратитесь в сервисный центр Xiaomi или в магазин, где приобрели телефон."</string>
     <string name="dialog_smart_message_privacy_tips">Услуга Умные сообщения частично предоставляется Dianhuabang. Перед использованием Умных сообщений вы должны согласиться с \"%1$s\". Умным сообщениям для нормальной работы требуется подключение к интернету и доступ к определению местоположения. Разрешить?</string>
@@ -515,9 +515,9 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="mms">MMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="mms_5g_mms_privacy_policy">5G Messaging Privacy policy</string>
+    <string name="mms_5g_mms_privacy_policy">Политика конфиденциальности обмена сообщениями в 5G сетях</string>
 <!-- ### FROM SOURCE -->
-    <string name="mms_5g_mms_privacy_policy_revoke">Withdraw consent to the Privacy Policy of 5G Messaging</string>
+    <string name="mms_5g_mms_privacy_policy_revoke">Отозвать согласие с Политикой конфиденциальности обмена сообщениями в 5G сетях</string>
     <string name="mms_block_alert_message">Все MMS, кроме сообщений, отправленных авторизованными отправителями, будут заблокированы. Авторизованными отправителями являются сетевые операторы, национальные системы бронирования железнодорожных билетов и т. д.</string>
     <string name="mms_block_alert_ok">Заблокировать</string>
     <string name="mms_block_alert_title">Блокировка MMS</string>
@@ -636,7 +636,7 @@
     <string name="mx_online">Активировано</string>
     <string name="mx_privacy_policy">Политика конфиденциальности Mi сообщений</string>
 <!-- ### FROM SOURCE -->
-    <string name="mx_privacy_policy_revoke">Withdraw consent to the Privacy Policy of Mi Message</string>
+    <string name="mx_privacy_policy_revoke">Отозвать согласие с Политикой конфиденциальности Mi Сообщения</string>
     <string name="mx_reactivate">Повторная активация</string>
     <string name="mx_recommend_msg">Нажмите для включения Mi сообщений</string>
     <string name="mx_stranger_recommend_msg">Нажмите для блокировки Mi сообщений с неизвестных номеров</string>
@@ -702,7 +702,7 @@
     <string name="perm_purpose_rcs_phone_state">Для доступа к IMEI для идентификации вашего устройства</string>
     <string name="perm_purpose_rcs_storage">Для сохранения изображений, видео, файлов и других вложений RCS</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_new_retry_dialog_msg">Messaging needs to access contacts to be able to work normally. You can change permissions in Settings > Apps > System app settings.</string>
+    <string name="permission_new_retry_dialog_msg">Для нормальной работы программе обмена сообщениями необходим доступ к контактам. Вы можете изменить разрешения в Настройки> Приложения> Настройки системных приложений.</string>
     <string name="permission_retry_deny">Отмена</string>
     <string name="permission_retry_dialog_msg">Приложению Сообщения для нормальной работы требуются разрешения. Нажмите \"Настройки\", затем \"Разрешения\" и предоставьте доступ к устройству, SMS и контактам.</string>
     <string name="permission_retry_setting">Настройки</string>
@@ -767,7 +767,7 @@
     <string name="pref_title_ad_mms_recognition">Распознавать рекламные сообщения</string>
     <string name="pref_title_allow_si_sl_push">Разрешить WAP Push (SI/SL)</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_authority_management">Permissions details</string>
+    <string name="pref_title_authority_management">Детали разрешений</string>
     <string name="pref_title_auto_delete">Удалять старые сообщения</string>
     <string name="pref_title_card_format">Формат обмена визитками</string>
     <string name="pref_title_collapse_ad_notification">Группировать уведомления о рекламных сообщениях</string>
@@ -787,27 +787,26 @@
     <string name="pref_title_msg_blocked">Черный список</string>
     <string name="pref_title_notification_body_enabled">Сообщения на экране блокировки</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_audio">Record audio</string>
+    <string name="pref_title_perm_audio">Записывать аудио</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_calander">Access calendar</string>
+    <string name="pref_title_perm_calander">Доступ к календарю</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_call">Make calls</string>
+    <string name="pref_title_perm_call">Совершать звонки</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_camera">Use camera</string>
+    <string name="pref_title_perm_camera">Использовать камеру</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_location">Location</string>
+    <string name="pref_title_perm_location">Использовать геолокацию</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_read_call_log">Access call history</string>
+    <string name="pref_title_perm_read_call_log">Доступ к журналу звонков</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_read_contacts">Access contacts</string>
+    <string name="pref_title_perm_read_contacts">Доступ к контактам
+    <string name="pref_title_perm_read_mms">Чтение СМС</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_read_mms">Read SMS</string>
+    <string name="pref_title_perm_send_mms">Отправлять СМС</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_send_mms">Send SMS</string>
+    <string name="pref_title_perm_storage">Доступ к хранилищу</string>
 <!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_storage">Access storage</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_title_perm_write_contacts">Edit contacts</string>
+    <string name="pref_title_perm_write_contacts">Редактировать контакты</string>
     <string name="pref_title_privacy_authority">Разрешение</string>
     <string name="pref_title_privacy_policy_detail">Политика конфиденциальности</string>
     <string name="pref_title_ringtone_repeat">Звук уведомлений</string>
@@ -832,23 +831,23 @@
     <string name="priority_low">Низкий</string>
     <string name="priority_normal">Обычный</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_error_service">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="privacy_dialog_error_service">Ошибка сервера. Попробуйте позже.</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_text_policy_link">Privacy Policy</string>
+    <string name="privacy_dialog_text_policy_link">Политика Конфиденциальности</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_tips_revoke" formatted="false">"If you continue, you'll withdraw your consent to the Privacy Policy of %s. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As %s provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept %s services. Withdraw consent now?"</string>
+    <string name="privacy_dialog_tips_revoke" formatted="false">"Если Вы продолжите, Вы отзовете свое согласие с Политикой конфиденциальности %s. Собранная и сохраненная личная информация будет удалена в течение определенного периода в соответствии с применимыми законами и постановлениями. Поскольку %s предоставляет свои услуги на основе сбора необходимой личной информации, Ваш отзыв согласия будет считаться отказом принять услуги %s. Ототвать согласие?"</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_tips_update" formatted="false">"%s Privacy Policy was updated:
+    <string name="privacy_dialog_tips_update" formatted="false">"%s Обновленная Политика конфиденциальности:
 %s
-Read and agree to the new version of Privacy Policy before you continue."</string>
+Принять новую версию Политики конфиденциальности, прежде чем продолжить."</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_tips_update_confim" formatted="false">"You won't be able to keep using %s unless you agree to the new version of %s Privacy Policy. Agree to the updated Privacy Policy now?"</string>
+    <string name="privacy_dialog_tips_update_confim" formatted="false">"Вы не сможете продолжать использовать %s если не согласитесь с новой версиейf %s Политики конфиденциальности. Принять обновленную Политику конфиденциальности?"</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_title_revoke_confim">Withdrawal of consent</string>
+    <string name="privacy_dialog_title_revoke_confim">Отзыв согласия</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_title_update">Updated Privacy Policy</string>
+    <string name="privacy_dialog_title_update">Обновленная Политика конфиденциальности</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_dialog_title_update_confim">"Can't use the app"</string>
+    <string name="privacy_dialog_title_update_confim">"Не возможно использовать приложение"</string>
     <string name="privacy_mode_hint">Нельзя отправлять сообщения в режиме \"Гость\"</string>
     <string name="privacy_password_message1">Пароль конфиденциальности защищает приватные сообщения, фото, заметки и папки</string>
     <string name="privacy_password_message2">Для защиты приватных сообщений, фото, заметок и папок используйте пароль конфиденциальности</string>
@@ -860,13 +859,13 @@ Read and agree to the new version of Privacy Policy before you continue."</strin
     <string name="privacy_password_title4">Пароль обновлен</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_name_5g_mms">5G Messaging</string>
+    <string name="privacy_policy_name_5g_mms">Обмен сообщениями в сетях 5G</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_name_mms">Messaging</string>
+    <string name="privacy_policy_name_mms">Обмен сообщениями</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_name_smart_sms">Smart Messaging</string>
+    <string name="privacy_policy_name_smart_sms">Умный обмен сообщениями</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_name_websms">Mi Message</string>
+    <string name="privacy_policy_name_websms">Mi сообщения</string>
     <string name="privacy_revoke_nonetwork_msg">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="privacy_revoke_nonetwork_ok">Понятно</string>
     <string name="privacy_revoke_nonetwork_title">Сеть недоступна</string>
@@ -1208,7 +1207,7 @@ Read and agree to the new version of Privacy Policy before you continue."</strin
     <string name="smart_msg_main_purpose">Умные сообщения обеспечивают распознавание ID отправителя и услуги интеллектуального меню.</string>
     <string name="smart_msg_privacy_policy">Политика конфиденциальности Умных сообщений</string>
 <!-- ### FROM SOURCE -->
-    <string name="smart_msg_privacy_policy_revoke">Withdraw consent to the Privacy Policy of Smart Messaging</string>
+    <string name="smart_msg_privacy_policy_revoke">Отозвать согласие с Политикой конфиденциальности Умные сообщения</string>
     <string name="smart_msg_upgrade_main_purpose">Умные сообщения теперь работают с MMS. Вы сможете пользоваться дополнительными сервисами, предоставляемыми отправителями, а также получать сообщения в новых форматах.</string>
     <string name="sms_card_partner_label">"SMS партнер: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -1313,63 +1312,63 @@ Read and agree to the new version of Privacy Policy before you continue."</strin
 Нажатие \"Принимаю\" означает что вы согласны с вышеперечисленным."</string>
     <string name="system_permission_declare_use_network">Подключение к сети</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_disabled">Not granted</string>
+    <string name="system_permission_disabled">Не предоставлено</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_enabled">Granted</string>
+    <string name="system_permission_enabled">Предоставлено</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_agree_desc">Allow this app to connect to the Internet and grant the optional permissions to be able to use all its features.</string>
+    <string name="system_permission_perm_agree_desc">Разрешите этому приложению подключаться к Интернет и предоставьте дополнительные разрешения, чтобы иметь возможность использовать все его функции.</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_all_purpose">Welcome to Messaging! You can use this app to send and receive text and multimedia messages.</string>
+    <string name="system_permission_perm_all_purpose">Добро пожаловать в Обмен сообщениями! Вы можете использовать это приложение для отправки и получения текстовых и мультимедийных сообщений.</string>
     <string name="system_permission_perm_answer_call">Осуществление вызовов</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_calendar">For creating Calendar events</string>
+    <string name="system_permission_perm_calendar">Для создания мероприятий календаря</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_call_log">For accessing your recent contacts when creating messages</string>
+    <string name="system_permission_perm_call_log">Для доступа к недавним контактам при создании сообщений</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_call_phone">For making calls</string>
+    <string name="system_permission_perm_call_phone">Для совершения звонков</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_copy_menu_text">For accessing items copied to the clipboard</string>
+    <string name="system_permission_perm_copy_menu_text">Для доступа к содержимому, скопированному в буфер обмена</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_email">For creating and sending emails</string>
+    <string name="system_permission_perm_email">Для создания и отправки эл. писем</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_get_account">For cloud backup</string>
+    <string name="system_permission_perm_get_account">Для облачного резервного копирования</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_get_phone_state">For accessing phone number and device status</string>
+    <string name="system_permission_perm_get_phone_state">Для доступа к номеру телефона и информации об устройстве</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_location">For accessing and sharing your location</string>
+    <string name="system_permission_perm_location">Для доступа и обмена Вашей геолокацией</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_new_read_sms">For accessing message content</string>
+    <string name="system_permission_perm_new_read_sms">Для доступа к содержимому SMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_new_receive_mms">For accessing message content</string>
+    <string name="system_permission_perm_new_receive_mms">Для доступа к содержимому MMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_paste_menu_text">For accessing and saving items to the clipboard</string>
+    <string name="system_permission_perm_paste_menu_text">Для доступа и сохранения содержимого в буфер обмена</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_rcs_call_phone">For answering, ending, and monitoring calls</string>
+    <string name="system_permission_perm_rcs_call_phone">Для ответа, завершения и отслеживания звонков</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_read_contact">For accessing contacts when creating messages</string>
+    <string name="system_permission_perm_read_contact">Для доступа к контактам при создании сообщений</string>
     <string name="system_permission_perm_read_mms">Чтение MMS</string>
     <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_read_sms">Allow Messaging to read SMS</string>
+    <string name="system_permission_perm_read_sms">Разрешить обмену сообщениями читать SMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_record_audio">For recording audio</string>
+    <string name="system_permission_perm_record_audio">Для записи аудио</string>
     <string name="system_permission_perm_send_mms">Отправка MMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_send_sms">For sending text messages</string>
+    <string name="system_permission_perm_send_sms">Для отправки текстовых сообщений</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_sms">For viewing and sending messages</string>
+    <string name="system_permission_perm_sms">Для просмотра и отправки сообщений</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_storage">For viewing, sending, and storing files</string>
+    <string name="system_permission_perm_storage">Для просмотра, отправки и сохранения файлов</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_takephoto">For taking photos and videos</string>
+    <string name="system_permission_perm_takephoto">Для фото и видео</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_write_contact">For creating and editing contacts</string>
+    <string name="system_permission_perm_write_contact">Для создания и редактирования контактов</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_write_mms">Allow Messaging to write MMS</string>
+    <string name="system_permission_perm_write_mms">Разрешить Обмену сообщениями писать MMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_perm_write_sms">Allow Messaging to write SMS</string>
+    <string name="system_permission_perm_write_sms">Разрешить Обмену сообщениями писать SMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="system_permission_requested">Ask</string>
+    <string name="system_permission_requested">Запрос</string>
     <string name="tab_finance">Финансы</string>
     <string name="tab_message">Сообщения</string>
     <string name="tab_promotions">Реклама</string>
@@ -1441,28 +1440,28 @@ Read and agree to the new version of Privacy Policy before you continue."</strin
     <string name="to_send_wrapper">Будет отправлено в %s</string>
     <string name="toast_failed_to_close_priv_auth">Не удалось отозвать разрешение. Проверьте настройки сети и повторите попытку.</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_new_not_show_microphone_perm_req">Allow Messaging to access the microphone to use this feature</string>
+    <string name="toast_new_not_show_microphone_perm_req">Разрешить приложению Обмен сообщениями доступ к микрофону</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_account_perm_req">Allow Messaging to access accounts stored on your device to use this feature</string>
+    <string name="toast_not_show_account_perm_req">Разрешить приложению Обмен сообщениями доступ к учетным записям, на Вашем устройстве</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_calendar_perm_req">Allow Messaging to access Calendar to use this feature</string>
+    <string name="toast_not_show_calendar_perm_req">Разрешить приложению Обмен сообщениями доступ к событиям календаря</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_call_log_perm_req">Allow Messaging to access your call history to use this feature</string>
+    <string name="toast_not_show_call_log_perm_req">Разрешить приложению Сообщения доступ к Вашей истории звонков</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_call_perm_req">Allow Messaging to make calls to use this feature</string>
+    <string name="toast_not_show_call_perm_req">Разрешить приложению Сообщения совершать звонки</string>
     <string name="toast_not_show_camera_perm_req">Для использования этой функции, разрешите приложению Сообщения использование камеры</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_clipboard_perm_req">Allow Messaging to access the clipboard to use this feature</string>
+    <string name="toast_not_show_clipboard_perm_req">Разрешить приложению Сообщения доступ к буферу обмена</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_email_perm_req">Allow Messaging to access your email to use this feature</string>
+    <string name="toast_not_show_email_perm_req">Разрешить приложению Сообщения доступ к вашей электронной почте</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_location_perm_req">Allow Messaging to access your location to use this feature</string>
+    <string name="toast_not_show_location_perm_req">Разрешить приложению Сообщения доступ к геолокации</string>
     <string name="toast_not_show_microphone_perm_req">Для использования этой функции, разрешите приложению Сообщения использование микрофона</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_send_sms_perm_req">To be able to use this feature, allow this app to send messages first.</string>
+    <string name="toast_not_show_send_sms_perm_req">Чтобы использовать эту функцию, разрешите отправлять сообщения этому приложению.</string>
     <string name="toast_not_show_storage_perm_req">Для использования этой функции, разрешите приложению Сообщения доступ к памяти устройства</string>
 <!-- ### FROM SOURCE -->
-    <string name="toast_not_show_write_contacts_perm_req">Allow Messaging to edit contacts to use this feature</string>
+    <string name="toast_not_show_write_contacts_perm_req">Разрешить приложению Сообщения редактировать контакты</string>
     <string name="toast_pending_hangup_msg">Сообщение будет отправлено после окончания вызова</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
