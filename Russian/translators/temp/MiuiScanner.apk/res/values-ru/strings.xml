@@ -69,7 +69,7 @@
     <string name="calender">Календарь</string>
     <string name="call_anyone">Вызов</string>
 <!-- ### FROM SOURCE -->
-    <string name="call_phone_permissions_text">Allow Scanner to make calls to be able to use this feature.</string>
+    <string name="call_phone_permissions_text"Разрешить Сканеру совершать звонки.</string>
     <string name="calories_logo_text">Поддержка AI предоставляется Health Hope</string>
     <string name="calories_request_interface_text">Поддержка AI</string>
     <string name="camera_error_title">Ошибка Камеры</string>
@@ -320,7 +320,7 @@
     <string name="local_ocr_recognition_str">Переключение на офлайн-перевод</string>
     <string name="logistics">Экспресс доставка</string>
 <!-- ### FROM SOURCE -->
-    <string name="logout_service">Withdraw consent</string>
+    <string name="logout_service">Отзыв согласия</string>
     <string name="low_version_tip">Чтобы использовать Сканер обновите MIUI до последней версии.</string>
     <string name="midnight">Ночь</string>
     <string name="mihome_goto_install">Установить</string>
@@ -481,7 +481,7 @@
     <string name="pdf_name">Имя файла</string>
     <string name="pdf_save_sucess">Файл сохранен</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_management">Permissions</string>
+    <string name="permission_management">Разрешения</string>
     <string name="personalassistant_not_install">Эта функция пока не поддерживается!</string>
     <string name="phone">"Телефон: "</string>
     <string name="phone_can_not_be_empty">Номер телефона не может быть пустым</string>
@@ -489,132 +489,130 @@
     <string name="phone_storage">Внутренняя память</string>
     <string name="picture">Галерея</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_all_audio">All audio</string>
+    <string name="picture_all_audio">Все аудио</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_audio">Access to system recording permission denied</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_audio_empty">You can use system recordings to record audio</string>
+    <string name="picture_audio_empty">Вы можете использовать системную запись для записи звука</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_audio_error">The audio is corrupted</string>
+    <string name="picture_audio_error">Запись повреждена</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_camera">Get system camera permission denied</string>
+    <string name="picture_camera">Доступ к камере запрещен</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_camera_roll">CameraRoll</string>
+    <string name="picture_camera_roll">Фотопленка</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_camera_roll_num">%1$s (%2$d)</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_cancel">Cancel</string>
+    <string name="picture_cancel">Отмена</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_choose_limit_seconds">Only videos from %1$ds to %2$ds can be selected</string>
+    <string name="picture_choose_limit_seconds">Только видео из %1$ds к %2$ds можно выбрать</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_choose_max_seconds">You can only select videos within %1$ds</string>
+    <string name="picture_choose_max_seconds">Вы можете выбирать только видео в %1$ds</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_choose_min_seconds">You cannot select a video less than %1$ds</string>
+    <string name="picture_choose_min_seconds">Вы не можете выбрать видео меньше %1$ds</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_completed">Completed</string>
+    <string name="picture_completed">Завершено</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_confirm">Confirm</string>
+    <string name="picture_confirm">Подтверждаю</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_data_exception">Get album data exception…</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_data_null">There no data here…</string>
+    <string name="picture_data_null">Здесь нет данных…</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_default_original_image">Original</string>
+    <string name="picture_default_original_image">Оригинал</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_done">Complete</string>
+    <string name="picture_done">Завершено</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_done_front_num">%1$d/%2$d Ok</string>
+    <string name="picture_done_front_num">%1$d/%2$d Ок</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_editor">Editor</string>
+    <string name="picture_editor">Редактор</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_empty">you can use your camera to take photos or videos</string>
+    <string name="picture_empty">Вы можете использовать камеру, чтобы делать фото или видео</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_empty_audio_title">"No audio file
-"</string>
+    <string name="picture_empty_audio_title">"Нет аудиофайла"</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_empty_title">"No video or photos
-"</string>
+    <string name="picture_empty_title">"Ни видео, ни фотографий"</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_error">The picture is corrupted</string>
+    <string name="picture_error">Изображение повреждено</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_gif_tag">gif</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_go_setting">Go Setting</string>
+    <string name="picture_go_setting">В Настройки</string>
     <string name="picture_is_being_saved">Изображение сохранено</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_jurisdiction">Read memory card access denied</string>
+    <string name="picture_jurisdiction">Доступ к карте памяти запрещен</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_know">Ok</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_long_chart">Long</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_message_audio_max_num">Select up to %1$s Audio</string>
+    <string name="picture_message_audio_max_num">Выберите до %1$s аудио</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_message_max_num">Select up to %1$s images</string>
+    <string name="picture_message_max_num">Выберите до %1$s изображение</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_message_video_max_num">Select up to %1$s Video</string>
+    <string name="picture_message_video_max_num">Выберите до to %1$s видео</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_min_img_num">Picture Selection Cannot%1$sNumber</string>
+    <string name="picture_min_img_num">Невозможно выбрать изображение %1$s</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_min_video_num">Video Selection Cannot%1$sNumber</string>
+    <string name="picture_min_video_num">Невозможно выбрать видео %1$s</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_not_crop_data">No cropped data</string>
+    <string name="picture_not_crop_data">Нет обрезанных данных</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_original_image">Original (%1$s)</string>
+    <string name="picture_original_image">Оригинал (%1$s)</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_pause_audio">Pause</string>
+    <string name="picture_pause_audio">Пауза</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_photo_camera">Photograph, photograph</string>
+    <string name="picture_photo_camera">Фотография, фотография</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_photo_pictures">Take Picture</string>
+    <string name="picture_photo_pictures">Сделать фотографию</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_photo_recording">Long Press Camera</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_photograph">Photograph</string>
+    <string name="picture_photograph">Фотография</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_play_audio">Play</string>
+    <string name="picture_play_audio">Воспроизвести</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_please">Please later…</string>
+    <string name="picture_please">Попробуйте позже…</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_please_select">Please Select</string>
+    <string name="picture_please_select">Пожалуйста выберите</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_preview">Preview</string>
+    <string name="picture_preview">Просмотр</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_preview_num">Preview(%1$d)</string>
+    <string name="picture_preview_num">Просмотр (%1$d)</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_prompt">Prompt</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_prompt_content">Do you want to save pictures to your phone?</string>
+    <string name="picture_prompt_content">Вы хотите сохранить изображение на свой телефон?</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_quit_audio">Quit</string>
+    <string name="picture_quit_audio">Выход</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_record_video">Record Video</string>
+    <string name="picture_record_video">Запись видео</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_recording_time_is_short">recording time is too short</string>
+    <string name="picture_recording_time_is_short">время записи слишком короткое</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_rule">not pictures or video</string>
+    <string name="picture_rule">нет изображений или видео</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_save_error">Picture save failed</string>
+    <string name="picture_save_error">Не удалось сохранить изображение</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_save_success">Save picture successfully until</string>
+    <string name="picture_save_success">Изображение сохранено</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_select">Choose</string>
+    <string name="picture_select">Выбор</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_send">Complete</string>
+    <string name="picture_send">Завершено</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_send_num">Complete(%1$d/%2$d)</string>
+    <string name="picture_send_num">Завершено (%1$d/%2$d)</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_stop_audio">Stop</string>
+    <string name="picture_stop_audio">Стоп</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_take_picture">Shot</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_tape">Tape</string>
+    <string name="picture_tape">Лента</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_video_error">The video is corrupted</string>
+    <string name="picture_video_error">Видео повреждено</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_video_toast">Video not Preview</string>
+    <string name="picture_video_toast">Нет превью видео</string>
 <!-- ### FROM SOURCE -->
-    <string name="picture_warning">No Media files!</string>
+    <string name="picture_warning">Нет медиафайлов!</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_webp_tag">webp</string>
     <string name="place_barcode_into_rectangle">Разместите код внутри рамки</string>
@@ -634,15 +632,15 @@
     <string name="previous">Назад</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_update">Updated Privacy Policy</string>
+    <string name="privacy_policy_update">Обновленная Политика конфиденциальности</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_update_message"><Data>"You won't be able to keep using Scanner unless you agree to the new version of its &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. Agree to the updated Privacy Policy now?"</Data></string>
+    <string name="privacy_policy_update_message"><Data>"Вы не сможете продолжать использовать Сканер, если не согласитесь с новой версией &lt;a href=\"%1$s\">Политики конфиденциальности&lt;/a>. Вы согласны с обновленной Политикой конфиденциальности?"</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_update_welcome">Scanner Privacy Policy was updated:</string>
+    <string name="privacy_policy_update_welcome">Обновленная Политика конфиденциальности:</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_withdrawal_error">"Couldn't withdraw consent. Wait a minute or two and try again."</string>
+    <string name="privacy_policy_withdrawal_error">"Не удалось отозвать согласие. Попробуйте позже."</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_policy_withdrawal_message"><Data>"If you continue, you'll withdraw your consent to the Privacy Policy of Scanner. This will be held as refusing to accept Scanner services. You'll have to agree to the &lt;a href=\"%1$s\">Privacy Policy&lt;/a> again if you decide to use Scanner. Withdraw consent now?"</Data></string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Если Вы продолжите, Вы отзовете свое согласие с Политикой конфиденциальности. Это будет расценено как отказ от услуг Сканера. Вам придется согласиться с &lt;a href=\"%1$s\">Политикой конфиденциальности&lt;/a> еще раз, если Вы решите использовать Сканер. Отозвать согласие сейчас?"</Data></string>
     <string name="processing">Обработка…</string>
     <string name="prompt">Внимание</string>
     <string name="qr_code_details">Информация о QR-коде:</string>
@@ -657,7 +655,7 @@
     <string name="query_tracknum">Проверка экспресс-доставки</string>
     <string name="qureyGoods">Поиск товаров</string>
 <!-- ### FROM SOURCE -->
-    <string name="read_contacts_permissions_text">Allow Scanner to access contacts to be able to use this feature.</string>
+    <string name="read_contacts_permissions_text">Разрешить Сканеру доступ к контактам.</string>
     <string name="recognize">Распознать</string>
     <string name="recognize_fail">Не удалось распознать код</string>
     <string name="release_lock">Снять блокировку</string>
@@ -863,14 +861,14 @@
     <string name="url_is_unknown">Не удалось проверить безопасность сайта</string>
     <string name="url_is_unsafety">Этот сайт небезопасен</string>
 <!-- ### FROM SOURCE -->
-    <string name="user_agreement">User Agreement</string>
+    <string name="user_agreement">Пользовательское соглашение</string>
 <!-- ### FROM SOURCE -->
-    <string name="user_notification">Withdrawal of consent</string>
-    <string name="v7_preference_off">ОТКЛ.</string>
-    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="user_notification">Отзыв согласия</string>
+    <string name="v7_preference_off">Откл.</string>
+    <string name="v7_preference_on">Вкл.</string>
     <string name="vender_info_translation_kingsoft">Поддержка: Kingsoft</string>
 <!-- ### FROM SOURCE -->
-    <string name="version_code">"Version: "</string>
+    <string name="version_code">"Версия: "</string>
     <string name="visit">Перейти</string>
     <string name="waybill_num">"Заказ: "</string>
     <string name="web">"Сайт: "</string>
@@ -899,7 +897,7 @@
     <string name="word_translation">Перевод</string>
     <string name="wx_not_installed_toast">Для работы функции необходим WeChat, установите сначала WeChat</string>
 <!-- ### FROM SOURCE -->
-    <string name="xiaoai_classmate_scan_text">Scan with Mi AI</string>
+    <string name="xiaoai_classmate_scan_text">Сканировать с помощью Mi AI</string>
     <string name="xiaoai_dialog">"Попробуйте сказать Mi AI
 что отсканировать"</string>
     <string name="xiaoai_text">Маленькая кнопка</string>
