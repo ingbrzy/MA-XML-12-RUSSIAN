@@ -319,7 +319,6 @@
     <string name="local_ocr_recognition">OCR распознавание офлайн</string>
     <string name="local_ocr_recognition_str">Переключение на офлайн-перевод</string>
     <string name="logistics">Экспресс доставка</string>
-<!-- ### FROM SOURCE -->
     <string name="logout_service">Отзыв согласия</string>
     <string name="low_version_tip">Чтобы использовать Сканер обновите MIUI до последней версии.</string>
     <string name="midnight">Ночь</string>
@@ -480,7 +479,6 @@
     <string name="pdf_is_being_saved">Сохранение PDF…</string>
     <string name="pdf_name">Имя файла</string>
     <string name="pdf_save_sucess">Файл сохранен</string>
-<!-- ### FROM SOURCE -->
     <string name="permission_management">Разрешения</string>
     <string name="personalassistant_not_install">Эта функция пока не поддерживается!</string>
     <string name="phone">"Телефон: "</string>
@@ -601,10 +599,8 @@
     <string name="picture_send">Завершено</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_send_num">Завершено (%1$d/%2$d)</string>
-<!-- ### FROM SOURCE -->
     <string name="picture_stop_audio">Стоп</string>
-<!-- ### FROM SOURCE -->
-    <string name="picture_take_picture">Shot</string>
+    <string name="picture_take_picture">Съемка</string>
 <!-- ### FROM SOURCE -->
     <string name="picture_tape">Лента</string>
 <!-- ### FROM SOURCE -->
@@ -631,16 +627,11 @@
     <string name="preparing_sd">Подготовка внутренней памяти…</string>
     <string name="previous">Назад</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-<!-- ### FROM SOURCE -->
     <string name="privacy_policy_update">Обновленная Политика конфиденциальности</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_policy_update_message"><Data>"Вы не сможете продолжать использовать Сканер, если не согласитесь с новой версией &lt;a href=\"%1$s\">Политики конфиденциальности&lt;/a>. Вы согласны с обновленной Политикой конфиденциальности?"</Data></string>
-<!-- ### FROM SOURCE -->
+    <string name="privacy_policy_update_message"><Data>Вы не сможете использовать Сканер, если не примите обновленную &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. Принимаете?</Data></string>
     <string name="privacy_policy_update_welcome">Обновленная Политика конфиденциальности:</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_policy_withdrawal_error">"Не удалось отозвать согласие. Попробуйте позже."</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_policy_withdrawal_message"><Data>"Если Вы продолжите, Вы отзовете свое согласие с Политикой конфиденциальности. Это будет расценено как отказ от услуг Сканера. Вам придется согласиться с &lt;a href=\"%1$s\">Политикой конфиденциальности&lt;/a> еще раз, если Вы решите использовать Сканер. Отозвать согласие сейчас?"</Data></string>
+    <string name="privacy_policy_withdrawal_error">Не удалось отозвать согласие. Попробуйте позже.</string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Если Вы продолжите, согласие с Политикой конфиденциальности будет отозвано. Это будет рассматриваться как отказ от услуг Сканера. Вам придется принять &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> еще раз, если Вы снова решите использовать Сканер. Отозвать согласие сейчас?"</Data></string>
     <string name="processing">Обработка…</string>
     <string name="prompt">Внимание</string>
     <string name="qr_code_details">Информация о QR-коде:</string>
