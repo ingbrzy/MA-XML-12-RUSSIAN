@@ -9,8 +9,8 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
     <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
-    <string name="abc_capital_off">ОТКЛ.</string>
-    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_capital_off">Откл.</string>
+    <string name="abc_capital_on">Вкл.</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
@@ -36,14 +36,26 @@
     <string name="account_add_other_sub_des">Другие аккаунты</string>
     <string name="account_add_title">Выберите почтовый сервис</string>
     <string name="account_change">Переключить аккаунт</string>
+    <string name="account_child_dialog_neg_text">Выход</string>
+    <string name="account_child_dialog_pos_text">Согласие Guardian</string>
+    <string name="account_child_dialog_text">"Если Вам не исполнилось 14 лет, сообщите своему опекуну, что он должен прочесть и согласиться с \"Положением Kingsoft о защите личных данных несовершеннолетних\". Вы также должны получить его согласие, прежде чем использовать наши услуги или отправлять нам какую-либо личную информацию.
+Чтобы полностью понимать свои права как пользователя, а также способы обработки Ваших данных, прочтите \"Заявление Kingsoft о защите личных данных несовершеннолетних\"."</string>
+    <string name="account_child_dialog_title">Заявление о защите личных данных несовершеннолетних</string>
+    <string name="account_child_save_statement">Положения Kingsoft о защите личных данных несовершеннолетних</string>
     <string name="account_duplicate_dlg_message_fmt">Это имя пользователя уже используется в аккаунте \"%s\".</string>
     <string name="account_duplicate_dlg_title">Дубликат аккаунта</string>
     <string name="account_failure">Время сессии истекло</string>
-    <string name="account_login_type_title">Добавить аккаут %1$s</string>
+    <string name="account_login_type_title">Добавить аккаунт %1$s</string>
     <string name="account_name_toast">Аккаунт с таким именем уже существует</string>
     <string name="account_options_actionbar_title">Настройки аккаунта</string>
     <string name="account_options_sync_title">Синхронизация</string>
     <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Многие серверы не поддерживают пароли с пробелами.</string>
+    <string name="account_permission_child_statement">Заявление о защите личных данных несовершеннолетних</string>
+    <string name="account_permission_dialog_cancel_text">Отозвать</string>
+    <string name="account_permission_dialog_text">"Если Вы продолжите, будет отозвано согласие с Лицензионным соглашением конечного пользователя, Политикой конфиденциальности и Положением о защите личных данных несовершеннолетних. После этого Вы не сможете пользоваться WPS Mail, а все данные, на этом устройстве, будут удалены."</string>
+    <string name="account_permission_dialog_title">Отзыв согласия</string>
+    <string name="account_permission_private_policy">Политика конфиденциальности</string>
+    <string name="account_permission_user_privacy">Лицензионное соглашение конечного пользователя</string>
     <string name="account_security_dialog_content_fmt">%s требует обновления настроек безопасности.</string>
     <string name="account_security_dialog_title">Обновления безопасности</string>
     <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства.</string>
@@ -512,6 +524,7 @@
     <string name="disable_admin_warning">"ПРЕДУПРЕЖДЕНИЕ: Отключение прав на администрирование
  вашего устройства посредством почтового клиента приведет к удалению соответствующих почтовых аккаунтов,
  писем, контактов, событий в календаре и др."</string>
+    <string name="disallow_qq_auth_how_get_auth_code">Как получить код авторизации?</string>
     <string name="discard">Отменить</string>
     <string name="discard_drafts">Удалить черновики</string>
     <string name="dismiss_tip_hover_text">Не показывать</string>
@@ -715,6 +728,10 @@
     <string name="get_database_exception">Очистите данные приложения в Настройки > Системные приложения и повторите попытку.</string>
     <string name="get_oauth_code">Получить код</string>
     <string name="gmail_acceleration">Использовать прокси для доступа к Gmail</string>
+    <string name="gmail_invalid_tip_cancel">Отмена</string>
+    <string name="gmail_invalid_tip_confirm">Вход</string>
+    <string name="gmail_invalid_tip_message">Условия использования Google изменились. Войдите в Gmail еще раз.</string>
+    <string name="gmail_invalid_tip_title">Вход в Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Использовать прокси для доступа к аккаунту Gmail?</string>
     <string name="gmail_login_failed_non_proxy_title">Не удалось получить доступ к серверу Gmail</string>
     <string name="gmail_server_authorization_deleted">Не удалось проверить подлинность аккаунта. Добавьте аккаунт повторно.</string>
@@ -1134,6 +1151,7 @@
     <string name="ntes_send_to_content">Если текущий номер телефона связан с учетной записью, нажмите \"Отправить SMS\".</string>
     <string name="ntes_verification_code">Введите код: %s</string>
     <string name="oauth_error_description">Ошибка аутентификации</string>
+    <string name="oauth_find_browser_error_description">Пожалуйста, установите браузер перед входом в систему</string>
     <string name="oauth_gmail_login_notify">Введите логин и пароль аккаунта Google в следующей форме.</string>
     <string name="oauth_login_continue">Продолжить</string>
     <string name="oauth_login_continue_qq">Получить пароль и войти в ></string>
@@ -1236,12 +1254,19 @@
     <string name="perference_setup_send_tag">Сервер исходящей почты</string>
     <string name="permission_access_provider_desc">Позволяет приложению получать доступ к данным почты, именам пользователей и паролям.</string>
     <string name="permission_access_provider_label">Доступ к данным пользователя</string>
-    <string name="permission_des_calendar">Для синхронизации событий календаря</string>
+    <string name="permission_calendar_subtitle">Для синхронизации мероприятий из электронной почты с календарем</string>
+    <string name="permission_calendar_title">Доступ к мероприятиям календаря</string>
+    <string name="permission_des_calendar">Для синхронизации мероприятий календаря</string>
     <string name="permission_des_contact">Для доступа к электронным адресам контактов для автозаполнения получателей</string>
     <string name="permission_des_external_storage">Для создания новых электронных писем, сохранения и добавления вложений</string>
+    <string name="permission_get_accounts_subtitle">Для входа в систему и управления учетными записями системы</string>
+    <string name="permission_phone_status_subtitle">Для идентификации различных устройств</string>
+    <string name="permission_phone_status_title">Доступ к учетным записям на устройстве</string>
     <string name="permission_read_attachment_desc">Разрешает приложению открывать вложения электронных писем</string>
     <string name="permission_read_attachment_label">Открывать вложения</string>
     <string name="permission_tip">Ошибка конфигурации. Разрешите звонки и текстовые сообщения при настройке конфигурации.</string>
+    <string name="permission_write_contacts_subtitle">Для отображения и изменения адресов электронной почты контактов</string>
+    <string name="permission_write_external_storage_title">Доступ к фото и файлам на устройстве</string>
     <string name="personal_data_collection_summary">Когда переключатель включен, это означает, что вы даете согласие на сбор ваших личных данных. Вы можете в любое время отключить его, чтобы отозвать авторизацию и удалить свои данные с наших серверов.</string>
     <string name="personal_data_collection_title">Сбор личных данных</string>
     <string name="phone">телефоном</string>
@@ -1295,6 +1320,7 @@
     <string name="print">Печать</string>
     <string name="print_scheduler_title">Распечатать все планировщики</string>
     <string name="privacy_and_help">Конфиденциальность и помощь</string>
+    <string name="privacy_and_private_permission">Согласие с Пользовательским соглашением и Политикой конфиденциальности</string>
     <string name="privacy_des">"Журналы содержат отладочную информацию почтового клиента и информацию об устройстве. Эта информация используется для более быстрой локализации проблем. Нажав \"%1$s\" ниже, вы соглашаетесь с \"%2$s\"."</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_setting_agree">Принимаю</string>
@@ -1525,6 +1551,7 @@
     <string name="show_images_all">Загрузить и показать все изображения</string>
     <string name="show_password">Показать пароль</string>
     <string name="show_server_cet">Просмотр сертификата</string>
+    <string name="sign_in_dialog_office365">Office 365</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook для бизнеса (без календаря)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (с календарем)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (без календаря)</string>
@@ -1760,7 +1787,7 @@
     <string name="via_domain">через %1$s</string>
     <string name="view_more_conversations">Показать другие диалоги</string>
     <string name="wait_for_manual_sync_body">"Этот аккаунт не настроен для автоматической синхронизации.
-Нажмите \"Синхронизировать\" для однократной синхронизации или \"Настройки синхронизацииv для изменения параметров."</string>
+Нажмите \"Синхронизировать\" для однократной синхронизации или \"Настройки синхронизации\" для изменения параметров."</string>
     <string name="wait_for_sync_title">Ожидание синхронизации</string>
     <string name="wait_help_context">подождите</string>
     <string name="wait_while_update_db">Обновление базы данных…</string>
