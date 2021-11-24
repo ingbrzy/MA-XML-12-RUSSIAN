@@ -1339,6 +1339,7 @@
     <string name="bluetooth_bcast_rcvr_device_name">Приемник трансляции</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Отмена</string>
     <string name="bluetooth_blacklist_remove_device">Удалить</string>
+    <string name="bluetooth_broadcast">Трансляция</string>
     <string name="bluetooth_broadcast_pin_configure">Трансляция: код безопасности Bluetooth</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Трансляция: настройка кода безопасности Bluetooth</string>
     <string name="bluetooth_broadcasting">Передача данных</string>
@@ -3782,11 +3783,13 @@
     <string name="freeform_guide_move_title">Перемещение</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Перетащите плавающее окно в угол экрана</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание</string>
+    <string name="freeform_guide_multi_window">Многозадачность</string>
     <string name="freeform_guide_notification_drop_down_summary">Потяните панель действий уведомления вниз</string>
     <string name="freeform_guide_notification_drop_down_title">Открытие</string>
     <string name="freeform_guide_settings">Плавающие окна</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Проведите от нижней части экрана к правому верхнему углу.
 Функция работает при использовании жестов в качестве экранной навигации."</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Жест для плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
@@ -3795,6 +3798,7 @@
 • Потяните вниз панель действий плавающего окна.
 • Нажмите кнопку \"Плавающие окна\" в Недавних приложениях для выбора приложения.
 • Зажмите миниатюру приложения в Недавних приложениях и нажмите значок \"Плавающего окна\"."</string>
+    <string name="freeform_vedio_description_pad">Перетащите элемент из панели, чтобы открыть плавающее окно</string>
     <string name="frequently_fragment_delete">Удалить</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
     <string name="friday">Пятница</string>
@@ -5885,6 +5889,8 @@
     <string name="multi_network_acceleration_app_settings">Ускорение сети для приложений</string>
     <string name="multi_touch_points_category_title">Мультитач</string>
     <string name="multi_touch_points_preference">Изменения вступят в силу после перезагрузки устройства</string>
+    <string name="multi_window_cvw_summary">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
+    <string name="multi_window_cvw_title">Плавающее окно</string>
     <string name="multifunction_keyboard">Многофункциональная</string>
     <string name="multiple_users_main_switch_title">Несколько пользователей</string>
     <string name="music_equalizer">Эквалайзер</string>
@@ -7847,6 +7853,7 @@ UT-интерфейс: %5$s"</string>
     <string name="secure_keyguard_business_title">Защита устройства</string>
     <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надежность защиты зашифрованных данных может быть снижена.</string>
     <string name="security_center_title">Безопасность</string>
+    <string name="security_check_progress_dialog_message">Проверка наличия проблем с безопасностью…</string>
     <string name="security_dashboard_summary">Блокировка экрана, цифровой отпечаток</string>
     <string name="security_dashboard_summary_face">Блокировка экрана, разблокировка по лицу</string>
     <string name="security_dashboard_summary_no_fingerprint">Блокировка экрана</string>

@@ -88,6 +88,7 @@
     <string name="app_disable_transparent_wallpaper">Не использовать прозрачные обои</string>
     <string name="app_enable_transparent_wallpaper">Включить прозрачные обои</string>
     <string name="app_name">Темы</string>
+    <string name="app_name_pad">Персонализация</string>
     <string name="application_list_permission_desc">Приложения, совместимые с прозрачными обоями</string>
     <string name="apply_choosen_type_resource">Применить выбранные компоненты</string>
     <string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
@@ -127,11 +128,13 @@
     <string name="boot_audio_dialog_title">Внимание</string>
     <string name="both_all_apply_failured">Не удалось установить обои</string>
     <string name="both_all_apply_success">Обои установлены</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="browse_mode">Онлайн-режим</string>
     <string name="browse_mode_desc">Темы будут подключаться к интернету и использовать как локальный, так и онлайн-контент. Ваша личная информация собираться не будет.</string>
     <string name="browser_local_resource">Локальные ресурсы</string>
     <string name="can_not_apply">Не удалось применить</string>
     <string name="can_not_apply_error">Этот формат видео не поддерживается</string>
+    <string name="can_not_apply_pc_video">Режим ПК не поддерживает живые обои</string>
     <string name="can_not_apply_size_invalid">Видео слишком большое</string>
     <string name="cancel_download">Загрузка отменена</string>
     <string name="card_data_request_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
@@ -379,6 +382,11 @@
     <string name="font_compat_dialog_title">Проблемы совместимости</string>
     <string name="font_compat_dialog_trial_confirm">Попробовать</string>
     <string name="font_compat_dialog_trial_content">Сторонние шрифты могут не поддерживаться некоторыми приложениями. Эта проблема совместимости будет исправлена в следующих обновлениях системы. Попробовать этот шрифт?</string>
+    <string name="font_pad_setting_charge_font">Платные</string>
+    <string name="font_pad_setting_find_more_title">Онлайн</string>
+    <string name="font_pad_setting_free_font">Бесплатные</string>
+    <string name="font_pad_setting_local_font">Локальные</string>
+    <string name="font_pad_setting_title">Шрифты</string>
     <string name="font_trial_end_purchase">Купить шрифт</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Сначала примените прозрачные обои в первом пространстве</string>
     <string name="forbid_video_wallpaper_by_second_space">Сначала примените прозрачные обои в первом пространстве</string>
@@ -410,6 +418,7 @@
     <string name="hide_mamual_hide_miwallpaper">Не показывать скрытые эффекты рабочего стола</string>
     <string name="hide_mamual_hide_theme">Не показывать скрытые темы</string>
     <string name="hide_mamual_hide_wallpaper">Не показывать скрытые обои</string>
+    <string name="hide_phone_wallpaper">Скрыть обои на устройстве</string>
     <string name="hide_pull_down_message">Скрыть?</string>
     <string name="hide_pull_down_negative">Отмена</string>
     <string name="hide_pull_down_positive">Скрыть</string>
@@ -419,6 +428,9 @@
     <string name="home_daily">Яркие моменты</string>
     <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
+    <string name="icon_pad_setting_find_more_title">Онлайн</string>
+    <string name="icon_pad_setting_local_icon">Локальные</string>
+    <string name="icon_pad_setting_title">Иконки</string>
     <string name="in_the_end">Больше ничего нет</string>
     <string name="incall_show_apply">Видео профиля для исходящих вызовов</string>
     <string name="incall_show_apply_fail">Не удалось установить</string>
@@ -448,6 +460,7 @@
     <string name="lab">Лаборатория тем</string>
     <string name="like_list">Отмеченные</string>
     <string name="live_wallpaper">Живые обои</string>
+    <string name="load_from_local_photos">Галерея</string>
     <string name="loading">Загрузка…</string>
     <string name="loading_picture">Загрузка изображения…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
@@ -470,8 +483,21 @@
     <string name="login_theme">Войти в Темы</string>
     <string name="long_click_can_hide_resource">Удерживайте элементы для скрытия</string>
     <string name="loop_wallpaper_is_here">Новые функции</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
+    <string name="material_hour_selection">Часы</string>
+    <string name="material_hour_suffix">"%1$s ч."</string>
+    <string name="material_minute_selection">Минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
     <string name="material_slider_range_end">Конец диапазона,</string>
     <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Ввод времени в режиме часов</string>
+    <string name="material_timepicker_hour">Часы</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Установите время</string>
+    <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="mi_wallpaper">Mi обои</string>
     <string name="midnight">Полночь</string>
     <string name="mine_tab_not_login">"Войдите для просмотра.
@@ -518,6 +544,8 @@ mm"</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -541,6 +569,8 @@ mm"</string>
     <string name="miuix_compat_dialog_title">Для \"%s\" применена тема по умолчанию</string>
     <string name="miuix_compat_dialog_update_title">Требуется обновление</string>
     <string name="miuix_compat_mms">Сообщения</string>
+    <string name="miuix_indexer_collect">Подборки</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -696,6 +726,7 @@ mm"</string>
     <string name="personalize_title">Персонализация</string>
     <string name="personalize_wallpaper_sub_title">Суперобои и популярные изображения</string>
     <string name="personalize_wallpaper_title">Обои</string>
+    <string name="personalized_cta_content_text">Добро пожаловать в приложение Темы! Вы можете использовать это приложение для управления обоями, рингтонами, шрифтами и другими компонентами.</string>
     <string name="phone_exit_theme_warning_content">"После выхода Вы не сможете выполнять следующие действия:
 1. Просматривать и использовать приобретенные или добавленные в Избранное компоненты.
 2. Добавлять комментарии и лайки, подписываться и общаться."</string>
@@ -917,6 +948,10 @@ mm"</string>
     <string name="resource_delete">Удалить</string>
     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
     <string name="resource_delete_confirm">Удалить выбранный ресурс?</string>
+    <string name="resource_delete_font_title">Удаление шрифтов</string>
+    <string name="resource_delete_icon_title">Удаление иконок</string>
+    <string name="resource_delete_ring_title">Удаление рингтонов</string>
+    <string name="resource_delete_wallpaper_title">Удаление обоев</string>
     <string name="resource_delta_update_failed">Повторная загрузка темы…</string>
     <string name="resource_delta_update_successful">Обновление завершено</string>
     <string name="resource_delta_update_total">Обновления (%1$d) сэкономили %2$s</string>
@@ -960,7 +995,8 @@ mm"</string>
     <string name="resource_free_use_last_one_day">Пробный период заканчивается завтра</string>
     <string name="resource_get_auth_checking">Проверка…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">У вас уже есть 10 устройств, авторизованных на этом аккаунте</string>
-    <string name="resource_get_auth_exceed_max_limit_title">Превышено число авторизованных устройств</string>
+    <string name="resource_get_auth_exceed_max_limit_tips_pad">Вы можете использовать персонализацию с этим аккаунтом не более чем на 10 устройствах</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Слишком много авторизованных устройств</string>
     <string name="resource_get_auth_has_been_undercarriaged">Эта тема больше не доступна.</string>
     <string name="resource_get_auth_not_official">Темы из сторонних источников не поддерживаются</string>
     <string name="resource_get_auth_retrieving">Получение данных…</string>
@@ -1152,6 +1188,7 @@ mm"</string>
     <string name="show_mamual_hide_miwallpaper">Показать скрытые эффекты рабочего стола</string>
     <string name="show_mamual_hide_theme">Показать скрытые темы</string>
     <string name="show_mamual_hide_wallpaper">Показать скрытые обои</string>
+    <string name="show_phone_wallpaper">Показать обои на устройстве</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -1201,10 +1238,15 @@ mm"</string>
     <string name="system_cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="system_cta_all_purpose">"Добро пожаловать в приложение Темы! 
 Вы можете использовать это приложение для управления темами, обоями, мелодиями и шрифтами."</string>
+    <string name="system_cta_all_purpose_fold">Добро пожаловать в Обои и персонализация! Вы можете использовать это приложение для управления темами Активного дисплея, обоями, рингтонами и шрифтами.</string>
+    <string name="system_cta_all_purpose_pad">Добро пожаловать в Персонализацию! Вы можете использовать это приложение для управления обоями, рингтонами, иконками и шрифтами.</string>
     <string name="system_cta_main_purpose">Управление онлайн и офлайн темами, обоями, мелодиями, шрифтами и видеообоями</string>
+    <string name="system_cta_retry_get_permission_btn_pad">Начать</string>
+    <string name="system_cta_retry_get_permission_msg_pad">Требуются разрешения</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Доступ к IMEI для работы сервисов загрузки</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Доступ к ID устройства для идентификации</string>
-    <string name="system_cta_runtime_perm_desc_storage">Доступ к темам на устройстве и сохранение приобретенных</string>
+    <string name="system_cta_runtime_perm_desc_storage">Доступ к темам и компонентам на устройстве и сохранение приобретенных</string>
+    <string name="system_cta_runtime_perm_desc_storage_pad">Доступ к темам и компонентам на устройстве и сохранение приобретенных</string>
     <string name="system_precust">Предустановленные</string>
     <string name="tag_ad">Реклама</string>
     <string name="task_already_exist">Задание уже существует</string>
@@ -1443,6 +1485,10 @@ mm"</string>
     <string name="voice_input">Голосовой ввод</string>
     <string name="wallpaper_24h">24ч</string>
     <string name="wallpaper_apply">Применить</string>
+    <string name="wallpaper_apply_full">Все</string>
+    <string name="wallpaper_apply_large">Внутренний экран</string>
+    <string name="wallpaper_apply_pcmode">Режим ПК</string>
+    <string name="wallpaper_apply_small">Внешний экран</string>
     <string name="wallpaper_crop">Обрезать</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Предпросмотр темного режима</string>
     <string name="wallpaper_decoded_error">Ошибка</string>
@@ -1481,10 +1527,16 @@ mm"</string>
     <string name="wallpaper_online_tip">Подключитесь к сети, чтобы посмотреть больше</string>
     <string name="wallpaper_scroll_type_tips">Прокрутка обоев</string>
     <string name="wallpaper_set_as_both">Установить на оба экрана</string>
+    <string name="wallpaper_set_as_both_large">Установить на оба экрана</string>
+    <string name="wallpaper_set_as_both_small">Установить на оба экрана</string>
     <string name="wallpaper_set_as_desktop">Установить на рабочий стол</string>
+    <string name="wallpaper_set_as_desktop_large">Установить на внутренний рабочий стол</string>
+    <string name="wallpaper_set_as_desktop_small">Установить на внешний рабочий стол</string>
     <string name="wallpaper_set_as_float_wallpaper">Установить как прозрачные обои</string>
     <string name="wallpaper_set_as_incall_show">Установить как видео профиля</string>
     <string name="wallpaper_set_as_lockscreen">Установить на экран блокировки</string>
+    <string name="wallpaper_set_as_lockscreen_large">Установить на внутренний экран блокировки</string>
+    <string name="wallpaper_set_as_lockscreen_small">Установить на внешний экран блокировки</string>
     <string name="wallpaper_set_as_loop_extra_msg">Установить все</string>
     <string name="wallpaper_setting_all">Все обои</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Активный экран</string>

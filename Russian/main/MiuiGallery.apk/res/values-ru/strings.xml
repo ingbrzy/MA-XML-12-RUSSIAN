@@ -1100,6 +1100,9 @@
     <string name="get_album_info_in_process">Получение данных облачного альбома…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">" ГБ"</string>
+    <string name="global_pad">Планшет</string>
+    <string name="global_pc">ПК</string>
+    <string name="global_phone">Устройство</string>
     <string name="grant_permission_go_and_set">Настроить</string>
     <string name="grant_permission_go_and_set_2">Настроить</string>
     <string name="grant_permission_go_and_set_3">Настроить</string>
@@ -2770,6 +2773,18 @@
     <string name="unsupported_media_downloading_tip_format">Просмотр оригинальных %s изображений не поддерживается в этой версии Android. Все равно загрузить?</string>
     <string name="unsupported_media_scanned_tip">Найдены изображения: %1$s. Просмотр %2$s изображений не поддерживается в этой версии Android</string>
     <string name="unsupported_media_view_tip">Просмотр оригинальных %s изображений не поддерживается в этой версии Android</string>
+    <string name="update_apk_size">Размер обновления: %s МБ</string>
+    <string name="update_btn_exit">Выход</string>
+    <string name="update_btn_negative">Позже</string>
+    <string name="update_btn_positive">Обновить</string>
+    <string name="update_check">Проверка обновлений</string>
+    <string name="update_check_title">Текущая версия: %s</string>
+    <string name="update_ignore">Пропустить эту версию</string>
+    <string name="update_latest_version">Текущая версия актуальна</string>
+    <string name="update_log_format" formatted="false">%s %s</string>
+    <string name="update_network_error">Проверьте настройки сети и повторите попытку</string>
+    <string name="update_new_version">Доступно обновление</string>
+    <string name="update_title">Доступна версия %s</string>
     <string name="user_agree">Принимаю</string>
     <string name="user_agreement2">Условия использования</string>
     <string name="user_agreement4">Политика конфиденциальности</string>
@@ -3204,6 +3219,9 @@
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
     <string name="xiaomi_cc_9e">Mi CC9e</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xiaomi_max_3">Mi MAX 3</string>
     <string name="xiaomi_mix_2">Mi MIX 2</string>
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>

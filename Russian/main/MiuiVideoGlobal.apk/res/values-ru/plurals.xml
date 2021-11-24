@@ -190,4 +190,9 @@
         <item quantity="one">Можно добавить %d закладку</item>
         <item quantity="few">Можно добавить %d закладки</item>
     </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d просмотров</item>
+        <item quantity="one">%d просмотр</item>
+        <item quantity="few">%d просмотра</item>
+    </plurals>
 </resources>
