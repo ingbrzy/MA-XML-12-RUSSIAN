@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
     <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
-    <string name="abc_capital_off">ОТКЛ.</string>
-    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_capital_off">Откл.</string>
+    <string name="abc_capital_on">Вкл.</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
@@ -28,11 +28,11 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
 <!-- ### FROM SOURCE -->
-    <string name="access_non_personal_data">If you withdraw consent to the access and use of non-personal data from your device, Wallpaper Carousel services will be deactivated and any collected data will be deleted within the period specified in applicable laws and regulations.</string>
+    <string name="access_non_personal_data">Если вы отзовете согласие на доступ и использование неличных данных с вашего устройства, услуга Карусель Обоев будут деактивирована, все собранные данные будут удалены в течение периода, указанного в применимых законах и правилах.</string>
     <string name="accessibility_enabled">Помощник включен.</string>
     <string name="actionbar_button_up_description">Назад</string>
 <!-- ### FROM SOURCE -->
-    <string name="address_dialing_introduction">You can use this app to make calls, view call history, and manage contacts.</string>
+    <string name="address_dialing_introduction">Вы можете использовать это приложение для совершения звонков, просмотра журнала звонков и управления контактами.</string>
     <string name="afternoon">После полудня</string>
     <string name="agree">Принять</string>
     <string name="agree_and_next">Принять</string>
@@ -64,7 +64,7 @@
     <string name="boot_video_skip">Пропустить</string>
     <string name="calculator_introduction">Вы можете использовать это приложение для расчетов, конвертации единиц и валют, оценки выплат по ипотеке.</string>
 <!-- ### FROM SOURCE -->
-    <string name="camera_application_introduction">You can use this app to take photos and videos.</string>
+    <string name="camera_application_introduction">Вы можете использовать это приложение для съемки фото и видео.</string>
     <string name="camera_introduction">Вы можете использовать приложение Камера для съемки фотографий и видео.</string>
     <string name="carrier_introduction">Для предоставления качественных сервисов, устройство может периодически отправлять информацию о версии устройства, идентификационные данные устройства (включая IMEI/IMSI/MSISDN/MAC-адрес, MEID/ICCID) и приблизительную информацию о местоположении (включая идентификатор базовой станции) оператору через Wi-Fi, мобильную сеть передачи данных или бесплатное SMS. Оператор обязуется анализировать соответствующую информацию только для улучшения качества сервисов или предоставления индивидуальных услуг или технологий, и не раскрывать соответствующую информацию третьим лицам в любой форме, которая идентифицирует вас лично. Конкретное заявление оператора имеет преимущественную силу. Проконсультируйтесь с оператором относительно стоимости использования этой услуги.</string>
     <string name="carrier_introduction_china">Для предоставления качественных сервисов, запущенные процессы на устройстве (включая SystemHelper, RegService и Carrier Services) могут периодически отправлять информацию, связанную с устройством и SIM-картой (включая IMEI, IMSI, MSISDN, MEID, ICCID, MAC-адрес, версию MIUI, версию Android, модель устройства и основные аппаратные характеристики), а также приблизительную информацию о местоположении (включая регион, координаты, идентификатор области и ID базовой станции) оператору связи через Wi-Fi, мобильную сеть или бесплатные SMS. Оператор обязуется анализировать соответствующую информацию только для улучшения качества сервисов или предоставления индивидуальных услуг или технологий, и не раскрывать соответствующую информацию третьим лицам в любой форме, которая идентифицирует вас лично. Конкретное заявление оператора имеет преимущественную силу. Проконсультируйтесь с оператором относительно стоимости использования этой услуги.</string>
@@ -92,11 +92,11 @@
     <string name="content_introduction">Контент-центр объединяет контент и сервисы из нескольких каналов. Здесь вы можете читать статьи, смотреть видео, просматривать ежедневные популярные статьи и получать рекомендации по контенту.</string>
     <string name="continue_to_enable_accessibility">Продолжайте нажимать на экран двумя пальцами для включения помощника.</string>
 <!-- ### FROM SOURCE -->
-    <string name="cookies_content_one">"When you tap the images and stories in Wallpaper Carousel, we'll open their full versions in your browser. Taboola, our trusted third party content provider, can then recommend additional content and ads that are tailored to your interests. If you agree to activate this feature, Taboola will place cookies on your device via the browser, as described in Taboola's &lt;a href =%1$s>Cookie Policy&lt;/a>. If you decline the use of cookies, Wallpaper Carousel items will continue to appear on your Lock screen and full stories will be opened in your browser, but additional recommendations won't be specifically selected for you. You can change your preferences anytime in the Settings."</string>
+    <string name="cookies_content_one">"Когда Вы нажимаете на изображения и истории в карусели обоев, мы откроем их полные версии в вашем браузере. Taboola, надежный сторонний поставщик контента, может порекомендовать дополнительный контент и рекламу, соответствующий Вашим интересам. Если Вы согласитесь активировать эту функцию, Taboola разместит файлы cookie на вашем устройстве через браузер, как описано в &lt;a href =\"%1$s\"">Политике использования файлов cookie Taboola&lt;/a>. Если Вы откажетесь от использования файлов cookie, элементы карусели обоев будут по-прежнему отображаться на экране блокировки, а в вашем браузере будут открываться полные версии, но дополнительные рекомендации не будут выбраны специально для Вас. Вы можете изменить свои предпочтения в любое время в Настройках."</string>
 <!-- ### FROM SOURCE -->
-    <string name="cookies_content_two">"Decide whether you'd like our trusted third party content providers to use cookies to personalize content recommendations and ads based on your interests."</string>
+    <string name="cookies_content_two">"Решите, хотите ли Вы, чтобы доверенные сторонние поставщики контента использовали файлы cookie для персонализации рекомендаций по контенту и рекламы с учетом Ваших интересов."</string>
 <!-- ### FROM SOURCE -->
-    <string name="cookies_title">Personalized content and cookies</string>
+    <string name="cookies_title">Персонализированный контент и файлы cookies</string>
     <string name="copy">Копировать</string>
     <string name="data_traffic_enable_dialog_title">При отсутствии подключения к Wi-Fi, устройство будет использовать мобильный интернет. Это может привести к дополнительным расходам.</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
@@ -111,21 +111,21 @@
     <string name="disagreement_abnormal_running">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В этом случае вы можете отказаться от использования этого приложения или ограничить разрешения в настройках.</string>
     <string name="disagreement_abnormal_running_fast_pairing">В случае отказа предоставить необходимые разрешения, вы не сможете использовать это приложение. В этом случае вы можете ограничить разрешения и отключить функцию в настройках.</string>
 <!-- ### FROM SOURCE -->
-    <string name="disagreement_application_not_working_properly">"If you don't agree to grant these permissions, you won't be able to use this app."</string>
+    <string name="disagreement_application_not_working_properly">"Если Вы не согласны предоставить эти разрешения, вы не сможете использовать это приложение."</string>
     <string name="disagreement_donnot_use_application">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В этом случае вы можете отказаться от использования этого приложения.</string>
     <string name="disagreement_donnot_use_product">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот продукт. В этом случае вы можете отказаться от использования этого продукта.</string>
     <string name="disagreement_donnot_use_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис. В этом случае вы можете отказаться от использования этого сервиса.</string>
     <string name="disagreement_exit_app">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В таком случае вы можете выйти из учетной записи или ограничить разрешения в настройках.</string>
 <!-- ### FROM SOURCE -->
-    <string name="disagreement_fast_pairing_abnormal">"If you don't agree to grant these permissions, you won't be able to use this app. You can turn this service on or off at any time in Settings > Bluetooth > Additional settings > Mi Link."</string>
+    <string name="disagreement_fast_pairing_abnormal">"Если Вы не согласитесь предоставить эти разрешения, Вы не сможете использовать это приложение. Вы можете включить или отключить эту услугу в любое время в Настройки> Bluetooth> Дополнительные настройки> Mi Link."</string>
     <string name="disagreement_function">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать эту функцию. В этом случае вы можете отказаться от использования этой функции.</string>
     <string name="disagreement_location_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис.</string>
 <!-- ### FROM SOURCE -->
-    <string name="disagreement_location_service_abnormal">"If you don't agree to grant these permissions, you won't be able to use location services. You can turn location services on or off at any time in Settings > Privacy protection."</string>
+    <string name="disagreement_location_service_abnormal">"Если Вы не согласитесь предоставить эти разрешения, Вы не сможете использовать службы геолокации. Вы можете включить или отключить службы геолокации в любое время в разделе Настройки> Защита конфиденциальности."</string>
 <!-- ### FROM SOURCE -->
-    <string name="disagreement_mi_account_abnormal">"If you don't agree to grant these permissions, you won't be able to use Mi Account services. You can turn Mi Account services on or off at any time in Settings > Mi Account."</string>
+    <string name="disagreement_mi_account_abnormal">"Если Вы не согласитесь предоставить эти разрешения, Вы не сможете использовать службы Mi Аккаунт. Вы можете включить или выключить сервисы Mi Аккаунт в любое время в разделе «Настройки> «Mi Аккайнт."</string>
 <!-- ### FROM SOURCE -->
-    <string name="disagreement_service_not_working_properly">"If you don't agree to grant these permissions, you won't be able to use this app."</string>
+    <string name="disagreement_service_not_working_properly">"Если Вы не согласны предоставить эти разрешения, Вы не сможете использовать это приложение."</string>
     <string name="disagreement_terminate_miuidaemon">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис. В таком случае вы можете отказаться от использования этого сервиса или ограничить разрешения в настройках. Обратите внимание, что мы будем использовать разрешения при передаче данных с устройства, если его экран поврежден.</string>
     <string name="disagreement_terminate_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение.  В таком случае вы можете удалить приложение, выйти из учетной записи или ограничить разрешения в настройках.</string>
     <string name="download_introduction">Это приложение управляет всеми загрузками, включая загрузки в приложениях GetApps, Mi Видео, Обновление, Темы и Браузер.</string>
@@ -171,12 +171,12 @@
     <string name="ime_privacy_policy">Политика конфиденциальности выбранной клавиатуры</string>
     <string name="ime_privacy_policy_no_network">Отсутствует сетевое подключение. Просмотрите Политику конфиденциальности для этой клавиатуры на %s.</string>
 <!-- ### FROM SOURCE -->
-    <string name="ims_introduction">IMS service provides basic communication capabilities and is used for high-definition audio and video calls.</string>
+    <string name="ims_introduction">Сервис IMS предоставляет базовые возможности связи и используется для аудио и видеозвонков высокого качества.</string>
     <string name="input_method_category">Выберите клавиатуру по умолчанию, которую вы будете использовать для написания сообщений, заметок и всего остального. Обратите внимание, что позже вы можете установить другие сторонние клавиатуры.</string>
     <string name="input_method_setting">Выберите клавиатуру</string>
     <string name="install_preinstall_app">Загрузка приложений…</string>
 <!-- ### FROM SOURCE -->
-    <string name="interconnection_communication_introduction">Xiaomi Internet Communication Services lets you discover, connect, and communicate with other Xiaomi devices.</string>
+    <string name="interconnection_communication_introduction">Сервисы Интернет-связи Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Все равно пропустить?</string>
     <string name="item_fingerprint">Отпечаток пальца</string>
     <string name="item_lock_screen_password">Только блокировка экрана</string>
@@ -184,7 +184,7 @@
     <string name="item_return">Установить</string>
     <string name="item_skip">Пропустить</string>
     <string name="ktlocation_U">(Агент обслуживания KT)</string>
-    <string name="ktposition_header">Обмен информацией о местоположении с аварийно-спасательными службами</string>
+    <string name="ktposition_header">Обмен информацией о геолокации с аварийно-спасательными службами</string>
     <string name="language_picker_other_languages_title">Другие языки</string>
     <string name="language_settings">Выберите язык</string>
     <string name="locale_picker_other_locale_title">Другие регионы</string>
@@ -195,9 +195,9 @@
     <string name="location_location">Аварийно-спасательные службы могут получить ваше текущее местоположение по запросу</string>
     <string name="lockscreen_introduction">Карусель обоев позволяет регулярно получать новые обои на экран блокировки.</string>
 <!-- ### FROM SOURCE -->
-    <string name="message_introduction">You can use this app to send and receive SMS.</string>
+    <string name="message_introduction">Вы можете использовать это приложение для отправки и получения SMS.</string>
 <!-- ### FROM SOURCE -->
-    <string name="mi_account_introduction">Mi Account lets you register, sign in to, and manage system accounts.</string>
+    <string name="mi_account_introduction">Mi Аккаунт позволяет регистрировать, входить в систему и управлять системными учетными записями.</string>
     <string name="midnight">Ночь</string>
     <string name="mint_keyboard_oobe_checkbox">Я принимаю политику конфиденциальности Mint Keyboard</string>
     <string name="mint_keyboard_oobe_terms">Политика конфиденциальности Mint Keyboard</string>
@@ -317,9 +317,9 @@
     <string name="other_settings_user_experience_summary_index">Подробности</string>
     <string name="permission_MIUIDaemon_introduction">MIUI Daemon позволяет передавать данные с устройства при повреждении экрана</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_access_calendar">Access calendar</string>
+    <string name="permission_access_calendar">Доступ к календарю</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_access_calendar_fast_application_summary">For allowing quick apps to access the calendar;</string>
+    <string name="permission_access_calendar_fast_application_summary">Для разрешения быстрым приложениям доступа к календарю;</string>
     <string name="permission_account">Доступ к учетным записям на устройстве:</string>
     <string name="permission_account_introduction">Для входа в Mi Аккаунт</string>
     <string name="permission_application_package_introduction">Для доступа к хранилищу для анализа и сканирования инсталляционных пакетов</string>
@@ -331,53 +331,53 @@
     <string name="permission_clock_info_introduction">Для сохранения данных будильников</string>
     <string name="permission_contact">Доступ к контактам:</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_contact_describe">Access contacts</string>
+    <string name="permission_contact_describe">Доступ к контактам</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_contact_describe_MIUIDaemon_summary">For verifying your identity.</string>
+    <string name="permission_contact_describe_MIUIDaemon_summary">Для подтверждения личности.</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_contact_describe_desktop_summary">For using the Home screen emergency contact feature in Lite mode and displaying conversation notifications;</string>
+    <string name="permission_contact_describe_desktop_summary">Для использования функции экстренного контакта на главном экране в упрощенном режиме и отображения уведомлений о разговоре;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_contact_describe_message_summary">For displaying the corresponding contact information of SMS and MMS.</string>
+    <string name="permission_contact_describe_message_summary">Для отображения соответствующей контактной информации SMS и MMS.</string>
     <string name="permission_contact_introduction">Для обеспечения функциональности черного списка и вызова экстренных контактов</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_device">Access device info</string>
+    <string name="permission_device">Доступ к информации об устройстве</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_device_desktop_summary">For accessing device information (e.g. carrier name);</string>
+    <string name="permission_device_desktop_summary">Для доступа к информации об устройстве (например, название оператора связи);</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_device_fast_pairing_summary">For accessing device status and communicating it to wearable devices;</string>
+    <string name="permission_device_fast_pairing_summary">Для доступа к статусу устройства и передачи его на носимые устройства;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_device_message_summary">For sending and receiving SMS and MMS;</string>
+    <string name="permission_device_message_summary">Для отправки и получения SMS и MMS;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_device_mi_account_summary">For ensuring the security of the sign-in environment.</string>
+    <string name="permission_device_mi_account_summary">Для обеспечения безопасности входа.</string>
     <string name="permission_different_device_introduction">Для идентификации служб, связанных с различными устройствами</string>
     <string name="permission_different_info_introduction">Для идентификации различных устройств</string>
     <string name="permission_direct_call">Осуществление вызовов:</string>
     <string name="permission_direct_call_introduction">Для добавления записей в список блокировки</string>
     <string name="permission_download_introduction">Для кэширования загруженных элементов и сохранения на устройстве</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_fast_pairing">To be able to find devices nearby, Mi Link needs to connect to the internet and requires the following permissions:</string>
+    <string name="permission_fast_pairing">Чтобы иметь возможность находить устройства поблизости, Mi Link необходимо подключиться к Интернету и получить следующие разрешения:</string>
     <string name="permission_imei_service">Для доступа к IMEI для предоставления сервисов, связанных с устройством</string>
     <string name="permission_interaction_introduction">Для сохранения фото и видео на устройство</string>
     <string name="permission_location">Доступ к информации о местоположении:</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_location_describe">Access location</string>
+    <string name="permission_location_describe">Доступ к геолокации</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_location_describe_desktop_summary">For accessing Wi-Fi network names;</string>
+    <string name="permission_location_describe_desktop_summary">Для доступа к именам сетей Wi-Fi;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_location_describe_fast_application_summary">For allowing quick apps to access your location;</string>
+    <string name="permission_location_describe_fast_application_summary">Для предоставления быстрым приложениям доступа к геолокации;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_location_describe_fast_pairing_summary">For displaying the available low power consuming Bluetooth devices;</string>
+    <string name="permission_location_describe_fast_pairing_summary">Для отображения доступных устройств Bluetooth с низким энергопотреблением;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_location_describe_interconnection_communication_summary">For accessing your location to provide discovery and connection services using Bluetooth or Wi-Fi;</string>
+    <string name="permission_location_describe_interconnection_communication_summary">Для доступа к Вашей геолокации для предоставления услуг обнаружения и подключения с помощью Bluetooth или Wi-Fi;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_location_describe_location_summary">For accessing your exact location to provide a variety of location-based services.</string>
+    <string name="permission_location_describe_location_summary">Для доступа к Вашей точной геолокации и предоставления различных услуг на основе определения геолокации.</string>
     <string name="permission_location_introduction">Для предоставления сервисов на основе местоположения</string>
     <string name="permission_log_introduction">Для сохранения журналов</string>
     <string name="permission_login_introduction">Для входа в учетные записи и управления ими</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_make_a_call">Make calls</string>
+    <string name="permission_make_a_call">Звонить</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_make_a_call_fast_application_summary">For allowing quick apps to make calls;</string>
+    <string name="permission_make_a_call_fast_application_summary">Позволяет быстрым приложениям совершать звонки;</string>
     <string name="permission_message_introduction">Для отправки сообщений заблокированным контактам</string>
     <string name="permission_phone_imei_device">Для доступа к IMEI для идентификации устройств</string>
     <string name="permission_phone_network">Для доступа к типу сетей для оптимизации и настройки загрузок</string>
@@ -387,89 +387,89 @@
     <string name="permission_photo_video_introduction">Для съемки фото и видео, использования вспышки</string>
     <string name="permission_picture_introduction">Для сохранения, редактирования и синхронизации фото и видео</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_app_list">Access the list of apps installed on this device</string>
+    <string name="permission_read_app_list">Доступ к списку приложений, установленных на этом устройстве</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_application_list_summary">For updating downloaded apps and confirming app information used by the package installer;</string>
+    <string name="permission_read_application_list_summary">Для обновления загруженных приложений и подтверждения информации о приложении, используемой установщиком пакетов;</string>
     <string name="permission_read_call_records">Редактировать журнал вызовов:</string>
     <string name="permission_read_call_records_introduction">Для добавления записей в журнал вызовов и удаления заблокированных вызовов</string>
     <string name="permission_read_contacts">Доступ к контактам</string>
     <string name="permission_read_contacts_introduction">Для подтверждения личности</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_device_store">Access device storage</string>
+    <string name="permission_read_device_store">Доступ к хранилищу устройства</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_device_store_summary">For accessing downloaded source files and source configuration files;</string>
+    <string name="permission_read_device_store_summary">Для доступа к загруженным файлам и файлам конфигурации;</string>
     <string name="permission_read_message">Доступ к текстовым сообщениям</string>
     <string name="permission_read_message_introduction">Для подтверждения права собственности на устройство</string>
     <string name="permission_read_note_introduction">Для доступа к заметкам и вложениям</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_send_message">Send and receive SMS</string>
+    <string name="permission_read_send_message">Отправлять и получать SMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_send_message_fast_application_summary">For allowing quick apps to send and receive SMS;</string>
+    <string name="permission_read_send_message_fast_application_summary">Для того, чтобы приложения могли отправлять и получать SMS;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_send_message_sim_activation_summary">For sending and receiving activation SMS;</string>
+    <string name="permission_read_send_message_sim_activation_summary">Для отправки и получения активационного SMS;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_send_message_summary">For receiving, viewing, and sending SMS;</string>
+    <string name="permission_read_send_message_summary">Для приема, просмотра и отправки SMS;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_send_multimedia_message">Send and receive MMS</string>
+    <string name="permission_read_send_multimedia_message">Отправлять и получать MMS</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_send_multimedia_message_summary">For receiving, viewing, and sending MMS;</string>
+    <string name="permission_read_send_multimedia_message_summary">Для приема, просмотра и отправки MMS;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_call_log">Access and edit call history</string>
+    <string name="permission_read_write_call_log">Доступ и редактирование журнала звонков</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_call_log_summary">For showing and editing call history.</string>
+    <string name="permission_read_write_call_log_summary">Для отображения и редактирования журнала звонков.</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_contacts">Access and edit contacts</string>
+    <string name="permission_read_write_contacts">Доступ для редактирования контактов</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_contacts_fast_application_summary">For allowing quick apps to access and edit contacts;</string>
+    <string name="permission_read_write_contacts_fast_application_summary">Для обеспечения быстрого доступа приложений к контактам и их редактирования;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_contacts_summary">For viewing and managing contacts;</string>
+    <string name="permission_read_write_contacts_summary">Для просмотра и управления контактами;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_device_store">Access and save items to storage</string>
+    <string name="permission_read_write_device_store">Доступ и сохранение файлов в Хранилище устройства</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_device_store_album_summary">For storing, displaying, editing, syncing, and downloading your photos and videos.</string>
+    <string name="permission_read_write_device_store_album_summary">Для хранения, отображения, редактирования, синхронизации и загрузки Ваших фото и видео.</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_device_store_application_package_summary">For parsing and scanning installation packages.</string>
+    <string name="permission_read_write_device_store_application_package_summary">Для разбора и сканирования инсталляционных пакетов.</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_device_store_camera_summary">For saving files to your device after taking photos or videos.</string>
+    <string name="permission_read_write_device_store_camera_summary">Для сохранения файлов на устройство после съемки фото или видео.</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_device_store_download_summary">For caching, accessing, and managing downloaded content.</string>
+    <string name="permission_read_write_device_store_download_summary">Для кэширования, доступа и управления загруженным контентом.</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_device_store_fast_application_summary">For allowing quick apps to access, cache, and edit files;</string>
+    <string name="permission_read_write_device_store_fast_application_summary">Позволяет приложениям быстро получать доступ к файлам, кэшировать и редактировать их;</string>
     <string name="permission_read_write_file">Управление файлами и фото на устройстве:</string>
     <string name="permission_read_write_file_introduction">Для доступа, сохранения и кэширования элементов на устройстве</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_phone_store">For accessing and saving items to device storage;</string>
+    <string name="permission_read_write_phone_store">Для доступа и сохранения файлов в Хранилище устройства;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_read_write_phone_store_summary">For accessing and saving Home screen items;</string>
+    <string name="permission_read_write_phone_store_summary">Для доступа к элементам главного экрана и их сохранения;</string>
     <string name="permission_recorder_file_introduction">Для управления аудиозаписями</string>
     <string name="permission_recording">Запись звонков и аудио:</string>
     <string name="permission_recording_introduction">Для записи звука во время съемки видео</string>
     <string name="permission_screen_shoot_introduction">Для управления записями экрана</string>
     <string name="permission_send_message">Отправлять SMS:</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_camera">Access camera</string>
+    <string name="permission_use_camera">Доступ к камере</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_camera_camera_summary">For taking photos, recording videos, and using flash;</string>
+    <string name="permission_use_camera_camera_summary">Для фотосъемки, записи видео и использования вспышки;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_camera_desktop_summary">For determining whether to support the flashlight feature;</string>
+    <string name="permission_use_camera_desktop_summary">Для определения поддержки функции фонарика;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_camera_fast_application_summary">For allowing quick apps to access the camera;</string>
+    <string name="permission_use_camera_fast_application_summary">Для обеспечения доступа быстрых приложений к камере;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_camera_ims_summary">For making video calls.</string>
+    <string name="permission_use_camera_ims_summary">Для видеозвонков.</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_microphone">Access microphone</string>
+    <string name="permission_use_microphone">Доступ к микрофону</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_microphone_camera_summary">For recording audio while recording video;</string>
+    <string name="permission_use_microphone_camera_summary">Для записи звука во время записи видео;</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_microphone_desktop_summary">For showing recording status.</string>
+    <string name="permission_use_microphone_desktop_summary">Для отображения статуса записи.</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_use_microphone_fast_application_summary">For allowing quick apps to access the microphone;</string>
+    <string name="permission_use_microphone_fast_application_summary">Для предоставления быстрым приложениям доступа к микрофону;</string>
     <string name="permission_user_record_introduction">Для записи аудио</string>
     <string name="permission_virusscan_introduction">Для проверки на вирусы и оптимизации устройства</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_write_device_store">Save items to device storage</string>
+    <string name="permission_write_device_store">Сохранять файлы в хранилище устройства</string>
 <!-- ### FROM SOURCE -->
-    <string name="permission_write_device_store_summary">For caching downloaded source configuration files.</string>
+    <string name="permission_write_device_store_summary">Для кеширования загруженных файлов конфигурации.</string>
     <string name="permission_xunlei_introduction">Для входа в учетные записи и управления ими для предоставления сервисов Xunlei</string>
     <string name="poco_agree_terms_other">(Включая Политику конфиденциальности и Условия использования POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Политика конфиденциальности POCO Launcher</string>
@@ -480,7 +480,7 @@
     <string name="pref_title_voice_slot">SIM-карта для вызовов</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_content_one">"Wallpaper Carousel recommendations are powered by Taboola, our trusted third party content provider. To provide this content, Taboola needs to access and store non-personal data from your device, including your system language and browser type. You can learn how Taboola uses the collected data in Taboola's &lt;a href =%1$s>Privacy Policy&lt;/a> and &lt;a href =%2$s>User Agreement&lt;/a>. Read and agree to the terms and conditions provided in these documents before you continue. If you don't agree, Wallpaper Carousel services will be deactivated."</string>
+    <string name="privacy_content_one">"Рекомендации «Карусель обоев» разработаны Taboola, нашим надежным сторонним поставщиком контента. Чтобы предоставить этот контент, Taboola необходимо получить доступ и хранить неличные данные с Вашего устройства, включая язык Вашей системы и тип браузера. Вы можете узнать, как Taboola использует собранные данные, в &lt;a href =\"%1$s\">Политике Конфиденциальности Taboola's&lt;/a> и &lt;a href =\"%2$s\">Пользовательское Соглашение&lt;/a>. Прочтите и примите условия, указанные в этих документах, прежде чем продолжить. Если вы не согласны, сервисы Карусели Обоев будут отключены."</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">О защите конфиденциальности</string>
@@ -489,27 +489,27 @@
     <string name="privacy_provision_text">Мы уважаем и защищаем вашу частную жизнь. Уделяя приоритетное внимание исследованиям и разработкам в области информационной безопасности, компания Xiaomi постоянно работает над совершенствованием методов, методов и технических решений, обеспечивающих защиту ваших данных. Мы также делимся своими последними достижениями с нашими партнерами, чтобы обеспечить вашу конфиденциальность по всем направлениям.</string>
     <string name="privacy_provision_title">Конфиденциальность</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_refuse">"Don't agree"</string>
+    <string name="privacy_refuse">"Не согласен"</string>
 <!-- ### FROM SOURCE -->
-    <string name="privacy_title">Terms &amp; Privacy Policy</string>
+    <string name="privacy_title">Условия &amp; Политика Конфиденциальности</string>
     <string name="protect_persoanl_info_statement">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
     <string name="provision_back">Назад</string>
-    <string name="provision_inputmethod_policy_description"><Data>Просмотрите &lt;a href="%1$s">Политику конфиденциальности&lt;/a > выбранной клавиатуры.</Data></string>
+    <string name="provision_inputmethod_policy_description"><Data>Просмотрите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a > выбранной клавиатуры.</Data></string>
     <string name="provision_inputmethod_policy_description1">Политика конфиденциальности</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
     <string name="recorder_introduction">Вы можете использовать это приложение для записи аудио и резервного копирования записей в облако.</string>
 <!-- ### FROM SOURCE -->
-    <string name="refuse_cookie">Decline cookies</string>
+    <string name="refuse_cookie">Отклонить файлы cookie</string>
 <!-- ### FROM SOURCE -->
-    <string name="require_authority_list_statement">To be able to work normally, this service requires the following permissions:</string>
-    <string name="require_authority_statement">Для возможности предоставления основных сервисов, необходимы следующие разрешения для сбора вашей личной информации:</string>
+    <string name="require_authority_list_statement">Для нормальной работы этой службе требуются следующие разрешения:</string>
+    <string name="require_authority_statement">Для возможности предоставления основных сервисов, необходимы следующие разрешения для сбора Вашей личной информации:</string>
     <string name="require_miuidaemon_authority_statement">Для возможности предоставления сервисов, необходимы следующие разрешения для сбора вашей личной информации:</string>
 <!-- ### FROM SOURCE -->
-    <string name="require_network_and_authority_statement">To be able to work normally, this service needs to connect to the internet and requires the following permissions:</string>
+    <string name="require_network_and_authority_statement">Для нормальной работы этой службе необходимо подключение к Интернету и следующие разрешения:</string>
     <string name="require_network_authority_statement">Для возможности предоставления основных сервисов, необходимы подключение к Интернету и следующие разрешения для сбора вашей личной информации:</string>
 <!-- ### FROM SOURCE -->
-    <string name="require_network_authority_statement_dual">To be able to work normally, this service needs to connect to the internet and requires the following permissions:</string>
+    <string name="require_network_authority_statement_dual">Для нормальной работы этой службе необходимо подключение к Интернету и следующие разрешения:</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -520,18 +520,18 @@
     <string name="send">Отправить</string>
     <string name="service_agreement">Я принимаю условия и положения.</string>
 <!-- ### FROM SOURCE -->
-    <string name="service_company_adjust_content">Xunlei Network Services User Agreement</string>
+    <string name="service_company_adjust_content">Пользовательское соглашение Xunlei Network Services</string>
 <!-- ### FROM SOURCE -->
-    <string name="service_fast_pairing_policy"><Data>Read and agree to the &lt;a href=%1$s>Mi Link Privacy Policy&lt;/a > before you continue.</Data></string>
+    <string name="service_fast_pairing_policy"><Data>Прочтите и согласитесь с &lt;a href=\"%1$s\">Политикой Конфиденциальности Mi Link&lt;/a > прежде чем продолжить.</Data></string>
 <!-- ### FROM SOURCE -->
     <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
 <!-- ### FROM SOURCE -->
-    <string name="service_location_share_policy"><Data>Read and agree to the &lt;a href=%1$s>Location Services Privacy Statement&lt;/a > before you continue.</Data></string>
+    <string name="service_location_share_policy"><Data>Прочтите и согласитесь с &lt;a href=\"%1$s\">Заявлением о Конфиденциальности служб геолокации&lt;/a > прежде чем продолжить.</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="service_mi_account">Mi Account</string>
-    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
+    <string name="service_mi_account">Mi Аккаунт</string>
+    <string name="service_name_MIUIDaemon">MIUI Служба</string>
 <!-- ### FROM SOURCE -->
-    <string name="service_name_address_dialing">Contacts and Phone</string>
+    <string name="service_name_address_dialing">Контакты и телефон</string>
     <string name="service_name_album">Галерея</string>
     <string name="service_name_application_package">Установщик пакетов</string>
     <string name="service_name_backup">Резервное копирование</string>
@@ -564,14 +564,14 @@
     <string name="service_policy_adjust_content">Xunlei Privacy Policy</string>
     <string name="service_policy_download"><Data>Перед использованием сервиса, прочитайте и примите &lt;a href=\"%1$s\"&gt;Политику конфиденциальности Xunlei&lt;/a &gt;.</Data></string>
     <string name="service_privacy_index">Политика конфиденциальности</string>
-    <string name="service_security_over_r"><Data>Перед использованием приложения Безопасность прочтите и примите нашу &lt;a href="%1$s">Политику конфиденциальности&lt;/a >.&lt;br/>&lt;br/>В соответствии со стандартами Android 11, однократное разрешение будет отозвано в течение 5 секунд после завершения работы соответствующего приложения. Если приложение в течение этого периода времени будет запущено вновь, разрешение будет отозвано позже.</Data></string>
+    <string name="service_security_over_r"><Data>Перед использованием приложения Безопасность прочтите и примите нашу &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;br/>&lt;br/>В соответствии со стандартами Android 11, однократное разрешение будет отозвано в течение 5 секунд после завершения работы соответствующего приложения. Если приложение в течение этого периода времени будет запущено вновь, разрешение будет отозвано позже.</Data></string>
 <!-- ### FROM SOURCE -->
-    <string name="service_sim_activation">SIM card activation</string>
+    <string name="service_sim_activation">Активация SIM-карты</string>
     <string name="servicestate_title">Заявление об основных сервисах</string>
     <string name="setting_locale">Настройка региона…</string>
     <string name="shut_down">Выключение</string>
 <!-- ### FROM SOURCE -->
-    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that MIUI services can work normally. These services include Find device, Mi Message, creating Mi Accounts using phone numbers, and syncing messages and call history.</string>
+    <string name="sim_activation_introduction">Служба активации SIM-карты проверяет информацию о вставленной в данный момент SIM-карте, чтобы убедиться, что службы MIUI могут работать нормально. Эти услуги включают в себя поиск устройства, Mi Сообщения, создание Mi Аккаунта с использованием телефонных номеров, а также синхронизацию сообщений и журнала звонков.</string>
     <string name="sim_card_detecting">Обнаружение SIM-карты…</string>
     <string name="sim_card_detecting_check">SIM-карта не найдена. Убедитесь, что SIM-карта установлена ​​правильно, и на вашем балансе достаточно средств.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Разрешить подключение к мобильным сетям передачи данных? Установленная SIM-карта будет использоваться для подключения к мобильным сетям передачи данных.</string>
@@ -622,9 +622,9 @@
     <string name="sunday_shortest">Вс</string>
     <string name="system_navigation_mode">Способ навигации</string>
 <!-- ### FROM SOURCE -->
-    <string name="systemdesktop_introduction">The Home screen service plug-in provides you with basic features such as Home screen, system UI, and screenshots.</string>
+    <string name="systemdesktop_introduction">Подключаемый модуль службы Гавного экрана предоставляет Вам основные функции, такие как Главный экран, Пользовательский интерфейс системы и снимки экрана.</string>
 <!-- ### FROM SOURCE -->
-    <string name="term_condition_detail">"Get stunning images and exciting stories delivered to your Lock screen daily. This feature won't use your data for personalization without your consent. Read and agree to the third party content provider's &lt;a href =%1$s>Privacy Policy&lt;/a> and &lt;a href =%2$s>User Agreement&lt;/a> before using this feature."</string>
+    <string name="term_condition_detail">"Ежедневно получайте потрясающие изображения и захватывающие истории на свой экран блокировки. Эта функция не будет использовать ваши данные для персонализации без вашего согласия. Примите условия поставщика контента &lt;a href =\"%1$s\"">Политика Конфиденциальности&lt;/a> и &lt;a href =\"%2$s\">Пользовательское Соглашение&lt;/a> перед использованием этой функции."</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_label_period">". "</string>
 <!-- ### FROM SOURCE -->
@@ -638,74 +638,74 @@
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">, системный плагин Mi Store</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_RMS">Permissions Manager</string>
+    <string name="terms_of_use_label_RMS">Менеджер разрешений</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_ai_assistant">AI Assistant</string>
+    <string name="terms_of_use_label_ai_assistant">AI Ассистент</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_app_vault">App vault</string>
+    <string name="terms_of_use_label_app_vault">Хранилище приложений</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_back">Backup service</string>
+    <string name="terms_of_use_label_back">Служба резервного копирования</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_use_label_ble">Fused location provider</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
+    <string name="terms_of_use_label_cloud">Облако Xiaomi</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_use_label_communication_service">Xiaomi Internet Communication Service</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_finddevice">Find device</string>
+    <string name="terms_of_use_label_finddevice">Поиск устройства</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_game">Games</string>
+    <string name="terms_of_use_label_game">Игры</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_home">Home screen</string>
+    <string name="terms_of_use_label_home">Домашний экран</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_htmlViewer">HTML Viewer</string>
+    <string name="terms_of_use_label_htmlViewer">Просмотрщик HTML</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
+    <string name="terms_of_use_label_htmlviewer">Просмотрщик HTML</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_use_label_joyose">Joyose</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_landscape">landscape view optimization functionality</string>
+    <string name="terms_of_use_label_landscape">функция оптимизации просмотра в альбомной ориентации</string>
     <string name="terms_of_use_label_mab">, MAB</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_mi_account">Mi Account components</string>
+    <string name="terms_of_use_label_mi_account">Компоненты Mi Аккаунта</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
+    <string name="terms_of_use_label_miuiDaemon">MIUI Служба</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_use_label_os">OS AI Setting</string>
     <string name="terms_of_use_label_package">, Установщик пакетов</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_parallel_windows">Parallel windows</string>
+    <string name="terms_of_use_label_parallel_windows">Параллельные окна</string>
     <string name="terms_of_use_label_phrase">, Частые фразы</string>
 <!-- ### FROM SOURCE -->
     <string name="terms_of_use_label_power_detection">Power detector</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_power_performance">Battery and performance</string>
+    <string name="terms_of_use_label_power_performance">Батарея и производительность</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_quickapp">Quick apps</string>
+    <string name="terms_of_use_label_quickapp">Быстрые приложения</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_secure">Secure Element Application</string>
+    <string name="terms_of_use_label_secure">Приложение Secure Element</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_simcard">Mi SIM activation services</string>
+    <string name="terms_of_use_label_simcard">Услуги активации Mi SIM</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_smart_service">smart services</string>
+    <string name="terms_of_use_label_smart_service">умные услуги</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_statistics">Statistics</string>
+    <string name="terms_of_use_label_statistics">Статистика</string>
     <string name="terms_of_use_label_systemhelper">, cаморегистрируемые сервисы</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_translation">Translation service</string>
+    <string name="terms_of_use_label_translation">Услуги переводчика</string>
     <string name="terms_of_use_label_updater">, Обновление</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_use_location_and_network_global">Before using MIUI, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network and access your location:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Перед использованием MIUI Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать Вашу личную информацию в соответствии с соответствующими законами, постановлениями и политиками конфиденциальности. Когда Ваше устройство активировано, следующие службы подключатся к сети и получат доступ к Вашей геолокации:</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_use_network_china">Before using MIUI, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
+    <string name="terms_of_use_label_use_network_china">Перед использованием MIUI Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать Вашу личную информацию в соответствии с соответствующими законами, постановлениями и политиками конфиденциальности. Когда Ваше устройство активировано, следующие службы подключатся к сети и получат доступ к Вашей геолокации:</string>
 <!-- ### FROM SOURCE -->
-    <string name="terms_of_use_label_wallpaper">Wallpaper</string>
+    <string name="terms_of_use_label_wallpaper">Обои</string>
     <string name="terms_of_use_lable_apps">Сервисы Mi, Сервис активации Mi SIM, Xiaomi Cloud, Поиск устройства, Рабочий стол, Игровой центр, MAB, MIUI Daemon и системные компоненты MSA, сервисы перевода, MIUI SDK, Быстрые приложения, Ассистент, статистика, Mi Link</string>
     <string name="terms_of_use_lable_apps_wifi_device">Сервисы Mi, Xiaomi Cloud, Поиск устройства, Рабочий стол, Игровой центр, MAB, MIUI Daemon и системные компоненты MSA, сервисы перевода, MIUI SDK, Быстрые приложения, Ассистент, статистика, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
@@ -804,7 +804,7 @@
     <string name="wednesday_shortest">Ср</string>
     <string name="welcome">Добро пожаловать</string>
 <!-- ### FROM SOURCE -->
-    <string name="withdraw_consent">If you withdraw consent, Wallpaper Carousel services will be deactivated.</string>
+    <string name="withdraw_consent">Если Вы откажетесь, сервисы Карусели обоев будут отключены.</string>
 <!-- ### FROM SOURCE -->
     <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
 <!-- ### FROM SOURCE -->
