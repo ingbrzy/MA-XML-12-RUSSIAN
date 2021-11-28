@@ -134,6 +134,11 @@
         <item quantity="one">Найдена %d запись</item>
         <item quantity="few">Найдено %d записи</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d новых записей</item>
+        <item quantity="one">%d новая запись</item>
+        <item quantity="few">%d новые записи</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">Осталось %d дней</item>
         <item quantity="one">Остался %d день</item>

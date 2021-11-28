@@ -202,6 +202,7 @@
     <string-array name="contact_infotype_entries"></string-array>
     <string-array name="contact_infotype_entries"></string-array>
     <string-array name="contact_values"></string-array>
+    <string-array name="cota_vf_config_disabled_dialpad_tone_mcc_mnc"></string-array>
     <string-array name="country_codes_5ghz_supported"></string-array>
     <string-array name="crypto_fingerprint_fallback_prefixes"></string-array>
     <string-array name="crypto_fingerprint_fallback_vendors"></string-array>
@@ -667,6 +668,8 @@
     <string-array name="system_cta_runtime_perm_desc"></string-array>
     <string-array name="system_cta_runtime_perm_desc_non_phone_state"></string-array>
     <string-array name="system_cta_runtime_perm_desc_non_phone_state_install_app"></string-array>
+    <string-array name="system_cta_runtime_perm_desc_non_phone_state_pad"></string-array>
+    <string-array name="system_cta_runtime_perm_desc_pad"></string-array>
     <string-array name="system_cta_runtime_perm_non_phone_state"></string-array>
     <string-array name="system_cta_runtime_perm_phone_state_and_install_app"></string-array>
     <string-array name="system_foreground_notification_whitelist"></string-array>

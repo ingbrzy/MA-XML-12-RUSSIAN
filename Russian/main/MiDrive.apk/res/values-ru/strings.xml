@@ -44,6 +44,8 @@
     <string name="app_name">Mi Drive</string>
     <string name="auto_save_to_file">Сохранено в папку \"Преобразовано в PDF\"</string>
     <string name="be_sure_to_clear_cache">Очистить кеш?</string>
+    <string name="btn_recall_text_next_step_timer">Отозвать (%d сек.)</string>
+    <string name="btn_recall_text_ok_timer">Отозвать</string>
     <string name="camera">Камера</string>
     <string name="cancel">Отмена</string>
     <string name="category_document">Документы</string>
@@ -369,6 +371,16 @@
     <string name="pause_all">Приостановить все</string>
     <string name="pause_download">Приостановлено</string>
     <string name="pause_upload">Приостановлено</string>
+    <string name="permission_account_desc">Доступ ко всем аккаунтам на устройстве</string>
+    <string name="permission_account_title">Аккаунты</string>
+    <string name="permission_accpeted">Предоставлено</string>
+    <string name="permission_camera_desc">Съемка фото и видео</string>
+    <string name="permission_camera_title">Камера</string>
+    <string name="permission_denied">Не предоставлено</string>
+    <string name="permission_phone_desc">Доступ к номеру телефона и статусу устройства</string>
+    <string name="permission_phone_title">Информация об устройстве</string>
+    <string name="permission_storage_desc">Доступ к фото и файлам на устройстве</string>
+    <string name="permission_storage_title">Хранилище</string>
     <string name="picker_bottom_btn_text">Загрузить</string>
     <string name="picker_bottom_text_desc">"Загрузить в "</string>
     <string name="picker_permission_failed">Разрешение отсутствует. Функция не будет работать без него.</string>
@@ -377,11 +389,21 @@
     <string name="play_metered_network_dialog_ok">Воспроизвести</string>
     <string name="play_metered_network_dialog_title">Мобильный интернет</string>
     <string name="ppt_to_pdf">Преобразовано в PDF</string>
+    <string name="pre_permission_management">Сведения о разрешениях</string>
     <string name="pre_privacy_policy">Политика конфиденциальности</string>
+    <string name="pre_privacy_recall">Отзыв согласия</string>
     <string name="pre_user_agreement">Пользовательское соглашение</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preview">Предпросмотр</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_recall_dialog_msg">"Если Вы продолжите, согласие с Политикой конфиденциальности Mi Drive будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Mi Drive предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов Mi Drive. Отозвать согласие?"</string>
+    <string name="privacy_recall_dialog_title">Отзыв согласия</string>
+    <string name="privacy_update_dialog_msg">Политика конфиденциальности Mi Drive обновлена:&lt;br/>%1$s&lt;br/>Прежде чем продолжить, прочтите и примите обновленную &lt;a href=\"%2$s\">&lt;u>Политику конфиденциальности&lt;/u>&lt;/a>.</string>
+    <string name="privacy_update_dialog_title">Обновленная Политика конфиденциальности</string>
+    <string name="privacy_user_notice_dialog_exit_btn_text">Выход</string>
+    <string name="privacy_user_notice_dialog_msg">Вы не сможете использовать Mi Drive, если не примите обновленную &lt;a href=\"%1$s"\>&lt;u>Политику конфиденциальности&lt;/u>&lt;/a>. Принимаете?</string>
+    <string name="privacy_user_notice_dialog_ok_btn_text">Принимаю</string>
+    <string name="privacy_user_notice_dialog_title">Внимание</string>
     <string name="private_empty_desc">Здесь вы можете хранить файлы конфиденциально.</string>
     <string name="private_empty_sub_desc">Попробуйте переместить файлы сюда или загрузить их напрямую.</string>
     <string name="private_folder_name">Приватные файлы</string>
@@ -477,6 +499,15 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="talkback_continue">Продолжить</string>
+    <string name="talkback_doc_filter">Кнопка фильтра</string>
+    <string name="talkback_list_play">Воспроизвести все</string>
+    <string name="talkback_next_song">Следующий</string>
+    <string name="talkback_pause">Пауза</string>
+    <string name="talkback_play">Воспроизведение</string>
+    <string name="talkback_previous_song">Предыдущий</string>
+    <string name="talkback_random_play">Перемешать</string>
+    <string name="talkback_single_play">Повтор</string>
     <string name="text_select_all">Выбрать все</string>
     <string name="text_select_nothing">Отмена</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>

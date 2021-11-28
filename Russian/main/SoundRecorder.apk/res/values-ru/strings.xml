@@ -155,6 +155,7 @@
     <string name="head_set_tip_dialog_title">Используйте встроенный микрофон</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="invalid_argument">Недопустимый аргумент</string>
+    <string name="invisible_mode_error_tip">Микрофон недоступен. Отключите режим инкогнито в настройках.</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="keywords_search_call_record">Записать вызовы;Записать вызов;Запись вызова;Записи вызовов</string>
     <string name="keywords_search_record">Новая запись;Добавить запись;Запись;Записи;Расшифровка;Транскрибирование;Диктофон;Запись речи;Запись звука;Диктофон;Приложение для записи;Как записать;Как записать звук;Как найти Диктофон;Диктофон MIUI</string>
@@ -195,6 +196,8 @@
     <string name="mi_account_ok">Войти</string>
     <string name="mi_account_title">Войти с Mi Аккаунтом</string>
     <string name="midnight">Ночь</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -212,6 +215,8 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -378,6 +383,7 @@
     <string name="preference_tip_rename">Именовать записи вручную</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
     <string name="privacy_settings">Конфиденциальность</string>
+    <string name="progress">Индикатор прогресса</string>
     <string name="recognition_button_add_to_queue">Добавить в очередь</string>
     <string name="recognition_button_cancel">Не сейчас</string>
     <string name="recognition_button_start">Начать</string>
@@ -481,6 +487,11 @@
     <string name="rename_no_more_tip">Больше не показывать</string>
     <string name="retry">Повторить</string>
     <string name="runtime_permission_ungranted">Невозможно использовать диктофон без необходимых разрешений</string>
+    <string name="saf_permission_dialog_content">Из-за ограничений Android приложению Диктофон требуется разрешение на доступ к записям, сделанным другими приложениями. Разрешите приложению Диктофон  доступ к этим записям, для их просмотра.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Настройки</string>
+    <string name="saf_permission_dialog_later">Нет, спасибо</string>
+    <string name="saf_permission_dialog_no_more_tip">Больше не показывать</string>
+    <string name="saf_permission_dialog_title">Требуются разрешения</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -499,6 +510,7 @@
     <string name="search_tip_rename">Именовать записи вручную</string>
     <string name="send">Отправить</string>
     <string name="service_instructions">О сервисе iflyrec.com</string>
+    <string name="settings_saf_permission">Разрешения на управление файлами</string>
     <string name="share">Отправить</string>
     <string name="share_dialog_title">Отправить с помощью</string>
     <string name="shortcut_records">Записи</string>

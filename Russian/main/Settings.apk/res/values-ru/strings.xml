@@ -1339,6 +1339,7 @@
     <string name="bluetooth_bcast_rcvr_device_name">Приемник трансляции</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Отмена</string>
     <string name="bluetooth_blacklist_remove_device">Удалить</string>
+    <string name="bluetooth_broadcast">Трансляция</string>
     <string name="bluetooth_broadcast_pin_configure">Трансляция: код безопасности Bluetooth</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Трансляция: настройка кода безопасности Bluetooth</string>
     <string name="bluetooth_broadcasting">Передача данных</string>
@@ -2819,7 +2820,7 @@
     <string name="device_info_label">Сведения об устройстве</string>
     <string name="device_info_not_available">Недоступно</string>
     <string name="device_info_settings">Состояние устройства</string>
-    <string name="device_internal_memory">Память</string>
+    <string name="device_internal_memory">Хранилище</string>
     <string name="device_memory">ОЗУ</string>
     <string name="device_miui_more">Показать еще</string>
     <string name="device_miui_version">Версия MIUI</string>
@@ -3782,11 +3783,13 @@
     <string name="freeform_guide_move_title">Перемещение</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Перетащите плавающее окно в угол экрана</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание</string>
+    <string name="freeform_guide_multi_window">Многозадачность</string>
     <string name="freeform_guide_notification_drop_down_summary">Потяните панель действий уведомления вниз</string>
     <string name="freeform_guide_notification_drop_down_title">Открытие</string>
     <string name="freeform_guide_settings">Плавающие окна</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Проведите от нижней части экрана к правому верхнему углу.
 Функция работает при использовании жестов в качестве экранной навигации."</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Жест для плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
@@ -3795,6 +3798,7 @@
 • Потяните вниз панель действий плавающего окна.
 • Нажмите кнопку \"Плавающие окна\" в Недавних приложениях для выбора приложения.
 • Зажмите миниатюру приложения в Недавних приложениях и нажмите значок \"Плавающего окна\"."</string>
+    <string name="freeform_vedio_description_pad">Перетащите элемент из панели, чтобы открыть плавающее окно</string>
     <string name="frequently_fragment_delete">Удалить</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
     <string name="friday">Пятница</string>
@@ -5215,10 +5219,10 @@
     <string name="manager_battery_usage_optimized_only">С оптимизацией</string>
     <string name="manager_battery_usage_optimized_summary">Оптимизировать расход заряда батареи с учетом интенсивности использования. Рекомендуется для большинства приложений.</string>
     <string name="manager_battery_usage_optimized_title">С оптимизацией</string>
-    <string name="manager_battery_usage_restricted_summary">Ограничивать расход заряда батареи, когда приложение находится в фоновом режиме. Это может влиять на работу приложения и задерживать показ уведомлений.</string>
+    <string name="manager_battery_usage_restricted_summary">Ограничить расход батареи, когда приложение работает в фоновом режиме. Это может повлиять на работу приложения и задерживать показ уведомлений.</string>
     <string name="manager_battery_usage_restricted_title">С ограничением</string>
     <string name="manager_battery_usage_unrestricted_only">Без ограничений</string>
-    <string name="manager_battery_usage_unrestricted_summary">Не ограничивать расход заряда батареи, когда приложение работает в фоновом режиме. Батарея может разряжаться быстрее.</string>
+    <string name="manager_battery_usage_unrestricted_summary">Не ограничивать расход батареи, когда приложение работает в фоновом режиме. Батарея может разряжаться быстрее.</string>
     <string name="manager_battery_usage_unrestricted_title">Без ограничений</string>
     <string name="managing_admin">Управляется %s</string>
     <string name="manual">Руководство</string>
@@ -5885,6 +5889,8 @@
     <string name="multi_network_acceleration_app_settings">Ускорение сети для приложений</string>
     <string name="multi_touch_points_category_title">Мультитач</string>
     <string name="multi_touch_points_preference">Изменения вступят в силу после перезагрузки устройства</string>
+    <string name="multi_window_cvw_summary">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
+    <string name="multi_window_cvw_title">Плавающее окно</string>
     <string name="multifunction_keyboard">Многофункциональная</string>
     <string name="multiple_users_main_switch_title">Несколько пользователей</string>
     <string name="music_equalizer">Эквалайзер</string>
@@ -7069,9 +7075,9 @@ OTG отключается автоматически через 10 минут �
     <string name="radioInfo_display_packets">пакеты</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">Статус сервиса IMS</string>
-    <string name="radioInfo_menu_viewADN">Просмотреть адресную книгу на SIM-карте</string>
+    <string name="radioInfo_menu_viewADN">Просм. адр. книгу на SIM-карте</string>
     <string name="radioInfo_menu_viewFDN">Просм. список разреш. номеров</string>
-    <string name="radioInfo_menu_viewSDN">Просмотреть номера служебного набора</string>
+    <string name="radioInfo_menu_viewSDN">Просм. номера служебного набора</string>
     <string name="radioInfo_phone_idle">Не работает</string>
     <string name="radioInfo_phone_offhook">Вызов</string>
     <string name="radioInfo_phone_ringing">Звонок</string>
@@ -7847,6 +7853,7 @@ UT-интерфейс: %5$s"</string>
     <string name="secure_keyguard_business_title">Защита устройства</string>
     <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надежность защиты зашифрованных данных может быть снижена.</string>
     <string name="security_center_title">Безопасность</string>
+    <string name="security_check_progress_dialog_message">Проверка наличия проблем с безопасностью…</string>
     <string name="security_dashboard_summary">Блокировка экрана, цифровой отпечаток</string>
     <string name="security_dashboard_summary_face">Блокировка экрана, разблокировка по лицу</string>
     <string name="security_dashboard_summary_no_fingerprint">Блокировка экрана</string>
@@ -8376,7 +8383,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_lock_settings_summary_off">Откл.</string>
     <string name="sim_lock_settings_summary_on">Заблокировано</string>
     <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
-    <string name="sim_management_title">Мобильные сети</string>
+    <string name="sim_management_title">SIM-карты и мобильные сети</string>
     <string name="sim_management_title_singlesim">SIM-карта и мобильные сети</string>
     <string name="sim_multi_sims_summary">Выберите SIM-карту для мобильного интернета.</string>
     <string name="sim_multi_sims_title">Обнаружено более одной SIM-карты</string>
@@ -8567,7 +8574,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sos_privacy_dialog_title">Условия использования</string>
     <string name="sos_privacy_policy">Политика конфиденциальности</string>
     <string name="sos_privacy_policy_change_endtitle">Прежде чем продолжить, прочтите и примите обновленную %s.</string>
-    <string name="sos_privacy_policy_change_message_reject">Вы не сможете продолжать использовать функцию \"Экстренный вызов\", если не примете обновленную Политику конфиденциальности. Принимаете обновленную %s?</string>
+    <string name="sos_privacy_policy_change_message_reject">Вы не сможете использовать функцию \"Экстренный вызов\", если не примите обновленную Политику конфиденциальности. Принимаете обновленную %s?</string>
     <string name="sos_privacy_policy_change_subtitle">Политика конфиденциальности функции \"Экстренный вызов\" обновлена:</string>
     <string name="sos_privacy_policy_change_title">Обновленная Политика конфиденциальности</string>
     <string name="sos_privacy_policy_change_title_reject">Отказ от использования</string>
@@ -8692,7 +8699,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_wifi_mac_address">MAC-адрес Wi-Fi</string>
     <string name="storage_apps">Приложения</string>
     <string name="storage_audio">Аудио</string>
-    <string name="storage_category">Память</string>
+    <string name="storage_category">Хранилище</string>
     <string name="storage_default_internal_storage">Устройство</string>
     <string name="storage_detail_apps">Приложения</string>
     <string name="storage_detail_audio">Аудио</string>
@@ -8746,11 +8753,11 @@ UT-интерфейс: %5$s"</string>
 
 Скопируйте приложения.
 Все приложения и их данные, хранящиеся на карте \"^1\", будут удалены. Рекомендуем перенести их в память устройства."</string>
-    <string name="storage_internal_title">Внутренняя память</string>
+    <string name="storage_internal_title">Хранилище устройства</string>
     <string name="storage_internal_unmount_details">"Если вы извлечете карту \"^1\", хранящиеся на ней приложения и файлы станут недоступны до тех пор, пока вы снова не вставите карту в устройство.
 
 Карта \"^1\" не будет работать на других устройствах, поскольку она отформатирована только под ваше."</string>
-    <string name="storage_label">Память</string>
+    <string name="storage_label">Хранилище</string>
     <string name="storage_low_summary">Некоторые системные функции (например, синхронизация) могут работать неправильно. Попробуйте освободить пространство. Для этого удалите или уберите из офлайн-просмотра приложения и мультимедийный контент.</string>
     <string name="storage_low_title">Заканчивается свободное место</string>
     <string name="storage_manager_indicator">Менеджер хранилища: ^1</string>
@@ -8777,8 +8784,8 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_percent_full">занято</string>
     <string name="storage_photos_videos">Фото и видео</string>
     <string name="storage_rename_title">Переименование хранилища</string>
-    <string name="storage_settings">Память</string>
-    <string name="storage_settings_for_app">Данные приложения и кеш</string>
+    <string name="storage_settings">Хранилище</string>
+    <string name="storage_settings_for_app">Хранилище и кеш</string>
     <string name="storage_settings_summary">Отключение SD-карты, сведения о доступной памяти</string>
     <string name="storage_settings_title">Настройки памяти</string>
     <string name="storage_size_large">^1<small><small> ^2</small></small></string>
@@ -9110,7 +9117,7 @@ UT-интерфейс: %5$s"</string>
     <string name="temporary_style">В течение 10 секунд после нажатия</string>
     <string name="terms_title">Условия использования</string>
     <string name="testing">Проверка</string>
-    <string name="testing_phone_info">Информация об устройстве&#160;</string>
+    <string name="testing_phone_info">Информация о телефоне&#160;</string>
     <string name="testing_sim_toolkit">Инструменты SIM-карты</string>
     <string name="testing_usage_stats">Статистика использования</string>
     <string name="testing_wifi_info">Информация о Wi-Fi</string>
