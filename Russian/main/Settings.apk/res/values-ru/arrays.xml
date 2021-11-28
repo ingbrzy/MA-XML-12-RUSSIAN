@@ -1247,6 +1247,15 @@
         <item>10 мин.</item>
         <item>Не выключать</item>
     </string-array>
+    <string-array name="screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>2147483645</item>
+    </string-array>	
     <string-array name="security_settings_premium_sms_values">
         <item>Спросить</item>
         <item>Запретить</item>
