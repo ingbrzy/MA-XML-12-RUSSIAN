@@ -351,10 +351,10 @@
     <string name="message_request_manage_external_storage_perm">Mi Mover требуется доступ ко всем файлам на устройстве, чтобы перенести их со старого устройства на новое.</string>
     <string name="message_request_package_stats_perm">Нажмите \"Продолжить\", чтобы открыть настройки и дать Mi Mover необходимые разрешения.</string>
     <string name="midnight">Ночь</string>
-    <string name="miui_need_location_permission_summary">Разрешите Mi Mover доступ к местоположению для поиска устройств поблизости. Вы не сможете использовать Mi Mover, если не предоставите это разрешение.</string>
-    <string name="miui_need_location_permission_title">Доступ к местоположению</string>
-    <string name="miui_need_open_high_accuracy_summary">Разрешите Mi Mover доступ к местоположению с повышенной точностью для поиска устройств поблизости. Вы не сможете использовать Mi Mover, если не предоставите это разрешение.</string>
-    <string name="miui_need_open_high_accuracy_title">Доступ к местоположению с повышенной точностью</string>
+    <string name="miui_need_location_permission_summary">Разрешите Mi Mover использование геолокации для поиска устройств поблизости. Вы не сможете использовать Mi Mover, если не дадите это разрешение.</string>
+    <string name="miui_need_location_permission_title">Использование геолокации</string>
+    <string name="miui_need_open_high_accuracy_summary">Разрешите Mi Mover использование геолокации с повышенной точностью для поиска устройств поблизости. Вы не сможете использовать Mi Mover, если не дадите это разрешение.</string>
+    <string name="miui_need_open_high_accuracy_title">Использование геолокации с повышенной точностью</string>
     <string name="miui_wait_link_message_1">Кнопка \"Я отправитель\" находится на начальной странице Mi Mover.</string>
     <string name="miui_wait_link_title_1">%d. Нажмите \"Я отправитель\" и немного подождите.</string>
     <string name="miui_wait_link_title_2">%d. Выберите эту точку доступа на вашем старом устройстве для подключения.</string>
@@ -549,7 +549,7 @@
     <string name="permission_contacts_title">Доступ к контактам</string>
     <string name="permission_grant_request">Предоставьте Mi Mover \"%1$s\"</string>
     <string name="permission_locale_summary">Для подключения к устройствам поблизости</string>
-    <string name="permission_locale_title">Доступ к местоположению</string>
+    <string name="permission_locale_title">Использование геолокации</string>
     <string name="permission_message_summary">Для переноса сообщений на новое устройство</string>
     <string name="permission_message_title">Доступ к SMS</string>
     <string name="permission_request_title">Предоставьте \"%1$s\"</string>
@@ -584,8 +584,8 @@
     <string name="receiver_finish_title">Все готово!</string>
     <string name="reconnect">Подключиться снова</string>
     <string name="recreate_soft_ap_tips">Нажмите кнопку ниже, чтобы повторить попытку.</string>
-    <string name="request_all_permission_content">"Для переноса данных, предоставьте Mi Mover:
-- Доступ к местоположению
+    <string name="request_all_permission_content">"Для переноса данных, разрешите Mi Mover:
+- Использование геолокации
 - Доступ к контактом
 - Доступ к журналу вызовов
 - Доступ к SMS

@@ -322,8 +322,8 @@
     <string name="ai_wuhan">Ухань</string>
     <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
     <string name="aiwatermark_location_absent_hint">Не удалось получить информацию о местоположении</string>
-    <string name="aiwatermark_location_list_title">Местоположение</string>
-    <string name="aiwatermark_location_tips">Разрешите приложению доступ к информации о местоположении для получения актуальных водяных знаков</string>
+    <string name="aiwatermark_location_list_title">Геолокация</string>
+    <string name="aiwatermark_location_tips">Разрешите приложению использование геолокации для получения актуальных водяных знаков</string>
     <string name="altitude_text">Высота</string>
     <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">О длительной выдержке</string>
@@ -415,7 +415,7 @@
     <string name="camera_newcta_audio_message">Для записи видео со звуком</string>
     <string name="camera_newcta_camera_message">Для съемки фото и видео</string>
     <string name="camera_newcta_message">"Добро пожаловать в приложение \"Камера\"! С помощью этого приложения вы можете снимать фото и видео. "</string>
-    <string name="camera_newcta_other_message">Для предоставления дополнительных сервисов, требуется разрешение на доступ к местоположению.</string>
+    <string name="camera_newcta_other_message">Для предоставления дополнительных сервисов, требуется разрешение на использование геолокации.</string>
     <string name="camera_newcta_storage_message">Для сохранения и отображения фото и видео</string>
     <string name="camera_setting">Камера</string>
     <string name="camera_settings_category_development">Экспериментальные функции</string>
@@ -549,8 +549,8 @@
     <string name="cta_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
     <string name="cta_perm_cam">Камера</string>
     <string name="cta_perm_cam_desc">Съемка фото и видео</string>
-    <string name="cta_perm_dec">Добавление информации о местоположении съемки в фото и видео</string>
-    <string name="cta_perm_loc">Местоположение</string>
+    <string name="cta_perm_dec">Добавление геоданных в фото и видео</string>
+    <string name="cta_perm_loc">Геолокация</string>
     <string name="cta_perm_storage">Память</string>
     <string name="cta_perm_storage_desc">Чтение и запись файлов</string>
     <string name="cta_perm_type">Для работы дополнительных функций во время их использования</string>
@@ -868,9 +868,9 @@
     <string name="live_workspace_title_edit">Выберите элементы для удаления</string>
     <string name="location">Местоположение</string>
     <string name="location_access_allow">Разрешить</string>
-    <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение на доступ к местоположению. Разблокируйте устройство.</string>
+    <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение на использование геолокации. Разблокируйте устройство.</string>
     <string name="location_permission_des">Добавлять информацию о местоположении в фото и видео</string>
-    <string name="location_permission_not_ask_again">Разрешите приложению доступ к местоположению</string>
+    <string name="location_permission_not_ask_again">Разрешите приложению использование геолокации</string>
     <string name="location_permission_not_ask_again_go_to_settings">Разрешить</string>
     <string name="log_format">LOG</string>
     <string name="longitude_text">Долгота</string>

@@ -77,7 +77,7 @@
     <string name="copy">Копировать</string>
     <string name="cta_button_text_agree">ОК</string>
     <string name="cta_button_text_cancel">Выход</string>
-    <string name="cta_dialog_msg">Приложению Безопасность для получения обновлений необходимо подключение к интернету и доступ к местоположению.</string>
+    <string name="cta_dialog_msg">Приложению Безопасность для получения обновлений необходимо подключение к интернету и разрешение на использование геолокации.</string>
     <string name="cta_dialog_title">Предупреждение</string>
     <string name="current_permission_template">%1$s из %2$s</string>
     <string name="current_permissions_category">Текущие разрешения</string>
@@ -200,7 +200,7 @@
     <string name="lift_ban_once">Разрешить однократно</string>
     <string name="loading">Загрузка…</string>
     <string name="location_settings">Настройки</string>
-    <string name="location_warning">Приложение %1$s является поставщиком сервиса определения местоположения. Изменить поставщика можно в настройках.</string>
+    <string name="location_warning">Приложение %1$s является поставщиком геолокации. Изменить поставщика можно в настройках.</string>
     <string name="low_risk_perms">Потенциально безопасные приложения</string>
     <string name="manage_applications">Управление приложениями</string>
     <string name="manage_device_administrators">Управление администраторами устройств</string>
@@ -430,7 +430,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="screen_overlay_button">Перейти</string>
-    <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и безопасность &gt; Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
+    <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и защита &gt; Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
     <string name="screen_overlay_title">Обнаружено наложение</string>
     <string name="search_menu_title">Поиск</string>
     <string name="security_settings_desc">Разрешить приложению</string>

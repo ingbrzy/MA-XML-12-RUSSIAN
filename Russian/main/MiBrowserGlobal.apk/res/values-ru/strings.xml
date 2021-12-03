@@ -770,7 +770,7 @@ ID:%s
 с других устройств"</string>
     <string name="empty_history_hint">Ничего нет</string>
     <string name="empty_snapshot_hint">Ничего нет</string>
-    <string name="enable_geolocation_confirm_message">Отключение служб определения местоположения повлияет на получаемые рекомендации.</string>
+    <string name="enable_geolocation_confirm_message">Отключение геолокации повлияет на получаемые рекомендации</string>
     <string name="encrypt_success">Файлы скрыты</string>
     <string name="encrypting">Шифрование…</string>
     <string name="enter_developer_mode">Вход в режим разработчика</string>
@@ -935,14 +935,14 @@ ID:%s
     <string name="geolocation_permissions_prompt_message">%s хочет получить доступ к вашему местоположению</string>
     <string name="geolocation_permissions_prompt_remember">Запомнить</string>
     <string name="geolocation_permissions_prompt_share">Разрешить</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к вашему местоположению. Для изменения перейдите в Настройки.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к вашему местоположению</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к информации о вашем местоположении. Для изменения перейдите в Настройки.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к информации о вашем местоположении</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
-    <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к местоположению?</string>
+    <string name="geolocation_settings_page_dialog_message">Запретить этому сайту доступ к геоданным?</string>
     <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
-    <string name="geolocation_settings_page_summary_allowed">У этого сайта есть доступ к вашему местоположению</string>
-    <string name="geolocation_settings_page_summary_not_allowed">У этого сайта нет доступа к вашему местоположению</string>
-    <string name="geolocation_settings_page_title">Закрыть геоданные</string>
+    <string name="geolocation_settings_page_summary_allowed">У этого сайта есть доступ к информации о вашем местоположении</string>
+    <string name="geolocation_settings_page_summary_not_allowed">У этого сайта нет доступа к информации о вашем местоположении</string>
+    <string name="geolocation_settings_page_title">Запретить доступ к геоданным</string>
     <string name="get_back_pwd">Выполняется сброс пароля</string>
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
@@ -1882,7 +1882,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_privacy_enable_geolocation">Местоположение</string>
     <string name="pref_privacy_enable_geolocation_summary">Разрешить браузеру запрашивать доступ к вашему местоположению</string>
     <string name="pref_privacy_formdata_title">Данные форм</string>
-    <string name="pref_privacy_location_title">Доступ к местоположению</string>
+    <string name="pref_privacy_location_title">Доступ к геоданным</string>
     <string name="pref_privacy_performance_id_instead_by_random_id">Ваш Performance ID будет заменен на новый, созданный случайным образом.</string>
     <string name="pref_privacy_performance_id_is">"Текущий Performance ID: "</string>
     <string name="pref_privacy_performance_id_reset">Сброс Performance ID</string>
@@ -2175,7 +2175,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="security_permission_message_location">Приложению требуется доступ к вашему местоположению, чтобы предоставлять услуги на основе местоположения. Если вы не согласны предоставить разрешение, вы не сможете использовать некоторые функции этого приложения; тем не менее, основные функции приложения по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать авторизацию в настройках.</string>
     <string name="security_permission_negative_btn_location">Отмена</string>
     <string name="security_permission_positive_btn_location">Разрешить</string>
-    <string name="security_permission_title_location">Доступ к местоположению</string>
+    <string name="security_permission_title_location">Доступ к геоданным</string>
     <string name="security_url_confirm_message">Отключение этой функции может создать угрозу безопасности.</string>
     <string name="security_warning">Предупреждение безопасности</string>
     <string name="security_warnings_confirm_message">Отключение этой функции может создать угрозу безопасности.</string>
@@ -2568,7 +2568,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="user_defined_webpage_title">Добавить на главную</string>
     <string name="user_experience_agree">Присоединиться</string>
     <string name="user_experience_content">"Программа улучшения качества помогает нам целенаправленно улучшать наши продукты и услуги, а также внедрять новые функции и услуги, которые могут быть вам полезны. Мы начнем собирать и анализировать соответствующие данные (например, данные об использовании продукта) после того, как вы присоединитесь к ней. Нажимая \"Присоединиться\" ниже, вы соглашаетесь со всеми условиями участия в &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Программе улучшения качества&lt;/a>&lt;/font>.
-Вы в любое время можете отказаться от участия в программе в разделе Настройки > Пароли и безопасность > Конфиденциальность."</string>
+Вы в любое время можете отказаться от участия в программе в разделе Настройки > Пароли и защита > Конфиденциальность."</string>
     <string name="user_experience_disagree">Отклонить</string>
     <string name="user_experience_title">Программа улучшения качества</string>
     <string name="user_guide_color_mode_info">Доступны светлая и темная темы</string>

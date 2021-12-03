@@ -156,8 +156,8 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_name">Разрешения</string>
-    <string name="background_location_access_reminder_notification_content">Приложение имеет разрешение всегда получать доступ к местоположению. Нажмите для изменения разрешения.</string>
-    <string name="background_location_access_reminder_notification_title">Приложение %s использовало доступ к местоположению</string>
+    <string name="background_location_access_reminder_notification_content">У приложения есть постоянное разрешение на использование геолокации. Нажмите для изменения разрешения.</string>
+    <string name="background_location_access_reminder_notification_title">Приложение %s использовало геолокацию</string>
     <string name="blur_location_is_on_tip">Для приложения %1$s включено размытие местоположения. Включить точное местоположение?</string>
     <string name="blur_location_now_tip">Включено размытие местоположения</string>
     <string name="blur_location_title">Размытие местоположения</string>
@@ -228,7 +228,7 @@
     <string name="keep_blur_location">Оставить</string>
     <string name="keep_notice_me">Уведомлять</string>
     <string name="location_settings">Настройки</string>
-    <string name="location_warning">Приложение %1$s является поставщиком сервиса определения местоположения. Изменить поставщика можно в настройках.</string>
+    <string name="location_warning">Приложение %1$s является поставщиком геолокации. Изменить поставщика можно в настройках.</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -307,12 +307,12 @@
     <string name="perm_action_deny">Запретить</string>
     <string name="perm_manager_suggest_operation">Управление разрешениями</string>
     <string name="perm_manager_suggest_title">Настроить разрешения?</string>
-    <string name="perm_modem_location">Доступ к местоположению</string>
+    <string name="perm_modem_location">Использование геолокации</string>
     <string name="perm_modem_location_desc">Разрешить оператору связи получать данные о местоположении</string>
     <string name="permdesc_camera">Снимать фото и видео</string>
     <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
-    <string name="permdesc_location">Доступ к местоположению</string>
-    <string name="permdesc_location_background">Доступ к местоположению в фоновом режиме</string>
+    <string name="permdesc_location">Использование геолокации</string>
+    <string name="permdesc_location_background">Использование геолокации в фоновом режиме</string>
     <string name="permdesc_microphone">Записывать вызовы и аудио</string>
     <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
     <string name="permdesc_read_calendar">Просматривать события календаря</string>
@@ -325,7 +325,7 @@
     <string name="permgroupdesc_calllog">Доступ к журналу вызовов</string>
     <string name="permgroupdesc_camera">Снимать фото и видео</string>
     <string name="permgroupdesc_contacts">Доступ к контактам</string>
-    <string name="permgroupdesc_location">Доступ к местоположению</string>
+    <string name="permgroupdesc_location">Использование геолокации</string>
     <string name="permgroupdesc_microphone">Доступ к микрофону</string>
     <string name="permgroupdesc_phone">Осуществлять вызовы и управлять ими</string>
     <string name="permgroupdesc_recognition">Доступ к данным о здоровье и активности</string>
@@ -338,7 +338,7 @@
     <string name="permission_description_summary_camera">Приложения с этим разрешением могут снимать фото и видео</string>
     <string name="permission_description_summary_contacts">Приложения с этим разрешением могут получить доступ к контактам</string>
     <string name="permission_description_summary_generic">Приложения с этим разрешением могут получить доступ к %1$s</string>
-    <string name="permission_description_summary_location">Приложения с этим разрешением могут получить доступ к местоположению</string>
+    <string name="permission_description_summary_location">Приложения с этим разрешением могут использовать геолокацию</string>
     <string name="permission_description_summary_microphone">Приложения с этим разрешением могут записывать аудио и вызовы</string>
     <string name="permission_description_summary_phone">Приложения с этим разрешением могут осуществлять вызовы</string>
     <string name="permission_description_summary_sensors">Приложения с этим разрешением могут получить доступ к данным датчиков о состоянии организма</string>
@@ -362,7 +362,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="screen_overlay_button">Перейти</string>
-    <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и безопасность &gt;  Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
+    <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и защита &gt;  Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
     <string name="screen_overlay_title">Обнаружено наложение экранов</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>

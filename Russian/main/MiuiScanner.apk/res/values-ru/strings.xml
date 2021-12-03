@@ -42,7 +42,7 @@
     <string name="address">Адрес: </string>
     <string name="adjustment_area">Настроить</string>
     <string name="afternoon">После полудня</string>
-    <string name="agree_app_use">Сканирование QR-кодов и изображений (для некоторых функций может потребоваться доступ к местоположению)</string>
+    <string name="agree_app_use">Сканирование QR-кодов и изображений (для некоторых функций может потребоваться разрешение на использование геолокации)</string>
     <string name="agree_audio_permission">Для записи аудио</string>
     <string name="agree_btn">Принимаю</string>
     <string name="agree_camera_permission">Для съемки фото и записи видео</string>
@@ -255,9 +255,9 @@
     <string name="function">Функции</string>
     <string name="general_error">Ошибка распознавания</string>
     <string name="general_feedback">Сообщить об ошибках</string>
-    <string name="general_location">Разрешите приложению Сканер доступ к местоположению для получения услуг на основе определения местоположения</string>
+    <string name="general_location">Разрешите приложению Сканер использовать геолокацию для получения услуг на основе местоположения</string>
     <string name="general_location_dialog">Сервис предоставляется Dianping. Фотографии и информация о местоположении будут переданы Dianping для получения информации о магазине.</string>
-    <string name="general_location_prompt">Доступ к местоположению</string>
+    <string name="general_location_prompt">Использование геолокации</string>
     <string name="general_no">Результаты отсутствуют</string>
     <string name="general_no_found">Похожие продукты</string>
     <string name="general_plant">Возможно вы ищете:</string>
@@ -665,7 +665,7 @@
     <string name="store_feedback_prompt">Напишите отзыв</string>
     <string name="store_location_dialog">Сервис предоставляется Dianping. Все фотографии, сделанные вами во время использования этого сервиса, включая информацию о местоположении, будут переданы в Dianping для получения информации о магазинах.</string>
     <string name="store_location_fail">Не удалось получить информацию о местоположении</string>
-    <string name="store_location_prompt">Разрешите приложению доступ к местоположению для идентификации магазинов</string>
+    <string name="store_location_prompt">Разрешите приложению использование геолокации для идентификации магазинов</string>
     <string name="store_module_title">Магазин</string>
     <string name="store_no_date">Не удалось идентифицировать магазин</string>
     <string name="store_title">Сканирование знака магазина</string>

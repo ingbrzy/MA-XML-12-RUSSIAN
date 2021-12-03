@@ -855,13 +855,13 @@
     <string name="global_actions_airplane_mode_off_status">Включить</string>
     <string name="global_actions_airplane_mode_on_status">Выключить</string>
     <string name="global_actions_toggle_airplane_mode">Режим полета</string>
-    <string name="gnss_nfw_notification_message_carrier">Оператор связи получил доступ к вашему местоположению во время недавнего экстренного сеанса связи</string>
-    <string name="gnss_nfw_notification_message_oem">Производитель устройства получил доступ к вашему местоположению во время недавнего экстренного сеанса связи</string>
-    <string name="gnss_nfw_notification_title">Доступ к местоположению</string>
+    <string name="gnss_nfw_notification_message_carrier">Оператор связи получил информацию о вашем местоположении во время недавнего экстренного сеанса связи</string>
+    <string name="gnss_nfw_notification_message_oem">Производитель устройства получил информацию о вашем местоположении во время недавнего экстренного сеанса связи</string>
+    <string name="gnss_nfw_notification_title">Использование геолокации</string>
     <string name="gnss_service">Служба GNSS</string>
     <string name="gnss_time_update_service">Служба синхронизации времени GNSS</string>
     <string name="gpsNotifMessage">Запрашивает %1$s (%2$s)</string>
-    <string name="gpsNotifTicker">Пользователь %s запрашивает ваше местоположение</string>
+    <string name="gpsNotifTicker">Пользователь %s запрашивает информацию о вашем местоположении</string>
     <string name="gpsNotifTitle">Запрос местоположения</string>
     <string name="gpsVerifNo">Нет</string>
     <string name="gpsVerifYes">Да</string>
@@ -1048,8 +1048,8 @@
     <string name="locale_replacement"/>
     <string name="locale_search_menu">Поиск</string>
     <string name="location_changed_notification_text">Свяжитесь с ИТ-администратором, чтобы узнать больше</string>
-    <string name="location_changed_notification_title">Приложения могут получать доступ к местоположению</string>
-    <string name="location_service">Служба местоположения</string>
+    <string name="location_changed_notification_title">Приложения могут использовать геолокацию</string>
+    <string name="location_service">Геолокация</string>
     <string name="lock_to_app_description">"Закрепление экрана фиксирует его в определенном виде.
 
 Чтобы открепить, нажмите и удерживайте кнопки \"Домой\" и \"Питание\" одновременно."</string>
@@ -1429,7 +1429,7 @@
     <string name="peerTtyModeVco">На устройстве абонента выбран режим телетайпа VCO</string>
     <string name="perm_costs_money">это может стоить вам денег!</string>
     <string name="permdesc_acceptHandovers">Приложение сможет продолжить вызов, начатый в другом приложении.</string>
-    <string name="permdesc_accessBackgroundLocation">Приложение сможет получить доступ к местоположению в фоновом режиме.</string>
+    <string name="permdesc_accessBackgroundLocation">Приложение сможет использовать геолокацию в фоновом режиме.</string>
     <string name="permdesc_accessCoarseLocation">Приложение сможет получать сведения о вашем местоположении от сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геоданные.</string>
     <string name="permdesc_accessDrmCertificates">Приложение сможет синхронизировать и использовать сертификаты DRM (разрешение актуально только для специальных приложений).</string>
     <string name="permdesc_accessFineLocation">Приложение сможет получать сведения о вашем местоположении от GPS-датчика или сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геоданные. Это может увеличить расход батареи.</string>
@@ -1564,8 +1564,8 @@
     <string name="permdesc_writeHistoryBookmarks">Приложение сможет изменять историю или закладки браузера, сохраненные на телефоне, а также удалять и изменять данные браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение.</string>
     <string name="permdesc_writeSettings">"Приложение сможет изменять настройки системы. Вредоносные программы смогут повредить конфигурацию системы."</string>
     <string name="permdesc_writeSyncSettings">Приложение сможет изменять настройки синхронизации аккаунта. Например, с помощью этого разрешения можно включить в аккаунте синхронизацию контактов.</string>
-    <string name="permgroupbackgroundrequest_location">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к местоположению устройства &lt;b&gt;на постоянной основе&lt;/b&gt;?</string>
-    <string name="permgroupbackgroundrequestdetail_location">Сейчас у приложения есть доступ к местоположению только во время его использования.</string>
+    <string name="permgroupbackgroundrequest_location">Разрешить &lt;b&gt;%1$s&lt;/b&gt; использовать геолокацию &lt;b&gt;на постоянной основе&lt;/b&gt;?</string>
+    <string name="permgroupbackgroundrequestdetail_location">Сейчас у приложения есть разрешение использовать геолокацию только при его использовании.</string>
     <string name="permgroupdesc_activityRecognition">доступ к данным о физической активности</string>
     <string name="permgroupdesc_calendar">доступ к календарю</string>
     <string name="permgroupdesc_calllog">доступ к журналу вызовов</string>
@@ -1601,7 +1601,7 @@
     <string name="permgrouprequest_sensors">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к данным датчиков о состоянии организма?</string>
     <string name="permgrouprequest_sms">Разрешить &lt;b&gt;%1$s&lt;/b&gt; отправлять и просматривать SMS-сообщения?</string>
     <string name="permgrouprequest_storage">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к фото, мультимедиа и файлам на вашем устройстве?</string>
-    <string name="permgrouprequestdetail_location">Приложение будет иметь доступ к местоположению только на время использования</string>
+    <string name="permgrouprequestdetail_location">У приложения будет доступ к геолокации только при его использовании</string>
     <string name="permission">Разрешение</string>
     <string name="permission_remember_choice">Запомнить</string>
     <string name="permission_request_notification_for_app_with_subtitle">"%1$s требуется разрешение
@@ -1610,7 +1610,7 @@
     <string name="permission_request_notification_with_subtitle">"Требуется разрешение
 для аккаунта %s."</string>
     <string name="permlab_acceptHandover">Продолжение вызова из другого приложения</string>
-    <string name="permlab_accessBackgroundLocation">Доступ к местоположению в фоновом режиме</string>
+    <string name="permlab_accessBackgroundLocation">Использование геолокации в фоновом режиме</string>
     <string name="permlab_accessCoarseLocation">Доступ к примерному местоположению (по координатам сети)</string>
     <string name="permlab_accessDrmCertificates">Доступ к сертификатам DRM</string>
     <string name="permlab_accessFineLocation">Доступ к точному местоположению (по GPS и координатам сети)</string>

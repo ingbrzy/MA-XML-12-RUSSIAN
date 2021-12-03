@@ -44,7 +44,7 @@
     <string name="autofill">Автозаполнение</string>
     <string name="autofill_save_message">Разрешить MIUI сохранять учетные записи и пароли?</string>
     <string name="autofill_save_ok">Разрешить</string>
-    <string name="autofill_save_sub_message">Вы можете просматривать пароли и управлять ими в Настройки &gt; Пароли и безопасность &gt; %s</string>
+    <string name="autofill_save_sub_message">Вы можете просматривать пароли и управлять ими в Настройки &gt; Пароли и защита &gt; %s</string>
     <string name="autofill_save_title">Автосохранение данных</string>
     <string name="autofill_service_name">Управление паролями</string>
     <string name="battery_authentic_failed_button">Понятно</string>
@@ -324,7 +324,7 @@
     <string name="permdesc_useBiometric">Приложение сможет использовать аппаратные средства биометрической аутентификации</string>
     <string name="permdesc_useFingerprint">Приложение сможет использовать сканер отпечатков пальцев для аутентификации</string>
     <string name="permlab_manageFingerprint">Управление сканером отпечатков</string>
-    <string name="permlab_manageLocationPolicy">Доступ к местоположению</string>
+    <string name="permlab_manageLocationPolicy">Использование геолокации</string>
     <string name="permlab_useBiometric">Использование аппаратных средств биометрической аутентификации</string>
     <string name="permlab_useFingerprint">Использование сканера отпечатков</string>
     <string name="popup_camera_calibrate_failed">"Не удалось откалибровать. Возможно, нужно отнести устройство в сервис для диагностики проблемы"</string>

@@ -38,7 +38,7 @@
     <string name="agree_terms">Я принимаю Пользовательское соглашение и Политику конфиденциальности.</string>
     <string name="agree_terms_input_method_facemoji">Я принимаю Политику конфиденциальности Facemoji.</string>
     <string name="agree_terms_input_method_kika">Я принимаю Политику конфиденциальности Kika.</string>
-    <string name="agreement_declare_use_network_and_location_china">"Следующие службы подключатся к сети и получат доступ к местоположению: "</string>
+    <string name="agreement_declare_use_network_and_location_china">"Следующие службы подключатся к сети и будут использовать геолокацию: "</string>
     <string name="agreement_declare_use_network_china">подключатся к сети.</string>
     <string name="ai_button_desc">Кнопка AI позволяет запускать Mi AI и использовать его ярлыки.</string>
     <string name="ai_button_double_press">Двойное нажатие</string>
@@ -65,7 +65,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clock_introduction">Вы можете использовать это приложение для просмотра текущего и мирового времени, для установки будильников, а также для таймера, секундомера и многого другого.</string>
     <string name="close">Закрыть</string>
-    <string name="close_location_service_setting">Вы можете отключить доступ к местоположению в Настройки &gt; Защита конфиденциальности, либо ограничить разрешения для отдельных приложений в приложении Безопасность.</string>
+    <string name="close_location_service_setting">Вы можете отключить доступ к геоданным в Настройки &gt; Защита конфиденциальности, либо ограничить разрешения для отдельных приложений в приложении Безопасность.</string>
     <string name="cm_terms_content">Для повышения качества предоставляемых сервисов, выбранный мобильный оператор может сохранять ваши персональные данные и сведения об устройстве на своих серверах, используя сети Wi-Fi или мобильный интернет. Эта информация будет использоваться только в статистических целях для повышения качества сервисов и предоставления персонализированного контента. Данная информация не будет использоваться в целях вашей идентификации и не будет передана третьим лицам.</string>
     <string name="cm_terms_title">Соглашение с оператором мобильной связи</string>
     <string name="compass_introduction">Вы можете использовать это приложение для навигации, для просмотра координат, атмосферного давления и высоты.</string>
@@ -105,7 +105,7 @@
     <string name="disagreement_fast_pairing_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать приложение. Включить или отключить этот сервис можно в любое время в Настройки > Bluetooth > Дополнительно > Mi Link.</string>
     <string name="disagreement_function">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать эту функцию. В этом случае вы можете отказаться от использования этой функции.</string>
     <string name="disagreement_location_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать эту службу.</string>
-    <string name="disagreement_location_service_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать службы геолокации. Включить или отключить эти службы можно в любое время в разделе Настройки > Защита конфиденциальности.</string>
+    <string name="disagreement_location_service_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать геолокацию. Включить или отключить геолокацию можно в любое время в разделе Настройки > Защита конфиденциальности.</string>
     <string name="disagreement_mi_account_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать службы Mi Аккаунта. Включить или выключить эти службы можно в любое время в разделе Настройки > Mi Аккаунт.</string>
     <string name="disagreement_service_not_working_properly">В случае отказа предоставить эти разрешения, вы не сможете использовать это приложение.</string>
     <string name="disagreement_terminate_miuidaemon">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис. В таком случае вы можете отказаться от использования этого сервиса или ограничить разрешения в настройках. Обратите внимание, что мы будем использовать разрешения при передаче данных с устройства, если его экран поврежден.</string>
@@ -146,7 +146,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="game_introduction">Плагин для игр позволяет вам входить в систему, создавать заказы, совершать платежи, использовать купоны и участвовать в рекламных акциях.</string>
-    <string name="google_service_introduction">Google Play для нормальной работы необходимо подключение к интернету, доступ к местоположению, разрешение отправлять SMS и MMS, записывать аудио, осуществлять вызовы, а также доступ к событиям календаря, истории вызовов, датчикам, хранилищу, камере, информации об устройстве и учетным записям.</string>
+    <string name="google_service_introduction">Google Play для нормальной работы необходимо подключение к интернету, доступ к геоданным, разрешение отправлять SMS и MMS, записывать аудио, осуществлять вызовы, а также доступ к событиям календаря, истории вызовов, датчикам, хранилищу, камере, информации об устройстве и учетным записям.</string>
     <string name="home_settings_miui_home">Классический</string>
     <string name="home_settings_poco_launcher">Меню приложений</string>
     <string name="home_settings_title">Выбор рабочего стола</string>
@@ -282,7 +282,7 @@
     <string name="other_settings_enhanced_lockscreen_privacy_index">Политика конфиденциальности</string>
     <string name="other_settings_enhanced_lockscreen_summary">Получайте ежедневные подборки изображений на экран блокировки. %1$s и %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Лицензионное соглашение с конечным пользователем</string>
-    <string name="other_settings_location">Доступ к местоположению</string>
+    <string name="other_settings_location">Доступ к геоданным</string>
     <string name="other_settings_location_summary">Предоставление приложениям доступа к местоположению для услуг на основе местоположения</string>
     <string name="other_settings_upload_debug_log_detail">"Автоматически отправлять диагностику, данные об устройстве и использовании приложений в Xiaomi. Это поможет улучшить время автономной работы, стабильность системы и приложений MIUI, а также многое другое.
 Отправляемые данные будут содержать общую информацию об устройстве и его использовании (например, уровень заряда батареи, активность системы и приложений, ошибках). 
@@ -324,13 +324,13 @@
     <string name="permission_fast_pairing">Для поиска устройств поблизости, Mi Link требуются подключение к интернету и следующие разрешения:</string>
     <string name="permission_imei_service">Для доступа к IMEI для предоставления сервисов, связанных с устройством</string>
     <string name="permission_interaction_introduction">Для сохранения фото и видео на устройство</string>
-    <string name="permission_location">Доступ к информации о местоположении</string>
-    <string name="permission_location_describe">Доступ к местоположению</string>
+    <string name="permission_location">Доступ к геоданным</string>
+    <string name="permission_location_describe">Доступ к геоданным</string>
     <string name="permission_location_describe_desktop_summary">Для доступа к именам сетей Wi-Fi;</string>
-    <string name="permission_location_describe_fast_application_summary">Для предоставления Быстрым приложениям доступа к местоположению;</string>
+    <string name="permission_location_describe_fast_application_summary">Для предоставления Быстрым приложениям доступа к геоданным;</string>
     <string name="permission_location_describe_fast_pairing_summary">Для отображения доступных устройств Bluetooth с низким энергопотреблением;</string>
-    <string name="permission_location_describe_interconnection_communication_summary">Для доступа к местоположению для работы служб обнаружения и подключения с помощью Bluetooth или Wi-Fi;</string>
-    <string name="permission_location_describe_location_summary">Для доступа к точному местоположению для предоставления различных сервисов на основе местоположения.</string>
+    <string name="permission_location_describe_interconnection_communication_summary">Для доступа к геоданным для работы служб обнаружения и подключения с помощью Bluetooth или Wi-Fi;</string>
+    <string name="permission_location_describe_location_summary">Для получения точного местоположения для предоставления различных сервисов на основе местоположения.</string>
     <string name="permission_location_introduction">Для предоставления сервисов на основе местоположения</string>
     <string name="permission_log_introduction">Для сохранения журналов</string>
     <string name="permission_login_introduction">Для входа в учетные записи и управления ими</string>
@@ -439,7 +439,7 @@
     <string name="service_company_adjust_content">Пользовательское соглашение сетевых служб Xunlei</string>
     <string name="service_fast_pairing_policy"><Data>Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности Mi Link&lt;/a >.</Data></string>
     <string name="service_interconnection_communication">Службы интернет-коммуникации Xiaomi</string>
-    <string name="service_location_share_policy"><Data>Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Заявление о конфиденциальности служб геолокации&lt;/a >.</Data></string>
+    <string name="service_location_share_policy"><Data>Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Заявление о конфиденциальности геолокации&lt;/a >.</Data></string>
     <string name="service_mi_account">Mi Аккаунт</string>
     <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_address_dialing">Контакты и телефон</string>
@@ -529,7 +529,7 @@
     <string name="systemdesktop_introduction">Плагин службы Рабочего стола предоставляет такие функции, как Рабочий стол, системный пользовательский интерфейс и скриншоты.</string>
     <string name="term_condition_detail">Получайте ежедневно потрясающие изображения и захватывающие истории на экран блокировки. Эта функция не будет использовать ваши данные для персонализации без вашего согласия. Перед использованием этой функции, прочтите и примите &lt;a href =%1$s>Политику конфиденциальности&lt;/a> и &lt;a href =%2$s>Пользовательское соглашение&lt;/a> стороннего поставщика контента.</string>
     <string name="terms_of_use">Условия использования</string>
-    <string name="terms_of_use_ble_htmlViewer">, Поставщик сервиса геолокации, средство просмотра HTML</string>
+    <string name="terms_of_use_ble_htmlViewer">, поставщик геолокации, средство просмотра HTML</string>
     <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Прочитайте наши Условия использования и Политику конфиденциальности, чтобы понять, какую информацию мы собираем, как мы ее используем и какие варианты доступны для Вас.
 
 Вы должны принять Условия использования и Политику конфиденциальности, прежде чем использовать MIUI. %s и компоненты Mi аккаунта подключатся к интернету и получат данные вашего местоположения."</string>
@@ -539,7 +539,7 @@
     <string name="terms_of_use_label_ai_assistant">AI Ассистент</string>
     <string name="terms_of_use_label_app_vault">Ассистент</string>
     <string name="terms_of_use_label_back">Служба резервного копирования</string>
-    <string name="terms_of_use_label_ble">Поставщик сервиса геолокации</string>
+    <string name="terms_of_use_label_ble">Поставщик геолокации</string>
     <string name="terms_of_use_label_cloud">Облако Xiaomi</string>
     <string name="terms_of_use_label_communication_service">Служба интернет-коммуникации Xiaomi</string>
     <string name="terms_of_use_label_config_updater">ConfigUpdater</string>

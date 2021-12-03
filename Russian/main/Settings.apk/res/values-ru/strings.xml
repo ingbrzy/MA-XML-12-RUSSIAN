@@ -2869,11 +2869,11 @@
     <string name="dialog_content_login">Войти в Mi Аккаунт для обновления?</string>
     <string name="dialog_esim_button_negative">Отмена</string>
     <string name="dialog_esim_button_positive">ОК</string>
-    <string name="dialog_location_message">"Повышенный расход батареи, приложение %1$s запрашивает данные о вашем местоположении, даже когда вы им не пользуетесь.
+    <string name="dialog_location_message">"Заряд батареи расходуется слишком быстро, так как приложение %1$s запрашивает данные о местоположении, даже когда вы им не пользуетесь.
 
-Чтобы устранить эту проблему, запретите приложению доступ к местоположению."</string>
+Чтобы устранить эту проблему, запретите приложению доступ к геоданным."</string>
     <string name="dialog_location_ok">Запретить</string>
-    <string name="dialog_location_title">Запретить доступ к местоположению?</string>
+    <string name="dialog_location_title">Запретить доступ к геоданным?</string>
     <string name="dialog_network_priority_title">Приоритет</string>
     <string name="dialog_no">Отмена</string>
     <string name="dialog_restrict_all_mobile_summary">Мобильный интернет %s будет ограничен для всех приложений.</string>
@@ -4375,7 +4375,7 @@
     <string name="interact_across_profiles_app_detail_title">Связь рабочих и личных приложений</string>
     <string name="interact_across_profiles_consent_dialog_app_data_summary">У этого приложения есть доступ к данным в личном приложении %1$s.</string>
     <string name="interact_across_profiles_consent_dialog_app_data_title">Данные приложения</string>
-    <string name="interact_across_profiles_consent_dialog_permissions_summary">Это приложение может использовать разрешения, предоставленные личному приложению %1$s, такие как доступ к местоположению, памяти устройства или контактам.</string>
+    <string name="interact_across_profiles_consent_dialog_permissions_summary">Это приложение может использовать разрешения, предоставленные личному приложению %1$s, такие как доступ к геоданным, хранилищу или контактам.</string>
     <string name="interact_across_profiles_consent_dialog_permissions_title">Разрешения</string>
     <string name="interact_across_profiles_consent_dialog_summary">Связывайте приложения, только если вы уверены, что они не будут сообщать ваши личные данные ИТ-администратору.</string>
     <string name="interact_across_profiles_consent_dialog_title">Доверить рабочему приложению %1$s работу с вашими личными данными?</string>
@@ -4743,8 +4743,8 @@
     <string name="locale_not_translated">Может быть недоступен в некоторых приложениях</string>
     <string name="locale_remove_menu">Удалить</string>
     <string name="locale_settings">Регион</string>
-    <string name="location_access_summary">Разрешить приложениям запрашивать доступ к местоположению</string>
-    <string name="location_access_title">Местоположение</string>
+    <string name="location_access_summary">Разрешить приложениям запрашивать доступ к геоданным</string>
+    <string name="location_access_title">Доступ к геоданным</string>
     <string name="location_agps_apn_choose_dialog_title">Тип APN</string>
     <string name="location_agps_apn_summary">Выберите тип APN</string>
     <string name="location_agps_apn_type">Тип APN</string>
@@ -4769,45 +4769,45 @@
     <string name="location_agps_supl_server_addr">Сервер</string>
     <string name="location_agps_supl_server_port">Порт</string>
     <string name="location_agps_supl_settings">Настройки SUPL</string>
-    <string name="location_app_level_permissions">Разрешения приложений</string>
-    <string name="location_app_permission_summary_location_off">Доступ к местоположению отключен</string>
+    <string name="location_app_level_permissions">Доступ приложений к геоданным</string>
+    <string name="location_app_permission_summary_location_off">Доступ к геоданным отключен</string>
     <string name="location_category">Местоположение</string>
-    <string name="location_category_location_services">Службы местоположения</string>
+    <string name="location_category_location_services">Мое местоположение</string>
     <string name="location_category_recent_location_access">Недавний доступ</string>
     <string name="location_category_recent_location_requests">Недавние запросы</string>
     <string name="location_gps">По спутникам GPS</string>
     <string name="location_high_battery_use">Высокий расход батареи</string>
-    <string name="location_indicator_settings_description">Показывать для всех местоположений, включая определяемые через сеть и подключение</string>
-    <string name="location_indicator_settings_title">Индикатор местоположения в строке состояния</string>
+    <string name="location_indicator_settings_description">Показывать для всех вариантов геолокации, включая сети и подключения</string>
+    <string name="location_indicator_settings_title">Индикатор геолокации в строке состояния</string>
     <string name="location_low_battery_use">Низкий расход батареи</string>
-    <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильную сеть для определения местоположения</string>
+    <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильную сеть для геолокации</string>
     <string name="location_mode_battery_saving_title">По координатам сети</string>
-    <string name="location_mode_high_accuracy_description">Использовать GPS, Wi-Fi и мобильную сеть для определения местоположения</string>
+    <string name="location_mode_high_accuracy_description">Использовать GPS, Wi-Fi и мобильную сеть для геолокации</string>
     <string name="location_mode_high_accuracy_title">По всем источникам</string>
     <string name="location_mode_location_off_title">Отправка геоданных отключена</string>
-    <string name="location_mode_screen_title">Определение местоположения</string>
-    <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
+    <string name="location_mode_screen_title">Режим геолокации</string>
+    <string name="location_mode_sensors_only_description">Использовать GPS для геолокации</string>
     <string name="location_mode_sensors_only_title">По спутникам GPS</string>
     <string name="location_modem_summary">Разрешение операторам связи определять местоположение устройства по базовым станциям</string>
     <string name="location_modem_title">Разрешение операторам связи</string>
-    <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
-    <string name="location_neighborhood_level_wifi">Местоположение определяется по сетям Wi-Fi</string>
-    <string name="location_network_based">Wi-Fi и мобильные сети</string>
+    <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для геолокации</string>
+    <string name="location_neighborhood_level_wifi">По сетям Wi-Fi</string>
+    <string name="location_network_based">По Wi-Fi и мобильным сетям</string>
     <string name="location_no_recent_accesses">Запросы отсутствуют</string>
     <string name="location_no_recent_apps">Запросы отсутствуют</string>
     <string name="location_recent_location_access_see_all">Показать все</string>
     <string name="location_recent_location_access_view_details">Подробнее</string>
     <string name="location_recent_location_requests_see_all">Показать все</string>
-    <string name="location_scanning_bluetooth_always_scanning_description">Разрешить приложениям и сервисам искать устройства поблизости, даже когда Bluetooth отключен. Это может улучшить работу функций и сервисов, использующих данные о местоположении.</string>
+    <string name="location_scanning_bluetooth_always_scanning_description">Разрешить приложениям и сервисам искать устройства поблизости, даже когда Bluetooth отключен. Это может улучшить работу функций и сервисов, использующих геоданные.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Поиск устройств Bluetooth</string>
     <string name="location_scanning_screen_title">Поиск</string>
-    <string name="location_scanning_wifi_always_scanning_description">Разрешить приложениям и сервисам искать сети Wi-Fi, даже когда Wi-Fi отключен. Это может улучшить работу функций и сервисов, использующих данные о местоположении.</string>
+    <string name="location_scanning_wifi_always_scanning_description">Разрешить приложениям и сервисам искать сети Wi-Fi, даже когда Wi-Fi отключен. Это может улучшить работу функций и сервисов, использующих геоданные.</string>
     <string name="location_scanning_wifi_always_scanning_title">Поиск сетей Wi-Fi</string>
-    <string name="location_services_preference_title">Службы местоположения</string>
-    <string name="location_services_screen_title">Службы местоположения</string>
+    <string name="location_services_preference_title">Геолокация </string>
+    <string name="location_services_screen_title">Геолокация</string>
     <string name="location_settings_footer_general">Приложения с доступом к устройствам поблизости могут определять относительное местоположение подключенных устройств</string>
     <string name="location_settings_footer_learn_more_content_description">Подробнее о настройках местоположения…</string>
-    <string name="location_settings_footer_location_off">Доступ к данным о местоположении для приложений и сервисов отключен. Если вы позвоните по номеру экстренной службы или отправите на него сообщение, данные о местоположении вашего устройства могут быть переданы спасателям.</string>
+    <string name="location_settings_footer_location_off">Доступ к геоданным для приложений и сервисов отключен. Если вы позвоните по номеру экстренной службы или отправите на него сообщение, данные о местоположении вашего устройства могут быть переданы спасателям.</string>
     <string name="location_settings_loading_app_permission_stats">Загрузка…</string>
     <string name="location_settings_master_switch_title">Определять местоположение</string>
     <string name="location_settings_primary_switch_title">Определять местоположение</string>
@@ -4817,12 +4817,12 @@
     <string name="location_street_level">Разрешить приложениям использовать GPS для точного определения вашего местоположения</string>
     <string name="location_time_zone_detection_auto_is_off">Автоопределение часового пояса отключено</string>
     <string name="location_time_zone_detection_location_is_off_dialog_cancel_button">Отмена</string>
-    <string name="location_time_zone_detection_location_is_off_dialog_message">Чтобы установить часовой пояс на основе вашего местоположения, включите определение местоположения и обновите настройки часового пояса.</string>
-    <string name="location_time_zone_detection_location_is_off_dialog_ok_button">Настройки</string>
-    <string name="location_time_zone_detection_location_is_off_dialog_title">Нет доступа к данным о местоположении</string>
-    <string name="location_time_zone_detection_not_allowed">Вы не можете изменить настройки определения часового пояса по местоположению</string>
-    <string name="location_time_zone_detection_not_applicable">Определение часового пояса по местоположению отключено</string>
-    <string name="location_time_zone_detection_not_supported">Определение часового пояса по местоположению не поддерживается</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_message">Чтобы установить часовой пояс на основе местоположения, включите геолокацию и обновите настройки часового пояса.</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_ok_button">Настройки геолокации</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_title">Нет доступа к геоданным</string>
+    <string name="location_time_zone_detection_not_allowed">Вы не можете изменить настройки определения часового пояса с помощью геолокации</string>
+    <string name="location_time_zone_detection_not_applicable">Определение часового пояса с помощью геолокации отключено</string>
+    <string name="location_time_zone_detection_not_supported">Определение часового пояса с помощью геолокации не поддерживается</string>
     <string name="location_time_zone_detection_toggle_title">Определять часовой пояс по местоположению</string>
     <string name="location_title">Мое местоположение</string>
     <string name="lock_after_timeout">Автоблокировка</string>
@@ -5207,7 +5207,7 @@
     <string name="managed_profile_contact_search_summary">Разрешить поиск контактов в организации для определения вызывающих абонентов</string>
     <string name="managed_profile_contact_search_title">Поиск контактов</string>
     <string name="managed_profile_location_category">Рабочий профиль</string>
-    <string name="managed_profile_location_services">Службы местоположения для работы</string>
+    <string name="managed_profile_location_services">Геолокация для работы</string>
     <string name="managed_profile_location_switch_lockdown">Отключено администратором.</string>
     <string name="managed_profile_location_switch_title">Местоположение для рабочего профиля</string>
     <string name="managed_profile_not_available_label">Рабочий профиль пока не доступен</string>
@@ -6553,10 +6553,10 @@ OTG отключается автоматически через 10 минут �
     <string name="paper_mode_customize_time_summary">Автоматически включать режим чтения в заданное время</string>
     <string name="paper_mode_customize_time_title">В заданное время</string>
     <string name="paper_mode_end_time_title">Окончание</string>
-    <string name="paper_mode_get_location_dlg_msg">Для расчета времени закатов и восходов необходим доступ к вашему местоположению.</string>
+    <string name="paper_mode_get_location_dlg_msg">Чтобы определять время заката и рассвета, требуется доступ к геоданным.</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">Отмена</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">Настройки</string>
-    <string name="paper_mode_get_location_dlg_title">Доступ к местоположению</string>
+    <string name="paper_mode_get_location_dlg_title">Доступ к геоданным</string>
     <string name="paper_mode_reset">Сброс</string>
     <string name="paper_mode_side_effect_hint">Повышение уровня может повлиять на качество изображения</string>
     <string name="paper_mode_start_time_title">Начало</string>
@@ -7155,7 +7155,7 @@ UT-интерфейс: %5$s"</string>
     <string name="recent_convo_removed">Диалог удален</string>
     <string name="recent_convos_removed">Недавние диалоги удалены</string>
     <string name="recent_location_requests_summary">Управление разрешениями приложений</string>
-    <string name="recent_location_requests_title">Доступ к местоположению</string>
+    <string name="recent_location_requests_title">Доступ к геоданным</string>
     <string name="recent_notifications">Недавно отправленные</string>
     <string name="recent_notifications_see_all_title">За последние 7 дней</string>
     <string name="recently_installed_app">Вы недавно установили это приложение.</string>
@@ -7710,7 +7710,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_font">Системный шрифт;Шрифт;Шрифты;Размеры шрифта;Размер шрифта</string>
     <string name="search_force_touch">3D Touch</string>
     <string name="search_gesture_wakeup_title">Включать экран двойным касанием;пробуждать двойным касанием;включать экран;двойное касание экрана;двойное касание;двойное нажатие на экран;двойное нажатие</string>
-    <string name="search_gps">GPS;Доступ к местоположению;Сервисы местоположения</string>
+    <string name="search_gps">GPS;Доступ к геоданным;Геолокация;Службы геолокации;Местоположение</string>
     <string name="search_handy_mode">Управление одной рукой;Управление одной рукой;Режим одной руки;Одна рука</string>
     <string name="search_hint">Поиск настроек</string>
     <string name="search_home_key">Домой;Кнопка домой;Клавиша домой</string>
@@ -8567,7 +8567,7 @@ UT-интерфейс: %5$s"</string>
 Для отметки контактов как экстренных.
 • Отправка SMS
 Для отправки текстовых сообщений экстренным контактам.
-• Доступ к местоположению
+• Доступ к геоданным
 Для отправки вашего местоположения экстренным контактам.
 Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренный вызов\" или не использовать ее.
 Перед использованием прочитайте и примите наши %s."</string>
@@ -8961,7 +8961,7 @@ UT-интерфейс: %5$s"</string>
     <string name="stylus_connect_fail">Не удалось подключить. Повторите сопряжение.</string>
     <string name="stylus_connect_fail_no_battery">Зарядите стилус</string>
     <string name="stylus_connect_fail_no_reason">Не удалось подключить</string>
-    <string name="stylus_connect_fail_not_open_gps">Не удалось подключить. Включите службы местоположения и повторите попытку.</string>
+    <string name="stylus_connect_fail_not_open_gps">Не удалось подключить. Включите геолокацию и повторите попытку.</string>
     <string name="stylus_connecting">Подключение…</string>
     <string name="stylus_ota_check_failed_battery">Не удалось проверить. Батарея стилуса разряжена.</string>
     <string name="stylus_ota_check_failed_info">Не удалось проверить версию прошивки. Подключите стилус.</string>
@@ -9384,8 +9384,8 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_on_torch">Фонарик</string>
     <string name="turn_on_wifi">Включить Wi-Fi</string>
     <string name="turn_update_keyguard_password_wait_dialog">Изменение пароля…</string>
-    <string name="twilight_mode_launch_location">Настройки местоположения</string>
-    <string name="twilight_mode_location_off_dialog_message">Информация о местоположении устройства необходима для определения времени заката и восхода.</string>
+    <string name="twilight_mode_launch_location">Доступ к геоданным</string>
+    <string name="twilight_mode_location_off_dialog_message">Чтобы определять время заката и рассвета, требуется доступ к геоданным.</string>
     <string name="twohours">1 час</string>
     <string name="tx_link_speed">%1$d Мбит/с</string>
     <string name="tx_link_speed_label">Скорость передачи:</string>
@@ -9718,7 +9718,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_use_power_only">Подача питания</string>
     <string name="usb_use_tethering">USB модем</string>
     <string name="use_control_panel">Центр управления</string>
-    <string name="use_location_summary">Разрешить Google использовать доступ к местоположению для улучшения поиска и работы других служб</string>
+    <string name="use_location_summary">Разрешить Google использовать геоданные для улучшения поиска и работы других служб</string>
     <string name="use_location_title">Учитывать при поиске</string>
     <string name="use_open_wifi_automatically_summary">Автоматически подключаться к общедоступным сетям с хорошим сигналом</string>
     <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">Выберите поддерживаемый источник рейтинга сетей</string>
@@ -10741,12 +10741,12 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>
     <string name="wifi_wakeup">Включать Wi-Fi автоматически</string>
-    <string name="wifi_wakeup_location_summary">Включите службу определения местоположения для использования этой функции.</string>
+    <string name="wifi_wakeup_location_summary">Включите геолокацию для использования этой функции.</string>
     <string name="wifi_wakeup_negative_button">Отмена</string>
     <string name="wifi_wakeup_positive_button">Включить</string>
     <string name="wifi_wakeup_scan_summary">Разрешить приложениям и службам поиск сетей Wi-Fi для возможности их автоматического включения. Включение этой функции позволит устройству автоматически подключаться к сохраненным сетям поблизости.</string>
     <string name="wifi_wakeup_summary">Включать Wi-Fi в зоне действия сохраненных сетей (например, домашней) с хорошим сигналом</string>
-    <string name="wifi_wakeup_summary_no_location">Недоступно, поскольку доступ к местоположению запрещен. <annotation id="link">Включите его</annotation>.</string>
+    <string name="wifi_wakeup_summary_no_location">Недоступно, поскольку доступ к геоданным запрещен. <annotation id="link">Включите его</annotation>.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">Недоступно, так как поиск сетей Wi-Fi отключен</string>
     <string name="wifi_wakeup_summary_scoring_disabled">Выберите источник рейтинга сетей</string>
     <string name="wifi_wakeup_title">Дополнительные функции</string>

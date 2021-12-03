@@ -162,7 +162,7 @@
     <string name="corpus_label_global">Все</string>
     <string name="corpus_label_web">Интернет</string>
     <string name="corpus_selection_heading">Поиск</string>
-    <string name="cta_declaration">Приложению Поиск для нормальной работы требуется подключение к интернету, доступ к местоположению и контактам.</string>
+    <string name="cta_declaration">Приложению Поиск для нормальной работы требуется подключение к интернету, доступ к геоданным и контактам.</string>
     <string name="cta_declaration_ignore">Больше не показывать</string>
     <string name="cta_declaration_negative_text">Выход</string>
     <string name="cta_declaration_positive_text">Разрешить</string>
@@ -245,7 +245,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
-    <string name="geolocation_permissions_prompt_message">%s запрашивает доступ к местоположению</string>
+    <string name="geolocation_permissions_prompt_message">%s запрашивает доступ к геоданным</string>
     <string name="geolocation_permissions_prompt_remember">Запомнить выбор</string>
     <string name="geolocation_permissions_prompt_share">Разрешить</string>
     <string name="google_app_label">Поиск Google</string>

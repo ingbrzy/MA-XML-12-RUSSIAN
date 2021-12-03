@@ -265,13 +265,13 @@
         <item quantity="other">Только что</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
-        <item quantity="other">%1$d из %2$d приложений имеют доступ к местоположению</item>
-        <item quantity="one">%1$d из %2$d приложений имеют доступ к местоположению</item>
+        <item quantity="other">Приложения с доступом к геоданным: %1$d из %2$d</item>
+        <item quantity="one">Приложения с доступом к геоданным: %1$d из %2$d</item>
     </plurals>
     <plurals name="location_settings_summary_location_on">
-        <item quantity="other">Вкл. - %1$d приложений имеют доступ к местоположению</item>
-        <item quantity="one">Вкл. - %1$d приложение имеет доступ к местоположению</item>
-        <item quantity="few">Вкл. - %1$d приложения имеют доступ к местоположению</item>
+        <item quantity="other">Вкл. - %1$d приложений с доступом к геоданным</item>
+        <item quantity="one">Вкл. - %1$d приложение с доступом к геоданным</item>
+        <item quantity="few">Вкл. - %1$d приложения с доступом к геоданным</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Используйте как минимум %d букв</item>
@@ -299,9 +299,9 @@
         <item quantity="few">Используйте как минимум %d цифры</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Используйте как минимум %d специальных символов</item>
-        <item quantity="one">Используйте как минимум %d специальный символ</item>
-        <item quantity="few">Используйте как минимум %d специальных символа</item>
+        <item quantity="other">Используйте как минимум %d спецсимволов</item>
+        <item quantity="one">Используйте как минимум %d спецсимвол</item>
+        <item quantity="few">Используйте как минимум %d спецсимвола</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">Используйте как минимум %d заглавных букв</item>
