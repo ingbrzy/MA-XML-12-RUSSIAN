@@ -1695,8 +1695,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="passport_unknow_error">Неизвестная ошибка</string>
     <string name="passport_unknow_host_network_error">Проверьте настройки сети и повторите попытку</string>
     <string name="passport_unknow_network_error">Ошибка сети</string>
-    <string name="passport_user_agreement_link">&lt;Data>Я прочитал и согласен с &lt;a href=%1$s>Условиями использования&lt;/a> и &lt;a href=%2$s>Политикой конфиденциальности&lt;/a> Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>Я прочитал и согласен с условиями следующих документов: &lt;a href=%1$s>Условия использования&lt;/a> и &lt;a href=%4$s>Политика конфиденциальности&lt;/a> Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Условия использования&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Условия использования&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%2$s\">%3$s&lt;/a> Xiaomi.&lt;/Data></string>
     <string name="passport_user_id_intro">Введите пароль для %1$s</string>
     <string name="passport_v_code_error">Неверный код подтверждения</string>
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
