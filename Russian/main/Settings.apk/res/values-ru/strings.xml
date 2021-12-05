@@ -879,6 +879,7 @@
     <string name="auto_clean_summary">Воспроизведение 30-секундного аудиофайла для очистки динамика</string>
     <string name="auto_clean_title">Очистка динамика</string>
     <string name="auto_connect_disable">Автоподключение отключено</string>
+    <string name="auto_disable_broadcast_audio">Отключать при отсутствии трансляции</string>
     <string name="auto_disable_screenbuttons_ask">Спрашивать</string>
     <string name="auto_disable_screenbuttons_auto">Всегда отключать</string>
     <string name="auto_disable_screenbuttons_cancel">Отмена</string>
@@ -916,6 +917,7 @@
     <string name="auto_sync_account_title">Автосинхронизация данных</string>
     <string name="auto_sync_personal_account_title">Автоматическая синхронизация личных данных</string>
     <string name="auto_sync_work_account_title">Автоматическая синхронизация корпоративных данных</string>
+    <string name="auto_task_operation_close">Закрыть</string>
     <string name="autofill_app">Автозаполнение</string>
     <string name="autofill_confirmation_message">&lt;b>Убедитесь, что это приложение безопасно&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> анализирует содержимое экрана и находит поля, которые можно заполнить автоматически.</string>
     <string name="autofill_keywords">автоматически, заполнять, автозаполнение</string>
@@ -1453,6 +1455,8 @@
     <string name="bluetooth_enable_inband_ringing">Рингтоны по Bluetooth</string>
     <string name="bluetooth_enable_page_scan">Сканирование страниц Bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">Отключение/включение сканирования страниц для проверки Bluetooth</string>
+    <string name="bluetooth_enable_pts_test">Тест PTS Bluetooth</string>
+    <string name="bluetooth_enable_pts_test_summary">Отключение/включение тестирования PTS Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Введите код сопряжения</string>
     <string name="bluetooth_enter_passkey_other_device">Возможно, потребуется ввести ключ доступа на другом устройстве.</string>
     <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
@@ -3351,6 +3355,7 @@
     <string name="enterprise_privacy_settings_summary_with_name">Изменения и настройки, управляемые организацией \"%s\"</string>
     <string name="enterprise_privacy_usage_stats">Время работы и израсходованный трафик для каждого приложения</string>
     <string name="enterprise_privacy_wipe_device">Администратор может удалить все данные с устройства</string>
+    <string name="environmental_speech_recognition">Распознавание окружающего звука</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="erase_application">Удалить приложения</string>
@@ -5386,6 +5391,7 @@
     <string name="menu_duration_3h">3 часа</string>
     <string name="menu_duration_6h">6 часов</string>
     <string name="menu_hide_system">Скрыть системные процессы</string>
+    <string name="menu_item_notification_power_text">Оптимизация батареи</string>
     <string name="menu_key">Кнопка \"Меню\"</string>
     <string name="menu_new">Новая точка доступа</string>
     <string name="menu_proc_stats_duration">Период</string>
@@ -6454,6 +6460,7 @@ OTG отключается автоматически через 10 минут �
     <string name="owner_info_settings_summary">Нет текста</string>
     <string name="owner_info_settings_title">Подпись на экране блокировки</string>
     <string name="owner_space">Первое пространство</string>
+    <string name="p2p_summary_enable_GPS">Эта функция работает, когда включена геолокация</string>
     <string name="packages_subtitle">Пакеты</string>
     <string name="pad_backup_summary">Резервное копирование и восстановление на этом устройстве</string>
     <string name="pad_backup_title">Мобильное устройство</string>
@@ -7564,7 +7571,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_resolution_ultrahigh_format">Сверхвысокое (%1$s)</string>
     <string name="screen_saturation">Насыщенность</string>
     <string name="screen_saver_main_switch_title">Использовать заставку</string>
-    <string name="screen_shot">Снимок экрана</string>
+    <string name="screen_shot">Скриншот</string>
     <string name="screen_timeout">Спящий режим</string>
     <string name="screen_timeout_subtitle">Отображение статичного содержимого в течение длительного периода может привести к неравномерному отображению цвета</string>
     <string name="screen_timeout_summary">После %1$s бездействия</string>
@@ -8618,12 +8625,14 @@ UT-интерфейс: %5$s"</string>
     <string name="special_preview">Демонстрация</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
-    <string name="speed_label_okay">ОК</string>
+    <string name="speed_label_okay">OK</string>
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
     <string name="speed_mode">Скоростной режим</string>
-    <string name="speed_mode_summary">Для отладки приложений</string>
+    <string name="speed_mode_noti_summary">Включение скоростного режима увеличит расход заряда и нагрев.</string>
+    <string name="speed_mode_noti_title">Скоростной режим</string>
+    <string name="speed_mode_summary">Максимальная производительность. Расход заряда и нагрев увеличатся, используйте с осторожностью.</string>
     <string name="spell_checker_master_switch_title">Включить проверку орфографии</string>
     <string name="spell_checker_not_selected">Не выбрано</string>
     <string name="spell_checker_primary_switch_title">Включить проверку правописания</string>

@@ -113,7 +113,7 @@
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
     <string name="auto_interval">При разблокировке</string>
     <string name="back_icon_content_description">Назад</string>
-    <string name="bind_sign_in_title">Привязать к Mi Аккаунт</string>
+    <string name="bind_sign_in_title">Привязать к Mi Аккаунту</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_button">Да</string>
     <string name="cancel_international">Отмена</string>
@@ -379,6 +379,10 @@ ID:%s
     <string name="lockscreen_magazine_summary">Выберите категорию</string>
     <string name="lockscreen_magazine_system_title">По умолчанию</string>
     <string name="lockscreen_magazine_title">Карусель обоев</string>
+    <string name="login_app">Вход</string>
+    <string name="login_app_cancel">Отмена</string>
+    <string name="login_app_confirm">Войти</string>
+    <string name="login_xiaomi_account_summary">Я принимаю &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Пользовательское соглашение&lt;/font>&lt;/a> и &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Политику конфиденциальности&lt;/font>&lt;/a> Mi Аккаунта.</string>
     <string name="logout">Выход</string>
     <string name="logout_account">Выйти из аккаунта</string>
     <string name="logout_cancel">Отмена</string>
@@ -526,6 +530,7 @@ mm"</string>
     <string name="no_phone">Нет номера телефона</string>
     <string name="no_pic_data">Не удалось найти изображения</string>
     <string name="noon">Полдень</string>
+    <string name="not_agree_summary">Сначала примите наши условия и положения</string>
     <string name="not_allowed">Не предоставлено</string>
     <string name="not_cancel_button">Нет</string>
     <string name="not_revoke_button">Отмена</string>
@@ -646,7 +651,7 @@ mm"</string>
     <string name="permission_storage_read_tip">Доступ к фотографиям на устройстве</string>
     <string name="permission_storage_tip">Сохранение файлов на устройстве</string>
     <string name="personalized">Персонализация</string>
-    <string name="phone_bind_too_many">Этот телефон был связан с несколькими учетными записями Mi Аккаунт за короткий период времени. Попробуйте использовать другой номер телефона.</string>
+    <string name="phone_bind_too_many">Этот телефон был связан с несколькими учетными записями Mi Аккаунта за короткий период времени. Попробуйте использовать другой номер телефона.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="phone_number">Номер телефона</string>
@@ -664,7 +669,9 @@ mm"</string>
     <string name="privacy_update_quit">Выход</string>
     <string name="privacy_update_summary1">Политика конфиденциальности Карусели обоев обновлена:</string>
     <string name="privacy_update_summary2">Прежде чем продолжить, прочтите и примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a>."</string>
-    <string name="privacy_update_summary3">"Вы не сможете использовать Карусель обоев, если не примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?"</string>
+    <string name="privacy_update_summary3">Вы не сможете использовать Карусель обоев, если не примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?</string>
+    <string name="privacy_update_title1">Обновленная политика конфиденциальности</string>
+    <string name="privacy_update_title2">Внимание</string>
     <string name="prv_end">Больше ничего нет</string>
     <string name="prv_loading">Подождите…</string>
     <string name="prv_nodata">Нет данных</string>
@@ -763,7 +770,7 @@ mm"</string>
     <string name="show_wallpaper_loop_entry_title">Настройки слайд-шоу</string>
     <string name="sign_in">Войти</string>
     <string name="sign_in_progress">Вход…</string>
-    <string name="sign_in_title">Войти с помощью Mi Аккаунт</string>
+    <string name="sign_in_title">Войти с помощью Mi Аккаунта</string>
     <string name="sliding_on_unlock">Свайп вверх для разблокировки</string>
     <string name="sms_send_success">Успешно отправлено</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>

@@ -438,11 +438,11 @@
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин %2$d с</string>
     <string name="callrecordview_item_op_time_missed">Нет ответа</string>
-    <string name="callrecordview_item_op_time_only_minutes">%d мин</string>
-    <string name="callrecordview_item_op_time_only_seconds">%d с</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
+    <string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
     <string name="callrecordview_item_op_time_rejected">Отклонен</string>
-    <string name="callrecordview_item_op_time_short_incoming">"Входящий | "</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"Исходящий | "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"входящий: "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"исходящий: "</string>
     <string name="callrecordview_item_op_video">Видео</string>
     <string name="callrecordview_menu_add_call_note">Добавить заметку</string>
     <string name="callrecordview_menu_aiphone">AI вызовы</string>
@@ -527,6 +527,7 @@
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
+    <string name="comma">Запятая</string>
     <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
     <string name="composer_has_no_exportable_contact">Нет контактов для экспорта. Некоторые поставщики данных могут не разрешать экспорт контактов с устройства.</string>
     <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
@@ -996,6 +997,7 @@
     <string name="insertContactDescription">Создать контакт</string>
     <string name="insertGroupDescription">Создать группу</string>
     <string name="invalidContactMessage">Контакт не существует</string>
+    <string name="item_offical">Официальный</string>
     <string name="keep_local">Сохранить локально</string>
     <string name="keep_local_btn">Во внутреннюю память</string>
     <string name="label_custom_type">Особый</string>

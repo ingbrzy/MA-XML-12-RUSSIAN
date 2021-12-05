@@ -65,10 +65,13 @@
     <string name="garbage_count">Присутствуют старые экземпляры: %1$s</string>
     <string name="long_screenshot_guide_text">"Нажмите для создания
 скриншота с прокруткой"</string>
+    <string name="long_screenshot_intercepted_error">Не удалось сделать скриншот. Попробуйте снова.</string>
     <string name="long_screenshot_out_of_memory_error">Изображение слишком большое</string>
     <string name="long_screenshot_processing">Обработка…</string>
+    <string name="long_screenshot_processing_description_accessibility">Обработка</string>
     <string name="long_screenshot_stop">Готово</string>
     <string name="long_screenshot_top_msg">Создание скриншота…</string>
+    <string name="long_screenshot_top_msg_description_accessibility">Создание скриншота</string>
     <string name="long_screenshot_top_msg_manual">Обрежьте скриншот и нажмите кнопку для завершения</string>
     <string name="memory_leak">Утечка памяти</string>
     <string name="midnight">Ночь</string>

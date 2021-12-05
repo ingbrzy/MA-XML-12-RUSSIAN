@@ -1604,6 +1604,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exo_download_notification_channel_name">Загрузки</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_player_time_seperate">/</string>
     <string name="exo_track_mono">Моно</string>
     <string name="exo_track_role_alternate">Альтернативный</string>
     <string name="exo_track_role_closed_captions">Субтитры</string>
@@ -3400,6 +3401,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_optimize_save_on_lockscreen">Экономить заряд при блокировке</string>
     <string name="power_optimize_set_lockscreen_time_holder">Заблокировать устройство после %d сек. бездействия</string>
     <string name="power_phone">Голосовые вызовы</string>
+    <string name="power_rank_surface_flinger">Рендеринг</string>
+    <string name="power_rank_system">Система Android</string>
     <string name="power_recovery_mode">Восстановлен \"%1$s\"</string>
     <string name="power_save_choose_mode">Режим</string>
     <string name="power_save_choose_recovery_mode">Режим</string>
@@ -4782,6 +4785,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sys_freememory_title">Память</string>
     <string name="sys_title_gamebooster_unit_gb">" ГБ"</string>
     <string name="sys_title_gamebooster_unit_mb">" МБ"</string>
+    <string name="system_anti_fraud_dialog_confirm_btn_txt">Понятно</string>
+    <string name="system_anti_fraud_dialog_content">Вероятно, это мошеннический звонок или сообщение. Выполнение данного платежа может привести к финансовым потерям.</string>
+    <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Если сотрудники службы поддержки, представители власти или люди, которых вы можете знать, просят вас завершить этот платеж, &lt;/font>&lt;font = color=#F22424>проверьте их личность, прежде чем продолжить.&lt;/font></string>
+    <string name="system_anti_fraud_dialog_image_txt">Защита от мошенничества</string>
+    <string name="system_anti_fraud_dialog_title">Предупреждение о мошенничестве</string>
     <string name="system_app">Системные приложения</string>
     <string name="system_app_permission_instruction">Этому приложению необходимы определенные разрешения для обеспечения основных системных сервисов. Управление разрешениями для этого приложения ограничено, так как изменение разрешений приведет к сбоям в работе системы.</string>
     <string name="system_application">Системное приложение</string>

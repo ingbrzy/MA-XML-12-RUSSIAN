@@ -29,6 +29,15 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
     </plurals>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">%1$d приложений на этом устройстве можно обновить с 32-разрядной до 64-разрядной архитектуры, для повышения производительности.</item>
+        <item quantity="one">%1$d приложение на этом устройстве можно обновить с 32-разрядной до 64-разрядной архитектуры, для повышения производительности.</item>
+        <item quantity="few">%1$d приложения на этом устройстве можно обновить с 32-разрядной до 64-разрядной архитектуры, для повышения производительности.</item>
+    </plurals>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">Доступна 64-разрядная версия для %1$d приложений</item>
+        <item quantity="one">Доступна 64-разрядная версия для %1$d приложения</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d элементов</item>
         <item quantity="one">%d элемент</item>
