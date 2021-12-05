@@ -114,8 +114,8 @@
     <string name="location_enable_later">Позже</string>
     <string name="location_enabled">Геолокация включена</string>
     <string name="location_north">ШИРОТА (С)</string>
-    <string name="location_not_enabled_summary">Приложению Компас требуется разрешение на использование геолокации для отображения координат и высоты.</string>
-    <string name="location_not_enabled_summary_no_pressure_sensor">Приложению Компас требуется разрешение на использование геолокации для отображения ваших текущих координат.</string>
+    <string name="location_not_enabled_summary">Приложению Компас требуется разрешение использовать геолокацию для отображения координат и высоты.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">Приложению Компас требуется разрешение использовать геолокацию для отображения ваших текущих координат.</string>
     <string name="location_not_enabled_title">Геолокация</string>
     <string name="location_south">ШИРОТА (Ю)</string>
     <string name="location_west">ДОЛГОТА (З)</string>
@@ -197,8 +197,8 @@
     <string name="not_allowed">Не предоставлено</string>
     <string name="not_set">Не задано</string>
     <string name="open_camera">Разрешить</string>
-    <string name="open_perm_msg">Приложению Компас требуется разрешение на использование геолокации и доступ камере. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
-    <string name="open_perm_msg_no_camera">Приложению Компас требуется разрешение на использование геолокации для определения координат. Разрешить?</string>
+    <string name="open_perm_msg">Приложению Компас требуется разрешение использовать геолокацию и камеру. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
+    <string name="open_perm_msg_no_camera">Приложению Компас требуется разрешение использовать геолокацию для определения координат. Разрешить?</string>
     <string name="open_perm_title">Требуются разрешения</string>
     <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">Использование в качестве уровня</string>

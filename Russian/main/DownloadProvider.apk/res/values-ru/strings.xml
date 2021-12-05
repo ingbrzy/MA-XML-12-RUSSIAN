@@ -54,8 +54,8 @@
     <string name="dialog_data_limit_msg1">Для загрузки этого файла будет использовано %s мобильного трафика. Продолжить?</string>
     <string name="dialog_data_limit_msg3">Изменить лимит</string>
     <string name="dialog_data_limit_title">Предупреждение о трафике</string>
-    <string name="dialog_insufficient_space_on_cache">Недостаточно места во внутренней памяти</string>
-    <string name="dialog_insufficient_space_on_external">Недостаточно места на внешней памяти</string>
+    <string name="dialog_insufficient_space_on_cache">Недостаточно места в хранилище</string>
+    <string name="dialog_insufficient_space_on_external">Недостаточно места на внешнем накопителе</string>
     <string name="dialog_not_show_again">Больше не показывать</string>
     <string name="dialog_tip_limit">Предупреждать при загрузке больше %s</string>
     <string name="dialog_tip_limit0">Предупреждать каждый раз</string>
@@ -73,7 +73,7 @@
     <string name="download_running">Загружается</string>
     <string name="download_unknown_title">&lt;Без названия&gt;</string>
     <string name="early_morning">Утро</string>
-    <string name="enter_garbage_clean">Очистка внутренней памяти</string>
+    <string name="enter_garbage_clean">Очистка хранилища</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>

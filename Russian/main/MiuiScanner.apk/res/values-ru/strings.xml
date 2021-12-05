@@ -42,7 +42,7 @@
     <string name="address">Адрес: </string>
     <string name="adjustment_area">Настроить</string>
     <string name="afternoon">После полудня</string>
-    <string name="agree_app_use">Сканирование QR-кодов и изображений (для некоторых функций может потребоваться разрешение на использование геолокации)</string>
+    <string name="agree_app_use">Сканирование QR-кодов и изображений (для некоторых функций может потребоваться разрешение использовать геолокацию)</string>
     <string name="agree_audio_permission">Для записи аудио</string>
     <string name="agree_btn">Принимаю</string>
     <string name="agree_camera_permission">Для съемки фото и записи видео</string>
@@ -455,7 +455,7 @@
     <string name="no_inner_version">Бета-версия недоступна</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="no_one_phone">Введите правильный номер телефона</string>
-    <string name="no_storage">Внутренняя память не найдена</string>
+    <string name="no_storage">Хранилище недоступно</string>
     <string name="no_support_to_translate_type">Этот язык не поддерживается</string>
     <string name="noon">Полдень</string>
     <string name="not_insert_contact">Не удалось добавить контакт</string>
@@ -483,7 +483,7 @@
     <string name="phone">"Телефон: "</string>
     <string name="phone_can_not_be_empty">Номер телефона не может быть пустым</string>
     <string name="phone_number">Номер телефона</string>
-    <string name="phone_storage">Внутренняя память</string>
+    <string name="phone_storage">Хранилище</string>
     <string name="picture">Галерея</string>
     <string name="picture_all_audio">Все аудио</string>
     <string name="picture_audio">Доступ к микрофону запрещен</string>
@@ -564,7 +564,7 @@
     <string name="pref_camera_jpeg_quality_normal">нормальное</string>
     <string name="pref_camera_jpeg_quality_superfine">сверхчеткое</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
-    <string name="preparing_sd">Подготовка внутренней памяти…</string>
+    <string name="preparing_sd">Подготовка…</string>
     <string name="previous">Назад</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_policy_update">Обновленная Политика конфиденциальности</string>
@@ -661,7 +661,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
-    <string name="spaceIsLow_content">Недостаточно места во внутренней памяти. Освободите место.</string>
+    <string name="spaceIsLow_content">Недостаточно места в хранилище. Освободите место.</string>
     <string name="store_feedback_prompt">Напишите отзыв</string>
     <string name="store_location_dialog">Сервис предоставляется Dianping. Все фотографии, сделанные вами во время использования этого сервиса, включая информацию о местоположении, будут переданы в Dianping для получения информации о магазинах.</string>
     <string name="store_location_fail">Не удалось получить информацию о местоположении</string>
@@ -802,7 +802,7 @@
     <string name="web_url">URL</string>
     <string name="website_details">Информация о сайте:</string>
     <string name="wechat_scan_code">Сканер WeChat</string>
-    <string name="wechatcode_auto_processing_function_requires_permissions">Функции автоматической обработки кода WeChat требуется доступ к камере и памяти</string>
+    <string name="wechatcode_auto_processing_function_requires_permissions">Функции автоматической обработки кода WeChat требуется доступ к камере и хранилищу</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

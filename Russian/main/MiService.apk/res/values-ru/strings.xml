@@ -116,7 +116,7 @@
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">Вы подключены к платной сети. Отправка журналов может вызвать дополнительные затраты.</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_title">Предупреждение о трафике</string>
     <string name="miui_feedback_edit_need_phone_state_permission">Разрешите приложению доступ к информации об устройстве для считывания IMEI в целях выявления проблем. Нажмите \"ОК\", чтобы открыть Настройки.</string>
-    <string name="miui_feedback_edit_need_storage_permission">Разрешите приложению доступ к памяти устройства для прикрепления изображений и видео к вашим отзывам. Нажмите \"OK\", чтобы открыть Настройки.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Разрешите приложению доступ к хранилищу для прикрепления изображений и видео к вашим отзывам. Нажмите \"OK\", чтобы открыть Настройки.</string>
     <string name="miui_feedback_edit_permission_denied_title">Ограниченные разрешения: %1$s</string>
     <string name="miui_feedback_edit_phone_state_permission_name">Доступ к информации об устройстве</string>
     <string name="miui_feedback_edit_reproductivity_everytime">Каждый раз</string>
@@ -137,7 +137,7 @@
     <string name="miui_feedback_edit_select_upload_log">Добавить журналы</string>
     <string name="miui_feedback_edit_select_upload_log_not_select_desc">Не выбрано \"Добавить журналы\"</string>
     <string name="miui_feedback_edit_select_upload_log_select_desc">Выбрано \"Добавить журналы\"</string>
-    <string name="miui_feedback_edit_storage_permission_name">Доступ к памяти устройства</string>
+    <string name="miui_feedback_edit_storage_permission_name">Доступ к хранилищу</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">Отмена</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Принимаю</string>
     <string name="miui_feedback_edit_submit_dialog_content">Нажав \"Принимаю\", вы соглашаетесь с Политикой конфиденциальности и Пользовательским соглашением. Информация о проблемах, включая вложения (могут содержать личные данные, информацию об устройстве и сети), будет отправлена на серверы MIUI. Это поможет нам найти решение этих проблем.</string>
@@ -325,7 +325,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_region_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="permission_select_all">Выбрать все</string>
-    <string name="permission_storage">Память</string>
+    <string name="permission_storage">Хранилище</string>
     <string name="permission_storage_introduce">Для сохранения файлов на устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="pm">PM</string>

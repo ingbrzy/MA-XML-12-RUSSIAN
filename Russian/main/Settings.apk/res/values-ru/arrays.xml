@@ -197,7 +197,7 @@
         <item>громкость Bluetooth-устройств</item>
         <item>не отключать</item>
         <item>Отслеживать местоположение</item>
-        <item>контролировать использование энергии при определении местоположения</item>
+        <item>контролировать использование заряда при геолокации</item>
         <item>посмотреть статистику использования</item>
         <item>включить/отключить микрофон</item>
         <item>показ оповещения</item>
@@ -1154,7 +1154,7 @@
         <item>GSM/WCDMA предпочтительно</item>
     </string-array>	
     <string-array name="priority_storage_entries">
-        <item>Внутренняя память</item>
+        <item>Хранилище</item>
         <item>Внешний накопитель</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">

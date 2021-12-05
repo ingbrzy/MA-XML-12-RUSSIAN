@@ -50,11 +50,11 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activity_alert_detail_title" />
     <string name="activity_find_city_dialog_cancel">Отмена</string>
-    <string name="activity_find_city_dialog_message">Разрешите Погоде доступ к геоданным для получения актуальной информации о погоде.</string>
-    <string name="activity_find_city_dialog_message_global">Разрешите Погоде доступ к геоданным и режим высокой точности для получения актуальной информации о погоде.</string>
-    <string name="activity_find_city_dialog_message_location_service">Разрешите приложению доступ к геоданным для получения актуальной информации о погоде.</string>
+    <string name="activity_find_city_dialog_message">Разрешите Погоде использовать геолокацию для получения актуальной информации о погоде.</string>
+    <string name="activity_find_city_dialog_message_global">Разрешите Погоде использовать геолокацию и режим высокой точности для получения актуальной информации о погоде.</string>
+    <string name="activity_find_city_dialog_message_location_service">Разрешите приложению использовать геолокацию для получения актуальной информации о погоде.</string>
     <string name="activity_find_city_dialog_set">Настройки</string>
-    <string name="activity_find_city_dialog_title">Доступ к геоданным</string>
+    <string name="activity_find_city_dialog_title">Использование геолокации</string>
     <string name="activity_main_clickable">&gt;</string>
     <string name="activity_main_one_alert" />
     <string name="activity_main_pub_time">Опубликовано в %1$s</string>
@@ -415,7 +415,7 @@
     <string name="permission_exit">Выход</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_select_all">Выбрать все</string>
-    <string name="permission_storage">Память</string>
+    <string name="permission_storage">Хранилище</string>
     <string name="permission_storage_introduce">Для доступа к файлам на устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="policy_settings">Условия использования</string>

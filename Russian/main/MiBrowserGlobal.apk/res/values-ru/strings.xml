@@ -721,7 +721,7 @@ ID:%s
     <string name="download_more_histories">Предыдущие загрузки</string>
     <string name="download_noSize">Неизвестный размер</string>
     <string name="download_no_application_title">Файл не найден, возможно, он был перемещен или удален.</string>
-    <string name="download_no_memory">Ошибка загрузки. Недостаточно памяти.</string>
+    <string name="download_no_memory">Ошибка загрузки. Недостаточно места.</string>
     <string name="download_no_sdcard_dlg_msg">Нужна SD-карта для загрузки %s.</string>
     <string name="download_no_sdcard_dlg_title">Нет SD-карты</string>
     <string name="download_no_space_alert_clean">Очистить</string>
@@ -938,11 +938,11 @@ ID:%s
     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к информации о вашем местоположении. Для изменения перейдите в Настройки.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к информации о вашем местоположении</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
-    <string name="geolocation_settings_page_dialog_message">Запретить этому сайту доступ к геоданным?</string>
+    <string name="geolocation_settings_page_dialog_message">Запретить этому сайту использовать геолокацию?</string>
     <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
     <string name="geolocation_settings_page_summary_allowed">У этого сайта есть доступ к информации о вашем местоположении</string>
     <string name="geolocation_settings_page_summary_not_allowed">У этого сайта нет доступа к информации о вашем местоположении</string>
-    <string name="geolocation_settings_page_title">Запретить доступ к геоданным</string>
+    <string name="geolocation_settings_page_title">Запрет геолокации</string>
     <string name="get_back_pwd">Выполняется сброс пароля</string>
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
@@ -1553,7 +1553,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="no_content">Контент ещё не появился</string>
     <string name="no_file">Пусто</string>
     <string name="no_items">Больше нет объектов</string>
-    <string name="no_memory_space">недостаточно памяти</string>
+    <string name="no_memory_space">недостаточно места</string>
     <string name="no_more_games">Больше нет игр</string>
     <string name="no_network">Проверьте подключение и повторите попытку.</string>
     <string name="no_phone">Нет номера телефона</string>
@@ -1730,17 +1730,17 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="permission_for_mic">Голосовой поиск</string>
     <string name="permission_for_storage">Выполнение загрузок</string>
     <string name="permission_known">Понятно</string>
-    <string name="permission_location">Местоположение</string>
+    <string name="permission_location">Геолокация</string>
     <string name="permission_mic">Микрофон</string>
     <string name="permission_non_essential">Дополнительные разрешения</string>
     <string name="permission_notification">отправлять уведомления.</string>
     <string name="permission_notification_prompt">Вы можете запретить уведомления для этого сайта в настройках.</string>
     <string name="permission_open_camera">Сначала разрешите Браузеру доступ к камере в Настройках.</string>
-    <string name="permission_open_location">Сначала разрешите Браузеру доступ к вашему местоположению в Настройках.</string>
+    <string name="permission_open_location">Сначала разрешите Браузеру использование геолокации в Настройках.</string>
     <string name="permission_open_mic">Сначала разрешите Браузеру доступ к микрофону в Настройках.</string>
     <string name="permission_open_storage">Сначала разрешите Браузеру доступ к памяти устройства в Настройках.</string>
     <string name="permission_service">Условия использования</string>
-    <string name="permission_storage">Память</string>
+    <string name="permission_storage">Хранилище</string>
     <string name="permission_unknown">Неизвестная опция</string>
     <string name="permission_use">Разрешения</string>
     <string name="permissions_prompt_message">%s хочет</string>
@@ -1879,10 +1879,10 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_privacy_clear_site_settings_dlg">Очистить все настройки сайтов?</string>
     <string name="pref_privacy_clear_site_settings_summary">Очистить все настройки сайтов. Сайты запросят разрешения при следующем посещении.</string>
     <string name="pref_privacy_cookies_title">Файлы cookie</string>
-    <string name="pref_privacy_enable_geolocation">Местоположение</string>
-    <string name="pref_privacy_enable_geolocation_summary">Разрешить браузеру запрашивать доступ к вашему местоположению</string>
+    <string name="pref_privacy_enable_geolocation">Геолокация</string>
+    <string name="pref_privacy_enable_geolocation_summary">Разрешить браузеру использовать геолокацию</string>
     <string name="pref_privacy_formdata_title">Данные форм</string>
-    <string name="pref_privacy_location_title">Доступ к геоданным</string>
+    <string name="pref_privacy_location_title">Использование геолокации</string>
     <string name="pref_privacy_performance_id_instead_by_random_id">Ваш Performance ID будет заменен на новый, созданный случайным образом.</string>
     <string name="pref_privacy_performance_id_is">"Текущий Performance ID: "</string>
     <string name="pref_privacy_performance_id_reset">Сброс Performance ID</string>
@@ -1939,7 +1939,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_site_settings_cookie_summary">Файлы cookie – это файлы, создаваемые посещенными вами сайтами для сохранения данных о ваших предпочтениях. Сторонние файлы cookie создаются сторонними веб-сайтами, которые являются владельцами контента (например, рекламы или изображений), который вы видите на посещаемых вами страницах.</string>
     <string name="pref_site_settings_location">Местоположение</string>
     <string name="pref_site_settings_location_ask">Сайтам потребуется ваше разрешение на доступ к данным о вашем местоположении (рекомендуется)</string>
-    <string name="pref_site_settings_location_permission">Включите разрешение на доступ к данным о местоположении в &lt;font color=\"#247BFF\">Настройках Android&lt;/font>.</string>
+    <string name="pref_site_settings_location_permission">Разрешите использование геолокации в &lt;font color=\"#247BFF\">Настройках Android&lt;/font>.</string>
     <string name="pref_site_settings_mic">Микрофон</string>
     <string name="pref_site_settings_mic_ask">Сайтам потребуется ваше разрешение на доступ к микрофону (рекомендуется)</string>
     <string name="pref_site_settings_mic_ask_permission">Включите разрешение на доступ к микрофону в &lt;font color=\"#247BFF\">Настройках Android&lt;/font>.</string>
@@ -2172,10 +2172,10 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="security_permission_desc_read_phone">Для доступа к IMEI для идентификации устройства</string>
     <string name="security_permission_desc_storage">Для сохранения, выгрузки и загрузки изображений и других файлов</string>
     <string name="security_permission_main_purpose">Просмотр веб-страниц, поиск, чтение книг и новостей, просмотр видео и др.</string>
-    <string name="security_permission_message_location">Приложению требуется доступ к вашему местоположению, чтобы предоставлять услуги на основе местоположения. Если вы не согласны предоставить разрешение, вы не сможете использовать некоторые функции этого приложения; тем не менее, основные функции приложения по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать авторизацию в настройках.</string>
+    <string name="security_permission_message_location">Приложению требуется разрешение использовать геолокацию, чтобы предоставлять услуги на основе местоположения. Если вы не согласны предоставить разрешение, вы не сможете использовать некоторые функции этого приложения; тем не менее, основные функции приложения по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать авторизацию в настройках.</string>
     <string name="security_permission_negative_btn_location">Отмена</string>
     <string name="security_permission_positive_btn_location">Разрешить</string>
-    <string name="security_permission_title_location">Доступ к геоданным</string>
+    <string name="security_permission_title_location">Использование геолокации</string>
     <string name="security_url_confirm_message">Отключение этой функции может создать угрозу безопасности.</string>
     <string name="security_warning">Предупреждение безопасности</string>
     <string name="security_warnings_confirm_message">Отключение этой функции может создать угрозу безопасности.</string>
@@ -2354,7 +2354,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="start_save_page_capture">Сохранение снимка экрана…</string>
     <string name="storage_close">Закрыть</string>
     <string name="storage_info_detail">Доступно: %1$s Всего: %2$s</string>
-    <string name="storage_internal">Внутренняя память</string>
+    <string name="storage_internal">Хранилище</string>
     <string name="storage_open">Открыть</string>
     <string name="storage_permission_request_toast">Для загрузок необходим доступ к хранилищу</string>
     <string name="storage_sd_card">SD-карта</string>

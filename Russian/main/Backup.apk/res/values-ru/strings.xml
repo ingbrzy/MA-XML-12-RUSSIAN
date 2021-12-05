@@ -523,7 +523,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="password_null">Пароль не может быть пустым</string>
     <string name="pause">Пауза</string>
     <string name="perm_camera">Камера</string>
-    <string name="perm_location">Местоположение</string>
+    <string name="perm_location">Геолокация</string>
     <string name="perm_read_call_log">Чтение журнала вызовов</string>
     <string name="perm_read_contacts">Чтение контактов</string>
     <string name="perm_read_phone_state">Чтение статуса телефона</string>
@@ -878,7 +878,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="trans_my_device">Моё устройство</string>
     <string name="trans_native_no_space">"На старом устройстве недостаточно места (доступно %s).
 Освободите место или передайте только важные объекты."</string>
-    <string name="trans_old_phone_low_space_msg">Для упаковки резервных копий требуется дополнительная память. Имеющегося места недостаточно. Освободите место и удалите ненужные файлы через \"Безопасность\" или попытайтесь передать только важные объекты.</string>
+    <string name="trans_old_phone_low_space_msg">Для упаковки резервных копий требуется дополнительное место. Имеющегося места недостаточно. Освободите место и удалите ненужные файлы через \"Безопасность\" или попытайтесь передать только важные объекты.</string>
     <string name="trans_old_phone_low_space_title">Недостаточно места</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">Перезагрузите устройство или проверьте, разрешен ли Mi Mover доступ к &lt;b&gt;Камере&lt;/b&gt;.</string>
@@ -979,7 +979,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 Восстанавливайте только важные объекты."</string>
     <string name="usb_trans_native_no_space">"На устройстве доступно только %s.
 Освободите место или передавайте данные по частям."</string>
-    <string name="usb_trans_old_phone_low_space_msg">Для упаковки резервных копий требуется дополнительная память. Имеющегося места недостаточно. Освободите место и удалите ненужные файлы через \"Безопасность\" или попытайтесь передать только важные объекты.</string>
+    <string name="usb_trans_old_phone_low_space_msg">Для упаковки резервных копий требуется дополнительное место. Имеющегося места недостаточно. Освободите место и удалите ненужные файлы через \"Безопасность\" или попытайтесь передать только важные объекты.</string>
     <string name="usb_trans_old_phone_low_space_title">Недостаточно места</string>
     <string name="usb_trans_select_data_no_space">"На USB накопителе доступно только %s.
 Освободите место или передайте только важные объекты."</string>
@@ -1001,7 +1001,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="wifi_title">Настройки Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
-    <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD-карту.</string>
+    <string name="xiaomi_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
     <string name="xiaomi_router">Mi роутер</string>
     <string name="xiaomi_router_location">Mi роутер %s</string>
     <string name="xiaomi_update_dialog_message">"Доступна версия %1$s

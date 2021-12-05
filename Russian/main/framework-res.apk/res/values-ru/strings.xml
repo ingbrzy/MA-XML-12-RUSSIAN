@@ -1129,7 +1129,7 @@
     <string name="low_internal_storage_view_text">Некоторые функции могут не работать</string>
     <string name="low_internal_storage_view_text_no_boot">Недостаточно свободного места для системы. Освободите не менее 250 МБ дискового пространства и перезапустите устройство.</string>
     <string name="low_internal_storage_view_title">Недостаточно памяти</string>
-    <string name="low_memory">Память телефона заполнена. Удалите какие-нибудь файлы, чтобы освободить место.</string>
+    <string name="low_memory">Хранилище заполнено. Удалите какие-нибудь файлы, чтобы освободить место.</string>
     <string name="managed_profile_label">Перейти в рабочий профиль</string>
     <string name="managed_profile_label_badge">Рабочий %1$s</string>
     <string name="managed_profile_label_badge_2">Задача 2: %1$s</string>
@@ -1430,9 +1430,9 @@
     <string name="perm_costs_money">это может стоить вам денег!</string>
     <string name="permdesc_acceptHandovers">Приложение сможет продолжить вызов, начатый в другом приложении.</string>
     <string name="permdesc_accessBackgroundLocation">Приложение сможет использовать геолокацию в фоновом режиме.</string>
-    <string name="permdesc_accessCoarseLocation">Приложение сможет получать сведения о вашем местоположении от сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геоданные.</string>
+    <string name="permdesc_accessCoarseLocation">Приложение сможет получать сведения о вашем местоположении от сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геолокацию.</string>
     <string name="permdesc_accessDrmCertificates">Приложение сможет синхронизировать и использовать сертификаты DRM (разрешение актуально только для специальных приложений).</string>
-    <string name="permdesc_accessFineLocation">Приложение сможет получать сведения о вашем местоположении от GPS-датчика или сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геоданные. Это может увеличить расход батареи.</string>
+    <string name="permdesc_accessFineLocation">Приложение сможет получать сведения о вашем местоположении от GPS-датчика или сетевых источников, таких как вышки сотовой связи и точки доступа Wi-Fi. Необходимо включить соответствующие параметры на телефоне и разрешить приложению использовать геолокацию. Это может увеличить расход батареи.</string>
     <string name="permdesc_accessImsCallService">Приложение сможет совершать звонки с помощью службы IMS без вашего вмешательства.</string>
     <string name="permdesc_accessLocationExtraCommands">Доступ к дополнительным командам управления источниками геоданных и вмешательство в работу системы GPS или других источников геоданных.</string>
     <string name="permdesc_accessNetworkConditions">Приложение сможет использовать данные о состоянии сети. Это разрешение обычно используется только специальными приложениями.</string>
@@ -1583,19 +1583,19 @@
     <string name="permgrouplab_calllog">Журнал вызовов</string>
     <string name="permgrouplab_camera">Камера</string>
     <string name="permgrouplab_contacts">Контакты</string>
-    <string name="permgrouplab_location">Местоположение</string>
+    <string name="permgrouplab_location">Геолокация</string>
     <string name="permgrouplab_microphone">Микрофон</string>
     <string name="permgrouplab_nearby_devices">Устройства поблизости</string>
     <string name="permgrouplab_phone">Телефон</string>
     <string name="permgrouplab_sensors">Нательные датчики</string>
     <string name="permgrouplab_sms">SMS</string>
-    <string name="permgrouplab_storage">Память</string>
+    <string name="permgrouplab_storage">Хранилище</string>
     <string name="permgrouprequest_activityRecognition">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к данным о физической активности?</string>
     <string name="permgrouprequest_calendar">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к календарю?</string>
     <string name="permgrouprequest_calllog">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к журналу вызовов?</string>
     <string name="permgrouprequest_camera">Разрешить &lt;b&gt;%1$s&lt;/b&gt; снимать фото и видео?</string>
     <string name="permgrouprequest_contacts">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к контактам?</string>
-    <string name="permgrouprequest_location">"Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к данным о местоположении устройства?"</string>
+    <string name="permgrouprequest_location">"Разрешить &lt;b&gt;%1$s&lt;/b&gt; использовать геолокацию?"</string>
     <string name="permgrouprequest_microphone">Разрешить &lt;b&gt;%1$s&lt;/b&gt; записывать аудио?</string>
     <string name="permgrouprequest_phone">Разрешить &lt;b&gt;%1$s&lt;/b&gt; осуществление вызовов и управление ими?</string>
     <string name="permgrouprequest_sensors">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к данным датчиков о состоянии организма?</string>
@@ -1611,9 +1611,9 @@
 для аккаунта %s."</string>
     <string name="permlab_acceptHandover">Продолжение вызова из другого приложения</string>
     <string name="permlab_accessBackgroundLocation">Использование геолокации в фоновом режиме</string>
-    <string name="permlab_accessCoarseLocation">Доступ к примерному местоположению (по координатам сети)</string>
+    <string name="permlab_accessCoarseLocation">Использование неточной геолокации (сети)</string>
     <string name="permlab_accessDrmCertificates">Доступ к сертификатам DRM</string>
-    <string name="permlab_accessFineLocation">Доступ к точному местоположению (по GPS и координатам сети)</string>
+    <string name="permlab_accessFineLocation">Использование точной геолокации (GPS и сети)</string>
     <string name="permlab_accessImsCallService">совершение звонков с помощью службы IMS</string>
     <string name="permlab_accessLocationExtraCommands">Доступ к дополнительным командам управления источниками геоданных</string>
     <string name="permlab_accessNetworkConditions">Использование данных о состоянии сети</string>
@@ -2037,7 +2037,7 @@
     <string name="stk_cc_ussd_to_dial_video">USSD-запрос преобразован в запрос Video DIAL</string>
     <string name="stk_cc_ussd_to_ss">USSD-запрос преобразован в SS-запрос.</string>
     <string name="stk_cc_ussd_to_ussd">USSD-запрос преобразован в новый USSD-запрос.</string>
-    <string name="storage_internal">Внутренняя память</string>
+    <string name="storage_internal">Хранилище</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_sd_card_label">SD-карта %s</string>
     <string name="storage_usb">USB-накопитель</string>

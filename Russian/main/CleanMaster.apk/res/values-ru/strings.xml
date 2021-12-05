@@ -436,8 +436,8 @@
     <string name="hints_finish_quick_cleanup">Готово</string>
     <string name="hints_finish_quick_cleanup_title">Очищено %s мусора</string>
     <string name="hints_finish_quick_scan">Проверка завершена</string>
-    <string name="hints_garbage_cleanup_result_danger">Требуется очистка памяти</string>
-    <string name="hints_garbage_cleanup_result_risk">Требуется очистка памяти</string>
+    <string name="hints_garbage_cleanup_result_danger">Выполните очистку</string>
+    <string name="hints_garbage_cleanup_result_risk">Выполните очистку</string>
     <string name="hints_garbage_cleanup_result_safe">Всё в порядке</string>
     <string name="hints_garbage_handle_item_content">Файлов: %1$d | %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Пусто</string>
@@ -690,7 +690,7 @@
     <string name="notification_garbage_clean_size_found_hint">Пора очистить мусор!</string>
     <string name="notification_garbage_clean_size_found_text">Слишком много мусорных файлов</string>
     <string name="notification_garbage_clean_size_int_unit">%d ГБ</string>
-    <string name="notification_garbage_clean_size_new">Освободите %s памяти</string>
+    <string name="notification_garbage_clean_size_new">Освободите %s места</string>
     <string name="notification_garbage_cleanup_summary">Очистка мусора (%s) для ускорения работы устройства</string>
     <string name="notification_garbage_cleanup_title">Очистка</string>
     <string name="notification_installed_clean_size">Освобождено %2$s после установки %1$s</string>
@@ -764,9 +764,9 @@
     <string name="powerful_acceleration_item_tip_normal">Все в порядке!</string>
     <string name="powerful_acceleration_notification_summary">Нажмите, чтобы освободить больше места</string>
     <string name="powerful_acceleration_notification_title">Дефрагментация завершена</string>
-    <string name="powerful_acceleration_tip">Внутренняя память фрагментирована, это может замедлять работу устройства. Дефрагментация физически реорганизует файлы для уменьшения фрагментации и задержек в работе устройства.</string>
-    <string name="powerful_acceleration_tip_high"><Data>Внутренняя память &lt;font color=#ff0000 >сильно&lt;/font> фрагментирована. Дефрагментация может решить проблему.</Data></string>
-    <string name="powerful_acceleration_tip_middle"><Data>Внутренняя память &lt;font color=#ff0000 >незначительно&lt;/font> фрагментирована. Дефрагментация может решить проблему.</Data></string>
+    <string name="powerful_acceleration_tip">Хранилище фрагментировано, это может замедлять работу устройства. Дефрагментация физически реорганизует файлы для уменьшения фрагментации и задержек в работе устройства.</string>
+    <string name="powerful_acceleration_tip_high"><Data>Хранилище &lt;font color=#ff0000 >сильно&lt;/font> фрагментировано. Дефрагментация может решить проблему.</Data></string>
+    <string name="powerful_acceleration_tip_middle"><Data>Хранилище &lt;font color=#ff0000 >незначительно&lt;/font> фрагментировано. Дефрагментация может решить проблему.</Data></string>
     <string name="powerful_acceleration_toast">Дефрагментация будет выполнена когда устройство не используется</string>
     <string name="pref_about_privacy_title">Политика конфиденциальности</string>
     <string name="pref_category_title_auto_clean_settings">Напоминания об очистке</string>
@@ -837,7 +837,7 @@
     <string name="resutl_function_wechat_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data></string>
     <string name="rs_clean_size_free_space">Освободите %s</string>
     <string name="rs_clean_size_storage_size">Занято %1$s/%2$s</string>
-    <string name="rs_clean_size_storage_title">Память</string>
+    <string name="rs_clean_size_storage_title">Хранилище</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -978,8 +978,8 @@
     <string name="tips_low_storage_dialog_cancel">Отмена</string>
     <string name="tips_low_storage_dialog_msg_qq">Размер кэша QQ достиг 3 ГБ. Это может замедлить работу устройства. Очистить кэш QQ?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">Размер кэша QQ достиг %d ГБ. Это может замедлить работу устройства. Очистить кэш QQ?</string>
-    <string name="tips_low_storage_dialog_msg_storage">Память устройства заполнена на 90%. Удалите неиспользуемые приложения.</string>
-    <string name="tips_low_storage_dialog_msg_storage_new">Память устройства заполнена на %s. Удалите неиспользуемые приложения.</string>
+    <string name="tips_low_storage_dialog_msg_storage">Хранилище заполнено на 90%. Удалите неиспользуемые приложения.</string>
+    <string name="tips_low_storage_dialog_msg_storage_new">Хранилище заполнено на %s. Удалите неиспользуемые приложения.</string>
     <string name="tips_low_storage_dialog_msg_wechat">Размер кэша WeChat достиг 3 ГБ. Это может замедлить работу устройства. Очистить кэш WeChat?</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">Размер кэша WeChat достиг %d ГБ. Это может замедлить работу устройства. Очистить кэш WeChat?</string>
     <string name="tips_low_storage_dialog_ok">Очистить</string>

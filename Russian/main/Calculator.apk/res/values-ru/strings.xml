@@ -475,7 +475,7 @@
     <string name="name_save">"Вы экономите "</string>
     <string name="name_split">Разделить сумму</string>
     <string name="negDesc">Переключение между температурами ниже и выше нуля</string>
-    <string name="network_confirm_content">Конвертеру валют, налоговому и ипотечному калькуляторам для нормальной работы требуется подключение к интернету и разрешение на использование геолокации.</string>
+    <string name="network_confirm_content">Конвертеру валют, налоговому и ипотечному калькуляторам для нормальной работы требуется подключение к интернету и разрешение использовать геолокацию.</string>
     <string name="network_confirm_title">Требуются разрешения</string>
     <string name="network_privacy">Приложению требуются подключение к интернету и разрешение для сбора личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.</string>
     <string name="network_purpose">Добро пожаловать в Калькулятор! Калькулятор позволяет конвертировать валюты, рассчитывать выплаты по ипотечным кредитам и многое другое.</string>
@@ -489,7 +489,7 @@
     <string name="percent" />
     <string name="percentDesc">процент</string>
     <string name="permission_location">Использование геолокации</string>
-    <string name="permission_location_desc">Предоставление услуг на основе местоположения</string>
+    <string name="permission_location_desc">Предоставление услуг на основе информации о местоположении</string>
     <string name="permission_phone">Доступ к статусу и ID устройства</string>
     <string name="permission_phone_desc">Идентификация различных устройств</string>
     <string name="permission_privacy_link">Используя это приложение, вы соглашаетесь с Пользовательским соглашением и Политикой конфиденциальности</string>
@@ -1143,7 +1143,7 @@
     <string name="xiaomi_calculator_remove_icon_description">Приложение \"Калькулятор\" является системным. После удаления различные конвертеры и функции калькулятора будут недоступны.</string>
     <string name="xiaomi_calculator_remove_icon_title">Удалить \"Калькулятор\" с рабочего стола?</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
-    <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD-карту.</string>
+    <string name="xiaomi_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
     <string name="xiaomi_update_dialog_message">"Доступна версия %1$s
 Размер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s

@@ -1107,8 +1107,8 @@
     <string name="grant_permission_go_and_set_2">Настроить</string>
     <string name="grant_permission_go_and_set_3">Настроить</string>
     <string name="grant_permission_shortcut">Разрешите приложению создание ярлыков на рабочем столе</string>
-    <string name="grant_permission_storage">Разрешите приложению доступ к памяти</string>
-    <string name="grant_permission_storage_unlock">Разблокируйте устройство и разрешите приложению доступ к памяти</string>
+    <string name="grant_permission_storage">Разрешите приложению доступ к хранилищу</string>
+    <string name="grant_permission_storage_unlock">Разблокируйте устройство и разрешите приложению доступ к хранилищу</string>
     <string name="grant_permission_text">"Приложению Галерея требуется доступ к 
 %s
  нажмите \"Настроить\" для перехода к разрешениям."</string>
@@ -1198,7 +1198,7 @@
     <string name="install_fail">Не удалось загрузить плагин из-за ошибки.</string>
     <string name="install_media_editor_message">Для возможности редактирования, необходимо загрузить плагин. Загрузить?</string>
     <string name="install_media_editor_title">Загрузка плагина</string>
-    <string name="internal_storage_device">Внутренняя память</string>
+    <string name="internal_storage_device">Хранилище</string>
     <string name="invalid_invition_url">Неверная ссылка</string>
     <string name="invalid_recipient_message">Проверьте адреса получателей</string>
     <string name="invite_sharer_confirm_button_text">Пригласить</string>
@@ -1754,7 +1754,7 @@
     <string name="permission_phone_name">Устройство</string>
     <string name="permission_require_category">Обязательные разрешения</string>
     <string name="permission_storage_desc">Хранение, отображение, редактирование, синхронизация и загрузка фото и видео</string>
-    <string name="permission_storage_name">Память</string>
+    <string name="permission_storage_name">Хранилище</string>
     <string name="permission_storage_name_2">Сохранение файлов на устройстве и доступ к ним</string>
     <string name="permission_use_desc">Разрешения</string>
     <string name="pet_album_display_name">Фото питомцев</string>
@@ -2012,7 +2012,7 @@
     <string name="privacy_permission_contact_detail">Для именования людей на фото и видео</string>
     <string name="privacy_permission_detail">Сведения о разрешениях</string>
     <string name="privacy_permission_disagree">Не предоставлено</string>
-    <string name="privacy_permission_location">Местоположение</string>
+    <string name="privacy_permission_location">Геолокация</string>
     <string name="privacy_permission_location_detail">Для отображения на карте фото и видео</string>
     <string name="privacy_permission_request_message">Галерее требуется доступ к %3$s. Собранная нами информация будет использоваться в соответствии с нашими %1$s и %2$s. Разрешить?</string>
     <string name="privacy_permission_request_negative">Отмена</string>
@@ -2020,7 +2020,7 @@
     <string name="privacy_permission_request_title">Требуются разрешения</string>
     <string name="privacy_permission_shotcut">Ярлык на рабочем столе</string>
     <string name="privacy_permission_shotcut_detail">Для создания ярлыков на рабочем столе</string>
-    <string name="privacy_permission_storage">Память</string>
+    <string name="privacy_permission_storage">Хранилище</string>
     <string name="privacy_permission_storage_detail">Для хранения фото и видео</string>
     <string name="privacy_rejected">Отзыв согласия</string>
     <string name="privacy_rejected_map">Отзыв согласия с Политикой конфиденциальности Карты галереи</string>
@@ -2470,7 +2470,7 @@
     <string name="sticker_tab_talkback_summer_day">Летний день</string>
     <string name="sticker_tab_talkback_words">Текст</string>
     <string name="sticker_words">Слова</string>
-    <string name="storage_description_primary">Внутренняя память</string>
+    <string name="storage_description_primary">Хранилище</string>
     <string name="storage_description_sdcard">SD-карта</string>
     <string name="storage_description_usb">USB накопитель</string>
     <string name="storage_description_xspace">Данные клонов</string>

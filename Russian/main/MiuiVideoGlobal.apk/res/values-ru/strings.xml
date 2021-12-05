@@ -551,16 +551,16 @@ ID: %s
     <string name="galleryplus_permission_content">Предоставьте приложению Mi Видео необходимые разрешения, чтобы использовать эту функцию.</string>
     <string name="galleryplus_permission_content2">"Чтобы использовать эту функцию, предоставьте приложению следующие разрешения:
 
-1. Доступ к памяти
+1. Доступ к хранилищу
 2. Доступ к ID устройства"</string>
     <string name="galleryplus_permission_content_opt">Для нормальной работы Mi Видео предоставьте необходимые разрешения. Выполните очистку данных приложения и снова откройте приложение.</string>
     <string name="galleryplus_permission_content_xms">Для нормальной работы Mi Видео предоставьте необходимые разрешения</string>
     <string name="galleryplus_permission_open_settings">Настройки</string>
     <string name="galleryplus_permission_refuse">Нет, спасибо</string>
     <string name="galleryplus_permission_retry">Разрешения</string>
-    <string name="galleryplus_permission_storage_content_reshowable_video_player">Чтобы использовать локальный видеоплеер, разрешите приложению доступ к памяти</string>
-    <string name="galleryplus_permission_storage_content_unreshowable_video_player">Чтобы использовать локальный видеоплеер, разрешите приложению доступ к памяти в разделе \"Разрешения\" в настройках</string>
-    <string name="galleryplus_permission_storage_title">Требуется доступ к памяти</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">Чтобы использовать локальный видеоплеер, разрешите приложению доступ к хранилищу</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">Чтобы использовать локальный видеоплеер, разрешите приложению доступ к хранилищу в разделе \"Разрешения\" в настройках</string>
+    <string name="galleryplus_permission_storage_title">Требуется доступ к хранилищу</string>
     <string name="galleryplus_permission_title">Внимание</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Восстановлена скорость воспроизведения по умолчанию</string>
@@ -763,7 +763,7 @@ ID: %s
     <string name="lv_share_tips">Снимок экрана сохранен. Вы можете поделиться им.</string>
     <string name="lv_skip_update">Не сейчас</string>
     <string name="lv_storage_external_sdcard">Внешний накопитель</string>
-    <string name="lv_storage_internal_sdcard">Память устройства</string>
+    <string name="lv_storage_internal_sdcard">Хранилище</string>
     <string name="lv_storage_root_dir">Вы уже находитесь в корневой папке</string>
     <string name="lv_subtitle_add_subtitle_failed">Не удалось добавить субтитры. Убедитесь, что файл не поврежден.</string>
     <string name="lv_subtitle_changed">Новые субтитры</string>
@@ -1159,8 +1159,8 @@ ID: %s
     <string name="permission_info3">Повышения безопасности вашего аккаунта</string>
     <string name="permission_phone">Вызовы</string>
     <string name="permission_phone_desc">Для доступа к состоянию устройства и приостановка воспроизведения во время вызовов</string>
-    <string name="permission_storage">Память</string>
-    <string name="permission_storage_desc">Для доступа к объектам, сохранения файлов, отображения и воспроизведения видео</string>
+    <string name="permission_storage">Хранилище</string>
+    <string name="permission_storage_desc">Для доступа к файлам, отображения и воспроизведения видео</string>
     <string name="permission_title">Требуются разрешения</string>
     <string name="pgc_push_title">Подписки</string>
     <string name="phone_bind_too_many">Этот номер был привязан к разным аккаунтам в течение короткого периода времени. Попробуйте использовать другой номер.</string>
@@ -1471,7 +1471,7 @@ ID: %s
     <string name="srl_header_update">"'Обновление' M-d HH:mm"</string>
     <string name="start_download_tip">Добавлено в очередь. Проверьте прогресс в Профиль &gt; Загрузки.</string>
     <string name="storage_external_sdcard">SD-карта</string>
-    <string name="storage_internal_sdcard">Память устройства</string>
+    <string name="storage_internal_sdcard">Хранилище</string>
     <string name="storage_permission_denied">Отказано в доступе к хранилищу</string>
     <string name="submit">Отправить</string>
     <string name="subscribe">ПОДПИСАТЬСЯ</string>

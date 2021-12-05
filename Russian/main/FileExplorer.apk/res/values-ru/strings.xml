@@ -144,7 +144,7 @@
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="compress_fail">Ошибка сжатия. Файл с таким именем уже существует.</string>
-    <string name="compress_fail_unknown">Ошибка сжатия. Память заполнена или произошла неизвестная ошибка.</string>
+    <string name="compress_fail_unknown">Ошибка сжатия. Недостаточно места или неизвестная ошибка.</string>
     <string name="compress_message">Архивация в…</string>
     <string name="compress_title">Создание архива</string>
     <string name="confirm">OK</string>
@@ -223,7 +223,7 @@
     <string name="encrypt_success_first_five">Успешно зашифровано и скрыто. Для просмотра потяните вниз на начальной странице Проводника.</string>
     <string name="encrypting">Шифрование…</string>
     <string name="enter">Открыть Проводник</string>
-    <string name="entry_phone_storage_internal">Память</string>
+    <string name="entry_phone_storage_internal">Хранилище</string>
     <string name="entry_storage_cloned_app">Клоны</string>
     <string name="entry_storage_usb">USB-устройство</string>
     <string name="eras_ad">н. э.</string>
@@ -256,7 +256,7 @@
     <string name="exo_controls_stop_description">Остановить</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
-    <string name="extended_storage_file_can_not_open">Не удалось открыть файл. Скопируйте его во внутреннюю память.</string>
+    <string name="extended_storage_file_can_not_open">Не удалось открыть файл. Скопируйте его в хранилище устройства.</string>
     <string name="extract">Извлечь</string>
     <string name="fab_menu_ball">Ярлык</string>
     <string name="fab_menu_sort">Сортировка</string>
@@ -344,7 +344,7 @@
     <string name="icon_content_description">Иконка диалога</string>
     <string name="if_cancel">Отменить это действие?</string>
     <string name="image_loading_error">Не удалось загрузить фото</string>
-    <string name="imm_str_storage">Память</string>
+    <string name="imm_str_storage">Хранилище</string>
     <string name="info_app_package_name">Имя пакета:</string>
     <string name="info_app_version">Версия приложения:</string>
     <string name="info_language">Язык:</string>
@@ -524,7 +524,7 @@
     <string name="name_empty">Введите имя</string>
     <string name="need_open_content">Для использования этой функции, Проводнику требуется разрешение на доступ к фото и файлам</string>
     <string name="need_open_permission">Требуются разрешения</string>
-    <string name="need_read_storage_permission">Проводнику для нормальной работы требуется разрешение на доступ к памяти устройства</string>
+    <string name="need_read_storage_permission">Проводнику для нормальной работы требуется разрешение на доступ к хранилищу</string>
     <string name="network_not_available">Ошибка подключения к сети</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="next">Далее</string>
@@ -596,12 +596,12 @@
     <string name="operation_unfavorite">Удалить из избранных</string>
     <string name="optional_change_wifi">Для удаленного управления файлами через Wi-Fi</string>
     <string name="otg_data_transfer_success">Успешная передача</string>
-    <string name="otg_data_transferring">Передача файлов… Не отключайте внешнюю память.</string>
+    <string name="otg_data_transferring">Передача файлов… Не отключайте внешний накопитель.</string>
     <string name="otg_file_security_confirm">скопировать на телефон</string>
     <string name="otg_file_security_details">Пожалуйста, скопируйте на телефон</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" уже существует. Нажмите для замены.</string>
-    <string name="pad">Память</string>
+    <string name="pad">Хранилище</string>
     <string name="partial_cancel_successful">Не удалось скрыть некоторые файлы. Остальные перемещены в %s.</string>
     <string name="partial_delete_failure">Ошибка удаления некоторых файлов, повторите попытку</string>
     <string name="partial_encrypt_success">Не удалось скрыть некоторые файлы, повторите попытку</string>
@@ -611,8 +611,8 @@
     <string name="permission_description">Сведения о разрешениях</string>
     <string name="permission_required">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.​</string>
     <string name="petabyteShort">" ПБ"</string>
-    <string name="phone">Память</string>
-    <string name="phone_storage">Память</string>
+    <string name="phone">Хранилище</string>
+    <string name="phone_storage">Хранилище</string>
     <string name="phone_storage_apk_title">APK: </string>
     <string name="phone_storage_audio_title">Музыка: </string>
     <string name="phone_storage_cal">Проверка…</string>
@@ -758,10 +758,10 @@
     <string name="stay_awake_summary">Не переходить в спящий режим при использовании FTP</string>
     <string name="stay_awake_title">Не выключать дисплей</string>
     <string name="stop_server">Остановить сервер</string>
-    <string name="storage_cloned_app">Память для клонов</string>
+    <string name="storage_cloned_app">Хранилище для клонов</string>
     <string name="storage_info_detail">Свободно: %1$s | Всего: %2$s</string>
-    <string name="storage_internal">Память</string>
-    <string name="storage_maintenance_mode">Память для режима обслуживания</string>
+    <string name="storage_internal">Хранилище</string>
+    <string name="storage_maintenance_mode">Хранилище для режима обслуживания</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB накопитель</string>
     <string name="storage_warning">Внешний накопитель недоступен</string>

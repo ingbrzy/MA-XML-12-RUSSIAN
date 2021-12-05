@@ -265,13 +265,13 @@
         <item quantity="other">Только что</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
-        <item quantity="other">Приложения с доступом к геоданным: %1$d из %2$d</item>
-        <item quantity="one">Приложения с доступом к геоданным: %1$d из %2$d</item>
+        <item quantity="other">%1$d из %2$d приложений используют геолокацию</item>
+        <item quantity="one">%1$d из %2$d приложений используют геолокацию</item>
     </plurals>
     <plurals name="location_settings_summary_location_on">
-        <item quantity="other">Вкл. - %1$d приложений с доступом к геоданным</item>
-        <item quantity="one">Вкл. - %1$d приложение с доступом к геоданным</item>
-        <item quantity="few">Вкл. - %1$d приложения с доступом к геоданным</item>
+        <item quantity="other">Вкл. - %1$d приложений используют геолокацию</item>
+        <item quantity="one">Вкл. - %1$d приложение использует геолокацию</item>
+        <item quantity="few">Вкл. - %1$d приложения используют геолокацию</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Используйте как минимум %d букв</item>

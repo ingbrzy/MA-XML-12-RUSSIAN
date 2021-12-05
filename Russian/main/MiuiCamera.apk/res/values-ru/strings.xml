@@ -415,7 +415,7 @@
     <string name="camera_newcta_audio_message">Для записи видео со звуком</string>
     <string name="camera_newcta_camera_message">Для съемки фото и видео</string>
     <string name="camera_newcta_message">"Добро пожаловать в приложение \"Камера\"! С помощью этого приложения вы можете снимать фото и видео. "</string>
-    <string name="camera_newcta_other_message">Для предоставления дополнительных сервисов, требуется разрешение на использование геолокации.</string>
+    <string name="camera_newcta_other_message">Для предоставления дополнительных сервисов, требуется разрешение использовать геолокацию.</string>
     <string name="camera_newcta_storage_message">Для сохранения и отображения фото и видео</string>
     <string name="camera_setting">Камера</string>
     <string name="camera_settings_category_development">Экспериментальные функции</string>
@@ -549,9 +549,9 @@
     <string name="cta_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
     <string name="cta_perm_cam">Камера</string>
     <string name="cta_perm_cam_desc">Съемка фото и видео</string>
-    <string name="cta_perm_dec">Добавление геоданных в фото и видео</string>
+    <string name="cta_perm_dec">Добавление информации о местоположении в фото и видео</string>
     <string name="cta_perm_loc">Геолокация</string>
-    <string name="cta_perm_storage">Память</string>
+    <string name="cta_perm_storage">Хранилище</string>
     <string name="cta_perm_storage_desc">Чтение и запись файлов</string>
     <string name="cta_perm_type">Для работы дополнительных функций во время их использования</string>
     <string name="cta_perm_voice">Микрофон</string>
@@ -868,7 +868,7 @@
     <string name="live_workspace_title_edit">Выберите элементы для удаления</string>
     <string name="location">Местоположение</string>
     <string name="location_access_allow">Разрешить</string>
-    <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение на использование геолокации. Разблокируйте устройство.</string>
+    <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение использовать геолокацию. Разблокируйте устройство.</string>
     <string name="location_permission_des">Добавлять информацию о местоположении в фото и видео</string>
     <string name="location_permission_not_ask_again">Разрешите приложению использование геолокации</string>
     <string name="location_permission_not_ask_again_go_to_settings">Разрешить</string>
@@ -882,14 +882,14 @@
     <string name="lunch_camera_audio_permission_not_ask_again">Разрешите приложению доступ к камере и запись звука</string>
     <string name="lunch_camera_permission_des">Для съемки фото и видео</string>
     <string name="lunch_camera_permission_not_ask_again">Разрешите приложению доступ к камере</string>
-    <string name="lunch_camera_storge_permission_not_ask_again">Разрешите приложению доступ к камере и памяти устройства</string>
+    <string name="lunch_camera_storge_permission_not_ask_again">Разрешите приложению доступ к камере и хранилищу устройства</string>
     <string name="lunch_dialog_setting">Настройки</string>
     <string name="lunch_fromkeyguard_not_permission">Отсутствует разрешение на выполнение этого действия. Сначала разблокируйте устройство.</string>
     <string name="lunch_fromkeyguard_not_permission_dialog_ok">Понятно</string>
-    <string name="lunch_permission_not_ask_again">Разрешите приложению доступ к камере и памяти устройства, запись звука</string>
-    <string name="lunch_storge_audio_permission_not_ask_again">Разрешите приложению доступ к памяти устройства и запись звука</string>
+    <string name="lunch_permission_not_ask_again">Разрешите приложению доступ к камере и хранилищу устройства, запись звука</string>
+    <string name="lunch_storge_audio_permission_not_ask_again">Разрешите приложению доступ к хранилищу устройства и запись звука</string>
     <string name="lunch_storge_permission_des">Для сохранения и отображения фото и видео</string>
-    <string name="lunch_storge_permission_not_ask_again">Разрешите приложению доступ к памяти устройства</string>
+    <string name="lunch_storge_permission_not_ask_again">Разрешите приложению доступ к хранилищу устройства</string>
     <string name="lying_direct_hint">Текущая ориентация</string>
     <string name="macro_mode">Макро</string>
     <string name="macro_mode_tip">Расстояние между объективом и объектом не должно превышать 10 см.</string>
@@ -1956,7 +1956,7 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="spaceIsLow_content_external_storage_priority">SD-карта заполнена</string>
-    <string name="spaceIsLow_content_primary_storage_priority">Память заполнена</string>
+    <string name="spaceIsLow_content_primary_storage_priority">Хранилище заполнено</string>
     <string name="speech_shutter_open_tip">Произнесите \"Сделай фото\" для съемки</string>
     <string name="speech_shutter_tip">Съемка голосом</string>
     <string name="start_capture">OK</string>

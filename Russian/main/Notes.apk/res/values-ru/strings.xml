@@ -598,7 +598,7 @@
     <string name="pref_permission_manage">Сведения о разрешениях</string>
     <string name="pref_permission_manage_key_contact">Доступ к контактам</string>
     <string name="pref_permission_manage_key_recording">Запись аудио</string>
-    <string name="pref_permission_manage_key_storage">Доступ к памяти</string>
+    <string name="pref_permission_manage_key_storage">Доступ к хранилищу</string>
     <string name="pref_permission_not_allowed">Не предоставлено</string>
     <string name="pref_quick_note_desc">Используйте ярлык жестов для создания заметок и задач, а также сохранения скопированных URL-адресов, текста и изображений в Заметках.</string>
     <string name="pref_remind_type_summary">Воспроизведение звука напоминания в режиме \"Без звука\"</string>
@@ -834,13 +834,13 @@
     <string name="toast_refuse_to_record_when_in_multi_window_new">Эта функция недоступна для разделения экрана или плавающих окон</string>
     <string name="toast_refuse_to_use_contact">"Доступ к контактам ограничен.
 Разрешить Заметкам чтение контактов и поиск аккаунтов на устройстве."</string>
-    <string name="toast_refuse_to_use_external_storage">"Доступ к памяти ограничен.
+    <string name="toast_refuse_to_use_external_storage">"Доступ к хранилищу ограничен.
 Разрешить Заметкам чтение SD-карты."</string>
     <string name="toast_refuse_to_use_phone_state">"Доступ к состоянию телефона ограничен.
 Разрешить Заметкам чтение состояния телефона и идентификацию."</string>
     <string name="toast_refuse_to_use_record_audio">"Доступ к микрофону ограничен. 
 Разрешить Заметкам запись аудио."</string>
-    <string name="toast_refuse_to_use_storage_in_excerpt">Разрешите приложению Заметки доступ к памяти устройства для возможности добавления изображений в заметки</string>
+    <string name="toast_refuse_to_use_storage_in_excerpt">Разрешите приложению Заметки доступ к хранилищу устройства для возможности добавления изображений в заметки</string>
     <string name="today">Сегодня</string>
     <string name="todo_alert_title_delete">Удалить завершенные задачи</string>
     <string name="todo_audio_default_content">"[Голосовые задачи] "</string>

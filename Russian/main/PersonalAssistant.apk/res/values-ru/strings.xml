@@ -704,10 +704,10 @@
     <string name="cta_dialog_desc_location">Для расчета продолжительности ежедневных поездок на работу</string>
     <string name="cta_dialog_desc_phone_state">Для идентификации вашего устройства по IMEI</string>
     <string name="cta_dialog_desc_storage">Для сохранения файлов на устройстве</string>
-    <string name="cta_dialog_miot_text_all">Для нормальной работы Mi Home требуется доступ к сети и местоположению, разрешение на включение Bluetooth, использование сотовой сети, доступ к микрофону, чтение контактов. Разрешить?</string>
+    <string name="cta_dialog_miot_text_all">Для нормальной работы Mi Home требуется подключение к интернету, разрешение использовать геолокацию и сотовую сеть, включать Bluetooth, а также доступ к микрофону и чтение контактов. Разрешить?</string>
     <string name="cta_dialog_negative">Выход</string>
     <string name="cta_dialog_positive">Принять</string>
-    <string name="cta_dialog_text_all">Чтобы использовать Ассистент необходимо принять %1$s \"Пользовательское соглашение\" %2$s и %3$s \"Политику конфиденциальности\" %4$s. Приложению требуется подключение к интернету и разрешение на использование геолокации. Разрешить?</string>
+    <string name="cta_dialog_text_all">Чтобы использовать Ассистент необходимо принять %1$s \"Пользовательское соглашение\" %2$s и %3$s \"Политику конфиденциальности\" %4$s. Приложению требуется подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
     <string name="cta_dialog_text_new_user">Прочитайте и примите наши %1$sПользовательское соглашение%2$s и %3$sПолитику конфиденциальности%4$s.</string>
     <string name="cta_dialog_text_old_user">Перед использованием приложения вы должны принять %1$s\"Политику конфиденциальности Ассистента\"%2$s. Нажмите \"Начать\", чтобы принять.</string>
     <string name="cta_dialog_title">Условия и положения</string>
@@ -1534,7 +1534,7 @@ Please send this code to the technician."</string>
     <string name="navigation_search_current_city">Текущий город:</string>
     <string name="navigation_search_default_hint">Искать здесь</string>
     <string name="navigation_search_no_city_list">Ничего нет</string>
-    <string name="navigation_search_positioning">Получение геоданных…</string>
+    <string name="navigation_search_positioning">Получение информации о местоположении…</string>
     <string name="navigation_search_positioning_failed">Не удалось определить местоположение, выберите город вручную</string>
     <string name="net_unavailable">Не удалось подключиться к сети</string>
     <string name="network_access_denied">Не удается подключиться к сети, сначала примите Условия пользования</string>

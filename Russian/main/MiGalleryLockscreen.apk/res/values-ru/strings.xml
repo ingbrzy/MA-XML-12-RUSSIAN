@@ -196,7 +196,7 @@
     <string name="cw_deleting">Удаление (%1$d/%2$d)</string>
     <string name="cw_local_pic">Галерея</string>
     <string name="cw_my_fav">Избранные</string>
-    <string name="cw_permission_tip">Разрешите Карусели обоев доступ к памяти в Разрешениях приложений.</string>
+    <string name="cw_permission_tip">Разрешите Карусели обоев доступ к хранилищу в Разрешениях приложений.</string>
     <string name="cw_wallpaper_empty_dlg_btn">ОК</string>
     <string name="cw_wallpaper_empty_dlg_content">Изображения отсутствуют в слайд-шоу. Будут включены Истории.</string>
     <string name="cw_wallpaper_empty_dlg_title">Переключение режима</string>
@@ -240,7 +240,7 @@
     <string name="detail_toast_deny_dislike">Не удалось удалить</string>
     <string name="detail_toast_deny_favor">Не удалось добавить в избранные</string>
     <string name="detail_toast_dislike_fail">Не удалось удалить</string>
-    <string name="detail_toast_favor_permission">Разрешите приложению доступ к памяти</string>
+    <string name="detail_toast_favor_permission">Разрешите приложению доступ к хранилищу</string>
     <string name="diagnosis_log_send_failed">Ошибка отправки журнала.</string>
     <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
 ID:%s
@@ -269,7 +269,7 @@ ID:%s
     <string name="expand_button_title">Дополнительно</string>
     <string name="explorer_activity_title">Карусель обоев</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
-    <string name="external_storage_permission">Память</string>
+    <string name="external_storage_permission">Хранилище</string>
     <string name="external_storage_permission_summary">Для выбора обоев и сохранения загруженных изображений</string>
     <string name="facebook_application_id"/>
     <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Mi Аккаунтом</string>
@@ -878,9 +878,9 @@ mm"</string>
     <string name="subscribe_update_time_setting">Установить другой интервал</string>
     <string name="summary">"Для просмотра онлайн контента необходимо принять нашу &lt;a href=\"%s\"&gt;Политику конфиденциальности&lt;/a&gt; В случае отказа будут доступны только локальные обои."</string>
     <string name="summary2">"Используя это приложение, вы принимаете наши &lt;font color='#37A5FF'&gt;&lt;a href =\"%1$s\"&gt;Пользовательское соглашение&lt;/font&gt;&lt;/a&gt; и &lt;font color='#37A5FF'&gt;&lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/font&gt;&lt;/a&gt;. Приложению для нормальной работы требуется подключение к интернету.​"</string>
-    <string name="summary3">"Добро пожаловать в Карусель обоев! Здесь вы можете подписаться на любимые категории обоев и регулярно получать новые изображения на экран блокировки. Для нормальной работы приложению требуется подключение к интернету и разрешение на сбор необходимых личных данных.&lt;br>Для предоставления дополнительных сервисов мы можем запросить разрешение на доступ к памяти устройства и сохранение файлов.&lt;br>Чтобы полностью понять ваши права как пользователя, а также то, как мы используем ваши данные, прочтите и примите наши &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/font>&lt;/a> и &lt;font color ='#37A5FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a>."</string>
+    <string name="summary3">"Добро пожаловать в Карусель обоев! Здесь вы можете подписаться на любимые категории обоев и регулярно получать новые изображения на экран блокировки. Для нормальной работы приложению требуется подключение к интернету и разрешение на сбор необходимых личных данных.&lt;br>Для предоставления дополнительных сервисов мы можем запросить разрешение на доступ к хранилищу и сохранение файлов.&lt;br>Чтобы полностью понять ваши права как пользователя, а также то, как мы используем ваши данные, прочтите и примите наши &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/font>&lt;/a> и &lt;font color ='#37A5FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a>."</string>
     <string name="summary4">"Добро пожаловать в Карусель обоев! Здесь вы можете подписаться на любимые категории обоев и регулярно получать новые изображения на экран блокировки. "</string>
-    <string name="summary5">"Для предоставления дополнительных сервисов мы можем запросить разрешение на доступ к памяти устройства и сохранение файлов. "</string>
+    <string name="summary5">"Для предоставления дополнительных сервисов мы можем запросить разрешение на доступ к хранилищу и сохранение файлов. "</string>
     <string name="summary_international">"Используя это приложение, вы принимаете наши &lt;a href =\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;. Приложению для нормальной работы необходимо подключение к интернету.​"</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>

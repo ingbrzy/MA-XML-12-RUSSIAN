@@ -363,7 +363,7 @@
     <string name="empty_page_no_artist">Нет исполнителей</string>
     <string name="enabled">ОК</string>
     <string name="enjoy_hungama_pro">Наслаждайтесь Hungama PRO</string>
-    <string name="enter_garbage_clean">Требуется очистка памяти.</string>
+    <string name="enter_garbage_clean">Требуется очистка места</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_blues">Блюз</string>
     <string name="eq_classical">Классика</string>
@@ -569,7 +569,7 @@
     <string name="info_system_version">Версия системы:</string>
     <string name="input_hint_prefix">Введите %1$s</string>
     <string name="installing_apk">Установка…</string>
-    <string name="insufficient_space">Недостаточно места во внутренней памяти</string>
+    <string name="insufficient_space">Недостаточно места в хранилище</string>
     <string name="invalid_number">Недействительный номер</string>
     <string name="is_latest_version">Обновление не требуется</string>
     <string name="is_scanning">Проверка накопителя…</string>
@@ -908,7 +908,7 @@
     <string name="online_apk_install_network_change_paused">Используется мобильный интернет. Загрузка приостановлена. Нажмите %s для просмотра.</string>
     <string name="online_apk_install_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="online_apk_install_tips">Необходимо скачать плагин этого поставщика контента, чтобы получить доступ к песням</string>
-    <string name="online_list_delete_message">Все загруженные треки в этом списке будут удалены из внутренней памяти.</string>
+    <string name="online_list_delete_message">Все загруженные треки в этом списке будут удалены из хранилища</string>
     <string name="online_music_joox">JOOX</string>
     <string name="online_music_yandex">Яндекс</string>
     <string name="online_playlist_category">Плейлисты</string>
@@ -937,7 +937,7 @@
     <string name="payment_success_title">Поздравляем!</string>
     <string name="pending_apk">Ожидание…</string>
     <string name="periodic_dump_memory_profile">Запись дампа памяти в журнал</string>
-    <string name="permission_declaration_message">Разрешите доступ к памяти, перейдя в Безопасность > Приложения > Разрешения > Разрешения приложений > Память > Музыка.</string>
+    <string name="permission_declaration_message">Разрешите доступ к хранилищу, перейдя в Безопасность > Приложения > Разрешения > Разрешения приложений > Хранилище > Музыка.</string>
     <string name="permission_declaration_negative_text">Позже</string>
     <string name="permission_declaration_positive_text">Безопасность</string>
     <string name="permission_declaration_title">Разрешить доступ</string>
@@ -1158,8 +1158,8 @@
     <string name="start_to_download">Загрузка…</string>
     <string name="start_to_play">Воспроизвести</string>
     <string name="start_update">Установка новой версии…</string>
-    <string name="storage_cloned_app">Хранилище для двойных приложений</string>
-    <string name="storage_internal">Внутренняя память</string>
+    <string name="storage_cloned_app">Хранилище для клонов</string>
+    <string name="storage_internal">Хранилище</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB накопитель</string>
     <string name="streamloadingtext">Подключение к %s</string>

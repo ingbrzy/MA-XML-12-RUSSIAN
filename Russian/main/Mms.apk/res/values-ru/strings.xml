@@ -148,7 +148,7 @@
     <string name="cm_privacy_dialog_allow">Принимаю</string>
     <string name="cm_privacy_dialog_cancel">Отмена</string>
     <string name="cm_privacy_dialog_spannable_tips">Политика конфиденциальности</string>
-    <string name="cm_privacy_dialog_tips">"Услуги Умные сообщения предоставляются вашим оператором. Для предоставления этих услуг приложению необходимы подключение к интернету и доступ к вашему местоположению. Вы должны принять %1s вашего оператора, прежде чем начать пользоваться этими услугами."</string>
+    <string name="cm_privacy_dialog_tips">"Сервис Умные сообщения предоставляется вашим оператором. Для предоставления сервиса приложению требуются подключение к интернету и разрешение использовать геолокацию. Примите %1s вашего оператора перед использованием сервиса."</string>
     <string name="cm_privacy_dialog_title">Внимание</string>
     <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
     <string name="cn_privacy_dialog_title">Внимание</string>
@@ -241,13 +241,13 @@
     <string name="dialog_message_correct_as_normal">Выберите сообщения для перемещения</string>
     <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого MIUI необходимо загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на свои серверы.</string>
     <string name="dialog_message_mx">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi Сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Нажав \"Принимаю\", вы принимаете \"%1$s\" и \"%2$s\".</string>
-    <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Сообщениям и Справочнику для нормальной работы требуется подключение к интернету и доступ к вашему местоположению. Разрешить?</string>
+    <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Сообщениям и Справочнику для нормальной работы требуются подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
     <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае. Перед использованием Сообщений China Mobile вы должны принять \"%1$s\".</string>
     <string name="dialog_quit">Выход</string>
     <string name="dialog_revoke">Отозвать</string>
     <string name="dialog_sim_locked_confirm">ОК</string>
     <string name="dialog_sim_locked_message">"Ваша SIM-карта не полностью работоспособна с этим телефоном, потому что не соответствует условиям подписки. Если у вас есть какие-либо вопросы или нужна дополнительная информация по этому вопросу, обратитесь в сервисный центр Xiaomi или в магазин, где приобрели телефон."</string>
-    <string name="dialog_smart_message_privacy_tips">Услуга Умные сообщения частично предоставляется Dianhuabang. Перед использованием Умных сообщений вы должны согласиться с \"%1$s\". Умным сообщениям для нормальной работы требуется подключение к интернету и доступ к определению местоположения. Разрешить?</string>
+    <string name="dialog_smart_message_privacy_tips">Услуга Умные сообщения частично предоставляется Dianhuabang. Перед использованием Умных сообщений вы должны согласиться с \"%1$s\". Умным сообщениям для нормальной работы требуются подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
     <string name="dialog_smart_message_privacy_tips_title">Политика конфиденциальности Dianhuabang</string>
     <string name="dialog_title_correct_as_ad">Переместить в рекламные сообщения</string>
     <string name="dialog_title_correct_as_normal">Переместить в обычные сообщения</string>
@@ -636,8 +636,8 @@
     <string name="net_sms_unsubscribe">Подписка отменена</string>
     <string name="network_error_description">Произошла ошибка сети. Подождите немного и повторите попытку.</string>
     <string name="networking_allow_continue">Разрешить</string>
-    <string name="networking_allow_desc">Приложению \"Mi Сообщения\" для нормальной работы требуется подключение к интернету. Для предоставления бесплатных текстовых и голосовых услуг, распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi Сообщения\" должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
-    <string name="networking_allow_desc_without_mx">Приложению \"Mi Сообщения\" для нормальной работы требуется подключение к интернету. Для распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi Сообщения\" должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
+    <string name="networking_allow_desc">\"Mi Сообщениям\" для нормальной работы требуется подключение к интернету. Для предоставления бесплатных текстовых и голосовых услуг, распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi Сообщениям\" требуется использование \"Желтых страниц\". Разрешить \"Желтым страницам\" подключение к интернету, использование геолокации и чтение контаков?</string>
+    <string name="networking_allow_desc_without_mx">\"Mi Сообщениям\" для нормальной работы требуется подключение к интернету. Для распознавания неизвестных номеров, фильтрации спама и включения других функций, \"Mi Сообщениям\" требуется использование \"Желтым страницам\". \"Mi Сообщениям\" требуется использование \"Желтых страниц\". Разрешить \"Желтым страницам\" подключение к интернету, использование геолокации и чтение контаков?</string>
     <string name="networking_allow_title">Внимание</string>
     <string name="new_message">Новое сообщение</string>
     <string name="new_message_arrived">Непрочитанное</string>
@@ -1178,8 +1178,8 @@
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Содержимое:</string>
     <string name="sms_full_body">Недостаточно места на устройстве. Входящие сообщения будут отклонены.</string>
-    <string name="sms_full_title">Память сообщений заполнена</string>
-    <string name="sms_rejected_body">Входящее сообщение отклонено.</string>
+    <string name="sms_full_title">Хранилище сообщений заполнено</string>
+    <string name="sms_rejected_body">Входящее сообщение отклонено</string>
     <string name="sms_rejected_title">Сообщение отклонено</string>
     <string name="sms_report_dialog_content">Не удалось отправить отчет, повторите попытку.</string>
     <string name="sms_report_dialog_retry">Повторить</string>
@@ -1242,7 +1242,7 @@
     <string name="storage_limits_message">Ограничить количество сообщений в диалоге?</string>
     <string name="storage_limits_setting">Ограничить</string>
     <string name="storage_limits_setting_dismiss">Не ограничивать</string>
-    <string name="storage_unavailable">Память заполнена</string>
+    <string name="storage_unavailable">Хранилище заполнено</string>
     <string name="sub_sim_card">Sub</string>
     <string name="sub_sim_card_indicator">Sub%d</string>
     <string name="sub_sim_not_support_mms">Не удалось отправить MMS с использованием дополнительной SIM-карты</string>
@@ -1288,7 +1288,7 @@
     <string name="system_permission_perm_email">Для создания и отправки эл. писем</string>
     <string name="system_permission_perm_get_account">Для облачного резервного копирования</string>
     <string name="system_permission_perm_get_phone_state">Для доступа к номеру телефона и состоянию устройства</string>
-    <string name="system_permission_perm_location">Для доступа к местоположению</string>
+    <string name="system_permission_perm_location">Для получения информации о местоположении</string>
     <string name="system_permission_perm_new_read_sms">Для доступа к содержимому SMS</string>
     <string name="system_permission_perm_new_receive_mms">Для доступа к содержимому MMS</string>
     <string name="system_permission_perm_paste_menu_text">Для сохранения содержимого в буфер обмена</string>
@@ -1411,7 +1411,7 @@
     <string name="type_vcard">vCard</string>
     <string name="type_video">видео</string>
     <string name="unable_connect_camera">Режим инкогнито: камера недоступна</string>
-    <string name="unable_get_location">Режим инкогнито: сервисы местоположения недоступны</string>
+    <string name="unable_get_location">Режим инкогнито: геолокация недоступна</string>
     <string name="unable_use_microphone">Режим инкогнито: микрофон недоступен</string>
     <string name="undelivered_msg_dialog_body">"Не удалось отправить сообщение.
 Последняя попытка: %s."</string>
