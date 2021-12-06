@@ -1077,6 +1077,7 @@
     <string name="face_unlock_fail_retry">"Не удалось распознать. Нажмите выше для повтора"</string>
     <string name="face_unlock_fail_retry_global">Нажмите выше для разблокировки по лицу</string>
     <string name="face_unlock_identify_error">Ошибка распознавания</string>
+    <string name="face_unlock_locked">Разблокировка по лицу недоступна</string>
     <string name="face_unlock_not_found">Не удалось распознать</string>
     <string name="face_unlock_not_roi">Держите лицо внутри кадра</string>
     <string name="face_unlock_offset_bottom">Немного опустите телефон</string>
@@ -1333,8 +1334,10 @@
     <string name="input_password_hint_text">Введите пароль</string>
     <string name="input_password_hint_text_v11">Введите пароль</string>
     <string name="input_pattern_after_boot_msg">После перезагрузки необходимо ввести графический ключ</string>
+    <string name="input_pattern_after_face_not_allowed">Для обеспечения безопасности требуется ввод пароля не реже одного раза в %d ч.</string>
     <string name="input_pattern_hint_text">Введите графический ключ</string>
     <string name="input_pattern_hint_text_v11">Введите графический ключ</string>
+    <string name="input_pattern_or_finger_after_face_not_allowed">Для обеспечения безопасности требуется ввод пароля или использование отпечатка не реже одного раза в %d ч.</string>
     <string name="input_pin_after_boot_msg">После перезагрузки необходимо ввести PIN-код</string>
     <string name="input_pin_code">Введите PIN-код</string>
     <string name="input_pin_hint_text_v11">Введите PIN-код</string>

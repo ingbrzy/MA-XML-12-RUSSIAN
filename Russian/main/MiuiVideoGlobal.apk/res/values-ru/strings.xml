@@ -322,6 +322,7 @@ ID: %s
     <string name="dialog_privacy_revoke_fail">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="dialog_privacy_revoke_ok">Отзыв согласия</string>
     <string name="dialog_privacy_revoke_success">Успешно отозвано</string>
+    <string name="dialog_privacy_revoke_title">Отзыв согласия</string>
     <string name="dialog_privacy_revoking">Отзыв согласия…</string>
     <string name="dialog_privacy_title">Условия и положения</string>
     <string name="dialog_revoke_privacy_info_new2">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение?</string>
@@ -1335,7 +1336,10 @@ ID: %s
     <string name="popup_click_for_download_video">Загрузить</string>
     <string name="popup_pip_activate_button">Настройки</string>
     <string name="popup_pip_not_activated">Разрешите Mi Видео использовать функцию \"Картинка в картинке\"</string>
+    <string name="privacy_agree_subtitle">Согласие с Политикой конфиденциальности Mi Видео позволит использовать все его функции</string>
+    <string name="privacy_agree_title">Согласие</string>
     <string name="privacy_revoke_setting">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Mi Видео.</string>
+    <string name="privacy_revoke_subtitle">Отзыв согласия с Политикой конфиденциальности Mi Видео</string>
     <string name="privacy_revoke_title">Отзыв согласия</string>
     <string name="pro_prize_popup_style_one">Удалить рекламу для %s</string>
     <string name="pro_prize_popup_style_two">Разблокировать доп. возможности для %s</string>
@@ -1549,6 +1553,8 @@ ID: %s
     <string name="tab_name_moment">Моменты</string>
     <string name="tab_name_trending">Рекомендуемые</string>
     <string name="tab_name_video">Видео</string>
+    <string name="talkback_ad_clicked">Реклама</string>
+    <string name="talkback_background_playback">Фоновое воспроизведение</string>
     <string name="target_sdk_version_30_upgrade_tips">Некоторые видео могут быть недоступны для просмотра из-за ограничений Android 11. Нажмите \"Файлы\", чтобы найти другие видео</string>
     <string name="temporary_not_available">Эта функция пока недоступна</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>

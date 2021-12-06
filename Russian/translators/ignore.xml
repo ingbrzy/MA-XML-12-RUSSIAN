@@ -874,6 +874,7 @@
     <string name="bluetooth_item_single_battery_level">%d%%</string>
     <string name="bluetooth_open_ok">蓝牙开启成功</string>
     <string name="bluetooth_package">com.android.bluetooth</string>
+    <string name="bluetooth_profile_volume_control">VOLUME_CONTROL</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="bookcity_downloadcenter__shared__download_font_immediately">后台下载</string>
     <string name="bookcity_downloadcenter__shared__download_font_later">以后再说</string>
@@ -2373,6 +2374,9 @@
     <string name="intent_host_stock">stock</string>
     <string name="intent_scheme">personalassistant</string>
     <string name="intercept_dimension_ratio">35:24</string>
+    <string name="intercept_net_fold_external_image_ratio">808:480</string>
+    <string name="intercept_net_split_image_ratio">898:528</string>
+    <string name="intercept_net_split_land_image_ratio">646:380</string>
     <string name="international_details_chance_of_rain">@string/indices_title_chance_of_rain</string>
     <string name="international_details_humidity">@string/realtime_humidity_title</string>
     <string name="international_details_no_data">@string/item_city_list_temperature_no_data</string>
@@ -4671,4 +4675,6 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
+<!-- ### FROM SOURCE -->
+    <string name="back_evergo">2:REDMI NOTE 11 5G</string>
 </resources>

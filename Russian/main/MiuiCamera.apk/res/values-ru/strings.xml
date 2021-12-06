@@ -166,6 +166,7 @@
     <string name="accessibility_preview_selected">Выбрано</string>
     <string name="accessibility_preview_shrink">Уменьшить</string>
     <string name="accessibility_preview_zoom_tip">Предпросмотр увеличения %1$.1f</string>
+    <string name="accessibility_privacy_watermark">Водяной знак</string>
     <string name="accessibility_pro_parameters_panel_on">Открыть меню с параметрами</string>
     <string name="accessibility_pro_video_simple_mode">Облегченный режим</string>
     <string name="accessibility_protrait">Портрет</string>
@@ -315,9 +316,9 @@
     <string name="ai_tianjin">Тяньцзинь</string>
     <string name="ai_valentine_day">День святого Валентина</string>
     <string name="ai_victoria_harbor">Бухта Виктория</string>
-    <string name="ai_watermark_title">Водяной знак AI</string>
-    <string name="ai_watermark_toast_off">Водяной знак AI отключен</string>
-    <string name="ai_watermark_toast_on">Водяной знак AI включен</string>
+    <string name="ai_watermark_title">AI Водяной знак</string>
+    <string name="ai_watermark_toast_off">AI Водяной знак отключен</string>
+    <string name="ai_watermark_toast_on">AI Водяной знак включен</string>
     <string name="ai_west_lake">Западное озеро</string>
     <string name="ai_wuhan">Ухань</string>
     <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
@@ -572,9 +573,9 @@
     <string name="custom_watermark_tips">Текст будет отображаться как вторая строка водяного знака. Он может содержать до 18 букв или 14 китайских символов.</string>
     <string name="custom_watermark_tips_gen2">До %1$d китайских символов или %2$d букв.</string>
     <string name="custom_watermark_too_many_words">Введенный текст слишком длинный</string>
-    <string name="custom_watermark_words">Пользовательский водяной знак</string>
+    <string name="custom_watermark_words">Дополнительный текст</string>
     <string name="custom_watermark_words_input_hint">Введите текст</string>
-    <string name="custom_watermark_words_save_success">Сохранено успешно</string>
+    <string name="custom_watermark_words_save_success">Успешно сохранено</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="dd_frn_f_t">Сложите устройство, чтобы использовать фронтальную камеру</string>
@@ -591,6 +592,10 @@
     <string name="dialog_google_lens_option_0">Google Объектив (рекомендуется)</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_ok_time">ОК (%d сек.)</string>
+    <string name="dialog_privacy_watermark_button_cancel">Отмена</string>
+    <string name="dialog_privacy_watermark_button_input">Сохранить</string>
+    <string name="dialog_privacy_watermark_msg">Введите текст</string>
+    <string name="dialog_privacy_watermark_title">Водяной знак</string>
     <string name="dirty_tip_toast">Объектив загрязнен, протрите его.</string>
     <string name="do_not_remind_me">Больше не показывать</string>
     <string name="doc_shortcut_long">Документы</string>
@@ -712,8 +717,8 @@
     <string name="face_beauty_age_alias_male_45_60">Мужской 45-60</string>
     <string name="face_beauty_age_alias_male_60_m">Мужской 60+</string>
     <string name="face_beauty_age_alias_male_8_17">Мужской 8-17</string>
-    <string name="face_beauty_close">Откл</string>
-    <string name="face_beauty_intelligent_level_0">Откл</string>
+    <string name="face_beauty_close">Откл.</string>
+    <string name="face_beauty_intelligent_level_0">Откл.</string>
     <string name="face_beauty_intelligent_level_1">Низкий</string>
     <string name="face_beauty_intelligent_level_2">Средний</string>
     <string name="face_beauty_intelligent_level_3">Высокий</string>
@@ -1141,6 +1146,8 @@
     <string name="network_connection_prerequisites_china">Включите Bluetooth и Wi-Fi, чтобы использовать мультикамерную съемку</string>
     <string name="network_connection_rejected">Отклонено</string>
     <string name="network_connection_timed_out">Тайм-аут подключения</string>
+    <string name="newbie_privacy_watermark_msg">Используйте водяные знаки для защиты документов от несанкционированного копирования</string>
+    <string name="newbie_privacy_watermark_title">Защита документов</string>
     <string name="night">Вечер</string>
     <string name="no_storage">Вставьте SD-карту перед использованием камеры</string>
     <string name="noon">Полдень</string>
@@ -1214,6 +1221,7 @@
     <string name="pic_flaw_cover">Похоже, объектив частично закрыт</string>
     <string name="popup_tip_3d_beauty_intro_text">3D улучшение</string>
     <string name="popup_tips_near_range_mode">Крупный план</string>
+    <string name="popup_tips_privacy_watermark_edit">Редактирование</string>
     <string name="portait_effect_entry_blackwhite">Ч/Б</string>
     <string name="portait_effect_entry_cool">Мята</string>
     <string name="portait_effect_entry_dusk">Сумерки</string>
@@ -1430,8 +1438,8 @@
     <string name="pref_camera_first_tag_tips">Тег добавлен</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Мягкий цвет</string>
-    <string name="pref_camera_flashmode_entry_off">Откл</string>
-    <string name="pref_camera_flashmode_entry_on">Вкл</string>
+    <string name="pref_camera_flashmode_entry_off">Откл.</string>
+    <string name="pref_camera_flashmode_entry_on">Вкл.</string>
     <string name="pref_camera_flashmode_entry_screen_halo">Кольцевая лампа</string>
     <string name="pref_camera_flashmode_entry_torch">Фонарик</string>
     <string name="pref_camera_flashmode_title">Вспышка</string>
@@ -1454,7 +1462,7 @@
     <string name="pref_camera_hdr_entry_auto">Авто</string>
     <string name="pref_camera_hdr_entry_live">Живой</string>
     <string name="pref_camera_hdr_entry_normal">Обычный</string>
-    <string name="pref_camera_hdr_entry_off">Откл</string>
+    <string name="pref_camera_hdr_entry_off">Откл.</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">Сохранение снимков в высокоэффективном формате HEIF</string>
     <string name="pref_camera_heic_image_format_description2">Высокоэффективный формат изображения уменьшает размер файлов, однако он может не поддерживаться некоторыми приложениями. Вы не сможете делать живые фотографии и удалять водяные знаки.</string>
@@ -1547,8 +1555,8 @@
     <string name="pref_camera_optimized_flash_enable_title">Оптимизация вспышки</string>
     <string name="pref_camera_panoramamode_title">Панорама</string>
     <string name="pref_camera_parallel_process_enable_title">Параллельная обработка изображения</string>
-    <string name="pref_camera_peak_entry_off">Откл</string>
-    <string name="pref_camera_peak_entry_on">Вкл</string>
+    <string name="pref_camera_peak_entry_off">Откл.</string>
+    <string name="pref_camera_peak_entry_on">Вкл.</string>
     <string name="pref_camera_peak_title">Выделение области фокусировки</string>
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -1569,8 +1577,8 @@
     <string name="pref_camera_rec_type_3d_record">3D звук</string>
     <string name="pref_camera_rec_type_audio_zoom">Аудиозум</string>
     <string name="pref_camera_rec_type_normal">Стандартный</string>
-    <string name="pref_camera_recordlocation_entry_off">Откл</string>
-    <string name="pref_camera_recordlocation_entry_on">Вкл</string>
+    <string name="pref_camera_recordlocation_entry_off">Откл.</string>
+    <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
     <string name="pref_camera_recordlocation_title">Сохранять местоположение</string>
     <string name="pref_camera_reference_capture_title">Контрольные линии</string>
     <string name="pref_camera_reference_capture_title_golden_section">Золотое сечение</string>
@@ -1605,7 +1613,7 @@
     <string name="pref_camera_show_gender_age_label_on">Возраст и пол</string>
     <string name="pref_camera_show_gender_age_title">Распознавание лиц</string>
     <string name="pref_camera_snap_enable_title">Быстрые снимки</string>
-    <string name="pref_camera_snap_entry_off">Откл</string>
+    <string name="pref_camera_snap_entry_off">Откл.</string>
     <string name="pref_camera_snap_entry_summary">Нажмите и удерживайте кнопку уменьшения громкости при выключенном экране, чтобы сделать снимок</string>
     <string name="pref_camera_snap_entry_take_movie">Быстрые снимки (видео)</string>
     <string name="pref_camera_snap_entry_take_picture">Быстрые снимки (фото)</string>
@@ -1627,8 +1635,8 @@
     <string name="pref_camera_tip_doc">Сканирование документов</string>
     <string name="pref_camera_tip_id_card">Сканирование удостоверений</string>
     <string name="pref_camera_touch_focus_delay_title">Увеличить время ожидания фокусировки касанием</string>
-    <string name="pref_camera_touchafaec_entry_off">Откл</string>
-    <string name="pref_camera_touchafaec_entry_on">Вкл</string>
+    <string name="pref_camera_touchafaec_entry_off">Откл.</string>
+    <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
     <string name="pref_camera_track_focus_preferred_description">Автоматическая фокусировка на людях и животных. Также доступен ручной выбор объектов для фокусировки.</string>
     <string name="pref_camera_track_focus_preferred_title">Автоматическая фокусировка</string>
     <string name="pref_camera_ubifocus_title">Комбо фокус</string>
@@ -1752,6 +1760,11 @@
     <string name="pref_popup_camera_title">Эффекты фронтальной камеры</string>
     <string name="pref_priority_storage_title">Сохранять на SD-карту</string>
     <string name="pref_privacy_title">Политика конфиденциальности</string>
+    <string name="pref_privacy_watermark_edit">Пользовательский текст</string>
+    <string name="pref_privacy_watermark_edit_clear_history">Очистить</string>
+    <string name="pref_privacy_watermark_edit_history">История</string>
+    <string name="pref_privacy_watermark_entry">Водяной знак</string>
+    <string name="pref_privacy_watermark_switch">Показывать переключатель для водяного знака</string>
     <string name="pref_professional_display">Профессиональный</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_qc_focus_position_title_abbr">F</string>
@@ -1772,8 +1785,8 @@
     <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
     <string name="pref_scan_qrcode_title">Сканировать QR-коды</string>
     <string name="pref_setting_title">Настройки</string>
-    <string name="pref_simple_hdr_entry_off">Откл</string>
-    <string name="pref_simple_hdr_entry_on">Вкл</string>
+    <string name="pref_simple_hdr_entry_off">Откл.</string>
+    <string name="pref_simple_hdr_entry_on">Вкл.</string>
     <string name="pref_skin_beautify_color_title">Тон</string>
     <string name="pref_skin_beautify_eye_title">Глаза</string>
     <string name="pref_skin_beautify_intelligent_title">Умный</string>
@@ -1783,7 +1796,7 @@
     <string name="pref_sound_noise_reduction_summary">Во время записи</string>
     <string name="pref_super_night_se_summary">Автоматически переключаться на ночной режим при темном освещении</string>
     <string name="pref_super_night_se_title">Ночной режим</string>
-    <string name="pref_userdefine_watermark_title">Пользовательский водяной знак</string>
+    <string name="pref_userdefine_watermark_title">Дополнительный текст</string>
     <string name="pref_video_ai_audio_single">Фронтальный звук</string>
     <string name="pref_video_captrue_ability_title">Захват кадра при съемке</string>
     <string name="pref_video_capture_repeating_title">Съемка фото во время записи видео</string>
