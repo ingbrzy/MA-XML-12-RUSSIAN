@@ -147,6 +147,13 @@
     <string name="album_page_empty">Пусто</string>
     <string name="album_page_label">Альбомы</string>
     <string name="album_pano_name">Панорамы</string>
+    <string name="album_permission_activity_title">Управление разрешениями</string>
+    <string name="album_permission_state_granted">Предоставлено</string>
+    <string name="album_permission_state_non_granted">Предоставить</string>
+    <string name="album_permission_subtitle_single">%2$d альбом (%1$s)</string>
+    <string name="album_permission_tip_text">Галерее требуются разрешения для синхронизации, редактирования и управления альбомами, показанными ниже.</string>
+    <string name="album_permission_title_granted">Предоставлено</string>
+    <string name="album_permission_title_non_granted">Не предоставлено</string>
     <string name="album_quota_fulfiled">Слишком много альбомов. Удалите часть альбомов и повторите попытку.</string>
     <string name="album_rubbish_cant_change_status">Нельзя синхронизировать альбомы, которые перемещены в корзину</string>
     <string name="album_rubbish_clear_all_item_description">Очистка корзины</string>
@@ -282,6 +289,7 @@
     <string name="backup_device_space_low_title">Недостаточно места</string>
     <string name="backup_dirty_num">Всего: %s</string>
     <string name="backup_dirty_tip">Не выгруженные фото и видео</string>
+    <string name="backup_disable_message">Галерее необходимо очистить кеш после отключения синхронизации с облаком.</string>
     <string name="backup_file_over_size_desc">Фото размером более %1$s и видео размером более %2$s не могут быть выгружены.</string>
     <string name="backup_immediately">Начать</string>
     <string name="backup_need_sync_desc">Нажмите для продолжения</string>
@@ -608,6 +616,7 @@
     <string name="default_relation_name">Новая группа</string>
     <string name="define_by_user">Особый</string>
     <string name="delete">Удалить</string>
+    <string name="delete_account_message">Галерее необходимо очистить кэш после выхода из Mi Аккаунта.</string>
     <string name="delete_album_failed">Ошибка удаления альбома</string>
     <string name="delete_album_msg_format">Удалить альбом \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_msg_format_cloud">Удалить %1$s %2$s из Xiaomi Cloud и всех синхронизированных устройств?</string>
@@ -633,6 +642,12 @@
     <string name="device_status_sending">Отправка…</string>
     <string name="device_status_success">Успешно отправлено</string>
     <string name="device_status_waiting">Ожидание…</string>
+    <string name="device_storage_space_low_dialog_des">Сохраните оригинальные фото и видео в облаке, оставив на устройстве высококачественные копии меньшего размера, чтобы освободить %s места.</string>
+    <string name="device_storage_space_low_dialog_title">Недостаточно места</string>
+    <string name="device_storage_space_low_notice_des">Выполните синхронизацию фото и видео с облаком, чтобы освободить %s места.</string>
+    <string name="device_storage_space_low_notice_title">Заканчивается место</string>
+    <string name="device_storage_space_low_textline_button">Начать</string>
+    <string name="device_storage_space_low_textline_des">"Освободите %s места. "</string>
     <string name="device_type_pc">ПК</string>
     <string name="disable_auto_upload_tip">Отключить синхронизацию с облаком для этого альбома?</string>
     <string name="disable_auto_upload_title">Отключение синхронизации</string>
@@ -769,6 +784,8 @@
     <string name="error_storage_full_action">Освободить</string>
     <string name="error_storage_full_msg">Освободите место на устройстве и повторите попытку.</string>
     <string name="error_storage_full_tip">Недостаточно места</string>
+    <string name="error_storage_no_write_permission_tip_action">Предоставить</string>
+    <string name="error_storage_no_write_permission_tip_title">"Для синхронизации некоторых альбомов требуются разрешения. "</string>
     <string name="error_sync_off_action">Включить</string>
     <string name="error_sync_off_msg">Убедитесь, что вы включили синхронизацию с облаком.</string>
     <string name="error_sync_off_tip">Синхронизация отключена</string>
@@ -943,6 +960,7 @@
     <string name="filter_popular_autumn">Осень</string>
     <string name="filter_popular_blackred">Сангрия</string>
     <string name="filter_popular_bluedream">Грезы</string>
+    <string name="filter_popular_blues">Блюз</string>
     <string name="filter_popular_coffee">Кофе</string>
     <string name="filter_popular_coldsmoke">Прохладный туман</string>
     <string name="filter_popular_comic">Аниме</string>
@@ -967,6 +985,7 @@
     <string name="filter_popular_smokegreen">Шалфей</string>
     <string name="filter_popular_summercloud">Летнее облако</string>
     <string name="filter_popular_sunset">Вечер</string>
+    <string name="filter_popular_sunset_gold">Сияние</string>
     <string name="filter_popular_wakakusa">Вакакуса</string>
     <string name="filter_popular_watergreen">Изумруд</string>
     <string name="filter_popular_windchime">Колокольчик</string>
@@ -1125,6 +1144,7 @@
     <string name="help">Не можете найти устройство?</string>
     <string name="help_content">Если вы не можете найти нужное устройство, попросите другого человека включить Mi Share.</string>
     <string name="hidden_album_display_name">Скрытый альбом</string>
+    <string name="hide_nearby_photos">Скрыть фото и видео поблизости</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="home_menu_all_photos">Все</string>
@@ -1196,7 +1216,8 @@
     <string name="input_or_select_a_name">Введите или выберите имя</string>
     <string name="input_relation_name">Введите имя группы</string>
     <string name="install_fail">Не удалось загрузить плагин из-за ошибки.</string>
-    <string name="install_media_editor_message">Для возможности редактирования, необходимо загрузить плагин. Загрузить?</string>
+    <string name="install_media_editor_latest_message">Для возможности редактирования загрузите последнюю версию плагина.</string>
+    <string name="install_media_editor_message">Для возможности редактирования необходимо загрузить плагин. Загрузить?</string>
     <string name="install_media_editor_title">Загрузка плагина</string>
     <string name="internal_storage_device">Хранилище</string>
     <string name="invalid_invition_url">Неверная ссылка</string>
@@ -1372,6 +1393,7 @@
     <string name="map_grant_position_permission_after_declined_twice_message">Разрешите приложению \"Галерея\" использование геолокации для отображения на карте фото и видео</string>
     <string name="map_grant_position_permission_subtitle">Для отображения на карте фото и видео</string>
     <string name="map_guide_message">Посмотрите на карте где сняты фото и видео</string>
+    <string name="map_location">Перейти к текущему местоположению</string>
     <string name="map_positioning_failed_tip">Не удалось получить информацию о местоположении из-за слабого сигнала</string>
     <string name="map_privacy_dialog_message"><Data>Этот сервис позволяет отображать на карте фото и видео с информацией о местоположении. Для обеспечения сервиса используется Baidu Map Open SDK. Чтобы узнать больше, ознакомьтесь с &lt;a href=\"%1$s\">Политикой конфиденциальности Baidu Map для продуктов и сервисов Open Platform&lt;/a>.</Data></string>
     <string name="map_privacy_dialog_title">Карта галереи</string>
@@ -1423,6 +1445,13 @@
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="micloud_introduce">Автоматически синхронизировать фото и видео (требуется Mi Аккаунт)</string>
     <string name="midnight">Ночь</string>
+    <string name="migrate_msg">Для некоторых альбомов требуются разрешения на перемещение файлов после обновления системы.</string>
+    <string name="miplay_adjust_volume">Уровень громкости: %d</string>
+    <string name="miplay_pause_video">Пауза</string>
+    <string name="miplay_play_video">Воспроизведение</string>
+    <string name="miplay_seekbar_content_description">Прогресс воспроизведения: %1$s %2$s</string>
+    <string name="miplay_stop_video">Остановить</string>
+    <string name="miplay_volume_btn">Громкость</string>
     <string name="mishare_all_devices">Все устройства</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -1644,6 +1673,7 @@
     <string name="ocr_using_cellular_text">Использование мобильного интернета для распознавания текста может привести к дополнительным расходам. Продолжить?</string>
     <string name="ok">ОК</string>
     <string name="onekey_auto">Авто</string>
+    <string name="onekey_beautify_tag_done">Эффекты применены</string>
     <string name="onekey_food">Еда</string>
     <string name="onekey_none">Оригинал</string>
     <string name="onekey_portrait">Портрет</string>
@@ -1721,6 +1751,7 @@
     <string name="operation_unforce_top">Открепить</string>
     <string name="operation_unhide">Показать</string>
     <string name="operation_video_compress">Сжать видео</string>
+    <string name="operation_watermark">Водяной знак</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orientation_lock_tip">Автоповорот выключен</string>
@@ -1735,6 +1766,8 @@
     <string name="owner_album_subtitle">Пользователей: %1$s</string>
     <string name="pad_device_model_name">Планшет Xiaomi</string>
     <string name="pc_device_model_name">ПК</string>
+    <string name="pc_redmi_device_model_name">Ноутбук Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Ноутбук Xiaomi</string>
     <string name="people_album_empty_title">Фото можно отсортировать по лицам</string>
     <string name="people_jump_failed">Дождитесь окончания синхронизации с облаком и повторите попытку</string>
     <string name="people_mark_mode_title">Выберите \"%s\"</string>
@@ -1749,6 +1782,11 @@
     <string name="permission_contacts_desc_2">Связывание людей на фото с контактами</string>
     <string name="permission_contacts_name">Контакты</string>
     <string name="permission_contacts_name_2">Доступ к контактам</string>
+    <string name="permission_custom_cta_network_button_negative">Выход</string>
+    <string name="permission_custom_cta_network_button_positive">Принимаю</string>
+    <string name="permission_custom_cta_network_title">Внимание</string>
+    <string name="permission_location">Использование геолокации</string>
+    <string name="permission_location_desc">Для отображения фото и видео на карте</string>
     <string name="permission_optional_category">Необязательные разрешения</string>
     <string name="permission_phone_desc">Синхронизация на связанных устройствах недавно удаленных файлов в Xiaomi Cloud</string>
     <string name="permission_phone_name">Устройство</string>
@@ -1818,6 +1856,7 @@
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин (%1$d MБ) через мобильный интернет?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин (%1$d MБ) через мобильный интернет?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Загрузка плагина</string>
+    <string name="photo_editor_privacy_watermark">Водяной знак</string>
     <string name="photo_editor_remove_watermark">Удалить водяной знак</string>
     <string name="photo_editor_remove_watermark_on">Добавить водяной знак</string>
     <string name="photo_editor_remover">Ластик</string>
@@ -1876,6 +1915,7 @@
     <string name="photo_editor_talkback_sky_audio_open">Воспроизводить звук</string>
     <string name="photo_editor_talkback_undo">Отменить</string>
     <string name="photo_editor_text">Текст</string>
+    <string name="photo_editor_watermark_default">НЕ КОПИРОВАТЬ</string>
     <string name="photo_font_cancel_download">Отмена</string>
     <string name="photo_font_download">Загрузить</string>
     <string name="photo_font_download_failed_for_notwork">"Ошибка загрузки. Подключитесь к сети и повторите попытку."</string>
@@ -2164,6 +2204,15 @@
     <string name="rubbish_album_move_to_other_album_success">Вы можете найти эти файлы в альбоме \"Другие\".</string>
     <string name="rubbish_nomedia_manager_button_text">Альбомы с файлами \".nomedia\"</string>
     <string name="runtime_permission_ungranted">Невозможно использовать Галерею без необходимых разрешений</string>
+    <string name="saf_hyper_link_text">Управление разрешениями</string>
+    <string name="saf_operation_guide_1">"Галерее требуется разрешение для защиты и управления данными. "</string>
+    <string name="saf_operation_guide_2">Чтобы предоставить разрешение, нажмите \"%1$s\" и выберите \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Далее</string>
+    <string name="saf_operation_guide_param2">Доступ к папке</string>
+    <string name="saf_requester_cancel">Отмена</string>
+    <string name="saf_requester_title">Разрешить Галерее доступ к \"%s\"</string>
+    <string name="saf_secret_album">Приватный альбом</string>
+    <string name="saf_secret_album_guide">Этому приложению требуются разрешения для отображения содержимого вашего личного альбома.</string>
     <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung</string>
@@ -2175,6 +2224,14 @@
     <string name="scan_barcode_to_join">Отсканируйте QR-код для добавления альбома</string>
     <string name="scan_qr_code_buttom_text">Отсканируйте QR-код для просмотра альбома</string>
     <string name="scanning_device_tips">Поиск устройств поблизости… Убедитесь, что другое устройство находится в режиме обнаружения.</string>
+    <string name="scope_storage_dialog_cancel_btn">Отмена</string>
+    <string name="scope_storage_dialog_confirm_btn">Далее</string>
+    <string name="scope_storage_dialog_description">Разрешения галереи обновлены. Разрешите Галерее доступ к этой папке для просмотра ее содержимого.</string>
+    <string name="scope_storage_dialog_guide_content"><Data>Нажмите &lt;b>\"%1$s\"&lt;/b> и выберите &lt;b>\"%2$s\"&lt;/b>.</Data></string>
+    <string name="scope_storage_dialog_guide_title">Предоставление разрешения</string>
+    <string name="scope_storage_dialog_title">Требуются разрешения</string>
+    <string name="scope_storage_operation_btn_1">Сохранить</string>
+    <string name="scope_storage_operation_btn_2">Доступ к папке</string>
     <string name="screen_doodle_talkback_size">Ширина линии</string>
     <string name="screen_editor_btn_delete">Удалить</string>
     <string name="screen_editor_btn_save">Сохранить</string>
@@ -2333,6 +2390,7 @@
     <string name="show_in_other_albums_disable_toast_long_press_menu">Альбом перемещен, перейдите в Другие для просмотра</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Альбом перемещен, перейдите в Альбомы для просмотра</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Перемещено в корзину</string>
+    <string name="show_nearby_photos">Показать фото и видео поблизости</string>
     <string name="signature_dialog_clear">Очистить</string>
     <string name="signature_manage_dialog_title_string">Подпись</string>
     <string name="signature_view_add_signature_String">Добавить подпись</string>
@@ -2459,6 +2517,7 @@
     <string name="sticker_tab_talkback_frog">Лягушка</string>
     <string name="sticker_tab_talkback_graduate">Выпускной</string>
     <string name="sticker_tab_talkback_graffito">Карандаш</string>
+    <string name="sticker_tab_talkback_halloween">Хэллоуин</string>
     <string name="sticker_tab_talkback_line">Линии</string>
     <string name="sticker_tab_talkback_lovely">Привлекательность</string>
     <string name="sticker_tab_talkback_markpen">Маркер</string>
@@ -3170,6 +3229,9 @@
     <string name="vlog_video_trans_code_cons">Импортирование…</string>
     <string name="voice_assistant">Голосовой ввод</string>
     <string name="watch_all_photo">Галерея</string>
+    <string name="watermark_enter">Водяной знак</string>
+    <string name="watermark_summary">Распознавать фото удостоверений личности, хранящихся на устройстве, и предлагать добавление водяных знаков для защиты фото</string>
+    <string name="watermark_title">Водяной знак</string>
     <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
     <string name="web_sso_login_message">Авторизация…</string>
     <string name="webview_reload">Повторить</string>

@@ -54,6 +54,7 @@
     <string name="application_permissions">Разрешения приложений</string>
     <string name="back">Назад</string>
     <string name="backup_introduction">Это приложение можно использовать для сохранения резервных копий на устройстве и восстановления из них.</string>
+    <string name="bluetooth_introduction">Bluetooth используется системой для беспроводной связи. Для нормальной работы Bluetooth необходимы следующие разрешения:</string>
     <string name="boot_video_desc" />
     <string name="boot_video_replay">Повтор</string>
     <string name="boot_video_skip">Пропустить</string>
@@ -66,6 +67,7 @@
     <string name="clock_introduction">Вы можете использовать это приложение для просмотра текущего и мирового времени, для установки будильников, а также для таймера, секундомера и многого другого.</string>
     <string name="close">Закрыть</string>
     <string name="close_location_service_setting">Вы можете отключить геолокацию в Настройки &gt; Защита конфиденциальности, либо ограничить разрешения для отдельных приложений в приложении Безопасность.</string>
+    <string name="cloud_service_discount">Скидки на тарифные планы</string>
     <string name="cm_terms_content">Для повышения качества предоставляемых сервисов, выбранный мобильный оператор может сохранять ваши персональные данные и сведения об устройстве на своих серверах, используя сети Wi-Fi или мобильный интернет. Эта информация будет использоваться только в статистических целях для повышения качества сервисов и предоставления персонализированного контента. Данная информация не будет использоваться в целях вашей идентификации и не будет передана третьим лицам.</string>
     <string name="cm_terms_title">Соглашение с оператором мобильной связи</string>
     <string name="compass_introduction">Вы можете использовать это приложение для навигации, для просмотра координат, атмосферного давления и высоты.</string>
@@ -108,6 +110,7 @@
     <string name="disagreement_location_service_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать геолокацию. Включить или отключить геолокацию можно в любое время в разделе Настройки > Защита конфиденциальности.</string>
     <string name="disagreement_mi_account_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать службы Mi Аккаунта. Включить или выключить эти службы можно в любое время в разделе Настройки > Mi Аккаунт.</string>
     <string name="disagreement_service_not_working_properly">В случае отказа предоставить эти разрешения, вы не сможете использовать это приложение.</string>
+    <string name="disagreement_terminate_bluetooth">В случае отказа предоставить необходимые разрешения, вы не сможете использовать Bluetooth. Вы можете включать и отключать Bluetooth, а также добавлять устройства Bluetooth в Настройках.</string>
     <string name="disagreement_terminate_miuidaemon">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис. В таком случае вы можете отказаться от использования этого сервиса или ограничить разрешения в настройках. Обратите внимание, что мы будем использовать разрешения при передаче данных с устройства, если его экран поврежден.</string>
     <string name="disagreement_terminate_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В таком случае вы можете удалить приложение, выйти из учетной записи или ограничить разрешения в настройках.</string>
     <string name="download_introduction">Это приложение управляет всеми загрузками, включая загрузки в приложениях GetApps, Mi Видео, Обновление, Темы и Браузер.</string>
@@ -119,6 +122,7 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
+    <string name="exclusive_member_merchandise">Эксклюзивные предложения</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="fast_application_introduction">Фреймворк Быстрые приложения позволяет создавать и предоставлять свои сервисы в Быстрых приложениях.</string>
     <string name="fast_pairing_introduction">Mi Link позволяет вашему устройству подключаться к Bluetooth-устройствам поблизости с помощью службы MIUI Bluetooth. Для возможности поиска устройств поблизости, разрешите приложению подключение к интернету.</string>
@@ -174,6 +178,8 @@
     <string name="location_introduction">Службы на основе геолокации позволяют находить услуги рядом с вами</string>
     <string name="location_location">Аварийно-спасательные службы могут получить ваше текущее местоположение по запросу</string>
     <string name="lockscreen_introduction">Карусель обоев позволяет регулярно получать новые обои на экран блокировки.</string>
+    <string name="member_exclusive_medal">Значок участника</string>
+    <string name="membership_rights_tip">Войдите в Mi Аккаунт, чтобы получить эксклюзивные преимущества</string>
     <string name="message_introduction">Это приложение можно использовать для отправки и получения SMS.</string>
     <string name="mi_account_introduction">Mi Аккаунт позволяет регистрироваться, выполнять вход и управлять учетными записями.</string>
     <string name="midnight">Ночь</string>
@@ -302,12 +308,14 @@
     <string name="permission_backup">Доступ к хранилищу</string>
     <string name="permission_backup_introduction">Для управления резервными копиями на устройстве</string>
     <string name="permission_call_records">Доступ к журналу вызовов</string>
+    <string name="permission_call_records_describe_bluetooth_summary">Для предоставления доступа к журналу вызовов другим совместимым устройствам, подключенных к этому устройству. Доступ будет предоставляться только если вы заранее разрешите его для другого устройства. Журнал вызовов и контакты, передаваемые через Bluetooth, будут кэшированы локально на устройствах и предоставляться им только с вашего разрешения.</string>
     <string name="permission_call_records_introduction">Для доступа к журналу звонков для отображения заблокированных элементов</string>
     <string name="permission_call_state_introduction">Для доступа к состоянию телефона и управления записью вызовов</string>
     <string name="permission_clock_info_introduction">Для сохранения данных будильников</string>
     <string name="permission_contact">Доступ к контактам</string>
     <string name="permission_contact_describe">Доступ к контактам</string>
     <string name="permission_contact_describe_MIUIDaemon_summary">Для подтверждения личности</string>
+    <string name="permission_contact_describe_bluetooth_summary">Для предоставления доступа к контактам другим совместимым устройствам, подключенных к этому устройству. Доступ будет предоставляться только при включенном Bluetooth или редактировании контактов при включенном Bluetooth.</string>
     <string name="permission_contact_describe_desktop_summary">Для использования функции экстренного контакта на рабочем столе в Простом режиме и отображения уведомлений чатов;</string>
     <string name="permission_contact_describe_message_summary">Для отображения соответствующей контактной информации SMS и MMS.</string>
     <string name="permission_contact_introduction">Для обеспечения функциональности черного списка и вызова экстренных контактов</string>
@@ -446,6 +454,7 @@
     <string name="service_name_album">Галерея</string>
     <string name="service_name_application_package">Установщик пакетов</string>
     <string name="service_name_backup">Резервное копирование</string>
+    <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_calculator">Калькулятор</string>
     <string name="service_name_camera">Камера</string>
     <string name="service_name_carrier">Заявление о сервисах оператора</string>
@@ -488,6 +497,11 @@
     <string name="sim_card_detection_mobile_not_available">Ну удалось подключиться к сети с помощью этой SIM-карты</string>
     <string name="sim_card_detection_sb_esim">Активировать eSIM ></string>
     <string name="sim_card_detection_sb_nonactivated">Не активирована</string>
+    <string name="sim_card_dial_card1">SIM 1 - вызовы</string>
+    <string name="sim_card_dial_card2">SIM 2 - вызовы</string>
+    <string name="sim_card_do_not_select_dial_card">Выбирать SIM при наборе</string>
+    <string name="sim_card_network_card1">SIM 1 - интернет</string>
+    <string name="sim_card_network_card2">SIM 2 - интернет</string>
     <string name="sim_dectection_next">Продолжить</string>
     <string name="sim_redetection">Проверить снова</string>
     <string name="sim_scard_detecting_check_mobile_not_available">Ваша SIM-карта не смогла подключиться к сети оператора связи. Убедитесь, что на вашем балансе достаточно средств, и повторите попытку.</string>
@@ -639,6 +653,7 @@
     <string name="title_set_fingerprint">Блокировка экрана</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
+    <string name="trade_in">Трейд-ин</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
@@ -669,6 +684,9 @@
     <string name="wednesday_shortest">Ср</string>
     <string name="welcome">Добро пожаловать</string>
     <string name="withdraw_consent">В случае отзыва согласия, сервисы Карусели обоев будут отключены.</string>
+    <string name="xiaomi_game_discounts">Игровые промоакции</string>
+    <string name="xiaomi_membership_rights">Тарифные планы Xiaomi Cloud</string>
+    <string name="xiaomi_video_discount">Предложения Mi Видео</string>
     <string name="yesterday">Вчера</string>
     <string name="zone_picker_title">Выберите часовой пояс</string>
 </resources>

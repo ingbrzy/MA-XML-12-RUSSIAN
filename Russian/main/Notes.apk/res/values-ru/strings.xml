@@ -575,6 +575,7 @@
     <string name="pc_todo_fast_create_hint">Нажмите \"Ввод\" для добавления незавершенной задачи</string>
     <string name="pc_todo_set_remind_time_hint">Установите время</string>
     <string name="permdesc_accessNote">Вредоносные приложения могут использовать это разрешение для доступа к вашей личной информации.</string>
+    <string name="permission_data_shared_desc">Заявление о совместном использовании данных третьими сторонами</string>
     <string name="permission_get_account_desc">Синхронизация заметок с облаком</string>
     <string name="permission_intro_contact">Для маркировки заметок, сделанных во время вызовов</string>
     <string name="permission_intro_microphone">Для записи голосовых заметок</string>
@@ -588,6 +589,8 @@
     <string name="permission_storage_desc_pad_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_storage_desc_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI сохранит ваши голосовые записи и ID устройства для транскрибирования и создания голосовых заметок. Узнайте больше о Mi AI в &lt;a href=\"%1$s\"&gt;Политике конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="permission_xiaoai_desc_new"><Data>Для сервиса преобразования речи в текст, Mi AI требуется сбор аудиоданных и получение идентификатора устройства, который генерируется случайным образом. Перед использованием примите &lt;a href=\"%1$s\">Заявление о совместном использовании данных третьими сторонами&lt;/a>. Для подробностей ознакомьтесь с &lt;a href=\"%2$s\">Политикой конфиденциальности&lt;/a> Mi AI.</Data></string>
+    <string name="permission_xiaoai_title">Преобразование речи в текст</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
     <string name="pm">PM</string>
     <string name="pref_category_title_quick_func">Быстрые функции</string>

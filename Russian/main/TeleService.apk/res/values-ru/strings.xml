@@ -236,6 +236,7 @@
     <string name="alertdialogtitle">Результаты</string>
     <string name="all_day">" Весь день "</string>
     <string name="all_empty_alert">Укажите параметры нового SIP-аккаунта.</string>
+    <string name="allow">Предоставлено</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="already_auto">Автовыбор</string>
@@ -254,6 +255,7 @@
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="arrears_sim_summary">Пополните баланс, чтобы быть на связи</string>
     <string name="arrears_sim_title">Недостаточно средств</string>
+    <string name="ask">Спросить</string>
     <string name="atr_disable">Информация о пробках отключена</string>
     <string name="atr_enable">Информация о пробках включена</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -1832,6 +1834,7 @@
     <string name="not_set">Не задано</string>
     <string name="not_support_forbidden_fakecell">Устройство не поддерживает на аппаратном уровне защиту от поддельных базовых станций</string>
     <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
+    <string name="notallow">Не предоставлено</string>
     <string name="notice_header" />
     <string name="notification_channel_demo">Демонстрационное устройство</string>
     <string name="notification_channel_sip_account">Устаревшие аккаунты SIP</string>
@@ -1854,6 +1857,8 @@
     <string name="nr_usaged_used_time">Длительность использования</string>
     <string name="number">Номер</string>
     <string name="numerous_emergency_numbers_title">Экстренные номера</string>
+    <string name="obtain_location_information">Использование геолокации</string>
+    <string name="obtain_location_information_summary">Для оптимизации сетевого окружения</string>
     <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_radio_info_label">OEM-специфичная информация/Настройки</string>
     <string name="oem_unlock_enable">Заводская разблокировка</string>
@@ -1966,6 +1971,7 @@
     <string name="pause_prompt_yes">Да</string>
     <string name="payphone">Таксофон</string>
     <string name="pci_num">номер lte pci</string>
+    <string name="permission_description">Сведения о разрешениях</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="phoneIconLabel">Телефон</string>
     <string name="phone_account_settings">Аккаунты для вызовов</string>
@@ -2044,6 +2050,7 @@
     <string name="prefered_network_type_3g_promp">Вы должны отключить VoLTE до выбора 3G в качестве предпочтительного типа сети. Отключить?</string>
     <string name="preference_auto_ip_summary_disable">Откл</string>
     <string name="preference_category_ringtone">Мелодия и вибрация</string>
+    <string name="preference_check_privacy">Политика конфиденциальности</string>
     <string name="preference_copied">\"%1$s\" в буфере обмена</string>
     <string name="preference_countrycode_title">Код страны</string>
     <string name="preference_data_usage_summary">Установка тарифного плана для контроля трафика</string>
@@ -2052,6 +2059,7 @@
     <string name="preference_dial_pad_touch_tone_off">Отключен</string>
     <string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
     <string name="preference_dial_pad_touch_tone_title">Звук при наборе номера</string>
+    <string name="preference_permission_related">Разрешения</string>
     <string name="preference_summary_default_combination">%2$s: %1$s</string>
     <string name="preference_telocation_summary_countrycode_off">не добавлять код страны автоматически</string>
     <string name="preference_telocation_summary_countrycode_on">добавлять код страны автоматически</string>
@@ -2165,6 +2173,7 @@
     <string name="preferred_phone_account">Предпочтительный аккаунт</string>
     <string name="preferred_wificall_title">Режим сети</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="privacy_setting">Конфиденциальность</string>
     <string name="private_dns_broken">Приватный DNS-сервер недоступен</string>
     <string name="private_dns_mode_off">Отключено</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
@@ -2280,6 +2289,8 @@ UT-интерфейс: %5$s"</string>
     <string name="radio_info_voice_network_type_label">Тип сети для голосовой связи:</string>
     <string name="radio_off_during_emergency_call">Во время экстренного вызова перейти в режим полета нельзя</string>
     <string name="radio_off_error">Включите радиомодуль для просмотра этих настроек.</string>
+    <string name="read_call_log">Запись аудио</string>
+    <string name="read_call_log_summary">Для записи вызовов</string>
     <string name="reading_settings">Чтение настроек…</string>
     <string name="regional_disable">Региональные новости отключены</string>
     <string name="regional_enable">Региональные новости включены</string>
