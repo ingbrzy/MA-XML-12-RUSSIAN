@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -103,10 +104,13 @@
     <string name="catch_full_log_item_content_title">Как создать журналы</string>
     <string name="catch_full_log_item_title_audio">Аудио, рингтон и аудиозапись</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_camera">Камера</string>
+    <string name="catch_full_log_item_title_charge">Зарядка</string>
     <string name="catch_full_log_item_title_dump_heap">Задержки</string>
     <string name="catch_full_log_item_title_gps">Геолокация</string>
     <string name="catch_full_log_item_title_sensor">Датчики</string>
     <string name="catch_full_log_item_title_signal">Телефон, сигнал и мобильные сети</string>
+    <string name="catch_full_log_item_title_trace">Задержка</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
     <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
     <string name="catch_full_log_notification_content">Нажмите для возврата</string>
@@ -156,6 +160,9 @@ ID: %s
     <string name="discard_draft_dialog_button_discard">Удалить</string>
     <string name="discard_draft_dialog_content">Любые изменения, внесенные вами в этот отчет, будут потеряны.</string>
     <string name="discard_draft_dialog_title">Удалить черновик?</string>
+    <string name="doing_login">Вход…</string>
+    <string name="doing_query_account">Проверка информации об аккаунте…</string>
+    <string name="doing_register">Создание аккаунта…</string>
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -332,14 +339,18 @@ ID: %s
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 аккаунтов. Невозможно добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
+    <string name="getverifycode_seconde">сек.</string>
     <string name="google_application_id"/>
     <string name="goon_feedback_main">Продолжить</string>
     <string name="goto_sign_up">Создать аккаунт</string>
+    <string name="header_help">Помощь</string>
     <string name="hint_feedback_main">Опишите проблему (на английском)</string>
+    <string name="i_get_it">Понятно</string>
     <string name="i_know">ОК</string>
     <string name="identity">Идентификация</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения аккаунта</string>
+    <string name="input_length_exceeds_limit">Слишком длинный текст</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="isornot_your_mi_account">Это ваш Mi Аккаунт?</string>
     <string name="issue_search">Поиск</string>
@@ -365,7 +376,12 @@ ID: %s
     <string name="kr_authorization_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="loading">Подождите…</string>
     <string name="loading_apps">Загрузка списка приложений…</string>
+    <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
+    <string name="login_by_local_phone_short_text">Вход</string>
+    <string name="login_other">Другой Mi Аккаунт</string>
+    <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
+    <string name="login_with_sns">Другие варианты входа</string>
     <string name="logo_title">Отчет</string>
     <string name="logout_account">Выйти из аккаунта</string>
     <string name="max_error">Ваш %1$s слишком длинный.</string>
@@ -439,6 +455,9 @@ ID: %s
     <string name="michat_webview_title">Подробности</string>
     <string name="midnight">Ночь</string>
     <string name="min_error">Ваш %1$s слишком короткий.</string>
+    <string name="mishop_login_other">Другой аккаунт</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -453,6 +472,8 @@ ID: %s
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -531,6 +552,7 @@ ID: %s
     <string name="multi_graph_more">Всего объектов: %d</string>
     <string name="net_error_info">Нет подключения к сети, нажмите для перехода к настройкам</string>
     <string name="network_err">Не удалось подключиться к сети</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_errorbtntip_custom">Повторить</string>
     <string name="network_errorbtntip_login">Войти</string>
     <string name="network_errorbtntip_noconnection">Проверьте настройки сети</string>
@@ -545,6 +567,7 @@ ID: %s
     <string name="network_errortip_server">Ошибка сервера, повторите попытку позже</string>
     <string name="network_errortip_timeout">Время ожидания истекло, повторите попытку позже</string>
     <string name="network_errortip_unknow">Мы пытаемся это исправить…</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
     <string name="network_unavailable_dialog_content">Ваш отчет будет отправлен при подключении к сети.</string>
     <string name="network_unavailable_dialog_title">Интернет недоступен</string>
@@ -658,12 +681,21 @@ ID: %s
     <string name="phone_number">Номер телефона</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="pic_not_exist">Это изображение не существует</string>
+    <string name="please_agree_protocal">Примите Протокол</string>
     <string name="plus_one_submit_dialog_content">Ваш отчет вместе с журналами ошибок будет отправлен на серверы MIUI.</string>
     <string name="plus_one_submit_dialog_not_show_again">Запомнить выбор</string>
     <string name="post_miui_bbs_failed">Не удалось разместить на форуме MIUI</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_category_title">Конфиденциальность</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="privacy_policy_update_hint">"Политика конфиденциальности %1$s обновлена:
+%2$s
+Прежде чем продолжить, прочтите и примите обновленную %3$s."</string>
+    <string name="privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
+    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
+    <string name="protocal_dialog_cancel">Отмена</string>
+    <string name="protocal_dialog_confirm">Принимаю</string>
+    <string name="protocal_dialog_title">Внимание</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Войти с паролем</string>
     <string name="pull_to_refresh_pull_label">Потяните вниз для обновления</string>
@@ -671,6 +703,8 @@ ID: %s
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="qq_application_id"/>
     <string name="refresh">Обновить</string>
+    <string name="register_by_local_phone_long_text">Создать аккаунт</string>
+    <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="related_question_answer_details">Похожие проблемы</string>
     <string name="reply">Ответить</string>
     <string name="reply_failed">Не удалось ответить</string>
@@ -678,12 +712,18 @@ ID: %s
     <string name="reply_select_log_hint">Выберите журнал</string>
     <string name="reply_successful">Ответ успешно отправлен</string>
     <string name="report_miui">Отчет MIUI</string>
+    <string name="request_agree">Разрешить</string>
     <string name="request_camera_permission_message">"Этому сервису требуется разрешение, мы будем строго соблюдать соответствующие законы для защиты вашей личной информации: 
 	
 Доступ к камере: запись в режиме реального времени для установки аватара 
 
 Если вы не предоставите необходимые разрешения, функция не будет работать должным образом, но это не повлияет на использование основных функций приложения. Вы можете отозвать разрешение в любое время."</string>
+    <string name="request_cancel">Отмена</string>
     <string name="request_empty_data">Данных нет</string>
+    <string name="request_error_invalid_token">Не удалось проверить</string>
+    <string name="request_error_network">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="request_error_unknown">Ошибка системы. Вернитесь назад и повторите попытку.</string>
+    <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
     <string name="resend_active_email">Отправить снова</string>
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
     <string name="resend_email_reach_limit_title">Слишком много попыток</string>
@@ -715,6 +755,7 @@ ID: %s
     <string name="sign_in">Авторизация</string>
     <string name="sign_in_progress">Вход…</string>
     <string name="sign_in_title">Войти с Mi Аккаунтом</string>
+    <string name="skip_query_account">Пропустить</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
     <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
@@ -763,6 +804,7 @@ ID: %s
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="system_app_select">Система</string>
+    <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="systemui">Шторка уведомлений</string>
     <string name="tab_title_chat">Вопросы и ответы</string>
     <string name="tab_title_my_reports">Мои отчеты</string>
@@ -862,6 +904,7 @@ ID: %s
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="update_dialog_cancel">Отмена</string>
     <string name="update_dialog_confirm">Обновить</string>
     <string name="update_dialog_content_log">"Новое:
@@ -877,6 +920,8 @@ ID: %s
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_id_hint">Email/Phone/Mi Account ID</string>
+    <string name="user_must_known">Внимание</string>
+    <string name="user_name_phone_number">Номер телефона</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="v_code_title">Введите код подтверждения</string>
@@ -890,6 +935,11 @@ ID: %s
     <string name="wednesday_shortest">Ср</string>
     <string name="weibo_application_id"/>
     <string name="weibo_redirect_uri"/>
+    <string name="withdraw">Отозвать</string>
+    <string name="withdraw_consent">Отзыв согласия</string>
+    <string name="withdraw_consent_failed">Не удалось отозвать согласие</string>
+    <string name="withdraw_consent_failed_hint">Ошибка сервера. Попробуйте позже.</string>
+    <string name="withdrawing">Отзыв согласия…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
     <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
 Размер: %2$s"</string>
