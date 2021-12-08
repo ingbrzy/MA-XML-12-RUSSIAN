@@ -37,6 +37,9 @@
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_slave_wifi_hint">Отключите вспомогательную сеть Wi-Fi перед трансляцией</string>
     <string name="close_slave_wifi_hint_china">Отключите вспомогательную сеть Wi-Fi перед трансляцией</string>
+    <string name="config_wifi_label_china">Настройка MiPaiPai Wi-Fi</string>
+    <string name="config_wifi_label_global">Настройка MiPaiPai Wi-Fi</string>
+    <string name="connect_device_fail">Не удалось подключиться к устройству</string>
     <string name="console_guide_btn_got_it">Понятно</string>
     <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию при выключенном экране устройства (это может привести к повышенному расходу батареи).</string>
     <string name="console_guide_subtitle_private">Можно включить скрытие всплывающих уведомлений, входящих вызовов и другой конфиденциальной информацию</string>
@@ -81,6 +84,8 @@
     <string name="dialog_select_tv">Выберите устройство (%1$d)</string>
     <string name="dialog_show_help">Справка</string>
     <string name="disconnect">Остановить трансляцию</string>
+    <string name="dual_wifi_warning_china">Отключите двухдиапазонный Wi-Fi и повторите попытку</string>
+    <string name="dual_wifi_warning_global">Отключите двухдиапазонный Wi-Fi и повторите попытку</string>
     <string name="early_morning">Утро</string>
     <string name="enable_screen_projection_summary">Вывод на внешний монитор</string>
     <string name="eras_ad">н. э.</string>
@@ -272,6 +277,7 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
+    <string name="msg_send_fail">Не удалось передать данные</string>
     <string name="nfc_connect_failed_toast">Трансляция не удалась. Повторите попытку.</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
@@ -287,6 +293,11 @@
     <string name="notify">Трансляция работает в фоновом режиме</string>
     <string name="open_game_accelerate">Включить Ускорение игр</string>
     <string name="p2p_location_des">Для подключения  устройства к внешним мониторам</string>
+    <string name="paipai_connect_btn_text">Готово</string>
+    <string name="paipai_connect_tv1_text">Подключение к устройству</string>
+    <string name="paipai_connect_tv2_text">Передача данных</string>
+    <string name="paipai_error_dialog_msg">Проверьте настройки сети и повторите попытку</string>
+    <string name="paipai_error_dialog_negative">Понятно</string>
     <string name="path_setting_cast">Подключения/Трансляция</string>
     <string name="path_setting_cast_demo">Подключения/Трансляция/Демонстрация</string>
     <string name="path_setting_cast_demo_document">Подключения/Трансляция/Демонстрация/Документы</string>
@@ -359,6 +370,8 @@
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="scan_wifi_label_china">Connect to Wi-Fi</string>
+    <string name="scan_wifi_label_global">Connect to Wi-Fi</string>
     <string name="screen_projection">Трансляция</string>
     <string name="screen_projection_characteristics">Специальные функции</string>
     <string name="screen_projection_characteristics_off_screen_summary">Трансляция с выключенным экраном уменьшает расход батареи.</string>
@@ -380,6 +393,7 @@
     <string name="sdk_name">lebo</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
+    <string name="show_result_on_tv">Посмотреть результаты на ТВ</string>
     <string name="small_window">Плавающее окно</string>
     <string name="small_window_not_supported">Не удалось минимизировать окно приложения, ведущего трансляцию</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
@@ -462,6 +476,7 @@
     <string name="toast_guide_show_more">Узнать больше</string>
     <string name="toast_guide_title">Новые функции</string>
     <string name="toast_invisible_mode">Включен режим инкогнито. Трансляция недоступна.</string>
+    <string name="toast_invisible_mode1">Включен режим инкогнито. Трансляция недоступна.</string>
     <string name="toast_msg_for_multi_window">Эта функция недоступна в режиме разделения экрана</string>
     <string name="toast_msg_for_small_window">Сверните окно во время трансляции, это позволит пользоваться другими функциями и приложениями на телефоне.</string>
     <string name="toast_nfc_dont_move">Не отодвигайте устройство</string>
@@ -484,5 +499,11 @@
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="wifi_connect_btn_text">Настройка</string>
+    <string name="wifi_other">Другие сети</string>
+    <string name="wifi_passwd_et_hint">Введите пароль</string>
+    <string name="wifi_recommendation">Выберите диапазон %1$d ГГц для улучшения трансляции</string>
+    <string name="wifi_scan_btn_text">Поиск</string>
+    <string name="wifi_username_et_hint">Введите ID аккаунта</string>
     <string name="yesterday">Вчера</string>
 </resources>
