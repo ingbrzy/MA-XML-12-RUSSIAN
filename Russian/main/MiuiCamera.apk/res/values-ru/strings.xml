@@ -50,7 +50,7 @@
     <string name="accessibility_bokeh_on">Размытие фона фронтальной камеры включено</string>
     <string name="accessibility_camera_lighting_close_panel">Закрытое меню световых эффектов</string>
     <string name="accessibility_camera_lighting_open_panel">Открытое меню световых эффектов</string>
-    <string name="accessibility_camera_liveshot_off">Динамические снимки выключены</string>
+    <string name="accessibility_camera_liveshot_off">Динамические снимки отключены</string>
     <string name="accessibility_camera_liveshot_on">Динамические снимки включены</string>
     <string name="accessibility_camera_picker">Переключение камеры</string>
     <string name="accessibility_camera_picker_finish">Камеры успешно переключены</string>
@@ -410,8 +410,8 @@
     <string name="camera_facedetection_sub_option_hint">Экспериментальная функция</string>
     <string name="camera_fastmotion_title">Таймлапс</string>
     <string name="camera_label">Камера</string>
-    <string name="camera_liveshot_off_tip">Живое фото отключено</string>
-    <string name="camera_liveshot_on_tip">Живое фото</string>
+    <string name="camera_liveshot_off_tip">Динамические снимки отключены</string>
+    <string name="camera_liveshot_on_tip">Динамические снимки</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="camera_newcta_audio_message">Для записи видео со звуком</string>
     <string name="camera_newcta_camera_message">Для съемки фото и видео</string>
@@ -1465,7 +1465,7 @@
     <string name="pref_camera_hdr_entry_off">Откл.</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">Сохранение снимков в высокоэффективном формате HEIF</string>
-    <string name="pref_camera_heic_image_format_description2">Высокоэффективный формат изображения уменьшает размер файлов, однако он может не поддерживаться некоторыми приложениями. Вы не сможете делать живые фотографии и удалять водяные знаки.</string>
+    <string name="pref_camera_heic_image_format_description2">Высокоэффективный формат изображения уменьшает размер файлов, однако он может не поддерживаться некоторыми приложениями. Вы не сможете делать динамические снимки и удалять водяные знаки.</string>
     <string name="pref_camera_heic_image_format_title">HEIC формат</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
@@ -1779,8 +1779,8 @@
     <string name="pref_retain_camera_mode_title">Сохранение режима</string>
     <string name="pref_retain_camera_status_description">Сохранять установки вместо сброса на значения по умолчанию</string>
     <string name="pref_retain_camera_status_title">Сохранение установок</string>
-    <string name="pref_retain_live_shot">Живые фото</string>
-    <string name="pref_retain_live_shot_description">Сохранять предыдущие установки \"Живые фото\"</string>
+    <string name="pref_retain_live_shot">Динамические снимки</string>
+    <string name="pref_retain_live_shot_description">Сохранять предыдущие установки для \"Динамических снимков\"</string>
     <string name="pref_s_n_r_s_c">Уменьшать шум в видео в зависимости от сцены</string>
     <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
     <string name="pref_scan_qrcode_title">Сканировать QR-коды</string>

@@ -214,7 +214,7 @@
     <string name="bh_no_sim">SIM-карта не установлена</string>
     <string name="bh_no_sim_inserted">SIM-карта не установлена</string>
     <string name="bh_none">Нет</string>
-    <string name="bh_not_contact">Ничего не найдено</string>
+    <string name="bh_not_contact">Номер отсутствует в контактах</string>
     <string name="bh_not_insert_card">Не вставлена</string>
     <string name="bh_notice">Внимание</string>
     <string name="bh_number_incorrect">Введите действующий номер телефона</string>
@@ -1403,8 +1403,8 @@
     <string name="permission_dailog_title">Требуются разрешения</string>
     <string name="permission_notice_desc_access_fine_location">Для импорта контактов с других устройств через Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Для использования голосовой почты и сообщений</string>
-    <string name="permission_notice_desc_call_phone">Для вызовов из сторонних приложений</string>
-    <string name="permission_notice_desc_call_phone_for_pad">Для вызовов из сторонних приложений</string>
+    <string name="permission_notice_desc_call_phone">Для вызовов с помощью ярлыков на рабочем столе</string>
+    <string name="permission_notice_desc_call_phone_for_pad">Для вызовов в сторонних приложениях</string>
     <string name="permission_notice_desc_camera">Для фото профиля </string>
     <string name="permission_notice_desc_read_call_logs">Для просмотра журнала вызовов </string>
     <string name="permission_notice_desc_read_contacts">Для просмотра контактов</string>
@@ -1416,7 +1416,7 @@
     <string name="permission_notice_desc_write_external_storage">Для добавления фото профиля и импорта визиток</string>
     <string name="permission_record_audio_desc">Для использования голоса при проверке личности</string>
     <string name="permission_retry_deny">Отмена</string>
-    <string name="permission_retry_dialog_msg">Для возможности использовать SIM-карту с этим приложением, управления контактами и обновления журнала вызовов, разрешите приложению доступ к контактам и журналу вызовов, а также доступ к информации об устройстве.</string>
+    <string name="permission_retry_dialog_msg">Для возможности использовать SIM-карту с этим приложением, для вызовов с помощью ярлыков на рабочем столе, управления контактами и обновления журнала вызовов, разрешите приложению доступ к контактам и журналу вызовов, а также доступ к информации об устройстве.</string>
     <string name="permission_retry_dialog_msg_pad">Для возможности использовать SIM-карту с этим приложением и управления контактами, разрешите приложению доступ к контактам и информации об устройстве.</string>
     <string name="permission_retry_setting">Настройки</string>
     <string name="permission_write_external_storage_desc">Для сохранения данных приложения</string>
@@ -1537,8 +1537,8 @@
     <string name="privacy_password_title4">Пароль обновлен</string>
     <string name="privacy_policy_and_user_agreement">Политика конфиденциальности и Пользовательское соглашение</string>
     <string name="privacy_settings_call_phone">Вызовы</string>
-    <string name="privacy_settings_call_phone_description">Осуществление вызовов в сторонних приложениях</string>
-    <string name="privacy_settings_call_phone_description_for_pad">Осуществление вызовов в сторонних приложениях</string>
+    <string name="privacy_settings_call_phone_description">Вызовы с помощью ярлыков на рабочем столе</string>
+    <string name="privacy_settings_call_phone_description_for_pad">Вызовы в сторонних приложениях</string>
     <string name="privacy_settings_call_phone_for_pad">Вызовы</string>
     <string name="privacy_settings_contacts">Контакты и Телефон</string>
     <string name="privacy_settings_contacts_for_pad">Конфиденциальность</string>

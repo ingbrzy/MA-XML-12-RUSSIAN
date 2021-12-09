@@ -140,16 +140,16 @@
     <string name="accessibility_data_signal_full">Сигнал передачи данных полный.</string>
     <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления.</string>
     <string name="accessibility_data_two_bars">Сигнал передачи данных: деления.</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда вы хотите:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Видеть цвета более точно&lt;/li> &lt;li>&amp;nbsp;Убрать цвета, чтобы сосредоточиться&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
-    <string name="accessibility_ethernet_connected">Подключено к Ethernet.</string>
-    <string name="accessibility_ethernet_disconnected">Отключено от Ethernet.</string>
+    <string name="accessibility_ethernet_connected">Ethernet.</string>
+    <string name="accessibility_ethernet_disconnected">Ethernet отключен.</string>
     <string name="accessibility_manual_zen_less_time">Уменьшить время.</string>
     <string name="accessibility_manual_zen_more_time">Увеличить время.</string>
     <string name="accessibility_no_calling">Нет вызова.</string>
     <string name="accessibility_no_data">Сигнал передачи данных отсутствует.</string>
     <string name="accessibility_no_phone">Сигнал сети отсутствует.</string>
-    <string name="accessibility_no_wifi">Wi-Fi отключен</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключен.</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
     <string name="accessibility_phone_signal_full">Сигнал сети полный.</string>
     <string name="accessibility_phone_three_bars">Сигнал сети: три деления.</string>
@@ -324,7 +324,7 @@
     <string name="battery_info_status_charging_slow">Медленная зарядка</string>
     <string name="battery_info_status_charging_wireless">Беспроводная зарядка</string>
     <string name="battery_info_status_discharging">Не заряжается</string>
-    <string name="battery_info_status_full">Батарея заряжена</string>
+    <string name="battery_info_status_full">Заряжена</string>
     <string name="battery_info_status_not_charging">Подключено, не заряжается</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
     <string name="bf_news_settings">Финансовые и деловые новости</string>
@@ -2538,7 +2538,7 @@ UT-интерфейс: %5$s"</string>
     <string name="smart_dual_sim_title">Умное переключение</string>
     <string name="smart_forwarding_settings_menu">Умная переадресация</string>
     <string name="smart_forwarding_settings_menu_summary">Перенаправлять вызовы на другой номер, если номер недоступен</string>
-    <string name="smart_multinetwork_acceleration_title">Умное ускорение мультисети</string>
+    <string name="smart_multinetwork_acceleration_title">Умное ускорение сети</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">Убедитесь, что номер правильный. В противном случае вы не сможете отправлять или получать SMS. Свяжитесь с вашим оператором, чтобы подтвердить номер SMS-центра.</string>
     <string name="softap_beacon_protection">Включить защиту SoftAp Beacon</string>
@@ -3038,7 +3038,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_connected_low_quality">Низкое качество</string>
     <string name="wifi_connected_mac_randomization">Рандомизация MAC-адреса</string>
     <string name="wifi_connected_mac_randomization_summary">Генерация случайного MAC-адреса при подключении к сетям Wi-Fi</string>
-    <string name="wifi_connected_no_internet">Подключено, без Интернета</string>
+    <string name="wifi_connected_no_internet">Подключено. Интернет отсутствует.</string>
     <string name="wifi_coverage_extend">Расширение покрытия Wi-Fi</string>
     <string name="wifi_coverage_extend_summary">Расширение покрытия Wi-Fi с использованием точки доступа</string>
     <string name="wifi_disabled_by_recommendation_provider">Подключение невозможно из-за низкого качества сети</string>
@@ -3049,7 +3049,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_disconnected">Не подключено</string>
     <string name="wifi_display_certification">Серт. беспроводн. мониторов</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводных мониторов</string>
-    <string name="wifi_enhanced_mac_randomization">Расширенная рандомизация MAC-адреса Wi-Fi</string>
+    <string name="wifi_enhanced_mac_randomization">Непостоянная рандомизация MAC-адреса Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к сети, в которой доступна рандомизация MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_hand_sel_wapi_cert">Сертификат WAPI</string>

@@ -42,6 +42,7 @@ call run_copy_translation.bat %1 Health
 call run_copy_translation.bat %1 HTMLViewer
 call run_copy_translation.bat %1 imssettings
 call run_copy_translation.bat %1 InCallUI
+call run_copy_translation.bat %1 InProcessTethering
 call run_copy_translation.bat %1 Joyose
 call run_copy_translation.bat %1 MaintenanceMode
 call run_copy_translation.bat %1 ManagedProvisioning

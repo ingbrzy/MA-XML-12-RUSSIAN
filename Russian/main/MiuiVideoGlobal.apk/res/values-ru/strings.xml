@@ -168,7 +168,7 @@
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Сменить пароль</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_nothing">Ничего не выбрано</string>
     <string name="choose">Выбрать</string>
     <string name="choose_to_signin">Да</string>
@@ -318,7 +318,7 @@ ID: %s
 &lt;br/&gt;Перед использованием Mi Видео прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>."</string>
     <string name="dialog_privacy_revoke_cancel">Отмена</string>
     <string name="dialog_privacy_revoke_count_down">Отзыв согласия (%1$d сек.)</string>
-    <string name="dialog_privacy_revoke_description">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Mi Видео. Мы перестанем собирать вашу личную информацию. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Отзыв согласия будет рассматриваться как отказ от онлайн-услуг.</string>
+    <string name="dialog_privacy_revoke_description">Вы собираетесь отозвать свое согласие с политикой конфиденциальности Mi Видео. Сбор вашей личной информации будет прекращен. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Отзыв согласия будет рассматриваться как отказ от онлайн-услуг.</string>
     <string name="dialog_privacy_revoke_fail">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="dialog_privacy_revoke_ok">Отзыв согласия</string>
     <string name="dialog_privacy_revoke_success">Успешно отозвано</string>
@@ -333,7 +333,7 @@ ID: %s
     <string name="disagree">Отказ</string>
     <string name="diy_channels_tips">Теперь вы можете настроить список ваших каналов.</string>
     <string name="do_not_show_again">Больше не показывать</string>
-    <string name="download">Загрузить</string>
+    <string name="download">Загрузки</string>
     <string name="download_checking_tip">Подготовка к загрузке…</string>
     <string name="download_complete">Загружено</string>
     <string name="download_completed_push_title">Загрузка завершена</string>
@@ -1751,5 +1751,5 @@ ID: %s
     <string name="ytb_logout">Выход</string>
     <string name="ytb_play_next">Следующее</string>
     <string name="ytb_subscribed">Подписки</string>
-    <string name="ytb_trending">Тренд</string>
+    <string name="ytb_trending">Популярное</string>
 </resources>

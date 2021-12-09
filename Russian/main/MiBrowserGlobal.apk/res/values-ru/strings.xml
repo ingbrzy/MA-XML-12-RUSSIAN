@@ -319,7 +319,7 @@
     <string name="category_folder">Папки</string>
     <string name="category_installed_app">Установленные приложения</string>
     <string name="category_midrive">Mi Диск</string>
-    <string name="category_move_limit_notice">Вы можете переместить в верхнюю панель от 3 до 7 объектов</string>
+    <string name="category_move_limit_notice">Вы можете переместить в верхнюю панель от %1$d до %2$d объектов</string>
     <string name="category_music">Музыка</string>
     <string name="category_other">Прочее</string>
     <string name="category_photo">Фото</string>
@@ -653,7 +653,7 @@ ID:%s
     <string name="download_btn_select_none">Снять выделение</string>
     <string name="download_business_app_new_version">Последняя версия приложения уже установлена</string>
     <string name="download_business_app_update_install">Обновление готово к установке.</string>
-    <string name="download_business_v5_edit_mode_title_empty">Ничего не выбрано</string>
+    <string name="download_business_v5_edit_mode_title_empty">Выберите объекты</string>
     <string name="download_change_dir">Изменить папку</string>
     <string name="download_complete">Успешно загружено</string>
     <string name="download_completed">Загружено</string>
@@ -676,7 +676,7 @@ ID:%s
     <string name="download_dialog_file_already_exists">Файл уже загружен</string>
     <string name="download_dialog_file_length_default_txt">Подождите…</string>
     <string name="download_dialog_file_length_hint_txt">"Размер файла: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Меньше 1КБ</string>
+    <string name="download_dialog_file_length_lessthan1kb">Меньше %1$d КБ</string>
     <string name="download_dialog_file_length_nolength_error_txt">Ошибка загрузки</string>
     <string name="download_dialog_file_length_nolength_txt">Подождите…</string>
     <string name="download_dialog_file_missing_body">Файл не найден. Он мог быть перемещен или удален.</string>
@@ -1090,9 +1090,9 @@ ID:%s
     <string name="lockpattern_need_to_unlock_wrong">Повторите</string>
     <string name="lockpattern_pattern_confirmed_header">Ваш графический ключ:</string>
     <string name="lockpattern_pattern_entered_header">Готово!</string>
-    <string name="lockpattern_recording_incorrect_too_short">Повторите попытку. Соедините не менее 4 точек.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Повторите попытку. Соедините не менее %1$d точек.</string>
     <string name="lockpattern_recording_inprogress">Уберите палец, когда завершите ввод графического ключа</string>
-    <string name="lockpattern_recording_intro_header">Соедините не менее 4 точек</string>
+    <string name="lockpattern_recording_intro_header">Соедините не менее %1$d точек</string>
     <string name="lockpattern_retry_button_text">Сброс</string>
     <string name="login_failed_toast">Не удалось войти, обновите и повторите попытку</string>
     <string name="login_or_register">или</string>
@@ -1103,7 +1103,7 @@ ID:%s
     <string name="make_private_msg_1">Скрыть этот файл?</string>
     <string name="make_private_msg_2">Скрыть эти файлы?</string>
     <string name="max_tabs_warning">Открыто максимальное количество вкладок</string>
-    <string name="maximum_input_alert">Нельзя ввести более 2048 символов</string>
+    <string name="maximum_input_alert">Нельзя ввести более %1$d символов</string>
     <string name="media_error_action_refresh">Обновить</string>
     <string name="media_error_action_replace_video_source">Не удалось изменить источник</string>
     <string name="media_error_failure">Не удалось воспроизвести видео</string>
@@ -2733,8 +2733,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">Использовано %2$s из %1$s</string>
     <string name="vpn_detail_guide1">Разблокируйте все серверы для увеличения скорости соединения</string>
     <string name="vpn_detail_guide2">Оформите подписку на VPN-службы для доступа к веб-сайтам</string>
-    <string name="vpn_detail_guide3">Трафик скоро закончится. Попробуйте 12-месячную подписку! Нажмите для просмотра доступных вариантов.</string>
-    <string name="vpn_detail_guide4">Трафик закончился. Попробуйте 12-месячную подписку! Нажмите для просмотра доступных вариантов.</string>
+    <string name="vpn_detail_guide3">Трафик скоро закончится. Попробуйте %1$d-месячную подписку! Нажмите для просмотра вариантов.</string>
+    <string name="vpn_detail_guide4">Трафик закончился. Попробуйте %1$d-месячную подписку! Нажмите для просмотра вариантов.</string>
     <string name="vpn_detail_guide5">Трафик скоро закончится</string>
     <string name="vpn_detail_guide6">Трафик закончился</string>
     <string name="vpn_detail_subscribe">Оформить подписку</string>
@@ -2776,8 +2776,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">Как это работает</string>
     <string name="whatsapp_intro_dialog_title">Новая функция</string>
     <string name="whatsapp_no_status_tips">Нет изображений или видео. Посмотрите статусы WhatsApp и вернитесь снова.</string>
-    <string name="whatsapp_principle_page_message">WhatsApp сохраняет просмотренные фото и видео в скрытую папку. Эти объекты удаляются каждые 24 часа. Теперь вы можете сохранять их при помощи Браузера.</string>
-    <string name="whatsapp_principle_page_title">Вы можете сохранять изображения и видео из статусов в WhatsApp при помощи Браузера</string>
+    <string name="whatsapp_principle_page_message">WhatsApp сохраняет просмотренные фото и видео в скрытую папку. Эти объекты удаляются каждые %1$d часа. Теперь вы можете сохранять их с помощью Браузера.</string>
+    <string name="whatsapp_principle_page_title">Вы можете сохранять изображения и видео из статусов в WhatsApp с помощью Браузера</string>
     <string name="whatsapp_principle_step_1">Откройте изображения и видео во вкладке \"Статус\" в приложении WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Вернитесь сюда, чтобы сохранить их.</string>
     <string name="whatsapp_status_saver">Сохранение статусов WhatsApp</string>

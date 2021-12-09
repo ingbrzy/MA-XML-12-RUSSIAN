@@ -74,7 +74,7 @@
     <string name="change_device_launcher">Измените панель запуска на устройстве</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chip_text">Текст</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="close_list">Закрыть список</string>
@@ -154,7 +154,7 @@
     <string name="fully_managed_device_provisioning_step_1_header">Держите свои рабочие приложения под рукой</string>
     <string name="fully_managed_device_provisioning_step_2_header">Данное устройство не является личным</string>
     <string name="fully_managed_device_provisioning_step_2_subheader">ИТ-администратор может видеть ваши данные и действия на этом устройстве.</string>
-    <string name="fully_managed_device_provisioning_summary">Используйте устройство для доступа к вашим рабочим приложениям. Данное устройство не является личным, ИТ-администратор может видеть ваши данные и действия. Для дополнительной информации, свяжитесь с вашим ИТ-администратором.</string>
+    <string name="fully_managed_device_provisioning_summary">Используйте устройство для доступа к вашим рабочим приложениям. Данное устройство не является личным, ИТ-администратор может видеть ваши данные и действия.</string>
     <string name="fully_managed_device_reset_and_return_button">Сброс и возврат устройства</string>
     <string name="fully_managed_device_with_permission_control_provisioning_summary">Используйте это устройство для доступа к рабочим приложениям. Это устройство не является личным, поэтому ИТ-администратор может видеть ваши действия и данные, а также устанавливать разрешения для приложений на устройстве, например, разрешения на микрофон, камеру и определение местоположения.</string>
     <string name="icon_content_description">Иконка диалога</string>
@@ -198,8 +198,8 @@
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
-    <string name="mtrl_picker_cancel">Отмена</string>
-    <string name="mtrl_picker_confirm">Сохранить</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_format">d MMM yyyy</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>

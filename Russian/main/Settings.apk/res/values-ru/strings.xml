@@ -128,14 +128,14 @@
     <string name="accessibility_dialog_button_deny">Запретить</string>
     <string name="accessibility_dialog_button_stop">Остановить</string>
     <string name="accessibility_disable_animations">Отключить анимацию</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда вы хотите:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Видеть цвета более точно&lt;/li> &lt;li>&amp;nbsp;Убрать цвета, чтобы сосредоточиться&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_display_inversion_preference_subtitle">Может снизить производительность</string>
     <string name="accessibility_display_inversion_preference_title">Инверсия цветов</string>
     <string name="accessibility_display_inversion_switch_title">Инверсия цветов</string>
     <string name="accessibility_enable">Включить</string>
-    <string name="accessibility_ethernet_connected">Подключено к Ethernet.</string>
-    <string name="accessibility_ethernet_disconnected">Отключено от Ethernet.</string>
+    <string name="accessibility_ethernet_connected">Ethernet.</string>
+    <string name="accessibility_ethernet_disconnected">Ethernet отключен.</string>
     <string name="accessibility_feature_state_off">Отключено</string>
     <string name="accessibility_feature_state_on">Включено</string>
     <string name="accessibility_global_gesture_preference_title">Быстрое включение</string>
@@ -185,7 +185,7 @@
     <string name="accessibility_no_phone">Сигнал сети отсутствует.</string>
     <string name="accessibility_no_service_selected">Сервис не выбран</string>
     <string name="accessibility_no_services_installed">Сервисы не установлены</string>
-    <string name="accessibility_no_wifi">Сигнал Wi-Fi отсутствует.</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключен.</string>
     <string name="accessibility_notification_vibration_title">Вибрация при оповещении</string>
     <string name="accessibility_personal_account_title">Личный аккаунт – %s</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
@@ -1106,7 +1106,7 @@
     <string name="battery_info_status_charging_slow">Медленная зарядка</string>
     <string name="battery_info_status_charging_usb">Заряжается от USB</string>
     <string name="battery_info_status_charging_wireless">Беспроводная зарядка</string>
-    <string name="battery_info_status_discharging">Разряжается</string>
+    <string name="battery_info_status_discharging">Не заряжается</string>
     <string name="battery_info_status_full">Заряжена</string>
     <string name="battery_info_status_label">Состояние батареи:</string>
     <string name="battery_info_status_not_charging">Подключено, не заряжается</string>
@@ -3841,7 +3841,7 @@
     <string name="game_settings_summary">Включение ярлыков игровой панели и прочее</string>
     <string name="game_settings_title">Настройки игр</string>
     <string name="game_storage_settings">Игры</string>
-    <string name="gd_setting_title">Умные инструменты</string>
+    <string name="gd_setting_title">Боковая панель</string>
     <string name="general_category_title">Общие</string>
     <string name="general_notification_header">Управление</string>
     <string name="general_text">Текстовое поле</string>
@@ -5860,8 +5860,8 @@
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
-    <string name="mtrl_picker_cancel">Отмена</string>
-    <string name="mtrl_picker_confirm">Сохранить</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_format">d MMM yyyy</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
@@ -10278,7 +10278,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_connect_frequency">Частота Wi-Fi:</string>
     <string name="wifi_connected_low_quality">Низкое качество</string>
     <string name="wifi_connected_mac_randomization">Рандомизация MAC-адреса</string>
-    <string name="wifi_connected_no_internet">Подключено, без доступа в интернет</string>
+    <string name="wifi_connected_no_internet">Подключено. Интернет отсутствует.</string>
     <string name="wifi_connected_to_message">Подключено к %1$s</string>
     <string name="wifi_connecting">Подключение…</string>
     <string name="wifi_connecting_to_message">Подключение к %1$s</string>
