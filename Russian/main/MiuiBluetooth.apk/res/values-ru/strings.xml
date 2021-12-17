@@ -791,7 +791,7 @@
     <string name="power_suggestion_battery_run_out">Батарея может разрядиться на %1$s</string>
     <string name="power_suggestion_extend_battery">Продлите время работы батареи на %1$s</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
-    <string name="private_dns_broken">Приватный DNS-сервер недоступен</string>
+    <string name="private_dns_broken">Частный DNS-сервер недоступен</string>
     <string name="private_dns_mode_off">Отключен</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
     <string name="private_dns_mode_provider">Вручную</string>
@@ -830,8 +830,8 @@
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
-    <string name="select_private_dns_configuration_dialog_title">Приватный DNS-сервер</string>
-    <string name="select_private_dns_configuration_title">Приватный DNS-сервер</string>
+    <string name="select_private_dns_configuration_dialog_title">Частный DNS-сервер</string>
+    <string name="select_private_dns_configuration_title">Частный DNS-сервер</string>
     <string name="select_usb_configuration_dialog_title">Конфигурация USB</string>
     <string name="select_usb_configuration_title">Конфигурация USB</string>
     <string name="select_webview_provider_dialog_title">Настройки сервиса WebView</string>
@@ -1185,7 +1185,7 @@
     <string name="wifitrackerlib_osu_opening_provider">Открытие %1$s</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Регистрация завершена. Подключение…</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
-    <string name="wifitrackerlib_private_dns_broken">Приватный DNS-сервер недоступен</string>
+    <string name="wifitrackerlib_private_dns_broken">Частный DNS-сервер недоступен</string>
     <string name="wifitrackerlib_saved_network">Сохранено %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Быстрая</string>
     <string name="wifitrackerlib_speed_label_medium">Средняя</string>

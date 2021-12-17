@@ -1407,7 +1407,7 @@
     <string name="label_available">Доступные сети</string>
     <string name="label_ndp">PIN-код для разблокировки сети SIM-карты</string>
     <string name="label_ndp_nck">NCK-код для разблокировки сети SIM-карты</string>
-    <string name="label_phoneid">Perso заблокирован</string>
+    <string name="label_phoneid">SIM-карта заблокирована для оператора</string>
     <string name="label_puk2_code">Введите PUK2</string>
     <string name="lable_all_incoming">Все входящие вызовы</string>
     <string name="lable_all_out_except">Исходящие международные вызовы (кроме домашних)</string>
@@ -1598,13 +1598,13 @@
     <string name="mobile_data_status_roaming_without_plan_subtext">Вы в роуминге, требуется тарифный план</string>
     <string name="mobile_geo_location_config_summary">Отмечать места с аномалиями сетевого сигнала для улучшения качества связи</string>
     <string name="mobile_geo_location_config_title">Оптимизация сети с фиксированной точкой</string>
-    <string name="mobile_intelligent_connection_title">Оптимизация мобильной сети</string>
+    <string name="mobile_intelligent_connection_title">Интеллектуальная оптимизация мобильной сети</string>
     <string name="mobile_network_dual_card_optimizationmobile_title">Мобильные сети</string>
     <string name="mobile_network_settings_not_available">Настройки мобильных сетей недоступны этому пользователю</string>
     <string name="mobile_networks">Мобильные сети</string>
     <string name="mobile_property">Свойства</string>
-    <string name="mobile_special_network_optimization_config_summary">Улучшение качества вызовов за счет автоматической адаптации к различным сценариям</string>
-    <string name="mobile_special_network_optimization_config_title">Адаптивный режим</string>
+    <string name="mobile_special_network_optimization_config_summary">Интеллектуальная обработка разных сценариев в сети для улучшения качества связи</string>
+    <string name="mobile_special_network_optimization_config_title">Сценарии адаптивного режима</string>
     <string name="mock_location_app">Выбрать приложение для фиктивных местоположений</string>
     <string name="mock_location_app_not_set">Нет приложения для фиктивных местоположений</string>
     <string name="mock_location_app_set">Приложение для создания фиктивных местоположений: %1$s</string>
@@ -2174,7 +2174,7 @@
     <string name="preferred_wificall_title">Режим сети</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
     <string name="privacy_setting">Конфиденциальность</string>
-    <string name="private_dns_broken">Приватный DNS-сервер недоступен</string>
+    <string name="private_dns_broken">Частный DNS-сервер недоступен</string>
     <string name="private_dns_mode_off">Отключено</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
     <string name="private_dns_mode_provider">Вручную</string>
@@ -2313,7 +2313,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reject_via_sms_summary">Показывать кнопку для завершения вызова и отправки SMS</string>
     <string name="reject_via_sms_title">Быстрые ответы</string>
     <string name="relay_call_answered_by_other_devices">Этот вызов принят на другом устройстве</string>
-    <string name="relay_call_released_due_to_connect_lost">Соединение было потеряно. Продолжайте вызов на отключенном устройстве.</string>
+    <string name="relay_call_released_due_to_connect_lost">Соединение было потеряно. Продолжайте разговор на отключенном устройстве.</string>
     <string name="relay_connection_service_label">Встроенная ретрансляция вызова</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="remove">Удалить</string>
@@ -2405,8 +2405,8 @@ UT-интерфейс: %5$s"</string>
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
-    <string name="select_private_dns_configuration_dialog_title">Приватный DNS-сервер</string>
-    <string name="select_private_dns_configuration_title">Приватный DNS-сервер</string>
+    <string name="select_private_dns_configuration_dialog_title">Частный DNS-сервер</string>
+    <string name="select_private_dns_configuration_title">Частный DNS-сервер</string>
     <string name="select_usb_configuration_dialog_title">Конфигурация USB</string>
     <string name="select_usb_configuration_title">Конфигурация USB</string>
     <string name="select_voice_call_sim">Выберите SIM-карту</string>
@@ -2838,7 +2838,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unknown">Неизвестный абонент</string>
     <string name="unlock_chances_left">"Осталось попыток: "</string>
     <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
-    <string name="unlock_success">Разблокировка сети успешно завершена.</string>
+    <string name="unlock_success">Сеть успешно разблокирована</string>
     <string name="updating_fdn_contact">Обновление разрешенного номера…</string>
     <string name="updating_settings">Обновление настроек…</string>
     <string name="updating_title">Настройка вызовов</string>
@@ -3138,7 +3138,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifitrackerlib_osu_opening_provider">Открытие %1$s</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Регистрация завершена. Подключение…</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
-    <string name="wifitrackerlib_private_dns_broken">Приватный DNS-сервер недоступен</string>
+    <string name="wifitrackerlib_private_dns_broken">Частный DNS-сервер недоступен</string>
     <string name="wifitrackerlib_saved_network">Сохранено %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Быстрая</string>
     <string name="wifitrackerlib_speed_label_medium">Средняя</string>

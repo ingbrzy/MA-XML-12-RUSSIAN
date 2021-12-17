@@ -47,7 +47,7 @@
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
-    <string name="checking_intranet">Проверка интранет-соединения, подождите...</string>
+    <string name="checking_intranet">Проверка интранет-соединения, подождите…</string>
     <string name="chip_text">Текст</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
@@ -298,9 +298,9 @@
     <string name="search_result_text">Приложения не найдены</string>
     <string name="send">Отправить</string>
     <string name="show_system_app">Показать системные приложения</string>
-    <string name="sleep_config_enhance_description">Когда MIUI определяет, что вы спите, фоновые процессы закрываются, ограничивается использование NFC, Bluetooth, GPS, мобильного интернета и Wi-Fi, экран при получении уведомлений не включается.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Когда MIUI определяет, что вы спите, фоновые процессы закрываются, ограничивается использование Bluetooth, GPS, мобильного интернета и Wi-Fi, экран при получении уведомлений не включается.</string>
-    <string name="sleep_config_enhance_description_pad">Когда MIUI определяет, что вы спите, фоновые процессы закрываются, ограничивается использование Bluetooth и Wi-Fi, экран при получении уведомлений не включается.</string>
+    <string name="sleep_config_enhance_description">Для экономии заряда батареи во время вашего сна, MIUI закроет фоновые приложения, ограничит использование NFC, Bluetooth, GPS, мобильных данных и Wi-Fi, не будет включать экран для уведомлений.</string>
+    <string name="sleep_config_enhance_description_non_nfc">Для экономии заряда батареи во время вашего сна, MIUI закроет фоновые приложения, ограничит использованиеBluetooth, GPS, мобильных данных и Wi-Fi, не будет включать экран для уведомлений.</string>
+    <string name="sleep_config_enhance_description_pad">Для экономии заряда батареи во время вашего сна, MIUI закроет фоновые приложения, ограничит использование Bluetooth и Wi-Fi, не будет включать экран для уведомлений.</string>
     <string name="sleep_config_enhance_title">Режим сна</string>
     <string name="sleepmode_disclaimer_agree">Принять</string>
     <string name="sleepmode_disclaimer_cancel">Отмена</string>

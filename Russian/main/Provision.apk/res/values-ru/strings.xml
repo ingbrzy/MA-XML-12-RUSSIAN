@@ -297,7 +297,7 @@
     <string name="other_settings_upload_debug_log_summary">"Помогите нам улучшить работу устройств MIUI, разрешив отправку диагностических данных, а также данных об использовании устройства и приложений. Это поможет улучшить время автономной работы, стабильность системы и приложений MIUI. "</string>
     <string name="other_settings_upload_debug_log_title">Использование и диагностика</string>
     <string name="other_settings_user_experience">Программа улучшения качества</string>
-    <string name="other_settings_user_experience_summary">Помогите нам улучшить продукты и сервисы, поделившись статистикой использования и аналитикой.</string>
+    <string name="other_settings_user_experience_summary">Помогите нам улучшить продукты и сервисы, поделившись статистикой использования.</string>
     <string name="other_settings_user_experience_summary_index">Подробности</string>
     <string name="permission_MIUIDaemon_introduction">MIUI Daemon позволяет передавать данные с устройства при повреждении дисплея</string>
     <string name="permission_access_calendar">Доступ к календарю</string>
@@ -353,7 +353,7 @@
     <string name="permission_photo_video_introduction">Для съемки фото и видео, для использования вспышки</string>
     <string name="permission_picture_introduction">Для сохранения, редактирования и синхронизации фото и видео</string>
     <string name="permission_read_app_list">Доступ к списку приложений на устройстве</string>
-    <string name="permission_read_application_list_summary">Для получения информации о приложениях и обновления загруженных приложений установщиком пакетов;</string>
+    <string name="permission_read_application_list_summary">Для обновления загруженных приложений и получения информации о приложениях установщиком пакетов;</string>
     <string name="permission_read_call_records">Редактирование журнала вызовов</string>
     <string name="permission_read_call_records_introduction">Для добавления записей в журнал вызовов и удаления заблокированных вызовов</string>
     <string name="permission_read_contacts">Доступ к контактам</string>
@@ -379,13 +379,13 @@
     <string name="permission_read_write_device_store_application_package_summary">Для разбора и сканирования установочных пакетов.</string>
     <string name="permission_read_write_device_store_camera_summary">Для сохранения снятых фото или видео на устройстве.</string>
     <string name="permission_read_write_device_store_download_summary">Для доступа, кэширования загруженного контента и управления им.</string>
-    <string name="permission_read_write_device_store_fast_application_summary">Для доступа Быстрым приложениям, кэширования и редактирования файлов;</string>
-    <string name="permission_read_write_file">Управление файлами и фото на устройстве:</string>
-    <string name="permission_read_write_file_introduction">Для доступа, сохранения и кэширования элементов на устройстве</string>
-    <string name="permission_read_write_phone_store">Для доступа к хранилищу устройства и сохранения файлов;</string>
-    <string name="permission_read_write_phone_store_summary">Для доступа и сохранения элементов рабочего стола;</string>
+    <string name="permission_read_write_device_store_fast_application_summary">Для доступа Быстрых приложений к файлам, их редактирования и кэширования;</string>
+    <string name="permission_read_write_file">Доступ к файлам и фото</string>
+    <string name="permission_read_write_file_introduction">Для доступа к файлам и фото на устройстве, сохранения и кэширования</string>
+    <string name="permission_read_write_phone_store">Доступ к хранилищу устройства</string>
+    <string name="permission_read_write_phone_store_summary">Для доступа к элементам рабочего стола и сохранения файлов;</string>
     <string name="permission_recorder_file_introduction">Для управления аудиозаписями</string>
-    <string name="permission_recording">Запись звонков и аудио:</string>
+    <string name="permission_recording">Запись вызовов и аудио:</string>
     <string name="permission_recording_introduction">Для записи звука во время съемки видео</string>
     <string name="permission_screen_shoot_introduction">Для управления записями экрана</string>
     <string name="permission_send_message">Отправлять SMS:</string>
@@ -480,7 +480,7 @@
     <string name="service_policy_adjust_content">Политика конфиденциальности Xunlei</string>
     <string name="service_policy_download"><Data>Перед использованием сервиса, прочитайте и примите &lt;a href=\"%1$s\"&gt;Политику конфиденциальности Xunlei&lt;/a &gt;.</Data></string>
     <string name="service_privacy_index">Политика конфиденциальности</string>
-    <string name="service_security_over_r"><Data>Перед использованием приложения Безопасность прочтите и примите нашу &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;br/>&lt;br/>В соответствии со стандартами Android 11, однократное разрешение будет отозвано в течение 5 секунд после завершения работы соответствующего приложения. Если приложение в течение этого периода времени будет запущено вновь, разрешение будет отозвано позже.</Data></string>
+    <string name="service_security_over_r"><Data>Прочтите и примите нашу &lt;a href=%1$s>Политику конфиденциальности&lt;/a>.&lt;br/>&lt;br/>В соответствии со стандартами Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>, однократное разрешение будет отозвано в течение определенного периода времени (около &lt;xliff:g example=5 сек. id=short>%3$s&lt;/xliff:g>) после завершения работы соответствующего приложения. Если приложение в течение этого периода времени будет запущено вновь, разрешение будет отозвано позже.</Data></string>	
     <string name="service_sim_activation">Активация SIM-карты</string>
     <string name="servicestate_title">Заявление об основных сервисах</string>
     <string name="setting_locale">Настройка региона…</string>
@@ -570,7 +570,7 @@
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">AI Настройка OS</string>
-    <string name="terms_of_use_label_package">, Установщик пакетов</string>
+    <string name="terms_of_use_label_package">, установщик пакетов</string>
     <string name="terms_of_use_label_parallel_windows">Разделение экрана</string>
     <string name="terms_of_use_label_phrase">, Частые фразы</string>
     <string name="terms_of_use_label_power_detection">Контроль батареи</string>
